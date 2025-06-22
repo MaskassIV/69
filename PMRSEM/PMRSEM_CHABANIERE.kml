@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>CHABANIERE_PMRSEM</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_6">
+		<name>CHABANIERE_PMRSEM</name>
+		<Schema name="CHABANIERE_PMRSEM" id="CHABANIERE_PMRSEM.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="PMRSEM">
+			<LineStyle>
+				<color>BF00faff</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C00faff</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.781">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">692280000D0887</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHABANIERE</SimpleData>
+					<SimpleData name="Adresse">LA ROCHE</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SEM</SimpleData>
+					<SimpleData name="Denomination">SEM DE CONSTRUCTION DU DPT DE L AIN</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.5858251025615 </north>
+			<south> 45.5856407329736 </south>
+			<east> 4.63892238984425 </east>
+			<west> 4.63830247206759 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.63830247206759,45.58579540234519,0 4.63855606637446,45.5858083695308,0 4.63883509584901,45.5858225866391,0 4.6388849402074,45.5858251025615,0 4.63892238984425,45.5857554753168,0 4.6389194168817,45.5857547080468,0 4.63889842863609,45.585760688185,0 4.63863700614104,45.5856911837119,0 4.63863736684332,45.5856903678523,0 4.63844631261202,45.5856407329736,0 4.63832733340042,45.58576856041121,0 4.63830247206759,45.58579540234519,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.782">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">692280000D0888</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHABANIERE</SimpleData>
+					<SimpleData name="Adresse">LA ROCHE</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SEM</SimpleData>
+					<SimpleData name="Denomination">SEM DE CONSTRUCTION DU DPT DE L AIN</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.585760688185 </north>
+			<south> 45.5855952618117 </south>
+			<east> 4.63894354456636 </east>
+			<west> 4.63844631261202 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.63844631261202,45.5856407329736,0 4.63863736684332,45.5856903678523,0 4.63863700614104,45.5856911837119,0 4.63889842863609,45.585760688185,0 4.6389194168817,45.5857547080468,0 4.63892238984425,45.5857554753168,0 4.63894354456636,45.5857160778875,0 4.63870526742887,45.5856528110987,0 4.6387056281299,45.58565199523889,0 4.63848870963425,45.5855952618117,0 4.63846011635167,45.5856260310447,0 4.63844631261202,45.5856407329736,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.783">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">692280000D0889</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHABANIERE</SimpleData>
+					<SimpleData name="Adresse">LA ROCHE</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SEM</SimpleData>
+					<SimpleData name="Denomination">SEM DE CONSTRUCTION DU DPT DE L AIN</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.5857160778875 </north>
+			<south> 45.58552285488501 </south>
+			<east> 4.63897066251349 </east>
+			<west> 4.63848870963425 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.63897066251349,45.58566578549189,0 4.63873949340538,45.5856043065774,0 4.63869553489968,45.5855926080475,0 4.63871134356293,45.5855632860133,0 4.63855622147233,45.58552285488501,0 4.63848870963425,45.5855952618117,0 4.6387056281299,45.58565199523889,0 4.63870526742887,45.5856528110987,0 4.63894354456636,45.5857160778875,0 4.63897066251349,45.58566578549189,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.784">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">692280000D0890</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHABANIERE</SimpleData>
+					<SimpleData name="Adresse">LA ROCHE</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SEM</SimpleData>
+					<SimpleData name="Denomination">SEM DE CONSTRUCTION DU DPT DE L AIN</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.5856043065774 </north>
+			<south> 45.58538041901739 </south>
+			<east> 4.63883810416108 </east>
+			<west> 4.63855622147233 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.63868874947422,45.58538041901739,0 4.63855622147233,45.58552285488501,0 4.63871134356293,45.5855632860133,0 4.63869553489968,45.5855926080475,0 4.63873949340538,45.5856043065774,0 4.63883810416108,45.5854210240853,0 4.63868874947422,45.58538041901739,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.785">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">692280000D0891</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHABANIERE</SimpleData>
+					<SimpleData name="Adresse">LA ROCHE</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SEM</SimpleData>
+					<SimpleData name="Denomination">SEM DE CONSTRUCTION DU DPT DE L AIN</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.58566578549189 </north>
+			<south> 45.5854210240853 </south>
+			<east> 4.63898623058757 </east>
+			<west> 4.63873949340538 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.63883810416108,45.5854210240853,0 4.63873949340538,45.5856043065774,0 4.63897066251349,45.58566578549189,0 4.63898623058757,45.5856370073258,0 4.63885629678351,45.58560251413961,0 4.63887296030107,45.5855717385496,0 4.63887166748179,45.5855713971249,0 4.6388860199474,45.5855448883663,0 4.63888485534591,45.5855445450729,0 4.638936897674,45.58544786515859,0 4.63883810416108,45.5854210240853,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.786">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">692280000D0892</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHABANIERE</SimpleData>
+					<SimpleData name="Adresse">LA ROCHE</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SEM</SimpleData>
+					<SimpleData name="Denomination">SEM DE CONSTRUCTION DU DPT DE L AIN</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.5856370073258 </north>
+			<south> 45.58544786515859 </south>
+			<east> 4.6390501864155 </east>
+			<west> 4.63885629678351 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.638936897674,45.58544786515859,0 4.63888485534591,45.5855445450729,0 4.6388860199474,45.5855448883663,0 4.63887166748179,45.5855713971249,0 4.63887296030107,45.5855717385496,0 4.63885629678351,45.58560251413961,0 4.63898623058757,45.5856370073258,0 4.63904641619385,45.58552507740141,0 4.6390501864155,45.5855137640671,0 4.63904971748435,45.5855022423255,0 4.63904502803577,45.5854911423741,0 4.63903640112443,45.5854813607565,0 4.63902449114611,45.5854733382678,0 4.63901008869759,45.58546778391889,0 4.638936897674,45.58544786515859,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

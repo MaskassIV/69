@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>RILLIEUX LA PAPE_region</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_2">
+		<name>RILLIEUX LA PAPE_region</name>
+		<Schema name="RILLIEUX LA PAPE_region" id="RILLIEUX LA PAPE_region.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="region">
+			<LineStyle>
+				<color>BF318006</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C318006</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_2.12">
+		<styleUrl>#region</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_2.schema">
+					<SimpleData name="Numero de Parcelle">69286000AH0181</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">RILLIEUX LA PAPE</SimpleData>
+					<SimpleData name="Adresse">LE CHATEAU</SimpleData>
+					<SimpleData name="Groupe de personne">Region</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COLL</SimpleData>
+					<SimpleData name="Denomination">REGION AUVERGNE-RHONE-ALPES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8022779791642 </north>
+			<south> 45.80214739704681 </south>
+			<east> 4.88287076569067 </east>
+			<west> 4.88268450910224 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.88271457433424,45.80214739704681,0 4.88268450910224,45.8021683454597,0 4.88284034195112,45.8022779791642,0 4.88287076569067,45.8022562140578,0 4.88271457433424,45.80214739704681,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_2.26">
+		<styleUrl>#region</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_2.schema">
+					<SimpleData name="Numero de Parcelle">69286000BP0001</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">RILLIEUX LA PAPE</SimpleData>
+					<SimpleData name="Adresse">LA GRUMETTE</SimpleData>
+					<SimpleData name="Groupe de personne">Region</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COLL</SimpleData>
+					<SimpleData name="Denomination">REGION AUVERGNE-RHONE-ALPES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8261630987822 </north>
+			<south> 45.8259481460745 </south>
+			<east> 4.87966299097145 </east>
+			<west> 4.87944892818055 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.87957015326324,45.8259481460745,0 4.87946943283857,45.8259982826234,0 4.87945032009395,45.8260083287868,0 4.87944892818055,45.82600907254999,0 4.87948313087014,45.82607894164979,0 4.87952477757796,45.8261630987822,0 4.87952656499312,45.8261626186592,0 4.87966299097145,45.8261281011716,0 4.87957015326324,45.8259481460745,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_2.66">
+		<styleUrl>#region</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_2.schema">
+					<SimpleData name="Numero de Parcelle">69286000AH0168</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">RILLIEUX LA PAPE</SimpleData>
+					<SimpleData name="Adresse">LE CHATEAU</SimpleData>
+					<SimpleData name="Groupe de personne">Region</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COLL</SimpleData>
+					<SimpleData name="Denomination">REGION AUVERGNE-RHONE-ALPES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.80427941661831 </north>
+			<south> 45.8025845278212 </south>
+			<east> 4.88380230040363 </east>
+			<west> 4.88238217572453 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.88286586280211,45.8025845278212,0 4.88254820470347,45.80278258586959,0 4.88248567091363,45.8031317672267,0 4.88247759819045,45.8031820734259,0 4.88247617696149,45.8031970495165,0 4.88247563160522,45.8031999409996,0 4.88247520882435,45.80320265028931,0 4.88247491475716,45.8032053574324,0 4.88247462375907,45.80320815459891,0 4.88247445840557,45.8032108595954,0 4.88247442483492,45.8032136524688,0 4.88247439126427,45.8032164453422,0 4.88247448333824,45.80321914604559,0 4.88247470719512,45.8032219346258,0 4.88247505669666,45.80322463103601,0 4.88247540926737,45.8032274174696,0 4.88247588748276,45.80323011173331,0 4.88247636876733,45.80323289602029,0 4.88247723312421,45.8032355838442,0 4.88247796876736,45.80323827381471,0 4.88247870441059,45.8032409637852,0 4.88247969748152,45.8032436494624,0 4.88248081926637,45.8032463329931,0 4.88248194105133,45.80324901652379,0 4.88248305976725,45.8032516100311,0 4.88248431640456,45.803254471462,0 4.88248544432816,45.8032573350396,0 4.88248669482741,45.8032600164236,0 4.88248795146511,45.8032628778545,0 4.88248933374764,45.8032656471154,0 4.88249071603031,45.8032684163763,0 4.88249210138228,45.8032712756606,0 4.88249335495135,45.803274047068,0 4.88249486901749,45.8032769042056,0 4.88249638001461,45.8032796713198,0 4.88249776229799,45.8032824405806,0 4.88249940200932,45.80328520554821,0 4.8825009130069,45.8032879726623,0 4.88250242400464,45.8032907397764,0 4.88250393193334,45.803293416867,0 4.88250557164531,45.80329618183449,0 4.88250721135744,45.8032989468019,0 4.88250885106974,45.8033017117693,0 4.8825104907822,45.8033044767367,0 4.88251225613959,45.803307149534,0 4.88251389585238,45.8033099145014,0 4.88251566121011,45.8033125872986,0 4.88251742656801,45.80331526009591,0 4.88251932064006,45.8033179307464,0 4.88252108599831,45.8033206035436,0 4.88252298007073,45.8033232741941,0 4.88252474542932,45.8033259469912,0 4.88252676821611,45.803328615495,0 4.88252853664429,45.80333137831551,0 4.88253029586495,45.8033338710656,0 4.8825321837998,45.8033363616691,0 4.88253393995155,45.8033387643957,0 4.88253557045865,45.8033412592924,0 4.88253745532475,45.8033436598724,0 4.88253946890507,45.80334605830559,0 4.88254148248555,45.8033484567388,0 4.88254349606622,45.803350855172,0 4.88254550964706,45.8033532536052,0 4.88254764887289,45.8033555598682,0 4.88254991681297,45.8033578639845,0 4.88255205603916,45.8033601702474,0 4.88255432397962,45.8033624743636,0 4.88255659192027,45.8033647784798,0 4.88255898550593,45.8033669904258,0 4.88256137909177,45.8033692023718,0 4.88256364396371,45.8033714164643,0 4.88256616319476,45.8033735362401,0 4.88256855678118,45.8033757481859,0 4.88271291901684,45.8034888161166,0 4.88238217572453,45.8036960993206,0 4.88266472052011,45.8038693746843,0 4.8826860526723,45.80385289553129,0 4.88271118980013,45.8038686897059,0 4.8826899802256,45.80388498667,0 4.88333295191712,45.80427941661831,0 4.88352273288687,45.8041607743569,0 4.88355173871291,45.8041427257988,0 4.88380230040363,45.80398613820829,0 4.88378795546171,45.8039544911729,0 4.88356865623987,45.8033625770869,0 4.88342058193198,45.803121846304,0 4.88325320489178,45.8029268350252,0 4.88306817199928,45.80275031314339,0 4.88286586280211,45.8025845278212,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_2.68">
+		<styleUrl>#region</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_2.schema">
+					<SimpleData name="Numero de Parcelle">69286000AH0170</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">RILLIEUX LA PAPE</SimpleData>
+					<SimpleData name="Adresse">LE CHAT</SimpleData>
+					<SimpleData name="Groupe de personne">Region</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COLL</SimpleData>
+					<SimpleData name="Denomination">REGION AUVERGNE-RHONE-ALPES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8036960993206 </north>
+			<south> 45.80278258586959 </south>
+			<east> 4.88271291901684 </east>
+			<west> 4.88172584949128 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.88172584949128,45.8032948610011,0 4.88238217572453,45.8036960993206,0 4.88271291901684,45.8034888161166,0 4.88256855678118,45.8033757481859,0 4.88256616319476,45.8033735362401,0 4.88256364396371,45.8033714164643,0 4.88256137909177,45.8033692023718,0 4.88255898550593,45.8033669904258,0 4.88255659192027,45.8033647784798,0 4.88255432397962,45.8033624743636,0 4.88255205603916,45.8033601702474,0 4.88254991681297,45.8033578639845,0 4.88254764887289,45.8033555598682,0 4.88254550964706,45.8033532536052,0 4.88254349606622,45.803350855172,0 4.88254148248555,45.8033484567388,0 4.88253946890507,45.80334605830559,0 4.88253745532475,45.8033436598724,0 4.88253557045865,45.8033412592924,0 4.88253393995155,45.8033387643957,0 4.8825321837998,45.8033363616691,0 4.88253029586495,45.8033338710656,0 4.88252853664429,45.80333137831551,0 4.88252676821611,45.803328615495,0 4.88252474542932,45.8033259469912,0 4.88252298007073,45.8033232741941,0 4.88252108599831,45.8033206035436,0 4.88251932064006,45.8033179307464,0 4.88251742656801,45.80331526009591,0 4.88251566121011,45.8033125872986,0 4.88251389585238,45.8033099145014,0 4.88251225613959,45.803307149534,0 4.8825104907822,45.8033044767367,0 4.88250885106974,45.8033017117693,0 4.88250721135744,45.8032989468019,0 4.88250557164531,45.80329618183449,0 4.88250393193334,45.803293416867,0 4.88250242400464,45.8032907397764,0 4.8825009130069,45.8032879726623,0 4.88249940200932,45.80328520554821,0 4.88249776229799,45.8032824405806,0 4.88249638001461,45.8032796713198,0 4.88249486901749,45.8032769042056,0 4.88249335495135,45.803274047068,0 4.88249210138228,45.8032712756606,0 4.88249071603031,45.8032684163763,0 4.88248933374764,45.8032656471154,0 4.88248795146511,45.8032628778545,0 4.88248669482741,45.8032600164236,0 4.88248544432816,45.8032573350396,0 4.88248431640456,45.803254471462,0 4.88248305976725,45.8032516100311,0 4.88248194105133,45.80324901652379,0 4.88248081926637,45.8032463329931,0 4.88247969748152,45.8032436494624,0 4.88247870441059,45.8032409637852,0 4.88247796876736,45.80323827381471,0 4.88247723312421,45.8032355838442,0 4.88247636876733,45.80323289602029,0 4.88247588748276,45.80323011173331,0 4.88247540926737,45.8032274174696,0 4.88247505669666,45.80322463103601,0 4.88247470719512,45.8032219346258,0 4.88247448333824,45.80321914604559,0 4.88247439126427,45.8032164453422,0 4.88247442483492,45.8032136524688,0 4.88247445840557,45.8032108595954,0 4.88247462375907,45.80320815459891,0 4.88247491475716,45.8032053574324,0 4.88247520882435,45.80320265028931,0 4.88247563160522,45.8031999409996,0 4.88247617696149,45.8031970495165,0 4.88247759819045,45.8031820734259,0 4.88248567091363,45.8031317672267,0 4.88254820470347,45.80278258586959,0 4.88172584949128,45.8032948610011,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_2.70">
+		<styleUrl>#region</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_2.schema">
+					<SimpleData name="Numero de Parcelle">69286000AH0171</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">RILLIEUX LA PAPE</SimpleData>
+					<SimpleData name="Adresse">LE CHATEAU</SimpleData>
+					<SimpleData name="Groupe de personne">Region</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COLL</SimpleData>
+					<SimpleData name="Denomination">REGION AUVERGNE-RHONE-ALPES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8032948610011 </north>
+			<south> 45.8024242141041 </south>
+			<east> 4.88286586280211 </east>
+			<west> 4.88147994878717 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.88267030942893,45.8024242141041,0 4.88236041671219,45.8026120537492,0 4.8822270467263,45.8026929129326,0 4.88210326827054,45.8027680273974,0 4.88194087652682,45.802866484311,0 4.88171476948222,45.80300374442479,0 4.88164448735368,45.8030463503575,0 4.88147994878717,45.80314610341339,0 4.88148126353103,45.80314689217019,0 4.88172584949128,45.8032948610011,0 4.88254820470347,45.80278258586959,0 4.88286586280211,45.8025845278212,0 4.88267083655416,45.80242456561059,0 4.88267030942893,45.8024242141041,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_2.77">
+		<styleUrl>#region</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_2.schema">
+					<SimpleData name="Numero de Parcelle">69286000AH0182</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">RILLIEUX LA PAPE</SimpleData>
+					<SimpleData name="Adresse">LE CHATEAU</SimpleData>
+					<SimpleData name="Groupe de personne">Region</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COLL</SimpleData>
+					<SimpleData name="Denomination">REGION AUVERGNE-RHONE-ALPES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8023121468229 </north>
+			<south> 45.8018238930225 </south>
+			<east> 4.88317090017992 </east>
+			<west> 4.88264972962816 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.88317090017992,45.8018238930225,0 4.88264979247021,45.8021435234579,0 4.88264972962816,45.8021718980147,0 4.88283010420725,45.802294993893,0 4.88286018082436,45.8023121468229,0 4.88288795710551,45.8022958303521,0 4.88315574094436,45.8021346332308,0 4.88317090017992,45.8018238930225,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+				<innerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.88271457433424,45.80214739704681,0 4.88287076569067,45.8022562140578,0 4.88284034195112,45.8022779791642,0 4.88268450910224,45.8021683454597,0 4.88271457433424,45.80214739704681,0 
+						</coordinates>
+					</LinearRing>
+				</innerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_2.92">
+		<styleUrl>#region</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_2.schema">
+					<SimpleData name="Numero de Parcelle">69286000AH0239</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">RILLIEUX LA PAPE</SimpleData>
+					<SimpleData name="Adresse">10, RTE DE GENEVE</SimpleData>
+					<SimpleData name="Groupe de personne">Region</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COLL</SimpleData>
+					<SimpleData name="Denomination">REGION AUVERGNE-RHONE-ALPES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8039586552573 </north>
+			<south> 45.8003014601702 </south>
+			<east> 4.8886896636773 </east>
+			<west> 4.88276551698882 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.8886896636773,45.8029644481128,0 4.88781120341752,45.802662890813,0 4.88753626089015,45.802618127809,0 4.88716429509441,45.8024438374629,0 4.88701030745559,45.8023357099982,0 4.88599789542625,45.8018634347366,0 4.88570430989463,45.8018118629617,0 4.88540772182875,45.8017025126257,0 4.88512427128419,45.80151772974931,0 4.88482239105955,45.8012494844855,0 4.88473978155617,45.801119444949,0 4.88465287996934,45.801033433469,0 4.88446125322459,45.8009881727409,0 4.88397730851945,45.8007886292624,0 4.88367483524523,45.8005782189232,0 4.88360679940107,45.8004260472681,0 4.88338091888831,45.8003014601702,0 4.88290188236954,45.800812068821,0 4.88289696907579,45.80095500915001,0 4.88288653942645,45.8012534202427,0 4.88288338788309,45.80133850326899,0 4.88297305606377,45.8013999696205,0 4.88280223464606,45.80152297871,0 4.88276551698882,45.8015489922207,0 4.88317090017992,45.8018238930225,0 4.88315574094436,45.8021346332308,0 4.88288795710551,45.8022958303521,0 4.88327432790279,45.8026701301507,0 4.88361434725736,45.8030672705011,0 4.88392649145292,45.8034097494552,0 4.88395809968726,45.8034453418542,0 4.88417327383667,45.8037539491783,0 4.8841775887058,45.8037520756607,0 4.8841975109492,45.803739583034,0 4.88426118483861,45.8036996078941,0 4.88495745154571,45.8032631007382,0 4.88568968616147,45.8033974222507,0 4.88602664577841,45.8034592586148,0 4.88607070994969,45.8034673496816,0 4.88627132803848,45.8035040806467,0 4.88652003159862,45.803549735695,0 4.88685401418328,45.8036110789274,0 4.88711347278308,45.8036586246244,0 4.88740674185954,45.8037345184029,0 4.88760676673244,45.8038103493963,0 4.88792736945608,45.8039586552573,0 4.88798088924811,45.8039494732336,0 4.8883660837617,45.8033691634255,0 4.88839899011924,45.8033786112223,0 4.8886896636773,45.8029644481128,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_2.193">
+		<styleUrl>#region</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_2.schema">
+					<SimpleData name="Numero de Parcelle">69286000BP0074</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">RILLIEUX LA PAPE</SimpleData>
+					<SimpleData name="Adresse">TERRES BOURDIN NORD</SimpleData>
+					<SimpleData name="Groupe de personne">Region</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COLL</SimpleData>
+					<SimpleData name="Denomination">REGION AUVERGNE-RHONE-ALPES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8259469819163 </north>
+			<south> 45.8250080741302 </south>
+			<east> 4.87953513808 </east>
+			<west> 4.87909866257659 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.87932439896966,45.8250080741302,0 4.87929485643213,45.8250409926544,0 4.87909866257659,45.8252574642219,0 4.87915996247557,45.8254156059806,0 4.8791731268934,45.82545033585991,0 4.87941821143964,45.8259469819163,0 4.87941896871379,45.8259465189397,0 4.8794571328383,45.8259284092827,0 4.87953513808,45.82588090268839,0 4.87940913197482,45.8256349343898,0 4.87936338839727,45.825290439686,0 4.87934456163618,45.8252029302641,0 4.87932439896966,45.8250080741302,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

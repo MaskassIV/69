@@ -1,0 +1,1084 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>GLEIZE_DEPT</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_3">
+		<name>GLEIZE_DEPT</name>
+		<Schema name="GLEIZE_DEPT" id="GLEIZE_DEPT.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="DEPT">
+			<LineStyle>
+				<color>BF63f16c</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C63f16c</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.121">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69092000AH0038</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GLEIZE</SimpleData>
+					<SimpleData name="Adresse">OUILLY</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0014515298124 </north>
+			<south> 46.0007826188135 </south>
+			<east> 4.70562538125519 </east>
+			<west> 4.70464113703318 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.70464113703318,46.00140462740389,0 4.70483636781019,46.0014278099596,0 4.7050257994201,46.0014515298124,0 4.7051211791284,46.0014097428116,0 4.70537023477842,46.00130556563769,0 4.70557278301373,46.00121875108681,0 4.70560396459312,46.001157304087,0 4.70562199330645,46.0011176719607,0 4.70562538125519,46.001068532675,0 4.70560995871625,46.0010212978591,0 4.70558939716671,46.0009875608767,0 4.70555605851375,46.0009502333039,0 4.70552515996889,46.00092908162789,0 4.70547909125613,46.00090635692009,0 4.70542835805249,46.0008832520629,0 4.705319079222,46.0008643610924,0 4.70493076065599,46.0008077871782,0 4.70475976813331,46.0007826188135,0 4.70476742163442,46.00079187094391,0 4.70485613972094,46.0008145846016,0 4.70493620930467,46.0008459850199,0 4.70496570780313,46.00085950195451,0 4.70500480791814,46.0008867451881,0 4.70505250886252,46.00093295384671,0 4.70509401968069,46.00099627892671,0 4.70510587992313,46.0010203293058,0 4.70511671344423,46.0012322816195,0 4.70512027194064,46.0012720390975,0 4.7051125015994,46.0013257478324,0 4.70509678186361,46.0013606614669,0 4.70508057107254,46.001379730131,0 4.70505652553828,46.0013962146045,0 4.70502554675475,46.0014100112442,0 4.70499976212506,46.00141625387429,0 4.70496957492926,46.00141805924591,0 4.70469472238405,46.0014071536901,0 4.70464113703318,46.00140462740389,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.720">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69092000AS0113</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GLEIZE</SimpleData>
+					<SimpleData name="Adresse">CHABERT</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.98131647285491 </north>
+			<south> 45.9809204447066 </south>
+			<east> 4.69437018876327 </east>
+			<west> 4.69384783547732 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.69437018876327,45.98131647285491,0 4.69435092068069,45.9812991074207,0 4.69421282322689,45.9812156070133,0 4.6941821219059,45.98119616084761,0 4.69395172509139,45.9810815256445,0 4.69389918769053,45.9810578124611,0 4.6938667577124,45.98098218840541,0 4.6938758392045,45.9809204447066,0 4.6938536053327,45.9809620293162,0 4.69384783547732,45.9810054392751,0 4.69386277793728,45.98104178418561,0 4.69388203300564,45.9810629328328,0 4.69390765734321,45.9810853372568,0 4.69409506817047,45.9811801697148,0 4.69437018876327,45.98131647285491,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.865">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69092000AI0012</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GLEIZE</SimpleData>
+					<SimpleData name="Adresse">OUILLY</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0012470076435 </north>
+			<south> 46.0011193689206 </south>
+			<east> 4.70728368385744 </east>
+			<west> 4.70671605808595 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.70684551421355,46.0011542772646,0 4.70701804577451,46.0011914887388,0 4.70727269850835,46.0012470076435,0 4.70728368385744,46.0012178394621,0 4.70697232537534,46.0011633551613,0 4.70671738487336,46.0011193689206,0 4.70671605808595,46.00112659453,0 4.70684551421355,46.0011542772646,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1172">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69092000AC0135</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GLEIZE</SimpleData>
+					<SimpleData name="Adresse">OUILLY</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0019339286934 </north>
+			<south> 46.0018512361016 </south>
+			<east> 4.70168479122548 </east>
+			<west> 4.70077255073834 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.70078931916337,46.0018952170143,0 4.70077255073834,46.0019339286934,0 4.70084777392901,46.0019298270515,0 4.700974900604,46.0019281885914,0 4.7011749863321,46.0019244636688,0 4.70125237500811,46.0019193384688,0 4.70148162593618,46.00189328798639,0 4.70168479122548,46.0018512361016,0 4.70166144770744,46.0018528477188,0 4.70164753191517,46.0018542276529,0 4.70141907694816,46.0018767537855,0 4.70127045216515,46.0018895240026,0 4.70109818870767,46.0018943625234,0 4.70087938073794,46.0018944953877,0 4.70078931916337,46.0018952170143,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1241">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69092000AC0139</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GLEIZE</SimpleData>
+					<SimpleData name="Adresse">OUILLY</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0032627374835 </north>
+			<south> 46.0018395959026 </south>
+			<east> 4.70078931916337 </east>
+			<west> 4.69444878426442 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.69449211936329,46.0030369143041,0 4.69444878426442,46.0031741985799,0 4.69479758814313,46.00323175991401,0 4.69498465974612,46.0032627374835,0 4.69507384950838,46.00299452573431,0 4.69505565778989,46.0029913752601,0 4.6951138736848,46.0028085628778,0 4.69510764023391,46.002790822291,0 4.69517102840987,46.0025871263183,0 4.69523576147523,46.0023977313041,0 4.69527513640664,46.0023207627621,0 4.69529744995843,46.0022815186281,0 4.69532900108295,46.00224006464391,0 4.69539034496875,46.0021797905262,0 4.69546946921549,46.0021177190872,0 4.69554828028425,46.0020664606755,0 4.6956479246144,46.0020202045176,0 4.69578663831692,46.00197516485981,0 4.69587214312241,46.00195659149611,0 4.69595151758609,46.0019445948789,0 4.69605186571521,46.0019379586202,0 4.69615134408456,46.0019366494243,0 4.69635670006169,46.0019445632105,0 4.69669486693746,46.001959134357,0 4.6971275699182,46.0019797641498,0 4.69728210628285,46.0019868162947,0 4.69773699076652,46.0019890974366,0 4.69828761010149,46.001990211867,0 4.69893535063189,46.0019931997818,0 4.69953989878185,46.001995390845,0 4.70011368414461,46.00199749992001,0 4.70024729531018,46.0019965755977,0 4.70028902741115,46.0019877528935,0 4.70032740345984,46.0019790706142,0 4.70039907714047,46.0019646644832,0 4.70045509749168,46.00195814922121,0 4.70052585052539,46.0019515929274,0 4.70077255073834,46.0019339286934,0 4.70078931916337,46.0018952170143,0 4.70032141544378,46.0018940442401,0 4.69992245370548,46.0018946272392,0 4.69948259989522,46.0018935705239,0 4.69900953992699,46.0018928299635,0 4.698640408867,46.0018926007893,0 4.69825097904539,46.00189213428159,0 4.69795238594931,46.0018909355187,0 4.69761829468284,46.0018911686101,0 4.69739459020878,46.0018875851769,0 4.69712800601326,46.0018807706606,0 4.69696367409717,46.0018745855992,0 4.6966766052605,46.001861501751,0 4.69643166888924,46.0018525599877,0 4.69621053321486,46.0018442521139,0 4.6960883825081,46.0018395959026,0 4.69599941272067,46.0018421888467,0 4.69591938569856,46.0018497818389,0 4.69582352559213,46.00186364647049,0 4.69573471203996,46.0018838905854,0 4.69567740456936,46.0018989794205,0 4.69563156405161,46.0019129058274,0 4.69555726871367,46.0019429302698,0 4.69545784518346,46.0019921553539,0 4.69538694535926,46.00203590957219,0 4.6952846156354,46.00211246919439,0 4.6952168912603,46.0021795939777,0 4.69517409056788,46.0022334657766,0 4.69513778239341,46.00228832125131,0 4.69510371780886,46.0023656606369,0 4.69507284706634,46.00246276761769,0 4.69502281161097,46.0025964595261,0 4.69497227813853,46.0027391658563,0 4.69493938038952,46.0028334208809,0 4.69490677687791,46.0028784932898,0 4.6948619254283,46.0029245595509,0 4.69480447496026,46.002964419304,0 4.69473939169698,46.0029956564206,0 4.69469034365715,46.0030145842588,0 4.69462689355832,46.0030275126769,0 4.69456498423264,46.0030359145148,0 4.69449211936329,46.0030369143041,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1273">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69092000AN0140</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GLEIZE</SimpleData>
+					<SimpleData name="Adresse">352, RUE DE L ANCIENNE DISTILLERIE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9968218254741 </north>
+			<south> 45.99609648413009 </south>
+			<east> 4.70171795020359 </east>
+			<west> 4.70072356080729 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.70075456706711,45.99609648413009,0 4.70074144193759,45.99639517357619,0 4.70073009258912,45.9966300667102,0 4.70072356080729,45.9967992263935,0 4.70146786750263,45.9968218254741,0 4.701496310172,45.9966675584562,0 4.70153323966272,45.9965411757628,0 4.70159173573268,45.99640176920539,0 4.70164571169131,45.9963000798343,0 4.70171795020359,45.9961913608235,0 4.7014842244512,45.996113718558,0 4.70075456706711,45.99609648413009,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1274">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69092000AR0140</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GLEIZE</SimpleData>
+					<SimpleData name="Adresse">RUE OLIVIER MESSIAEN</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9897319832835 </north>
+			<south> 45.9894360859194 </south>
+			<east> 4.70721322815358 </east>
+			<west> 4.70686454783253 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.70686454783253,45.9894568342069,0 4.70698007096835,45.989561105951,0 4.70717635370303,45.9897319832835,0 4.70721322815358,45.9897126928636,0 4.70690253993232,45.9894360859194,0 4.70686454783253,45.9894568342069,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1318">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69092000AR0143</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GLEIZE</SimpleData>
+					<SimpleData name="Adresse">CHE DES GRANDS MOULINS</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9894568342069 </north>
+			<south> 45.988787351311 </south>
+			<east> 4.70690253993232 </east>
+			<west> 4.70612263699211 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.70686454783253,45.9894568342069,0 4.70690253993232,45.9894360859194,0 4.70657670400472,45.9891459256551,0 4.70656216545712,45.9891312831175,0 4.70626027111622,45.9888588653798,0 4.70630157939549,45.9888200532795,0 4.70612263699211,45.988787351311,0 4.70621897012527,45.98887290803069,0 4.70634769304883,45.9889904020073,0 4.70646974381689,45.98910106096089,0 4.70656852846243,45.9891906336261,0 4.70664708433748,45.98926123598,0 4.70686454783253,45.9894568342069,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1504">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69092000AC0154</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GLEIZE</SimpleData>
+					<SimpleData name="Adresse">1724, RTE DE MONTMELAS</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0001062465766 </north>
+			<south> 46.00002044438411 </south>
+			<east> 4.69863345877361 </east>
+			<west> 4.69789143845657 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.69862803896322,46.0001062465766,0 4.69863345877361,46.00008923213831,0 4.69826676899453,46.00005464863201,0 4.69811253237308,46.000040387812,0 4.6980666439439,46.0000359416649,0 4.69789272469862,46.00002044438411,0 4.69789143845657,46.0000373968307,0 4.69797336558332,46.0000412128182,0 4.69816834005303,46.0000605375785,0 4.69862803896322,46.0001062465766,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1813">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69092000AN0173</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GLEIZE</SimpleData>
+					<SimpleData name="Adresse">674, RUE DES GRILLONS</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9968227750487 </north>
+			<south> 45.9961913608235 </south>
+			<east> 4.70174661748488 </east>
+			<west> 4.70146786750263 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.70174661748488,45.99620317970231,0 4.70171795020359,45.9961913608235,0 4.70164571169131,45.9963000798343,0 4.70159173573268,45.99640176920539,0 4.70153323966272,45.9965411757628,0 4.701496310172,45.9966675584562,0 4.70146786750263,45.9968218254741,0 4.70150059288482,45.9968227750487,0 4.70149817423449,45.9967947094944,0 4.70151250856556,45.99673585852331,0 4.70152862623183,45.99667617013149,0 4.70154870979336,45.9966026414335,0 4.70158006526636,45.9965175045046,0 4.70160565635614,45.9964507383948,0 4.70164432603679,45.9963681036083,0 4.70168195225328,45.9963018772484,0 4.70172143301953,45.99624129743359,0 4.70174661748488,45.99620317970231,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1917">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69092000AC0180</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GLEIZE</SimpleData>
+					<SimpleData name="Adresse">OUILLY</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0004267568199 </north>
+			<south> 45.9999909569185 </south>
+			<east> 4.69789272469862 </east>
+			<west> 4.69628095471329 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.69733485785955,45.9999932265394,0 4.69718268823785,46.0000040630282,0 4.69703110747507,46.0000172323111,0 4.69688538566966,46.000027611529,0 4.69673158370757,46.0000400030501,0 4.69666176470811,46.0000474437161,0 4.69655026591635,46.000061182951,0 4.6965196429637,46.0000656046346,0 4.69648259554552,46.00007543664909,0 4.69644969023726,46.0000854768331,0 4.69641819330936,46.0000992788577,0 4.69639474295991,46.0001183645803,0 4.69637858075706,46.000143285783,0 4.69635780363943,46.0001862000196,0 4.69633274742393,46.0002580007292,0 4.69628095471329,46.0004267568199,0 4.69638534131748,46.0001403923773,0 4.69645587961469,46.0000934003777,0 4.69655794143373,46.0000753891348,0 4.69662754653778,46.0000693928572,0 4.69675953921973,46.0000580486957,0 4.69698074740014,46.0000396035089,0 4.69720014412205,46.0000210949566,0 4.69727050052287,46.0000185096873,0 4.69748557151632,46.0000106035831,0 4.69789272469862,46.00002044438411,0 4.69753200866621,45.999995136264,0 4.69744425461277,45.9999909569185,0 4.69733485785955,45.9999932265394,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1950">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69092000AO0183</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GLEIZE</SimpleData>
+					<SimpleData name="Adresse">93, RUE OLIVIER MESSIAEN</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.98975445729071 </north>
+			<south> 45.989561105951 </south>
+			<east> 4.70717635370303 </east>
+			<west> 4.70693633938976 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.70693633938976,45.989584282588,0 4.70713143732094,45.98975445729071,0 4.70717635370303,45.9897319832835,0 4.70698007096835,45.989561105951,0 4.70693633938976,45.989584282588,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2007">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69092000AO0187</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GLEIZE</SimpleData>
+					<SimpleData name="Adresse">RUE OLIVIER MESSIAEN</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.989584282588 </north>
+			<south> 45.9887721835023 </south>
+			<east> 4.70698007096835 </east>
+			<west> 4.70603533459198 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.70603533459198,45.9887721835023,0 4.7063254199268,45.9890346918521,0 4.70665037491004,45.9893256767164,0 4.7068948894477,45.989547708225,0 4.70693633938976,45.989584282588,0 4.70698007096835,45.989561105951,0 4.70686454783253,45.9894568342069,0 4.70664708433748,45.98926123598,0 4.70656852846243,45.9891906336261,0 4.70646974381689,45.98910106096089,0 4.70634769304883,45.9889904020073,0 4.70621897012527,45.98887290803069,0 4.70612263699211,45.988787351311,0 4.70603533459198,45.9887721835023,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2218">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69092000AH0020</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GLEIZE</SimpleData>
+					<SimpleData name="Adresse">OUILLY</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0014633533463 </north>
+			<south> 46.00084496829101 </south>
+			<east> 4.70571767978641 </east>
+			<west> 4.7050257994201 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.705319079222,46.0008643610924,0 4.70542835805249,46.0008832520629,0 4.70547909125613,46.00090635692009,0 4.70552515996889,46.00092908162789,0 4.70555605851375,46.0009502333039,0 4.70558939716671,46.0009875608767,0 4.70560995871625,46.0010212978591,0 4.70562538125519,46.001068532675,0 4.70562199330645,46.0011176719607,0 4.70560396459312,46.001157304087,0 4.70557278301373,46.00121875108681,0 4.70537023477842,46.00130556563769,0 4.7051211791284,46.0014097428116,0 4.7050257994201,46.0014515298124,0 4.70518231492539,46.0014598924418,0 4.70526953285013,46.0014633533463,0 4.70530903526339,46.0014618580257,0 4.70535103846734,46.001453479709,0 4.70540461125891,46.0014347492759,0 4.70546046909874,46.0014063469027,0 4.70550251420931,46.0013701361967,0 4.70554999902178,46.0013051111755,0 4.70563528192691,46.0011919599737,0 4.70569225542679,46.00109950074581,0 4.70571386569837,46.0010545005342,0 4.70571767978641,46.0010232788052,0 4.70571349210453,46.00099659099719,0 4.70570256379147,46.00097342734859,0 4.7056814132989,46.0009498771863,0 4.70565132409543,46.0009256509704,0 4.70562097853945,46.0009056619074,0 4.70559364724669,46.0008953550406,0 4.7055286428756,46.0008830033043,0 4.70530296901806,46.00084496829101,0 4.705319079222,46.0008643610924,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2492">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69092000AE0022</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GLEIZE</SimpleData>
+					<SimpleData name="Adresse">OUILLY</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0034483663024 </north>
+			<south> 46.0031265443422 </south>
+			<east> 4.7030099221643 </east>
+			<west> 4.70203060626636 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.70203060626636,46.0032076315175,0 4.70206209385078,46.0034483663024,0 4.70274502285893,46.00340171579689,0 4.7030099221643,46.0033830526891,0 4.70298650446397,46.0033405313043,0 4.7029750587576,46.0031837110562,0 4.70296721463221,46.0031265443422,0 4.70281743249939,46.0031396041503,0 4.70259971025123,46.0031582783956,0 4.70203060626636,46.0032076315175,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2615">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69092000AE0023</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GLEIZE</SimpleData>
+					<SimpleData name="Adresse">282, AV DES CHARMILLES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0032076315175 </north>
+			<south> 46.00189670873669 </south>
+			<east> 4.70296721463221 </east>
+			<west> 4.70164669143617 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.70223122468723,46.00189670873669,0 4.70203140390407,46.00192988448359,0 4.70164669143617,46.0019942092667,0 4.70165500001938,46.0020204750177,0 4.70180419337571,46.00249407450499,0 4.7018238133814,46.00255592817369,0 4.70202768443277,46.0032009201529,0 4.70203060626636,46.0032076315175,0 4.70259971025123,46.0031582783956,0 4.70281743249939,46.0031396041503,0 4.70296721463221,46.0031265443422,0 4.70295910913271,46.0030818112396,0 4.70295383038179,46.0030657680285,0 4.70284509699954,46.0028349313291,0 4.70278031300803,46.0026961161725,0 4.70267748641717,46.00246816286679,0 4.70266451131428,46.00245817994579,0 4.70243683945233,46.00228470367541,0 4.70234138708224,46.00221146987101,0 4.70223122468723,46.00189670873669,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3043">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69092000AH0027</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GLEIZE</SimpleData>
+					<SimpleData name="Adresse">EPINAY</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0018659377462 </north>
+			<south> 46.0013831741341 </south>
+			<east> 4.70532761360534 </east>
+			<west> 4.70237581916355 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.70531936230379,46.0018659377462,0 4.70532761360534,46.00183609036581,0 4.7053193194214,46.00178532554,0 4.70530666872637,46.0017524601961,0 4.70528620920058,46.0017136776896,0 4.70526395536787,46.0016878923007,0 4.70525392498575,46.0016686781837,0 4.70520173609802,46.001619474763,0 4.70515917054753,46.0015888610801,0 4.70511643232469,46.001565185388,0 4.70503482812048,46.0015343485982,0 4.70466425091828,46.00149155764021,0 4.70415397980345,46.0014326727573,0 4.7039763908045,46.0013990457471,0 4.70389014706741,46.001385301196,0 4.70382196956932,46.0013831741341,0 4.70377751915374,46.0013834823689,0 4.70365181198566,46.0013975323323,0 4.7034712497993,46.0014223147253,0 4.70332468975538,46.0014516295284,0 4.70325073580359,46.0014716561658,0 4.70315178218244,46.0015024166674,0 4.7030272664692,46.001546621526,0 4.7029434010779,46.0015804876199,0 4.70271998307882,46.0016487863974,0 4.70252566484703,46.0017052085015,0 4.70239861218645,46.0017384622217,0 4.70239819572897,46.00174171100539,0 4.70237581916355,46.0018288748857,0 4.70257599412666,46.001769572854,0 4.70300272906513,46.00164327539751,0 4.70326104515872,46.0015667053424,0 4.70333652993628,46.00154602519229,0 4.70339435349115,46.0015351579849,0 4.70361369277018,46.0015021366355,0 4.70376072209257,46.00148380296359,0 4.70392310377552,46.0014687509285,0 4.70408667406981,46.0014628679402,0 4.70424761051791,46.00146792283161,0 4.70444826050608,46.0014824678634,0 4.70456519573736,46.00151484508851,0 4.70468365971339,46.0015298156409,0 4.70480171177033,46.0015273186477,0 4.70482559690117,46.0015265088614,0 4.70495536974623,46.0015435607034,0 4.70496834504904,46.0015535433623,0 4.70520675145948,46.0017604492411,0 4.70525512157728,46.0018073683171,0 4.70531936230379,46.0018659377462,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3045">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69092000AV0027</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GLEIZE</SimpleData>
+					<SimpleData name="Adresse">CHAILLER</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.979292999591 </north>
+			<south> 45.9787744792795 </south>
+			<east> 4.68894478103469 </east>
+			<west> 4.68840836538081 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.68885652406824,45.979292999591,0 4.68894478103469,45.9788389021568,0 4.68843896148214,45.9787744792795,0 4.68840836538081,45.9789141834438,0 4.68841383086265,45.9792524042869,0 4.68847522956349,45.9792534703692,0 4.68885652406824,45.979292999591,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.4167">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69092000AH0039</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GLEIZE</SimpleData>
+					<SimpleData name="Adresse">EPINAY</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0018928278069 </north>
+			<south> 46.0018073683171 </south>
+			<east> 4.70531936230379 </east>
+			<west> 4.70524349273378 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.70531936230379,46.0018659377462,0 4.70525512157728,46.0018073683171,0 4.70524536129139,46.0018135499365,0 4.70524349273378,46.0018324928094,0 4.70531011461554,46.0018928278069,0 4.70531936230379,46.0018659377462,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.4236">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69092000AH0040</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GLEIZE</SimpleData>
+					<SimpleData name="Adresse">EPINAY</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0015535433623 </north>
+			<south> 46.0015265088614 </south>
+			<east> 4.70496834504904 </east>
+			<west> 4.70480171177033 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.70496834504904,46.0015535433623,0 4.70495536974623,46.0015435607034,0 4.70482559690117,46.0015265088614,0 4.70480171177033,46.0015273186477,0 4.70496834504904,46.0015535433623,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.4988">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69092000AE0053</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GLEIZE</SimpleData>
+					<SimpleData name="Adresse">EPINAY</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0019907878692 </north>
+			<south> 46.0017384622217 </south>
+			<east> 4.70239861218645 </east>
+			<west> 4.70052005987835 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.70237581916355,46.0018288748857,0 4.70239819572897,46.00174171100539,0 4.70239861218645,46.0017384622217,0 4.70235986022008,46.0017475111395,0 4.70201363495098,46.0018234183192,0 4.70175081333387,46.0018923071331,0 4.7015856089254,46.0019331584824,0 4.70148069599328,46.00194680361079,0 4.70140774971288,46.0019534835117,0 4.70128451969188,46.0019599277268,0 4.7009308106388,46.0019736154192,0 4.70064524967511,46.00197592095351,0 4.70058981681968,46.0019805360183,0 4.70052005987835,46.00199004971339,0 4.70058004366447,46.0019905003653,0 4.70084888296058,46.0019907878692,0 4.70113276736595,46.0019885970678,0 4.70125977611782,46.00198732034119,0 4.70136705515297,46.0019791341632,0 4.7015797572,46.0019612581859,0 4.70173602184221,46.00194476999981,0 4.70180386022929,46.0019359148632,0 4.70202952656435,46.0019026214347,0 4.70221479217339,46.0018668722139,0 4.70231220300269,46.0018446923955,0 4.70237581916355,46.0018288748857,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.4990">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69092000AS0053</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GLEIZE</SimpleData>
+					<SimpleData name="Adresse">SOTIZON</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9823261103313 </north>
+			<south> 45.98177318047521 </south>
+			<east> 4.69611225275131 </east>
+			<west> 4.69413475589887 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.69487723998799,45.98191496635181,0 4.6949781170256,45.9819057105517,0 4.69502410696945,45.9819055626315,0 4.69509319447288,45.9819086717708,0 4.6951417628235,45.9819125383594,0 4.69519094478347,45.9819195481925,0 4.69524399655436,45.9819305532263,0 4.69528538824342,45.98194470509431,0 4.69543719560734,45.98200340988131,0 4.69546333118366,45.9820130163736,0 4.6957233491573,45.98213693263909,0 4.695890864441,45.9822189999753,0 4.69590597898001,45.98222733028679,0 4.69611225275131,45.9823261103313,0 4.69607178145598,45.98230410888141,0 4.69590504325287,45.9822221202381,0 4.69562357698941,45.982081412214,0 4.69542562812423,45.9819843981452,0 4.69527171934651,45.9819078008694,0 4.6951111861248,45.9818300415668,0 4.69505631193086,45.98180600359971,0 4.69499714251878,45.9817893255642,0 4.69492353023395,45.9817777274391,0 4.69477597562019,45.98177318047521,0 4.69473481102493,45.9817747872755,0 4.69465389403186,45.981777709489,0 4.69460792196375,45.9817826307025,0 4.69438028575069,45.9818333235077,0 4.69413698289768,45.9818871324556,0 4.69413475589887,45.9819239143224,0 4.69427171207266,45.9819241171888,0 4.69441377049233,45.9818928091245,0 4.69453960669618,45.9818717413848,0 4.6945897628019,45.9818642356324,0 4.69468063973223,45.9818700813523,0 4.69470760309141,45.98187301044921,0 4.69484621971621,45.98192713969951,0 4.69485920540542,45.9819083008678,0 4.69487723998799,45.98191496635181,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.5254">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69092000AA0059</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GLEIZE</SimpleData>
+					<SimpleData name="Adresse">VAURENARD</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9967992263935 </north>
+			<south> 45.9960923501657 </south>
+			<east> 4.70075456706711 </east>
+			<west> 4.70066401311327 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.70072356080729,45.9967992263935,0 4.70073009258912,45.9966300667102,0 4.70074144193759,45.99639517357619,0 4.70075456706711,45.99609648413009,0 4.70069395893356,45.9960923501657,0 4.7006733661064,45.99649230046,0 4.70067237907026,45.99655653527421,0 4.70066401311327,45.9967959771817,0 4.70072356080729,45.9967992263935,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.5454">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69092000AD0062</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GLEIZE</SimpleData>
+					<SimpleData name="Adresse">OUILLY</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0033692311232 </north>
+			<south> 46.00299452573431 </south>
+			<east> 4.69510915221737 </east>
+			<west> 4.69444878426442 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.69507384950838,46.00299452573431,0 4.69498465974612,46.0032627374835,0 4.69479758814313,46.00323175991401,0 4.69444878426442,46.0031741985799,0 4.69444953946784,46.003181933301,0 4.69461531736167,46.0033692311232,0 4.6947416985931,46.003322305668,0 4.69473097850027,46.0033015697988,0 4.6947325768593,46.0032863240653,0 4.6947415472904,46.0032712382624,0 4.69475694502029,46.00325920876021,0 4.6947734190023,46.0032527474935,0 4.69479406699448,46.003251718051,0 4.69481153796276,46.0032524474614,0 4.69482817509977,46.0032596743806,0 4.69484491485405,46.003270232351,0 4.69485729225007,46.00329022285679,0 4.69485542283961,46.0033092555862,0 4.69500594860688,46.00333285369,0 4.69501035489384,46.0033332381156,0 4.69510915221737,46.0030286744658,0 4.69507384950838,46.00299452573431,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6070">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69092000AT0076</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GLEIZE</SimpleData>
+					<SimpleData name="Adresse">CHAILLER</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9809644896647 </north>
+			<south> 45.9805970551356 </south>
+			<east> 4.69377212911985 </east>
+			<west> 4.69296888678626 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.69296888678626,45.9805970551356,0 4.69319336871534,45.9807085381961,0 4.69343659776264,45.980828837555,0 4.69370717303435,45.9809644896647,0 4.69372394646529,45.9809511786539,0 4.69375718685985,45.98091879673,0 4.69377212911985,45.9809005592511,0 4.69370430365036,45.98091742598449,0 4.69362469819732,45.9809083485596,0 4.6934146899342,45.9808012434664,0 4.69313910379339,45.9806622429401,0 4.69296888678626,45.9805970551356,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6126">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69092000AT0078</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GLEIZE</SimpleData>
+					<SimpleData name="Adresse">CHAILLER</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9807965782727 </north>
+			<south> 45.9807198449382 </south>
+			<east> 4.69292103751573 </east>
+			<west> 4.69278649333626 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.69288345064951,45.9807806339195,0 4.69289680803889,45.9807864689286,0 4.69291946976791,45.9807965782727,0 4.69292103751573,45.9807803422449,0 4.69278649333626,45.9807198449382,0 4.69280460050023,45.9807456945569,0 4.69288345064951,45.9807806339195,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6220">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69092000AT0080</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GLEIZE</SimpleData>
+					<SimpleData name="Adresse">CHAILLER</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9805192199123 </north>
+			<south> 45.9801394673905 </south>
+			<east> 4.69282716608884 </east>
+			<west> 4.69205697546973 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.69209722390982,45.9801394673905,0 4.69206239358236,45.9801411587297,0 4.69205697546973,45.98014141982531,0 4.6920602878025,45.9801483057182,0 4.69208929425728,45.9801630941275,0 4.69217776187395,45.9802083383708,0 4.69231678979181,45.9802760650328,0 4.69255477763155,45.9803941027342,0 4.69280719565293,45.9805192199123,0 4.69282716608884,45.9805006371889,0 4.69273692833826,45.9804566808766,0 4.6925576643349,45.9803661379071,0 4.69248122979303,45.9803299012482,0 4.6922697741827,45.9802302014635,0 4.69217064545803,45.980182774778,0 4.69213551057709,45.9801619532068,0 4.69209722390982,45.9801394673905,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6259">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69092000AT0081</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GLEIZE</SimpleData>
+					<SimpleData name="Adresse">CHAILLER</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9805970551356 </north>
+			<south> 45.9805781257833 </south>
+			<east> 4.6930131709418 </east>
+			<west> 4.69296888678626 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.69298794217101,45.9805781257833,0 4.69296888678626,45.9805970551356,0 4.6930131709418,45.980591889599,0 4.69298794217101,45.9805781257833,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6361">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69092000AT0084</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GLEIZE</SimpleData>
+					<SimpleData name="Adresse">CHAILLER</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9808198417679 </north>
+			<south> 45.9807803422449 </south>
+			<east> 4.69301051848005 </east>
+			<west> 4.69291946976791 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.69292103751573,45.9807803422449,0 4.69291946976791,45.9807965782727,0 4.69297199265179,45.9808198417679,0 4.69301051848005,45.9808164736485,0 4.69292260929938,45.98078103930781,0 4.69292103751573,45.9807803422449,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6387">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69092000AT0085</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GLEIZE</SimpleData>
+					<SimpleData name="Adresse">CHAILLER</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.98007395265289 </north>
+			<south> 45.97972800737261 </south>
+			<east> 4.69190658715882 </east>
+			<west> 4.69121226507232 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.69190658715882,45.98007395265289,0 4.69187191917306,45.9800515027682,0 4.6917534191595,45.97998328877179,0 4.69160503969216,45.9799138997323,0 4.69146293095302,45.9798467586593,0 4.69133588594301,45.9797863278148,0 4.69121226507232,45.97972800737261,0 4.69124471983677,45.9797457168005,0 4.69133147415406,45.9797899064331,0 4.69161258752403,45.9799282882418,0 4.69176108602524,45.9800015485005,0 4.69190658715882,45.98007395265289,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6434">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690920000A0862</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GLEIZE</SimpleData>
+					<SimpleData name="Adresse">LES BRUYERES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9873426847824 </north>
+			<south> 45.9868513539105 </south>
+			<east> 4.67814391296574 </east>
+			<west> 4.67664153003357 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.67664153003357,45.98731938797899,0 4.67665580684034,45.9873426847824,0 4.6768888934863,45.987278797331,0 4.67744747370918,45.98710092475309,0 4.67814391296574,45.98688903209931,0 4.6781337194416,45.9868513539105,0 4.67802936471989,45.98688253296501,0 4.67726648235357,45.98712315031969,0 4.67697978895626,45.9872214282544,0 4.67664153003357,45.98731938797899,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6630">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69092000AK0093</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GLEIZE</SimpleData>
+					<SimpleData name="Adresse">LA CHARTONNIERE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0016728251832 </north>
+			<south> 46.00163141697809 </south>
+			<east> 4.71100041121359 </east>
+			<west> 4.71072719486912 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.71073042335589,46.00163141697809,0 4.71072719486912,46.00164812874701,0 4.71100041121359,46.0016728251832,0 4.71073042335589,46.00163141697809,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

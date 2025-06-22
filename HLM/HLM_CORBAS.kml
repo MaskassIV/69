@@ -1,0 +1,1084 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>CORBAS_HLM</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_5">
+		<name>CORBAS_HLM</name>
+		<Schema name="CORBAS_HLM" id="CORBAS_HLM.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="HLM">
+			<LineStyle>
+				<color>BFe451f5</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4Ce451f5</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.152">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69273000BM0388</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CORBAS</SimpleData>
+					<SimpleData name="Adresse">14, CHE DE GRANGE BLANCHE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">IMMOBILIERE RHONE ALPES SA DHLM</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6634312345054 </north>
+			<south> 45.66290286518231 </south>
+			<east> 4.9018661375045 </east>
+			<west> 4.90141316120726 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.90145900369852,45.6631242084557,0 4.90142699344767,45.6632207683236,0 4.90148343724065,45.66324089251041,0 4.90141316120726,45.66333791845679,0 4.90155189448923,45.6634312345054,0 4.90163780014617,45.6634189747116,0 4.9018661375045,45.6630468038107,0 4.90153014742907,45.66290286518231,0 4.90145900369852,45.6631242084557,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.358">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69273000BT0075</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CORBAS</SimpleData>
+					<SimpleData name="Adresse">4, IMP JACQUES PREVERT</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SA HLM LOGEMENT ALPES RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.66230681601779 </north>
+			<south> 45.66117616539771 </south>
+			<east> 4.89614395289372 </east>
+			<west> 4.89524372224771 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.89613060790862,45.6615210329194,0 4.89612367680334,45.66117616539771,0 4.89602357694089,45.6612164929876,0 4.89600128675331,45.66122578570479,0 4.89596603516375,45.6612429529928,0 4.89594745573623,45.6612518229139,0 4.8959178745582,45.66126952521829,0 4.89587817487284,45.6612955946532,0 4.89581794041632,45.6613447085483,0 4.8957718309149,45.6613824153733,0 4.89569027264357,45.6614540464991,0 4.89563195653368,45.6615104240006,0 4.89561854114775,45.6615238007042,0 4.89560580466631,45.6615382468662,0 4.89559148550026,45.661555241751,0 4.89557730395714,45.6615725045393,0 4.89556228536835,45.6615915829024,0 4.8955462037888,45.6616133813858,0 4.89551976747849,45.66165165762641,0 4.89548490107827,45.6617025960979,0 4.8954651477631,45.6617334638037,0 4.89545157013779,45.66175711167631,0 4.89542994556664,45.6617971083723,0 4.8953983349769,45.66186060239179,0 4.89538662248804,45.6618862004896,0 4.89537724959497,45.66190509370979,0 4.89535679484394,45.6619529972269,0 4.89531007317047,45.6620666467062,0 4.89528787745178,45.6621199839682,0 4.89526547327784,45.66218224208,0 4.8952532851653,45.6622127121754,0 4.89524372224771,45.66224106637291,0 4.89524394309564,45.6622437648813,0 4.89524454601813,45.66224636688409,0 4.89524502363721,45.6622490610703,0 4.89524575494536,45.6622516609119,0 4.89524661463914,45.6622542585924,0 4.89524773110413,45.6622568519507,0 4.8952489759548,45.6622594431479,0 4.89525021772349,45.6622619443227,0 4.89525158787788,45.6622644433364,0 4.89525334010706,45.6622668458443,0 4.8952549639508,45.6622692505134,0 4.89525684148377,45.66227156083789,0 4.8952587159348,45.66227378114,0 4.89526097862491,45.66227608498099,0 4.89526310676537,45.66227821093841,0 4.89526549475935,45.66228042259589,0 4.89526787350716,45.6622823641863,0 4.89527038372288,45.6622843936379,0 4.89527314762793,45.66228632874479,0 4.89527590845104,45.6622881738293,0 4.89527879765997,45.66229001675261,0 4.8952816807048,45.6622916796312,0 4.89528468905331,45.6622932503262,0 4.89528782578764,45.66229481886,0 4.89529095943999,45.6622962973714,0 4.89529434678166,45.662297681538,0 4.89529772795915,45.6622988856599,0 4.8953011091368,45.6623000897817,0 4.89530461561807,45.6623012017198,0 4.8953081190173,45.6623022236356,0 4.89531174463794,45.6623030633454,0 4.89531537025869,45.6623039030551,0 4.89531912118302,45.66230465058121,0 4.89532274063956,45.6623053102461,0 4.89532647923521,45.6623056976826,0 4.89533034929882,45.6623061729802,0 4.89533421319803,45.6623064682329,0 4.89533807709728,45.6623067634856,0 4.89534180336417,45.6623067908323,0 4.89534565801673,45.66230681601779,0 4.8960149643645,45.66230023085,0 4.89602529944118,45.6622794298119,0 4.89607525439902,45.6621777054337,0 4.89614395289372,45.662176908798,0 4.89614383880277,45.66217357797309,0 4.89613060790862,45.6615210329194,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.928">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69273000BW0133</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CORBAS</SimpleData>
+					<SimpleData name="Adresse">LES BALMES NORD</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6659812822024 </north>
+			<south> 45.6652214430329 </south>
+			<east> 4.8985694462802 </east>
+			<west> 4.89733545340816 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.8976662564879,45.6652214430329,0 4.89733545340816,45.6655624543981,0 4.89819692948842,45.6659812822024,0 4.89841026792004,45.6657588950101,0 4.89849969005766,45.6657366702177,0 4.8985694462802,45.66566919934821,0 4.89852487989594,45.6656470719207,0 4.8976662564879,45.6652214430329,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.1556">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69273000BT0185</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CORBAS</SimpleData>
+					<SimpleData name="Adresse">22, RUE MARCEL CERDAN</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">VILOGIA SOCIETE ANONYME DHLM</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.66084494799931 </north>
+			<south> 45.6606301225983 </south>
+			<east> 4.90031495604965 </east>
+			<west> 4.90009056075386 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.90021451911427,45.6606334055483,0 4.90009056075386,45.660685849153,0 4.90022768947738,45.66084494799931,0 4.90028694412366,45.6608198079808,0 4.90024253210306,45.6607684045351,0 4.90031495604965,45.6607377278444,0 4.90022224223932,45.6606301225983,0 4.90021451911427,45.6606334055483,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.1565">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69273000BT0186</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CORBAS</SimpleData>
+					<SimpleData name="Adresse">24, RUE MARCEL CERDAN</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">VILOGIA SOCIETE ANONYME DHLM</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6607377278444 </north>
+			<south> 45.6606015130836 </south>
+			<east> 4.90038257248672 </east>
+			<west> 4.90022224223932 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.90022224223932,45.6606301225983,0 4.90031495604965,45.6607377278444,0 4.90038257248672,45.66070920396219,0 4.90028959873949,45.6606015130836,0 4.90022224223932,45.6606301225983,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.1574">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69273000BT0187</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CORBAS</SimpleData>
+					<SimpleData name="Adresse">26, RUE MARCEL CERDAN</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">VILOGIA SOCIETE ANONYME DHLM</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.66070920396219 </north>
+			<south> 45.6605720543242 </south>
+			<east> 4.90045208676558 </east>
+			<west> 4.90028959873949 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.90028959873949,45.6606015130836,0 4.90038257248672,45.66070920396219,0 4.90045208676558,45.66067983733429,0 4.90035923822361,45.6605720543242,0 4.90028959873949,45.6606015130836,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.1586">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69273000BT0188</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CORBAS</SimpleData>
+					<SimpleData name="Adresse">28, RUE MARCEL CERDAN</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">VILOGIA SOCIETE ANONYME DHLM</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.66067983733429 </north>
+			<south> 45.6605041369745 </south>
+			<east> 4.9005245135708 </east>
+			<west> 4.90035923822361 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.90051940319288,45.6605041369745,0 4.90035923822361,45.6605720543242,0 4.90045208676558,45.66067983733429,0 4.9005245135708,45.66064925053131,0 4.90051940319288,45.6605041369745,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.1647">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69273000BW0191</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CORBAS</SimpleData>
+					<SimpleData name="Adresse">48, AV DU HUIT MAI 1945</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6656470719207 </north>
+			<south> 45.6649251190504 </south>
+			<east> 4.89854503738174 </east>
+			<west> 4.8976662564879 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.89852487989594,45.6656470719207,0 4.89854503738174,45.6656279965834,0 4.89805401453549,45.665383886616,0 4.89832795305539,45.6651080547578,0 4.89811903319318,45.6650059197061,0 4.89796890891786,45.6649325177298,0 4.89795362472912,45.6649251190504,0 4.89789555912143,45.6649850964665,0 4.8976662564879,45.6652214430329,0 4.89852487989594,45.6656470719207,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.1713">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69273000BT0199</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CORBAS</SimpleData>
+					<SimpleData name="Adresse">17, RTE DE ST-SYMPHORIEN-D OZON</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">VILOGIA SOCIETE ANONYME DHLM</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.660974414746 </north>
+			<south> 45.66064925053131 </south>
+			<east> 4.90056869794133 </east>
+			<west> 4.90024253210306 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.9005245135708,45.66064925053131,0 4.90045208676558,45.66067983733429,0 4.90038257248672,45.66070920396219,0 4.90031495604965,45.6607377278444,0 4.90024253210306,45.6607684045351,0 4.90028694412366,45.6608198079808,0 4.90030246066529,45.66083774110161,0 4.90042312140977,45.66078652389371,0 4.90047972047542,45.66079628736251,0 4.90048421718117,45.6609272696118,0 4.90052475811552,45.660974414746,0 4.90056869794133,45.6609559283749,0 4.90053378083235,45.6609154438989,0 4.9005245135708,45.66064925053131,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.1771">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69273000BT0202</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CORBAS</SimpleData>
+					<SimpleData name="Adresse">11, RUE DES FRERES LUMIERE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SA HLM LOGEMENT ALPES RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6640377795553 </north>
+			<south> 45.6636086473307 </south>
+			<east> 4.89871796809091 </east>
+			<west> 4.89805982248217 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.89824320391591,45.6640377795553,0 4.89870917213505,45.6638064484219,0 4.89871796809091,45.6637745038625,0 4.89856904580349,45.6636237086425,0 4.89855414139802,45.6636086473307,0 4.89805982248217,45.663852345569,0 4.89824320391591,45.6640377795553,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.1783">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69273000BT0203</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CORBAS</SimpleData>
+					<SimpleData name="Adresse">9, RUE DES FRERES LUMIERE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SA HLM LOGEMENT ALPES RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.66375143215521 </north>
+			<south> 45.6632672352515 </south>
+			<east> 4.89943306280249 </east>
+			<west> 4.89861187324604 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.89943306280249,45.6634507854875,0 4.89925025774054,45.6632672352515,0 4.89866000189907,45.6635564206504,0 4.89861187324604,45.6635802011788,0 4.89862664618338,45.6635951746257,0 4.89877596606919,45.6637463233626,0 4.8988202041735,45.66375143215521,0 4.89890369501764,45.6637099410386,0 4.89943306280249,45.6634507854875,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.1790">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69273000BT0204</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CORBAS</SimpleData>
+					<SimpleData name="Adresse">LES BALMES SUD</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SA HLM LOGEMENT ALPES RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6638064484219 </north>
+			<south> 45.6635951746257 </south>
+			<east> 4.8988202041735 </east>
+			<west> 4.89856904580349 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.89862664618338,45.6635951746257,0 4.89856904580349,45.6636237086425,0 4.89871796809091,45.6637745038625,0 4.89870917213505,45.6638064484219,0 4.8988202041735,45.66375143215521,0 4.89877596606919,45.6637463233626,0 4.89862664618338,45.6635951746257,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2009">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69273000BW0226</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CORBAS</SimpleData>
+					<SimpleData name="Adresse">61, AV DE CORBETTA</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">CDC HABITAT SOCIAL SOCIETE ANONYME DHABITATIONS A LOYER MOD</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6684760584867 </north>
+			<south> 45.6672834068007 </south>
+			<east> 4.89711297265293 </east>
+			<west> 4.89551747858737 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.89611795447606,45.6684760584867,0 4.89616943360502,45.6684749214005,0 4.89636172578531,45.6682414533149,0 4.89643967257163,45.6682778816975,0 4.89663902684211,45.6683705432182,0 4.89705745868653,45.6679205091921,0 4.89711297265293,45.667860935548,0 4.89685790647759,45.667758314418,0 4.89691286062714,45.6676973991905,0 4.89691372239277,45.6676963037816,0 4.89665008707076,45.66757977497159,0 4.89660847422033,45.66756138013989,0 4.89640940860988,45.6674733075473,0 4.89641580257504,45.6672962039228,0 4.89551747858737,45.6672834068007,0 4.89553402598125,45.6673239318746,0 4.8956249348883,45.66754758709139,0 4.89566504893204,45.6676385172847,0 4.89569983274489,45.667712603244,0 4.89577216485075,45.6678627102272,0 4.89578392662653,45.66788728262541,0 4.89580089329169,45.66791753214431,0 4.89585414488984,45.6680206713424,0 4.89589677189658,45.6680986785396,0 4.89597115190164,45.6682335283863,0 4.89604928781483,45.66837299881,0 4.89606551914405,45.6683967753298,0 4.89608514859417,45.66842598915819,0 4.89611795447606,45.6684760584867,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2618">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69273000BT0003</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CORBAS</SimpleData>
+					<SimpleData name="Adresse">56, AV DU HUIT MAI 1945</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6651605737813 </north>
+			<south> 45.6647537736421 </south>
+			<east> 4.89952126170105 </east>
+			<west> 4.89893545382434 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.89893545382434,45.6649353168541,0 4.89936567146067,45.665148292155,0 4.89939050150801,45.6651605737813,0 4.89952126170105,45.6649503862709,0 4.89914077874471,45.66476413546891,0 4.89911961183162,45.6647537736421,0 4.89893545382434,45.6649353168541,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2674">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69273000BR0305</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CORBAS</SimpleData>
+					<SimpleData name="Adresse">IMP ALFRED DE MUSSET</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">AXENTIA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.67001489702901 </north>
+			<south> 45.6698424492309 </south>
+			<east> 4.90285359929938 </east>
+			<west> 4.90244846041603 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.90244846041603,45.6698424492309,0 4.90284560280974,45.67001489702901,0 4.90285359929938,45.670004583488,0 4.90282207387011,45.6699919653371,0 4.90263760599633,45.6699179785864,0 4.90244846041603,45.6698424492309,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2776">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69273000BV0318</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CORBAS</SimpleData>
+					<SimpleData name="Adresse">PELLOSSIERE ET FORET</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SA HLM LOGEMENT ALPES RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.66741020051901 </north>
+			<south> 45.6663495245637 </south>
+			<east> 4.89533893333258 </east>
+			<west> 4.89456437539374 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.89533893333258,45.6673630654529,0 4.89526581279046,45.6671748700972,0 4.89522915710354,45.6670723520708,0 4.89522101040828,45.6670520423399,0 4.89516401321299,45.66687321349941,0 4.89512315459087,45.6667492384461,0 4.8951106556724,45.6666993675384,0 4.89504909612024,45.6664472950247,0 4.8950255654084,45.6663566260042,0 4.89456437539374,45.6663495245637,0 4.89457156233713,45.6663830913928,0 4.89461263916932,45.6665510191616,0 4.89464095480759,45.6666689002343,0 4.89464619024665,45.6666867369099,0 4.89467888691291,45.6667937353539,0 4.89471146866062,45.6669048791394,0 4.89475251753164,45.6670344357303,0 4.89480583111325,45.6671957622748,0 4.89481581633076,45.667220995178,0 4.89486403231634,45.6673534936573,0 4.89488781372603,45.66741020051901,0 4.89533893333258,45.6673630654529,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.3307">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69273000BM0398</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CORBAS</SimpleData>
+					<SimpleData name="Adresse">14, CHE DE GRANGE BLANCHE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">IMMOBILIERE RHONE ALPES SA DHLM</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6632313384246 </north>
+			<south> 45.6628226918831 </south>
+			<east> 4.90143613957277 </east>
+			<west> 4.90109662095928 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.9011046700774,45.6631306422448,0 4.90125444659639,45.6632313384246,0 4.9012799497776,45.6632071281378,0 4.90129033521487,45.6630457196404,0 4.90137193056488,45.6630501065112,0 4.90143613957277,45.6628624781525,0 4.90133855557988,45.6628226918831,0 4.90126481676079,45.6629049139432,0 4.9012011458578,45.66292121165989,0 4.90109662095928,45.6630346688042,0 4.9011046700774,45.6631306422448,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.3328">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69273000BV0040</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CORBAS</SimpleData>
+					<SimpleData name="Adresse">PELLOSSIERE ET FORET</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SA HLM LOGEMENT ALPES RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.66609637871269 </north>
+			<south> 45.66543468137449 </south>
+			<east> 4.89495626769815 </east>
+			<west> 4.89430032523145 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.89488313581421,45.66543468137449,0 4.89430032523145,45.6654397139606,0 4.89430703811259,45.66550823756341,0 4.89432592181227,45.6656959047206,0 4.89440387666611,45.6657927740757,0 4.89446170384459,45.6658645811056,0 4.89447941902608,45.6658867115238,0 4.89451305946676,45.66609637871269,0 4.89487758065037,45.6660905151462,0 4.89495626769815,45.6660210948164,0 4.89494251172105,45.66593449477279,0 4.89490920240251,45.66567825374751,0 4.89489046578493,45.6655324686892,0 4.89488313581421,45.66543468137449,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.3886">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69273000BM0005</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CORBAS</SimpleData>
+					<SimpleData name="Adresse">14, CHE DE GRANGE BLANCHE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">IMMOBILIERE RHONE ALPES SA DHLM</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.66333791845679 </north>
+			<south> 45.6630926880292 </south>
+			<east> 4.90148343724065 </east>
+			<west> 4.90125444659639 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.90125444659639,45.6632313384246,0 4.90141316120726,45.66333791845679,0 4.90148343724065,45.66324089251041,0 4.90142699344767,45.6632207683236,0 4.90145900369852,45.6631242084557,0 4.90136799776673,45.6630926880292,0 4.90136086322993,45.6632103555686,0 4.9012799497776,45.6632071281378,0 4.90125444659639,45.6632313384246,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.4329">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69273000BM0006</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CORBAS</SimpleData>
+					<SimpleData name="Adresse">14, CHE DE GRANGE BLANCHE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">IMMOBILIERE RHONE ALPES SA DHLM</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6632103555686 </north>
+			<south> 45.6628624781525 </south>
+			<east> 4.90153014742907 </east>
+			<west> 4.9012799497776 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.90153014742907,45.66290286518231,0 4.90143613957277,45.6628624781525,0 4.90137193056488,45.6630501065112,0 4.90129033521487,45.6630457196404,0 4.9012799497776,45.6632071281378,0 4.90136086322993,45.6632103555686,0 4.90136799776673,45.6630926880292,0 4.90145900369852,45.6631242084557,0 4.90153014742907,45.66290286518231,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.4592">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69273000BM0007</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CORBAS</SimpleData>
+					<SimpleData name="Adresse">LES TAILLIS</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">IMMOBILIERE RHONE ALPES SA DHLM</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6630468038107 </north>
+			<south> 45.6628119141424 </south>
+			<east> 4.90189642952752 </east>
+			<west> 4.90143613957277 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.90143613957277,45.6628624781525,0 4.90153014742907,45.66290286518231,0 4.9018661375045,45.6630468038107,0 4.90189642952752,45.6629974718076,0 4.90172197253559,45.66292250424101,0 4.90146471956094,45.6628119141424,0 4.90143613957277,45.6628624781525,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.4628">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69273000BR0711</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CORBAS</SimpleData>
+					<SimpleData name="Adresse">8, ALL DES MARTINETS</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6697187357243 </north>
+			<south> 45.6694865064918 </south>
+			<east> 4.9037544980042 </east>
+			<west> 4.90350511074722 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.90350511074722,45.6696870487252,0 4.90358084573744,45.6697187357243,0 4.90358195801557,45.6697174558787,0 4.90358012322737,45.6697164060017,0 4.9037544980042,45.6695118713928,0 4.90369375545032,45.6694865064918,0 4.90366000828686,45.6695250884446,0 4.9036498412121,45.66952084667469,0 4.90350511074722,45.6696870487252,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.4630">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69273000BR0712</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CORBAS</SimpleData>
+					<SimpleData name="Adresse">8, ALL DES MARTINETS</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6695250884446 </north>
+			<south> 45.6694154090392 </south>
+			<east> 4.90381006808939 </east>
+			<west> 4.9036498412121 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.90373807557115,45.6694154090392,0 4.9036498412121,45.66952084667469,0 4.90366000828686,45.6695250884446,0 4.90369375545032,45.6694865064918,0 4.9037544980042,45.6695118713928,0 4.90381006808939,45.66944661870391,0 4.90373807557115,45.6694154090392,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.4633">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69273000BR0713</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CORBAS</SimpleData>
+					<SimpleData name="Adresse">VIGNERME</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.67012584166 </north>
+			<south> 45.6694154090392 </south>
+			<east> 4.90373807557115 </east>
+			<west> 4.90306315622914 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.90306315622914,45.670102015625,0 4.90314269400584,45.6701247212848,0 4.9031456875262,45.67012584166,0 4.90314244328146,45.67011742948979,0 4.90314995408425,45.6701154109871,0 4.90316243685881,45.6701010583242,0 4.90322092734001,45.6700272895864,0 4.90324970614688,45.66999365577,0 4.90330620857085,45.6699255952784,0 4.90332224468875,45.6699062284406,0 4.90336998943657,45.66984876458,0 4.90338282015357,45.6698333251161,0 4.90344224602669,45.669760621338,0 4.90350511074722,45.6696870487252,0 4.9036498412121,45.66952084667469,0 4.90373807557115,45.6694154090392,0 4.90365616320532,45.6694282333042,0 4.90364442325662,45.6694417627976,0 4.90357596357249,45.669520744471,0 4.90350849066412,45.6695985384511,0 4.9034635075879,45.6696503710749,0 4.90337353499133,45.669753856225,0 4.90336268443605,45.66976710043021,0 4.9033159143478,45.6698230165482,0 4.90332073645088,45.6698250067558,0 4.90330367313322,45.6698443909556,0 4.90330197603575,45.6698436089702,0 4.90330667270261,45.66983821519149,0 4.90330419590148,45.6698371761616,0 4.90329012756682,45.6698539876517,0 4.90329429837052,45.6698557186454,0 4.9032928163523,45.6698574551099,0 4.90328877395138,45.6698557219458,0 4.90315230106874,45.6700192618579,0 4.90313433379154,45.67001235956219,0 4.90306315622914,45.670102015625,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.4641">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69273000BR0717</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CORBAS</SimpleData>
+					<SimpleData name="Adresse">17, ALL DES MARTINETS</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.669753856225 </north>
+			<south> 45.66955527930561 </south>
+			<east> 4.9034635075879 </east>
+			<west> 4.90315238237615 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.90315238237615,45.6696554496928,0 4.90326606569064,45.6696997364752,0 4.90327743296131,45.6696865736204,0 4.90336140415805,45.6697186620021,0 4.90337353499133,45.669753856225,0 4.9034635075879,45.6696503710749,0 4.90323810098989,45.66955527930561,0 4.90315238237615,45.6696554496928,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.4644">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69273000BR0718</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CORBAS</SimpleData>
+					<SimpleData name="Adresse">15, ALL DES MARTINETS</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6696503710749 </north>
+			<south> 45.6695032732387 </south>
+			<east> 4.90350849066412 </east>
+			<west> 4.90323810098989 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.90323810098989,45.66955527930561,0 4.9034635075879,45.6696503710749,0 4.90350849066412,45.6695985384511,0 4.9032826928026,45.6695032732387,0 4.90323810098989,45.66955527930561,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.4656">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69273000BR0723</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CORBAS</SimpleData>
+					<SimpleData name="Adresse">ALL DES MARTINETS</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6692008835329 </north>
+			<south> 45.66913903329479 </south>
+			<east> 4.90402224533771 </east>
+			<west> 4.90395320669616 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.90398475060405,45.66913903329479,0 4.90395320669616,45.66917442548029,0 4.90401321577927,45.6692008835329,0 4.90402224533771,45.6691907325849,0 4.90398475060405,45.66913903329479,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.4657">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69273000BR0724</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CORBAS</SimpleData>
+					<SimpleData name="Adresse">8, ALL DES MARTINETS</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6695143477308 </north>
+			<south> 45.66917442548029 </south>
+			<east> 4.90412299537635 </east>
+			<west> 4.90374997523659 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.90412299537635,45.6693296352529,0 4.90402224533771,45.6691907325849,0 4.90401321577927,45.6692008835329,0 4.90395320669616,45.66917442548029,0 4.90377394970872,45.66937516976069,0 4.90378294566868,45.6693789809463,0 4.90374997523659,45.6694177299448,0 4.90398095918243,45.6695143477308,0 4.90412299537635,45.6693296352529,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.4661">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69273000BR0725</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CORBAS</SimpleData>
+					<SimpleData name="Adresse">8, ALL DES MARTINETS</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.669795619004 </north>
+			<south> 45.6695118713928 </south>
+			<east> 4.90392733859541 </east>
+			<west> 4.90358012322737 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.90392733859541,45.6695839811947,0 4.9037544980042,45.6695118713928,0 4.90358012322737,45.6697164060017,0 4.90358195801557,45.6697174558787,0 4.90358084573744,45.6697187357243,0 4.90364862440825,45.6697469541998,0 4.90365134107651,45.66975123184861,0 4.90372707933453,45.66978300877171,0 4.90373008978414,45.6697808861635,0 4.90376438606962,45.669795619004,0 4.9037909506171,45.6697611217326,0 4.90392733859541,45.6695839811947,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.4663">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69273000BR0726</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CORBAS</SimpleData>
+					<SimpleData name="Adresse">8, ALL DES MARTINETS</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6695839811947 </north>
+			<south> 45.66937516976069 </south>
+			<east> 4.90398095918243 </east>
+			<west> 4.90373807557115 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.90394578451198,45.6695599797195,0 4.90398095918243,45.6695143477308,0 4.90374997523659,45.6694177299448,0 4.90378294566868,45.6693789809463,0 4.90377394970872,45.66937516976069,0 4.90373807557115,45.6694154090392,0 4.90381006808939,45.66944661870391,0 4.9037544980042,45.6695118713928,0 4.90392733859541,45.6695839811947,0 4.90394578451198,45.6695599797195,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.4859">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69273000ZD0081</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CORBAS</SimpleData>
+					<SimpleData name="Adresse">9, CHE DU PORT</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">DYNACITE OFFICE PUBLIC DE LHABITAT DE LAIN</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.67935917874961 </north>
+			<south> 45.6787373539509 </south>
+			<east> 4.89400432443175 </east>
+			<west> 4.89307764847333 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.89389216301532,45.6791251632589,0 4.89394130363201,45.6789690488383,0 4.89394736551925,45.6789509320424,0 4.89400432443175,45.6787829764577,0 4.8938818605298,45.678775307844,0 4.89327842125476,45.6787373539509,0 4.89307764847333,45.67935917874961,0 4.89340268986865,45.6792672434911,0 4.89372014695594,45.6791752546541,0 4.89389216301532,45.6791251632589,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.5095">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69273000AB0099</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CORBAS</SimpleData>
+					<SimpleData name="Adresse">12, CHE DU PORT</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">DYNACITE OFFICE PUBLIC DE LHABITAT DE LAIN</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.678775307844 </north>
+			<south> 45.67828122212 </south>
+			<east> 4.89403926673344 </east>
+			<west> 4.89327636031327 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.89342819165766,45.67828122212,0 4.89327636031327,45.67873720844791,0 4.89327842125476,45.6787373539509,0 4.8938818605298,45.678775307844,0 4.89390009238649,45.67872230780271,0 4.89393315520212,45.67862582270081,0 4.89396623022612,45.67852969767971,0 4.89399930205428,45.6784334826272,0 4.89403926673344,45.6783171551532,0 4.89342819165766,45.67828122212,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

@@ -1,0 +1,1315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>SAINT-BONNET-DE-MURE_ETAT</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_1">
+		<name>SAINT-BONNET-DE-MURE_ETAT</name>
+		<Schema name="SAINT-BONNET-DE-MURE_ETAT" id="SAINT-BONNET-DE-MURE_ETAT.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="ETAT">
+			<LineStyle>
+				<color>BF119ff7</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C119ff7</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.283">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69287000AS0070</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT-BONNET-DE-MURE</SimpleData>
+					<SimpleData name="Adresse">4, RUE DE LUYZINE</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">MINISTERE ECOLOGIE DEVELOPPEMENT TRANSPORTS LOGEMENT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.697063489759 </north>
+			<south> 45.6956000437306 </south>
+			<east> 5.01838308599316 </east>
+			<west> 5.01570021223413 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.01570914971339,45.695971405453,0 5.01578985396636,45.6960837297325,0 5.01609919076153,45.6965228185496,0 5.01640312218155,45.6969510138674,0 5.01644425416205,45.6970109000674,0 5.01648036409446,45.697063489759,0 5.01669291779048,45.69699131594489,0 5.01697743862053,45.6968939826411,0 5.01725795274468,45.6967996028384,0 5.01759422646952,45.696686838699,0 5.0179731886178,45.6965603376673,0 5.0182631594127,45.69646452482,0 5.01838308599316,45.6964221114337,0 5.0183655725909,45.6963296449493,0 5.01832947925253,45.6961401371116,0 5.01829478860126,45.695957359983,0 5.01825712545027,45.6957600434816,0 5.01822815081666,45.6956000437306,0 5.017988226639,45.6956123586579,0 5.01768641512341,45.695626592206,0 5.01763083874811,45.6956288486676,0 5.01785596263311,45.6959719767611,0 5.01780240349298,45.6959590640823,0 5.01775144966955,45.69594709557231,0 5.01772633167008,45.6959421407764,0 5.01769318356783,45.6959355282379,0 5.01767570374207,45.6959320580317,0 5.01765738708623,45.6959303142903,0 5.01763835220821,45.6959300246554,0 5.01761755173818,45.6959306674171,0 5.01757618145041,45.6959312281751,0 5.0174927319177,45.69580364103789,0 5.01745863122009,45.6957497546009,0 5.01738486036874,45.695640820345,0 5.01737960343461,45.69564118471731,0 5.01734091084786,45.6956446700119,0 5.01731609173302,45.6956479068629,0 5.01722509192188,45.6956657503708,0 5.0169721288099,45.69571531860701,0 5.01663333340258,45.69577993444801,0 5.01626052418507,45.69585299479629,0 5.01594314416657,45.6959127213576,0 5.01570021223413,45.6959589544696,0 5.01570914971339,45.695971405453,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.289">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69287000AZ0078</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT-BONNET-DE-MURE</SimpleData>
+					<SimpleData name="Adresse">LE CHATAIGNIER</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6810632198741 </north>
+			<south> 45.6804824947505 </south>
+			<east> 5.0217402573488 </east>
+			<west> 5.0212454081874 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.0212454081874,45.68054878158139,0 5.02129517657568,45.6806799425906,0 5.02135853123889,45.6808206782342,0 5.02154324907425,45.6810472416587,0 5.02168686252948,45.6810632198741,0 5.0217402573488,45.6810614506995,0 5.02166475198176,45.680890667177,0 5.02149074839037,45.6804824947505,0 5.0212454081874,45.68054878158139,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.851">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69287000ZK0132</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT-BONNET-DE-MURE</SimpleData>
+					<SimpleData name="Adresse">SUR FOUSSIAUX</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.68723744624841 </north>
+			<south> 45.6870376092774 </south>
+			<east> 4.9979669153732 </east>
+			<west> 4.99744071850733 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.99744071850733,45.6872170014915,0 4.99744595482009,45.68723744624841,0 4.99753369899931,45.6872079662853,0 4.99758054712853,45.68719200249511,0 4.9979669153732,45.6870398552111,0 4.99796657723157,45.6870376092774,0 4.99782666593323,45.6870852196214,0 4.9976089831764,45.68716087192981,0 4.99744071850733,45.6872170014915,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.858">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69287000ZK0133</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT-BONNET-DE-MURE</SimpleData>
+					<SimpleData name="Adresse">SUR FOUSSIAUX</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.68719200249511 </north>
+			<south> 45.6870398552111 </south>
+			<east> 4.99797040897728 </east>
+			<west> 4.99758054712853 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.99758054712853,45.68719200249511,0 4.99771132179162,45.6871476171351,0 4.99797040897728,45.6870618621718,0 4.9979669153732,45.6870398552111,0 4.99758054712853,45.68719200249511,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.930">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69287000AS0142</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT-BONNET-DE-MURE</SimpleData>
+					<SimpleData name="Adresse">6, RUE DE LUYZINE</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">MINISTERE ECOLOGIE DEVELOPPEMENT TRANSPORTS LOGEMENT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6959719767611 </north>
+			<south> 45.6956288486676 </south>
+			<east> 5.01785596263311 </east>
+			<west> 5.01738486036874 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.01738486036874,45.695640820345,0 5.01745863122009,45.6957497546009,0 5.0174927319177,45.69580364103789,0 5.01757618145041,45.6959312281751,0 5.01761755173818,45.6959306674171,0 5.01763835220821,45.6959300246554,0 5.01765738708623,45.6959303142903,0 5.01767570374207,45.6959320580317,0 5.01769318356783,45.6959355282379,0 5.01772633167008,45.6959421407764,0 5.01775144966955,45.69594709557231,0 5.01780240349298,45.6959590640823,0 5.01785596263311,45.6959719767611,0 5.01763083874811,45.6956288486676,0 5.01746577955012,45.6956355879818,0 5.01738486036874,45.695640820345,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.1432">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69287000ZA0020</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT-BONNET-DE-MURE</SimpleData>
+					<SimpleData name="Adresse">PLANAISE</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7194837894363 </north>
+			<south> 45.7184505230536 </south>
+			<east> 5.0573277599225 </east>
+			<west> 5.05623143779405 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.05702080862433,45.7184651554275,0 5.05623143779405,45.7185711707879,0 5.0564472121583,45.7194837894363,0 5.05673568665804,45.7194533932958,0 5.05708936231146,45.7194161313686,0 5.05729994889857,45.7193938212413,0 5.0573277599225,45.71930485578811,0 5.05712661376555,45.7184505230536,0 5.05702080862433,45.7184651554275,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.1788">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69287000ZB0025</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT-BONNET-DE-MURE</SimpleData>
+					<SimpleData name="Adresse">DORMON  OUEST</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7102700260811 </north>
+			<south> 45.7073798740581 </south>
+			<east> 5.05447430471044 </east>
+			<west> 5.05090866859866 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.05206034611938,45.7102700260811,0 5.05234686916683,45.71018481778239,0 5.05257429303953,45.71011473758969,0 5.05275248028662,45.7100622184949,0 5.05285529610251,45.7100298086765,0 5.05306633095052,45.70997200655,0 5.05329448940822,45.70991136978691,0 5.05351444260342,45.70985484556151,0 5.05369599077309,45.70980631725279,0 5.05378271805528,45.7097804152424,0 5.05396136791314,45.7097161754891,0 5.05408398887293,45.7096700718212,0 5.05422897056834,45.7096063552794,0 5.05431325170132,45.7095665351903,0 5.05447430471044,45.7094197426681,0 5.05377603737942,45.7078138413541,0 5.05363278093711,45.70771268131649,0 5.05351687661075,45.7076313804917,0 5.05341097804938,45.7075563829037,0 5.05330009967098,45.7074961588468,0 5.05319287923455,45.7074374894539,0 5.05301560039528,45.7073826186687,0 5.05283498518493,45.7073798740581,0 5.05235056584935,45.70748823569041,0 5.05215676602346,45.7075251847275,0 5.05210410438477,45.707533530288,0 5.05182385588859,45.7075691705851,0 5.05162844989169,45.70759056428849,0 5.05128552525417,45.70761761588,0 5.05105509260088,45.7076340613303,0 5.05099664384986,45.7076389085509,0 5.05090866859866,45.7076345646396,0 5.05096521288955,45.7077655911837,0 5.05149406819075,45.70898337986069,0 5.05206034611938,45.7102700260811,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.1824">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69287000ZB0026</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT-BONNET-DE-MURE</SimpleData>
+					<SimpleData name="Adresse">DORMON  OUEST</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7094197426681 </north>
+			<south> 45.7078138413541 </south>
+			<east> 5.05532410796637 </east>
+			<west> 5.05377603737942 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.05447430471044,45.7094197426681,0 5.05467594790068,45.70923383609559,0 5.05474155566238,45.7091724669505,0 5.05494066072229,45.70907055985479,0 5.05524236354096,45.70891318407039,0 5.05532410796637,45.7088708872483,0 5.05532323306882,45.7088265842967,0 5.05519941263203,45.7087434477591,0 5.05511936733712,45.7086895991264,0 5.05505220292662,45.7086398393176,0 5.05495899432117,45.7085708271242,0 5.054887905373,45.7085192471344,0 5.05485036509344,45.7084916468983,0 5.05474743110587,45.7084100206646,0 5.05467812746783,45.7083511115909,0 5.05465241198069,45.70833032183959,0 5.05457338425392,45.7082796070536,0 5.05441562441357,45.70817573979969,0 5.05430917334777,45.70810669830241,0 5.05415992834239,45.7080347436124,0 5.05398940067953,45.7079436295348,0 5.05393386998646,45.70791626686891,0 5.05389283663796,45.70789152245321,0 5.05377603737942,45.7078138413541,0 5.05447430471044,45.7094197426681,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.1974">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69287000ZH0028</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT-BONNET-DE-MURE</SimpleData>
+					<SimpleData name="Adresse">PLANAISE</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7156034270524 </north>
+			<south> 45.7112666205851 </south>
+			<east> 5.05291136154325 </east>
+			<west> 5.04782126275697 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.04882985652855,45.7112666205851,0 5.04875399138195,45.7112943029545,0 5.04859702955512,45.7113438174359,0 5.04836489107503,45.7114222623837,0 5.04813084786732,45.71150137201329,0 5.04804911285257,45.71153375460659,0 5.04782126275697,45.7116204077243,0 5.05008646309491,45.7151515716462,0 5.05021448306524,45.7151050139169,0 5.0507532172524,45.7148990195648,0 5.0509233736791,45.7151912019421,0 5.05117449510541,45.7156034270524,0 5.0519738631402,45.71530683743949,0 5.05183138309298,45.7150572104066,0 5.05233690406702,45.71490234741831,0 5.0524806648939,45.7151206030118,0 5.0528794518357,45.7149725457179,0 5.05291136154325,45.7149245828528,0 5.05284292307743,45.71479215224799,0 5.0527297746073,45.71456721412969,0 5.05270083820276,45.7145151350482,0 5.05258655496435,45.7143496696454,0 5.05233857464901,45.7139945005252,0 5.05212659028995,45.71369101135011,0 5.05203382869062,45.713668829574,0 5.0519040530907,45.7137199253711,0 5.05169259110896,45.7138047565322,0 5.05161321089287,45.7138243976793,0 5.0514888694705,45.7138521536705,0 5.05141427858142,45.7138691852759,0 5.05138258607426,45.7138710233001,0 5.05125894502895,45.71387606637779,0 5.05113003713095,45.71387778218099,0 5.0510525939766,45.71388378574349,0 5.05075564439878,45.71390684547499,0 5.05060621663007,45.7139238872042,0 5.0505775246011,45.71392341842819,0 5.05047151279749,45.7139114752403,0 5.0503746862967,45.71386981893,0 5.05030319601981,45.71380401080909,0 5.05025358753901,45.71371105108959,0 5.05006733226606,45.7133728601641,0 5.04977663379416,45.7128359629856,0 5.0497173582869,45.71273191903911,0 5.04943661861437,45.7122206926396,0 5.04918816450289,45.7117790500336,0 5.0489163199872,45.7112890094922,0 5.04882985652855,45.7112666205851,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.2112">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69287000ZB0030</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT-BONNET-DE-MURE</SimpleData>
+					<SimpleData name="Adresse">DORMON  OUEST</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7085358412932 </north>
+			<south> 45.70571841253481 </south>
+			<east> 5.05730646948785 </east>
+			<west> 5.05293050793747 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.05293050793747,45.707244636652,0 5.05303381489594,45.70730526924569,0 5.05324021657165,45.70737231046311,0 5.05346809413241,45.7075052580951,0 5.05362033734689,45.7076130104651,0 5.05378989690577,45.70772657239401,0 5.05392178786276,45.7078159588966,0 5.05395508678722,45.7078367006507,0 5.05406160286261,45.7078936706871,0 5.05429646048943,45.7080171212618,0 5.05437074937777,45.70805450084901,0 5.05463605306279,45.7082256780261,0 5.05471535780656,45.7082769281906,0 5.05480312237964,45.7083447787382,0 5.05492754083484,45.7084336698364,0 5.05502103346525,45.7085103335915,0 5.05505476746217,45.7085358412932,0 5.05617091071695,45.7077990806018,0 5.05730646948785,45.7070424066873,0 5.05709051422851,45.70691564464671,0 5.05689150990867,45.7068055977319,0 5.05662244555738,45.7066543119231,0 5.05641577697028,45.70653863903271,0 5.05625132361588,45.70644489532861,0 5.05618034733674,45.7064032228337,0 5.05615182770432,45.7063865381643,0 5.05589832499784,45.7062318139622,0 5.05571857621278,45.7061242962599,0 5.05565720868697,45.70608515051611,0 5.05548057993093,45.7059646942234,0 5.05526021080666,45.7058123368248,0 5.05512532532819,45.70571841253481,0 5.05510545891782,45.70573390816589,0 5.05356279361701,45.7068076717982,0 5.05293050793747,45.707244636652,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.2115">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69287000ZH0030</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT-BONNET-DE-MURE</SimpleData>
+					<SimpleData name="Adresse">PLANAISE</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.71763317182061 </north>
+			<south> 45.7149955844261 </south>
+			<east> 5.05343120160881 </east>
+			<west> 5.04934636581766 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.0529399720957,45.7149955844261,0 5.0524843662044,45.7151614314842,0 5.05198510546526,45.7153395115801,0 5.05140038284319,45.7155640945369,0 5.05119576197393,45.7156394318883,0 5.05061044053936,45.7158723088017,0 5.05013931135253,45.71606031778271,0 5.04967779517379,45.7162440963485,0 5.04939150308344,45.71635730760601,0 5.04934636581766,45.71637461286591,0 5.04988758070329,45.71763317182061,0 5.05028558154947,45.71749792964929,0 5.05102694877869,45.7172419471573,0 5.05113364246275,45.7172062257364,0 5.05108517117726,45.7171232443538,0 5.05148090735306,45.7169860573247,0 5.05162634711521,45.71693755951979,0 5.05196763303437,45.7168197380943,0 5.05242941929426,45.7166606268352,0 5.05269008671405,45.7165708446697,0 5.05294349867912,45.71648308571591,0 5.05323648529109,45.7163806429148,0 5.05343120160881,45.7163121481759,0 5.05336510239,45.7160973429278,0 5.05325780280582,45.7157564569846,0 5.05307110512823,45.7152754131916,0 5.05301209781157,45.7151338029486,0 5.0529399720957,45.7149955844261,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.2175">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69287000ZA0031</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT-BONNET-DE-MURE</SimpleData>
+					<SimpleData name="Adresse">5014, PLANAISE</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7198722362323 </north>
+			<south> 45.7190923447811 </south>
+			<east> 5.05344324343589 </east>
+			<west> 5.05300287064945 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.05324355178409,45.7190923447811,0 5.05300287064945,45.71913537324519,0 5.05312838552077,45.7196169015358,0 5.05319483547485,45.7198722362323,0 5.05344324343589,45.7198224908569,0 5.05339472975702,45.71964501815211,0 5.05337851910516,45.7195859513783,0 5.05337463293743,45.7195713392896,0 5.05325873221416,45.7191479172517,0 5.05324355178409,45.7190923447811,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.2403">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69287000ZH0034</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT-BONNET-DE-MURE</SimpleData>
+					<SimpleData name="Adresse">PLANAISE</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7146481690301 </north>
+			<south> 45.71268232190171 </south>
+			<east> 5.05959881480004 </east>
+			<west> 5.05442439103962 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.05472318817896,45.7146481690301,0 5.05580730801674,45.7143505931378,0 5.05687381929365,45.7140604442612,0 5.05789327859624,45.7137812332047,0 5.05899463229957,45.71347772642479,0 5.05959881480004,45.71331093866911,0 5.05957149722527,45.71325414754259,0 5.05949102422088,45.7130786125716,0 5.05943358835393,45.7129692250996,0 5.05934171021015,45.71279470918579,0 5.05927586008499,45.71270105911861,0 5.05917731047916,45.71268232190171,0 5.05809820209043,45.7129992066019,0 5.05713244544495,45.71328023191929,0 5.05659534637897,45.7134427193882,0 5.05595867751932,45.71363521562449,0 5.05535752888481,45.71381480958669,0 5.05482647365336,45.7139741155213,0 5.05442439103962,45.714091973427,0 5.05472318817896,45.7146481690301,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.2474">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69287000ZH0035</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT-BONNET-DE-MURE</SimpleData>
+					<SimpleData name="Adresse">PLANAISE</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7151025900023 </north>
+			<south> 45.714091973427 </south>
+			<east> 5.05472318817896 </east>
+			<west> 5.05279162443219 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.05279162443219,45.7145498732773,0 5.05281350161416,45.7145988380825,0 5.0528638931762,45.7146988987536,0 5.05300441392908,45.7149753137158,0 5.05306404621684,45.7151025900023,0 5.05472318817896,45.7146481690301,0 5.05442439103962,45.714091973427,0 5.05279162443219,45.7145498732773,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.2792">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69287000AH0004</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT-BONNET-DE-MURE</SimpleData>
+					<SimpleData name="Adresse">LE CHANAY</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">MINISTERE ECOLOGIE DEVELOPPEMENT TRANSPORTS LOGEMENT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6998450918915 </north>
+			<south> 45.6997303355766 </south>
+			<east> 5.02462208030483 </east>
+			<west> 5.02423907973431 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.02462208030483,45.6997303355766,0 5.0244697642411,45.6997413598531,0 5.02423907973431,45.6997607280157,0 5.02429641580692,45.6998450918915,0 5.02462208030483,45.6997303355766,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.2811">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69287000ZB0040</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT-BONNET-DE-MURE</SimpleData>
+					<SimpleData name="Adresse">DORMON  OUEST</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT FRANCAIS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.704043516213 </north>
+			<south> 45.7027512308073 </south>
+			<east> 5.05065988033382 </east>
+			<west> 5.04899947364313 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.05065988033382,45.70309515135,0 5.05005099811425,45.7027512308073,0 5.04996592649313,45.70281808587239,0 5.04958933305319,45.7030945432609,0 5.04899947364313,45.7035277417643,0 5.04901343351428,45.7035471250859,0 5.04906929801628,45.7036288015296,0 5.04935207170293,45.704043516213,0 5.04993475903708,45.7036317950846,0 5.05031814856036,45.7033513395024,0 5.05065988033382,45.70309515135,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.3039">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69287000ZI0046</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT-BONNET-DE-MURE</SimpleData>
+					<SimpleData name="Adresse">TEYZIN SUD</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6856155060358 </north>
+			<south> 45.6851935209046 </south>
+			<east> 5.00067287274135 </east>
+			<west> 4.99953703600363 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.00067287274135,45.6851935209046,0 5.00048571153681,45.68521017663671,0 5.0002851021133,45.6852316648269,0 5.00022605644635,45.6852372172696,0 5.00006511995094,45.6852505241101,0 4.99983771445097,45.6852702353814,0 4.99967145507577,45.6852856178646,0 4.9995700941154,45.6852938128227,0 4.99953703600363,45.6852965615416,0 4.99960408140616,45.6856155060358,0 5.00005567435356,45.68544075496621,0 5.00023830551259,45.68536986378831,0 5.00029721095682,45.6853462082905,0 5.00045773468258,45.6852823750742,0 5.00059639361637,45.6852287484114,0 5.00063446657741,45.6852118582425,0 5.00067287274135,45.6851935209046,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.3173">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69287000ZH0052</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT-BONNET-DE-MURE</SimpleData>
+					<SimpleData name="Adresse">PLANAISE</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7138642458251 </north>
+			<south> 45.71346268554359 </south>
+			<east> 5.05117282510096 </east>
+			<west> 5.0503955533502 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.0503955533502,45.7138014296402,0 5.0504942905392,45.7138564729312,0 5.05074532089964,45.7138642458251,0 5.05085902245468,45.71385470009161,0 5.05105398866268,45.7138381803911,0 5.05117282510096,45.713831873804,0 5.05094761025531,45.71346268554359,0 5.05090224564591,45.71349458840769,0 5.05083444724445,45.71353527686641,0 5.0503955533502,45.7138014296402,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.3433">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69287000ZH0062</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT-BONNET-DE-MURE</SimpleData>
+					<SimpleData name="Adresse">PLANAISE</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT FRANCAIS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.71224006881611 </north>
+			<south> 45.7100232862749 </south>
+			<east> 5.05439507003194 </east>
+			<west> 5.05217912791356 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.05319694513533,45.71224006881611,0 5.05347973839536,45.7121199750658,0 5.05395148374449,45.7119359036026,0 5.05439507003194,45.71176576526121,0 5.05414184342766,45.7114147493726,0 5.05387279477035,45.7110253774492,0 5.05317868206426,45.7100232862749,0 5.05317244286401,45.7100249313007,0 5.05289652768255,45.7100979679705,0 5.05283136398527,45.710119422893,0 5.05249853919187,45.7102180868807,0 5.05217912791356,45.7103144337652,0 5.05319694513533,45.71224006881611,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.3478">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69287000ZH0064</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT-BONNET-DE-MURE</SimpleData>
+					<SimpleData name="Adresse">PLANAISE</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">ETAT MINISTERE DES TRANSPORTS SERVICE DES BASES AERIENNES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7109272511636 </north>
+			<south> 45.7098616664771 </south>
+			<east> 5.05453343153319 </east>
+			<west> 5.0534937320433 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.05453343153319,45.7108245286641,0 5.05405891134393,45.7102100124076,0 5.05378766387317,45.7098616664771,0 5.0534937320433,45.7099411583844,0 5.05419072692223,45.7109272511636,0 5.05419568461695,45.71092571952281,0 5.05453343153319,45.7108245286641,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.3502">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69287000ZK0065</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT-BONNET-DE-MURE</SimpleData>
+					<SimpleData name="Adresse">TEYZIN SUD</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.68903922257149 </north>
+			<south> 45.6887102978257 </south>
+			<east> 4.99367332307229 </east>
+			<west> 4.99307967760585 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.99307967760585,45.6890103112064,0 4.99308496040596,45.68903922257149,0 4.99323368321671,45.68895768342,0 4.99340438372343,45.6888618832533,0 4.99350910599146,45.6888040920537,0 4.99358809596445,45.6887598173632,0 4.99367332307229,45.6887102978257,0 4.99351036059737,45.68879253997521,0 4.99330309234623,45.6888971844312,0 4.99307967760585,45.6890103112064,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.3539">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69287000ZK0067</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT-BONNET-DE-MURE</SimpleData>
+					<SimpleData name="Adresse">TEYZIN SUD</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6883613004634 </north>
+			<south> 45.6882907605208 </south>
+			<east> 4.99457956161985 </east>
+			<west> 4.9944183974235 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.9944183974235,45.6883613004634,0 4.99457956161985,45.68831124635101,0 4.99457663822008,45.6882907605208,0 4.99453933194425,45.68830763500029,0 4.9944183974235,45.6883613004634,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.3583">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69287000AL0007</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT-BONNET-DE-MURE</SimpleData>
+					<SimpleData name="Adresse">RUE JACQUES DE VAUCANSON</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">MINISTERE ECOLOGIE DEVELOPPEMENT TRANSPORTS LOGEMENT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6988199054689 </north>
+			<south> 45.6986940480051 </south>
+			<east> 5.01530515367398 </east>
+			<west> 5.01470008926032 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.01530515367398,45.6987699652069,0 5.01529839318687,45.69875729508481,0 5.01525329526489,45.6987579216317,0 5.01519101306213,45.6987561532026,0 5.01514246354659,45.6987537787973,0 5.0150897277227,45.698749407458,0 5.0150539985258,45.6987460830852,0 5.01502274266922,45.6987420481483,0 5.01499237295918,45.69873763704241,0 5.01496454305151,45.6987323698035,0 5.01492994770042,45.6987248815326,0 5.01490268471968,45.6987175323491,0 5.01487630133101,45.6987096269614,0 5.01485558353836,45.6987019805551,0 5.01484620944548,45.6986987252442,0 5.01483575517245,45.6986940480051,0 5.01470008926032,45.6986962940049,0 5.01477426484372,45.6988199054689,0 5.01501724945864,45.69877475457389,0 5.01530515367398,45.6987699652069,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.3667">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69287000ZH0075</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT-BONNET-DE-MURE</SimpleData>
+					<SimpleData name="Adresse">PLANAISE</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7106461034893 </north>
+			<south> 45.7089436614813 </south>
+			<east> 5.05667512897888 </east>
+			<west> 5.05477409507371 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.05477409507371,45.7092834815638,0 5.05623111071731,45.7106461034893,0 5.05631632679193,45.7105933835269,0 5.05667512897888,45.71036010622309,0 5.05654406290869,45.7102344057912,0 5.05625541452082,45.7099441238029,0 5.05658257088265,45.7097554728973,0 5.05653040976922,45.7097150785583,0 5.05628473033026,45.7095291348172,0 5.05596650940155,45.7092871337724,0 5.05552396331397,45.70895182595411,0 5.0553838994098,45.7089436614813,0 5.05527962337709,45.7089920442997,0 5.05508833967949,45.7090864228804,0 5.05498819201491,45.7091421166112,0 5.05485366256238,45.7092171736824,0 5.05477409507371,45.7092834815638,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.3694">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69287000ZI0077</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT-BONNET-DE-MURE</SimpleData>
+					<SimpleData name="Adresse">TEYZIN SUD</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6883984369294 </north>
+			<south> 45.6881891329057 </south>
+			<east> 4.99351337517355 </east>
+			<west> 4.99305262040423 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.99305262040423,45.6882948568918,0 4.99306329180596,45.6883984369294,0 4.9932590201802,45.6883088598269,0 4.99351337517355,45.6881913117545,0 4.99336163872129,45.6881891329057,0 4.99333462242416,45.68820267218329,0 4.99324630229059,45.6882305376141,0 4.99305262040423,45.6882948568918,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.3714">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69287000ZK0078</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT-BONNET-DE-MURE</SimpleData>
+					<SimpleData name="Adresse">SUR FOUSSIAUX</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6869048994727 </north>
+			<south> 45.6867720898244 </south>
+			<east> 4.99873045499023 </east>
+			<west> 4.99850817033752 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.99850817033752,45.6868527108991,0 4.99851134054915,45.6869048994727,0 4.99873045499023,45.6868120152163,0 4.99872657087374,45.6867720898244,0 4.99869963624331,45.6867842778142,0 4.99867179602924,45.68679630171161,0 4.99862616302417,45.6868138657968,0 4.99850817033752,45.6868527108991,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.3732">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69287000ZI0079</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT-BONNET-DE-MURE</SimpleData>
+					<SimpleData name="Adresse">TEYZIN SUD</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6881913117545 </north>
+			<south> 45.6876432416076 </south>
+			<east> 4.99448853456837 </east>
+			<west> 4.99336163872129 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.99436038394906,45.6876432416076,0 4.99432637800904,45.6876660927578,0 4.9943016300533,45.68768193411999,0 4.99423480589628,45.6877356322121,0 4.99415217823297,45.6877930329764,0 4.99403714065478,45.6878747877936,0 4.99391465446456,45.6879602774261,0 4.99382695520623,45.6879982209742,0 4.99367008367662,45.6880639615363,0 4.99348735995693,45.6881398877325,0 4.99336163872129,45.6881891329057,0 4.99351337517355,45.6881913117545,0 4.99363872132571,45.6881352271851,0 4.99378994360125,45.6880660736559,0 4.99383937657155,45.68803619381821,0 4.99391898011908,45.68798758431001,0 4.99404752521602,45.6879097340498,0 4.99420683202069,45.6878153052955,0 4.99448853456837,45.68764718787379,0 4.99436038394906,45.6876432416076,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.3733">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69287000ZK0079</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT-BONNET-DE-MURE</SimpleData>
+					<SimpleData name="Adresse">SUR FOUSSIAUX</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6868120152163 </north>
+			<south> 45.6866558716544 </south>
+			<east> 4.99901005310888 </east>
+			<west> 4.99872657087374 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.99872657087374,45.6867720898244,0 4.99873045499023,45.6868120152163,0 4.9987326091766,45.6868111662954,0 4.99878642154006,45.6867887730035,0 4.99901005310888,45.6866893224652,0 4.99900678827306,45.6866558716544,0 4.99896019628078,45.68667534452111,0 4.99887287807645,45.6867130150964,0 4.99872657087374,45.6867720898244,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.3754">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69287000AZ0080</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT-BONNET-DE-MURE</SimpleData>
+					<SimpleData name="Adresse">LE CHATAIGNIER</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6809370618619 </north>
+			<south> 45.68066625395599 </south>
+			<east> 5.02096684940706 </east>
+			<west> 5.0204043901907 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.02096684940706,45.6809370618619,0 5.02084323021338,45.68066625395599,0 5.0204043901907,45.6807897872293,0 5.02070380922846,45.68086710700629,0 5.02096684940706,45.6809370618619,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.3756">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69287000ZI0080</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT-BONNET-DE-MURE</SimpleData>
+					<SimpleData name="Adresse">TEYZIN SUD</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.68764718787379 </north>
+			<south> 45.6875548600669 </south>
+			<east> 4.99448853456837 </east>
+			<west> 4.99436038394906 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.99443123954921,45.6875944262996,0 4.99436038394906,45.6876432416076,0 4.99448853456837,45.68764718787379,0 4.99446811298556,45.6875548600669,0 4.99443123954921,45.6875944262996,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.3757">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69287000ZK0080</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT-BONNET-DE-MURE</SimpleData>
+					<SimpleData name="Adresse">SUR FOUSSIAUX</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6866893224652 </north>
+			<south> 45.6865694975344 </south>
+			<east> 4.99921431229957 </east>
+			<west> 4.99900678827306 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.99900678827306,45.6866558716544,0 4.99901005310888,45.6866893224652,0 4.99901093916654,45.686688946431,0 4.99905561753547,45.6866627517085,0 4.99921431229957,45.6865694975344,0 4.99912417205413,45.686607308476,0 4.99900678827306,45.6866558716544,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.3772">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69287000ZH0082</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT-BONNET-DE-MURE</SimpleData>
+					<SimpleData name="Adresse">PLANAISE</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7082823956247 </north>
+			<south> 45.7075899116063 </south>
+			<east> 5.05956003693283 </east>
+			<west> 5.05783820734553 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.05789820598002,45.7075899116063,0 5.05783820734553,45.70774315105681,0 5.0587143100921,45.7082823956247,0 5.05910078903959,45.70816120349711,0 5.05922486471313,45.7081302008217,0 5.05956003693283,45.70804687717531,0 5.05789820598002,45.7075899116063,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.3778">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69287000ZI0083</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT-BONNET-DE-MURE</SimpleData>
+					<SimpleData name="Adresse">SUR FOUSSIAUX</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.68701732897931 </north>
+			<south> 45.68675241832671 </south>
+			<east> 4.99651701246783 </east>
+			<west> 4.99597055469473 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.99597629520368,45.6869199438738,0 4.99597055469473,45.68701732897931,0 4.99611954289572,45.686964786018,0 4.996288300932,45.6869045061449,0 4.99651701246783,45.68682460744411,0 4.99650386899146,45.68675241832671,0 4.99641174155588,45.6867886408933,0 4.99632757925373,45.6868140931027,0 4.99615757497252,45.686864756864,0 4.99597629520368,45.6869199438738,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.3796">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69287000ZI0084</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT-BONNET-DE-MURE</SimpleData>
+					<SimpleData name="Adresse">SUR FOUSSIAUX</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.68682460744411 </north>
+			<south> 45.6862019190045 </south>
+			<east> 4.9978384235893 </east>
+			<west> 4.99650386899146 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.99651701246783,45.68682460744411,0 4.99655215466757,45.6868119141944,0 4.99664260735117,45.6867791441333,0 4.99673491178608,45.6867442693957,0 4.99689194010898,45.68667951251171,0 4.9970988935664,45.6865950440856,0 4.99740463853889,45.6864738734699,0 4.9978384235893,45.6862967449941,0 4.99783191529275,45.6862019190045,0 4.99764174419802,45.6862848301019,0 4.99744448727797,45.68637083907391,0 4.99729365472523,45.6864362975851,0 4.99718047890101,45.6864839735272,0 4.99705333890142,45.68653288778591,0 4.9967377353435,45.6866622490664,0 4.99668490105279,45.6866832728708,0 4.99650386899146,45.68675241832671,0 4.99651701246783,45.68682460744411,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.3834">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69287000ZI0086</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT-BONNET-DE-MURE</SimpleData>
+					<SimpleData name="Adresse">SUR FOUSSIAUX</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6861815648661 </north>
+			<south> 45.6859613630892 </south>
+			<east> 4.99881462308011 </east>
+			<west> 4.99811753802089 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.99811753802089,45.6860183194445,0 4.99812626048604,45.6861815648661,0 4.99819479236341,45.6861539564835,0 4.99835732546893,45.68608513644421,0 4.99842938990091,45.6860663828915,0 4.99859548127461,45.6860213698455,0 4.99881462308011,45.6859613630892,0 4.99871594491332,45.6859691493378,0 4.998458314371,45.6859954292761,0 4.9983610781552,45.6860040003235,0 4.99833319767738,45.6860042247345,0 4.99811753802089,45.6860183194445,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.3947">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69287000ZI0090</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT-BONNET-DE-MURE</SimpleData>
+					<SimpleData name="Adresse">SUR FOUSSIAUX</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6859954292761 </north>
+			<south> 45.6858789684941 </south>
+			<east> 4.99900813084555 </east>
+			<west> 4.99845462556334 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.99900813084555,45.6859068551682,0 4.99900095448106,45.6858789684941,0 4.99899905070317,45.6858796328221,0 4.99891554773229,45.6858948064969,0 4.99874623141739,45.6859216816423,0 4.99845462556334,45.6859680211571,0 4.998458314371,45.6859954292761,0 4.99871594491332,45.6859691493378,0 4.99881462308011,45.6859613630892,0 4.99900813084555,45.6859068551682,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.3983">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69287000ZI0092</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT-BONNET-DE-MURE</SimpleData>
+					<SimpleData name="Adresse">SUR FOUSSIAUX</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6859068551682 </north>
+			<south> 45.68515043995241 </south>
+			<east> 5.00103424688375 </east>
+			<west> 4.99900095448106 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.00067287274135,45.6851935209046,0 5.00063446657741,45.6852118582425,0 5.00059639361637,45.6852287484114,0 5.00045773468258,45.6852823750742,0 5.00029721095682,45.6853462082905,0 5.00022193783838,45.6853863683704,0 4.99998419132807,45.6855111135587,0 4.99973747121863,45.685640071024,0 4.99957906866609,45.6856915249359,0 4.99932044233108,45.685775564099,0 4.99900095448106,45.6858789684941,0 4.99900813084555,45.6859068551682,0 4.99915037608632,45.68586703859,0 4.99937594794783,45.685785838508,0 4.99958433972022,45.68570935674389,0 4.99972270805357,45.6856618616044,0 4.99979715628896,45.68563441741609,0 4.99997218487156,45.685570057155,0 5.00009207735993,45.68552343007219,0 5.0003398147234,45.6854226479434,0 5.00054717281496,45.685338976524,0 5.00076771022665,45.68525371944501,0 5.00103424688375,45.68515043995241,0 5.00085854115902,45.6851711264282,0 5.00071534700798,45.6851881725051,0 5.00067287274135,45.6851935209046,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.3997">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69287000ZI0093</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT-BONNET-DE-MURE</SimpleData>
+					<SimpleData name="Adresse">FOUSSIAUX</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.68507346882419 </north>
+			<south> 45.6849183402413 </south>
+			<east> 5.00150007544658 </east>
+			<west> 5.0012801432814 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.0014584396,45.6849183402413,0 5.0014517429745,45.6850103381348,0 5.0012801432814,45.68507346882419,0 5.00150007544658,45.6850212794168,0 5.0014584396,45.6849183402413,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.4017">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69287000ZI0094</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT-BONNET-DE-MURE</SimpleData>
+					<SimpleData name="Adresse">FOUSSIAUX</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.685112428332 </north>
+			<south> 45.6849183402413 </south>
+			<east> 5.0014584396 </east>
+			<west> 5.00089728697007 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.00109733533256,45.6850292460291,0 5.00089728697007,45.685112428332,0 5.00119739940415,45.685081154315,0 5.0012801432814,45.68507346882419,0 5.0014517429745,45.6850103381348,0 5.0014584396,45.6849183402413,0 5.00132623909886,45.6849586118672,0 5.00109733533256,45.6850292460291,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

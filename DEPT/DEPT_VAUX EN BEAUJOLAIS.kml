@@ -1,0 +1,589 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>VAUX EN BEAUJOLAIS_DEPT</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_3">
+		<name>VAUX EN BEAUJOLAIS_DEPT</name>
+		<Schema name="VAUX EN BEAUJOLAIS_DEPT" id="VAUX EN BEAUJOLAIS_DEPT.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="DEPT">
+			<LineStyle>
+				<color>BF63f16c</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C63f16c</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.145">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69257000AL0477</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">VAUX EN BEAUJOLAIS</SimpleData>
+					<SimpleData name="Adresse">CROIX SAUNIER</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0499303100274 </north>
+			<south> 46.04966901797609 </south>
+			<east> 4.57902241892926 </east>
+			<west> 4.57873772236176 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.57879948490147,46.04966901797609,0 4.57873772236176,46.0497299526797,0 4.57885652692706,46.0498715952647,0 4.57891538769002,46.0499303100274,0 4.57902241892926,46.0498241616237,0 4.57889644019118,46.04975701453881,0 4.57879948490147,46.04966901797609,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.146">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69257000AL0479</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">VAUX EN BEAUJOLAIS</SimpleData>
+					<SimpleData name="Adresse">CROIX SAUNIER</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0497299526797 </north>
+			<south> 46.049488110482 </south>
+			<east> 4.57879948490147 </east>
+			<west> 4.57855097657456 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.57879948490147,46.04966901797609,0 4.57867365722471,46.0495350387555,0 4.57855097657456,46.049488110482,0 4.57856012323388,46.0495003223398,0 4.57873638280443,46.0497283501225,0 4.57873772236176,46.0497299526797,0 4.57879948490147,46.04966901797609,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.624">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69257000AC0011</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">VAUX EN BEAUJOLAIS</SimpleData>
+					<SimpleData name="Adresse">BOURDISSONNE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0551809815022 </north>
+			<south> 46.05487648234439 </south>
+			<east> 4.59287595732724 </east>
+			<west> 4.59163660391826 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.59183684656962,46.0550992904675,0 4.59195254507185,46.0551142387189,0 4.59210070774151,46.0551334145792,0 4.59225291207136,46.0551492010051,0 4.59262167546551,46.0551694216381,0 4.59287595732724,46.0551809815022,0 4.59280701569938,46.0551545693696,0 4.59275257781339,46.0551375907002,0 4.59256438684998,46.05510762934599,0 4.59232825758133,46.0550706850938,0 4.5921409942101,46.0550459339277,0 4.59205125030016,46.0550248571785,0 4.59189506206359,46.0549697669622,0 4.59163660391826,46.05487648234439,0 4.59171912770524,46.0549698948061,0 4.59183684656962,46.0550992904675,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2310">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69257000AP0206</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">VAUX EN BEAUJOLAIS</SimpleData>
+					<SimpleData name="Adresse">CROIX MONTMAIN</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.056367755719 </north>
+			<south> 46.05615102900501 </south>
+			<east> 4.5366582819756 </east>
+			<west> 4.53610276823481 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.53658055374298,46.05615102900501,0 4.53610276823481,46.0562517109753,0 4.5363041595469,46.0562875311812,0 4.5364575245472,46.0563176070311,0 4.5366582819756,46.056367755719,0 4.53660997070235,46.0562315098063,0 4.53658055374298,46.05615102900501,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2706">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69257000AB0238</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">VAUX EN BEAUJOLAIS</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0558926014219 </north>
+			<south> 46.05577245335729 </south>
+			<east> 4.59128340168382 </east>
+			<west> 4.59102254276136 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.59124661464718,46.0558926014219,0 4.59128340168382,46.055795893268,0 4.59114378177474,46.05577245335729,0 4.59113648834733,46.0557841743821,0 4.59102254276136,46.055807479321,0 4.59110285990932,46.0558380561663,0 4.59124661464718,46.0558926014219,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3053">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69257000AP0270</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">VAUX EN BEAUJOLAIS</SimpleData>
+					<SimpleData name="Adresse">CROIX MONTMAIN</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0589127920759 </north>
+			<south> 46.0583308707276 </south>
+			<east> 4.53760960646594 </east>
+			<west> 4.53736688337489 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.53742745601366,46.0583503144723,0 4.53736688337489,46.0583308707276,0 4.53748443466316,46.05868990201159,0 4.53750526772561,46.05885191878119,0 4.53749946684291,46.0589127920759,0 4.53760960646594,46.05886806710251,0 4.53755829423487,46.058647830511,0 4.53742745601366,46.0583503144723,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3777">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69257000AD0340</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">VAUX EN BEAUJOLAIS</SimpleData>
+					<SimpleData name="Adresse">MERIN</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.04865044608339 </north>
+			<south> 46.0484402654653 </south>
+			<east> 4.60485871501758 </east>
+			<west> 4.60456132785723 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.60465351156725,46.0484402654653,0 4.60456132785723,46.0484816501433,0 4.60457021364635,46.04849359347089,0 4.60465945599645,46.0485774445259,0 4.60473470441509,46.0486250161448,0 4.6047834362457,46.04865044608339,0 4.60483881840472,46.0486023766909,0 4.60485871501758,46.0485749846987,0 4.6048430604539,46.0485660193627,0 4.60480112472439,46.0485518417947,0 4.60477389168569,46.0485406084943,0 4.60474945853852,46.04852780441,0 4.60472456129551,46.0485123949251,0 4.60469463300945,46.0484885902718,0 4.60466063503118,46.0484494416275,0 4.60465351156725,46.0484402654653,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3790">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69257000AD0342</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">VAUX EN BEAUJOLAIS</SimpleData>
+					<SimpleData name="Adresse">MERIN</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0484816501433 </north>
+			<south> 46.0482791152296 </south>
+			<east> 4.60465351156725 </east>
+			<west> 4.60441300104537 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.60441300104537,46.0482791152296,0 4.60447273402894,46.0483623932307,0 4.60456132785723,46.0484816501433,0 4.60465351156725,46.0484402654653,0 4.60461992835271,46.0483975982993,0 4.60458350278359,46.04833731807689,0 4.60441300104537,46.0482791152296,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3803">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69257000AD0344</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">VAUX EN BEAUJOLAIS</SimpleData>
+					<SimpleData name="Adresse">MERIN</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0487809184216 </north>
+			<south> 46.0485749846987 </south>
+			<east> 4.60525045481932 </east>
+			<west> 4.6047834362457 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.60485871501758,46.0485749846987,0 4.60483881840472,46.0486023766909,0 4.6047834362457,46.04865044608339,0 4.60482127077562,46.04867035597079,0 4.60492075339371,46.0486973192346,0 4.60518974160368,46.048766016084,0 4.60525045481932,46.0487809184216,0 4.60522930414195,46.0487432092762,0 4.60509191827144,46.04869399570559,0 4.60503685852378,46.04866892567421,0 4.60496447385858,46.0486352742115,0 4.60492847050379,46.048616058994,0 4.60489817995134,46.0485975735151,0 4.60485871501758,46.0485749846987,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3827">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69257000AD0348</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">VAUX EN BEAUJOLAIS</SimpleData>
+					<SimpleData name="Adresse">MERIN</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.04865142238649 </north>
+			<south> 46.04844467321909 </south>
+			<east> 4.60129687465855 </east>
+			<west> 4.60075421807187 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.60129687465855,46.0485344640707,0 4.60123985190954,46.0485041059546,0 4.60111562207676,46.048466770898,0 4.60075421807187,46.04844467321909,0 4.60080221479352,46.0484538129795,0 4.60089621030323,46.0484745524742,0 4.60096233696588,46.0485021702571,0 4.60108083243276,46.04855579862589,0 4.60119132817226,46.04860566693399,0 4.60129329645632,46.04865142238649,0 4.60129687465855,46.0485344640707,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3854">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69257000AD0350</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">VAUX EN BEAUJOLAIS</SimpleData>
+					<SimpleData name="Adresse">MERIN</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0487207339033 </north>
+			<south> 46.0485344640707 </south>
+			<east> 4.60163917849556 </east>
+			<west> 4.60129329645632 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.60129687465855,46.0485344640707,0 4.60129329645632,46.04865142238649,0 4.60134585060198,46.0486749083799,0 4.60144547918118,46.0487025030803,0 4.60150071355952,46.0487158635738,0 4.6016022672846,46.0487207339033,0 4.60163917849556,46.0487178707664,0 4.60162672311101,46.0486455422548,0 4.60157783488713,46.0486324524556,0 4.60151926242066,46.0486199497576,0 4.60137084707042,46.0485738597456,0 4.60129687465855,46.0485344640707,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.4013">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69257000AE0369</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">VAUX EN BEAUJOLAIS</SimpleData>
+					<SimpleData name="Adresse">LE PLAGERET</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.04630531135789 </north>
+			<south> 46.04609077841549 </south>
+			<east> 4.61514396056053 </east>
+			<west> 4.61481577298345 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.61500974752839,46.0460924200215,0 4.61496179903687,46.046137776695,0 4.61481577298345,46.04630531135789,0 4.61486120316435,46.04627989563491,0 4.61499717873013,46.0461929347528,0 4.61514396056053,46.04609077841549,0 4.61500974752839,46.0460924200215,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.4039">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69257000AE0371</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">VAUX EN BEAUJOLAIS</SimpleData>
+					<SimpleData name="Adresse">LE PLAGERET</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0460924200215 </north>
+			<south> 46.04566394925809 </south>
+			<east> 4.61539766768228 </east>
+			<west> 4.61500974752839 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.61529833908236,46.045674897006,0 4.61530213307241,46.04574239392691,0 4.6152891221676,46.0458146336587,0 4.61527878079781,46.045841260968,0 4.61522756100716,46.0459249432483,0 4.61520018482744,46.04595289404101,0 4.61509525812521,46.0460312167165,0 4.61503149616249,46.0460710343301,0 4.61500974752839,46.0460924200215,0 4.61514396056053,46.04609077841549,0 4.61526086583439,46.0460019272312,0 4.61529227088865,46.04597022624,0 4.61533840061543,46.04592021179829,0 4.6153765310506,46.0458488751294,0 4.61539079178149,46.0458015664057,0 4.61539766768228,46.04576264914841,0 4.61539685984396,46.0457219499376,0 4.61537135609924,46.04566394925809,0 4.61529833908236,46.045674897006,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.4055">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69257000AE0374</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">VAUX EN BEAUJOLAIS</SimpleData>
+					<SimpleData name="Adresse">LE PLAGERET</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.045674897006 </north>
+			<south> 46.0454630331632 </south>
+			<east> 4.61537135609924 </east>
+			<west> 4.61522483910202 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.61529833908236,46.045674897006,0 4.61537135609924,46.04566394925809,0 4.61533079549241,46.0455909416031,0 4.6152557684094,46.0454630331632,0 4.61523306120923,46.04546939120869,0 4.61522483910202,46.04550211294401,0 4.61527158294307,46.0455918752545,0 4.61529813442734,46.0456547246978,0 4.61529833908236,46.045674897006,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.4698">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69257000AL0471</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">VAUX EN BEAUJOLAIS</SimpleData>
+					<SimpleData name="Adresse">CROIX SAUNIER</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0502531410691 </north>
+			<south> 46.0500323722725 </south>
+			<east> 4.57984729846234 </east>
+			<west> 4.57937108859776 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.57984729846234,46.0501884317823,0 4.57965847684446,46.0501266644334,0 4.57956341571535,46.0500866478891,0 4.57943159650921,46.0500323722725,0 4.57937108859776,46.0501099522659,0 4.5795693800678,46.0501816756886,0 4.57979323005675,46.0502515115454,0 4.57979909784841,46.0502531410691,0 4.57984729846234,46.0501884317823,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.4708">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69257000AL0473</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">VAUX EN BEAUJOLAIS</SimpleData>
+					<SimpleData name="Adresse">CROIX SAUNIER</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0501099522659 </north>
+			<south> 46.04991752557319 </south>
+			<east> 4.57943159650921 </east>
+			<west> 4.57910744038034 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.57919313141374,46.04991752557319,0 4.57910744038034,46.0500100470193,0 4.57937108859776,46.0501099522659,0 4.57943159650921,46.0500323722725,0 4.5793307972605,46.04999072418921,0 4.57925775682157,46.0499607584019,0 4.57919313141374,46.04991752557319,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.4718">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69257000AL0475</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">VAUX EN BEAUJOLAIS</SimpleData>
+					<SimpleData name="Adresse">CROIX SAUNIER</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0500100470193 </north>
+			<south> 46.0498241616237 </south>
+			<east> 4.57919313141374 </east>
+			<west> 4.57891538769002 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.57902241892926,46.0498241616237,0 4.57891538769002,46.0499303100274,0 4.57892777223193,46.0499426569055,0 4.57909567127041,46.0500056174956,0 4.57910744038034,46.0500100470193,0 4.57919313141374,46.04991752557319,0 4.57911030552943,46.0498621169143,0 4.57902241892926,46.0498241616237,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

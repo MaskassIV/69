@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>CHEVINAY_PUBLICorASSOCIE</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_9">
+		<name>CHEVINAY_PUBLICorASSOCIE</name>
+		<Schema name="CHEVINAY_PUBLICorASSOCIE" id="CHEVINAY_PUBLICorASSOCIE.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="PUBLICorASSOCIE">
+			<LineStyle>
+				<color>BFdb2105</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4Cdb2105</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.1597">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69057000AB0001</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHEVINAY</SimpleData>
+					<SimpleData name="Adresse">LE MARTINET</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SOCIETE NATIONALE SNCF</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.79810437273409 </north>
+			<south> 45.7974174353026 </south>
+			<east> 4.59035992637558 </east>
+			<west> 4.58899789168947 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.58994485447887,45.7974174353026,0 4.58914697452366,45.7978536990035,0 4.58899789168947,45.7979351471038,0 4.58944004511842,45.79810437273409,0 4.58966767590529,45.7981035088411,0 4.58976792894288,45.7980837231455,0 4.59006169050952,45.7980228428832,0 4.59035339370705,45.79795757755269,0 4.59035992637558,45.7979161446265,0 4.59016817081732,45.7976603531827,0 4.58995400814738,45.7975072835643,0 4.58994485447887,45.7974174353026,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.7218">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69057000AK0219</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHEVINAY</SimpleData>
+					<SimpleData name="Adresse">LES BONNETIERES</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">CCOM</SimpleData>
+					<SimpleData name="Denomination">COMMUNAUTE COMMUNES PAYS DE L ARBRESLE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7737510465757 </north>
+			<south> 45.7732599685093 </south>
+			<east> 4.57328390448603 </east>
+			<west> 4.57256169833988 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.57325935006738,45.7734284814058,0 4.57301374250187,45.7732599685093,0 4.57291587861495,45.77327187072941,0 4.57275971959398,45.7733202519607,0 4.5727073949056,45.77328162217551,0 4.57263515933349,45.7733347777499,0 4.5726599066658,45.7733857708582,0 4.57266315532462,45.7733959031203,0 4.57266010243483,45.77340621328761,0 4.57265271422184,45.77341343154801,0 4.57256169833988,45.7734579322402,0 4.57269394070293,45.7735459755788,0 4.57273075056882,45.7735776163052,0 4.57274117527087,45.7735911611376,0 4.57275090697955,45.77361201103861,0 4.57275436018606,45.7736338491287,0 4.57275124681685,45.77365559862271,0 4.57283041597607,45.7737510465757,0 4.57316507860534,45.7736524410315,0 4.57328390448603,45.77360827258779,0 4.57325935006738,45.7734284814058,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.14702">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69057000AB0006</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHEVINAY</SimpleData>
+					<SimpleData name="Adresse">LE MARTINET</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SOCIETE NATIONALE SNCF</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.79738312177259 </north>
+			<south> 45.7961784759319 </south>
+			<east> 4.5901383880465 </east>
+			<west> 4.58895179353751 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.58921472622472,45.7962481069412,0 4.58911618118301,45.7963002923498,0 4.5890561961152,45.7962337665772,0 4.58900426005363,45.7961784759319,0 4.58898677035763,45.7961881792155,0 4.58895179353751,45.7962076758054,0 4.58900068898597,45.7962602171964,0 4.58905794960231,45.7963215574545,0 4.58899340431292,45.7963471445744,0 4.58905032033398,45.796409930765,0 4.58911270359653,45.7964702982065,0 4.58915179872985,45.79650442366431,0 4.5895368042745,45.7969432140454,0 4.5898756362073,45.7973254608883,0 4.58992001029947,45.7973371750559,0 4.58993421177992,45.7973608428382,0 4.58999004259723,45.7973277222303,0 4.59000628094914,45.7973416340459,0 4.59004700562556,45.79738312177259,0 4.59007545575392,45.79736948109749,0 4.59010555577539,45.7973550065664,0 4.59008699711178,45.7973365340213,0 4.590052230308,45.7973007266846,0 4.5901383880465,45.7972431308119,0 4.59009536555569,45.7971933893007,0 4.58995500658899,45.7970365779484,0 4.58980918129739,45.79688218517721,0 4.58973956660723,45.79681219269,0 4.58921472622472,45.7962481069412,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

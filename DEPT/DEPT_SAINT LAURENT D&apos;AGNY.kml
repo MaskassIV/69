@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>SAINT LAURENT D&apos;AGNY_DEPT</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_3">
+		<name>SAINT LAURENT D&apos;AGNY_DEPT</name>
+		<Schema name="SAINT LAURENT D&apos;AGNY_DEPT" id="SAINT LAURENT D&apos;AGNY_DEPT.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="DEPT">
+			<LineStyle>
+				<color>BF63f16c</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C63f16c</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.10">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">692190000B1157</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT LAURENT D&apos;AGNY</SimpleData>
+					<SimpleData name="Adresse">DEBARDE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6334076649205 </north>
+			<south> 45.6330356624821 </south>
+			<east> 4.69122334835325 </east>
+			<west> 4.69106626590006 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.69122334835325,45.6330356624821,0 4.69106626590006,45.6334076649205,0 4.6911618920839,45.6332261806257,0 4.69122334835325,45.6330356624821,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1513">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">692190000B1540</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT LAURENT D&apos;AGNY</SimpleData>
+					<SimpleData name="Adresse">NOYERAY</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6381756142647 </north>
+			<south> 45.6380255383711 </south>
+			<east> 4.68603580006672 </east>
+			<west> 4.68554309136262 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.68554309136262,45.6380255672016,0 4.6855516205018,45.6381455008922,0 4.68574699158677,45.63814815900579,0 4.6860186144054,45.6381756142647,0 4.68603580006672,45.6381454540366,0 4.68565689833007,45.6381199659075,0 4.6855450164196,45.6380255383711,0 4.68554309136262,45.6380255672016,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1645">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">692190000B1614</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT LAURENT D&apos;AGNY</SimpleData>
+					<SimpleData name="Adresse">BAS CLAIR</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6354420339584 </north>
+			<south> 45.63514473204549 </south>
+			<east> 4.69070200296854 </east>
+			<west> 4.69044605862251 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.69049156685927,45.6354420339584,0 4.69070200296854,45.6351646136161,0 4.69067045428756,45.63514473204549,0 4.69044605862251,45.6354148863095,0 4.69049156685927,45.6354420339584,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6571">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">692190000E0907</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT LAURENT D&apos;AGNY</SimpleData>
+					<SimpleData name="Adresse">FORNAIRE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6445589124796 </north>
+			<south> 45.6445295911856 </south>
+			<east> 4.68704381566601 </east>
+			<west> 4.68701583980203 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.6870347975236,45.6445295911856,0 4.68701583980203,45.6445311362825,0 4.68701951102489,45.6445589124796,0 4.68704381566601,45.6445558461438,0 4.6870347975236,45.6445295911856,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6605">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">692190000E0919</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT LAURENT D&apos;AGNY</SimpleData>
+					<SimpleData name="Adresse">FORNAIRE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6453613097639 </north>
+			<south> 45.6445558461438 </south>
+			<east> 4.68732107958416 </east>
+			<west> 4.68701951102489 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.68704381566601,45.6445558461438,0 4.68701951102489,45.6445589124796,0 4.68702927682555,45.6446223545961,0 4.68704717340303,45.6447756534569,0 4.68705699754941,45.6449295236519,0 4.68705860438791,45.6450834269415,0 4.68705211671836,45.6452371813472,0 4.6870331693046,45.6453613097639,0 4.68704753396302,45.6453396581236,0 4.68712751339464,45.6451619247586,0 4.68722541588753,45.6450287768797,0 4.68726384336009,45.64501297925711,0 4.68726661227059,45.6450111363778,0 4.68726925557072,45.64500938545011,0 4.6872718961276,45.64500754449471,0 4.68727440833107,45.6450057054633,0 4.68727692053437,45.64500386643181,0 4.68727930164118,45.64500193929671,0 4.68728180561488,45.6449998301824,0 4.68728393001489,45.6449979068952,0 4.68728630563501,45.64499579970489,0 4.68728855564483,45.644993784466,0 4.68729067455817,45.6449916811236,0 4.68729279072824,45.6449894877536,0 4.68729465293485,45.64498738825921,0 4.68729663526518,45.644985016758,0 4.68729862308157,45.6449828253119,0 4.68730035144831,45.6449805476863,0 4.68730207981491,45.6449782700606,0 4.68730367982819,45.6449759943589,0 4.68730527709822,45.6449736286297,0 4.68730687436811,45.6449712629005,0 4.6873083432847,45.64496889909531,0 4.68730968384801,45.644966537214,0 4.68731089057179,45.6449639972018,0 4.68731222839174,45.644961545293,0 4.6873133095053,45.64495909723231,0 4.68731438787562,45.644956559144,0 4.68731534063586,45.6449541130073,0 4.68731629065288,45.64495157684309,0 4.68731711231669,45.64494904260291,0 4.68731780562732,45.6449465102867,0 4.68731849893789,45.64494397797059,0 4.68731919224839,45.6449414456544,0 4.6873197544626,45.6449388252348,0 4.68732006271373,45.6449362986908,0 4.68732049657476,45.6449336801952,0 4.68732080482583,45.6449311536512,0 4.68732098198066,45.6449285390037,0 4.68732103078241,45.6449259262803,0 4.68732107958416,45.6449233135569,0 4.68732100003285,45.64492070275751,0 4.68732092048155,45.6449180919582,0 4.68732071532037,45.6449155731104,0 4.68732037906304,45.6449129661592,0 4.68732004280573,45.6449103592079,0 4.68731970929161,45.6449078422843,0 4.68731911907148,45.64490532920869,0 4.68731852610827,45.6449027261056,0 4.68731780753526,45.64490021495411,0 4.68731708621917,45.644897613775,0 4.68731623929331,45.6448951045475,0 4.68731526401453,45.6448925972441,0 4.68731428873584,45.6448900899407,0 4.68731331345725,45.6448875826372,0 4.68731220982577,45.6448850772578,0 4.68731098058457,45.6448826638301,0 4.68730974860034,45.6448801603747,0 4.68730839374953,45.6448778388985,0 4.68730678219295,45.64487552127031,0 4.68730529624632,45.6448731116906,0 4.68730381029982,45.6448707021108,0 4.68730219874363,45.64486838448261,0 4.68730045883466,45.6448660687784,0 4.68729846496312,45.6448638469499,0 4.68729672779755,45.6448616212732,0 4.68729473392631,45.6448593994445,0 4.68729274279834,45.6448572676434,0 4.68729075167051,45.6448551358423,0 4.68728850383705,45.6448530078891,0 4.68728625600377,45.644850879936,0 4.68728401091375,45.64484884201029,0 4.68728176582389,45.64484680408461,0 4.68727939238132,45.6448447680829,0 4.68727676771933,45.64484291598421,0 4.68727426866732,45.644840971934,0 4.68727177235855,45.6448391179112,0 4.68726914769709,45.64483726581241,0 4.68726639742601,45.64483550566509,0 4.68726364989815,45.64483383554521,0 4.68726077127457,45.64483207732181,0 4.68725802374705,45.6448304072018,0 4.6872551506099,45.6448288290334,0 4.68725214912008,45.6448272527888,0 4.68724927872629,45.64482576464781,0 4.68724602327417,45.6448242822786,0 4.68724302452787,45.6448227960613,0 4.68723990017193,45.6448214017956,0 4.68723677855915,45.64482009755719,0 4.6872335313367,45.6448188852704,0 4.6872302813714,45.6448175829559,0 4.68704381566601,45.6445558461438,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6689">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">692190000B0947</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT LAURENT D&apos;AGNY</SimpleData>
+					<SimpleData name="Adresse">RONZIERES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.64495725565321 </north>
+			<south> 45.6447921136851 </south>
+			<east> 4.67874730188651 </east>
+			<west> 4.67706109381688 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.67747145971581,45.6449124616332,0 4.67771166645162,45.64490230661631,0 4.67794930603322,45.6448921893544,0 4.67835432386808,45.6448712896886,0 4.67874730188651,45.6447921136851,0 4.67836544716196,45.6448612163006,0 4.67831534290756,45.644864665438,0 4.67777229395235,45.6448732115226,0 4.67741892846298,45.6448951407287,0 4.67706109381688,45.6449391121069,0 4.67706446834109,45.64495725565321,0 4.67707863923609,45.64495452260091,0 4.67715545520775,45.6449426599231,0 4.67720777998543,45.6449362059586,0 4.67745222307294,45.6449132887229,0 4.67747145971581,45.6449124616332,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>CERCIE_PUBLICorASSOCIE</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_9">
+		<name>CERCIE_PUBLICorASSOCIE</name>
+		<Schema name="CERCIE_PUBLICorASSOCIE" id="CERCIE_PUBLICorASSOCIE.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="PUBLICorASSOCIE">
+			<LineStyle>
+				<color>BFdb2105</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4Cdb2105</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.5751">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">690360000C0181</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CERCIE</SimpleData>
+					<SimpleData name="Adresse">PRES BADA</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SYMC</SimpleData>
+					<SimpleData name="Denomination">SYNDICAT MIXTE RIVIERES DU BEAUJOLAIS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1234417564529 </north>
+			<south> 46.1209792240587 </south>
+			<east> 4.64467613345038 </east>
+			<west> 4.6425479053582 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.6443527416241,46.1209908120359,0 4.6443461306987,46.1209906375771,0 4.64425110717074,46.1209792240587,0 4.64419170592288,46.1209808949176,0 4.64413979966113,46.1210338862343,0 4.64396739160049,46.1212454313935,0 4.64372893338707,46.12150918140771,0 4.6436364478144,46.12159554482781,0 4.64340710232869,46.1217917010206,0 4.64335573914026,46.12185423133591,0 4.64332999757309,46.1219072938859,0 4.64323651213642,46.12210742771759,0 4.64314837742262,46.1223089251172,0 4.64310779685005,46.1224720857025,0 4.64309679989756,46.1225590707002,0 4.64305451721027,46.12263074648769,0 4.64295063240966,46.1227994165578,0 4.64284165175974,46.122966629094,0 4.64270600131092,46.12314728727959,0 4.64262743481673,46.12324011347931,0 4.6425479053582,46.1233267388387,0 4.64262258773014,46.1234417564529,0 4.64285635475627,46.1233497470532,0 4.643088715796,46.12325406470621,0 4.64325865912456,46.12317189481521,0 4.64327815851994,46.1231612547456,0 4.64335569753992,46.12311635929321,0 4.64342951957606,46.1230684552643,0 4.6434995059345,46.1230179046574,0 4.6437318936189,46.1228107159827,0 4.64395793013682,46.1225991153477,0 4.64404824039324,46.1224963006809,0 4.64410372797688,46.122402816889,0 4.64417398689986,46.12221436726859,0 4.64421385375788,46.1221399339032,0 4.64427139608154,46.1220415565718,0 4.64433403335457,46.1219446365814,0 4.64448487198988,46.12175240772121,0 4.64456719592452,46.12165547265089,0 4.64467613345038,46.1215692304088,0 4.64454486884723,46.1214679134695,0 4.64443568977821,46.1213774449822,0 4.64440128116963,46.12134002456559,0 4.64434345280694,46.12125151430071,0 4.64430754243528,46.1211639475376,0 4.64431243048509,46.12109362343381,0 4.6443527416241,46.1209908120359,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.10339">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">690360000C0323</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CERCIE</SimpleData>
+					<SimpleData name="Adresse">PRES BADA</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SYMC</SimpleData>
+					<SimpleData name="Denomination">SYNDICAT MIXTE RIVIERES DU BEAUJOLAIS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1230317185251 </north>
+			<south> 46.1213136024454 </south>
+			<east> 4.64298035566324 </east>
+			<west> 4.64120912953384 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.64132234611868,46.1213136024454,0 4.64120912953384,46.1213868433578,0 4.64142422516864,46.1216886150099,0 4.64153418898891,46.12184446455301,0 4.64164678759857,46.1220191001717,0 4.64178328927444,46.1222133852078,0 4.6419092026938,46.12240007733809,0 4.64194021956617,46.1224410602052,0 4.64237915180287,46.1227603086558,0 4.64274412181376,46.1230317185251,0 4.64282641903662,46.12291641124839,0 4.64290600254691,46.1227970000313,0 4.64298035566324,46.1226759531414,0 4.64272743332987,46.1224653402856,0 4.64132234611868,46.1213136024454,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

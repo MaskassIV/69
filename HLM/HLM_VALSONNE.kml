@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>VALSONNE_HLM</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_5">
+		<name>VALSONNE_HLM</name>
+		<Schema name="VALSONNE_HLM" id="VALSONNE_HLM.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="HLM">
+			<LineStyle>
+				<color>BFe451f5</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4Ce451f5</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.772">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69254000AB0123</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">VALSONNE</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9469369441568 </north>
+			<south> 45.9467371034541 </south>
+			<east> 4.43090360218462 </east>
+			<west> 4.43063664898551 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.43063664898551,45.94689646340181,0 4.430646101132,45.9468975147564,0 4.43086131459363,45.9469369441568,0 4.43090360218462,45.9468104099136,0 4.43089729521606,45.9468012130518,0 4.43080191975718,45.9467627906188,0 4.43069654668815,45.9467371034541,0 4.43067844522157,45.9467857867341,0 4.43067192241805,45.9468030714218,0 4.43067132152951,45.94680479023451,0 4.43063979419646,45.94688831788019,0 4.43063664898551,45.94689646340181,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2068">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69254000AK0233</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">VALSONNE</SimpleData>
+					<SimpleData name="Adresse">LE PLAT</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.94896834254559 </north>
+			<south> 45.94823198821341 </south>
+			<east> 4.43508084973016 </east>
+			<west> 4.4342298812455 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.43451115854494,45.94896834254559,0 4.43508084973016,45.9488413355021,0 4.43481755357551,45.9482352995577,0 4.43443930233357,45.94823198821341,0 4.4342298812455,45.9483359642822,0 4.43423659713667,45.9483509198903,0 4.43451115854494,45.94896834254559,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.3539">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69254000AB0439</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">VALSONNE</SimpleData>
+					<SimpleData name="Adresse">LA TRAVERSERIE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9468561205771 </north>
+			<south> 45.94637917151719 </south>
+			<east> 4.4348299132975 </east>
+			<west> 4.43391712170987 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.4342310862928,45.9463841692049,0 4.43422176287859,45.94639797710041,0 4.43420572790812,45.9464217770982,0 4.43406800212271,45.94662625662011,0 4.43398853039298,45.9467474991618,0 4.43391712170987,45.9468561205771,0 4.43403320775249,45.946836997222,0 4.43433123080897,45.9467940428865,0 4.43453174123044,45.94677447952751,0 4.43465047368703,45.9467677508432,0 4.43472324733755,45.9467661078439,0 4.4348299132975,45.9467670072543,0 4.43472723995946,45.94669634758531,0 4.43438198108552,45.9464672774848,0 4.43424935226269,45.9463865495939,0 4.43423457112797,45.94637917151719,0 4.4342310862928,45.9463841692049,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.3554">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69254000AB0440</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">VALSONNE</SimpleData>
+					<SimpleData name="Adresse">LA TRAVERSERIE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9467670072543 </north>
+			<south> 45.9463748564876 </south>
+			<east> 4.4348299132975 </east>
+			<west> 4.43423457112797 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.43423457112797,45.94637917151719,0 4.43424935226269,45.9463865495939,0 4.43438198108552,45.9464672774848,0 4.43472723995946,45.94669634758531,0 4.4348299132975,45.9467670072543,0 4.43478089040784,45.9467288110788,0 4.43469661461922,45.9466655736094,0 4.43460993370728,45.94660416784851,0 4.43452109641959,45.94654423038131,0 4.4344299830715,45.9464861229761,0 4.43433658428242,45.9464294854897,0 4.43424104318269,45.9463748564876,0 4.43423457112797,45.94637917151719,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

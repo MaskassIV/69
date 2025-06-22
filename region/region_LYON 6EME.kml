@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>LYON 6EME_region</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_2">
+		<name>LYON 6EME_region</name>
+		<Schema name="LYON 6EME_region" id="LYON 6EME_region.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="region">
+			<LineStyle>
+				<color>BF318006</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C318006</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_2.244">
+		<styleUrl>#region</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_2.schema">
+					<SimpleData name="Numero de Parcelle">69386000AS0100</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LYON 6EME</SimpleData>
+					<SimpleData name="Adresse">125, RUE TRONCHET</SimpleData>
+					<SimpleData name="Groupe de personne">Region</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COLL</SimpleData>
+					<SimpleData name="Denomination">REGION AUVERGNE-RHONE-ALPES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7727473722522 </north>
+			<south> 45.77080087503001 </south>
+			<east> 4.85850196699258 </east>
+			<west> 4.85674728870585 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>4.85836046960924,45.7724295452462,15 4.85838015797419,45.7721041443897,15 4.85845270563065,45.771777512466,15 4.85846936457952,45.7717217525384,15 4.85850196699258,45.7716387077994,15 4.85849783836336,45.77163841551919,15 4.85844336103032,45.77163363831459,15 4.85844501507801,45.771625414346,15 4.85832710852088,45.7716137554746,15 4.85817136485207,45.7715983961632,15 4.85818064919051,45.77154915299371,15 4.85817251756205,45.7715484762668,15 4.85817326968713,45.77154405026,15 4.85818140434275,45.7715448170108,15 4.8581883868767,45.7715075015016,15 4.85818038086731,45.7715067326324,15 4.85818113299119,45.7715023066256,15 4.85818913597215,45.7715029854708,15 4.85819611546778,45.7714655799371,15 4.85818824113288,45.77146489897359,15 4.85818921117555,45.7714592984174,15 4.85819708853747,45.77146006940481,15 4.85820394543732,45.7714228460376,15 4.85819631325061,45.771421710717,15 4.85819707748332,45.77141764480601,15 4.85820482317097,45.77141832788781,15 4.85821168308826,45.7713811945442,15 4.85820406301845,45.77138041932,15 4.85820494377924,45.77137599119419,15 4.85821268946114,45.77137667427541,15 4.85821967195272,45.77133935876461,15 4.85821192627596,45.7713386756838,15 4.85821290236968,45.7713332551753,15 4.85822077668612,45.7713339361371,15 4.8582276305265,45.7712966227448,15 4.85821988182779,45.7712958496406,15 4.85822076561381,45.77129151153861,15 4.85822851431193,45.77129228464269,15 4.85823536208618,45.77125479120209,15 4.85822748778084,45.7712541102413,15 4.85823719270798,45.7712020678491,15 4.85824919862924,45.7712031311226,15 4.85827338294057,45.7710764492259,15 4.85827349341286,45.7710759069631,15 4.85824615818503,45.7710744656806,15 4.8582761217658,45.7709167932583,15 4.85782790986496,45.770873463871,15 4.8578270774851,45.77087167610221,15 4.85767587171973,45.7708572322246,15 4.85767609872904,45.7708563277482,15 4.85723886751866,45.7708141663248,15 4.85723890685954,45.7708153366368,15 4.85708873051589,45.77080087503001,15 4.85706785967393,45.7709075056972,15 4.85696450001008,45.7714473080555,15 4.85695081936665,45.7715189617773,15 4.8569584485154,45.7715200071581,15 4.85689317789462,45.7718566064661,15 4.85688583321534,45.7718563670621,15 4.85687214026589,45.7719276606797,15 4.85676802307644,45.7724680157338,15 4.85674728870585,45.7725749143053,15 4.85743392308799,45.7726382826321,15 4.85748350076432,45.77264278071549,15 4.85806751091429,45.7726972962075,15 4.85811748068149,45.77270196770411,15 4.85832154754151,45.7727188730855,15 4.85836166775627,45.77272154494491,15 4.85836462687901,45.7727444650337,15 4.85836858611961,45.7727473722522,15 4.85834235569119,45.7724688456061,15 4.85832906003445,45.7724677135089,15 4.85833386933219,45.7724346672585,15 4.85836046960924,45.7724295452462,15</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_2.262">
+		<styleUrl>#region</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_2.schema">
+					<SimpleData name="Numero de Parcelle">69386000AL0054</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LYON 6EME</SimpleData>
+					<SimpleData name="Adresse">55, RUE DE CREQUI</SimpleData>
+					<SimpleData name="Groupe de personne">Region</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COLL</SimpleData>
+					<SimpleData name="Denomination">REGION AUVERGNE-RHONE-ALPES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7724063597858 </north>
+			<south> 45.7719798908488 </south>
+			<east> 4.84575942829477 </east>
+			<west> 4.84547961015945 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>4.8455542372337,45.7719798908488,15 4.84547961015945,45.77238527148911,15 4.84562423505189,45.7723992088743,15 4.84562093844194,45.77240070398179,15 4.84568265253455,45.7724063597858,15 4.84568374115304,45.772404270285,15 4.84575942829477,45.771995989789,15 4.8455542372337,45.7719798908488,15</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_2.264">
+		<styleUrl>#region</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_2.schema">
+					<SimpleData name="Numero de Parcelle">69386000AL0061</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LYON 6EME</SimpleData>
+					<SimpleData name="Adresse">RUE DUGUESCLIN</SimpleData>
+					<SimpleData name="Groupe de personne">Region</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COLL</SimpleData>
+					<SimpleData name="Denomination">REGION AUVERGNE-RHONE-ALPES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7725426006916 </north>
+			<south> 45.77182131402261 </south>
+			<east> 4.84644273973523 </east>
+			<west> 4.84566504794475 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>4.84604065001742,45.7718452891265,15 4.84579387961027,45.77182131402261,15 4.84578828130541,45.77185022914269,15 4.84575942829477,45.771995989789,15 4.84568374115304,45.772404270285,15 4.84568265253455,45.7724063597858,15 4.84566504794475,45.7724842911674,15 4.84578768643077,45.7724950751761,15 4.84579439695178,45.7724955958992,15 4.8458478418837,45.7725003060251,15 4.84588115224783,45.77250336395,15 4.84591355308669,45.7725061665265,15 4.8459596412884,45.7725102763835,15 4.84603154545828,45.7725165759245,15 4.84612075407472,45.77252457386861,15 4.84613947659447,45.7725263391825,15 4.84624804797879,45.7725360017866,15 4.84625140474814,45.7725363071467,15 4.8463181602289,45.7725426006916,15 4.84634177957226,45.7724289917108,15 4.84639762921924,45.7721282228712,15 4.8464003458539,45.7721132262028,15 4.84644273973523,45.77188356543049,15 4.84630187669221,45.7718704682831,15 4.84629864860516,45.7718701608192,15 4.84604065001742,45.7718452891265,15</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

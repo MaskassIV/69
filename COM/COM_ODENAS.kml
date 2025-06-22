@@ -1,0 +1,1546 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>ODENAS_COM</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_4">
+		<name>ODENAS_COM</name>
+		<Schema name="ODENAS_COM" id="ODENAS_COM.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="COM">
+			<LineStyle>
+				<color>BFe6c645</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4Ce6c645</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.25">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691450000C1005</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ODENAS</SimpleData>
+					<SimpleData name="Adresse">353, RUE DU BEAUJOLAIS</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE D ODENAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.086601338523 </north>
+			<south> 46.0864812491254 </south>
+			<east> 4.64622429560995 </east>
+			<west> 4.64612177875971 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.64615573973119,46.0864812491254,0 4.64612177875971,46.0864883168332,0 4.64619726489217,46.086601338523,0 4.64622429560995,46.08659193949159,0 4.64615573973119,46.0864812491254,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.275">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691450000A0165</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ODENAS</SimpleData>
+					<SimpleData name="Adresse">COTE DE BROUILLY</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE D ODENAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.103064736555 </north>
+			<south> 46.1029890597223 </south>
+			<east> 4.64826055989399 </east>
+			<west> 4.6481370801664 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.64822490888811,46.1029890597223,0 4.6481370801664,46.1030265426804,0 4.64817396323925,46.103064736555,0 4.64826055989399,46.1030293430376,0 4.64822490888811,46.1029890597223,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.2823">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691450000C1023</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ODENAS</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE D ODENAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.089127406667 </north>
+			<south> 46.0886373979729 </south>
+			<east> 4.64669418237627 </east>
+			<west> 4.64585338814607 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.64643523409018,46.0886373979729,0 4.64591287742679,46.0886707357572,0 4.64589743689071,46.0886781652095,0 4.64588346281205,46.0886870144851,0 4.64587172344561,46.0886970022353,0 4.64586621095608,46.08870311678551,0 4.64585338814607,46.08872446888411,0 4.64587400418767,46.089127406667,0 4.64647583135117,46.0890201406341,0 4.64643964016824,46.08886646842169,0 4.64669418237627,46.0888421490398,0 4.64667592429726,46.0887512646294,0 4.64646227827529,46.0887752607782,0 4.64645387194109,46.0887323299902,0 4.64643523409018,46.0886373979729,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.2861">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691450000C1027</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ODENAS</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE D ODENAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0893062198834 </north>
+			<south> 46.0875566567454 </south>
+			<east> 4.64907037147623 </east>
+			<west> 4.64718618071795 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.64873090857729,46.0875566567454,0 4.64840930289611,46.0876450931791,0 4.64833572778069,46.0876649863652,0 4.64831840402804,46.08767865824661,0 4.64797766766732,46.0879320167184,0 4.64769954565935,46.0880979089934,0 4.6474953986244,46.0882184127728,0 4.64746250738842,46.0882352828106,0 4.64723183315527,46.08833023150139,0 4.64719193579569,46.0883465726868,0 4.64718618071795,46.0883489079457,0 4.6472048672315,46.0884195206392,0 4.64723247247489,46.0885242299119,0 4.64723376657302,46.0885285344166,0 4.64723552443285,46.0885353541086,0 4.64725073583945,46.0885936778505,0 4.64726075447481,46.0886299201084,0 4.64734266211819,46.0889310011161,0 4.64734356265972,46.0889351311962,0 4.64736752844811,46.089022059702,0 4.64738163250048,46.0890866142369,0 4.64739650463644,46.0891465641221,0 4.6474746402932,46.0891232728284,0 4.64763731890389,46.0890745254629,0 4.6477852521808,46.0890304954181,0 4.64783126597349,46.08910584508631,0 4.64799442768615,46.0893062198834,0 4.64855265502981,46.0891523800798,0 4.64868406133011,46.0891184064446,0 4.64888770000787,46.0890758172714,0 4.64907037147623,46.0890333523116,0 4.64902843727117,46.0888524734955,0 4.64896169533819,46.0885653139509,0 4.64895931700734,46.0885550806923,0 4.64895039692332,46.0885166609572,0 4.64889761010633,46.0882890140682,0 4.64884078706088,46.0880433220208,0 4.64880851576088,46.08790400448589,0 4.64873187767604,46.0875760074141,0 4.64873090857729,46.0875566567454,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.3008">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691450000C1039</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ODENAS</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE D ODENAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0889753497052 </north>
+			<south> 46.08868097132341 </south>
+			<east> 4.64142182073151 </east>
+			<west> 4.64070014168747 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.64138226833814,46.08868097132341,0 4.64134201659902,46.0886855165856,0 4.64132176402554,46.08868788111259,0 4.64127688646541,46.0886935740845,0 4.64071813821334,46.0888261292623,0 4.64070014168747,46.0888303524922,0 4.64070915178059,46.0888503074669,0 4.64078037558647,46.0889725812421,0 4.64078201165181,46.0889753497052,0 4.64142182073151,46.08882631002571,0 4.64138816437729,46.0887569938547,0 4.64136855606781,46.0887159360888,0 4.64139110003444,46.0887122774496,0 4.64138226833814,46.08868097132341,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.14737">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691450000D0223</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ODENAS</SimpleData>
+					<SimpleData name="Adresse">LE MOULIN FAVRE</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE D ODENAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0984193562139 </north>
+			<south> 46.0977188279823 </south>
+			<east> 4.64408675684953 </east>
+			<west> 4.64227461390724 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.64227461390724,46.0979189878984,0 4.64228886829719,46.0979757048585,0 4.64235228763828,46.0981222290883,0 4.64236334873592,46.0982063730484,0 4.64244623439689,46.0984193562139,0 4.64354833599195,46.09795810263049,0 4.64408675684953,46.0977188279823,0 4.64312767904028,46.0978625065782,0 4.642845846562,46.0978891938821,0 4.64246461455617,46.0978996656795,0 4.64227461390724,46.0979189878984,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.19599">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691450000C0313</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ODENAS</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE D ODENAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0888303524922 </north>
+			<south> 46.0882558036996 </south>
+			<east> 4.64127688646541 </east>
+			<west> 4.6406265563385 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.64127688646541,46.0886935740845,0 4.64113864447543,46.0884251882014,0 4.64114789039742,46.088305713815,0 4.64087685625028,46.0882936014048,0 4.64087631665455,46.0882625356045,0 4.64065670419744,46.0882558036996,0 4.64065362342561,46.0882870119149,0 4.6406265563385,46.08853797359249,0 4.64062733959412,46.08865955461919,0 4.64064568502544,46.0887103581529,0 4.64070014168747,46.0888303524922,0 4.64071813821334,46.0888261292623,0 4.64127688646541,46.0886935740845,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.19681">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691450000C0315</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ODENAS</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE D ODENAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.088467108288 </north>
+			<south> 46.0883281226562 </south>
+			<east> 4.64179387710453 </east>
+			<west> 4.64130283870326 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.64130283870326,46.0883794003032,0 4.64132091561581,46.0884645236903,0 4.6416350183334,46.0884407051322,0 4.64164033799914,46.088467108288,0 4.641701049445,46.08846280731271,0 4.64169537460067,46.0884245202647,0 4.64175382715936,46.0884182704369,0 4.64179387710453,46.0884026495273,0 4.64178918303681,46.08837119349331,0 4.64174357345608,46.0883610452013,0 4.64168743653511,46.08836681117939,0 4.6416783841048,46.0883281226562,0 4.64161381530428,46.088333290044,0 4.64161568764395,46.0883526276689,0 4.64130283870326,46.0883794003032,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.19724">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691450000C0316</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ODENAS</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE D ODENAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0884460681744 </north>
+			<south> 46.0883859334907 </south>
+			<east> 4.64192991892069 </east>
+			<west> 4.64185599292881 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.64186818269973,46.0884460681744,0 4.64192991892069,46.08843274540371,0 4.64192604326212,46.0884200117671,0 4.64191583398416,46.0883859334907,0 4.64185599292881,46.0883976976686,0 4.64186818269973,46.0884460681744,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.21111">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691450000C0346</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ODENAS</SimpleData>
+					<SimpleData name="Adresse">102, RUE DU BEAUJOLAIS</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE D ODENAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0887752607782 </north>
+			<south> 46.08870834324581 </south>
+			<east> 4.64667592429726 </east>
+			<west> 4.64645387194109 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.64667592429726,46.0887512646294,0 4.64666687084369,46.08870834324581,0 4.64645387194109,46.0887323299902,0 4.64646227827529,46.0887752607782,0 4.64667592429726,46.0887512646294,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.22222">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691450000D0374</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ODENAS</SimpleData>
+					<SimpleData name="Adresse">LE MOULIN FAVRE</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE D ODENAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0984338397175 </north>
+			<south> 46.0979189878984 </south>
+			<east> 4.64244744433466 </east>
+			<west> 4.64054073886008 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.64227461390724,46.0979189878984,0 4.64211227707289,46.0979542119026,0 4.6415865557298,46.0980859318077,0 4.64109143627388,46.09820630845681,0 4.64059381208887,46.0983339245917,0 4.64054073886008,46.0983689177811,0 4.64126787314492,46.098369933147,0 4.64244744433466,46.0984338397175,0 4.64244623439689,46.0984193562139,0 4.64236334873592,46.0982063730484,0 4.64235228763828,46.0981222290883,0 4.64228886829719,46.0979757048585,0 4.64227461390724,46.0979189878984,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.23192">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691450000B0399</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ODENAS</SimpleData>
+					<SimpleData name="Adresse">MAS VINCENT</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE D ODENAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0901254106463 </north>
+			<south> 46.0899836258221 </south>
+			<east> 4.64777329073663 </east>
+			<west> 4.64739088198277 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.64741019639859,46.0901254106463,0 4.64774390789738,46.09002572306421,0 4.64777329073663,46.0900170100791,0 4.6477091174586,46.0899836258221,0 4.64743361122231,46.0900644545595,0 4.64739088198277,46.0900770540309,0 4.64741019639859,46.0901254106463,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.23382">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691450000B0400</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ODENAS</SimpleData>
+					<SimpleData name="Adresse">MAS VINCENT</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE D ODENAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0901735028061 </north>
+			<south> 46.0900170100791 </south>
+			<east> 4.64783455530176 </east>
+			<west> 4.64741019639859 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.64783455530176,46.0900483649638,0 4.64777329073663,46.0900170100791,0 4.64774390789738,46.09002572306421,0 4.64741019639859,46.0901254106463,0 4.64742911456445,46.0901735028061,0 4.64783455530176,46.0900483649638,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.24979">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691450000A0446</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ODENAS</SimpleData>
+					<SimpleData name="Adresse">COTE DE BROUILLY</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE D ODENAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.10693835330961 </north>
+			<south> 46.1067247729403 </south>
+			<east> 4.65519512788545 </east>
+			<west> 4.65509767506255 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.65519512788545,46.10689360922859,0 4.65510574085768,46.1067247729403,0 4.65510796127475,46.1067597772775,0 4.65509767506255,46.10693835330961,0 4.65519512788545,46.10689360922859,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.25039">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691450000A0448</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ODENAS</SimpleData>
+					<SimpleData name="Adresse">COTE DE BROUILLY</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE D ODENAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1072254082297 </north>
+			<south> 46.1064495599045 </south>
+			<east> 4.65503485015725 </east>
+			<west> 4.65376868038323 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.65376868038323,46.1072254082297,0 4.65486670340094,46.1070471013236,0 4.65501265508063,46.1069788629354,0 4.65503485015725,46.10673139087609,0 4.65503367339427,46.1066966415266,0 4.65502706315041,46.1066620614711,0 4.65501503842862,46.10662828091241,0 4.65499786895742,46.10659565619081,0 4.65497582446365,46.1065645436459,0 4.6549487809471,46.1065351252204,0 4.6549172751364,46.10650802356599,0 4.65490390126612,46.1064982209338,0 4.6548703831306,46.1064816866408,0 4.65483397758878,46.1064681667006,0 4.6547952240709,46.1064583737954,0 4.65475502046111,46.1064520246268,0 4.65471402747978,46.1064495599045,0 4.65467275742395,46.1064507920219,0 4.65463224845993,46.10645579591329,0 4.65459288887794,46.1064645659193,0 4.65458287720973,46.106467503989,0 4.65452036228044,46.1064899416662,0 4.65446040688164,46.1065156745409,0 4.65440352060131,46.10654442498381,0 4.65433981106765,46.1065830923292,0 4.65385572963904,46.106891066073,0 4.65376868038323,46.1072254082297,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.25042">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691450000B0448</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ODENAS</SimpleData>
+					<SimpleData name="Adresse">PIERREUX</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE D ODENAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.08957272659769 </north>
+			<south> 46.08920173810331 </south>
+			<east> 4.64871063226741 </east>
+			<west> 4.64744902601203 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.64871063226741,46.0892661832184,0 4.64868280832015,46.08920173810331,0 4.64745983148489,46.08954023510051,0 4.64744902601203,46.08957272659769,0 4.64799441063704,46.0894307849778,0 4.64807216392456,46.0894120022577,0 4.64839056813286,46.08933730387839,0 4.64871063226741,46.0892661832184,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.25300">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691450000A0454</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ODENAS</SimpleData>
+					<SimpleData name="Adresse">COTE DE BROUILLY</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE D ODENAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1064940738801 </north>
+			<south> 46.105788282552 </south>
+			<east> 4.65420318699359 </east>
+			<west> 4.65276216509253 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.65395254502,46.1064940738801,0 4.65420318699359,46.1061313176454,0 4.65300130543501,46.105788282552,0 4.65276216509253,46.1062580502298,0 4.65395254502,46.1064940738801,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.26110">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691450000A0478</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ODENAS</SimpleData>
+					<SimpleData name="Adresse">COTE DE BROUILLY</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE D ODENAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1061313176454 </north>
+			<south> 46.1049451687579 </south>
+			<east> 4.65437968767103 </east>
+			<west> 4.65300130543501 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.65389035795937,46.1049451687579,0 4.65380876144077,46.1049659926674,0 4.65373706113284,46.1049886538403,0 4.65366753736357,46.10501479593351,0 4.65360069970814,46.105044141321,0 4.65353719530689,46.1050766805796,0 4.65347688659307,46.1051121455132,0 4.65342029128212,46.105150528585,0 4.65336778682035,46.1051914640278,0 4.65331937320957,46.1052349518473,0 4.65327529576116,46.1052805381324,0 4.65323606949118,46.1053281253181,0 4.65300130543501,46.105788282552,0 4.65420318699359,46.1061313176454,0 4.65437968767103,46.1058263847269,0 4.65384133609594,46.10538550815111,0 4.65389035795937,46.1049451687579,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.26289">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691450000A0482</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ODENAS</SimpleData>
+					<SimpleData name="Adresse">COTE DE BROUILLY</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE D ODENAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1068052272132 </north>
+			<south> 46.1061313176454 </south>
+			<east> 4.65496807537048 </east>
+			<west> 4.65387451039059 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.65387451039059,46.1068052272132,0 4.65434158597124,46.106508759818,0 4.65439692718988,46.1064803021319,0 4.65445508137046,46.1064549558197,0 4.65451631280923,46.1064328971617,0 4.65457972090991,46.1064143194185,0 4.65464504952974,46.10639931638929,0 4.65467427882495,46.1063938464463,0 4.65472128456403,46.1063938817414,0 4.65476788922471,46.106397795817,0 4.65481356966043,46.10640541616331,0 4.65485780543645,46.1064166603007,0 4.65489968781872,46.1064314514115,0 4.65493895252175,46.1064496132143,0 4.65496807537048,46.1064663917098,0 4.65495591235732,46.10642801965971,0 4.65420318699359,46.1061313176454,0 4.65395254502,46.1064940738801,0 4.65387451039059,46.1068052272132,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.26347">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691450000B0484</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ODENAS</SimpleData>
+					<SimpleData name="Adresse">MAS VINCENT</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE D ODENAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0904203808391 </north>
+			<south> 46.0900483649638 </south>
+			<east> 4.64797997740856 </east>
+			<west> 4.64704965613106 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.64783455530176,46.0900483649638,0 4.64742911456445,46.0901735028061,0 4.64741019639859,46.0901254106463,0 4.64706903008062,46.0902269167398,0 4.64704965613106,46.09023269213569,0 4.64705683712331,46.0904203808391,0 4.64797997740856,46.0901233517607,0 4.64783455530176,46.0900483649638,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.26381">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691450000B0485</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ODENAS</SimpleData>
+					<SimpleData name="Adresse">59, RTE DE SAINT-LAGER</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE D ODENAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.09023269213569 </north>
+			<south> 46.0896698229974 </south>
+			<east> 4.6477091174586 </east>
+			<west> 4.64703279208078 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.64741019639859,46.0901254106463,0 4.64739088198277,46.0900770540309,0 4.64743361122231,46.0900644545595,0 4.6477091174586,46.0899836258221,0 4.64742555607065,46.0898303932394,0 4.64712002870292,46.0896698229974,0 4.64703279208078,46.0897090981994,0 4.64704787201139,46.0901775060083,0 4.64704965613106,46.09023269213569,0 4.64706903008062,46.0902269167398,0 4.64741019639859,46.0901254106463,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.26436">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691450000A0487</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ODENAS</SimpleData>
+					<SimpleData name="Adresse">COTE DE BROUILLY</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE D ODENAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.10624421123501 </north>
+			<south> 46.1050626961262 </south>
+			<east> 4.65292975115133 </east>
+			<west> 4.65219242730702 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.65269195399583,46.10624421123501,0 4.65292975115133,46.1057685187437,0 4.65264909464678,46.10568920196549,0 4.65280189521408,46.10525482778669,0 4.65258025916396,46.1050626961262,0 4.65224932628569,46.1053435742566,0 4.65219242730702,46.1055182349285,0 4.65220805322459,46.1055770924813,0 4.65239575569446,46.1061863762895,0 4.65240487283643,46.1061881350038,0 4.65269195399583,46.10624421123501,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.26647">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691450000B0492</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ODENAS</SimpleData>
+					<SimpleData name="Adresse">MAS VINCENT</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE D ODENAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0905148103809 </north>
+			<south> 46.0901233517607 </south>
+			<east> 4.64809673538512 </east>
+			<west> 4.64705683712331 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.64705683712331,46.0904203808391,0 4.64705805690515,46.0904524275391,0 4.64706044518408,46.0905148103809,0 4.64809673538512,46.09018353311441,0 4.64797997740856,46.0901233517607,0 4.64705683712331,46.0904203808391,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.27502">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691450000A0516</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ODENAS</SimpleData>
+					<SimpleData name="Adresse">COTE DE BROUILLY</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE D ODENAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1057685187437 </north>
+			<south> 46.1044738557733 </south>
+			<east> 4.65392146319652 </east>
+			<west> 4.65258025916396 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.65258025916396,46.1050626961262,0 4.65280189521408,46.10525482778669,0 4.65264909464678,46.10568920196549,0 4.65292975115133,46.1057685187437,0 4.65309767617849,46.10543660212529,0 4.65311702794557,46.1053955191889,0 4.65314643056649,46.1053442021744,0 4.65318066811802,46.1052943458974,0 4.6532198835709,46.105246398614,0 4.65326368862665,46.10520036597509,0 4.65331209411986,46.1051566080918,0 4.65336458232698,46.1051151324997,0 4.65342116679813,46.105076389339,0 4.65348132981524,46.10504038614549,0 4.65354508222333,46.1050074830303,0 4.65361177145845,46.1049775093571,0 4.65368141108139,46.1049509152665,0 4.65375348609507,46.1049277983256,0 4.65382760551147,46.1049080741582,0 4.65390351861796,46.10489201661959,0 4.65392146319652,46.1047440425446,0 4.65376349013956,46.10449892578221,0 4.65376701913201,46.10447851884789,0 4.65374706751952,46.1044738557733,0 4.65300525054347,46.1047406368493,0 4.65282068296738,46.1048766262421,0 4.65264033749739,46.10501525590401,0 4.65258025916396,46.1050626961262,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.27694">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691450000C0521</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ODENAS</SimpleData>
+					<SimpleData name="Adresse">176, RTE DE CHARENTAY</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE D ODENAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0890333523116 </north>
+			<south> 46.0885230502049 </south>
+			<east> 4.64937462284126 </east>
+			<west> 4.64895931700734 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.64895931700734,46.0885550806923,0 4.64896169533819,46.0885653139509,0 4.64902843727117,46.0888524734955,0 4.64907037147623,46.0890333523116,0 4.64937462284126,46.0889616489298,0 4.64927304157045,46.0885230502049,0 4.64895931700734,46.0885550806923,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.27740">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691450000C0523</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ODENAS</SimpleData>
+					<SimpleData name="Adresse">LA ROCHE</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE D ODENAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0861459906508 </north>
+			<south> 46.0859136689861 </south>
+			<east> 4.66250429093394 </east>
+			<west> 4.66219016962296 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.66224381813614,46.08612375633129,0 4.66225083355758,46.0861459906508,0 4.66250429093394,46.0860949910045,0 4.66242528092654,46.0859136689861,0 4.66219016962296,46.0859549424686,0 4.66224381813614,46.08612375633129,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.28274">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691450000C0542</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ODENAS</SimpleData>
+					<SimpleData name="Adresse">5005, RUE DU LAVOIR</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE D ODENAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0887323299902 </north>
+			<south> 46.0886248356073 </south>
+			<east> 4.64666687084369 </east>
+			<west> 4.64643523409018 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.64643523409018,46.0886373979729,0 4.64645387194109,46.0887323299902,0 4.64666687084369,46.08870834324581,0 4.64664922231709,46.0886248356073,0 4.64643523409018,46.0886373979729,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.29588">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691450000C0590</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ODENAS</SimpleData>
+					<SimpleData name="Adresse">CREIGNE</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE D ODENAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0889616489298 </north>
+			<south> 46.0884777449289 </south>
+			<east> 4.649431721346 </east>
+			<west> 4.64895039692332 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.64895931700734,46.0885550806923,0 4.64927304157045,46.0885230502049,0 4.64937462284126,46.0889616489298,0 4.649431721346,46.0889491100223,0 4.64931647005184,46.0884777449289,0 4.64895039692332,46.0885166609572,0 4.64895931700734,46.0885550806923,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.31568">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691450000A0670</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ODENAS</SimpleData>
+					<SimpleData name="Adresse">COTE DE BROUILLY</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE D ODENAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1041045608475 </north>
+			<south> 46.1040101459484 </south>
+			<east> 4.65660775399925 </east>
+			<west> 4.65622208326857 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.65660775399925,46.1040223261522,0 4.6565351345611,46.1040101459484,0 4.65622208326857,46.10408019443119,0 4.65623732033505,46.1041045608475,0 4.65660775399925,46.1040223261522,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.31692">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691450000A0678</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ODENAS</SimpleData>
+					<SimpleData name="Adresse">COTE DE BROUILLY</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE D ODENAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1067037493998 </north>
+			<south> 46.1049078359713 </south>
+			<east> 4.65654836301261 </east>
+			<west> 4.65384133609594 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.65508594282698,46.1049078359713,0 4.65506904401085,46.1049357334725,0 4.6550479193323,46.1049609004616,0 4.65502207006387,46.1049839746889,0 4.65499225378656,46.1050043146243,0 4.65495885878852,46.1050219146029,0 4.65492251594018,46.1050362250113,0 4.65488374296351,46.1050472382982,0 4.65484317887257,46.1050546749386,0 4.65480159211285,46.1050582535212,0 4.65475989141188,46.1050580508654,0 4.65471820620772,46.105054065084,0 4.65421346430659,46.1049550513195,0 4.65417912069563,46.10494546415539,0 4.65413196089481,46.1049359736899,0 4.65408349399,46.1049303752058,0 4.65403474727006,46.10492838352509,0 4.65398572614838,46.1049301787058,0 4.65393746604839,46.1049357456593,0 4.65389035795937,46.1049451687579,0 4.65384133609594,46.10538550815111,0 4.65437968767103,46.1058263847269,0 4.6550257584773,46.1060988810739,0 4.65560856519109,46.1067037493998,0 4.65654836301261,46.1062687862183,0 4.65607519622624,46.1051175874578,0 4.65508594282698,46.1049078359713,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.31793">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691450000C0680</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ODENAS</SimpleData>
+					<SimpleData name="Adresse">GARANCHES</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE D ODENAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0859592539051 </north>
+			<south> 46.084638396749 </south>
+			<east> 4.66240233608989 </east>
+			<west> 4.66084217582101 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.66240233608989,46.08586122476569,0 4.66238326870586,46.0858043103533,0 4.66224305967132,46.0849479174735,0 4.66221545089677,46.0849167077502,0 4.66216970690413,46.0848593734988,0 4.66212882775081,46.0848002566537,0 4.66205545774909,46.084638396749,0 4.66084217582101,46.0848891715858,0 4.66178514800218,46.0859592539051,0 4.66240233608989,46.08586122476569,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.31827">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691450000C0682</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ODENAS</SimpleData>
+					<SimpleData name="Adresse">LA ROCHE</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE D ODENAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.08640843654329 </north>
+			<south> 46.0860949910045 </south>
+			<east> 4.66261121940103 </east>
+			<west> 4.66220399225901 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.66261121940103,46.0863604786192,0 4.6626095167692,46.0863384366774,0 4.66250429093394,46.0860949910045,0 4.66225083355758,46.0861459906508,0 4.66224381813614,46.08612375633129,0 4.66220399225901,46.08616793313789,0 4.66231948327438,46.08640843654329,0 4.66261121940103,46.0863604786192,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.32642">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691450000A0712</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ODENAS</SimpleData>
+					<SimpleData name="Adresse">COTE DE BROUILLY</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE D ODENAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.10305066421779 </north>
+			<south> 46.10260234025791 </south>
+			<east> 4.65798332038862 </east>
+			<west> 4.65745006264654 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.65745006264654,46.1030060327521,0 4.65752873102266,46.1030041633605,0 4.65761000348483,46.1030113528263,0 4.65784181984312,46.1030342670664,0 4.65798332038862,46.10305066421779,0 4.65794095157023,46.1030239922972,0 4.65790466471387,46.1029929082202,0 4.6578982705321,46.1029655306502,0 4.65792332169354,46.1029289570785,0 4.65796407612763,46.1028463991809,0 4.65794843899965,46.1027744825272,0 4.65790846958162,46.1027114778374,0 4.65791483918244,46.1027037289495,0 4.65779381870673,46.1026322707836,0 4.65774021660954,46.10260234025791,0 4.65779942944935,46.1026422765316,0 4.65785045135217,46.1027068311223,0 4.65789669321315,46.1027846055538,0 4.65791828575243,46.1028307656241,0 4.65790955463854,46.1028632278475,0 4.65787815495105,46.10291682707659,0 4.65784414086937,46.1029524507324,0 4.65777205420619,46.1029879099254,0 4.65768629128097,46.1029992502551,0 4.65758334716616,46.1029990424359,0 4.65745006264654,46.1030060327521,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.32657">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691450000C0712</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ODENAS</SimpleData>
+					<SimpleData name="Adresse">14, RUE DU BEAUJOLAIS</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE D ODENAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0900048014423 </north>
+			<south> 46.089249044208 </south>
+			<east> 4.64689703909255 </east>
+			<west> 4.64621151118953 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.64680382787135,46.0893517868963,0 4.6467116924467,46.0893615003995,0 4.64662898107337,46.0893703565224,0 4.64657865551547,46.0893756803063,0 4.64648291320246,46.0893859863736,0 4.6463756845705,46.089397449772,0 4.64635022329158,46.0892821711862,0 4.64634275803183,46.089249044208,0 4.64621151118953,46.0892624771663,0 4.64624271750177,46.08940964676101,0 4.64625972667756,46.08948911064599,0 4.64626590327021,46.0895181131726,0 4.64627465728617,46.0895596879002,0 4.64630209216687,46.0896889885591,0 4.64631854616573,46.08976719953209,0 4.64632005865496,46.0897744731396,0 4.64636636086416,46.0899933884463,0 4.64637434050422,46.0900048014423,0 4.64689703909255,46.089775197378,0 4.64688755663012,46.0897309312073,0 4.64688155766254,46.08970354736571,0 4.64682099136653,46.0894277357958,0 4.64680382787135,46.0893517868963,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.32700">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691450000A0716</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ODENAS</SimpleData>
+					<SimpleData name="Adresse">COTE DE BROUILLY</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE D ODENAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1034309188119 </north>
+			<south> 46.10314328944091 </south>
+			<east> 4.65595117949708 </east>
+			<west> 4.65560209051965 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.65560209051965,46.1033664384432,0 4.65584966270383,46.1034309188119,0 4.65582390712617,46.103418414733,0 4.65580483369396,46.1034085152263,0 4.65578597568993,46.1033971714744,0 4.65576865451354,46.10338526488761,0 4.65575260317049,46.10337252915531,0 4.6557376949495,46.1033590561952,0 4.6557257580913,46.1033453597498,0 4.65571677359414,46.10333080961609,0 4.65571100030673,46.10331540201891,0 4.65570858122305,46.1032995852161,0 4.6557096566224,46.1032837174363,0 4.65571397850828,46.103268162572,0 4.6557219704387,46.103254085337,0 4.65573375912238,46.1032413938135,0 4.65574910199306,46.1032306319511,0 4.6557630139006,46.1032239440536,0 4.65578951174648,46.1032138300709,0 4.65581194398381,46.1032062973179,0 4.65583491563058,46.10319947724059,0 4.65585817055189,46.1031934636442,0 4.65588183545917,46.1031881646113,0 4.65590578092824,46.1031835820297,0 4.65593013909954,46.1031798040401,0 4.65593865128853,46.10317868909281,0 4.65595117949708,46.10314328944091,0 4.65592235206623,46.10315343745039,0 4.65589644895037,46.10315750818459,0 4.65587070240047,46.10316247731571,0 4.65584536583637,46.1031681610093,0 4.65582044197159,46.1031746492947,0 4.65579605751584,46.103181850255,0 4.65577208575768,46.1031898558076,0 4.65574353883362,46.1032007202284,0 4.65572465263672,46.1032099125436,0 4.65570372905972,46.1032245386988,0 4.65568754620234,46.1032417977552,0 4.65567673219348,46.103261050071,0 4.65567123275433,46.1032804950656,0 4.6556700206307,46.103300417931,0 4.65567024133243,46.1033120335743,0 4.65566747982309,46.1033235125831,0 4.65566172253006,46.10333440481159,0 4.65565334958551,46.10334443450821,0 4.65564247955735,46.1033532396678,0 4.65562949257907,46.10336054453871,0 4.65561476878502,46.1033660733688,0 4.65560209051965,46.1033664384432,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.32754">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691450000A0719</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ODENAS</SimpleData>
+					<SimpleData name="Adresse">COTE DE BROUILLY</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE D ODENAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.10317868909281 </north>
+			<south> 46.10314328944091 </south>
+			<east> 4.65606131011563 </east>
+			<west> 4.65593865128853 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.65605351646721,46.1031662949874,0 4.65606131011563,46.1031456456041,0 4.65595117949708,46.10314328944091,0 4.65593865128853,46.10317868909281,0 4.65595438955948,46.1031767481665,0 4.65597956227955,46.10317421924389,0 4.65600512598692,46.1031717746798,0 4.65603068697727,46.1031692400807,0 4.65605351646721,46.1031662949874,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.32945">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691450000A0725</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ODENAS</SimpleData>
+					<SimpleData name="Adresse">COTE DE BROUILLY</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE D ODENAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.10079488253939 </north>
+			<south> 46.1004820533969 </south>
+			<east> 4.65717747499174 </east>
+			<west> 4.65700953488361 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.65717747499174,46.1005033998718,0 4.65710963305083,46.1004820533969,0 4.65708156368805,46.1007404201306,0 4.65707348011633,46.100751436474,0 4.65705561596737,46.1007687202922,0 4.65703379317206,46.1007835399795,0 4.65700953488361,46.10079488253939,0 4.65707503797243,46.1007730302281,0 4.65717747499174,46.1005033998718,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.33989">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691450000C0772</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ODENAS</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE D ODENAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0873825469911 </north>
+			<south> 46.0871771197945 </south>
+			<east> 4.64730012978812 </east>
+			<west> 4.64717297614935 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.64721693246838,46.0871771197945,0 4.64717530764015,46.0871833083167,0 4.64717297614935,46.0871875753854,0 4.64724423356808,46.0873666780706,0 4.64727409328408,46.0873825469911,0 4.64730012978812,46.0873788364605,0 4.64729818067261,46.0873742712604,0 4.64721693246838,46.0871771197945,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.34046">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691450000C0776</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ODENAS</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE D ODENAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0876325868077 </north>
+			<south> 46.08740971900179 </south>
+			<east> 4.64769534019118 </east>
+			<west> 4.64726610709235 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.64767665714594,46.0876325868077,0 4.64769534019118,46.08762970351719,0 4.64759864869192,46.08740971900179,0 4.64733014038734,46.0874515364453,0 4.64726610709235,46.0874615630003,0 4.6472864916296,46.0874722554292,0 4.64758392880038,46.0874238933717,0 4.64767665714594,46.0876325868077,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.36581">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691450000C0901</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ODENAS</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE D ODENAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0869411011399 </north>
+			<south> 46.086666081824 </south>
+			<east> 4.64501400384953 </east>
+			<west> 4.64477381040595 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.64491624929058,46.0869411011399,0 4.64501176927001,46.08692350400901,0 4.64501400384953,46.08691167263629,0 4.64501076105467,46.0869028028665,0 4.64500723252804,46.08689303655411,0 4.64492523035388,46.086666081824,0 4.64477612049612,46.0867139081376,0 4.64477381040595,46.0867145721039,0 4.64486104398187,46.0867833808517,0 4.64491624929058,46.0869411011399,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.36604">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691450000C0904</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ODENAS</SimpleData>
+					<SimpleData name="Adresse">CREIGNE</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE D ODENAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0889231785939 </north>
+			<south> 46.0882225912858 </south>
+			<east> 4.64964261517978 </east>
+			<west> 4.64937723918813 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.64954886995398,46.0889231785939,0 4.64964261517978,46.0889024509937,0 4.64947683091413,46.0882225912858,0 4.64937723918813,46.0882339465458,0 4.64954886995398,46.0889231785939,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.36637">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691450000C0908</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ODENAS</SimpleData>
+					<SimpleData name="Adresse">CREIGNE</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE D ODENAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0882339465458 </north>
+			<south> 46.0875325573699 </south>
+			<east> 4.64947683091413 </east>
+			<west> 4.64873090857729 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.64940160194705,46.0879071837291,0 4.6489756152582,46.08795525711459,0 4.64896665766515,46.0879543965363,0 4.64895793182705,46.0879526319032,0 4.64894969922541,46.0879500494842,0 4.64894221863924,46.0879466455185,0 4.64893523669478,46.0879426038258,0 4.64892927094948,46.0879379168848,0 4.64892432410565,46.0879326747251,0 4.64892040156782,46.0879270574055,0 4.6489176354274,46.0879211530751,0 4.64891647870794,46.0879171167972,0 4.64887276350347,46.08772860798409,0 4.64882739834419,46.0875325573699,0 4.64875665116186,46.0875517792594,0 4.64873090857729,46.0875566567454,0 4.64873187767604,46.0875760074141,0 4.64880851576088,46.08790400448589,0 4.64884078706088,46.0880433220208,0 4.64926832452102,46.087995136544,0 4.64927286666646,46.0879955208663,0 4.64928170569331,46.0879967434185,0 4.64929005959815,46.0879990538448,0 4.64929817094256,46.08800190820781,0 4.64930540359127,46.0880056760288,0 4.6493117494355,46.0880100872197,0 4.64931733516177,46.08801504987079,0 4.649321901991,46.0880205677436,0 4.64932518303496,46.0880263745118,0 4.64932731579186,46.0880327383827,0 4.64937723918813,46.0882339465458,0 4.64947683091413,46.0882225912858,0 4.64940160194705,46.0879071837291,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.37533">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691450000C0958</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ODENAS</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE D ODENAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0875268056352 </north>
+			<south> 46.0875048272686 </south>
+			<east> 4.644407718566 </east>
+			<west> 4.64437613439944 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.644407718566,46.0875222986291,0 4.64440137057421,46.0875048272686,0 4.64437613439944,46.08750933614851,0 4.64438261177224,46.0875268056352,0 4.644407718566,46.0875222986291,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.37802">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691450000C0977</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ODENAS</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE D ODENAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0873742712604 </north>
+			<south> 46.08716003231419 </south>
+			<east> 4.64740397359194 </east>
+			<west> 4.64721693246838 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.64721693246838,46.0871771197945,0 4.64729818067261,46.0873742712604,0 4.64740397359194,46.0873582342768,0 4.64739283231755,46.0873492991088,0 4.64738303332064,46.0873376423946,0 4.6473751371485,46.0873203738015,0 4.6473330490391,46.08716003231419,0 4.64721693246838,46.0871771197945,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.37954">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691450000C0989</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ODENAS</SimpleData>
+					<SimpleData name="Adresse">44, RUE DE L EGLISE</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE D ODENAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0876658076397 </north>
+			<south> 46.08746297610141 </south>
+			<east> 4.64594773002173 </east>
+			<west> 4.64578688593608 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.64594773002173,46.08765218553161,0 4.64594489570992,46.0875921509305,0 4.6459439195001,46.0875725301498,0 4.64589585168812,46.0875753890531,0 4.64589015369051,46.08746297610141,0 4.64578688593608,46.08748122675141,0 4.6457972052698,46.0876658076397,0 4.64581579679758,46.0876641869472,0 4.64584974782759,46.08766108250229,0 4.64589996677326,46.0876565711827,0 4.64594773002173,46.08765218553161,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.38042">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691450000C0994</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ODENAS</SimpleData>
+					<SimpleData name="Adresse">CREIGNE</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE D ODENAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0889491100223 </north>
+			<south> 46.087995136544 </south>
+			<east> 4.64954886995398 </east>
+			<west> 4.64884078706088 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.64954886995398,46.0889231785939,0 4.64937723918813,46.0882339465458,0 4.64932731579186,46.0880327383827,0 4.64932518303496,46.0880263745118,0 4.649321901991,46.0880205677436,0 4.64931733516177,46.08801504987079,0 4.6493117494355,46.0880100872197,0 4.64930540359127,46.0880056760288,0 4.64929817094256,46.08800190820781,0 4.64929005959815,46.0879990538448,0 4.64928170569331,46.0879967434185,0 4.64927286666646,46.0879955208663,0 4.64926832452102,46.087995136544,0 4.64884078706088,46.0880433220208,0 4.64889761010633,46.0882890140682,0 4.64895039692332,46.0885166609572,0 4.64931647005184,46.0884777449289,0 4.649431721346,46.0889491100223,0 4.64954886995398,46.0889231785939,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

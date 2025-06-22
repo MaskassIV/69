@@ -1,0 +1,1051 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>SAINT-GENIS-LES-OLLIERES_PMRSEM</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_6">
+		<name>SAINT-GENIS-LES-OLLIERES_PMRSEM</name>
+		<Schema name="SAINT-GENIS-LES-OLLIERES_PMRSEM" id="SAINT-GENIS-LES-OLLIERES_PMRSEM.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="PMRSEM">
+			<LineStyle>
+				<color>BF00faff</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C00faff</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.10">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">69205000AE0228</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT-GENIS-LES-OLLIERES</SimpleData>
+					<SimpleData name="Adresse">1, ALL DES BLANCHISSEURS</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SA BATIR</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7591944414637 </north>
+			<south> 45.75918443368271 </south>
+			<east> 4.72581808851746 </east>
+			<west> 4.72580364547135 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.72581629773936,45.7591944414637,0 4.72581808851746,45.7591858573788,0 4.72580517620578,45.75918443368271,0 4.72580364547135,45.7591931038588,0 4.72581629773936,45.7591944414637,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.47">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">69205000AM0055</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT-GENIS-LES-OLLIERES</SimpleData>
+					<SimpleData name="Adresse">LES BRUYERES</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SA BATIR</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7630189648171 </north>
+			<south> 45.7628718086146 </south>
+			<east> 4.73738830684583 </east>
+			<west> 4.73736616655606 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.7373670019282,45.7628777211445,0 4.73736616655606,45.7630189648171,0 4.73738745704498,45.7630044057263,0 4.73738830684583,45.7628718086146,0 4.7373670019282,45.7628777211445,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.57">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">69205000AM0001</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT-GENIS-LES-OLLIERES</SimpleData>
+					<SimpleData name="Adresse">LES USCLARDS</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SA BATIR</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7636514512136 </north>
+			<south> 45.76346152166779 </south>
+			<east> 4.73215303421251 </east>
+			<west> 4.73207003839922 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.7321526162565,45.76346158893509,0 4.73211593787265,45.76346152166779,0 4.73207003839922,45.76350392913341,0 4.73215303421251,45.7636514512136,0 4.7321526162565,45.76346158893509,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.60">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">69205000AM0102</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT-GENIS-LES-OLLIERES</SimpleData>
+					<SimpleData name="Adresse">LES USCLARDS</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SA BATIR</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7635656237602 </north>
+			<south> 45.76335842032379 </south>
+			<east> 4.73512051683851 </east>
+			<west> 4.73467692947913 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.73467692947913,45.7633658727461,0 4.73490323781712,45.7635157825054,0 4.73484041821568,45.7635602527787,0 4.73484843687071,45.7635656237602,0 4.7349586294309,45.7634847568949,0 4.73505461760444,45.76341464666779,0 4.73512051683851,45.7633658055091,0 4.73511170946619,45.7633599062556,0 4.73504808876108,45.7634075414436,0 4.73498597189267,45.763453892475,0 4.73491291878223,45.7635085180302,0 4.73468711930112,45.76335842032379,0 4.73467692947913,45.7633658727461,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.90">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">69205000AM0115</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT-GENIS-LES-OLLIERES</SimpleData>
+					<SimpleData name="Adresse">LES USCLARDS</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SA BATIR</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7636174922329 </north>
+			<south> 45.7634189745322 </south>
+			<east> 4.73573414471982 </east>
+			<west> 4.73521604403523 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.73531514762171,45.7635806022215,0 4.73547575199483,45.7636174922329,0 4.73573414471982,45.76342445820999,0 4.73572174704097,45.7634189745322,0 4.73566276155763,45.76346257564121,0 4.73558742492693,45.763518227557,0 4.73546756927809,45.7636068997229,0 4.73537151592036,45.7635847789927,0 4.73532135561727,45.7635733911387,0 4.73529194382526,45.7635547486363,0 4.73522432985467,45.7635121045266,0 4.73521604403523,45.7635187170731,0 4.73531022021725,45.76357941703591,0 4.73531514762171,45.7635806022215,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.95">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">69205000AM0116</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT-GENIS-LES-OLLIERES</SimpleData>
+					<SimpleData name="Adresse">LES USCLARDS</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SA BATIR</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7634124792487 </north>
+			<south> 45.7631117004356 </south>
+			<east> 4.73564382589447 </east>
+			<west> 4.73500902524513 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.73500902524513,45.76311838514859,0 4.73524352880824,45.7632751936756,0 4.73525547689742,45.7632663630931,0 4.73536866531281,45.7633137102838,0 4.73544534089909,45.76334576669811,0 4.73552657505128,45.7633795543365,0 4.73560533712182,45.7634124792487,0 4.73564382589447,45.7633841452775,0 4.73546604669182,45.76330437592991,0 4.73536613641037,45.7632618685135,0 4.73531621241491,45.76323750685761,0 4.73527467602498,45.7632179700318,0 4.73516134936547,45.7631580149922,0 4.73509320592508,45.7631189817829,0 4.7350891902549,45.7631181428463,0 4.73508593785957,45.7631170219571,0 4.73508268829118,45.7631159910949,0 4.73507944437654,45.7631151402868,0 4.73507607466295,45.7631143814843,0 4.7350725763236,45.76311362466021,0 4.73506921226378,45.7631130459117,0 4.73506559377912,45.7631125611473,0 4.7350619781213,45.76311216640989,0 4.73505849674294,45.76311194974821,0 4.73505488673876,45.7631117350649,0 4.73505128238813,45.7631117004356,0 4.73504780949012,45.7631117538549,0 4.73504421079301,45.76311189927971,0 4.73504061492262,45.7631121347316,0 4.73503715333155,45.7631125482591,0 4.73503369456716,45.76311305181359,0 4.73503023862943,45.76311364539509,0 4.73502704277008,45.7631143250467,0 4.73502359248565,45.7631150986823,0 4.73500902524513,45.76311838514859,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.99">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">69205000AM0117</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT-GENIS-LES-OLLIERES</SimpleData>
+					<SimpleData name="Adresse">LES USCLARDS</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SA BATIR</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7630851837274 </north>
+			<south> 45.7628790773888 </south>
+			<east> 4.73490994122124 </east>
+			<west> 4.73465712090054 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.73470385740923,45.7628790773888,0 4.73465712090054,45.7629111406973,0 4.7347553462664,45.7629942964767,0 4.7348955095453,45.7630851837274,0 4.73489800291882,45.7630826234013,0 4.73490061361181,45.7630797009883,0 4.73490296139993,45.7630766024776,0 4.73490491765743,45.7630733298476,0 4.73490648803742,45.76307006315259,0 4.73490779833919,45.76306671038709,0 4.73490884856278,45.763063271551,0 4.73490951290903,45.76305983864999,0 4.73490991717721,45.76305631967849,0 4.73490994122124,45.7630529866963,0 4.73490944510935,45.7630494815731,0 4.73490895182406,45.7630460664771,0 4.73490794120951,45.76304256926721,0 4.73490655037108,45.7630392580466,0 4.73490503090714,45.76303594880439,0 4.73490312839287,45.76303273552419,0 4.7349007170292,45.76302971021149,0 4.73489830566579,45.76302668489879,0 4.73489551125219,45.7630237555481,0 4.7348924652406,45.7630210102083,0 4.73470385740923,45.7628790773888,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.123">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">69205000AM0123</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT-GENIS-LES-OLLIERES</SimpleData>
+					<SimpleData name="Adresse">LES USCLARDS</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SA BATIR</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7627519097945 </north>
+			<south> 45.7626969914981 </south>
+			<east> 4.73443363909267 </east>
+			<west> 4.73433789521259 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.73441842190032,45.7626984616764,0 4.73440859554436,45.7626969914981,0 4.73440642022367,45.7626973852286,0 4.73440397352467,45.7626973327789,0 4.73440140102645,45.762697372334,0 4.73439895997882,45.76269749993849,0 4.73439652175686,45.76269771756999,0 4.73439395773563,45.76269802720631,0 4.7343915223393,45.7626983348649,0 4.7343890897686,45.7626987325506,0 4.73438666002353,45.76269922026331,0 4.73438436172899,45.7626997960254,0 4.73438193763514,45.76270046379229,0 4.73437964216615,45.7627011295815,0 4.73437748097332,45.76270197344719,0 4.7343751911555,45.7627028192905,0 4.73437302996254,45.7627036631561,0 4.73437100304571,45.7627046850982,0 4.73436897612881,45.7627057070403,0 4.7343670806624,45.7627068170318,0 4.73436518802153,45.7627080170503,0 4.73436342400553,45.7627092150912,0 4.73433789521259,45.7627281621553,0 4.73437505900691,45.7627519097945,0 4.73443363909267,45.76270768510369,0 4.73441842190032,45.7626984616764,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.125">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">69205000AM0124</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT-GENIS-LES-OLLIERES</SimpleData>
+					<SimpleData name="Adresse">RUE DES MUFLIERS</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SA BATIR</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7627805955297 </north>
+			<south> 45.7627281621553 </south>
+			<east> 4.73437505900691 </east>
+			<west> 4.73430053842301 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.73433789521259,45.7627281621553,0 4.73430053842301,45.7627556676369,0 4.73433709582686,45.7627805955297,0 4.73437505900691,45.7627519097945,0 4.73433789521259,45.7627281621553,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.132">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">69205000AM0125</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT-GENIS-LES-OLLIERES</SimpleData>
+					<SimpleData name="Adresse">LES USCLARDS</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SA BATIR</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7628673906742 </north>
+			<south> 45.7627556676369 </south>
+			<east> 4.73433709582686 </east>
+			<west> 4.73418381888524 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.73418381888524,45.7628417682343,0 4.73422207102567,45.7628673906742,0 4.73433709582686,45.7627805955297,0 4.73430053842301,45.7627556676369,0 4.73418381888524,45.7628417682343,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.139">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">69205000AM0126</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT-GENIS-LES-OLLIERES</SimpleData>
+					<SimpleData name="Adresse">LES USCLARDS</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SA BATIR</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.76300541057089 </north>
+			<south> 45.7628417682343 </south>
+			<east> 4.73441713869697 </east>
+			<west> 4.73417325451612 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.73417325451612,45.762849586652,0 4.73440746623328,45.76300541057089,0 4.73441713869697,45.7629978760571,0 4.73435141873233,45.7629540314059,0 4.73428700773015,45.7629108871576,0 4.73422207102567,45.7628673906742,0 4.73418381888524,45.7628417682343,0 4.73417325451612,45.762849586652,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.152">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">69205000AM0132</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT-GENIS-LES-OLLIERES</SimpleData>
+					<SimpleData name="Adresse">LES USCLARDS</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SA BATIR</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7634904034814 </north>
+			<south> 45.7632847488922 </south>
+			<east> 4.73414502526423 </east>
+			<west> 4.73385916063616 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.73387190033668,45.7634903877986,0 4.73387094088076,45.76329576002,0 4.73396425146235,45.7632961270915,0 4.73405421493576,45.7632964554701,0 4.73414495299344,45.7632968619393,0 4.73414502526423,45.763286862993,0 4.73386068637429,45.7632847488922,0 4.73385916063616,45.7634904034814,0 4.73387190033668,45.7634903877986,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.186">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">69205000AM0014</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT-GENIS-LES-OLLIERES</SimpleData>
+					<SimpleData name="Adresse">LES USCLARDS</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SA BATIR</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7638273075383 </north>
+			<south> 45.76377233957561 </south>
+			<east> 4.73346997699922 </east>
+			<west> 4.73340691283568 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.73346997699922,45.7637725413674,0 4.73340691283568,45.76377233957561,0 4.73340835852693,45.7638266299144,0 4.7334697647151,45.7638273075383,0 4.73346997699922,45.7637725413674,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.190">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">69205000AM0141</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT-GENIS-LES-OLLIERES</SimpleData>
+					<SimpleData name="Adresse">LES USCLARDS</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SA BATIR</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7632581102092 </north>
+			<south> 45.7630324617889 </south>
+			<east> 4.73467466470341 </east>
+			<west> 4.73428404493129 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.73429686528215,45.7631798665212,0 4.73428404493129,45.7631896111169,0 4.73429442395638,45.7631963869749,0 4.73435741324074,45.76314912220949,0 4.73441976776532,45.7631021373794,0 4.73466183592479,45.7632581102092,0 4.73467466470341,45.7632486356519,0 4.73443259372347,45.7630925728226,0 4.73450323395512,45.7630389754577,0 4.7344933779143,45.7630324617889,0 4.7344816841795,45.7630411983077,0 4.73447200606539,45.76304855277291,0 4.73437519370029,45.7631211070799,0 4.73429686528215,45.7631798665212,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.269">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">69205000AM0198</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT-GENIS-LES-OLLIERES</SimpleData>
+					<SimpleData name="Adresse">LES USCLARDS</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SA BATIR</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7633814590626 </north>
+			<south> 45.7633500170366 </south>
+			<east> 4.73205075692791 </east>
+			<west> 4.73198671405568 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.73205075692791,45.7633814590626,0 4.73198671405568,45.7633500170366,0 4.73200931659177,45.7633813748111,0 4.73205075692791,45.7633814590626,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.275">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">69205000AM0201</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT-GENIS-LES-OLLIERES</SimpleData>
+					<SimpleData name="Adresse">LES USCLARDS</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SA BATIR</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7639128772086 </north>
+			<south> 45.76346252633121 </south>
+			<east> 4.73282476334007 </east>
+			<west> 4.73260154548429 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.73272132839218,45.7634627621295,0 4.73266045123969,45.76346252633121,0 4.73265944010239,45.7635985483959,0 4.73265873925238,45.7636870084436,0 4.73260286984856,45.7636864254776,0 4.73260248046959,45.76373146673409,0 4.73265819306256,45.7637311514041,0 4.73265839397252,45.76375807941329,0 4.73264016764858,45.7637760132034,0 4.73260228906594,45.7637746134681,0 4.73260154548429,45.7638986520392,0 4.73271957619083,45.7638993610203,0 4.73282475348549,45.7639128772086,0 4.73282476334007,45.76388036158589,0 4.73274698098264,45.763866334514,0 4.73272000253643,45.7638472936905,0 4.73271970583079,45.7637803758261,0 4.73271965653593,45.7636803081976,0 4.73272132839218,45.7634627621295,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.276">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">69205000AM0202</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT-GENIS-LES-OLLIERES</SimpleData>
+					<SimpleData name="Adresse">LES USCLARDS</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SA BATIR</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.76393699106911 </north>
+			<south> 45.7635957437778 </south>
+			<east> 4.73359430272527 </east>
+			<west> 4.73340835852693 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.73340860727744,45.7639166065934,0 4.73340868583378,45.7639355202065,0 4.73350059388351,45.763936269513,0 4.73359430272527,45.76393699106911,0 4.73359419410063,45.76392942680999,0 4.73359424739729,45.7638942083953,0 4.73359400362607,45.7637674828405,0 4.73359385486034,45.7637299256965,0 4.73352953271472,45.76373064401331,0 4.73352787443702,45.7635957437778,0 4.73347035273437,45.7635958171294,0 4.73346997699922,45.7637725413674,0 4.7334697647151,45.7638273075383,0 4.73340835852693,45.7638266299144,0 4.73340856313006,45.7638823804544,0 4.73340860727744,45.7639166065934,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.278">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">69205000AM0203</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT-GENIS-LES-OLLIERES</SimpleData>
+					<SimpleData name="Adresse">LES USCLARDS</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SA BATIR</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7638817864371 </north>
+			<south> 45.7635957476013 </south>
+			<east> 4.73471590197673 </east>
+			<west> 4.73420735279168 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.73420735279168,45.7635957476013,0 4.7342128201108,45.76359773516931,0 4.73421816445417,45.7635999047689,0 4.73422338582181,45.76360225640009,0 4.73422810115813,45.76360488602269,0 4.73423295077286,45.76360769372191,0 4.73423741733241,45.7636105973807,0 4.73424163511475,45.76361377507601,0 4.73424560129443,45.7636171367805,0 4.73424931587142,45.76362068249439,0 4.73425264456767,45.7636242341409,0 4.73425572448668,45.7636280598239,0 4.73425842135033,45.7636319814668,0 4.73426086378568,45.7636359970919,0 4.73426279453844,45.76364011065451,0 4.73426446521175,45.7636441381452,0 4.73426588428207,45.7636483496453,0 4.73426678884405,45.76365256905581,0 4.73426743897738,45.7636568824487,0 4.73426770605486,45.7636612918015,0 4.73426783320314,45.7636653430233,0 4.73426736646363,45.76368327424721,0 4.73426754985773,45.763705518864,0 4.73426763314442,45.763712272878,0 4.73426793333506,45.7637669411126,0 4.73426855415752,45.7638359256422,0 4.73423799420738,45.7638544996754,0 4.73423768702781,45.7638816156466,0 4.73443445480634,45.7638816526979,0 4.73464834136831,45.7638817864371,0 4.73471590197673,45.7638817382468,0 4.73471494972593,45.7638268098222,0 4.73444325874747,45.7638259437683,0 4.73443760196167,45.76382612081859,0 4.73443207097759,45.76382620586359,0 4.73442640288859,45.7638260228048,0 4.73442085494984,45.7638255676864,0 4.73441530135966,45.7638249325134,0 4.73440987074562,45.76382411530821,0 4.73440456028203,45.7638230260434,0 4.73439924416716,45.7638217567241,0 4.73439391957535,45.7638202173231,0 4.73438897521496,45.7638184919343,0 4.73438402802915,45.7638166765182,0 4.73437932679588,45.7638144970378,0 4.73437475136477,45.7638122255523,0 4.73437030173586,45.7638098620618,0 4.73436622668707,45.76380713252941,0 4.73436228026618,45.76380440101909,0 4.73435858262362,45.76380139547181,0 4.73435501360894,45.7637983879467,0 4.73435195062754,45.7637951024293,0 4.73434927070323,45.7637917209515,0 4.73435020361799,45.7636943402943,0 4.73435100041865,45.7636254240381,0 4.73435056367573,45.7636238094825,0 4.73435051281403,45.7636221889938,0 4.73435046477798,45.7636206585323,0 4.7343506711704,45.7636190340882,0 4.73435087756281,45.76361740964419,0 4.73435121540791,45.7636158732496,0 4.73435155042733,45.76361424682781,0 4.73435227415352,45.7636127045001,0 4.73435299787967,45.7636111621723,0 4.73435372160577,45.76360961984459,0 4.73435470541156,45.7636081635886,0 4.73435582066998,45.7636067953821,0 4.73435693310269,45.7636053371484,0 4.73435817981369,45.7636040569913,0 4.73435942652462,45.7636027768341,0 4.7343609333152,45.7636015827487,0 4.73436256873273,45.7636003866856,0 4.73436420697585,45.7635992806496,0 4.73436597384592,45.76359817263581,0 4.7343678608659,45.7635967925629,0 4.73420735279168,45.7635957476013,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.280">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">69205000AM0204</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT-GENIS-LES-OLLIERES</SimpleData>
+					<SimpleData name="Adresse">LES USCLARDS</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SA BATIR</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7639009317157 </north>
+			<south> 45.76381002704151 </south>
+			<east> 4.73584403060471 </east>
+			<west> 4.73471494972593 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.73584402596373,45.76389906083429,0 4.73584403060471,45.763817276628,0 4.73583610943533,45.7638191098656,0 4.73583445707476,45.7638197657874,0 4.73583293616969,45.763820509757,0 4.73583128380904,45.7638211656788,0 4.73582962862028,45.7638217315734,0 4.73582797908761,45.7638224775223,0 4.73582632389878,45.76382304341691,0 4.73582454008243,45.7638236112908,0 4.73582288489353,45.7638241771854,0 4.7358211010771,45.7638247450593,0 4.73581944306008,45.7638252209267,0 4.73581765641553,45.76382569877349,0 4.73581586977096,45.7638261766202,0 4.73581408312636,45.7638266544669,0 4.73581229648172,45.7638271323135,0 4.73581050700902,45.763827520133,0 4.73580871753629,45.7638279079525,0 4.73580692806354,45.763828295772,0 4.73580513576273,45.76382859356429,0 4.73580347208939,45.7638288893772,0 4.73580141687751,45.763829011074,0 4.73565470234965,45.7638287466785,0 4.73547465067943,45.7638282744354,0 4.73531416452985,45.7638279512654,0 4.73526011270357,45.7638278820749,0 4.73523806083356,45.76381002704151,0 4.73515351300582,45.7638100666411,0 4.73496022407696,45.7638101574817,0 4.73484762415122,45.7638102680292,0 4.73482422232861,45.76382729100409,0 4.73471494972593,45.7638268098222,0 4.73471590197673,45.7638817382468,0 4.73482490330053,45.7638817732486,0 4.7349954197333,45.7638818527702,0 4.7351651672277,45.7638820339329,0 4.73516627540661,45.7639009317157,0 4.73534668774836,45.7639005882703,0 4.73555888243266,45.7639001158183,0 4.73571406112438,45.7638994394641,0 4.73584402596373,45.76389906083429,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.285">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">69205000AM0207</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT-GENIS-LES-OLLIERES</SimpleData>
+					<SimpleData name="Adresse">LES BRUYERES</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SA BATIR</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7639269398416 </north>
+			<south> 45.763164509286 </south>
+			<east> 4.73740243909345 </east>
+			<west> 4.73585565711412 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.73593487951035,45.7638990137489,0 4.73608970908189,45.763899513169,0 4.73608997602993,45.7638875296654,0 4.73627035720547,45.7638861944448,0 4.73627041544283,45.7639003346395,0 4.73642393611237,45.7639001331829,0 4.73657565882324,45.7639000492678,0 4.73657520613713,45.76388564493271,0 4.73675512654646,45.76388602737271,0 4.73712255639992,45.7638866745217,0 4.73712219501032,45.7638997403336,0 4.73723508350297,45.7639006138518,0 4.73723603293633,45.7639267197234,0 4.73731531286762,45.7639269398416,0 4.73740073471289,45.7638646463281,0 4.73740211847865,45.76386363423741,0 4.73740243909345,45.76378787986389,0 4.73737925220471,45.7637871561483,0 4.73737920770453,45.7636997882827,0 4.73737908506682,45.7635321686538,0 4.73737913443736,45.7635296459146,0 4.73737525616098,45.7633612734968,0 4.73737850624783,45.7632681804368,0 4.7374012617508,45.7632674696629,0 4.73740166228511,45.76321062890139,0 4.73740188515614,45.763164509286,0 4.73736560416297,45.7631647978903,0 4.73735055210294,45.7631649396548,0 4.73731594607632,45.76316529251559,0 4.73717506675233,45.76316638138191,0 4.73708680673987,45.76316702003921,0 4.73701360444697,45.76316769696411,0 4.73697939022393,45.76317642025939,0 4.73690188872655,45.763195898011,0 4.73595738407779,45.7634356142801,0 4.73594465287521,45.7634359002797,0 4.73590685634828,45.7634289160142,0 4.73588649228976,45.7634238251626,0 4.73585565711412,45.76341313092581,0 4.7358792355753,45.76343042192221,0 4.73589395997226,45.76344442648689,0 4.73589713185538,45.7634470797932,0 4.7358999235153,45.763449919092,0 4.73590246075046,45.7634528523768,0 4.73590500081405,45.7634558756887,0 4.73590754087792,45.7634588990005,0 4.73590982651698,45.76346201629831,0 4.73591185207483,45.7634650475279,0 4.73591388328927,45.7634682588116,0 4.73591565725063,45.7634714740543,0 4.73591730541374,45.76347478130361,0 4.73591882495036,45.7634780905323,0 4.735920090062,45.76348149374709,0 4.73592109792042,45.7634849009208,0 4.73592210577896,45.7634883080946,0 4.73592285638421,45.7634917192273,0 4.73592334973614,45.76349513431889,0 4.73592384591633,45.7634986394377,0 4.73592408484312,45.7635021485155,0 4.73592406368826,45.76350557152509,0 4.73592403970519,45.76350890450761,0 4.73592387895084,45.763536558666,0 4.73592271644547,45.7635937714087,0 4.73593176229668,45.7635621975471,0 4.73593427962618,45.7635563042155,0 4.73593731994721,45.76355067304711,0 4.73594061469303,45.76354494789259,0 4.73594429814686,45.7635393068265,0 4.73594837313684,45.763533839876,0 4.73595283966289,45.763528547041,0 4.73595743481487,45.7635232522263,0 4.73596255295784,45.76351821957459,0 4.73596780538318,45.7635133649973,0 4.73597357514287,45.7635085925287,0 4.73597948201318,45.7635040881616,0 4.7359857804193,45.7634997579097,0 4.73599221310779,45.7634956057321,0 4.7359990401604,45.7634917176968,0 4.73600600149542,45.7634880077356,0 4.73601322856793,45.7634845638962,0 4.73602071572126,45.7634812061242,0 4.73602847144053,45.7634782045009,0 4.73603623281572,45.76347538293129,0 4.73604425427184,45.763472647429,0 4.73627187852119,45.7634144710714,0 4.73642890376378,45.763374314347,0 4.73659253529719,45.7633314436456,0 4.73671138944077,45.76330106138041,0 4.73682551824177,45.7632718325943,0 4.73690428632514,45.7632517048995,0 4.73694884008373,45.76324030043579,0 4.73698407486987,45.76323129122289,0 4.73698778521616,45.763230603593,0 4.73699149556235,45.763229915963,0 4.73699520590846,45.7632292283329,0 4.73699904488052,45.7632285387219,0 4.73700288668244,45.7632279391379,0 4.73700673131423,45.7632274295808,0 4.7370104473199,45.7632269220044,0 4.73701428912159,45.76322632242001,0 4.73701813658314,45.76322590288959,0 4.73702198687461,45.7632255733862,0 4.73702596296209,45.7632251518748,0 4.73702981325347,45.7632248223711,0 4.7370336635448,45.76322449286729,0 4.73703751666608,45.7632242533904,0 4.73704136978734,45.7632240139134,0 4.73704535436462,45.76322386248259,0 4.73704921031584,45.7632237130324,0 4.73705306909707,45.7632236536091,0 4.7370570536743,45.7632235021779,0 4.73706014352931,45.7632235446662,0 4.737116755967,45.763223213269,0 4.73723564604641,45.76322264328031,0 4.73724091971371,45.7632225620598,0 4.73724607607635,45.7632228429283,0 4.73725123809976,45.7632233038507,0 4.73725628564903,45.7632242168893,0 4.73726121589392,45.763225492017,0 4.73726602317375,45.76322694917959,0 4.73727071031895,45.7632286784043,0 4.73727476565577,45.7632307776422,0 4.73727882665371,45.76323305693409,0 4.73728251026501,45.76323561225031,0 4.73728594511577,45.7632384416096,0 4.73728899974948,45.76324145696601,0 4.73729154554006,45.7632446603008,0 4.73729370545265,45.76324786957859,0 4.7372956166046,45.76325135289979,0 4.73729688462626,45.7632548461261,0 4.73729777243061,45.7632585253498,0 4.73729814290015,45.7632621224706,0 4.73729813032179,45.7632658155617,0 4.73729809793039,45.76326887846329,0 4.73729814104538,45.7633602995263,0 4.73729841940452,45.76346738926279,0 4.73729849712003,45.7635762835035,0 4.73729873997902,45.7637886664001,0 4.73723439800075,45.76378875663959,0 4.73723322081847,45.7638331796085,0 4.73704893573445,45.7638331353585,0 4.73689424345708,45.7638329053555,0 4.73673737017312,45.7638328888617,0 4.73658306660946,45.76383274251789,0 4.73642942315831,45.7638331262253,0 4.73626831082435,45.7638333544756,0 4.73602638365172,45.76383365536519,0 4.73601512517847,45.7638316669399,0 4.73600230054936,45.7638289820515,0 4.7359856495615,45.7638232936472,0 4.7359857202696,45.7638255443249,0 4.73597698220711,45.763834145442,0 4.7359739728651,45.7638325704837,0 4.73597108649416,45.76383081349151,0 4.7359681972951,45.7638289664721,0 4.73596530809624,45.7638271194527,0 4.73596254752505,45.76382527045359,0 4.73595991275324,45.7638233294479,0 4.73595727798161,45.763821388442,0 4.73595476900937,45.7638193554295,0 4.7359523858365,45.7638172304103,0 4.73594987403635,45.76381510737059,0 4.7359477452905,45.7638128883651,0 4.73594561937307,45.7638107593867,0 4.73594349062755,45.7638085403812,0 4.73594135905396,45.7638062313485,0 4.73593935610797,45.7638039203363,0 4.73593748178957,45.7638016073445,0 4.73593573327051,45.76379920234609,0 4.73593411055078,45.763796705341,0 4.73593236203203,45.76379430034249,0 4.73593100222387,45.76379197943271,0 4.73592163900886,45.7637724881281,0 4.73592162803384,45.7638991276098,0 4.73593487951035,45.7638990137489,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.287">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">69205000AM0208</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT-GENIS-LES-OLLIERES</SimpleData>
+					<SimpleData name="Adresse">LES BRUYERES</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SA BATIR</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.763834145442 </north>
+			<south> 45.7634997579097 </south>
+			<east> 4.73598579283544 </east>
+			<west> 4.73592163900886 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.73592271644547,45.7635937714087,0 4.73592163900886,45.7637724881281,0 4.73593100222387,45.76379197943271,0 4.73593236203203,45.76379430034249,0 4.73593411055078,45.763796705341,0 4.73593573327051,45.76379920234609,0 4.73593748178957,45.7638016073445,0 4.73593935610797,45.7638039203363,0 4.73594135905396,45.7638062313485,0 4.73594349062755,45.7638085403812,0 4.73594561937307,45.7638107593867,0 4.7359477452905,45.7638128883651,0 4.73594987403635,45.76381510737059,0 4.7359523858365,45.7638172304103,0 4.73595476900937,45.7638193554295,0 4.73595727798161,45.763821388442,0 4.73595991275324,45.7638233294479,0 4.73596254752505,45.76382527045359,0 4.73596530809624,45.7638271194527,0 4.7359681972951,45.7638289664721,0 4.73597108649416,45.76383081349151,0 4.7359739728651,45.7638325704837,0 4.73597698220711,45.763834145442,0 4.7359857202696,45.7638255443249,0 4.7359856495615,45.7638232936472,0 4.73598574843526,45.7637240342844,0 4.73598573601915,45.7636499063421,0 4.73598579283544,45.7635738858513,0 4.7359857804193,45.7634997579097,0 4.73597948201318,45.7635040881616,0 4.73597357514287,45.7635085925287,0 4.73596780538318,45.7635133649973,0 4.73596255295784,45.76351821957459,0 4.73595743481487,45.7635232522263,0 4.73595283966289,45.763528547041,0 4.73594837313684,45.763533839876,0 4.73594429814686,45.7635393068265,0 4.73594061469303,45.76354494789259,0 4.73593731994721,45.76355067304711,0 4.73593427962618,45.7635563042155,0 4.73593176229668,45.7635621975471,0 4.73592271644547,45.7635937714087,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.291">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">69205000AM0213</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT-GENIS-LES-OLLIERES</SimpleData>
+					<SimpleData name="Adresse">LES USCLARDS</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SA BATIR</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.76349057769001 </north>
+			<south> 45.76262671015521 </south>
+			<east> 4.73441842190032 </east>
+			<west> 4.73378251182239 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.73429314521262,45.76262671015521,0 4.73430120741092,45.76263757480889,0 4.73430216712029,45.7626394515354,0 4.73430312682972,45.762641328262,0 4.73430382928964,45.7626432089439,0 4.73430466319993,45.7626451776752,0 4.73430511123588,45.76264715233949,0 4.73430555927187,45.7626491270037,0 4.73430587868308,45.7626511036457,0 4.73430594084469,45.7626530842429,0 4.7343060030063,45.7626550648401,0 4.73430606516792,45.7626570454373,0 4.7343058700799,45.7626590299898,0 4.7343054177422,45.7626610184975,0 4.73430496257894,45.7626629169782,0 4.73430438161633,45.7626649074636,0 4.73430379782816,45.7626668079219,0 4.73430295679026,45.7626687123354,0 4.73430198430192,45.7626705286995,0 4.73430088601418,45.7626724370683,0 4.73429978207533,45.7626741653828,0 4.73429867813641,45.7626758936973,0 4.73421354861212,45.7627393512559,0 4.7341340742378,45.7627984884894,0 4.73405447671837,45.7628578076988,0 4.73397638863326,45.7629160227991,0 4.73395753039863,45.7629055942928,0 4.73387769223342,45.7629654574952,0 4.73381608373347,45.7630116199184,0 4.73378251182239,45.76303672521009,0 4.73378339100098,45.76309345616059,0 4.73378446033906,45.763176755009,0 4.73378408613665,45.7632755681853,0 4.73378336839154,45.76349057769001,0 4.73385916063616,45.7634904034814,0 4.73386068637429,45.7632847488922,0 4.73386078694485,45.76327565021771,0 4.73386232602562,45.76310323146951,0 4.73386287876046,45.7631003407147,0 4.73386369157179,45.7630975360328,0 4.73386476163476,45.7630947273966,0 4.7338657058966,45.7630920107647,0 4.73386703321104,45.7630891981742,0 4.73386849197601,45.7630864736337,0 4.73387008219152,45.7630838371432,0 4.73387167240687,45.76308120065271,0 4.7338735198737,45.7630785602078,0 4.73387549879101,45.7630760078129,0 4.73387773778461,45.7630735414908,0 4.73387985097706,45.76307116717309,0 4.73388222142091,45.7630687889009,0 4.73388472331522,45.7630664986787,0 4.73388735665996,45.7630642965064,0 4.73389011580541,45.76306200232969,0 4.73389288342525,45.7630599782345,0 4.73389590829643,45.7630579501848,0 4.73389906744292,45.7630561002121,0 4.7339020781892,45.7630536220265,0 4.73399825357934,45.76298125806651,0 4.73407846621244,45.7629210287379,0 4.73417325451612,45.762849586652,0 4.73418381888524,45.7628417682343,0 4.73430053842301,45.7627556676369,0 4.73433789521259,45.7627281621553,0 4.73436342400553,45.7627092150912,0 4.73436518802153,45.7627080170503,0 4.7343670806624,45.7627068170318,0 4.73436897612881,45.7627057070403,0 4.73437100304571,45.7627046850982,0 4.73437302996254,45.7627036631561,0 4.7343751911555,45.7627028192905,0 4.73437748097332,45.76270197344719,0 4.73437964216615,45.7627011295815,0 4.73438193763514,45.76270046379229,0 4.73438436172899,45.7626997960254,0 4.73438666002353,45.76269922026331,0 4.7343890897686,45.7626987325506,0 4.7343915223393,45.7626983348649,0 4.73439395773563,45.76269802720631,0 4.73439652175686,45.76269771756999,0 4.73439895997882,45.76269749993849,0 4.73440140102645,45.762697372334,0 4.73440397352467,45.7626973327789,0 4.73440642022367,45.7626973852286,0 4.73440859554436,45.7626969914981,0 4.73441842190032,45.7626984616764,0 4.73439494310705,45.7626843213253,0 4.73435671779696,45.762663652415,0 4.73429314521262,45.76262671015521,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.313">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">69205000AE0230</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT-GENIS-LES-OLLIERES</SimpleData>
+					<SimpleData name="Adresse">ALL DES BLANCHISSEURS</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SA BATIR</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.75920560933319 </north>
+			<south> 45.75919609302129 </south>
+			<east> 4.72576449107325 </east>
+			<west> 4.72572489950293 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.72576449107325,45.7592001880136,0 4.72572601699122,45.75919609302129,0 4.72572489950293,45.7592015143405,0 4.72576337358865,45.75920560933319,0 4.72576449107325,45.7592001880136,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.339">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">69205000AM0026</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT-GENIS-LES-OLLIERES</SimpleData>
+					<SimpleData name="Adresse">LES USCLARDS</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SA BATIR</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7639262086546 </north>
+			<south> 45.7638816313707 </south>
+			<east> 4.73422544544597 </east>
+			<west> 4.73409713291613 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.73409713291613,45.76392592952341,0 4.73422544544597,45.7639262086546,0 4.73422494723721,45.7638816313707,0 4.73409732315327,45.7638827827865,0 4.73409713291613,45.76392592952341,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.356">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">69205000AM0028</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT-GENIS-LES-OLLIERES</SimpleData>
+					<SimpleData name="Adresse">LES USCLARDS</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SA BATIR</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.76392660195609 </north>
+			<south> 45.76385386825 </south>
+			<east> 4.73443445480634 </east>
+			<west> 4.73409732315327 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.73423799420738,45.7638544996754,0 4.73409744526911,45.76385386825,0 4.73409732315327,45.7638827827865,0 4.73422494723721,45.7638816313707,0 4.73422544544597,45.7639262086546,0 4.73427988607599,45.7639263624351,0 4.73443419272068,45.76392660195609,0 4.73443445480634,45.7638816526979,0 4.73423768702781,45.7638816156466,0 4.73423799420738,45.7638544996754,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.474">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">69205000AP0378</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT-GENIS-LES-OLLIERES</SimpleData>
+					<SimpleData name="Adresse">2, ALL DES MELLINES</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SEM</SimpleData>
+					<SimpleData name="Denomination">SEM DE CONSTRUCTION DU DPT DE L AIN</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7599152122118 </north>
+			<south> 45.7595831387986 </south>
+			<east> 4.72874538406353 </east>
+			<west> 4.72850741475127 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.72850741475127,45.7595831387986,0 4.72852495112514,45.7598846059989,0 4.72862602173378,45.7599152122118,0 4.72869697047681,45.75988377111461,0 4.72869700064436,45.7598312595885,0 4.72870449827708,45.75973774163581,0 4.72872002366162,45.7596704912823,0 4.72874538406353,45.7595967852566,0 4.72850741475127,45.7595831387986,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.478">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">69205000AM0039</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT-GENIS-LES-OLLIERES</SimpleData>
+					<SimpleData name="Adresse">29, RUE DES PELUZES</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SA BATIR</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.76400975635419 </north>
+			<south> 45.7639565806627 </south>
+			<east> 4.73593411420509 </east>
+			<west> 4.73588508084953 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.73593411420509,45.7639565806627,0 4.73588510136132,45.7639571547879,0 4.73588508084953,45.76400975635419,0 4.73593269297418,45.76400965413909,0 4.73593411420509,45.7639565806627,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.545">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">69205000AM0005</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT-GENIS-LES-OLLIERES</SimpleData>
+					<SimpleData name="Adresse">LES USCLARDS</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SA BATIR</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7637760132034 </north>
+			<south> 45.7637311514041 </south>
+			<east> 4.73265839397252 </east>
+			<west> 4.73260228906594 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.73260248046959,45.76373146673409,0 4.73260228906594,45.7637746134681,0 4.73264016764858,45.7637760132034,0 4.73265839397252,45.76375807941329,0 4.73265819306256,45.7637311514041,0 4.73260248046959,45.76373146673409,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.588">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">69205000AM0056</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT-GENIS-LES-OLLIERES</SimpleData>
+					<SimpleData name="Adresse">LES BRUYERES</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SA BATIR</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.76316529251559 </north>
+			<south> 45.7628777211445 </south>
+			<east> 4.7373670019282 </east>
+			<west> 4.73731594607632 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.73731953072837,45.7628781820921,0 4.73731594607632,45.76316529251559,0 4.73735055210294,45.7631649396548,0 4.73735183724289,45.7630298138598,0 4.73736616655606,45.7630189648171,0 4.7373670019282,45.7628777211445,0 4.73731953072837,45.7628781820921,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.725">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">69205000AM0072</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT-GENIS-LES-OLLIERES</SimpleData>
+					<SimpleData name="Adresse">LES BRUYERES</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SA BATIR</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7634359002797 </north>
+			<south> 45.7631869462554 </south>
+			<east> 4.73690188872655 </east>
+			<west> 4.73565859762536 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.73690188872655,45.763195898011,0 4.73686904923115,45.7631869462554,0 4.73677100300752,45.7632119643574,0 4.73667282241021,45.7632368043003,0 4.73657043384203,45.76326287985759,0 4.73648310424792,45.76328494053011,0 4.73648259257221,45.76328503847769,0 4.73638429157604,45.763310150231,0 4.7362875255201,45.7633349680586,0 4.73618207784107,45.76336199105219,0 4.73616344472966,45.7633259793793,0 4.73598858991727,45.7633720845822,0 4.73595700768301,45.763407247823,0 4.73584905266138,45.7633585596874,0 4.73577150891494,45.7633234545015,0 4.73569371084236,45.763288443248,0 4.73565859762536,45.7633259125013,0 4.73585407400258,45.7634118942992,0 4.73585565711412,45.76341313092581,0 4.73588649228976,45.7634238251626,0 4.73590685634828,45.7634289160142,0 4.73594465287521,45.7634359002797,0 4.73595738407779,45.7634356142801,0 4.73690188872655,45.763195898011,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.776">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">69205000AM0086</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT-GENIS-LES-OLLIERES</SimpleData>
+					<SimpleData name="Adresse">LES BRUYERES</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SA BATIR</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.76326887846329 </north>
+			<south> 45.7632225620598 </south>
+			<east> 4.73729814290015 </east>
+			<west> 4.73711621051236 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.73729809793039,45.76326887846329,0 4.73729813032179,45.7632658155617,0 4.73729814290015,45.7632621224706,0 4.73729777243061,45.7632585253498,0 4.73729688462626,45.7632548461261,0 4.7372956166046,45.76325135289979,0 4.73729370545265,45.76324786957859,0 4.73729154554006,45.7632446603008,0 4.73728899974948,45.76324145696601,0 4.73728594511577,45.7632384416096,0 4.73728251026501,45.76323561225031,0 4.73727882665371,45.76323305693409,0 4.73727476565577,45.7632307776422,0 4.73727071031895,45.7632286784043,0 4.73726602317375,45.76322694917959,0 4.73726121589392,45.763225492017,0 4.73725628564903,45.7632242168893,0 4.73725123809976,45.7632233038507,0 4.73724607607635,45.7632228429283,0 4.73724091971371,45.7632225620598,0 4.73723564604641,45.76322264328031,0 4.737116755967,45.763223213269,0 4.73711621051236,45.7632672662228,0 4.73729809793039,45.76326887846329,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

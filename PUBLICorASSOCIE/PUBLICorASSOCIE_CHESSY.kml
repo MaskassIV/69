@@ -1,0 +1,1084 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>CHESSY_PUBLICorASSOCIE</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_9">
+		<name>CHESSY_PUBLICorASSOCIE</name>
+		<Schema name="CHESSY_PUBLICorASSOCIE" id="CHESSY_PUBLICorASSOCIE.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="PUBLICorASSOCIE">
+			<LineStyle>
+				<color>BFdb2105</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4Cdb2105</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.1623">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69056000AM0001</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHESSY</SimpleData>
+					<SimpleData name="Adresse">LES MINES</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SOCIETE NATIONALE SNCF</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8891973526334 </north>
+			<south> 45.88809373751971 </south>
+			<east> 4.61194688761571 </east>
+			<west> 4.60273455696336 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.61172790117752,45.8885711899093,0 4.61059161482258,45.88860197386799,0 4.61046481845033,45.8885618084263,0 4.61016320263344,45.88854619940431,0 4.60999842365841,45.8885435923204,0 4.60998669684324,45.8885483527817,0 4.60996948568063,45.888603809537,0 4.60995680917238,45.8886025489651,0 4.60996844259437,45.88854158742659,0 4.60923008797791,45.888498598993,0 4.60923212871018,45.88845362603961,0 4.60920875430707,45.8884526077231,0 4.60909406102343,45.8884426213906,0 4.60872190582103,45.8884008119535,0 4.60868188752239,45.8883951666888,0 4.60833989121674,45.88833491328619,0 4.60778186447337,45.888230535638,0 4.60755946628417,45.888189204589,0 4.60744461696688,45.88816498808501,0 4.60737207451328,45.88814971717951,0 4.60730206329498,45.8881327890198,0 4.60722317258106,45.8881121141294,0 4.60714988459685,45.8882172744633,0 4.60696552998699,45.8882023317437,0 4.60695250451217,45.8882244934502,0 4.60685858396117,45.888219163339,0 4.60685499478089,45.8882243482211,0 4.60683963816188,45.8882461827743,0 4.60669193452432,45.8882275663197,0 4.60669604575057,45.8882093141801,0 4.60666099767349,45.8882060294044,0 4.60639068312237,45.8881402480632,0 4.60638913343595,45.8881401800143,0 4.60610815383106,45.8881244471458,0 4.60571877500778,45.8881863605466,0 4.60566675341639,45.8881892610116,0 4.60564770020685,45.8881284655965,0 4.6056306344959,45.8881093433735,0 4.60560696449017,45.88809373751971,0 4.6052901214747,45.8881264280424,0 4.60498644073328,45.8881637944816,0 4.60489015278063,45.88817903181679,0 4.60468306301247,45.88821601699241,0 4.60447832708492,45.88825855258559,0 4.60427593708259,45.8883063685173,0 4.60407641388227,45.88835963754471,0 4.60365181580423,45.8885056263977,0 4.60360587814041,45.8885181669364,0 4.60355686725298,45.8885314715878,0 4.60342263094668,45.88863443153659,0 4.60339117703487,45.8886482977249,0 4.60320319797511,45.8887304933648,0 4.60316881536407,45.88874566196889,0 4.6028563398026,45.88884889682371,0 4.60285122996659,45.88885059048739,0 4.60273455696336,45.88890115133591,0 4.60276978873677,45.8889772995769,0 4.60286606013001,45.8891876841523,0 4.6028702105462,45.8891973526334,0 4.60338324426623,45.8888145853421,0 4.60345342759636,45.88878422787981,0 4.6036136651629,45.8887149447357,0 4.60367644378971,45.8887271141024,0 4.60376447326258,45.8886983947271,0 4.60388818413818,45.88865926163621,0 4.60415073764693,45.88857357491471,0 4.60428211991372,45.888536584233,0 4.60452435476297,45.8884751429911,0 4.60464712910954,45.8884481815051,0 4.6048726514896,45.8884019279706,0 4.60542640196583,45.8883285866906,0 4.60567539704496,45.8883133418386,0 4.60567518037364,45.8882704726119,0 4.60570040980853,45.8882687632747,0 4.60574071611063,45.8883108829845,0 4.60586202023362,45.8882954697346,0 4.60597703027651,45.88828536969759,0 4.60609195552652,45.88828121522749,0 4.60629376307981,45.888284292649,0 4.6064953491562,45.8882930471344,0 4.60669620075216,45.8883075760443,0 4.60678996329682,45.8883163311178,0 4.60680699523275,45.88830329941519,0 4.60694690272876,45.8883287816262,0 4.60732083970137,45.8883742643321,0 4.60839114139979,45.8885443126734,0 4.60955944944199,45.888722412882,0 4.60958442084939,45.8887295330126,0 4.60958388911886,45.8887378268347,0 4.60960138325268,45.88873622675391,0 4.60990722812851,45.8887508763873,0 4.60991444257286,45.8887505935201,0 4.60992235168935,45.8887475987215,0 4.60992747717838,45.88874203158979,0 4.60992956634539,45.88873848918971,0 4.60993801565601,45.8887009906671,0 4.60995081848064,45.8887021593747,0 4.60994202184299,45.8887410138638,0 4.60993882231734,45.88874628336679,0 4.60993144982037,45.8887544043991,0 4.60991779699221,45.8887594624826,0 4.61010571171686,45.8887637217056,0 4.61017846388315,45.8887640366099,0 4.61024693265842,45.88876342172649,0 4.61063337352373,45.888759898624,0 4.61083021038154,45.8887561035554,0 4.61174600704894,45.8887317031868,0 4.61194688761571,45.8887206430841,0 4.6119345477387,45.88871325330859,0 4.61193149011026,45.8886880778598,0 4.61193844142553,45.8886876184787,0 4.61192577951909,45.8885942183431,0 4.61191869929267,45.88859467956149,0 4.61189208561117,45.8885666875789,0 4.61188051936243,45.8885637001008,0 4.61183619099236,45.8885650526321,0 4.61180753329306,45.888564200242,0 4.61177295049477,45.8885724391149,0 4.61174276681335,45.8885767423394,0 4.6117299008154,45.888573413103,0 4.61172790117752,45.8885711899093,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.1681">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69056000AL0010</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHESSY</SimpleData>
+					<SimpleData name="Adresse">LA RONZE</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">BRGM</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8939675553087 </north>
+			<south> 45.8935359624558 </south>
+			<east> 4.60878711449681 </east>
+			<west> 4.60803027763509 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.60811074219686,45.89357634330471,0 4.60803027763509,45.8939176742432,0 4.60877857897424,45.8939675553087,0 4.60878711449681,45.8936854311277,0 4.60877990564622,45.89366382732369,0 4.60876489746419,45.8936445861891,0 4.60873637519835,45.8936175212852,0 4.60870189549264,45.8935940537853,0 4.60866213454577,45.8935752548786,0 4.6086181290834,45.893561289946,0 4.60855194428017,45.8935475504631,0 4.60848152283744,45.89353891501599,0 4.60841049329004,45.8935359624558,0 4.6083391134851,45.8935386891131,0 4.60826880430669,45.8935471648444,0 4.60811074219686,45.89357634330471,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.2309">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69056000AL0011</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHESSY</SimpleData>
+					<SimpleData name="Adresse">LA RONZE</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">BRGM</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8936673661422 </north>
+			<south> 45.89262976695131 </south>
+			<east> 4.60832003947497 </east>
+			<west> 4.60739617820909 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.60753700405682,45.89366484241779,0 4.60756855078796,45.8936673661422,0 4.60773015422545,45.8936534496394,0 4.60787327844059,45.8936295279443,0 4.60801417676329,45.8936000535108,0 4.60811074219686,45.89357634330471,0 4.60832003947497,45.8926417036826,0 4.60820308800962,45.89262976695131,0 4.60772421411374,45.892768616796,0 4.60739617820909,45.8928783900085,0 4.60740695964262,45.8929384921681,0 4.60753700405682,45.89366484241779,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.2867">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69056000AL0012</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHESSY</SimpleData>
+					<SimpleData name="Adresse">LA RONZE</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">BRGM</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8939675553087 </north>
+			<south> 45.8926078334195 </south>
+			<east> 4.60934644549378 </east>
+			<west> 4.60811074219686 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.60811074219686,45.89357634330471,0 4.60826880430669,45.8935471648444,0 4.6083391134851,45.8935386891131,0 4.60841049329004,45.8935359624558,0 4.60848152283744,45.89353891501599,0 4.60855194428017,45.8935475504631,0 4.6086181290834,45.893561289946,0 4.60866213454577,45.8935752548786,0 4.60870189549264,45.8935940537853,0 4.60873637519835,45.8936175212852,0 4.60876489746419,45.8936445861891,0 4.60877990564622,45.89366382732369,0 4.60878711449681,45.8936854311277,0 4.60877857897424,45.8939675553087,0 4.60883039097713,45.8938246908815,0 4.60905288777673,45.89337361688191,0 4.60918222030714,45.8929921398694,0 4.60922677613642,45.89291449763589,0 4.60927912825511,45.89283881598151,0 4.60931706249505,45.8927906301076,0 4.60933521989177,45.8927454277551,0 4.60934523085746,45.8926995307413,0 4.60934644549378,45.8926527681833,0 4.60933092444202,45.8926292111634,0 4.60928089638139,45.892621006501,0 4.60917646152997,45.8926136662247,0 4.60902075106647,45.892608406576,0 4.60893444280497,45.8926078334195,0 4.60859584446686,45.8926339972796,0 4.60832003947497,45.8926417036826,0 4.60811074219686,45.89357634330471,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.3376">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69056000AM0130</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHESSY</SimpleData>
+					<SimpleData name="Adresse">LES MINES</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SOCIETE NATIONALE SNCF</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8882461827743 </north>
+			<south> 45.8882093141801 </south>
+			<east> 4.60685499478089 </east>
+			<west> 4.60669193452432 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.60685499478089,45.8882243482211,0 4.60669604575057,45.8882093141801,0 4.60669193452432,45.8882275663197,0 4.60683963816188,45.8882461827743,0 4.60685499478089,45.8882243482211,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.4765">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69056000AH0016</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHESSY</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SOCIETE NATIONALE SNCF</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8859789026637 </north>
+			<south> 45.8843641644514 </south>
+			<east> 4.62524188051385 </east>
+			<west> 4.62108696092097 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.62276441009252,45.8855204141801,0 4.62276356586611,45.8855092578341,0 4.62276669508556,45.88550164718269,0 4.62276861729362,45.88549684597301,0 4.62277595036813,45.885487463681,0 4.6227834997971,45.8854810505354,0 4.6227910651229,45.8854751775707,0 4.62280745404808,45.8854667461033,0 4.62378847741672,45.8850841002044,0 4.62524188051385,45.8845696406603,0 4.62509989260555,45.8843641644514,0 4.62480116566095,45.8844547437521,0 4.62463101153286,45.8844794360397,0 4.62426407458452,45.8845355072184,0 4.62438922475989,45.8847079911768,0 4.62360878006475,45.8849862549957,0 4.62357723134212,45.8849441057932,0 4.62307446951981,45.8851222746946,0 4.62161389974441,45.8856397809337,0 4.62160126419692,45.8856442854527,0 4.6213168781957,45.8857449174396,0 4.62134992924965,45.8857943412356,0 4.62132156405512,45.8858033945853,0 4.62131286050027,45.8858012677003,0 4.62110654170574,45.8858155749903,0 4.62114604027555,45.88586058311499,0 4.62108696092097,45.8858821459779,0 4.62115442003723,45.8859789026637,0 4.62120741128171,45.88595643632189,0 4.62121208483339,45.8859618634632,0 4.6212401658222,45.8859519135358,0 4.62219816543693,45.88561455594269,0 4.62222166334039,45.88564610292391,0 4.62223876320297,45.8856399130455,0 4.62241590717116,45.88557648483241,0 4.6223924745228,45.8855427753159,0 4.62270459892652,45.8854338164283,0 4.62276441009252,45.8855204141801,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.5645">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69056000AM0018</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHESSY</SimpleData>
+					<SimpleData name="Adresse">COMBOULEAU</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">BRGM</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8882222229387 </north>
+			<south> 45.8880472057802 </south>
+			<east> 4.60873346175101 </east>
+			<west> 4.60782764059937 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.60870589107446,45.8881039057099,0 4.60783546003242,45.8880472057802,0 4.60782764059937,45.888088658157,0 4.60850208255529,45.88819137934,0 4.60873346175101,45.8882222229387,0 4.60870589107446,45.8881039057099,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.6046">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69056000AH0019</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHESSY</SimpleData>
+					<SimpleData name="Adresse">LES MARAIS</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SOCIETE NATIONALE SNCF</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8845696406603 </north>
+			<south> 45.8826506968699 </south>
+			<east> 4.62887009912756 </east>
+			<west> 4.62509989260555 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.62524188051385,45.8845696406603,0 4.62541756996758,45.8845139744328,0 4.62616907512456,45.8842651161983,0 4.62620967091766,45.88425102198249,0 4.62637026770269,45.8841953011492,0 4.62652898503391,45.8841370852108,0 4.62677873177384,45.8840388297654,0 4.62699268806269,45.8839427100899,0 4.62720437506535,45.88384401068049,0 4.62741380073597,45.88374300164021,0 4.62754293797669,45.883678905285,0 4.62765252698983,45.8836210347472,0 4.62781233376093,45.8835299263215,0 4.62822280554839,45.88327578655301,0 4.6285708352304,45.8830428102035,0 4.62885873575962,45.8828699641566,0 4.62887009912756,45.8828398977143,0 4.62885930081987,45.8828105108711,0 4.62882403008608,45.8827210407466,0 4.62879280644864,45.8826506968699,0 4.62865204471008,45.8827140614987,0 4.62811339064449,45.8830556140575,0 4.62795451470763,45.8831563468467,0 4.62769588972944,45.8833162495074,0 4.62720777482351,45.8836008672356,0 4.62714803965298,45.8836306389942,0 4.62709450680785,45.8836564485109,0 4.62700481219462,45.883698000008,0 4.62691938619308,45.8837356170614,0 4.62682192743671,45.8837762893948,0 4.62676469713263,45.88379917970401,0 4.62615451241935,45.8840380832609,0 4.62600817374336,45.88400001771409,0 4.62599441058504,45.8840056197733,0 4.62601145995925,45.88401086871579,0 4.62601840909407,45.8840147317704,0 4.62603115630916,45.88402715798811,0 4.62603955741357,45.88404964430241,0 4.62604465077023,45.8840692960069,0 4.62603178348826,45.88407029169939,0 4.62602754296526,45.8840620664061,0 4.6260221448929,45.8840539478307,0 4.62601787634945,45.88404914553679,0 4.62601219243288,45.884044453669,0 4.62600272228909,45.8840381950293,0 4.62598881074213,45.8840300187669,0 4.62598501389549,45.8840280918741,0 4.62596845096144,45.8840218451795,0 4.62595845308229,45.8840195571332,0 4.62593371501316,45.8840290999051,0 4.6259727879081,45.8840858213863,0 4.62564204258516,45.8841926254222,0 4.62530799202918,45.8843010972217,0 4.62509989260555,45.8843641644514,0 4.62524188051385,45.8845696406603,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.6086">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69056000AA0190</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHESSY</SimpleData>
+					<SimpleData name="Adresse">BROCHES MARION</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">BRGM</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8948402870542 </north>
+			<south> 45.8944317070825 </south>
+			<east> 4.60933928036228 </east>
+			<west> 4.608883965022 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.60933928036228,45.89447521514649,0 4.60901887943133,45.8944446485008,0 4.608883965022,45.8944317070825,0 4.60891403051951,45.894502793224,0 4.60895331386123,45.8945714964931,0 4.60900167300107,45.8946373685625,0 4.60906032358232,45.8947022835482,0 4.6091253687816,45.8947608928141,0 4.60919882412729,45.894815959771,0 4.6092361677147,45.8948402870542,0 4.60933928036228,45.89447521514649,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.6122">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69056000AA0191</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHESSY</SimpleData>
+					<SimpleData name="Adresse">BROCHES MARION</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">BRGM</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8956619488451 </north>
+			<south> 45.8944266201337 </south>
+			<east> 4.6092361677147 </east>
+			<west> 4.60852874338682 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.60883002769072,45.8944266201337,0 4.60883093453116,45.8944488540133,0 4.60881581127687,45.8945273382409,0 4.60864138954368,45.89512318746879,0 4.6086061139026,45.8952714007474,0 4.60853548171842,45.89559601968089,0 4.60852874338682,45.8956347546849,0 4.60900397308211,45.8956619488451,0 4.6092361677147,45.8948402870542,0 4.60919882412729,45.894815959771,0 4.6091253687816,45.8947608928141,0 4.60906032358232,45.8947022835482,0 4.60900167300107,45.8946373685625,0 4.60895331386123,45.8945714964931,0 4.60891403051951,45.894502793224,0 4.608883965022,45.8944317070825,0 4.60883002769072,45.8944266201337,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.6222">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69056000AA0194</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHESSY</SimpleData>
+					<SimpleData name="Adresse">BROCHES MARION</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">BRGM</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.89554017420749 </north>
+			<south> 45.8949217593074 </south>
+			<east> 4.6080711786858 </east>
+			<west> 4.60740157600454 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.60788979175148,45.89554017420749,0 4.6080711786858,45.895063387083,0 4.608058856036,45.8950610404302,0 4.60790660069597,45.8950285294993,0 4.60762434953573,45.8949217593074,0 4.60750634905282,45.8952146265322,0 4.60740157600454,45.89546128087609,0 4.60788979175148,45.89554017420749,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.6342">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69056000AA0197</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHESSY</SimpleData>
+					<SimpleData name="Adresse">BROCHES MARION</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">BRGM</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8957763494079 </north>
+			<south> 45.8948212245315 </south>
+			<east> 4.60605964091178 </east>
+			<west> 4.60554387695827 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.60605964091178,45.89489806064249,0 4.60583192628013,45.8948212245315,0 4.60571130504748,45.8950465760643,0 4.60567816387799,45.89511333664879,0 4.605650424931,45.89517957017,0 4.60554387695827,45.8957154558149,0 4.60568921982861,45.8957763494079,0 4.60574318804413,45.8956407514083,0 4.60589771718889,45.89526864805019,0 4.60605964091178,45.89489806064249,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.6373">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69056000AA0198</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHESSY</SimpleData>
+					<SimpleData name="Adresse">BROCHES MARION</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">BRGM</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.895746649397 </north>
+			<south> 45.89472317709649 </south>
+			<east> 4.60581759366371 </east>
+			<west> 4.6053708254083 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.60548685794727,45.89472317709649,0 4.6053708254083,45.8953852021808,0 4.60552272763801,45.895746649397,0 4.60563869243332,45.895170910123,0 4.60570002711833,45.8950446646593,0 4.60581759366371,45.8948162942137,0 4.6057000337094,45.8947703178208,0 4.60560486881565,45.8947314989336,0 4.60548685794727,45.89472317709649,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.6594">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69056000AA0201</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHESSY</SimpleData>
+					<SimpleData name="Adresse">BROCHES MARION</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">BRGM</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8968040666827 </north>
+			<south> 45.89489806064249 </south>
+			<east> 4.60690822540011 </east>
+			<west> 4.60561253718111 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.60605964091178,45.89489806064249,0 4.60589771718889,45.89526864805019,0 4.60574318804413,45.8956407514083,0 4.60568921982861,45.8957763494079,0 4.60561253718111,45.8959602760973,0 4.6058343042942,45.8964881670483,0 4.60608938616232,45.89660973854771,0 4.60632951582249,45.8966873886324,0 4.60668804058054,45.8968040666827,0 4.60675368215125,45.896422867281,0 4.60682138384898,45.89642658876681,0 4.60681818833433,45.89640546821921,0 4.60677269873581,45.8961105117825,0 4.60678095536097,45.8958936910868,0 4.60690822540011,45.8956796825104,0 4.60651510525714,45.89558403226891,0 4.60640688812091,45.89555773877301,0 4.60643073859773,45.8952341462654,0 4.6064823268966,45.8951453269289,0 4.60649964402667,45.89511544855441,0 4.60653943913344,45.8950468818846,0 4.60624195163539,45.89491735744819,0 4.60620844980111,45.89493629727421,0 4.60615272586325,45.8949274515731,0 4.60609955225941,45.8949131655459,0 4.60605964091178,45.89489806064249,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.6626">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69056000AA0202</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHESSY</SimpleData>
+					<SimpleData name="Adresse">BROCHES MARION</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">BRGM</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8956796825104 </north>
+			<south> 45.8950468818846 </south>
+			<east> 4.60710374862605 </east>
+			<west> 4.60640688812091 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.60699369174519,45.89553616059881,0 4.60707017816112,45.8954076274516,0 4.60710374862605,45.8953158214576,0 4.60675064453491,45.8951458376963,0 4.60653943913344,45.8950468818846,0 4.60649964402667,45.89511544855441,0 4.6064823268966,45.8951453269289,0 4.60643073859773,45.8952341462654,0 4.60640688812091,45.89555773877301,0 4.60651510525714,45.89558403226891,0 4.60690822540011,45.8956796825104,0 4.60699369174519,45.89553616059881,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.7742">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69056000AA0234</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHESSY</SimpleData>
+					<SimpleData name="Adresse">BOIS DE L ERSE</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">BRGM</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.89860470150621 </north>
+			<south> 45.8983650449462 </south>
+			<east> 4.61259720034998 </east>
+			<west> 4.61241681043992 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.61250952778729,45.89860470150621,0 4.61259720034998,45.8985898509778,0 4.61258430294062,45.8983650449462,0 4.61241681043992,45.8983677036092,0 4.61250952778729,45.89860470150621,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.8293">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69056000AA0252</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHESSY</SimpleData>
+					<SimpleData name="Adresse">TERRE GRANGER</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">BRGM</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8970201034837 </north>
+			<south> 45.89695045110359 </south>
+			<east> 4.61138730997007 </east>
+			<west> 4.61128370862553 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.61128370862553,45.8969741107809,0 4.61133652246289,45.8970201034837,0 4.61138730997007,45.89699235934031,0 4.61133861438458,45.89695045110359,0 4.61133033313073,45.896953991697,0 4.61128612695347,45.8969729955044,0 4.61128370862553,45.8969741107809,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.8505">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69056000AH0026</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHESSY</SimpleData>
+					<SimpleData name="Adresse">LE BARONNAT</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SOCIETE NATIONALE SNCF</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8841926254222 </north>
+			<south> 45.884010625356 </south>
+			<east> 4.6259727879081 </east>
+			<west> 4.62562772299293 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.62595845308229,45.8840195571332,0 4.62595663504482,45.88401913294021,0 4.62594508757202,45.884016777112,0 4.62593445310101,45.8840147684246,0 4.62592616293359,45.8840135366341,0 4.62591877249322,45.8840122018343,0 4.6259086828732,45.8840111760598,0 4.62589783571233,45.8840107015896,0 4.6258906113512,45.884010625356,0 4.62586536856278,45.8840117990171,0 4.62584082077027,45.8840146739755,0 4.62567336037838,45.8840213154516,0 4.62562772299293,45.88402188165599,0 4.62564204258516,45.8841926254222,0 4.6259727879081,45.8840858213863,0 4.62593371501316,45.8840290999051,0 4.62595845308229,45.8840195571332,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.9091">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69056000AH0028</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHESSY</SimpleData>
+					<SimpleData name="Adresse">LE BARONNAT</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SOCIETE NATIONALE SNCF</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8843010972217 </north>
+			<south> 45.88402188165599 </south>
+			<east> 4.62564204258516 </east>
+			<west> 4.62530799202918 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.62564204258516,45.8841926254222,0 4.62562772299293,45.88402188165599,0 4.62539617638596,45.8840244905019,0 4.62535320328109,45.8840323138224,0 4.62530799202918,45.8843010972217,0 4.62564204258516,45.8841926254222,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.9387">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69056000AI0029</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHESSY</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SOCIETE NATIONALE SNCF</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.88704285801429 </north>
+			<south> 45.88586779739791 </south>
+			<east> 4.62115442003723 </east>
+			<west> 4.61809186448651 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.61809186448651,45.8869187757635,0 4.61818217594067,45.88704285801429,0 4.61855384560809,45.8869100010671,0 4.61887933672568,45.8867945568172,0 4.61919325621418,45.8866847715032,0 4.61962603331734,45.88653365258309,0 4.61986399247695,45.88645044286289,0 4.62022889363678,45.88632452246049,0 4.62076797569924,45.8861352177529,0 4.62101337338702,45.8860463146932,0 4.62099348115153,45.8860189489749,0 4.62111537689812,45.8859800930078,0 4.62112397166626,45.8859916786316,0 4.62115442003723,45.8859789026637,0 4.62108696092097,45.8858821459779,0 4.62104997227164,45.88589618659599,0 4.62103460429013,45.88587794297071,0 4.62102059929068,45.8858753516704,0 4.6209963066892,45.8858693952169,0 4.62098839251437,45.88586779739791,0 4.62097085727215,45.885867958756,0 4.62094651407073,45.88587344168119,0 4.62093462544467,45.8858770347326,0 4.62092406303309,45.8858818697227,0 4.62081246443933,45.8859331874064,0 4.62046326093155,45.8860752771565,0 4.62035617214771,45.8861177030518,0 4.62016689744065,45.88619418157929,0 4.61958943900204,45.8863943009399,0 4.61820606822947,45.8868769707647,0 4.61809186448651,45.8869187757635,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.9656">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69056000AI0003</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHESSY</SimpleData>
+					<SimpleData name="Adresse">LES SAILLANTS</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SOCIETE NATIONALE SNCF</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8887240675983 </north>
+			<south> 45.8869187757635 </south>
+			<east> 4.61818217594067 </east>
+			<west> 4.61192577951909 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.61809186448651,45.8869187757635,0 4.617992969664,45.8869548673927,0 4.61793666071268,45.8869742272908,0 4.61711180354284,45.8872574942673,0 4.61680717910674,45.8873590346379,0 4.61623635302457,45.8875618337904,0 4.61569081723933,45.8877607559235,0 4.61521597128921,45.8879249799944,0 4.61509153613348,45.8879654869844,0 4.61478849011078,45.88805952360941,0 4.61448232231207,45.8881482899713,0 4.61404268883528,45.8882599468305,0 4.61381016570704,45.8883091108128,0 4.61297161864475,45.88846527628161,0 4.61292269934657,45.8884728193645,0 4.61284617757421,45.88848471919171,0 4.61265254964668,45.88850999827189,0 4.61230794281824,45.88855030994551,0 4.61193273082257,45.8885937589624,0 4.61192577951909,45.8885942183431,0 4.61193844142553,45.8886876184787,0 4.61194539274068,45.8886871590972,0 4.61194852654322,45.8887017054343,0 4.61195528593165,45.8887123271541,0 4.61194688761571,45.8887206430841,0 4.6119760084457,45.8887196874765,0 4.61199728871515,45.8887240675983,0 4.61284014109047,45.888639902458,0 4.61286220219324,45.8886224748144,0 4.61287213413219,45.88860927326199,0 4.61287746184789,45.88860181167841,0 4.61288347078777,45.8885867746615,0 4.61294169896875,45.88857999947241,0 4.61295285257923,45.8885953320505,0 4.61296363759107,45.88860247369521,0 4.61297073901809,45.88860714598681,0 4.61297881124936,45.8886097328629,0 4.6129868834814,45.88861231973839,0 4.61299300343429,45.8886143039902,0 4.61300321467721,45.8886150589866,0 4.61301071063907,45.88861558251719,0 4.6130225768076,45.8886155933565,0 4.61320135510972,45.8885897149207,0 4.61405186947363,45.8884325663039,0 4.61448814468333,45.8883251005163,0 4.61456510220915,45.88830607796901,0 4.61456873733071,45.8882892733945,0 4.61458576531647,45.8882849771533,0 4.61459866622951,45.8882983031237,0 4.61515947537714,45.88811853283049,0 4.61567248470747,45.88793178702619,0 4.61670230290871,45.8875606657932,0 4.61703390850966,45.8874467607533,0 4.61739020144485,45.8873259265682,0 4.61786983430463,45.8871582021092,0 4.61813879057585,45.8870631138509,0 4.61818217594067,45.88704285801429,0 4.61809186448651,45.8869187757635,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.9709">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69056000AI0030</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHESSY</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SOCIETE NATIONALE SNCF</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8860463146932 </north>
+			<south> 45.8859800930078 </south>
+			<east> 4.62113377698067 </east>
+			<west> 4.62099348115153 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.62101337338702,45.8860463146932,0 4.62103328055717,45.88603909399751,0 4.62113377698067,45.8860049581921,0 4.62112397166626,45.8859916786316,0 4.62111537689812,45.8859800930078,0 4.62099348115153,45.8860189489749,0 4.62101337338702,45.8860463146932,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.11955">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69056000AL0004</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHESSY</SimpleData>
+					<SimpleData name="Adresse">LA RONZE</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">BRGM</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8940575912086 </north>
+			<south> 45.8929668903944 </south>
+			<east> 4.60686903793938 </east>
+			<west> 4.60547038935525 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.60685379007587,45.8929668903944,0 4.60637117167631,45.89306597762871,0 4.60601907955134,45.8931382600432,0 4.60557800461456,45.893228917851,0 4.60555645909247,45.89323318678551,0 4.60547038935525,45.8938343510061,0 4.60573725645151,45.8939092807474,0 4.60622773637622,45.8940575912086,0 4.60628900233651,45.8939644913491,0 4.60635065646626,45.89385373263281,0 4.60656709536964,45.8936499862438,0 4.60680876319977,45.89332942310019,0 4.60684826500465,45.89325527625801,0 4.60679775866748,45.8931067515066,0 4.6068180869787,45.8930872781568,0 4.606823066947,45.8930678427873,0 4.60684676254223,45.8930576886402,0 4.6068651695866,45.8930431062519,0 4.60686903793938,45.8930386379493,0 4.60685887863456,45.893004286324,0 4.60685673733063,45.8929972013913,0 4.60686352618462,45.8929955737566,0 4.60685379007587,45.8929668903944,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.11960">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69056000AM0004</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHESSY</SimpleData>
+					<SimpleData name="Adresse">LES MINES</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">BRGM</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8885807671821 </north>
+			<south> 45.8884242946573 </south>
+			<east> 4.61153834458601 </east>
+			<west> 4.61060491517975 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.61066860831744,45.88857971103749,0 4.610671563676,45.8885175220267,0 4.61136249174426,45.8884911041246,0 4.61153834458601,45.8884489677105,0 4.6115085266695,45.88845254511551,0 4.61144829619317,45.8884570063375,0 4.61138347184893,45.88845874089461,0 4.6113239833112,45.8884576973276,0 4.61126441584311,45.8884539528144,0 4.61069734388955,45.8884242946573,0 4.610640090761,45.88851742999199,0 4.61063952237032,45.888524463392,0 4.61064586573704,45.8885385136961,0 4.61060491517975,45.8885804382826,0 4.61060711738795,45.8885807671821,0 4.61064798855524,45.8885802749973,0 4.61066860831744,45.88857971103749,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.13437">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69056000AM0005</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHESSY</SimpleData>
+					<SimpleData name="Adresse">LES MINES</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">BRGM</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8885807622063 </north>
+			<south> 45.8883975594467 </south>
+			<east> 4.61190568030344 </east>
+			<west> 4.61066860831744 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.61066860831744,45.88857971103749,0 4.61069618728159,45.88857895786081,0 4.61070862173677,45.8885807622063,0 4.61073176209015,45.88857818082909,0 4.61075829388853,45.8885769021483,0 4.61156014883778,45.8885507039543,0 4.61155264483722,45.8885190169136,0 4.61159629435277,45.8885165032858,0 4.61160067791634,45.88854733412481,0 4.61163677101431,45.8885466394878,0 4.61165620413207,45.8885451915831,0 4.61167942601097,45.8885454009571,0 4.61172200738897,45.88855046822029,0 4.61173193188311,45.8885590633355,0 4.61174426380284,45.88856618304159,0 4.61175887681692,45.8885675058746,0 4.61179002607528,45.88856093717991,0 4.61180634136046,45.8885587230862,0 4.61182334073806,45.8885578502575,0 4.61188311614163,45.88855546688919,0 4.61190568030344,45.88855964858641,0 4.61177699543708,45.8883975594467,0 4.61173890555447,45.8884093609608,0 4.61169769519949,45.8884203062658,0 4.61162977422624,45.8884352350376,0 4.61157188809272,45.8884448868514,0 4.61153834458601,45.8884489677105,0 4.61136249174426,45.8884911041246,0 4.610671563676,45.8885175220267,0 4.61066860831744,45.88857971103749,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.14711">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69056000AL0006</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHESSY</SimpleData>
+					<SimpleData name="Adresse">LA RONZE</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">BRGM</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8948616115865 </north>
+			<south> 45.8940638685504 </south>
+			<east> 4.60662499619714 </east>
+			<west> 4.60586938848546 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.60624868652824,45.8940638685504,0 4.60616263255958,45.8941916363687,0 4.60605480734279,45.89444878063419,0 4.60591975217101,45.89470108759209,0 4.60586938848546,45.8947743975971,0 4.60615479540066,45.89485680895401,0 4.60617552772557,45.89486002709981,0 4.60619079483176,45.8948616115865,0 4.60621439304746,45.894861366435,0 4.60623445748248,45.89485937012019,0 4.60626760535256,45.8948548461761,0 4.60629375425619,45.89484474737339,0 4.60662499619714,45.89454353772111,0 4.60625780772233,45.8943724916897,0 4.60631987022834,45.89408537427149,0 4.60624868652824,45.8940638685504,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.14715">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69056000AM0006</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHESSY</SimpleData>
+					<SimpleData name="Adresse">LES MINES</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">BRGM</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8885507039543 </north>
+			<south> 45.8885165032858 </south>
+			<east> 4.61160067791634 </east>
+			<west> 4.61155264483722 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.61156014883778,45.8885507039543,0 4.61160067791634,45.88854733412481,0 4.61159629435277,45.8885165032858,0 4.61155264483722,45.8885190169136,0 4.61156014883778,45.8885507039543,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.15620">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69056000AK0007</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHESSY</SimpleData>
+					<SimpleData name="Adresse">TERRE GRASSE</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">BRGM</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8948960337154 </north>
+			<south> 45.894106817341 </south>
+			<east> 4.61574205439946 </east>
+			<west> 4.6148769966218 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.61490954273807,45.8948960337154,0 4.61491217921616,45.89489356422201,0 4.61500253786684,45.8948121130535,0 4.61507403837317,45.8947474136375,0 4.61518899290452,45.89464255355531,0 4.61530361558622,45.894539589521,0 4.61536505108607,45.8944835901676,0 4.61543240367327,45.8944182292273,0 4.61551319116332,45.8943447502975,0 4.61555768686389,45.8943049349189,0 4.61561381998967,45.894252884113,0 4.61567158168088,45.8941991887808,0 4.61570537092121,45.8941681728657,0 4.61574205439946,45.8941346837429,0 4.61567519500793,45.894106817341,0 4.61564378432599,45.89413536742139,0 4.61560974511504,45.8941666570939,0 4.61555198603605,45.8942204424249,0 4.61549635543746,45.89427203567931,0 4.61545198337882,45.89431166913081,0 4.61537018810837,45.8943859730269,0 4.61530296969916,45.894451512149,0 4.61524253928556,45.89450659642921,0 4.61512778762161,45.8946095622434,0 4.61501270674313,45.8947145141353,0 4.61494133250728,45.8947791216406,0 4.6148769966218,45.8948374138787,0 4.61490954273807,45.8948960337154,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.15621">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69056000AL0007</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHESSY</SimpleData>
+					<SimpleData name="Adresse">LA RONZE</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">BRGM</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.89454353772111 </north>
+			<south> 45.8925025981603 </south>
+			<east> 4.60820308800962 </east>
+			<west> 4.60624868652824 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.60753700405682,45.89366484241779,0 4.60740695964262,45.8929384921681,0 4.60739617820909,45.8928783900085,0 4.60772421411374,45.892768616796,0 4.60820308800962,45.89262976695131,0 4.60813161820165,45.89261610241151,0 4.60808727173941,45.8925992599615,0 4.60806004152822,45.8925855065766,0 4.60802695449185,45.8925655317266,0 4.60799379132716,45.8925429459801,0 4.60794927534291,45.8925025981603,0 4.6074398639121,45.8926336849069,0 4.60733463186411,45.8926653536711,0 4.6072327726177,45.8927021082622,0 4.60717311981666,45.8927265539997,0 4.60705571978622,45.89280099757801,0 4.60695581130548,45.8928869913284,0 4.60687690358496,45.8929633194693,0 4.60685379007587,45.8929668903944,0 4.60686352618462,45.8929955737566,0 4.60687493564302,45.8929931599118,0 4.60688473334778,45.8930416573349,0 4.606846511489,45.8930712023928,0 4.60682889377566,45.8930863139678,0 4.60681832768083,45.8931043876367,0 4.60681567113606,45.8931238800553,0 4.60682113215973,45.8931430769779,0 4.60682708076606,45.8931524495703,0 4.60686066662662,45.8932514972968,0 4.60681574329676,45.8933387810348,0 4.60670988165315,45.8934861053193,0 4.60656096233997,45.8936741215141,0 4.60635873099449,45.8938652366764,0 4.60632639864009,45.8939375701894,0 4.60628639603896,45.8940078510283,0 4.60624868652824,45.8940638685504,0 4.60631987022834,45.89408537427149,0 4.60625780772233,45.8943724916897,0 4.60662499619714,45.89454353772111,0 4.60670099353377,45.894500035862,0 4.6067296733316,45.8944926930964,0 4.60676031830171,45.8944908165395,0 4.60679048390224,45.894494621064,0 4.60681783091105,45.8945035094375,0 4.60702751845433,45.8942672535384,0 4.60738644967877,45.8938630606536,0 4.60753700405682,45.89366484241779,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.16335">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69056000AK0008</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHESSY</SimpleData>
+					<SimpleData name="Adresse">TERRE GRASSE</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">BRGM</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8941346837429 </north>
+			<south> 45.8937285070912 </south>
+			<east> 4.61605853836163 </east>
+			<west> 4.61567519500793 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.61567519500793,45.894106817341,0 4.61574205439946,45.8941346837429,0 4.61575813597092,45.8941200430411,0 4.61584176408012,45.89404229007069,0 4.61586945923093,45.8940146036449,0 4.61588810587474,45.8939950625882,0 4.61592271222107,45.89395232607279,0 4.61597240467309,45.89388739731779,0 4.61600573963025,45.89384089608509,0 4.61603551752091,45.8938006603813,0 4.61605269258341,45.8937749256283,0 4.61605853836163,45.8937631332214,0 4.61605601168103,45.8937561440217,0 4.6160488433506,45.8937492211637,0 4.6160343969994,45.8937448341661,0 4.61601478760272,45.89373592748521,0 4.61599831750896,45.8937285070912,0 4.61596619844605,45.8937768823754,0 4.61593691514546,45.893816390447,0 4.61590383273724,45.8938627079133,0 4.61585487425503,45.8939262751266,0 4.6158221412091,45.89396691328359,0 4.61580549154706,45.8939841740888,0 4.61577904879087,45.8940105816481,0 4.61569668361079,45.89408741584389,0 4.61567519500793,45.894106817341,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.16337">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69056000AL0008</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHESSY</SimpleData>
+					<SimpleData name="Adresse">LA RONZE</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">BRGM</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8948768829191 </north>
+			<south> 45.89357634330471 </south>
+			<east> 4.60811074219686 </east>
+			<west> 4.60681783091105 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.60753700405682,45.89366484241779,0 4.60738644967877,45.8938630606536,0 4.60702751845433,45.8942672535384,0 4.60681783091105,45.8945035094375,0 4.60686481322907,45.8945443630727,0 4.60706296571007,45.89467790971829,0 4.60765761048025,45.8948768829191,0 4.60803027763509,45.8939176742432,0 4.60811074219686,45.89357634330471,0 4.60801417676329,45.8936000535108,0 4.60787327844059,45.8936295279443,0 4.60773015422545,45.8936534496394,0 4.60756855078796,45.8936673661422,0 4.60753700405682,45.89366484241779,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.16990">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69056000AL0009</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHESSY</SimpleData>
+					<SimpleData name="Adresse">LA RONZE</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">BRGM</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8950780469055 </north>
+			<south> 45.8939176742432 </south>
+			<east> 4.60877857897424 </east>
+			<west> 4.60765761048025 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.60765761048025,45.8948768829191,0 4.60794361144302,45.8949795466442,0 4.60854758533965,45.8950780469055,0 4.60857000480565,45.89507718755691,0 4.6087152082176,45.8946028054755,0 4.60874716171019,45.8944689602242,0 4.60874523772134,45.89430578448339,0 4.60875131039683,45.8941425850346,0 4.60875760275462,45.8940664781617,0 4.608771920626,45.8939913379149,0 4.60877857897424,45.8939675553087,0 4.60803027763509,45.8939176742432,0 4.60765761048025,45.8948768829191,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

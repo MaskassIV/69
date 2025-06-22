@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>SAINTE-COLOMBE_HLM</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_5">
+		<name>SAINTE-COLOMBE_HLM</name>
+		<Schema name="SAINTE-COLOMBE_HLM" id="SAINTE-COLOMBE_HLM.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="HLM">
+			<LineStyle>
+				<color>BFe451f5</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4Ce451f5</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.81">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69189000AB0197</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINTE-COLOMBE</SimpleData>
+					<SimpleData name="Adresse">RUE CHAZAL</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.5253277793512 </north>
+			<south> 45.525253585449 </south>
+			<east> 4.86857055114273 </east>
+			<west> 4.86846629707779 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.86857055114273,45.5253054806184,0 4.86852805475156,45.525253585449,0 4.86846629707779,45.52527280744629,0 4.86849710799354,45.5253277793512,0 4.86857055114273,45.5253054806184,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.1733">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69189000AB0200</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINTE-COLOMBE</SimpleData>
+					<SimpleData name="Adresse">RUE CHAZAL</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.5253843460724 </north>
+			<south> 45.5253054806184 </south>
+			<east> 4.86860729962268 </east>
+			<west> 4.86849710799354 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.86860729962268,45.5253579217633,0 4.86857055114273,45.5253054806184,0 4.86849710799354,45.5253277793512,0 4.86852951037102,45.5253843460724,0 4.86860729962268,45.5253579217633,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.1777">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69189000AB0203</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINTE-COLOMBE</SimpleData>
+					<SimpleData name="Adresse">20, RUE PAUL DOUMER</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.5255926420948 </north>
+			<south> 45.5255017845018 </south>
+			<east> 4.86871488107473 </east>
+			<west> 4.86854622149772 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.86854622149772,45.5255457476668,0 4.86858611503994,45.5255926420948,0 4.86871488107473,45.5255426714108,0 4.86869669880426,45.525508836559,0 4.8686928733539,45.5255017845018,0 4.868610031604,45.52552658155511,0 4.86854622149772,45.5255457476668,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2928">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69189000AB0034</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINTE-COLOMBE</SimpleData>
+					<SimpleData name="Adresse">LES MISSIONNAIRES</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.52633403030531 </north>
+			<south> 45.5258272016307 </south>
+			<east> 4.86383134700455 </east>
+			<west> 4.86238082687789 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.86379541140596,45.5258564396242,0 4.86379327612829,45.5258272016307,0 4.86298642016679,45.5258441906829,0 4.8628042170408,45.5258484737354,0 4.86241402909169,45.52585629552649,0 4.86246441365579,45.526128108135,0 4.86238514750203,45.5261450049786,0 4.86238316471574,45.52621574441351,0 4.86238082687789,45.52631026875701,0 4.86238188062778,45.52633403030531,0 4.86245880196707,45.526327440564,0 4.86272982103448,45.5263043913292,0 4.86279089154166,45.526298964957,0 4.86324271545782,45.52626048572811,0 4.86328117149365,45.5262570555364,0 4.86332218292333,45.5262534027939,0 4.86358222032135,45.5262315244672,0 4.86383049907117,45.5262105612395,0 4.86383134700455,45.5261671324229,0 4.86381367018171,45.5260070974457,0 4.86381090856529,45.5259821032333,0 4.86380247341116,45.5259102756135,0 4.86379541140596,45.5258564396242,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.3187">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69189000AB0379</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINTE-COLOMBE</SimpleData>
+					<SimpleData name="Adresse">LES MISSIONNAIRES</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.5261450049786 </north>
+			<south> 45.52585629552649 </south>
+			<east> 4.86246441365579 </east>
+			<west> 4.86238514750203 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.86241402909169,45.52585629552649,0 4.86238918325473,45.52585670751331,0 4.86238514750203,45.5261450049786,0 4.86246441365579,45.526128108135,0 4.86241402909169,45.52585629552649,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.3202">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69189000AB0381</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINTE-COLOMBE</SimpleData>
+					<SimpleData name="Adresse">LES MISSIONNAIRES</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.5258564396242 </north>
+			<south> 45.52579838416289 </south>
+			<east> 4.86392231598787 </east>
+			<west> 4.8629813959596 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.86345028991895,45.5258096540687,0 4.8629813959596,45.5258204949952,0 4.86298642016679,45.5258441906829,0 4.86379327612829,45.5258272016307,0 4.86379541140596,45.5258564396242,0 4.86383647692997,45.5258544070885,0 4.86389468585757,45.5258515496113,0 4.86392231598787,45.5258501002923,0 4.86388521158438,45.52579838416289,0 4.8638461628444,45.5258070485835,0 4.86350748111141,45.52581464994751,0 4.86345511208745,45.5258158791087,0 4.86345028991895,45.5258096540687,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.3791">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69189000AB0487</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINTE-COLOMBE</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.52627048472889 </north>
+			<south> 45.5261876161401 </south>
+			<east> 4.86807957799589 </east>
+			<west> 4.8680477752298 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.86807957799589,45.52627048472889,0 4.86806346140096,45.5261876161401,0 4.8680477752298,45.5261898586206,0 4.86807957799589,45.52627048472889,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.4063">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69189000AB0530</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINTE-COLOMBE</SimpleData>
+					<SimpleData name="Adresse">RUE COCHARD</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.5256365320737 </north>
+			<south> 45.5256189605137 </south>
+			<east> 4.86812062029509 </east>
+			<west> 4.86805818008687 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.86812062029509,45.5256206517563,0 4.86811941008055,45.5256189605137,0 4.86805818008687,45.5256348408305,0 4.8680593902999,45.5256365320737,0 4.86809114733051,45.5256282576717,0 4.86812062029509,45.5256206517563,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.4277">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69189000AB0579</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINTE-COLOMBE</SimpleData>
+					<SimpleData name="Adresse">36, RUE DU SALIN</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.5263048715884 </north>
+			<south> 45.5259816948701 </south>
+			<east> 4.86807957799589 </east>
+			<west> 4.86761246123924 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.86807957799589,45.52627048472889,0 4.8680477752298,45.5261898586206,0 4.86801475100938,45.5261033981275,0 4.86799882355306,45.5260642114035,0 4.86798446055438,45.5260676928801,0 4.8679616839341,45.5260306016508,0 4.86783654270534,45.52604745466871,0 4.86780447194317,45.5259816948701,0 4.86773521619247,45.5259951864486,0 4.86761246123924,45.52601821451601,0 4.86772294982576,45.52625894165819,0 4.86773357677591,45.5262586748699,0 4.86774148671225,45.5262728648132,0 4.86775285482798,45.52627177504849,0 4.86775653093025,45.5262781991155,0 4.86776285715817,45.52628340817409,0 4.86777143111589,45.5262868684822,0 4.86778607981651,45.52628806603689,0 4.86779467336305,45.5262997225872,0 4.86781594626869,45.5262959460813,0 4.86782085987066,45.5263048715884,0 4.86789142923487,45.5262961319432,0 4.86786206131187,45.5262383436313,0 4.86788618894045,45.526231817471,0 4.86792405509782,45.5262908155279,0 4.86807957799589,45.52627048472889,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.4287">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69189000AB0580</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINTE-COLOMBE</SimpleData>
+					<SimpleData name="Adresse">29, RUE GARON</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.52601821451601 </north>
+			<south> 45.52587698798191 </south>
+			<east> 4.86780447194317 </east>
+			<west> 4.86756827741821 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.86761246123924,45.52601821451601,0 4.86773521619247,45.5259951864486,0 4.86780447194317,45.5259816948701,0 4.86775289409277,45.52587698798191,0 4.86763105023263,45.5259042343156,0 4.86763482627754,45.5259136291059,0 4.86760736587497,45.5259201205593,0 4.86759655005324,45.5259338112328,0 4.86757346857563,45.5259257282432,0 4.86756827741821,45.5259313990359,0 4.86759161806972,45.5259395677892,0 4.86758624045221,45.5259473133435,0 4.86759277099264,45.52596620998541,0 4.86758840968068,45.5259698853923,0 4.86761246123924,45.52601821451601,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.4291">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69189000AB0581</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINTE-COLOMBE</SimpleData>
+					<SimpleData name="Adresse">RUE GARON</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.5260794990574 </north>
+			<south> 45.52594724588221 </south>
+			<east> 4.86747726120348 </east>
+			<west> 4.86729070565175 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.86747726120348,45.5260446018976,0 4.86743861744368,45.52594724588221,0 4.86732289646881,45.5259736694967,0 4.86730818086844,45.5259857136056,0 4.86729070565175,45.5260794990574,0 4.86741460745959,45.5260562721335,0 4.86747726120348,45.5260446018976,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

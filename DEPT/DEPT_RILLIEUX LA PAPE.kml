@@ -1,0 +1,589 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>RILLIEUX LA PAPE_DEPT</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_3">
+		<name>RILLIEUX LA PAPE_DEPT</name>
+		<Schema name="RILLIEUX LA PAPE_DEPT" id="RILLIEUX LA PAPE_DEPT.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="DEPT">
+			<LineStyle>
+				<color>BF63f16c</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C63f16c</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.293">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69286000BP0088</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">RILLIEUX LA PAPE</SimpleData>
+					<SimpleData name="Adresse">TERRES BOURDIN NORD</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8260366461198 </north>
+			<south> 45.8248151258575 </south>
+			<east> 4.88519188461232 </east>
+			<west> 4.88453071639735 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.8850585621707,45.8248151258575,0 4.88502512578528,45.8249678203121,0 4.88499552538505,45.8250970312806,0 4.88496150016884,45.8252513568872,0 4.88491456712257,45.8254012140522,0 4.88487582315864,45.82552301132651,0 4.88486100125581,45.8255718991032,0 4.88484425978295,45.8256173960767,0 4.88482790967542,45.8256517172437,0 4.88482337317693,45.8256622416364,0 4.88481419257786,45.8256801396003,0 4.88480316041033,45.8257004104118,0 4.88479391866389,45.8257202910394,0 4.88478348999972,45.8257355976636,0 4.88477342610943,45.825750267675,0 4.88476065812283,45.8257649828185,0 4.88474824568729,45.8257787912784,0 4.8847374180592,45.8257899611176,0 4.88466182742122,45.8258740915116,0 4.88463340039348,45.8259056417395,0 4.88453727329192,45.8260147051943,0 4.88453071639735,45.82602643426329,0 4.88456649613968,45.8260366461198,0 4.88458216440152,45.8260200811024,0 4.8847136690892,45.82588304442829,0 4.88474034251466,45.82585296464381,0 4.88479361619594,45.82579821076191,0 4.8848262226235,45.82574191024571,0 4.88484946121614,45.8257017993907,0 4.88486667922386,45.8256702560518,0 4.88493157669231,45.8255333400388,0 4.88498938089465,45.8254113146525,0 4.88511335024365,45.82514802835121,0 4.88513827350012,45.82509690018361,0 4.88514867967602,45.8250733970942,0 4.88515675000648,45.825053175691,0 4.88515832825555,45.8250465738846,0 4.88516261018528,45.8250361438014,0 4.88516838351883,45.8250090249864,0 4.88517509546938,45.8249867545392,0 4.88519188461232,45.8249011734388,0 4.88507954910316,45.8248298179969,0 4.8850585621707,45.8248151258575,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.451">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69286000CD0103</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">RILLIEUX LA PAPE</SimpleData>
+					<SimpleData name="Adresse">LES BOIS</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8177262683968 </north>
+			<south> 45.81749419254021 </south>
+			<east> 4.87199907824113 </east>
+			<west> 4.87163951970798 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.87199907824113,45.81771437355881,0 4.87192265055626,45.8176752873719,0 4.87176903490078,45.817578482054,0 4.87165371716071,45.81749419254021,0 4.87163951970798,45.8175047864441,0 4.87171604440137,45.81756954240731,0 4.87189120806673,45.8176787811164,0 4.87198247732604,45.8177262683968,0 4.87199907824113,45.81771437355881,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.782">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69286000BY0116</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">RILLIEUX LA PAPE</SimpleData>
+					<SimpleData name="Adresse">LES ALAGNIERS</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8130046031621 </north>
+			<south> 45.81151855445651 </south>
+			<east> 4.8874259877288 </east>
+			<west> 4.88593268000319 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.8874259877288,45.8130046031621,0 4.88672539222612,45.81224707497481,0 4.88633683300993,45.81186039158471,0 4.88593268000319,45.81151855445651,0 4.88602518260787,45.8116133891258,0 4.8874259877288,45.8130046031621,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1579">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69286000BI0158</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">RILLIEUX LA PAPE</SimpleData>
+					<SimpleData name="Adresse">AU MAS</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8270462810909 </north>
+			<south> 45.8267798320861 </south>
+			<east> 4.90583760231713 </east>
+			<west> 4.90556087486543 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.90556087486543,45.8267881951969,0 4.90578920584095,45.8270462810909,0 4.90583760231713,45.8270411407012,0 4.90570082427865,45.8268710448022,0 4.9056241056304,45.8267798320861,0 4.90556087486543,45.8267881951969,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2066">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69286000CD0019</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">RILLIEUX LA PAPE</SimpleData>
+					<SimpleData name="Adresse">LES BOIS</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.81763728286321 </north>
+			<south> 45.8155709384063 </south>
+			<east> 4.87355445655246 </east>
+			<west> 4.87169837304516 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.87319535373095,45.8155709384063,0 4.87272249132424,45.81629676588,0 4.87268146906091,45.81635959764229,0 4.87259138010795,45.8164190097015,0 4.87243305744611,45.8164226262828,0 4.87238899104167,45.8164147099369,0 4.8722934740137,45.8163976485305,0 4.87218559580678,45.81650608550319,0 4.87240744745909,45.8166702151611,0 4.87238612943355,45.81682027235171,0 4.87224144441637,45.81699813659371,0 4.87205149458149,45.8171783725009,0 4.87169837304516,45.8174586835596,0 4.87196026550296,45.81763728286321,0 4.87290857519382,45.81647734092691,0 4.87291251995094,45.8164303467191,0 4.87302880039765,45.8162316952192,0 4.87321601422899,45.8159330550953,0 4.87322460779002,45.8159205723211,0 4.87323651202596,45.81590695372411,0 4.87324495500858,45.8158976260513,0 4.87325358782805,45.81589009671659,0 4.87326570938372,45.815879086669,0 4.87327802993952,45.81587014502989,0 4.87328885444605,45.8158626694026,0 4.87330349237864,45.8158536893109,0 4.87331330831438,45.8158468609364,0 4.8733217844416,45.8158423066521,0 4.87333204464725,45.8158371823185,0 4.87334422378393,45.8158316658466,0 4.8733573316174,45.81582694463371,0 4.87336996418952,45.8158234022727,0 4.87338054908428,45.8158202541845,0 4.87339497489697,45.81581641184249,0 4.87340837075992,45.8158125865886,0 4.87342075500377,45.8158093185656,0 4.87343302272307,45.8158064127724,0 4.87344762615377,45.81580400866709,0 4.87345954430176,45.8158021895647,0 4.87355445655246,45.815683788065,0 4.87348043875458,45.815654931458,0 4.87347835747894,45.815654335473,0 4.87319535373095,45.8155709384063,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2296">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69286000BR0204</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">RILLIEUX LA PAPE</SimpleData>
+					<SimpleData name="Adresse">LE CHENE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.82154005043431 </north>
+			<south> 45.82145260319301 </south>
+			<east> 4.88488151308838 </east>
+			<west> 4.88463306220424 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.88463306220424,45.82146595268819,0 4.88471804985675,45.8214911962747,0 4.88481038319539,45.8215202804716,0 4.88487792091572,45.82154005043431,0 4.88488151308838,45.8215320638919,0 4.88463956320926,45.82145260319301,0 4.88463306220424,45.82146595268819,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2397">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">692860000A2121</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">RILLIEUX LA PAPE</SimpleData>
+					<SimpleData name="Adresse">EN PALUD</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8289077378807 </north>
+			<south> 45.8287526418012 </south>
+			<east> 4.90751522233883 </east>
+			<west> 4.9073555804184 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.90740202839267,45.8287526418012,0 4.90739009991842,45.8287616706643,0 4.9073555804184,45.8287881053368,0 4.90746150465084,45.8289077378807,0 4.90751522233883,45.82886638668229,0 4.90751455358477,45.82886567737521,0 4.90746276348477,45.8288136779026,0 4.90740202839267,45.8287526418012,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2461">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">692860000A2175</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">RILLIEUX LA PAPE</SimpleData>
+					<SimpleData name="Adresse">EN PALUD</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8287616706643 </north>
+			<south> 45.8286350262924 </south>
+			<east> 4.90740202839267 </east>
+			<west> 4.90727800683731 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.90727800683731,45.8286350262924,0 4.90739009991842,45.8287616706643,0 4.90740202839267,45.8287526418012,0 4.90727800683731,45.8286350262924,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2590">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69286000BV0228</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">RILLIEUX LA PAPE</SimpleData>
+					<SimpleData name="Adresse">21, RUE PASTEUR</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.82275674800991 </north>
+			<south> 45.8227306205263 </south>
+			<east> 4.90170930168374 </east>
+			<west> 4.90166826812956 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.90170537043516,45.82275674800991,0 4.90170930168374,45.822736234726,0 4.90166826812956,45.8227306205263,0 4.90170537043516,45.82275674800991,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2697">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69286000BH0237</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">RILLIEUX LA PAPE</SimpleData>
+					<SimpleData name="Adresse">692, RUE AMPERE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8227398686292 </north>
+			<south> 45.8226667914817 </south>
+			<east> 4.90210855225509 </east>
+			<west> 4.90202734158907 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.902061640995,45.8226870640865,0 4.90205939316165,45.8226853905214,0 4.9020571422263,45.8226836269333,0 4.90205489749538,45.822682043391,0 4.90205252400621,45.8226804620177,0 4.90205014741505,45.8226787906213,0 4.90204764516781,45.8226772114167,0 4.90204527167906,45.8226756300432,0 4.9020427694321,45.82267405083851,0 4.90204027338952,45.8226726516797,0 4.90203777424495,45.8226711624979,0 4.90203514634217,45.8226696754849,0 4.90203264719788,45.8226681863029,0 4.90202989363915,45.8226667914817,0 4.90202734158907,45.8226936768882,0 4.90206679731101,45.8227320148447,0 4.90210855225509,45.8227398686292,0 4.9021071902165,45.8227377297675,0 4.90210595693652,45.8227355887367,0 4.90210472365663,45.822733447706,0 4.90210349037684,45.82273130667521,0 4.90210212833866,45.8227291678133,0 4.90210050878365,45.8227270332894,0 4.90209915295013,45.8227250744735,0 4.90209766525603,45.8227230278035,0 4.90209617445982,45.82272089111059,0 4.9020945611097,45.8227189366325,0 4.90209281589903,45.8227168943003,0 4.90209119944694,45.8227148497992,0 4.90208958609717,45.8227128953211,0 4.90208784088688,45.82271085298891,0 4.90208609877892,45.8227089006796,0 4.90208410535861,45.8227071327542,0 4.90208236325089,45.8227051804448,0 4.90208049548707,45.8227033203274,0 4.90207849586277,45.8227013723559,0 4.9020766280992,45.8226995122384,0 4.90207463157736,45.8226976542898,0 4.90207250939942,45.822695888533,0 4.90207038411945,45.8226940327533,0 4.90206826504395,45.8226923570194,0 4.90206614286642,45.82269059126251,0 4.90206402068902,45.8226888255056,0 4.902061640995,45.8226870640865,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2785">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69286000BI0246</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">RILLIEUX LA PAPE</SimpleData>
+					<SimpleData name="Adresse">LES GAGERES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8232817225269 </north>
+			<south> 45.82275674800991 </south>
+			<east> 4.90228195522824 </east>
+			<west> 4.90168308908008 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.90168308908008,45.8228803461637,0 4.9017970492229,45.82295345952141,0 4.90179793502729,45.8229529942262,0 4.90180285427108,45.82294993889199,0 4.9018077828196,45.8229471536264,0 4.90181310384811,45.8229445419008,0 4.90181856294043,45.8229421980752,0 4.9018242857538,45.82294002995799,0 4.90183014352928,45.8229380397178,0 4.90183614247051,45.8229364074007,0 4.90184227637398,45.8229349529605,0 4.90184841958258,45.822933768589,0 4.90185482961434,45.8229328499486,0 4.9018612489514,45.8229322013769,0 4.90186767759387,45.8229318228738,0 4.90187411243998,45.8229316244162,0 4.90188055969353,45.8229317860503,0 4.90188701315089,45.8229321277299,0 4.90189335025694,45.8229328316698,0 4.90189969356696,45.8229337156553,0 4.90190591742397,45.8229348718781,0 4.90191202492996,45.8229363903612,0 4.90191800677925,45.8229380010357,0 4.90192386917575,45.8229398839476,0 4.90192948336054,45.82294204126569,0 4.90193497499071,45.82294438079821,0 4.90194035027024,45.8229470825911,0 4.9019453392733,45.8229497908901,0 4.9019502119258,45.8229528614495,0 4.90195470140379,45.8229560285381,0 4.90195906832728,45.8229593778413,0 4.90196292952122,45.8229630058884,0 4.90201745785288,45.8230200057821,0 4.90215792118212,45.8231668042763,0 4.90228195522824,45.8232817225269,0 4.90198730077107,45.8229449406354,0 4.90170537043516,45.82275674800991,0 4.90169746601445,45.8228002973893,0 4.90168308908008,45.8228803461637,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3046">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69286000CD0027</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">RILLIEUX LA PAPE</SimpleData>
+					<SimpleData name="Adresse">LES BOIS</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.816811304895 </north>
+			<south> 45.8166498354391 </south>
+			<east> 4.87319394687691 </east>
+			<west> 4.87296122059633 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.87306591735456,45.8166498354391,0 4.87296122059633,45.8167950608285,0 4.87310801080031,45.8168046055652,0 4.87312768967733,45.816811304895,0 4.87319394687691,45.8167139160943,0 4.87317400748072,45.81670713102431,0 4.87306591735456,45.8166498354391,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3170">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69286000CD0028</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">RILLIEUX LA PAPE</SimpleData>
+					<SimpleData name="Adresse">LES BOIS</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8176778699104 </north>
+			<south> 45.81647734092691 </south>
+			<east> 4.87306591735456 </east>
+			<west> 4.87196026550296 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.87196026550296,45.81763728286321,0 4.87204395799507,45.8176778699104,0 4.87222833574997,45.8175270006184,0 4.87239105284755,45.8173262287038,0 4.87252712826446,45.81709581353471,0 4.87262115724489,45.8168942888528,0 4.87276666624121,45.8167825250518,0 4.87289589808508,45.81679092011209,0 4.87295192646558,45.8167944944107,0 4.87296122059633,45.8167950608285,0 4.87306591735456,45.8166498354391,0 4.87298538016053,45.8166073052581,0 4.87290415468901,45.8165292971193,0 4.87290857519382,45.81647734092691,0 4.87196026550296,45.81763728286321,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.4700">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69286000AO0471</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">RILLIEUX LA PAPE</SimpleData>
+					<SimpleData name="Adresse">22, AV GEN LECLERC</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8148528516242 </north>
+			<south> 45.81461749516979 </south>
+			<east> 4.90502921948329 </east>
+			<west> 4.90477512022308 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.90502921948329,45.8148266976325,0 4.90500467929168,45.8147202824188,0 4.90500225288955,45.81470969447651,0 4.90500224357005,45.81470942440791,0 4.90497502842281,45.8147121354955,0 4.9049618240664,45.81464678348511,0 4.90483985668582,45.81461749516979,0 4.90481511032745,45.8146768219179,0 4.90482067991979,45.81470384060921,0 4.90481438720758,45.814704397154,0 4.90477512022308,45.8147087527312,0 4.90480843148226,45.8148528516242,0 4.90496622562551,45.81483406581071,0 4.90502921948329,45.8148266976325,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.4824">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69286000AI0495</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">RILLIEUX LA PAPE</SimpleData>
+					<SimpleData name="Adresse">5, CHE DE LA CHAPELLE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8031896682775 </north>
+			<south> 45.802825347868 </south>
+			<east> 4.88086651107821 </east>
+			<west> 4.88046038867158 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.88046038867158,45.8028826910284,0 4.88081702203464,45.8031896682775,0 4.88086651107821,45.8031226388374,0 4.88050698810219,45.802825347868,0 4.88046038867158,45.8028826910284,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.5515">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69286000CC0063</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">RILLIEUX LA PAPE</SimpleData>
+					<SimpleData name="Adresse">GENEVREY</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.82115726803941 </north>
+			<south> 45.8206614653255 </south>
+			<east> 4.8775825479816 </east>
+			<west> 4.87698758384482 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.8775825479816,45.82115726803941,0 4.87755036154739,45.82109349000979,0 4.87717693160775,45.8208712697805,0 4.87723205987631,45.82081036361811,0 4.87722089697427,45.8206980460966,0 4.87716734899696,45.8206614653255,0 4.87716710067205,45.8206617396775,0 4.87712218785104,45.820704821373,0 4.8770094119003,45.82081316426089,0 4.87698758384482,45.8208342442598,0 4.87705844628248,45.8208723387768,0 4.87704550269364,45.82088570483119,0 4.87755947941093,45.8211532379768,0 4.8775825479816,45.82115726803941,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6636">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69286000BH0093</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">RILLIEUX LA PAPE</SimpleData>
+					<SimpleData name="Adresse">LES SEMAILLES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8234298797415 </north>
+			<south> 45.82320759195011 </south>
+			<east> 4.90753683622229 </east>
+			<west> 4.90729165541041 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.90751987037634,45.82320759195011,0 4.90732830507919,45.82321911483351,0 4.90733324608497,45.8232539806199,0 4.90734473247476,45.8233440421277,0 4.90734599153563,45.8233543795289,0 4.90734513634055,45.82336691445191,0 4.90734182537669,45.8233792206301,0 4.90733617806989,45.8233910258198,0 4.90732806254817,45.8234022421727,0 4.90731785575759,45.8234125930953,0 4.907305805885,45.8234218041684,0 4.90729165541041,45.8234298797415,0 4.9074201351654,45.8234009571411,0 4.90752202684768,45.8233743751298,0 4.90752882120871,45.8233696665082,0 4.90753119729273,45.8233638615444,0 4.90753294633723,45.8233548244594,0 4.90753550025444,45.8233429814406,0 4.90753683622229,45.8233294475645,0 4.90753658733284,45.8233222457383,0 4.90751987037634,45.82320759195011,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

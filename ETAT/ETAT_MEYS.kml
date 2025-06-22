@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>MEYS_ETAT</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_1">
+		<name>MEYS_ETAT</name>
+		<Schema name="MEYS_ETAT" id="MEYS_ETAT.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="ETAT">
+			<LineStyle>
+				<color>BF119ff7</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C119ff7</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.2946">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">691320000C0427</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">MEYS</SimpleData>
+					<SimpleData name="Adresse">LES GENETS</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">MINISTERE ECOLOGIE DEVELOPPEMENT TRANSPORTS LOGEMENT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.673297556643 </north>
+			<south> 45.67245671787 </south>
+			<east> 4.40152098605551 </east>
+			<west> 4.40073810627005 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.40150424479347,45.673297556643,0 4.40150578897269,45.6732925839882,0 4.40150814779769,45.6732842688826,0 4.40152098605551,45.6732382672962,0 4.40130360341059,45.6730651702442,0 4.40121075998386,45.6729905828341,0 4.40110605378063,45.67289903105671,0 4.40109013579405,45.6728842787108,0 4.40101842935155,45.6728174437543,0 4.40098392320918,45.6727788759398,0 4.40094532422851,45.672735945965,0 4.4009055110413,45.67268564595609,0 4.40089556769042,45.6726683875779,0 4.40087688469682,45.67263574715911,0 4.40083783493429,45.6725597698191,0 4.40080267700247,45.67247005456,0 4.40073810627005,45.67245671787,0 4.40073866554261,45.672458512164,0 4.4007520561965,45.6725003147407,0 4.40078634719132,45.6725760811102,0 4.40082507168453,45.6726493606382,0 4.40084203725665,45.6726801311148,0 4.4008526796913,45.6726996323646,0 4.40086519530125,45.67272208237631,0 4.40088892341714,45.67275610104219,0 4.40092283373735,45.6727914340461,0 4.40097824510791,45.6728489251414,0 4.40103956423754,45.6729063427179,0 4.40104901836898,45.6729144207949,0 4.40118818919118,45.6730327427185,0 4.40125316475994,45.6730874128179,0 4.40128204105887,45.6731116406013,0 4.4014237905489,45.6732302904137,0 4.40150424479347,45.673297556643,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

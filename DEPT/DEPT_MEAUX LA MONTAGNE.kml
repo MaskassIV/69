@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>MEAUX LA MONTAGNE_DEPT</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_3">
+		<name>MEAUX LA MONTAGNE_DEPT</name>
+		<Schema name="MEAUX LA MONTAGNE_DEPT" id="MEAUX LA MONTAGNE_DEPT.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="DEPT">
+			<LineStyle>
+				<color>BF63f16c</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C63f16c</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.337">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69130000ZE0001</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">MEAUX LA MONTAGNE</SimpleData>
+					<SimpleData name="Adresse">LE PENIN</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0464959093042 </north>
+			<south> 46.04578483959491 </south>
+			<east> 4.39531100844352 </east>
+			<west> 4.39512274410954 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.39514954673589,46.04578483959491,0 4.39512274410954,46.0457887719122,0 4.39514381997623,46.0458649762231,0 4.3951521402042,46.0459634930243,0 4.39516666223464,46.046061753388,0 4.39516933233114,46.0460752300098,0 4.39517441382473,46.0461888272112,0 4.39518608503708,46.0463021632015,0 4.39518755032858,46.04631403351059,0 4.39524299651842,46.0464959093042,0 4.39526366392401,46.0464948444175,0 4.39528292408112,46.0464892936852,0 4.39529859488444,46.0464799144024,0 4.39530024150623,46.0464785431919,0 4.39531100844352,46.0464594073664,0 4.39530749377952,46.046417751366,0 4.39529084714225,46.0463631978028,0 4.39521237696162,46.0461710679521,0 4.39519601920571,46.0461075045043,0 4.3951702991335,46.0458533925115,0 4.39514954673589,46.04578483959491,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2214">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69130000ZE0002</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">MEAUX LA MONTAGNE</SimpleData>
+					<SimpleData name="Adresse">LE PENIN</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0468372522364 </north>
+			<south> 46.0452806490511 </south>
+			<east> 4.39576572134996 </east>
+			<west> 4.395007508417 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.3955274234603,46.04564527472441,0 4.39530462527729,46.0456116311549,0 4.39512252157089,46.04533656744319,0 4.39507040238417,46.0452806490511,0 4.39503126976866,46.0453134632093,0 4.39502541897536,46.0453224514492,0 4.39501328335622,46.0453488091432,0 4.395007508417,46.0453760792732,0 4.39500833676989,46.04540362841299,0 4.39504944297766,46.0455097574603,0 4.39509714124469,46.0456157153219,0 4.39512757478176,46.04565803080621,0 4.39516802059318,46.0457228289425,0 4.39520204271937,46.0457893272461,0 4.39524189155273,46.04611090282221,0 4.39526132606346,46.0461784812463,0 4.39528822664742,46.0462497504463,0 4.39529649644235,46.0462698228327,0 4.39532889301115,46.046338502623,0 4.39536758877937,46.0464056638743,0 4.39543192027209,46.0464738605689,0 4.39555950791574,46.0465831580716,0 4.3956028400214,46.0466342309374,0 4.39572569401222,46.0468372522364,0 4.39576572134996,46.04682946440019,0 4.39548294409357,46.0463540790264,0 4.39540061409795,46.0459028850321,0 4.39534713484172,46.0458443716639,0 4.39546003030137,46.04572139699211,0 4.3955274234603,46.04564527472441,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2651">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69130000AC0232</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">MEAUX LA MONTAGNE</SimpleData>
+					<SimpleData name="Adresse">LE RANSON</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.05289228459849 </north>
+			<south> 46.0527863115844 </south>
+			<east> 4.39770517333309 </east>
+			<west> 4.3975383187272 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.3975383187272,46.0528173683777,0 4.39759080124091,46.05289228459849,0 4.39762530993881,46.0528809616445,0 4.39765622182404,46.0528655401033,0 4.39767923633923,46.052849855638,0 4.3976953867869,46.0528185847725,0 4.39770517333309,46.0527863115844,0 4.3975383187272,46.0528173683777,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3661">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69130000AC0328</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">MEAUX LA MONTAGNE</SimpleData>
+					<SimpleData name="Adresse">BOUTOUGE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0476213201406 </north>
+			<south> 46.0465354225236 </south>
+			<east> 4.39582340223506 </east>
+			<west> 4.39527426491996 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.3953396847665,46.0465394808956,0 4.39529548381462,46.04653570179261,0 4.39527426491996,46.0465354225236,0 4.39537587376013,46.0467881502974,0 4.39544034474539,46.0468720162684,0 4.39549905452145,46.0469582046898,0 4.39555172618282,46.0470459984728,0 4.39557465682094,46.0470882260665,0 4.39565955808854,46.04727883552349,0 4.39573815385751,46.0474706933611,0 4.39577111301057,46.0475563880544,0 4.39577912327886,46.04758150714229,0 4.39578067986318,46.0476071559885,0 4.39577871129821,46.0476213201406,0 4.39582340223506,46.0476087015351,0 4.39578376169373,46.04751966670089,0 4.39582133842651,46.0474357155634,0 4.3957621847325,46.0472760412041,0 4.39574398774173,46.0472317739874,0 4.39556537542298,46.046962071722,0 4.39550005302124,46.0468395791932,0 4.39540713425045,46.0466133132157,0 4.3953396847665,46.0465394808956,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3671">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69130000AC0329</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">MEAUX LA MONTAGNE</SimpleData>
+					<SimpleData name="Adresse">BOUTOUGE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0482181010905 </north>
+			<south> 46.0465394808956 </south>
+			<east> 4.39592928346886 </east>
+			<west> 4.3953396847665 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.39577871129821,46.0476213201406,0 4.39577254097152,46.0477501864466,0 4.39582892984384,46.04789773630989,0 4.39584745713472,46.04800594430989,0 4.39585838188814,46.0480745280328,0 4.39590859116833,46.0482181010905,0 4.39592196599459,46.0481590351141,0 4.39592885961095,46.0480994184828,0 4.39592928346886,46.0480397013731,0 4.39592404641917,46.04798626831391,0 4.39588983042684,46.0477746808001,0 4.39587153572976,46.04769601066751,0 4.39584679425101,46.0476181403996,0 4.39584374386128,46.047610072264,0 4.39582234551961,46.04747028742891,0 4.39587747721326,46.0473951264855,0 4.39587793355504,46.0473621577416,0 4.39585147272506,46.0472726004277,0 4.39580774562146,46.0471652430207,0 4.39575809826656,46.0470590392329,0 4.3957101532544,46.0469689357808,0 4.3956967826363,46.04689569886689,0 4.39568052860115,46.0468566313903,0 4.39557230359547,46.0466643276356,0 4.3955418325924,46.04662057171129,0 4.39551934193476,46.04660076443,0 4.39549214489455,46.0465840772158,0 4.39547147324987,46.0465747849303,0 4.39542565475821,46.0465582368134,0 4.39537722611266,46.04654586370611,0 4.3953396847665,46.0465394808956,0 4.39540713425045,46.0466133132157,0 4.39550005302124,46.0468395791932,0 4.39556537542298,46.046962071722,0 4.39574398774173,46.0472317739874,0 4.3957621847325,46.0472760412041,0 4.39582133842651,46.0474357155634,0 4.39578376169373,46.04751966670089,0 4.39582340223506,46.0476087015351,0 4.39577871129821,46.0476213201406,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3731">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69130000AC0335</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">MEAUX LA MONTAGNE</SimpleData>
+					<SimpleData name="Adresse">BOUTOUGE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0501283753426 </north>
+			<south> 46.0469553429467 </south>
+			<east> 4.39627204867319 </east>
+			<west> 4.39576256812546 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.39616185589557,46.0501283753426,0 4.39619556798004,46.05011120850619,0 4.39621594436195,46.0498745417541,0 4.39621710046218,46.049858946588,0 4.39622893598069,46.0497596412889,0 4.3962471189441,46.0496607081456,0 4.39627204867319,46.0495625925535,0 4.39621213230558,46.0493170075071,0 4.39613087803636,46.04895442288881,0 4.3961274962309,46.0489231225383,0 4.39611744747531,46.04871078720571,0 4.39613991037488,46.0481997622919,0 4.39613312258069,46.0480496204688,0 4.39612438872187,46.0479348974396,0 4.39610422443485,46.0478335544362,0 4.39602864886983,46.0475518666494,0 4.39585544256485,46.0470978289764,0 4.3958238928508,46.04702688732011,0 4.39585265283573,46.047018517652,0 4.39576814109532,46.0469553429467,0 4.39576256812546,46.04697018191051,0 4.39576502552628,46.0469854624022,0 4.39581947854037,46.0470975511986,0 4.39586763029389,46.047211068491,0 4.39586874014308,46.04721402691331,0 4.3959122918236,46.0473399394746,0 4.39591596702933,46.0473878979081,0 4.3958545454423,46.047500602587,0 4.39592891444055,46.0477653734534,0 4.39594720467055,46.0478438635065,0 4.39595904579845,46.0479230633956,0 4.39596324159143,46.0479762390832,0 4.39596843268603,46.04803804858321,0 4.39596702702428,46.048099849234,0 4.39596527924033,46.0481176131989,0 4.39593574104127,46.0482787396301,0 4.39593607381132,46.0482867511568,0 4.39594774861393,46.0485122157057,0 4.39591917468204,46.04880302123931,0 4.39601724624058,46.0492116013609,0 4.39597337117902,46.0493073382997,0 4.39598937412778,46.04935685616299,0 4.39596741293265,46.04947510929581,0 4.39595862486156,46.0498116034648,0 4.39595696746213,46.0498278352411,0 4.39616185589557,46.0501283753426,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3802">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69130000AC0344</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">MEAUX LA MONTAGNE</SimpleData>
+					<SimpleData name="Adresse">LE RANSON</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0529183335128 </north>
+			<south> 46.0498278352411 </south>
+			<east> 4.39754449741282 </east>
+			<west> 4.39588134371198 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.39745436040675,46.0529036028381,0 4.39745963484851,46.0529024570813,0 4.39747219785549,46.0529183335128,0 4.39754449741282,46.05290267214771,0 4.39718755636039,46.0523866853954,0 4.39714183690843,46.0523182602878,0 4.39727430091566,46.0522726773297,0 4.39729558842511,46.0522653900975,0 4.39729045484489,46.0522466301446,0 4.39712789555958,46.0520140184485,0 4.39706290774045,46.0519508742479,0 4.39723987750478,46.0518445807811,0 4.39701849544346,46.05175571407571,0 4.39699831833061,46.0517354282406,0 4.39686019845423,46.0515940193098,0 4.39671912890281,46.0516521365167,0 4.39666526722679,46.0515992123233,0 4.39654187494315,46.0514723019233,0 4.39642372095006,46.0513428051194,0 4.3963950509293,46.0512580484637,0 4.3963902653748,46.05125297379271,0 4.3963358083649,46.0511918610322,0 4.39628711328615,46.0511284257188,0 4.39624418927179,46.051063028,0 4.39620742881032,46.0509958431758,0 4.39617670943244,46.05092714294971,0 4.39615378886688,46.0508548342313,0 4.39613440569734,46.0507741060804,0 4.39612160137164,46.0506926664859,0 4.39611538500715,46.05061087559011,0 4.39611181400029,46.05049572874749,0 4.3961150940949,46.0503804074907,0 4.39611942880221,46.0503320802562,0 4.39613036636767,46.0502788983775,0 4.39614779677873,46.0502267173137,0 4.39613539168072,46.0501559002607,0 4.39613677212832,46.0501389513859,0 4.39616185589557,46.0501283753426,0 4.39595696746213,46.0498278352411,0 4.39595212487061,46.0499937011709,0 4.3959020312412,46.0503234086979,0 4.3958862048695,46.0504591486031,0 4.39588134371198,46.05054278707161,0 4.39588295030132,46.0506264359855,0 4.39588622991269,46.0506689954961,0 4.39590588545995,46.0507757485897,0 4.39599218436522,46.05108225196251,0 4.39608023098286,46.0512283312411,0 4.39615150252125,46.05129959436561,0 4.39616834245698,46.0513107349897,0 4.3962271107803,46.0513429745275,0 4.39628195513622,46.0513785946903,0 4.39633183646256,46.05141742815199,0 4.3963356733949,46.0514208033061,0 4.39639475506579,46.0514755546971,0 4.39644859911704,46.05153289232759,0 4.39648718695281,46.0515803307386,0 4.39650989131074,46.051623731777,0 4.39652629372814,46.05166856136961,0 4.39653218562899,46.0516917251107,0 4.39653337712509,46.0517488104969,0 4.39658722617556,46.0517299545484,0 4.39678653240108,46.0519529279108,0 4.396695964739,46.0520997656872,0 4.39671616582838,46.05212608551441,0 4.39692510745929,46.05233110746391,0 4.3970431491723,46.0524611455441,0 4.39715306034476,46.0524239462634,0 4.39721400111827,46.0525059634923,0 4.397396548729,46.05276660861851,0 4.39745758523499,46.0528574507387,0 4.39745436040675,46.0529036028381,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

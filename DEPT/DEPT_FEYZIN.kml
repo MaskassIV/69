@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>FEYZIN_DEPT</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_3">
+		<name>FEYZIN_DEPT</name>
+		<Schema name="FEYZIN_DEPT" id="FEYZIN_DEPT.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="DEPT">
+			<LineStyle>
+				<color>BF63f16c</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C63f16c</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.220">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69276000AN0114</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">FEYZIN</SimpleData>
+					<SimpleData name="Adresse">LA TOUR</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6850675018139 </north>
+			<south> 45.6842522211224 </south>
+			<east> 4.85623287732015 </east>
+			<west> 4.85502588691123 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.85502588691123,45.6843760262253,0 4.85521165154991,45.6845045637431,0 4.85571461595832,45.68485260835299,0 4.85606032060016,45.6850675018139,0 4.85623287732015,45.6847025635965,0 4.85514343462873,45.6842522211224,0 4.85505227749993,45.6843697368301,0 4.85502588691123,45.6843760262253,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.686">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69276000AN0112</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">FEYZIN</SimpleData>
+					<SimpleData name="Adresse">LA TOUR</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6844952183868 </north>
+			<south> 45.6839933219404 </south>
+			<east> 4.85638767624276 </east>
+			<west> 4.85526637917022 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.8553420391056,45.6839933219404,0 4.85526637917022,45.6840939190068,0 4.85633104277234,45.6844952183868,0 4.85638767624276,45.6843752981801,0 4.8553420391056,45.6839933219404,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.718">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69276000AN0113</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">FEYZIN</SimpleData>
+					<SimpleData name="Adresse">LA TOUR</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6847025635965 </north>
+			<south> 45.6840939190068 </south>
+			<east> 4.85633104277234 </east>
+			<west> 4.85514343462873 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.85526637917022,45.6840939190068,0 4.85514343462873,45.6842522211224,0 4.85623287732015,45.6847025635965,0 4.85633104277234,45.6844952183868,0 4.85526637917022,45.6840939190068,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.838">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69276000AN0119</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">FEYZIN</SimpleData>
+					<SimpleData name="Adresse">LA TOUR</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6840341756889 </north>
+			<south> 45.6838604144653 </south>
+			<east> 4.8567405449691 </east>
+			<west> 4.85663970270943 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.8567405449691,45.6838692147505,0 4.85671159235322,45.6838604144653,0 4.85663970270943,45.6840120219121,0 4.85671099724768,45.6840341756889,0 4.85669779830494,45.6839472022986,0 4.8567405449691,45.6838692147505,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1383">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69276000AO0148</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">FEYZIN</SimpleData>
+					<SimpleData name="Adresse">LE COULOUD</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.68823262882471 </north>
+			<south> 45.687380068261 </south>
+			<east> 4.86510500354145 </east>
+			<west> 4.86473792968084 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.86487174770117,45.687380068261,0 4.86473792968084,45.6882180761112,0 4.86494160814699,45.68823262882471,0 4.86494279650193,45.6881801863386,0 4.86494572136151,45.68804962132729,0 4.86494989939651,45.6880248720001,0 4.86495885725504,45.6880008541988,0 4.86497228241452,45.68797973486189,0 4.86499091520714,45.6879606009948,0 4.86500907264337,45.6879464290406,0 4.86502867939191,45.6879333139699,0 4.86505457696402,45.68792000466419,0 4.86508341868438,45.6879101594739,0 4.86509718467242,45.6879067789696,0 4.86510500354145,45.687574458216,0 4.86510490639794,45.6875601381285,0 4.86510327094414,45.68754593358539,0 4.86510009718124,45.68753184458671,0 4.86509525969949,45.6875179632822,0 4.86508888997983,45.68750437756851,0 4.86508124794825,45.6874911732149,0 4.86507195130419,45.6874784466249,0 4.86506125997336,45.6874662835678,0 4.86504387229336,45.6874499078519,0 4.86502421812598,45.6874349207631,0 4.86500255739609,45.68742140807031,0 4.8649788931377,45.6874094597955,0 4.86495374823298,45.6873993375013,0 4.86492737653618,45.6873909469101,0 4.86489991255865,45.6873844659412,0 4.86487174770117,45.687380068261,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1971">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69276000AO0184</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">FEYZIN</SimpleData>
+					<SimpleData name="Adresse">LE COULOUD</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6880571481 </north>
+			<south> 45.687081316313 </south>
+			<east> 4.8655450420876 </east>
+			<west> 4.86489190147068 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.86542136416086,45.6880571481,0 4.8655450420876,45.6872693881125,0 4.86510518992843,45.6870881479898,0 4.86491938253994,45.687081316313,0 4.86489190147068,45.6872535415534,0 4.86491161723096,45.6872551066843,0 4.86493148571041,45.6872573898719,0 4.86497077261406,45.68726385523249,0 4.86500873159466,45.6872728646254,0 4.86504549110158,45.6872844159253,0 4.86508053129102,45.6872983375937,0 4.86511346683159,45.6873146360124,0 4.86514389721839,45.6873328674472,0 4.86517195393163,45.6873531197966,0 4.86519811130192,45.6873742142519,0 4.86522136604505,45.6873968880159,0 4.86524132978945,45.687421057448,0 4.8652577395727,45.68744654675721,0 4.86527045177218,45.6874729079554,0 4.86527959482849,45.6875001389169,0 4.86528489667233,45.68752779377989,0 4.86528622278312,45.6875556946254,0 4.865278097737,45.6879170241676,0 4.86530731581524,45.6879297811527,0 4.8653204305438,45.6879375805277,0 4.8653325450192,45.6879462071273,0 4.86534961535015,45.68796078658709,0 4.86536453548553,45.6879763924607,0 4.86537902682177,45.6879945274934,0 4.86538906503029,45.6880139972986,0 4.86539450648579,45.68803435388809,0 4.86539507608054,45.6880550613768,0 4.86542136416086,45.6880571481,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2276">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69276000BK0203</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">FEYZIN</SimpleData>
+					<SimpleData name="Adresse">LES RAZES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6630936463035 </north>
+			<south> 45.6624219887886 </south>
+			<east> 4.84345271934095 </east>
+			<west> 4.84297384003843 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.84316157222112,45.6624398905487,0 4.84315468172981,45.6624219887886,0 4.84297384003843,45.6624266604319,0 4.84324789758786,45.6630842092441,0 4.8433415614419,45.6630770012678,0 4.84345271934095,45.6630936463035,0 4.84316157222112,45.6624398905487,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2294">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69276000BK0204</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">FEYZIN</SimpleData>
+					<SimpleData name="Adresse">LES RAZES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6660078814626 </north>
+			<south> 45.6630770012678 </south>
+			<east> 4.8447714870283 </east>
+			<west> 4.84324789758786 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.84345271934095,45.6630936463035,0 4.8433415614419,45.6630770012678,0 4.84324789758786,45.6630842092441,0 4.84328100278642,45.6631641022934,0 4.84360368068488,45.6639120081216,0 4.84395946530145,45.6646971115582,0 4.84418524777621,45.6651889945387,0 4.84442837113235,45.6657231074869,0 4.8447168736371,45.6660074251127,0 4.8447714870283,45.6660078814626,0 4.84412650945593,45.6646443853897,0 4.84404010636456,45.66445700782,0 4.84377321867118,45.6638570798663,0 4.84350464640796,45.6632102510524,0 4.84345271934095,45.6630936463035,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

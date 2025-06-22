@@ -1,0 +1,595 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>LENTILLY_HLM</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_5">
+		<name>LENTILLY_HLM</name>
+		<Schema name="LENTILLY_HLM" id="LENTILLY_HLM.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="HLM">
+			<LineStyle>
+				<color>BFe451f5</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4Ce451f5</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.8">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69112000BC0106</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LENTILLY</SimpleData>
+					<SimpleData name="Adresse">PRE MARTIN</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.82839832545 </north>
+			<south> 45.8283485571347 </south>
+			<east> 4.66851618587323 </east>
+			<west> 4.66846275444746 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.66846275444746,45.8283569920934,0 4.668487710085,45.82839832545,0 4.66851618587323,45.8283898885824,0 4.66849110143798,45.8283485571347,0 4.66846275444746,45.8283569920934,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.316">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69112000BA0037</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LENTILLY</SimpleData>
+					<SimpleData name="Adresse">ROCHEFORT</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">IMMOBILIERE RHONE ALPES SA DHLM</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.82139970516121 </north>
+			<south> 45.8213525894023 </south>
+			<east> 4.66142629681689 </east>
+			<west> 4.66121425511791 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.66142429056724,45.82139970516121,0 4.66142629681689,45.8213807611458,0 4.66128959439975,45.8213543106052,0 4.66128210169493,45.8213536102177,0 4.6612715132323,45.8213527752366,0 4.66125965609461,45.8213525894023,0 4.66124705346618,45.8213533152246,0 4.66123601497268,45.8213546485175,0 4.66122461186111,45.8213567077257,0 4.66121425511791,45.8213592919533,0 4.66142429056724,45.82139970516121,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.480">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69112000BC0105</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LENTILLY</SimpleData>
+					<SimpleData name="Adresse">PRE MARTIN</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.82840315673651 </north>
+			<south> 45.8283561022209 </south>
+			<east> 4.66845661109781 </east>
+			<west> 4.6683916780659 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.66839495890064,45.8283561022209,0 4.6683916780659,45.8284010051613,0 4.66845332759159,45.82840315673651,0 4.66845661109781,45.8283583438233,0 4.66839495890064,45.8283561022209,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.561">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69112000BC0110</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LENTILLY</SimpleData>
+					<SimpleData name="Adresse">PRE MARTIN</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.82829877574169 </north>
+			<south> 45.82797019530619 </south>
+			<east> 4.6688962595568 </east>
+			<west> 4.66829928363465 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.66830796193977,45.8281291520164,0 4.66829928363465,45.8282512339377,0 4.66835126632678,45.8282532581607,0 4.66834777504299,45.8282954621316,0 4.6684405094356,45.82829877574169,0 4.66844512918983,45.8282981670755,0 4.66846773003719,45.82829143826,0 4.66852685170996,45.82827390197959,0 4.6687458503373,45.82820914890111,0 4.66875111670196,45.8282086207369,0 4.66878677154753,45.8282117867178,0 4.66884045369818,45.828210362972,0 4.66887863766057,45.82819917054271,0 4.6688962595568,45.8281939563246,0 4.66884337013169,45.82797019530619,0 4.66830796193977,45.8281291520164,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.1102">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69112000BT1482</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LENTILLY</SimpleData>
+					<SimpleData name="Adresse">42, CHE DES COTES</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.82090819113169 </north>
+			<south> 45.8204984720063 </south>
+			<east> 4.65706733098868 </east>
+			<west> 4.65642970720654 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.65642970720654,45.8205048409402,0 4.65658307764113,45.8207091190089,0 4.65672308724024,45.820751468865,0 4.65683522996329,45.8207666663519,0 4.65683837607736,45.8207641883284,0 4.65695372326652,45.8208346409982,0 4.65695508015707,45.8209055953986,0 4.65695618863188,45.82090819113169,0 4.65696303104898,45.8209043979006,0 4.65698921656386,45.8208841084199,0 4.65701776287096,45.820852345536,0 4.65698652541995,45.8208330788305,0 4.65703684154306,45.8207927101435,0 4.65705336836046,45.82080255533659,0 4.65705925710971,45.8207927414763,0 4.65706733098868,45.8207656023153,0 4.65705927245364,45.82072888238309,0 4.65705534052714,45.8206837254833,0 4.65705263712312,45.8206623287512,0 4.65697981993868,45.8206182727772,0 4.65696016140185,45.8206027991873,0 4.6569464709405,45.82058444588281,0 4.65693968231589,45.8205642799909,0 4.65693296110949,45.8205334849766,0 4.65692426633037,45.82051848098299,0 4.65690882822253,45.8205062780055,0 4.65688836933824,45.8204984720063,0 4.6567550949614,45.82050024738059,0 4.65642970720654,45.8205048409402,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.1627">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69112000BW0190</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LENTILLY</SimpleData>
+					<SimpleData name="Adresse">27, CHE DE LA MADONE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.82364280102381 </north>
+			<south> 45.82316274843419 </south>
+			<east> 4.67095767698426 </east>
+			<west> 4.67026375918895 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.67094086758657,45.82355812083589,0 4.67093208471987,45.8235360937567,0 4.67091234152059,45.8234881988376,0 4.67095767698426,45.8234835649586,0 4.670905874485,45.82335967561679,0 4.6708372976609,45.8231965841161,0 4.6707981869646,45.823168520776,0 4.67077962801694,45.8231682549557,0 4.67043343554928,45.82316274843419,0 4.67043272473717,45.8231860868859,0 4.67043232466208,45.8232026655469,0 4.67043291185881,45.8232135552404,0 4.67039648954142,45.823214724503,0 4.67039683898667,45.8232220149434,0 4.67038963069319,45.82322221164011,0 4.67039678410332,45.8233351427378,0 4.67033693402097,45.82333692873641,0 4.67031833251701,45.8233608020285,0 4.67026375918895,45.8233624198668,0 4.67027657574274,45.8235688491571,0 4.67027827532582,45.82359521430901,0 4.67027942879881,45.8235950171092,0 4.67029465984683,45.823638565479,0 4.67027566739392,45.8236410080633,0 4.67027623695521,45.82364280102381,0 4.67094086758657,45.82355812083589,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.1942">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69112000BB0022</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LENTILLY</SimpleData>
+					<SimpleData name="Adresse">10, RTE NOUVELLE ROUTE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8246944159941 </north>
+			<south> 45.8241594965488 </south>
+			<east> 4.66837699527986 </east>
+			<west> 4.6678896170848 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.66804826572432,45.8246944159941,0 4.66813471774329,45.824681880314,0 4.66820275260611,45.8246567367404,0 4.66829516706102,45.8244962192178,0 4.66835110626366,45.82434794949861,0 4.66837600777855,45.8241914916651,0 4.66837699527986,45.8241858027155,0 4.6678896170848,45.8241594965488,0 4.66804826572432,45.8246944159941,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2033">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69112000BD0023</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LENTILLY</SimpleData>
+					<SimpleData name="Adresse">159, RTE NATIONALE 7</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.82311646295611 </north>
+			<south> 45.8222815636589 </south>
+			<east> 4.67772544210511 </east>
+			<west> 4.67664224314539 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.67742628171914,45.8229610030935,0 4.67772544210511,45.8228559512073,0 4.67758330747014,45.8225960509058,0 4.67741117410663,45.8222815636589,0 4.67664224314539,45.8224730320465,0 4.67675474225771,45.8225971885757,0 4.67687816997105,45.822733342083,0 4.67692682728714,45.8227872015785,0 4.67694949169942,45.8229183663422,0 4.67698359393079,45.82311646295611,0 4.67742628171914,45.8229610030935,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.3194">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69112000BA0038</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LENTILLY</SimpleData>
+					<SimpleData name="Adresse">6, CHE DE LAVAL</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">IMMOBILIERE RHONE ALPES SA DHLM</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.82237436778451 </north>
+			<south> 45.8213592919533 </south>
+			<east> 4.66196152481333 </east>
+			<west> 4.66100622226885 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.66145820032243,45.8217345332401,0 4.66138679523633,45.8217461219181,0 4.66142429056724,45.82139970516121,0 4.66121425511791,45.8213592919533,0 4.66119727307993,45.8213643154418,0 4.66107390918203,45.8214215226745,0 4.66105975290721,45.82143911423741,0 4.66102680911498,45.82173565571801,0 4.66101163233751,45.8220789518741,0 4.66100622226885,45.82237436778451,0 4.66102063057388,45.8223737055009,0 4.66145715485788,45.8223332374955,0 4.66196152481333,45.8222827623645,0 4.66188258377032,45.8220954096704,0 4.66157041566565,45.8221372020028,0 4.66146993007227,45.8218546028135,0 4.66145820032243,45.8217345332401,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.3247">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69112000BA0039</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LENTILLY</SimpleData>
+					<SimpleData name="Adresse">ROCHEFORT</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">IMMOBILIERE RHONE ALPES SA DHLM</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8223751863874 </north>
+			<south> 45.82143911423741 </south>
+			<east> 4.66105975290721 </east>
+			<west> 4.66098730984415 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.66100622226885,45.82237436778451,0 4.66101163233751,45.8220789518741,0 4.66102680911498,45.82173565571801,0 4.66105975290721,45.82143911423741,0 4.66105154975071,45.82144905243009,0 4.66099872349697,45.821932509386,0 4.66098730984415,45.8223751863874,0 4.66100622226885,45.82237436778451,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.3883">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69112000AZ0005</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LENTILLY</SimpleData>
+					<SimpleData name="Adresse">32, CHE DES COTES</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8214211855883 </north>
+			<south> 45.8208229737113 </south>
+			<east> 4.65807079435499 </east>
+			<west> 4.65697307954126 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.65711976776257,45.8208645390989,0 4.65705996404266,45.82093215779879,0 4.65707160042534,45.8209292849686,0 4.65707181663069,45.82093648730981,0 4.65705017139937,45.8209749941744,0 4.65703931828708,45.8210382917571,0 4.65706027074002,45.8211054459117,0 4.65698221973992,45.82114883359161,0 4.65697854504303,45.8211508690307,0 4.65697307954126,45.821243450017,0 4.65705109004759,45.8212587878797,0 4.65702579811831,45.8213174336224,0 4.6571563474471,45.8213449703512,0 4.6571548167561,45.8213497664682,0 4.65724542030906,45.8213683420084,0 4.65724735620571,45.82136417042561,0 4.65730813859011,45.8213763383398,0 4.65731570203609,45.8213579433381,0 4.65737338057,45.8213697064277,0 4.65737170491439,45.821373964262,0 4.65746166475826,45.8213925490784,0 4.65747216982048,45.82136915709611,0 4.65747418139086,45.8213675063287,0 4.65747665224169,45.82136828068101,0 4.65751816456191,45.8213993756052,0 4.65760446922499,45.8213648732879,0 4.65755771340071,45.8213264697123,0 4.65755124715974,45.82132134063251,0 4.6575582345716,45.8213180856507,0 4.65760943775636,45.82132012615771,0 4.65766451620196,45.8214211855883,0 4.65779323800158,45.8213749819516,0 4.65779739559645,45.8213161058921,0 4.65785528977845,45.8213093113676,0 4.65794702975221,45.82123275685349,0 4.65798253292578,45.82118386854351,0 4.6579949721357,45.8211391017691,0 4.6579934977722,45.82109859239039,0 4.65797708143028,45.8210581222666,0 4.65796450793176,45.8209783256559,0 4.65800795082902,45.8208935633853,0 4.65805737262426,45.82084059771211,0 4.65806813630259,45.8208344050415,0 4.65807079435499,45.8208328348391,0 4.6579510822094,45.8208229737113,0 4.65796792080542,45.8208346155742,0 4.65796433848779,45.8208525918934,0 4.65792421085204,45.8209019083745,0 4.65790114311644,45.82095736925879,0 4.65789627862738,45.8210098608069,0 4.65787897463242,45.82100417031611,0 4.65781933651363,45.82097433240089,0 4.65777300299025,45.8209628533315,0 4.6576476588588,45.8209370422912,0 4.65753083982348,45.8209334430703,0 4.65747167998846,45.8209409765629,0 4.65742926477508,45.8209484443844,0 4.65740533813958,45.8209452828908,0 4.65739016003572,45.82093316622821,0 4.65736858874437,45.8209183512634,0 4.65732173219987,45.82090660948091,0 4.65715756312518,45.8208791160115,0 4.65713519617142,45.82088070522501,0 4.65712437273166,45.8208720373091,0 4.65712098879158,45.82086659276521,0 4.65711976776257,45.8208645390989,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+				<innerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.65718346598773,45.8209266525358,0 4.65718254745972,45.8209218022939,0 4.65718844083959,45.8209207250448,0 4.65732911370296,45.82093793519851,0 4.65735499168377,45.82094602185881,0 4.65735704206695,45.8209499547974,0 4.65734744428393,45.8209520771846,0 4.65729432644697,45.8209634849359,0 4.65725029057053,45.8209813344028,0 4.65719532446222,45.8210169977749,0 4.65710830907502,45.8210750182034,0 4.65710403110894,45.8210784135337,0 4.65709737864185,45.8210799522625,0 4.65709153563126,45.8210784167685,0 4.65708541082956,45.8210159988151,0 4.65710843250163,45.8209546843054,0 4.65711132919537,45.82095248014151,0 4.65711650675534,45.82095330484849,0 4.65715774481761,45.8209838635084,0 4.65721165918824,45.8209474950385,0 4.65718346598773,45.8209266525358,0 
+						</coordinates>
+					</LinearRing>
+				</innerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.4438">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69112000AZ0064</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LENTILLY</SimpleData>
+					<SimpleData name="Adresse">11, CHE DE LAVAL</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.82265642437751 </north>
+			<south> 45.8222213607344 </south>
+			<east> 4.66012553776537 </east>
+			<west> 4.65949902549534 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.66011120168511,45.8224486863029,0 4.66010866576673,45.8224457513075,0 4.66007915389101,45.8224068250162,0 4.6600159742149,45.8223364191653,0 4.65996439924262,45.8222834962147,0 4.65995708967718,45.8222760378705,0 4.65986905516182,45.8222530133259,0 4.65986239062307,45.8222498688062,0 4.65984929200876,45.8222426756882,0 4.65983681827907,45.82223484290049,0 4.65982283878967,45.8222240599677,0 4.65982022827296,45.8222229274426,0 4.65981788611722,45.82222215124881,0 4.65981542331664,45.82222164703529,0 4.65981296863742,45.82222141290929,0 4.65981039060619,45.8222213607344,0 4.65980782069625,45.8222215786471,0 4.65980602879771,45.8222219652619,0 4.65964885939983,45.8222560697093,0 4.65954749361377,45.8222780952075,0 4.65954924527224,45.822297794573,0 4.65954539852044,45.8222983915207,0 4.65955586569648,45.8223166117635,0 4.65956224793592,45.82232750638309,0 4.65949902549534,45.8223456386984,0 4.65955214213328,45.8224369986576,0 4.65970153262705,45.8226026015769,0 4.65977155654964,45.82265642437751,0 4.65987218727541,45.8225927976144,0 4.65988234869787,45.8226008445271,0 4.65994037256748,45.82256405406611,0 4.65996046207578,45.8225509689523,0 4.65997983734779,45.8225355525404,0 4.65998186242263,45.8225343518742,0 4.6599840270939,45.8225335094319,0 4.65998645742115,45.8225329332913,0 4.65998812868379,45.82253281865421,0 4.65998954511998,45.8225327978321,0 4.65999859129383,45.8225337456778,0 4.66000701529279,45.8225354232211,0 4.66001429663451,45.8225376579755,0 4.66003469595998,45.822539159472,0 4.66005313399984,45.8225396990386,0 4.66006561085538,45.8225390652717,0 4.66007741409293,45.8225374506474,0 4.66008866435615,45.8225345831852,0 4.6600913440935,45.8225337331687,0 4.66009923829263,45.8225306448367,0 4.66010900984257,45.8225257275243,0 4.66011253950303,45.8225231537012,0 4.66011884788255,45.8225187376465,0 4.66012280867342,45.8225133653457,0 4.66012475522329,45.8225095538302,0 4.66012534219753,45.82250765375169,0 4.66012553776537,45.822497022734,0 4.66012543909186,45.8224894583883,0 4.6601248415969,45.82248244179009,0 4.66012347150136,45.8224754365504,0 4.66012146298753,45.8224686208343,0 4.66011868187367,45.8224618164766,0 4.66011539110874,45.82245519974959,0 4.66011120168511,45.8224486863029,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.4463">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69112000AZ0065</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LENTILLY</SimpleData>
+					<SimpleData name="Adresse">11, CHE DE LAVAL</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8222225926023 </north>
+			<south> 45.8217983153198 </south>
+			<east> 4.65987390887867 </east>
+			<west> 4.6593923789682 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.65954273321085,45.8222225926023,0 4.65962759092003,45.8222042323528,0 4.659708220946,45.8221866547291,0 4.65979183419709,45.8221697537495,0 4.65979426721739,45.8221692676423,0 4.65979682629667,45.8221686896131,0 4.6598001336087,45.8221672899648,0 4.65980316985299,45.8221654439558,0 4.65980480049864,45.8221639788833,0 4.65980629696395,45.8221623356451,0 4.65981649221224,45.82213723667471,0 4.65987390887867,45.8220888362666,0 4.65987220243576,45.8220877805224,0 4.65987100564209,45.82208653714859,0 4.65987019243895,45.8220851980673,0 4.65986963676762,45.82208385520039,0 4.65986946468676,45.8220824166259,0 4.65985859653959,45.8219908861425,0 4.65984868828667,45.8219269927308,0 4.65984019459166,45.82187586832319,0 4.65983957936638,45.8218725448137,0 4.65983648122987,45.8218637635923,0 4.65983172268034,45.8218554571224,0 4.65982556395621,45.8218477116475,0 4.659820393218,45.8218428338578,0 4.65981774752722,45.821840530953,0 4.65980933600111,45.8218349802472,0 4.65979991601083,45.821830164916,0 4.65978949026331,45.8218261749883,0 4.65977871341278,45.8218233611174,0 4.65976719645579,45.821821638952,0 4.65975558321809,45.8218209990284,0 4.65974387640596,45.821821531376,0 4.65973233084228,45.8218231421802,0 4.65972120676387,45.821825917685,0 4.65971101381747,45.82182967026179,0 4.65970415523309,45.82183292348419,0 4.65970300446606,45.82183321060519,0 4.65970030851535,45.8218335204372,0 4.65969747567863,45.8218335620742,0 4.65969475536588,45.8218330616432,0 4.65969215028406,45.8218321091735,0 4.65969084097599,45.82183140786571,0 4.65968294993892,45.8218260296385,0 4.65966241167512,45.8218156132945,0 4.65964875598163,45.82181131055071,0 4.6596235222452,45.8218075382478,0 4.65954576467332,45.8218006649075,0 4.65948019183813,45.8218048710706,0 4.65941146138625,45.8217983153198,0 4.6593923789682,45.82189632059059,0 4.6594032872762,45.8220920603328,0 4.65943752277511,45.8222024321499,0 4.6595361379638,45.8221874725542,0 4.65954070507815,45.82220226681711,0 4.65953750216377,45.8222028543025,0 4.6595425530181,45.8222208839397,0 4.65954273321085,45.8222225926023,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.4536">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69112000BB0068</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LENTILLY</SimpleData>
+					<SimpleData name="Adresse">42, RTE NATIONALE 7</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ERILIA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8255907466847 </north>
+			<south> 45.8251486629605 </south>
+			<east> 4.66777805122969 </east>
+			<west> 4.66724129190588 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.66741045492419,45.8255907466847,0 4.66771463127033,45.8254033244921,0 4.66770605427239,45.8253966058981,0 4.66772047057853,45.8253876562861,0 4.6677543201475,45.8253055536964,0 4.66774907715087,45.8252002501678,0 4.66777805122969,45.8251486629605,0 4.66758946262085,45.8251492863406,0 4.66748900048416,45.82518850880799,0 4.66739055573999,45.8252476066872,0 4.66742114337095,45.8252963328276,0 4.66736089005337,45.82531469590069,0 4.66736210612266,45.8253165693985,0 4.66736422088465,45.8253183395579,0 4.66724129190588,45.8253559119952,0 4.66726812616463,45.8253912732817,0 4.66729145910019,45.82542587563431,0 4.66741045492419,45.8255907466847,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.4711">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69112000BT0075</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LENTILLY</SimpleData>
+					<SimpleData name="Adresse">19, RUE DES TANNERIES</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.82090570065219 </north>
+			<south> 45.8205303099104 </south>
+			<east> 4.66146465112923 </east>
+			<west> 4.6608827183286 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.6608827183286,45.8205303099104,0 4.66090079813874,45.82070306655801,0 4.66091726952815,45.8208608954067,0 4.66104489609454,45.8208897316098,0 4.66112266867018,45.82090570065219,0 4.6611644047237,45.8207172927584,0 4.66116634429117,45.820717534432,0 4.6611751225594,45.8206753430583,0 4.66140511109996,45.82069825953919,0 4.66143543489251,45.8206271992504,0 4.66146465112923,45.82056642311841,0 4.66133420420942,45.8205594255975,0 4.6613108494667,45.820558147966,0 4.66130206382802,45.8205572864658,0 4.66123412354252,45.82055126063301,0 4.66122779793571,45.82055081328041,0 4.66099318801292,45.8205369713301,0 4.66090762632278,45.82053183499039,0 4.6608827183286,45.8205303099104,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.5041">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69112000BC0094</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LENTILLY</SimpleData>
+					<SimpleData name="Adresse">27, RTE NATIONALE 7</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">RHONE SAONE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8251818415334 </north>
+			<south> 45.82459947588521 </south>
+			<east> 4.67056406044682 </east>
+			<west> 4.66948301016607 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.66948301016607,45.8249320730182,0 4.66961050572799,45.8251818415334,0 4.67056406044682,45.8248354738128,0 4.67052338392259,45.8247769901144,0 4.67049052226973,45.8247298295954,0 4.67044834767722,45.8246686659553,0 4.67040077711832,45.82459947588521,0 4.66948301016607,45.8249320730182,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.5072">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69112000BC0097</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LENTILLY</SimpleData>
+					<SimpleData name="Adresse">PRE MARTIN</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8281939563246 </north>
+			<south> 45.8278643153234 </south>
+			<east> 4.66932259576513 </east>
+			<west> 4.66884337013169 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.6688962595568,45.8281939563246,0 4.66899151804037,45.82816570794779,0 4.66902625211272,45.8281554671445,0 4.66910094301239,45.82813301686141,0 4.66910322837607,45.8281319022538,0 4.66910590280121,45.82813087196531,0 4.66910896084271,45.8281297459377,0 4.66911227916598,45.8281287061325,0 4.66911547143201,45.8281277582594,0 4.66911981726976,45.82812661319831,0 4.66919107188322,45.8281055646804,0 4.66932259576513,45.82806660217341,0 4.66920013823055,45.8278643153234,0 4.66884337013169,45.82797019530619,0 4.6688962595568,45.8281939563246,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

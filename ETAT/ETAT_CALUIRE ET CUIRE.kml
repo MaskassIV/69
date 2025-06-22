@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>CALUIRE ET CUIRE_ETAT</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_1">
+		<name>CALUIRE ET CUIRE_ETAT</name>
+		<Schema name="CALUIRE ET CUIRE_ETAT" id="CALUIRE ET CUIRE_ETAT.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="ETAT">
+			<LineStyle>
+				<color>BF119ff7</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C119ff7</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.202">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69034000AZ0189</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CALUIRE ET CUIRE</SimpleData>
+					<SimpleData name="Adresse">32, GRANDE RUE DE SAINT CLAIR</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7869486889599 </north>
+			<south> 45.7867338739703 </south>
+			<east> 4.85071186398378 </east>
+			<west> 4.85043461824615 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.8505088157309,45.7869486889599,0 4.85071186398378,45.7867723274616,0 4.85063448587205,45.7867338739703,0 4.85060496879172,45.786759758827,0 4.85043461824615,45.78690910228699,0 4.8505088157309,45.7869486889599,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.236">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69034000AM0040</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CALUIRE ET CUIRE</SimpleData>
+					<SimpleData name="Adresse">QUAI CLEMENCEAU</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8002729839477 </north>
+			<south> 45.8000501343101 </south>
+			<east> 4.84076852330059 </east>
+			<west> 4.84049646877331 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.84076852330059,45.8002410683924,0 4.84056834769139,45.8000501343101,0 4.84049646877331,45.80008814645041,0 4.84070043317683,45.8002729839477,0 4.84076852330059,45.8002410683924,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.478">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69034000AX0109</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CALUIRE ET CUIRE</SimpleData>
+					<SimpleData name="Adresse">CHE DE WETTE FAYS</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.79083592446769 </north>
+			<south> 45.7903878499852 </south>
+			<east> 4.86068652241058 </east>
+			<west> 4.86025437300869 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.86066405814488,45.7904759035738,0 4.86033393602562,45.7903920827058,0 4.86033093685661,45.7903909611845,0 4.86032794072005,45.7903899296871,0 4.86032495064825,45.7903890782376,0 4.86032183795645,45.7903884089573,0 4.86031860870927,45.7903881018943,0 4.86031525380971,45.7903878869765,0 4.8603120336595,45.7903878499852,0 4.86030882260619,45.79038808306591,0 4.86030549499729,45.79038867836369,0 4.86030242475776,45.7903892694189,0 4.86029936361501,45.7903901305459,0 4.86029644025371,45.7903912596236,0 4.86029377729403,45.7903924744826,0 4.86029125211576,45.7903939572922,0 4.86028899037136,45.7903956159073,0 4.86028686034382,45.790397362425,0 4.86028499071789,45.79039919472411,0 4.86028338452585,45.7904012028286,0 4.86028203873545,45.7904032967145,0 4.86028108203147,45.79040547426061,0 4.86028023885093,45.79040719956539,0 4.86027938960583,45.7904087448223,0 4.86027854339294,45.7904103801031,0 4.86027782586477,45.79041201326271,0 4.86027711440105,45.7904138264702,0 4.86027665424236,45.7904154553872,0 4.86027606539885,45.7904170864255,0 4.86027560827234,45.7904188053665,0 4.86027514811356,45.7904204342835,0 4.860274690987,45.7904221532245,0 4.86027436254521,45.7904238700442,0 4.86027429147301,45.7904255826214,0 4.860274091716,45.79042729731989,0 4.86027389195897,45.7904290120184,0 4.86027382088675,45.7904307245956,0 4.86027387849934,45.7904324350515,0 4.86027393611194,45.79043414550739,0 4.86027412240938,45.7904358538421,0 4.86027430870682,45.7904375621768,0 4.86027449500428,45.79043927051149,0 4.86025437300869,45.79068667513371,0 4.86028084591697,45.7907807263602,0 4.86029828477581,45.79083592446769,0 4.86048175003735,45.79080876019649,0 4.86050836199584,45.79080372769741,0 4.86053557795285,45.7907975142724,0 4.86055997191769,45.7907916175878,0 4.86058933305981,45.7907841077468,0 4.86060157769949,45.7907806632066,0 4.86061191762348,45.79077418755259,0 4.86062057250107,45.7907673793832,0 4.86064812511275,45.7907444066175,0 4.8606580984696,45.79073469433909,0 4.86066059332471,45.7907323112813,0 4.86066307301514,45.7907294781035,0 4.86066529230143,45.7907265591452,0 4.86066763724008,45.790723548041,0 4.86066972784041,45.7907206312043,0 4.86067168672216,45.7907176264653,0 4.86067351691822,45.7907146238479,0 4.86067534408117,45.7907115312065,0 4.86067691387302,45.79070844280859,0 4.86067848063178,45.7907052643866,0 4.86067991870493,45.7907020880863,0 4.86068109637413,45.7906988260055,0 4.86068214535778,45.7906955660464,0 4.86068319737422,45.7906923961113,0 4.86068411767222,45.7906891382739,0 4.86068477756639,45.790685794656,0 4.86068544049341,45.7906825410621,0 4.86068597170204,45.7906791995659,0 4.86068624857279,45.7906759523372,0 4.86068652241058,45.7906726150845,0 4.86068343701426,45.7906460040539,0 4.86066405814488,45.7904759035738,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.696">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69034000AI0123</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CALUIRE ET CUIRE</SimpleData>
+					<SimpleData name="Adresse">CHE DE PIED CHARDON</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.80895261461621 </north>
+			<south> 45.8064799449653 </south>
+			<east> 4.85968363685431 </east>
+			<west> 4.85767741703099 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.85968363685431,45.8087479922136,0 4.85934884513124,45.8083183593018,0 4.8592799796967,45.8082277981872,0 4.85921642257386,45.8081380503494,0 4.85909730551411,45.8079741858285,0 4.85897400165489,45.8078045353302,0 4.85888346850526,45.80768244460881,0 4.85884775000256,45.8076352935464,0 4.85849777699231,45.8071713199159,0 4.85838211712288,45.8070182066776,0 4.85824608447271,45.80683759583489,0 4.85797594512899,45.8064799449653,0 4.85792209385548,45.8064947927595,0 4.85786036326167,45.8065166158279,0 4.85774390443575,45.8065616778814,0 4.85767741703099,45.80659141556559,0 4.85809461490635,45.8071435483771,0 4.85832242678922,45.8074450591437,0 4.85847541385144,45.80764718871329,0 4.85858163419974,45.8077876667905,0 4.85869230911745,45.8079341964655,0 4.85870834876664,45.8079553699852,0 4.85888251250664,45.808185793912,0 4.85933423489546,45.8087832918261,0 4.85946100860739,45.80895261461621,0 4.85968363685431,45.8087479922136,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.1238">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69034000AZ0176</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CALUIRE ET CUIRE</SimpleData>
+					<SimpleData name="Adresse">8, GRANDE RUE DE SAINT CLAIR</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">FRANCE DOMAINE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7862365483236 </north>
+			<south> 45.78605952054841 </south>
+			<east> 4.84932328621692 </east>
+			<west> 4.84909946773055 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.84932328621692,45.7860982823703,0 4.84924268108329,45.78605952054841,0 4.84909946773055,45.7861965275218,0 4.84917470777489,45.7862365483236,0 4.84929119628916,45.7861280822107,0 4.84932328621692,45.7860982823703,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.2086">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69034000AX0299</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CALUIRE ET CUIRE</SimpleData>
+					<SimpleData name="Adresse">CHE DE WETTE FAYS</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7908497071281 </north>
+			<south> 45.7903145067022 </south>
+			<east> 4.86020905447615 </east>
+			<west> 4.86004020568526 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.86013973382755,45.7908497071281,0 4.8601459204751,45.7908307796926,0 4.86016437596332,45.7907747196973,0 4.86016654944045,45.7907627941064,0 4.86016645071966,45.79075604018519,0 4.86015621029097,45.7906890137909,0 4.86017593385113,45.7906858963911,0 4.86020905447615,45.790365677898,0 4.86004410563613,45.79031561338419,0 4.86004020568526,45.7903145067022,0 4.86011193996082,45.79056733295801,0 4.86013973382755,45.7908497071281,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.2447">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69034000AX0346</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CALUIRE ET CUIRE</SimpleData>
+					<SimpleData name="Adresse">157, GRANDE RUE DE SAINT CLAIR</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7912748927238 </north>
+			<south> 45.79125516077 </south>
+			<east> 4.86042034152452 </east>
+			<west> 4.86040562706976 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.86040562706976,45.79125516077,0 4.86041620613491,45.7912748927238,0 4.86042034152452,45.79126005241701,0 4.86040562706976,45.79125516077,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.3584">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69034000AM0007</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CALUIRE ET CUIRE</SimpleData>
+					<SimpleData name="Adresse">60, QUAI CLEMENCEAU</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.797887240681 </north>
+			<south> 45.7975958840586 </south>
+			<east> 4.83817451957923 </east>
+			<west> 4.83772472783202 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.83772472783202,45.7976874550668,0 4.83810069680557,45.797887240681,0 4.83817451957923,45.797838029288,0 4.83799110216428,45.79773608076779,0 4.83787402385553,45.79762701682889,0 4.83780563990487,45.7975958840586,0 4.83772472783202,45.7976874550668,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

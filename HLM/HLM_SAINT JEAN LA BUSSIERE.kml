@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>SAINT JEAN LA BUSSIERE_HLM</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_5">
+		<name>SAINT JEAN LA BUSSIERE_HLM</name>
+		<Schema name="SAINT JEAN LA BUSSIERE_HLM" id="SAINT JEAN LA BUSSIERE_HLM.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="HLM">
+			<LineStyle>
+				<color>BFe451f5</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4Ce451f5</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.3149">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">692140000E0371</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT JEAN LA BUSSIERE</SimpleData>
+					<SimpleData name="Adresse">147, CHE LABBE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9799341828524 </north>
+			<south> 45.97942511601001 </south>
+			<east> 4.32149038248088 </east>
+			<west> 4.32033480113141 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.32033480113141,45.9796595161077,0 4.32051380045041,45.9798137764531,0 4.32054374714887,45.979839725326,0 4.32062843409068,45.9799127686509,0 4.32065336319601,45.9799341828524,0 4.32069776363471,45.9799110595507,0 4.32109455280548,45.9797041526721,0 4.32128806971431,45.97954284582929,0 4.32149038248088,45.97942511601001,0 4.32138459865599,45.9794311236139,0 4.32087053128411,45.9794663906383,0 4.32069964618259,45.9795049487145,0 4.32055974396698,45.979558816017,0 4.32042395727596,45.979617318375,0 4.32033480113141,45.9796595161077,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.3224">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">692140000B0386</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT JEAN LA BUSSIERE</SimpleData>
+					<SimpleData name="Adresse">L ETANG</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0051646845805 </north>
+			<south> 46.0035257785993 </south>
+			<east> 4.32644030606636 </east>
+			<west> 4.32495364926368 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.32526668036726,46.0035257785993,0 4.32519636515927,46.0036809671573,0 4.32503872622561,46.0040042417699,0 4.32495364926368,46.0042173324726,0 4.32501096183721,46.00421981440239,0 4.3249913715592,46.00450112667911,0 4.32503201939585,46.0045038935469,0 4.32498822360768,46.00484267819891,0 4.32496410675463,46.0049682363216,0 4.32502353548219,46.0050531902037,0 4.32556270023023,46.0051646845805,0 4.32628386724404,46.004038846872,0 4.32644030606636,46.0037947489249,0 4.32641332066275,46.0037636332382,0 4.32537391422169,46.0036960921552,0 4.32528558416563,46.0035862592013,0 4.32526668036726,46.0035257785993,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.3285">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">692140000A0396</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT JEAN LA BUSSIERE</SimpleData>
+					<SimpleData name="Adresse">60, PLE MARIE GOUJAT</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9998614166639 </north>
+			<south> 45.99977796089429 </south>
+			<east> 4.32428196659475 </east>
+			<west> 4.32412235225629 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.32413230266856,45.9998553306249,0 4.32417443233585,45.999855378584,0 4.32428196659475,45.9998614166639,0 4.32428125480577,45.999853319414,0 4.32427155824073,45.99977796089429,0 4.32412235225629,45.99978015518559,0 4.32413230266856,45.9998553306249,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.4191">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">692140000A0559</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT JEAN LA BUSSIERE</SimpleData>
+					<SimpleData name="Adresse">88, AV VICTOR HUGO</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9991265677706 </north>
+			<south> 45.99888934200259 </south>
+			<east> 4.32408461220925 </east>
+			<west> 4.32359741455055 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.32372787315247,45.9990733662832,0 4.32374543557058,45.9991265677706,0 4.32384391618743,45.9991162307121,0 4.32408461220925,45.9990925234591,0 4.32406164228302,45.9989918325438,0 4.32405804855761,45.998976744148,0 4.32402312198293,45.99888934200259,0 4.32359741455055,45.9989361952492,0 4.32370764542257,45.9990221772971,0 4.32371198667532,45.9990253688004,0 4.32372787315247,45.9990733662832,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.4518">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">692140000A0675</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT JEAN LA BUSSIERE</SimpleData>
+					<SimpleData name="Adresse">12, RUE MARIE CURIE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9989316697958 </north>
+			<south> 45.9983038793395 </south>
+			<east> 4.32399002446569 </east>
+			<west> 4.32313538044164 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.32316826206148,45.99831852057971,0 4.32313743018798,45.99854106331559,0 4.32313538044164,45.998557928825,0 4.32314133393276,45.9985744306763,0 4.32315261811796,45.99858690754569,0 4.32336739667076,45.9987537151707,0 4.32351485529841,45.9988724052943,0 4.32356317758975,45.9989096667433,0 4.32359161973473,45.9989316697958,0 4.32361535378959,45.9989137403741,0 4.32360124005235,45.9988695948263,0 4.32369914105206,45.9988136933488,0 4.32383269563468,45.9988593252147,0 4.32399002446569,45.9988081327419,0 4.32397338456812,45.9987771657953,0 4.32394405082291,45.9987395925511,0 4.32393309629322,45.9987300839479,0 4.32388293709549,45.99869167331679,0 4.32382693489509,45.9986574737889,0 4.32360001975426,45.9985341285843,0 4.32353363079005,45.99849788878261,0 4.32350573454577,45.9984824538577,0 4.32318806908441,45.9983038793395,0 4.32316826206148,45.99831852057971,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.4522">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">692140000A0676</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT JEAN LA BUSSIERE</SimpleData>
+					<SimpleData name="Adresse">2, RUE DES ECOLES</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9989361952492 </north>
+			<south> 45.9988081327419 </south>
+			<east> 4.32402312198293 </east>
+			<west> 4.32359161973473 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.32359161973473,45.9989316697958,0 4.32359741455055,45.9989361952492,0 4.32402312198293,45.99888934200259,0 4.32400456780878,45.99884326703539,0 4.32399502545811,45.9988172606086,0 4.32399002446569,45.9988081327419,0 4.32383269563468,45.9988593252147,0 4.32369914105206,45.9988136933488,0 4.32360124005235,45.9988695948263,0 4.32361535378959,45.9989137403741,0 4.32359161973473,45.9989316697958,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.4551">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">692140000A0685</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT JEAN LA BUSSIERE</SimpleData>
+					<SimpleData name="Adresse">52, PLE MARIE GOUJAT</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.99978015518559 </north>
+			<south> 45.99967822964781 </south>
+			<east> 4.32427155824073 </east>
+			<west> 4.32393104403553 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.32412354245528,45.9996899893257,0 4.32412513120159,45.99970230923531,0 4.32399539814744,45.99971355213851,0 4.32393104403553,45.9997189874222,0 4.32393191134708,45.99976040575321,0 4.32396955742532,45.99975672358401,0 4.32409065205682,45.9997463021685,0 4.32409033300884,45.9997437841646,0 4.32411729946466,45.9997420280012,0 4.32412235225629,45.99978015518559,0 4.32427155824073,45.99977796089429,0 4.32425894903325,45.99967822964781,0 4.32412354245528,45.9996899893257,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

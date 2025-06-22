@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>BLACE_HLM</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_5">
+		<name>BLACE_HLM</name>
+		<Schema name="BLACE_HLM" id="BLACE_HLM.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="HLM">
+			<LineStyle>
+				<color>BFe451f5</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4Ce451f5</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.1153">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">690230000B1530</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">BLACE</SimpleData>
+					<SimpleData name="Adresse">LE SAVIGNY</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0316238201088 </north>
+			<south> 46.03094706239899 </south>
+			<east> 4.64405132020253 </east>
+			<west> 4.64364326305198 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.64389121645882,46.03160313299839,0 4.64382863480578,46.0314389447001,0 4.64405132020253,46.0313959947835,0 4.64399259471618,46.031213736905,0 4.64387423908414,46.0312255411205,0 4.64387113520985,46.0311692932123,0 4.6438660439127,46.0311200994833,0 4.64384845738847,46.03094706239899,0 4.64370086096428,46.0309582997445,0 4.64368131065325,46.0309791189014,0 4.64366356201319,46.0309909951306,0 4.64364334145625,46.0309980434929,0 4.64364326305198,46.0310127258232,0 4.6437070425676,46.0310136924064,0 4.64371266567022,46.0311239449885,0 4.64364715448147,46.0311256155083,0 4.64365118444356,46.03118257054,0 4.64371570470875,46.0311823554871,0 4.6437211558764,46.0312738762782,0 4.6436551813033,46.0312773548932,0 4.64365962030937,46.0313479944311,0 4.64372658049332,46.03134720358239,0 4.6437303009957,46.0313981284988,0 4.64375686494056,46.0314475512609,0 4.64370813207358,46.0314697843617,0 4.643730753744,46.0315171026489,0 4.64373880180321,46.031561389797,0 4.64379764035288,46.0315744071223,0 4.64378140153143,46.0316238201088,0 4.64389121645882,46.03160313299839,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.1154">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">690230000B1531</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">BLACE</SimpleData>
+					<SimpleData name="Adresse">LE SAVIGNY</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0316402873948 </north>
+			<south> 46.0316270699659 </south>
+			<east> 4.64374339172547 </east>
+			<west> 4.64371413371281 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.64371413371281,46.0316402873948,0 4.64374339172547,46.0316327476939,0 4.64371878184304,46.0316270699659,0 4.64371413371281,46.0316402873948,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.1157">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">690230000B1536</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">BLACE</SimpleData>
+					<SimpleData name="Adresse">LE SAVIGNY</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0317121797267 </north>
+			<south> 46.03160313299839 </south>
+			<east> 4.64391101614595 </east>
+			<west> 4.64369129703411 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.64389121645882,46.03160313299839,0 4.64378140153143,46.0316238201088,0 4.64377607206468,46.0316401998244,0 4.64374339172547,46.0316327476939,0 4.64371413371281,46.0316402873948,0 4.64369129703411,46.0317025857936,0 4.64370671345149,46.0317121797267,0 4.64391101614595,46.0316555360245,0 4.64389121645882,46.03160313299839,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.1439">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">690230000B1776</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">BLACE</SimpleData>
+					<SimpleData name="Adresse">LE SAVIGNY</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0308927412291 </north>
+			<south> 46.0306815802771 </south>
+			<east> 4.6436938582707 </east>
+			<west> 4.64359713107183 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.64361992999159,46.0308767001969,0 4.6436938582707,46.0308927412291,0 4.64367177077463,46.0306815802771,0 4.6436205292675,46.0306847551693,0 4.64359713107183,46.03070229756809,0 4.64361992999159,46.0308767001969,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.1488">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">690230000B1803</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">BLACE</SimpleData>
+					<SimpleData name="Adresse">86, RUE JEAN COTTINET</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0310434879883 </north>
+			<south> 46.0308875807052 </south>
+			<east> 4.64351221102672 </east>
+			<west> 4.6431685460646 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.64317387256291,46.0308875807052,0 4.6431685460646,46.0308910805296,0 4.64319883309985,46.0310434879883,0 4.6433726632568,46.03103601412081,0 4.64339073483368,46.03103494149611,0 4.6434687137634,46.0310307485679,0 4.64348678533667,46.0310296759278,0 4.64351221102672,46.03102804631121,0 4.64350881714481,46.030953428595,0 4.6433713080563,46.0309603760906,0 4.64317387256291,46.0308875807052,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.1489">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">690230000B1804</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">BLACE</SimpleData>
+					<SimpleData name="Adresse">76, RUE JEAN COTTINET</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0311461389297 </north>
+			<south> 46.03102804631121 </south>
+			<east> 4.64351466565855 </east>
+			<west> 4.64319883309985 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.64351466565855,46.031079890273,0 4.64351221102672,46.03102804631121,0 4.64348678533667,46.0310296759278,0 4.6434687137634,46.0310307485679,0 4.64339073483368,46.03103494149611,0 4.6433726632568,46.03103601412081,0 4.64319883309985,46.0310434879883,0 4.64321935753299,46.0311461389297,0 4.64335142479039,46.03114314347361,0 4.6435126446698,46.0311377436608,0 4.64351466565855,46.031079890273,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.1501">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">690230000B1810</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">BLACE</SimpleData>
+					<SimpleData name="Adresse">LE SAVIGNY</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0313006823808 </north>
+			<south> 46.0308910805296 </south>
+			<east> 4.64324994909679 </east>
+			<west> 4.64314852723792 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.6431685460646,46.0308910805296,0 4.64314852723792,46.0309048810285,0 4.64315448552179,46.0309355080684,0 4.64319645489677,46.0311499836205,0 4.64320253979969,46.0311805187543,0 4.64322656178108,46.0313006823808,0 4.64324994909679,46.0313000731302,0 4.64323501678748,46.0312244517914,0 4.64321935753299,46.0311461389297,0 4.64319883309985,46.0310434879883,0 4.6431685460646,46.0308910805296,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.1876">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">690230000B2125</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">BLACE</SimpleData>
+					<SimpleData name="Adresse">LE SAVIGNY</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0311377436608 </north>
+			<south> 46.0310780583767 </south>
+			<east> 4.64357003966451 </east>
+			<west> 4.6435126446698 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.64351466565855,46.031079890273,0 4.6435126446698,46.0311377436608,0 4.64357003966451,46.0311370915901,0 4.64356646492469,46.0310780583767,0 4.64351466565855,46.031079890273,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>SAIN-BEL_region</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_2">
+		<name>SAIN-BEL_region</name>
+		<Schema name="SAIN-BEL_region" id="SAIN-BEL_region.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="region">
+			<LineStyle>
+				<color>BF318006</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C318006</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_2.94">
+		<styleUrl>#region</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_2.schema">
+					<SimpleData name="Numero de Parcelle">691710000U2415</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAIN-BEL</SimpleData>
+					<SimpleData name="Adresse">GDS CHAMPS</SimpleData>
+					<SimpleData name="Groupe de personne">Region</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COLL</SimpleData>
+					<SimpleData name="Denomination">REGION RHONE ALPES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.82325643494559 </north>
+			<south> 45.8226946978591 </south>
+			<east> 4.59885499437928 </east>
+			<west> 4.59853467434484 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.59853467434484,45.8226946978591,0 4.59870746235021,45.82325643494559,0 4.59872615174664,45.82324788413671,0 4.59878240803364,45.8232153838931,0 4.59883274701984,45.823178734225,0 4.59885499437928,45.8231595951139,0 4.59882811177996,45.8230364931033,0 4.59875422507969,45.822905049818,0 4.59867347628766,45.8226967859429,0 4.59853467434484,45.8226946978591,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_2.95">
+		<styleUrl>#region</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_2.schema">
+					<SimpleData name="Numero de Parcelle">691710000U2418</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAIN-BEL</SimpleData>
+					<SimpleData name="Adresse">GDS CHAMPS</SimpleData>
+					<SimpleData name="Groupe de personne">Region</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COLL</SimpleData>
+					<SimpleData name="Denomination">REGION RHONE ALPES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8239470891601 </north>
+			<south> 45.8226967859429 </south>
+			<east> 4.60023668283293 </east>
+			<west> 4.59862484093561 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.59880811009681,45.8239470891601,0 4.6001500992303,45.8237921692509,0 4.6001893431083,45.8235949955974,0 4.60023668283293,45.8233615900969,0 4.59969390434892,45.82333784683081,0 4.59985685395336,45.8227151528278,0 4.59867347628766,45.8226967859429,0 4.59875422507969,45.822905049818,0 4.59882811177996,45.8230364931033,0 4.59885499437928,45.8231595951139,0 4.59883274701984,45.823178734225,0 4.59878240803364,45.8232153838931,0 4.59872615174664,45.82324788413671,0 4.59870746235021,45.82325643494559,0 4.59873846785393,45.8233573219932,0 4.59862484093561,45.8233749626423,0 4.59880638489839,45.8239408989235,0 4.59880811009681,45.8239470891601,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_2.96">
+		<styleUrl>#region</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_2.schema">
+					<SimpleData name="Numero de Parcelle">691710000U2419</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAIN-BEL</SimpleData>
+					<SimpleData name="Adresse">GDS CHAMPS</SimpleData>
+					<SimpleData name="Groupe de personne">Region</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COLL</SimpleData>
+					<SimpleData name="Denomination">REGION RHONE ALPES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.82416393911739 </north>
+			<south> 45.8237921692509 </south>
+			<east> 4.6001500992303 </east>
+			<west> 4.59880811009681 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.60009718336726,45.82400655938879,0 4.6001500992303,45.8237921692509,0 4.59880811009681,45.8239470891601,0 4.59887403733855,45.82416393911739,0 4.60009718336726,45.82400655938879,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_2.98">
+		<styleUrl>#region</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_2.schema">
+					<SimpleData name="Numero de Parcelle">691710000U2422</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAIN-BEL</SimpleData>
+					<SimpleData name="Adresse">169, IMP DES PRAIRIES</SimpleData>
+					<SimpleData name="Groupe de personne">Region</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COLL</SimpleData>
+					<SimpleData name="Denomination">REGION RHONE ALPES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8233615900969 </north>
+			<south> 45.8227151528278 </south>
+			<east> 4.60124047320431 </east>
+			<west> 4.59969390434892 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.59985685395336,45.8227151528278,0 4.59969390434892,45.82333784683081,0 4.60023668283293,45.8233615900969,0 4.60024892970716,45.8230952668012,0 4.60121354179094,45.8231124863395,0 4.60120696385598,45.8230411559906,0 4.60120807375836,45.8229062189616,0 4.60124047320431,45.8227352615466,0 4.59985685395336,45.8227151528278,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_2.99">
+		<styleUrl>#region</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_2.schema">
+					<SimpleData name="Numero de Parcelle">691710000U2423</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAIN-BEL</SimpleData>
+					<SimpleData name="Adresse">GDS CHAMPS</SimpleData>
+					<SimpleData name="Groupe de personne">Region</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COLL</SimpleData>
+					<SimpleData name="Denomination">REGION RHONE ALPES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.82400655938879 </north>
+			<south> 45.8233615900969 </south>
+			<east> 4.60023795075729 </east>
+			<west> 4.60009718336726 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.60023668283293,45.8233615900969,0 4.6001893431083,45.8235949955974,0 4.6001500992303,45.8237921692509,0 4.60009718336726,45.82400655938879,0 4.60010026607496,45.82400624550569,0 4.60023795075729,45.82398745186271,0 4.60023668283293,45.8233615900969,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

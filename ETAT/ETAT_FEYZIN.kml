@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>FEYZIN_ETAT</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_1">
+		<name>FEYZIN_ETAT</name>
+		<Schema name="FEYZIN_ETAT" id="FEYZIN_ETAT.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="ETAT">
+			<LineStyle>
+				<color>BF119ff7</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C119ff7</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.92">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69276000BM0003</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">FEYZIN</SimpleData>
+					<SimpleData name="Adresse">COMMUNAL</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6762414645442 </north>
+			<south> 45.6755437031721 </south>
+			<east> 4.84866355819186 </east>
+			<west> 4.84832882728608 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.84860658681419,45.6755437031721,0 4.84832882728608,45.67554853239201,0 4.84840660345591,45.6762383862511,0 4.84866355819186,45.6762414645442,0 4.84865069355413,45.6760640516829,0 4.84861924883776,45.67571121131889,0 4.8486159856873,45.6756635261741,0 4.84860658681419,45.6755437031721,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.219">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69276000BO0029</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">FEYZIN</SimpleData>
+					<SimpleData name="Adresse">LILE DIRIGNY</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">COMPAGNIE NATIONALE DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6864077073587 </north>
+			<south> 45.6756625856769 </south>
+			<east> 4.83995055412312 </east>
+			<west> 4.83632273401851 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.83952321618162,45.67795173353959,0 4.83951360512055,45.6779022604023,0 4.83945376851306,45.6779035079312,0 4.83941119277875,45.67748851730969,0 4.83930081051956,45.67641737292411,0 4.83904356917431,45.676366989736,0 4.83899425808331,45.6763562656357,0 4.83894261429945,45.67634107596481,0 4.8388441110729,45.6763077361069,0 4.83877926362562,45.67628573627171,0 4.83848405672197,45.6762566884265,0 4.83828397370415,45.67615538004329,0 4.83825839388891,45.676147330736,0 4.83820766454605,45.6761364493014,0 4.83819065331115,45.6761349255051,0 4.83814365743996,45.6761319995797,0 4.83796477755637,45.6761390623908,0 4.83793761218127,45.6761374340535,0 4.83754056365031,45.6761137387254,0 4.83751987896966,45.6761099328738,0 4.83750337247464,45.6761081305206,0 4.83749834317551,45.67610758206891,0 4.83747655641826,45.6761015423723,0 4.83745881035795,45.6760933650724,0 4.83743903349585,45.676085941485,0 4.83742636456287,45.6760797530179,0 4.83725601392551,45.6759412080805,0 4.83724152027624,45.675934238707,0 4.83722761502084,45.6759295115512,0 4.83721514629003,45.675925481541,0 4.83719970000522,45.67592077952129,0 4.83700913415705,45.6759086658232,0 4.83699977141879,45.6759053057076,0 4.83688767524013,45.675849487566,0 4.83686883631969,45.67584321952841,0 4.83678912947405,45.6758264149309,0 4.83672587527896,45.6758097923146,0 4.83670144863545,45.6758016337804,0 4.83667994277753,45.6757924368068,0 4.83659798098871,45.67575026834561,0 4.836440371193,45.6756625856769,0 4.83644426628745,45.67575286509051,0 4.83632273401851,45.6757572787685,0 4.83641005091728,45.67750587780299,0 4.83646849381166,45.6783842147976,0 4.83651567284714,45.6792676895241,0 4.8369019377056,45.6800265583606,0 4.83703026686397,45.6807608101223,0 4.83711315956622,45.6818604175286,0 4.83716174129027,45.6824838294468,0 4.83745767430113,45.6864077073587,0 4.83812552158297,45.6859114086503,0 4.83945667606724,45.68492247588279,0 4.83995055412312,45.6845557392757,0 4.83995042840101,45.684551958269,0 4.83989711674586,45.6837409123365,0 4.83987469961877,45.68339521859959,0 4.83963661356684,45.6797086431713,0 4.83952321618162,45.67795173353959,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.731">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69276000BE0125</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">FEYZIN</SimpleData>
+					<SimpleData name="Adresse">RUE DE PROVENCE</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">REGIE DES JACOBINS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6641402733066 </north>
+			<south> 45.66200572867169 </south>
+			<east> 4.85590431987685 </east>
+			<west> 4.85482841357446 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.85569764241351,45.66200572867169,0 4.85569022798882,45.66212943120251,0 4.85566759744381,45.66251198446659,0 4.85564112483534,45.6629562110754,0 4.85482841357446,45.6628772774419,0 4.85483851805869,45.6630983305406,0 4.85484523230571,45.6632450391031,0 4.8548455041668,45.6632454849901,0 4.85484743847397,45.6632878775605,0 4.85485331249009,45.6634133427125,0 4.85486756374009,45.66371980689569,0 4.85488974513392,45.6637185407498,0 4.85501423131271,45.66371108550461,0 4.85509544429007,45.6640951703756,0 4.85504433076829,45.6640994352761,0 4.85505000608403,45.6641231210782,0 4.85520075339943,45.6641402733066,0 4.85513671306862,45.6638393132708,0 4.85510820276265,45.663705393909,0 4.85556862550248,45.6636714156247,0 4.85588456889419,45.6636539584624,0 4.85590431987685,45.66365300239541,0 4.85589119955704,45.6629781204697,0 4.85588941820266,45.66284835444101,0 4.85568558751043,45.66284171591469,0 4.85573404029236,45.66201854966209,0 4.85569764241351,45.66200572867169,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.798">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69276000BI0129</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">FEYZIN</SimpleData>
+					<SimpleData name="Adresse">COMMUNAL</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">COMPAGNIE NATIONALE DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.66671686740709 </north>
+			<south> 45.6606697372922 </south>
+			<east> 4.83866424953981 </east>
+			<west> 4.83145715656879 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.83866056155771,45.6663894008521,0 4.83864094724013,45.6660889683831,0 4.83853856094147,45.6645148184529,0 4.83853506195357,45.6644597511024,0 4.83851986815339,45.66422662086801,0 4.8384974555671,45.6638805672945,0 4.83846028544957,45.66329128825139,0 4.83843194819964,45.6630453121092,0 4.83839299276087,45.662707815363,0 4.83831308444722,45.6622859586768,0 4.83828048770506,45.662112830792,0 4.83826847371215,45.6620566414572,0 4.83825313599553,45.66198546425311,0 4.83820874159832,45.6617781212198,0 4.83808792035376,45.66176820414,0 4.83651261006443,45.6615072094405,0 4.83296008549595,45.6609187396512,0 4.83280573567607,45.66089314974009,0 4.83145715656879,45.6606697372922,0 4.83154166689409,45.6617720206054,0 4.83207270540267,45.6619234396866,0 4.83209930186564,45.66193138365231,0 4.83211370507118,45.6619318698614,0 4.83212297278755,45.6619324396349,0 4.8321391468702,45.66192821325469,0 4.83216967377117,45.66191906954409,0 4.83218854126487,45.66191083613759,0 4.83219649584401,45.6619027803136,0 4.83237765102384,45.6616126811025,0 4.83238135958623,45.6616082972669,0 4.83238545926712,45.6616040872108,0 4.83239007547305,45.6615999588208,0 4.83239483198416,45.6615961884371,0 4.83239997961367,45.6615925918328,0 4.83240551836155,45.6615891690078,0 4.83241119443481,45.6615860141652,0 4.83241726758625,45.6615832131497,0 4.83242360048978,45.661580497979,0 4.83243007667867,45.6615782308384,0 4.83243668721328,45.661576141656,0 4.83244369780624,45.6615744963246,0 4.83253902357469,45.6615670901223,0 4.83249145960129,45.661682436493,0 4.83243830033748,45.6616559196397,0 4.83230956075315,45.6618918430355,0 4.83228991570201,45.6619192745592,0 4.83227968837884,45.66193628455351,0 4.83226674134072,45.6619487451087,0 4.83225485715094,45.6619622692361,0 4.83223933043607,45.6619744114782,0 4.8322127919321,45.6619915067566,0 4.8322000870092,45.6619996398838,0 4.83218655216729,45.6620059850647,0 4.83217181416323,45.6620109086626,0 4.83215603713916,45.662015488876,0 4.83214321031426,45.6620160578904,0 4.8321329393199,45.662016225024,0 4.83212008865914,45.66201607384361,0 4.83210768004224,45.6620137537289,0 4.83209357855481,45.6620107405792,0 4.83154889673353,45.66186629895629,0 4.83164083570106,45.66305321973751,0 4.83173691845616,45.6642216083485,0 4.8318720254858,45.6641895062496,0 4.83189613674654,45.6641844302011,0 4.83248099556951,45.66405944028489,0 4.8326037041289,45.6640331235742,0 4.83316930377229,45.6639124066849,0 4.8336306790302,45.6638137406683,0 4.83395033746636,45.66374539367299,0 4.83447026556474,45.6636344213039,0 4.83451771677548,45.663624280641,0 4.83476645315769,45.66357113813339,0 4.83484476896774,45.663554279371,0 4.83499924167455,45.6635213174461,0 4.83516748787767,45.66348533856439,0 4.83559059261031,45.6633949443378,0 4.83582411991963,45.66432032601661,0 4.83583579454996,45.66436634291801,0 4.83586907182996,45.6644982070855,0 4.83587416257369,45.66457810856451,0 4.8358836961829,45.66472999569731,0 4.83592556049078,45.6653918872963,0 4.83592702654859,45.66541672343619,0 4.83594961776734,45.66577250224369,0 4.83598943228614,45.6664035324096,0 4.83600328725879,45.66662371423341,0 4.83591164989001,45.6666457449382,0 4.8356744595897,45.6667026647482,0 4.83561545008802,45.66671686740709,0 4.83726342699007,45.6666354061341,0 4.83726629928912,45.6666251810566,0 4.83866424953981,45.6665197659059,0 4.83866056155771,45.6663894008521,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.961">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69276000AN0145</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">FEYZIN</SimpleData>
+					<SimpleData name="Adresse">31, RUE DES CHARRIERES</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">FRANCE DOMAINE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6858888301185 </north>
+			<south> 45.6843760262253 </south>
+			<east> 4.85610306150297 </east>
+			<west> 4.85436555758889 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.85521165154991,45.6845045637431,0 4.85502588691123,45.6843760262253,0 4.85502490165431,45.6843773034774,0 4.85500298420275,45.6844058573687,0 4.85436555758889,45.68524124412979,0 4.85488715749471,45.6854436074205,0 4.85503348506524,45.6855035283718,0 4.85516954503579,45.68556767154431,0 4.85527381692645,45.6856304466035,0 4.85535816115986,45.68568913622321,0 4.85561507151795,45.6858888301185,0 4.85568915533133,45.6858867989848,0 4.85602616321967,45.685543381463,0 4.85610306150297,45.6853800724603,0 4.85606900478448,45.6852267884562,0 4.85594000136855,45.6851086662661,0 4.85560373860042,45.6850028757894,0 4.85546570325925,45.6849334513749,0 4.85534551927801,45.68484067399501,0 4.85526539899861,45.684727780779,0 4.85521462851883,45.6846048563367,0 4.85521165154991,45.6845045637431,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.1140">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69276000AP0165</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">FEYZIN</SimpleData>
+					<SimpleData name="Adresse">LES ROUSSETTES</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6831914409406 </north>
+			<south> 45.6830922935868 </south>
+			<east> 4.86430182380698 </east>
+			<west> 4.86391971090129 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.8640850964482,45.6831189205455,0 4.86391971090129,45.6830922935868,0 4.86392000071818,45.6831161582675,0 4.86429122290455,45.6831914409406,0 4.86430182380698,45.6831513629124,0 4.86417460241194,45.6831323013186,0 4.86413146547862,45.6831258994519,0 4.8640850964482,45.6831189205455,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.1424">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69276000BN0002</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">FEYZIN</SimpleData>
+					<SimpleData name="Adresse">ILE LOUIS LUMIERE</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">COMPAGNIE NATIONALE DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.67641737292411 </north>
+			<south> 45.6699554435349 </south>
+			<east> 4.83930081051956 </east>
+			<west> 4.83614688280654 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.83930081051956,45.67641737292411,0 4.839266813755,45.6760942065394,0 4.83925951066997,45.6760252399813,0 4.83923819298633,45.6758206725395,0 4.83923386314215,45.6757793097703,0 4.83922107686016,45.6756574699635,0 4.8391786959222,45.6749853184161,0 4.83912139431111,45.6740729162726,0 4.83910163373995,45.6737605063239,0 4.83908628500067,45.67351512854511,0 4.83907758400955,45.67337700894381,0 4.83907004284403,45.6732583261202,0 4.83906037937071,45.6731028381966,0 4.83905215968134,45.6729714661971,0 4.83902864585644,45.672600209985,0 4.83899862239718,45.6721219635843,0 4.83897680678616,45.6717747290899,0 4.83896524615333,45.6715930609963,0 4.83901755043669,45.67158959473309,0 4.83900282047811,45.6712274726148,0 4.83899264189071,45.67097912813081,0 4.83897342415844,45.67050899203009,0 4.83890417098259,45.6705088619381,0 4.83889412242718,45.6703378878272,0 4.83887178078384,45.6699554435349,0 4.83886961882471,45.6699561093486,0 4.83614688280654,45.6708480320286,0 4.83616188938334,45.67112611189,0 4.83617795031041,45.6714204777203,0 4.83628371134823,45.67314832883531,0 4.836440371193,45.6756625856769,0 4.83659798098871,45.67575026834561,0 4.83667994277753,45.6757924368068,0 4.83670144863545,45.6758016337804,0 4.83672587527896,45.6758097923146,0 4.83678912947405,45.6758264149309,0 4.83686883631969,45.67584321952841,0 4.83688767524013,45.675849487566,0 4.83699977141879,45.6759053057076,0 4.83700913415705,45.6759086658232,0 4.83719970000522,45.67592077952129,0 4.83721514629003,45.675925481541,0 4.83722761502084,45.6759295115512,0 4.83724152027624,45.675934238707,0 4.83725601392551,45.6759412080805,0 4.83742636456287,45.6760797530179,0 4.83743903349585,45.676085941485,0 4.83745881035795,45.6760933650724,0 4.83747655641826,45.6761015423723,0 4.83749834317551,45.67610758206891,0 4.83750337247464,45.6761081305206,0 4.83751987896966,45.6761099328738,0 4.83754056365031,45.6761137387254,0 4.83793761218127,45.6761374340535,0 4.83796477755637,45.6761390623908,0 4.83814365743996,45.6761319995797,0 4.83819065331115,45.6761349255051,0 4.83820766454605,45.6761364493014,0 4.83825839388891,45.676147330736,0 4.83828397370415,45.67615538004329,0 4.83848405672197,45.6762566884265,0 4.83877926362562,45.67628573627171,0 4.8388441110729,45.6763077361069,0 4.83894261429945,45.67634107596481,0 4.83899425808331,45.6763562656357,0 4.83904356917431,45.676366989736,0 4.83930081051956,45.67641737292411,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.2099">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69276000BI0003</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">FEYZIN</SimpleData>
+					<SimpleData name="Adresse">18, ALL DU RHONE</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">COMPAGNIE NATIONALE DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6679525389336 </north>
+			<south> 45.6668080701406 </south>
+			<east> 4.83597670520199 </east>
+			<west> 4.83529208826708 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.83564558126437,45.6668080701406,0 4.83529208826708,45.6668289644799,0 4.83531212102852,45.66733628724699,0 4.83559030393744,45.6676476375039,0 4.83597670520199,45.6679525389336,0 4.83597557050516,45.6679338223247,0 4.83564558126437,45.6668080701406,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.2581">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69276000AS0364</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">FEYZIN</SimpleData>
+					<SimpleData name="Adresse">1, RUE VICTOR HUGO</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">MINISTERE ECOLOGIE DEVELOPPEMENT TRANSPORTS LOGEMENT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.67507933821049 </north>
+			<south> 45.6750234248701 </south>
+			<east> 4.86087767073173 </east>
+			<west> 4.86081567567684 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.86081567567684,45.6750263844822,0 4.86082169621359,45.67507933821049,0 4.86087767073173,45.67507796294279,0 4.86086941257693,45.6750234248701,0 4.86081567567684,45.6750263844822,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.2798">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69276000BI0004</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">FEYZIN</SimpleData>
+					<SimpleData name="Adresse">ILE LOUIS LUMIERE</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">COMPAGNIE NATIONALE DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6708480320286 </north>
+			<south> 45.6666198703589 </south>
+			<east> 4.83886961882471 </east>
+			<west> 4.83564558126437 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.83886961882471,45.6699561093486,0 4.83886038676836,45.66980583864081,0 4.83884802539877,45.6696000441605,0 4.83882825242073,45.6692755647833,0 4.83871584135382,45.6674309096268,0 4.83871042327933,45.6673412856788,0 4.83868032393267,45.6668451162569,0 4.83867868035786,45.6668188418645,0 4.83867284113838,45.6667242707992,0 4.83866770317611,45.6666198703589,0 4.83727161889482,45.6666925586871,0 4.8372651958265,45.6666848271676,0 4.83666504562313,45.6667250625177,0 4.83666272577057,45.66674806888379,0 4.83564558126437,45.6668080701406,0 4.83597557050516,45.6679338223247,0 4.83597670520199,45.6679525389336,0 4.83597898952811,45.6679904222711,0 4.83613170017304,45.6705607676325,0 4.83614688280654,45.6708480320286,0 4.83886961882471,45.6699561093486,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.3202">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69276000ZE0053</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">FEYZIN</SimpleData>
+					<SimpleData name="Adresse">LE PIN</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">FRANCE DOMAINE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6660138395444 </north>
+			<south> 45.66584093640049 </south>
+			<east> 4.88219957569928 </east>
+			<west> 4.88195399418977 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.88198922933155,45.6660138395444,0 4.88219957569928,45.6659887058658,0 4.88216474661995,45.66584093640049,0 4.88195399418977,45.6658654462926,0 4.88198922933155,45.6660138395444,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

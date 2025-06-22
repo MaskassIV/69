@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>LE BREUIL_DEPT</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_3">
+		<name>LE BREUIL_DEPT</name>
+		<Schema name="LE BREUIL_DEPT" id="LE BREUIL_DEPT.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="DEPT">
+			<LineStyle>
+				<color>BF63f16c</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C63f16c</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.432">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690260000B1025</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LE BREUIL</SimpleData>
+					<SimpleData name="Adresse">GOUTTES DE GLAY</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8783273719167 </north>
+			<south> 45.87768531686739 </south>
+			<east> 4.60333295607021 </east>
+			<west> 4.60301844707795 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.60327177664081,45.87768531686739,0 4.60321849761219,45.8777555148208,0 4.60315223781422,45.87790704793029,0 4.60311913785795,45.8779572347915,0 4.60308980730097,45.8780084489977,0 4.60306424876934,45.8780607805827,0 4.60304270698362,45.8781137757396,0 4.60304150959842,45.8781169450931,0 4.60302993747971,45.8781535866586,0 4.60302224539518,45.8781906235372,0 4.60301869115024,45.8782280520739,0 4.60301844707795,45.8782418359069,0 4.60302042241725,45.878260992333,0 4.60302650944032,45.87827964011049,0 4.60303644511871,45.87829760283351,0 4.60305020851827,45.8783141602555,0 4.60306490628198,45.8783273719167,0 4.60306809866679,45.87829967583129,0 4.60307531701561,45.8782640867524,0 4.60308667582284,45.8782289793597,0 4.60309923854573,45.8781997993659,0 4.60314154606614,45.8781292166736,0 4.60318807769114,45.87806199663011,0 4.60333295607021,45.8778646747549,0 4.60327177664081,45.87768531686739,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.434">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690260000B1027</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LE BREUIL</SimpleData>
+					<SimpleData name="Adresse">LES PLACES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8785740427003 </north>
+			<south> 45.8781231109003 </south>
+			<east> 4.60341298625036 </east>
+			<west> 4.60314434546883 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.60326722550095,45.8781231109003,0 4.60322233819548,45.8781892268418,0 4.60318134915949,45.87825636828921,0 4.60316883487429,45.8782783421823,0 4.60314679582907,45.8783319748865,0 4.60314434546883,45.8783585796374,0 4.60314589360021,45.8783852177476,0 4.60315168494082,45.8784114354073,0 4.6031606385714,45.8784355366581,0 4.60317036166546,45.878450620216,0 4.60318391248655,45.8784642984684,0 4.60320037565304,45.8784761340579,0 4.60320063868685,45.8784763104629,0 4.60324983976693,45.8785053350085,0 4.6033016797322,45.87853198034139,0 4.6033510765222,45.8785544271194,0 4.60340322799423,45.8785740427003,0 4.60341298625036,45.8785459832642,0 4.60336755978313,45.8785181661964,0 4.6033249115621,45.87848832821269,0 4.60330115733917,45.878469660836,0 4.60327861359907,45.8784482742516,0 4.60325950827799,45.87842539780961,0 4.60324422807102,45.87840102602711,0 4.60323240459915,45.8783757946048,0 4.60322715109308,45.8783592065746,0 4.60321835578024,45.87833168050721,0 4.60321354587703,45.8783037376427,0 4.6032126383056,45.87828582702391,0 4.60322179132896,45.87824138385081,0 4.60323495852291,45.8781975142171,0 4.60325213987828,45.8781542181215,0 4.60326722550095,45.8781231109003,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2054">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690260000A0019</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LE BREUIL</SimpleData>
+					<SimpleData name="Adresse">LES PRES DU BREUIL</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8929615776938 </north>
+			<south> 45.8927527281989 </south>
+			<east> 4.5982100021896 </east>
+			<west> 4.59782528525227 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.59782528525227,45.8929279431589,0 4.59783237551597,45.8929322562782,0 4.59787414613,45.8929582359481,0 4.59788623871332,45.8929615776938,0 4.59791487037184,45.8929481132465,0 4.59806565856808,45.89285033024561,0 4.5982100021896,45.8927527281989,0 4.59816225520125,45.8927742087363,0 4.59811620623631,45.8927919724772,0 4.59804012781154,45.8928150242828,0 4.59796579591353,45.8928404831805,0 4.59795111994853,45.8928459145202,0 4.59789446012693,45.892880310517,0 4.59784044413693,45.89291692081471,0 4.59782528525227,45.8929279431589,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2215">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690260000A0020</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LE BREUIL</SimpleData>
+					<SimpleData name="Adresse">LES PRES DU BREUIL</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.89327333593269 </north>
+			<south> 45.8929524259613 </south>
+			<east> 4.59783605626271 </east>
+			<west> 4.59737206793557 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.59737206793557,45.8932498540492,0 4.59740576899801,45.89327333593269,0 4.59780139951762,45.89302060008309,0 4.59782955156411,45.89299948668209,0 4.59783468910682,45.8929942802215,0 4.59783605626271,45.8929880462305,0 4.59783343169712,45.892982048785,0 4.59781871823379,45.8929683862865,0 4.59780096256051,45.89295656813089,0 4.59779833953242,45.8929550740474,0 4.59779452218214,45.8929524259613,0 4.59737206793557,45.8932498540492,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2488">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690260000A0022</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LE BREUIL</SimpleData>
+					<SimpleData name="Adresse">LES PRES DU BREUIL</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8946408224696 </north>
+			<south> 45.8943779674556 </south>
+			<east> 4.59575927806285 </east>
+			<west> 4.59540363832111 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.59540363832111,45.89454381686171,0 4.59549918957518,45.8946408224696,0 4.59557777553835,45.8945661282811,0 4.59565989470949,45.894493185527,0 4.59574503654651,45.8944221815398,0 4.59575927806285,45.89441063202689,0 4.59571886174484,45.8943779674556,0 4.59540363832111,45.89454381686171,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2609">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690260000A0023</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LE BREUIL</SimpleData>
+					<SimpleData name="Adresse">LES PRES DU BREUIL</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8948936898724 </north>
+			<south> 45.89454381686171 </south>
+			<east> 4.59549918957518 </east>
+			<west> 4.59512701739759 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.59512701739759,45.8946841720573,0 4.59532347012931,45.8948936898724,0 4.59538810133449,45.8948047818898,0 4.5954464064188,45.8946978595352,0 4.59549918957518,45.8946408224696,0 4.59540363832111,45.89454381686171,0 4.59512701739759,45.8946841720573,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3384">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690260000A0299</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LE BREUIL</SimpleData>
+					<SimpleData name="Adresse">GELICAIN</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.89816319763671 </north>
+			<south> 45.8974786895992 </south>
+			<east> 4.59017893589656 </east>
+			<west> 4.58939709502874 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.58978756823137,45.8974786895992,0 4.5895429787784,45.89761695917041,0 4.58951612277221,45.8976339991758,0 4.58951183210853,45.8976373019196,0 4.58948639532843,45.8976588253428,0 4.58946410771837,45.8976821959114,0 4.58944546948425,45.8977068661911,0 4.58943035168469,45.8977328379963,0 4.58941925972017,45.8977597439544,0 4.58941218580848,45.89778731397351,0 4.58940401097603,45.8978438111345,0 4.58940050755913,45.8979057367516,0 4.58939709502874,45.89816319763671,0 4.58998456328193,45.8980428047312,0 4.59017893589656,45.89800161265931,0 4.58978756823137,45.8974786895992,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.5377">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690260000A0603</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LE BREUIL</SimpleData>
+					<SimpleData name="Adresse">LA GRANDE BORNE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.89170495908811 </north>
+			<south> 45.89102961527569 </south>
+			<east> 4.60068627677806 </east>
+			<west> 4.60009915957618 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.60062502296959,45.89102961527569,0 4.60020278859946,45.8913380395072,0 4.60013216135254,45.8913266097322,0 4.6001287935047,45.8913261169892,0 4.60009915957618,45.8913583302906,0 4.60010588558112,45.8915634094157,0 4.60011198673049,45.89164474430861,0 4.60012121543009,45.89170495908811,0 4.60034283827596,45.8915726652503,0 4.60068627677806,45.8914023491356,0 4.60063215606918,45.8910709454588,0 4.60062502296959,45.89102961527569,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.5681">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690260000A0666</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LE BREUIL</SimpleData>
+					<SimpleData name="Adresse">SOUS LES VIGNES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8922175723419 </north>
+			<south> 45.8913583302906 </south>
+			<east> 4.60012121543009 </east>
+			<west> 4.59911904984434 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.59911904984434,45.8922175723419,0 4.59916406326568,45.892190816056,0 4.59922973470111,45.8921514282825,0 4.59932515907727,45.8920927954596,0 4.59940073282274,45.8920479535177,0 4.59946881704411,45.8920072705217,0 4.59952874528239,45.8919744486907,0 4.599590888787,45.8919424060959,0 4.59966992925699,45.8919014779027,0 4.59978330546624,45.8918436715046,0 4.59982604792819,45.8918275750715,0 4.59987092993493,45.8918096469925,0 4.59994137074127,45.8917835213305,0 4.60001319052448,45.8917560250933,0 4.60009165191218,45.8917262731917,0 4.60012121543009,45.89170495908811,0 4.60011198673049,45.89164474430861,0 4.60010588558112,45.8915634094157,0 4.60009915957618,45.8913583302906,0 4.59992103289821,45.89155827951079,0 4.59989215662889,45.8915899416269,0 4.59986026790243,45.8916200251423,0 4.59983254854262,45.8916426640985,0 4.59911904984434,45.8922175723419,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.5722">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690260000A0671</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LE BREUIL</SimpleData>
+					<SimpleData name="Adresse">LA GRANDE BORNE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8914023491356 </north>
+			<south> 45.8909408118973 </south>
+			<east> 4.60121903954122 </east>
+			<west> 4.60063215606918 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.60104828878448,45.890965618701,0 4.60063215606918,45.8910709454588,0 4.60068627677806,45.8914023491356,0 4.60113774817442,45.89117249846149,0 4.60121903954122,45.89115585557479,0 4.60118454693978,45.8909408118973,0 4.60104828878448,45.890965618701,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.5731">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690260000A0674</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LE BREUIL</SimpleData>
+					<SimpleData name="Adresse">LA GRANDE BORNE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.89115585557479 </north>
+			<south> 45.8908823324097 </south>
+			<east> 4.60152086497448 </east>
+			<west> 4.60118454693978 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.60118454693978,45.8909408118973,0 4.60121903954122,45.89115585557479,0 4.60152086497448,45.8910939372999,0 4.60149795048206,45.8908823324097,0 4.60118454693978,45.8909408118973,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.5740">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690260000B0676</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LE BREUIL</SimpleData>
+					<SimpleData name="Adresse">GOUTTES DE GLAY</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8778646747549 </north>
+			<south> 45.87762879474531 </south>
+			<east> 4.60351655799338 </east>
+			<west> 4.60327177664081 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.60327177664081,45.87768531686739,0 4.60333295607021,45.8778646747549,0 4.60341813669147,45.8777518724968,0 4.60350683908306,45.8776404612952,0 4.60351655799338,45.87762879474531,0 4.60327177664081,45.87768531686739,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

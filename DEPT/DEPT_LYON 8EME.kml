@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>LYON 8EME_DEPT</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_3">
+		<name>LYON 8EME_DEPT</name>
+		<Schema name="LYON 8EME_DEPT" id="LYON 8EME_DEPT.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="DEPT">
+			<LineStyle>
+				<color>BF63f16c</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C63f16c</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6836">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69388000CI0104</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LYON 8EME</SimpleData>
+					<SimpleData name="Adresse">63, RUE PIERRE DELORE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.73282374177991 </north>
+			<south> 45.7325818454614 </south>
+			<east> 4.85891089958441 </east>
+			<west> 4.85869328805626 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>4.85891089958441,45.7326235423166,15 4.85881213113164,45.7325818454614,15 4.85869328805626,45.7327808861109,15 4.85878733671484,45.73282374177991,15 4.85891089958441,45.7326235423166,15</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6837">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69388000CM0017</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LYON 8EME</SimpleData>
+					<SimpleData name="Adresse">348, RTE DE VIENNE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7204275778091 </north>
+			<south> 45.7192957684633 </south>
+			<east> 4.85432447355481 </east>
+			<west> 4.85134649335409 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>4.85146499655907,45.7192957684633,15 4.85146500560109,45.7192960385349,15 4.85141297725761,45.7198698500611,15 4.85139876312551,45.7199484474033,15 4.85136261696773,45.7201900775549,15 4.85135161766898,45.7202648390008,15 4.85134649335409,45.7202923054846,15 4.85192540689477,45.72033422678691,15 4.85420784458769,45.7204275778091,15 4.85420952932616,45.720397285406,15 4.85375682167425,45.7203801420238,15 4.85336682221582,45.7203654785538,15 4.85339053713129,45.7203210426719,15 4.85349912578058,45.7201193839994,15 4.85351363107452,45.7200917631294,15 4.85354976874216,45.720022803084,15 4.85378675661716,45.7200302547178,15 4.85393749646507,45.72003498119231,15 4.85415570524462,45.7200422905786,15 4.85426512944995,45.7200458948154,15 4.85427217381715,45.7199721888951,15 4.85428697370561,45.7198153076388,15 4.85430334081594,45.719643808694,15 4.85432447355481,45.7194226909315,15 4.85387026355256,45.71940269050329,15 4.85381411423666,45.71940019126891,15 4.85359349510241,45.719389948481,15 4.85354339227674,45.7193875298181,15 4.85310256700057,45.71936784662629,15 4.85281937894708,45.719355388405,15 4.85214933379932,45.7193258683601,15 4.85146499655907,45.7192957684633,15</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6849">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69388000CM0016</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LYON 8EME</SimpleData>
+					<SimpleData name="Adresse">9001, RUE SURVILLE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7251942920095 </north>
+			<south> 45.7192543150698 </south>
+			<east> 4.85420784458769 </east>
+			<west> 4.84862746996679 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>4.84863006806286,45.72479957571449,15 4.84862746996679,45.72481033705291,15 4.84895397862542,45.7249329759669,15 4.84919003183654,45.72494648784859,15 4.84980929060665,45.7249820842975,15 4.85076498141417,45.72503701415641,15 4.85077747924926,45.7250377096847,15 4.85083326060555,45.7250405768598,15 4.85382845076847,45.7251942920095,15 4.8538265642978,45.7251840546571,15 4.85385101843435,45.7248777628969,15 4.85386371300604,45.724719385064,15 4.85388468048713,45.7244471984222,15 4.85399894234959,45.7230222480568,15 4.85408849003903,45.7219035936871,15 4.85420784458769,45.7204275778091,15 4.85192540689477,45.72033422678691,15 4.85134649335409,45.7202923054846,15 4.85135161766898,45.7202648390008,15 4.85136261696773,45.7201900775549,15 4.85139876312551,45.7199484474033,15 4.85141297725761,45.7198698500611,15 4.85146500560109,45.7192960385349,15 4.85146499655907,45.7192957684633,15 4.85052284262786,45.7192543150698,15 4.8504643314672,45.719899840765,15 4.85044815091337,45.7199273986491,15 4.85034619447898,45.7201239012141,15 4.84963298813668,45.7200229258958,15 4.84963263870519,45.7200240125104,15 4.84962412081266,45.7200500033456,15 4.84957333055256,45.7202077446054,15 4.84956807699972,45.720223683726,15 4.8493262418662,45.72132483541309,15 4.8492398496704,45.722063863517,15 4.84910825067872,45.7228855098645,15 4.84895682686828,45.7235143639712,15 4.84863006806286,45.72479957571449,15</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

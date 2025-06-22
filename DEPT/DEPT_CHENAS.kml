@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>CHENAS_DEPT</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_3">
+		<name>CHENAS_DEPT</name>
+		<Schema name="CHENAS_DEPT" id="CHENAS_DEPT.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="DEPT">
+			<LineStyle>
+				<color>BF63f16c</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C63f16c</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2280">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690530000B0203</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHENAS</SimpleData>
+					<SimpleData name="Adresse">AU BOIS RETOUR</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.22741672161009 </north>
+			<south> 46.22696335521739 </south>
+			<east> 4.71397211270819 </east>
+			<west> 4.71336110266607 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.71397211270819,46.22696335521739,0 4.71375336662045,46.22704816366331,0 4.71346960630442,46.2271455699339,0 4.71340936599481,46.22717385838221,0 4.71338219450544,46.2272055217033,0 4.71336110266607,46.2272905045675,0 4.71336461766716,46.2273697126464,0 4.71341293727948,46.22741672161009,0 4.71397211270819,46.22696335521739,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3241">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690530000B0286</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHENAS</SimpleData>
+					<SimpleData name="Adresse">LES BRUREAUX</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.22448957898639 </north>
+			<south> 46.22385606984971 </south>
+			<east> 4.7161811781808 </east>
+			<west> 4.71565196713061 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.71600467615706,46.22448957898639,0 4.7161811781808,46.22385606984971,0 4.71590285607586,46.2238654026468,0 4.71583114159863,46.223879364368,0 4.71573839167323,46.22390949555449,0 4.71571013483544,46.2239312682192,0 4.71565439845608,46.22404937928639,0 4.71565196713061,46.2241085014997,0 4.71573692749485,46.2242523218755,0 4.71575169431639,46.224276327815,0 4.71578358010697,46.22427926949651,0 4.71582420641029,46.2243665644476,0 4.71600467615706,46.22448957898639,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.4969">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690530000B0524</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHENAS</SimpleData>
+					<SimpleData name="Adresse">AU REMONT</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.2215765605101 </north>
+			<south> 46.2209619486832 </south>
+			<east> 4.68155876314804 </east>
+			<west> 4.68101361679386 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.68106825696759,46.2209619486832,0 4.68101361679386,46.22097851822831,0 4.68105256381584,46.2211187198431,0 4.68102737826513,46.221190246257,0 4.68105188811739,46.2212574354695,0 4.68114958690245,46.22134164674931,0 4.6812169996977,46.2214580097472,0 4.68127401222272,46.2214933746277,0 4.68143369242495,46.2215380300698,0 4.68153245607951,46.2215765605101,0 4.68155876314804,46.2215542849277,0 4.68134495848371,46.2214372940221,0 4.68125532624514,46.2213749404109,0 4.68120496109874,46.22131092552461,0 4.68115760367427,46.2212307438833,0 4.68113452820406,46.22114263757629,0 4.68110681635751,46.2210429809405,0 4.68106825696759,46.2209619486832,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.4971">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690530000B0525</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHENAS</SimpleData>
+					<SimpleData name="Adresse">AU REMONT</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.222540255811 </north>
+			<south> 46.22186311472671 </south>
+			<east> 4.68291145206881 </east>
+			<west> 4.68190095265895 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.68291145206881,46.222540255811,0 4.6828377474677,46.2224684807441,0 4.68259484939405,46.2221902493425,0 4.68251693238463,46.22213339771439,0 4.68210155437743,46.221896536061,0 4.68190095265895,46.22186311472671,0 4.68206397140132,46.2219868902543,0 4.68219405816628,46.2220777371387,0 4.68226485128071,46.2221181217165,0 4.6824903045218,46.22219593893931,0 4.68256522667381,46.2222397749364,0 4.68256900301614,46.2222613355458,0 4.68260561800616,46.2223042970656,0 4.68274206699677,46.2224881801934,0 4.68291145206881,46.222540255811,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.5090">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690530000B0552</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHENAS</SimpleData>
+					<SimpleData name="Adresse">AU BOIS RETOUR</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.2275924192336 </north>
+			<south> 46.22696335521739 </south>
+			<east> 4.71397211270819 </east>
+			<west> 4.71341293727948 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.71397211270819,46.22696335521739,0 4.71341293727948,46.22741672161009,0 4.71358818090464,46.2275924192336,0 4.71374700847965,46.2273344998526,0 4.71397211270819,46.22696335521739,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.5098">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690530000B0554</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHENAS</SimpleData>
+					<SimpleData name="Adresse">AU BOIS RETOUR</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.22791316049491 </north>
+			<south> 46.2273697126464 </south>
+			<east> 4.71358818090464 </east>
+			<west> 4.71336461766716 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.71358818090464,46.2275924192336,0 4.71341293727948,46.22741672161009,0 4.71336461766716,46.2273697126464,0 4.71340998349387,46.2277621820236,0 4.71340181189212,46.2278577786037,0 4.71339056583864,46.22791316049491,0 4.71358818090464,46.2275924192336,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

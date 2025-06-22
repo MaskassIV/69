@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>EVEUX_HLM</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_5">
+		<name>EVEUX_HLM</name>
+		<Schema name="EVEUX_HLM" id="EVEUX_HLM.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="HLM">
+			<LineStyle>
+				<color>BFe451f5</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4Ce451f5</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.164">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69083000AL0042</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">EVEUX</SimpleData>
+					<SimpleData name="Adresse">LES MARTINETS</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8253128190124 </north>
+			<south> 45.8248320232712 </south>
+			<east> 4.6113147879549 </east>
+			<west> 4.61083644978215 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.61083644978215,45.8248714655405,0 4.6113147879549,45.8253128190124,0 4.61120503515409,45.8249379913922,0 4.61103457255047,45.8248753943648,0 4.61099539902671,45.8248618125587,0 4.61089906837874,45.8248320232712,0 4.61083644978215,45.8248714655405,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.488">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69083000AC0106</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">EVEUX</SimpleData>
+					<SimpleData name="Adresse">35, ALL DES EGLANTIERS</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8275130214669 </north>
+			<south> 45.82709967462739 </south>
+			<east> 4.62668879218394 </east>
+			<west> 4.6261641189455 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.62664537751977,45.82719945919381,0 4.62662370305473,45.82718968374461,0 4.62642573906643,45.82709967462739,0 4.6261641189455,45.82736779233979,0 4.6262536711746,45.8274075739066,0 4.62641537652334,45.8274737871092,0 4.6265554160461,45.8275130214669,0 4.62667780843029,45.8273294108509,0 4.62668879218394,45.8273130403596,0 4.62668814298125,45.8273128695744,0 4.6266830675258,45.8273111413172,0 4.62667785267823,45.82730905479471,0 4.62667301886202,45.8273067826472,0 4.62666831382541,45.8273045086445,0 4.62666372695521,45.82730187266671,0 4.6266595237697,45.827299141094,0 4.62665531793134,45.8272963194911,0 4.6266513643452,45.82729331411811,0 4.62664778913718,45.8272900330904,0 4.62664434270873,45.8272867502076,0 4.62664115118572,45.8272833735849,0 4.62663834069401,45.82727981133741,0 4.62663565632854,45.827276157205,0 4.62663335564754,45.8272724074778,0 4.62663131252506,45.82726865404079,0 4.6266295216546,45.82726471683401,0 4.62662824590074,45.8272607722076,0 4.62662696749384,45.8272567375512,0 4.62662620950984,45.8272528755353,0 4.62662570377763,45.8272488297496,0 4.62662532682455,45.82724478210899,0 4.62662546498768,45.82724072704891,0 4.62662573192982,45.82723667013401,0 4.62662651133479,45.8272325157695,0 4.62662755360411,45.82722853775519,0 4.62662872465229,45.8272245578861,0 4.6266304134695,45.82722066062739,0 4.62663235984444,45.8272167596589,0 4.62663444030455,45.8272130368956,0 4.62663690710128,45.8272093085675,0 4.62663963676208,45.8272057565895,0 4.62664262398043,45.8272022009018,0 4.62664537751977,45.82719945919381,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.753">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69083000AC0121</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">EVEUX</SimpleData>
+					<SimpleData name="Adresse">PETEZAN</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.82736779233979 </north>
+			<south> 45.8270850958551 </south>
+			<east> 4.62642573906643 </east>
+			<west> 4.62606891111764 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.6261641189455,45.82736779233979,0 4.62642573906643,45.82709967462739,0 4.62642404106712,45.82709888846771,0 4.62639361647775,45.8270850958551,0 4.62635421888793,45.82710782001639,0 4.62629570194708,45.8271418978873,0 4.62609630387903,45.8272480774171,0 4.626095420992,45.8272487206072,0 4.62609440667351,45.8272492756215,0 4.62609352378644,45.82724991881151,0 4.62609264089935,45.8272505620015,0 4.62609175801224,45.8272512051916,0 4.62609074369367,45.8272517602059,0 4.62608998958561,45.8272524015416,0 4.62608923547752,45.8272530428774,0 4.62608835259033,45.82725368606741,0 4.62608747235547,45.8272544192874,0 4.62608671824732,45.8272550606231,0 4.62608596413916,45.8272557019589,0 4.62608508390423,45.8272564351789,0 4.62608433244838,45.8272571665446,0 4.62608357834016,45.82725780788029,0 4.62608282688426,45.827258539246,0 4.62608220420745,45.82725926875751,0 4.62608145275152,45.8272600001232,0 4.62608070129556,45.8272607314889,0 4.6260800786187,45.82726146100039,0 4.62607946124648,45.8272623705718,0 4.62607896734869,45.827263098229,0 4.62607834467177,45.82726382774051,0 4.62607772464717,45.8272646472819,0 4.62607710462255,45.8272654668234,0 4.6260766107247,45.8272661944806,0 4.62607599070004,45.827267014022,0 4.62607549945449,45.8272678317092,0 4.62607500820893,45.8272686493964,0 4.62607451696335,45.8272694670836,0 4.62607402571775,45.8272702847707,0 4.62607366325127,45.8272711006037,0 4.62607317200565,45.8272719182909,0 4.62607280953915,45.82727273412381,0 4.62607244707263,45.8272735499567,0 4.62607208460611,45.8272743657896,0 4.6260717247919,45.8272752716526,0 4.62607149110449,45.8272760856313,0 4.62607113129025,45.8272769914942,0 4.62607089760283,45.82727780547291,0 4.62607053778858,45.8272787113359,0 4.62607030410114,45.82727952531449,0 4.62607007306602,45.8272804293232,0 4.62606983937857,45.8272812433019,0 4.62606960834342,45.8272821473106,0 4.62606950608744,45.827283049465,0 4.62606940117912,45.82728386158939,0 4.62606929892313,45.8272847637439,0 4.62606919666713,45.8272856658984,0 4.62606909175881,45.8272864780228,0 4.6260689895028,45.8272873801772,0 4.62606901337365,45.8272881904474,0 4.62606891111764,45.8272890926019,0 4.62606893498848,45.827289902872,0 4.62606896151164,45.8272908031723,0 4.6260689880348,45.8272917034725,0 4.62606901455797,45.82729260377269,0 4.62606904108113,45.8272935040729,0 4.62606932251035,45.82729431063459,0 4.6260694778127,45.8272952090805,0 4.62606950433587,45.8272961093807,0 4.62606965963824,45.82729700782671,0 4.62606981228829,45.8272978162426,0 4.62607009636986,45.8272987128343,0 4.62607025167224,45.82729961128031,0 4.62607053310151,45.827300417842,0 4.6260708171831,45.8273013144337,0 4.6260709724855,45.8273022128797,0 4.62607138269399,45.82730301758709,0 4.62607166677561,45.82730391417879,0 4.62607207698413,45.8273047188863,0 4.62607248984498,45.8273056136237,0 4.62607277127431,45.82730642018539,0 4.62607318148286,45.8273072248928,0 4.62607359434375,45.8273081196303,0 4.62607400455233,45.8273089243377,0 4.62607441476092,45.8273097290452,0 4.62607495374874,45.8273105318983,0 4.62607536660968,45.8273114266358,0 4.62607590559753,45.827312229489,0 4.6260764445854,45.8273130323421,0 4.62607698092096,45.8273137451653,0 4.62607751990886,45.82731454801841,0 4.626078187676,45.8273153490174,0 4.62607885544317,45.8273161500163,0 4.62607939443112,45.8273169528694,0 4.62608005954599,45.82731766383829,0 4.62608072466087,45.8273183748072,0 4.62608138977578,45.8273190857761,0 4.62613761865843,45.8273560147179,0 4.62616085436969,45.8273663081883,0 4.6261641189455,45.82736779233979,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.879">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69083000AO0130</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">EVEUX</SimpleData>
+					<SimpleData name="Adresse">50, ALL DES AUBEPINES</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.82868431710139 </north>
+			<south> 45.8281977615062 </south>
+			<east> 4.62369798321603 </east>
+			<west> 4.62308672913877 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.62335238796165,45.8286317304476,0 4.62369798321603,45.8284803114289,0 4.62365987566968,45.82842870984409,0 4.62351424385869,45.82820374168449,0 4.62351046055117,45.8281977615062,0 4.62311257965987,45.8283674046581,0 4.623190368964,45.8284628396827,0 4.62308672913877,45.82850476982971,0 4.62323424509527,45.82868431710139,0 4.62335238796165,45.8286317304476,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2624">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69083000AM0030</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">EVEUX</SimpleData>
+					<SimpleData name="Adresse">BIGOUT</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.82646803499409 </north>
+			<south> 45.8252488603904 </south>
+			<east> 4.61169031480775 </east>
+			<west> 4.61132634654679 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.61153012581313,45.8252488603904,0 4.61132636987648,45.825352103478,0 4.61133558917449,45.8253854771755,0 4.61133494005472,45.82539413295199,0 4.61132869332031,45.825528783467,0 4.61132634654679,45.82560285273311,0 4.61133161857706,45.8256819471586,0 4.6113460470554,45.82587610772951,0 4.61136572376009,45.825976432771,0 4.611389282261,45.8260861595471,0 4.61144069355375,45.8262099898084,0 4.6114722520647,45.8262671829187,0 4.61150093283371,45.8263184726069,0 4.61150916162705,45.8263576247729,0 4.6115126073854,45.8264226946701,0 4.61154162989713,45.82646803499409,0 4.61167893513772,45.8263699731224,0 4.61169031480775,45.8263626052881,0 4.61152604855699,45.8260888014175,0 4.6114852154292,45.82600517065019,0 4.61146143616567,45.8259364279207,0 4.61145022178431,45.8258479611666,0 4.61144393245604,45.8257560916233,0 4.61145129872616,45.8256862739837,0 4.61145878069271,45.8256380709798,0 4.61146761606278,45.8255788603832,0 4.61147433323247,45.825530938495,0 4.61148988847161,45.8254547893143,0 4.61151124370659,45.8253566708731,0 4.61153186047523,45.825277387149,0 4.61153402066912,45.8252631255996,0 4.61153401536752,45.8252541188889,0 4.61153012581313,45.8252488603904,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2714">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69083000AM0031</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">EVEUX</SimpleData>
+					<SimpleData name="Adresse">830, CHE DE LA RIVIERE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8263371633299 </north>
+			<south> 45.8252039862579 </south>
+			<east> 4.6123796721995 </east>
+			<west> 4.61148710426366 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.6123796721995,45.82589008627279,0 4.61214004965991,45.8256519452347,0 4.61206143554594,45.82562451596049,0 4.61201536213896,45.82558203113599,0 4.61199843940694,45.8255407514092,0 4.61168235866549,45.8252341684324,0 4.6116703981436,45.8252039862579,0 4.61163942663027,45.8252242431986,0 4.61162794995725,45.8252326932295,0 4.61161754290948,45.8252424790124,0 4.61160687045042,45.8252564117037,0 4.61159758559559,45.82526933384499,0 4.61158901295503,45.8252845875861,0 4.6115806820882,45.8252992974689,0 4.61157380717121,45.8253153375916,0 4.61157023043443,45.8253252060316,0 4.61156571812409,45.8253383302659,0 4.61153966927594,45.825438947531,0 4.61151400154738,45.8255702724923,0 4.61149751356888,45.8256983140769,0 4.61148872032319,45.82577220513711,0 4.61148783736395,45.82579050151341,0 4.61148749579361,45.8258096908427,0 4.61148710426366,45.8258227562702,0 4.61149022390049,45.8258457691268,0 4.61149327784702,45.8258709445495,0 4.61149795596784,45.8258987988313,0 4.61150238438639,45.825918100229,0 4.611506040149,45.8259374126524,0 4.61151144884417,45.8259549887719,0 4.61152502838181,45.8259920830871,0 4.61154482078617,45.82603458288149,0 4.6115596644523,45.82606643521741,0 4.61157206921004,45.8260897659088,0 4.61158871575713,45.8261171791878,0 4.61171855891791,45.8263371633299,0 4.61175303689428,45.8263134337516,0 4.61234357545555,45.8258936639553,0 4.6123796721995,45.82589008627279,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.3246">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69083000AL0039</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">EVEUX</SimpleData>
+					<SimpleData name="Adresse">LES MARTINETS</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8249063768408 </north>
+			<south> 45.8241042040747 </south>
+			<east> 4.61083644978215 </east>
+			<west> 4.60978500019152 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.61025028458621,45.82438129982581,0 4.61024488408353,45.8243772337127,0 4.60986723914958,45.8241191696257,0 4.60984296990095,45.8241042040747,0 4.60978500019152,45.82414844315,0 4.60998689649148,45.82427742419041,0 4.61016887077737,45.8244035365705,0 4.61026632948086,45.82448086619409,0 4.61034883513704,45.824549041916,0 4.61055321724521,45.8247145540805,0 4.61064942602777,45.8247975754901,0 4.61070948404517,45.8248513900655,0 4.61075128006027,45.8248886224068,0 4.61076944755978,45.8249063768408,0 4.61083644978215,45.8248714655405,0 4.61074953328411,45.8247934456103,0 4.61067838245168,45.8247303321502,0 4.61061398837714,45.8246736071647,0 4.61053438095179,45.8246032286671,0 4.61049603059708,45.82456927962121,0 4.61044062718738,45.824524855684,0 4.61038884257868,45.8244852437782,0 4.61032561052262,45.8244374187817,0 4.61025028458621,45.82438129982581,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.3321">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69083000AL0040</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">EVEUX</SimpleData>
+					<SimpleData name="Adresse">LES MARTINETS</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8253965766515 </north>
+			<south> 45.8248714655405 </south>
+			<east> 4.61133558917449 </east>
+			<west> 4.61076944755978 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.61076944755978,45.8249063768408,0 4.61087021133486,45.8249997809715,0 4.61092383634578,45.82504945401459,0 4.61093575448771,45.8250605424821,0 4.61109574710929,45.8252190311652,0 4.61110974151047,45.8252218037517,0 4.61120406772883,45.8252667528694,0 4.61126327267651,45.8253177872338,0 4.611302546512,45.8253965766515,0 4.61133558917449,45.8253854771755,0 4.61132636987648,45.825352103478,0 4.6113147879549,45.8253128190124,0 4.61083644978215,45.8248714655405,0 4.61076944755978,45.8249063768408,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.3389">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69083000AL0041</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">EVEUX</SimpleData>
+					<SimpleData name="Adresse">LES MARTINETS</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.825352103478 </north>
+			<south> 45.8249379913922 </south>
+			<east> 4.61153012581313 </east>
+			<west> 4.61120503515409 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.61120503515409,45.8249379913922,0 4.6113147879549,45.8253128190124,0 4.61132636987648,45.825352103478,0 4.61153012581313,45.8252488603904,0 4.61152863569109,45.82524635975479,0 4.6114476571239,45.8251952759603,0 4.6114243514499,45.825173631964,0 4.6113250711714,45.8250031090548,0 4.61130784693153,45.82498678233399,0 4.61128183977141,45.8249696802495,0 4.61126770613799,45.8249621360752,0 4.61125569334104,45.82495663319991,0 4.61120503515409,45.8249379913922,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.3494">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69083000AL0043</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">EVEUX</SimpleData>
+					<SimpleData name="Adresse">LES MARTINETS</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8248714655405 </north>
+			<south> 45.82438129982581 </south>
+			<east> 4.61094653616511 </east>
+			<west> 4.61025028458621 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.61094653616511,45.8248075682255,0 4.61042472314158,45.8244742842297,0 4.61025028458621,45.82438129982581,0 4.61032561052262,45.8244374187817,0 4.61038884257868,45.8244852437782,0 4.61044062718738,45.824524855684,0 4.61049603059708,45.82456927962121,0 4.61053438095179,45.8246032286671,0 4.61061398837714,45.8246736071647,0 4.61067838245168,45.8247303321502,0 4.61074953328411,45.8247934456103,0 4.61083644978215,45.8248714655405,0 4.61089906837874,45.8248320232712,0 4.61086518543997,45.82477900630171,0 4.61094653616511,45.8248075682255,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.3548">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69083000AL0044</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">EVEUX</SimpleData>
+					<SimpleData name="Adresse">LES MARTINETS</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.824966273763 </north>
+			<south> 45.8232791026375 </south>
+			<east> 4.61136070215363 </east>
+			<west> 4.6088247726027 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.6088247726027,45.8232791026375,0 4.60887594183357,45.8233374580957,0 4.60892493537848,45.8233918815481,0 4.6089704917553,45.82344329164901,0 4.60900120879362,45.8234761790688,0 4.60904118670058,45.8235129875761,0 4.60921677434705,45.8236720671707,0 4.60938438208636,45.823822523658,0 4.6095956556075,45.8239506511816,0 4.60978773277958,45.82406986505729,0 4.60984296990095,45.8241042040747,0 4.60986723914958,45.8241191696257,0 4.61024488408353,45.8243772337127,0 4.61025028458621,45.82438129982581,0 4.61042472314158,45.8244742842297,0 4.61094653616511,45.8248075682255,0 4.61102007382457,45.8248332693142,0 4.61118520661346,45.8248942311148,0 4.61130096403866,45.82494076579909,0 4.61134383537254,45.824966273763,0 4.61136070215363,45.8249571163748,0 4.61132976998643,45.8249036971612,0 4.61120362664989,45.82480146861949,0 4.611075470673,45.8247097165281,0 4.61093815113655,45.8246262011254,0 4.61071812511701,45.82457358765419,0 4.61050248121599,45.8244636281201,0 4.61027971697263,45.8243126987886,0 4.6101162948484,45.82413804571461,0 4.60993195777062,45.8239529725263,0 4.60963932784549,45.82376511946121,0 4.60916088430405,45.8234827304731,0 4.6088247726027,45.8232791026375,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.3623">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69083000AL0045</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">EVEUX</SimpleData>
+					<SimpleData name="Adresse">LES MARTINETS</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.82406986505729 </north>
+			<south> 45.823822523658 </south>
+			<east> 4.60978773277958 </east>
+			<west> 4.60938438208636 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.60978773277958,45.82406986505729,0 4.6095956556075,45.8239506511816,0 4.60938438208636,45.823822523658,0 4.60944750456233,45.8238798979086,0 4.60978773277958,45.82406986505729,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.3668">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69083000AL0046</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">EVEUX</SimpleData>
+					<SimpleData name="Adresse">LES MARTINETS</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.82414844315 </north>
+			<south> 45.8238176857694 </south>
+			<east> 4.60984296990095 </east>
+			<west> 4.60932582897222 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.60984296990095,45.8241042040747,0 4.60978773277958,45.82406986505729,0 4.60944750456233,45.8238798979086,0 4.60938438208636,45.823822523658,0 4.60937625387346,45.8238176857694,0 4.60932582897222,45.8238644290477,0 4.60978500019152,45.82414844315,0 4.60984296990095,45.8241042040747,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.3720">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69083000AL0047</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">EVEUX</SimpleData>
+					<SimpleData name="Adresse">LES MARTINETS</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8238644290477 </north>
+			<south> 45.8232952173699 </south>
+			<east> 4.60937625387346 </east>
+			<west> 4.60854067449671 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.60854067449671,45.8233174656336,0 4.60854885503382,45.8233241041906,0 4.60888806434191,45.8235898354844,0 4.60913647329106,45.8237501293609,0 4.60932582897222,45.8238644290477,0 4.60937625387346,45.8238176857694,0 4.60921337200465,45.82371886084609,0 4.60895353420889,45.8235509841458,0 4.60880498515741,45.8234311487804,0 4.60863668281275,45.8233009666225,0 4.60862930112797,45.8232952173699,0 4.60854067449671,45.8233174656336,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.3763">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69083000AL0048</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">EVEUX</SimpleData>
+					<SimpleData name="Adresse">LES MARTINETS</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.823822523658 </north>
+			<south> 45.8232557747667 </south>
+			<east> 4.60938438208636 </east>
+			<west> 4.60862930112797 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.60878686261419,45.8232557747667,0 4.60862930112797,45.8232952173699,0 4.60863668281275,45.8233009666225,0 4.60880498515741,45.8234311487804,0 4.60895353420889,45.8235509841458,0 4.60921337200465,45.82371886084609,0 4.60937625387346,45.8238176857694,0 4.60938438208636,45.823822523658,0 4.60921677434705,45.8236720671707,0 4.60904118670058,45.8235129875761,0 4.60900120879362,45.8234761790688,0 4.6089704917553,45.82344329164901,0 4.60892493537848,45.8233918815481,0 4.60887594183357,45.8233374580957,0 4.6088247726027,45.8232791026375,0 4.60878686261419,45.8232557747667,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.5060">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69083000AL0096</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">EVEUX</SimpleData>
+					<SimpleData name="Adresse">LES MARTINETS</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.825198331262 </north>
+			<south> 45.82493945201589 </south>
+			<east> 4.61163496120552 </east>
+			<west> 4.61134383537254 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.61136070215363,45.8249571163748,0 4.61134383537254,45.824966273763,0 4.61139291693366,45.8250368170942,0 4.6114317675773,45.8250966982538,0 4.61147510966631,45.8251603882268,0 4.61150898020142,45.8251953015621,0 4.61154913429744,45.825198331262,0 4.61163496120552,45.8251727881067,0 4.61161181578587,45.82515222267549,0 4.6114746544247,45.82501241322539,0 4.61139303758093,45.82493945201589,0 4.61136070215363,45.8249571163748,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

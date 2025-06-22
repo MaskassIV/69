@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>DEUX-GROSNES_HLM</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_5">
+		<name>DEUX-GROSNES_HLM</name>
+		<Schema name="DEUX-GROSNES_HLM" id="DEUX-GROSNES_HLM.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="HLM">
+			<LineStyle>
+				<color>BFe451f5</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4Ce451f5</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.294">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69135000AP0273</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DEUX-GROSNES</SimpleData>
+					<SimpleData name="Adresse">FONDS TALET</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.2226853418671 </north>
+			<south> 46.2222095102829 </south>
+			<east> 4.51992166486534 </east>
+			<west> 4.51885312944613 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.51885312944613,46.2226853418671,0 4.51939929997592,46.22264832638981,0 4.51992166486534,46.2225998278762,0 4.51981651848045,46.2223176185464,0 4.51905015027452,46.2222095102829,0 4.51902202868906,46.2222623035652,0 4.51894459606413,46.2224554458906,0 4.51894010119676,46.2224664938228,0 4.51885312944613,46.2226853418671,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.463">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">691352510A0104</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DEUX-GROSNES</SimpleData>
+					<SimpleData name="Adresse">320, CHE DES CHAMBOSSES</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.2744940638871 </north>
+			<south> 46.2739381669209 </south>
+			<east> 4.5553462117822 </east>
+			<west> 4.55485492370538 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.55490955894763,46.2740305627584,0 4.5549186727718,46.274031338945,0 4.55494984498539,46.27419140942231,0 4.554950623866,46.2742920016173,0 4.55494099501104,46.2743462623051,0 4.55492315085479,46.27439937427341,0 4.55490414411989,46.27443899233489,0 4.55485492370538,46.2744940638871,0 4.5553462117822,46.2743638743267,0 4.55534199208987,46.2743342104499,0 4.55532167338845,46.2742682000154,0 4.55531363680991,46.2742321936473,0 4.55529274662852,46.27413691982049,0 4.55527755996984,46.2740686777092,0 4.55526757731912,46.2740236013347,0 4.55512976183706,46.2740461087268,0 4.55513955410038,46.2739381669209,0 4.55489825954491,46.2739985637928,0 4.55490955894763,46.2740305627584,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2065">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69135000AB0233</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DEUX-GROSNES</SimpleData>
+					<SimpleData name="Adresse">241, MTE DES ESSES</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.21814200889721 </north>
+			<south> 46.2174855461816 </south>
+			<east> 4.51914397326103 </east>
+			<west> 4.51847168668697 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.5189385470216,46.2177991734946,0 4.51891710662218,46.2178027021537,0 4.51870771347174,46.2174944141915,0 4.51867710683577,46.2174855461816,0 4.51853812409072,46.2175315336174,0 4.51852233319288,46.2175375986576,0 4.51850841296518,46.2175456201478,0 4.51849661282811,46.21755523449929,0 4.51848770349603,46.21756616122861,0 4.51848167249759,46.2175779501785,0 4.51847877175029,46.2175903277919,0 4.51847866699543,46.21759122983911,0 4.51847361920436,46.2177789924117,0 4.51847168668697,46.2179668034556,0 4.51847169923624,46.21799535385,0 4.51870449230755,46.2180477257054,0 4.51876322444614,46.2180648643862,0 4.51878226808681,46.2180731662598,0 4.51879941612135,46.2180832947401,0 4.51881414475686,46.21809507669259,0 4.51881947501023,46.2181001392136,0 4.51886072778891,46.21814200889721,0 4.51893536042991,46.2181148934359,0 4.51899894352964,46.21809170821599,0 4.51914397326103,46.218039154797,0 4.51894967893908,46.2178122643698,0 4.5189385470216,46.2177991734946,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.3018">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69135000AB0352</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DEUX-GROSNES</SimpleData>
+					<SimpleData name="Adresse">28, CHE DES FRERES</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.2223176185464 </north>
+			<south> 46.22175872119519 </south>
+			<east> 4.51981651848045 </east>
+			<west> 4.51905015027452 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.51941537894379,46.22175872119519,0 4.51927235008903,46.2218089064048,0 4.51919959491291,46.22193200606921,0 4.51915335948481,46.2220100793397,0 4.51905015027452,46.2222095102829,0 4.51981651848045,46.2223176185464,0 4.51964403806924,46.2219094073193,0 4.51955576461391,46.2218705977937,0 4.51954337966996,46.2218638282484,0 4.51953714850469,46.2218590479869,0 4.51941537894379,46.22175872119519,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.3651">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69135000AC0456</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DEUX-GROSNES</SimpleData>
+					<SimpleData name="Adresse">284, RUE DU VIADUC</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.2166821742278 </north>
+			<south> 46.2163763310974 </south>
+			<east> 4.51342777444878 </east>
+			<west> 4.51282031095003 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.51341974704409,46.2166821742278,0 4.51342777444878,46.2163902575748,0 4.51283627341249,46.2163763310974,0 4.51284000555807,46.2164175311124,0 4.51282031095003,46.2166723160604,0 4.51341974704409,46.2166821742278,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.3656">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69135000AC0457</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DEUX-GROSNES</SimpleData>
+					<SimpleData name="Adresse">304, RUE DU VIADUC</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.2163902575748 </north>
+			<south> 46.21605149643881 </south>
+			<east> 4.51343167789363 </east>
+			<west> 4.51283627341249 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.51342777444878,46.2163902575748,0 4.51343167789363,46.2162497045981,0 4.51342617761198,46.2162290628907,0 4.51341448421831,46.2162096744325,0 4.51339688445825,46.2161925261188,0 4.51337457046404,46.2161785027321,0 4.5133703629973,46.2161764872267,0 4.51323305149915,46.2161279679965,0 4.51309887080005,46.2160753540385,0 4.51306500650826,46.2160612140577,0 4.51300336939399,46.21605149643881,0 4.51294074057373,46.2160575533112,0 4.51291626682673,46.21606868663331,0 4.51289578088283,46.21608327943079,0 4.51288594291747,46.2160934975455,0 4.5128566074655,46.21613531754001,0 4.51284890626182,46.2162276462856,0 4.51283627341249,46.2163763310974,0 4.51342777444878,46.2163902575748,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.4147">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69135000AB0055</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DEUX-GROSNES</SimpleData>
+					<SimpleData name="Adresse">486, RUE DU HAUT BEAUJOLAIS</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.219687593472 </north>
+			<south> 46.2189898106458 </south>
+			<east> 4.52209931225003 </east>
+			<west> 4.52110879328123 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.52122094608456,46.219687593472,0 4.5213256503404,46.21964530362771,0 4.52136465561069,46.2196294708887,0 4.52149898835975,46.21956543919959,0 4.52154040958588,46.2195338127206,0 4.52155806852239,46.2195202468884,0 4.52163074444892,46.2194646953288,0 4.5215756727305,46.2194252630966,0 4.52164227908116,46.2193567333078,0 4.52172172010372,46.2193952990942,0 4.52194218831008,46.21922780070231,0 4.52209931225003,46.2190547549413,0 4.52206296257499,46.2190493871452,0 4.52166907045376,46.2189898106458,0 4.52163246324785,46.2190966670561,0 4.52157432290797,46.2190822238625,0 4.52152757551462,46.21922109886551,0 4.521504856224,46.2192860693906,0 4.52150352446647,46.21928950967209,0 4.5214694522511,46.21937552711411,0 4.52144550623367,46.2193635985931,0 4.52142010008223,46.2193785289436,0 4.52138077706869,46.2193735609585,0 4.52135642998221,46.2193705542104,0 4.52135095872375,46.2193931436196,0 4.5213438690485,46.21942286980361,0 4.5212401648786,46.2194544285711,0 4.52123398656905,46.219456222435,0 4.52121782802765,46.2194957969096,0 4.52110879328123,46.2195269765214,0 4.52122094608456,46.219687593472,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

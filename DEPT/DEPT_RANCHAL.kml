@@ -1,0 +1,589 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>RANCHAL_DEPT</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_3">
+		<name>RANCHAL_DEPT</name>
+		<Schema name="RANCHAL_DEPT" id="RANCHAL_DEPT.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="DEPT">
+			<LineStyle>
+				<color>BF63f16c</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C63f16c</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.112">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69164000AM0342</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">RANCHAL</SimpleData>
+					<SimpleData name="Adresse">REINS</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1222517006379 </north>
+			<south> 46.1215684863839 </south>
+			<east> 4.39022911190711 </east>
+			<west> 4.38943808490964 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.38943808490964,46.12174289248649,0 4.38963780757618,46.12186086218661,0 4.38949679513557,46.12191842684771,0 4.38955476113955,46.1221566539707,0 4.38964125607554,46.122171086199,0 4.3898760412407,46.1222517006379,0 4.38989013482232,46.12223540688349,0 4.38995958497745,46.1221802488709,0 4.39007569814749,46.1221111902522,0 4.39016440947832,46.1219932026715,0 4.39022911190711,46.1218682139014,0 4.39011130345098,46.1215684863839,0 4.38943808490964,46.12174289248649,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.349">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69164000AM0010</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">RANCHAL</SimpleData>
+					<SimpleData name="Adresse">CHAMBOST</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.12440375976329 </north>
+			<south> 46.124112322355 </south>
+			<east> 4.38877115857751 </east>
+			<west> 4.38825380557098 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.38839165541585,46.12435769540221,0 4.38877115857751,46.12440375976329,0 4.38870253446178,46.124261309256,0 4.38864034840496,46.124117338972,0 4.38863814914992,46.124112322355,0 4.38825380557098,46.1241974480816,0 4.38839165541585,46.12435769540221,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.541">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">691640000G0107</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">RANCHAL</SimpleData>
+					<SimpleData name="Adresse">LA SEPE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1071535457903 </north>
+			<south> 46.1046794506487 </south>
+			<east> 4.42047550327337 </east>
+			<west> 4.41940516497591 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.42047550327337,46.1046794506487,0 4.41970977863288,46.10467975417361,0 4.41940516497591,46.1069810822513,0 4.41971531941961,46.1070478132352,0 4.42002753078675,46.107108933715,0 4.42027703421446,46.1071535457903,0 4.4202853733886,46.1070404118111,0 4.42037616423558,46.1058598046869,0 4.42047550327337,46.1046794506487,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1238">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">691640000G0139</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">RANCHAL</SimpleData>
+					<SimpleData name="Adresse">LA SEPE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1042037709035 </north>
+			<south> 46.1029147610722 </south>
+			<east> 4.41942155917678 </east>
+			<west> 4.41541340281803 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.41942155917678,46.1042037709035,0 4.41932568983671,46.1036955708586,0 4.41931971673012,46.1036648438489,0 4.41873092728392,46.1035420631825,0 4.41866633902054,46.1035077457351,0 4.41860694597297,46.1034690402756,0 4.4185666548967,46.10343802163481,0 4.41845520421521,46.10335385422021,0 4.4183930995874,46.10331040917689,0 4.41833205842093,46.1032830721666,0 4.41826726220909,46.1032607355336,0 4.41819897445405,46.1032435761058,0 4.41818791222463,46.1032413726758,0 4.41787801417707,46.10320372508109,0 4.41779283442288,46.10319425168791,0 4.41762177935545,46.1032085467999,0 4.41745203083845,46.103228319205,0 4.41732872300393,46.1032465207583,0 4.41722781093679,46.103259579117,0 4.41712572164639,46.1032671582154,0 4.41702309535795,46.1032689798677,0 4.41694534739315,46.1032665280666,0 4.41687396422989,46.1032598538438,0 4.41680412202986,46.1032476664737,0 4.41673672684226,46.1032299546503,0 4.4166995040769,46.103217450124,0 4.41659354888122,46.1031755421271,0 4.41649173972633,46.1031287188684,0 4.41645133347619,46.1031082383489,0 4.41634432810585,46.10305571574919,0 4.4162416806891,46.10301151457,0 4.41619086954558,46.1029942259424,0 4.4161368324893,46.1029823813444,0 4.41608086382789,46.10297596462339,0 4.41607204619095,46.1029754441894,0 4.41565860774755,46.1029391723656,0 4.41541340281803,46.1029147610722,0 4.41551964333632,46.1030481709868,0 4.41563107000589,46.1032170010965,0 4.41573491650653,46.1033880871729,0 4.41579379675208,46.1034923666466,0 4.41588737038685,46.1036416052664,0 4.41598826191873,46.1037884108747,0 4.41602356358684,46.1038368748935,0 4.41942155917678,46.1042037709035,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1256">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69164000AM0014</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">RANCHAL</SimpleData>
+					<SimpleData name="Adresse">CHAMBOST</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1241974480816 </north>
+			<south> 46.1238193866111 </south>
+			<east> 4.38863814914992 </east>
+			<west> 4.38820221388835 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.38825380557098,46.1241974480816,0 4.38863814914992,46.124112322355,0 4.38858346414201,46.1238193866111,0 4.38820221388835,46.12385773180561,0 4.38825380557098,46.1241974480816,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1265">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">691640000G0140</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">RANCHAL</SimpleData>
+					<SimpleData name="Adresse">LA SEPE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.10687661376641 </north>
+			<south> 46.1028815466804 </south>
+			<east> 4.41655623433271 </east>
+			<west> 4.4133242107815 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.41655623433271,46.1046353050113,0 4.41588908217278,46.1037180477243,0 4.4152965189384,46.1041871028053,0 4.41468161010706,46.1046737253246,0 4.41432658079138,46.1042815106729,0 4.41499575834486,46.10374539918649,0 4.41560504661618,46.103257223737,0 4.41553946973932,46.1031392479911,0 4.41546351354797,46.1030254544998,0 4.41546108630904,46.10302170210731,0 4.41543219382504,46.1029857668719,0 4.41539625686213,46.1029528015032,0 4.41535420233373,46.1029236050067,0 4.41531010163173,46.10291046529011,0 4.41506516929299,46.1028815466804,0 4.4133242107815,46.10451951473041,0 4.41338172785852,46.1045759887545,0 4.41354955553828,46.1047479912576,0 4.41419824287338,46.1054269141842,0 4.41432979109858,46.1055675752294,0 4.41447704823751,46.10573496931571,0 4.41461712725911,46.10590515457899,0 4.41471175178864,46.106034837318,0 4.41478389645376,46.1061714648615,0 4.41479468246268,46.1062332940079,0 4.41479266553108,46.10629573304701,0 4.41470857715184,46.1068666118776,0 4.41470818739251,46.10687661376641,0 4.4155920011915,46.1061719271914,0 4.41535742074665,46.1059323117972,0 4.4152301711493,46.1057978126783,0 4.4163792480833,46.10478629836911,0 4.41654608612968,46.1046434473017,0 4.41655623433271,46.1046353050113,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1298">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">691640000G0142</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">RANCHAL</SimpleData>
+					<SimpleData name="Adresse">LA SEPE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1046737253246 </north>
+			<south> 46.10374539918649 </south>
+			<east> 4.4152965189384 </east>
+			<west> 4.41432658079138 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.4152965189384,46.1041871028053,0 4.41499575834486,46.10374539918649,0 4.41432658079138,46.1042815106729,0 4.41468161010706,46.1046737253246,0 4.4152965189384,46.1041871028053,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1326">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">691640000G0144</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">RANCHAL</SimpleData>
+					<SimpleData name="Adresse">LA SEPE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1041544054368 </north>
+			<south> 46.1024380680129 </south>
+			<east> 4.41398225110116 </east>
+			<west> 4.41219173862931 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.4125712380182,46.1024380680129,0 4.41219173862931,46.1035855136451,0 4.41237649739366,46.1037163283483,0 4.41277685575781,46.104029179298,0 4.41292573814299,46.1041544054368,0 4.41398225110116,46.1027406739068,0 4.41377708246411,46.1026972072826,0 4.4125712380182,46.1024380680129,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1611">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69164000AM0016</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">RANCHAL</SimpleData>
+					<SimpleData name="Adresse">CHAMBOST</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.12385773180561 </north>
+			<south> 46.1232772251302 </south>
+			<east> 4.38858346414201 </east>
+			<west> 4.38799723067951 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.38820221388835,46.12385773180561,0 4.38858346414201,46.1238193866111,0 4.38845693888258,46.1232772251302,0 4.38799723067951,46.12343451122,0 4.38799791905801,46.1234361239342,0 4.3880969131288,46.1236477319949,0 4.38820221388835,46.12385773180561,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2062">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69164000AM0019</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">RANCHAL</SimpleData>
+					<SimpleData name="Adresse">CHAMBOST</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.12343451122 </north>
+			<south> 46.12285386955949 </south>
+			<east> 4.38845693888258 </east>
+			<west> 4.3877865947123 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.38799723067951,46.12343451122,0 4.38845693888258,46.1232772251302,0 4.38836698507108,46.12291095918239,0 4.38835142370666,46.12285386955949,0 4.38810395744515,46.12292741426101,0 4.3877865947123,46.1230181140871,0 4.38799723067951,46.12343451122,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2722">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69164000AM0024</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">RANCHAL</SimpleData>
+					<SimpleData name="Adresse">CHAMBOST</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.12245281579621 </north>
+			<south> 46.1222340707618 </south>
+			<east> 4.38962200881874 </east>
+			<west> 4.38888438211387 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.38950034686282,46.12245281579621,0 4.38962200881874,46.1222498564899,0 4.38961914662154,46.1222493511428,0 4.38956294990916,46.1222396816833,0 4.38950557464552,46.1222346198196,0 4.38944740697294,46.1222340707618,0 4.38939000289572,46.1222381055309,0 4.38933336239965,46.1222467241282,0 4.3892830458221,46.1222544547549,0 4.38921063664301,46.12226948056011,0 4.38914054018377,46.1222888910986,0 4.38907300627523,46.12231232306719,0 4.38888438211387,46.12239757829419,0 4.38893845446719,46.1224000690567,0 4.38913381165404,46.12241199913599,0 4.38932864000803,46.1224286186143,0 4.38950034686282,46.12245281579621,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2823">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69164000AM0025</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">RANCHAL</SimpleData>
+					<SimpleData name="Adresse">CHAMBOST</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1225879016913 </north>
+			<south> 46.1222498564899 </south>
+			<east> 4.38986810026988 </east>
+			<west> 4.38950034686282 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.3898359186161,46.1223295556838,0 4.38976907590341,46.1223035351513,0 4.38962200881874,46.1222498564899,0 4.38950034686282,46.12245281579621,0 4.38954844317239,46.1224597024137,0 4.38965556231329,46.1225879016913,0 4.38986810026988,46.1225212656371,0 4.3898359186161,46.1223295556838,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3786">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69164000AM0341</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">RANCHAL</SimpleData>
+					<SimpleData name="Adresse">REINS</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1223010205041 </north>
+			<south> 46.1210515261189 </south>
+			<east> 4.39059423966847 </east>
+			<west> 4.3898760412407 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.39014807793921,46.1210515261189,0 4.39013610603463,46.12106464173721,0 4.39006195260373,46.1211897461759,0 4.39004883636061,46.1213622869054,0 4.39005029708088,46.12141486568251,0 4.39011130345098,46.1215684863839,0 4.39022911190711,46.1218682139014,0 4.39016440947832,46.1219932026715,0 4.39007569814749,46.1221111902522,0 4.38995958497745,46.1221802488709,0 4.38989013482232,46.12223540688349,0 4.3898760412407,46.1222517006379,0 4.38990324397954,46.1222620851176,0 4.38996094298595,46.1222799317311,0 4.39002112446187,46.1222935149747,0 4.39002815505057,46.1222949599718,0 4.39006714676206,46.1223003366993,0 4.39010692628829,46.1223010205041,0 4.39014633287236,46.1222972057226,0 4.39016709683348,46.1222937092418,0 4.39019962918077,46.12228439471401,0 4.39022933759695,46.1222709718654,0 4.39025481149489,46.1222539983465,0 4.39027882007671,46.1222354216337,0 4.39030457929801,46.1222092582065,0 4.39032483657051,46.1221806403862,0 4.39036965869578,46.12208381442719,0 4.39043506509862,46.1218894685754,0 4.39043669191837,46.12184630858211,0 4.39041082077834,46.1216021049483,0 4.39042512313499,46.1213025611185,0 4.39044228527927,46.12126425439321,0 4.39059423966847,46.1210967679759,0 4.39055302715165,46.12109060807241,0 4.39014807793921,46.1210515261189,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3988">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69164000AM0366</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">RANCHAL</SimpleData>
+					<SimpleData name="Adresse">CHAMBOST</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.12286040128861 </north>
+			<south> 46.1224479887172 </south>
+			<east> 4.3895205243278 </east>
+			<west> 4.38869397809312 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.38897930752706,46.122811786501,0 4.38918784657678,46.1227713188572,0 4.38930814962222,46.12262718751739,0 4.3895205243278,46.1225284917767,0 4.38950612815122,46.122512366593,0 4.38948649398424,46.12249909745259,0 4.38946293484584,46.1224893887873,0 4.38945915261345,46.1224883543182,0 4.38934418970352,46.1224698572136,0 4.38922765983536,46.122455972366,0 4.38914201925902,46.12244972507649,0 4.38906309829857,46.1224479887172,0 4.3889614258654,46.12245310520039,0 4.38887936849829,46.12246050341769,0 4.38883660277716,46.1224748961863,0 4.38879691526041,46.1224932140485,0 4.38876820610316,46.1225103168669,0 4.38874265714062,46.1225345860452,0 4.38872273497009,46.12256112802941,0 4.38870881664794,46.1225894878972,0 4.38870114519906,46.12261903223939,0 4.38870017118442,46.1226266094223,0 4.38869397809312,46.12275556494821,0 4.38871579879397,46.12286040128861,0 4.38897930752706,46.122811786501,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.4298">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">691640000C0041</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">RANCHAL</SimpleData>
+					<SimpleData name="Adresse">PRADON</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1347620046312 </north>
+			<south> 46.1324422867384 </south>
+			<east> 4.41047921545121 </east>
+			<west> 4.40848331429282 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.40848331429282,46.1326856080166,0 4.40855911332828,46.1327468114292,0 4.40857448680463,46.1327603103389,0 4.40863095339999,46.1328102254132,0 4.40868051012495,46.1328634684432,0 4.4086999118971,46.1328875448139,0 4.40922231151846,46.1335414963198,0 4.40927312459841,46.13364867131131,0 4.40936315008124,46.13375932244049,0 4.40954935293189,46.1340940276522,0 4.40987198610479,46.1347016413896,0 4.4098848073019,46.1347620046312,0 4.40991516982192,46.1347588357404,0 4.40994318732678,46.13475011204179,0 4.40995967636583,46.1347414413996,0 4.40998487704988,46.1347188829426,0 4.41007234259225,46.1346036870435,0 4.41019603913871,46.13441121735571,0 4.41031216563778,46.134216589949,0 4.41035132675213,46.1341474755343,0 4.41005559683711,46.1338005319916,0 4.41047921545121,46.13365441280379,0 4.41035382149605,46.1335286208499,0 4.41019903063499,46.1333931067314,0 4.40974116606016,46.1328009523605,0 4.40946820498234,46.1324422867384,0 4.40848331429282,46.1326856080166,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.4514">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69164000AM0441</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">RANCHAL</SimpleData>
+					<SimpleData name="Adresse">CHAMBOST</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.12379888067599 </north>
+			<south> 46.1232559182302 </south>
+			<east> 4.38892266480577 </east>
+			<west> 4.3886747721269 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.38892266480577,46.12379308252619,0 4.3886747721269,46.1232559182302,0 4.38869905184321,46.1233760351642,0 4.38872978979014,46.12349544266691,0 4.3887669814536,46.1236139606632,0 4.3888106200408,46.1237313190424,0 4.38883888116669,46.12379888067599,0 4.38892266480577,46.12379308252619,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6540">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69164000AM0009</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">RANCHAL</SimpleData>
+					<SimpleData name="Adresse">CHAMBOST</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1246820843059 </north>
+			<south> 46.12435769540221 </south>
+			<east> 4.38896480772659 </east>
+			<west> 4.38839165541585 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.38873182955656,46.1246820843059,0 4.38896480772659,46.1246448307114,0 4.38877115857751,46.12440375976329,0 4.38839165541585,46.12435769540221,0 4.38873182955656,46.1246820843059,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

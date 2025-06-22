@@ -1,0 +1,1711 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>L ARBRESLE_HLM</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_5">
+		<name>L ARBRESLE_HLM</name>
+		<Schema name="L ARBRESLE_HLM" id="L ARBRESLE_HLM.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="HLM">
+			<LineStyle>
+				<color>BFe451f5</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4Ce451f5</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69010000AM0101</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">L ARBRESLE</SimpleData>
+					<SimpleData name="Adresse">155, RUE DU GROSLIER</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.83419495246081 </north>
+			<south> 45.833287554794 </south>
+			<east> 4.60846146446074 </east>
+			<west> 4.60780225313511 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.6078768707106,45.8334991751962,0 4.60787097186237,45.8335089864942,0 4.6078605410619,45.8335268783422,0 4.60784854871239,45.8335486653343,0 4.60783840116844,45.8335762804704,0 4.60782831946002,45.83360173304099,0 4.60782123936026,45.83362849389861,0 4.60781624412339,45.8336472090426,0 4.60781335156322,45.833667335339,0 4.60780803260853,45.8336926300404,0 4.60780415109829,45.8337230381438,0 4.60780384201909,45.83374781118919,0 4.60780225313511,45.83376845933401,0 4.60780340566354,45.83379032940351,0 4.60780417470666,45.8338078816775,0 4.60780739085588,45.8338253991164,0 4.60781046482239,45.8338468815627,0 4.60781434828208,45.8338696134348,0 4.60781978253296,45.83389250336641,0 4.60782652310092,45.8339160051767,0 4.60783429141411,45.8339394022884,0 4.60784288785992,45.8339602657124,0 4.60785199687087,45.8339810317713,0 4.60787761631446,45.8340289434046,0 4.6078979612336,45.83406387028891,0 4.60791766011085,45.8340898896543,0 4.60796744525926,45.834149075988,0 4.60801581191318,45.83419495246081,0 4.60843377980086,45.83410586850071,0 4.60825792754413,45.83370000515449,0 4.60846146446074,45.8333492648541,0 4.6082220717066,45.833287554794,0 4.60803924596775,45.83331879946699,0 4.60795153286847,45.8333950747195,0 4.6078768707106,45.8334991751962,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.10">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69010000AK0109</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">L ARBRESLE</SimpleData>
+					<SimpleData name="Adresse">2, IMP SAINT JEAN BAPTISTE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">IMMOBILIERE RHONE ALPES SA DHLM</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.83575927417671 </north>
+			<south> 45.8356749040649 </south>
+			<east> 4.61793995863707 </east>
+			<west> 4.617756810074 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.61782359603607,45.8357515950629,0 4.61789504897612,45.83575831744209,0 4.61793995863707,45.83569912991669,0 4.61785175714201,45.8356749040649,0 4.617756810074,45.8356886934059,0 4.61777794938025,45.83575927417671,0 4.61782359603607,45.8357515950629,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.85">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69010000AH0209</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">L ARBRESLE</SimpleData>
+					<SimpleData name="Adresse">1, RUE ANNE FRANK</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8386741946509 </north>
+			<south> 45.8386223830469 </south>
+			<east> 4.61118289695065 </east>
+			<west> 4.61111414594406 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.61113423979979,45.8386223830469,0 4.61111414594406,45.8386623895931,0 4.61116423050881,45.8386741946509,0 4.61118289695065,45.8386338481843,0 4.61113423979979,45.8386223830469,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.96">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69010000AR0231</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">L ARBRESLE</SimpleData>
+					<SimpleData name="Adresse">COLLONGE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">IMMOBILIERE RHONE ALPES SA DHLM</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8311661627017 </north>
+			<south> 45.8305778908288 </south>
+			<east> 4.61104696686125 </east>
+			<west> 4.60959024528257 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.60960277862909,45.8308482139408,0 4.6105368311119,45.8310010732761,0 4.61077717235644,45.8311661627017,0 4.61104696686125,45.83102045762289,0 4.61078261131096,45.8307521332295,0 4.61063192614836,45.830829218712,0 4.61038198429864,45.8305778908288,0 4.61031863929938,45.8305794245124,0 4.6102450753594,45.83058398602999,0 4.61020891236906,45.8305854023012,0 4.61015027199199,45.8305892105789,0 4.61008376769533,45.8305928607323,0 4.61003462333134,45.83059977601471,0 4.60996736457018,45.83060848065409,0 4.60986870254071,45.83062276675561,0 4.60984079767106,45.8306246056016,0 4.60980932100255,45.8306232529101,0 4.60974933503415,45.83062068534179,0 4.609693086784,45.830609327889,0 4.60966553964897,45.8306013441988,0 4.60963623951512,45.83059068345111,0 4.60961351017562,45.83058001911689,0 4.60960620526147,45.8306078641197,0 4.6095961029769,45.83066348988299,0 4.60959024528257,45.8307232883406,0 4.60959047291156,45.8307576009416,0 4.6095910162792,45.8307806505635,0 4.60959397760324,45.8308070883029,0 4.60959704671314,45.8308328039635,0 4.60960277862909,45.8308482139408,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.476">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69010000AH0105</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">L ARBRESLE</SimpleData>
+					<SimpleData name="Adresse">128, RUE ANNE FRANK</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8381189690647 </north>
+			<south> 45.83761390392281 </south>
+			<east> 4.61280829911319 </east>
+			<west> 4.61204363072392 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.61280829911319,45.8379844997183,0 4.61236504466587,45.83767640071411,0 4.61229965609765,45.8376303186362,0 4.612275982182,45.83761390392281,0 4.61207830198942,45.83775020604381,0 4.61204363072392,45.8377984368606,0 4.61261288477825,45.8381189690647,0 4.61270333313041,45.8380568818771,0 4.61276827319058,45.8380126320045,0 4.61280829911319,45.8379844997183,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.490">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69010000AH0106</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">L ARBRESLE</SimpleData>
+					<SimpleData name="Adresse">164, RUE ANNE FRANK</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8383653125789 </north>
+			<south> 45.8377984368606 </south>
+			<east> 4.61261288477825 </east>
+			<west> 4.61185952537388 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.61209982805701,45.8382665283749,0 4.61224639184034,45.8383653125789,0 4.61253630486972,45.8381705904492,0 4.61261288477825,45.8381189690647,0 4.61204363072392,45.8377984368606,0 4.61200718757633,45.8378389471128,0 4.61199250412663,45.8378568099752,0 4.61196079527713,45.837909411815,0 4.61192380022811,45.8379707356018,0 4.61185952537388,45.83808630927089,0 4.61191209384172,45.83811257947989,0 4.61189417438659,45.8381299481,0 4.61209982805701,45.8382665283749,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.556">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69010000AH0110</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">L ARBRESLE</SimpleData>
+					<SimpleData name="Adresse">EN RAPINANT</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8385381891759 </north>
+			<south> 45.8383302588527 </south>
+			<east> 4.61216669536664 </east>
+			<west> 4.61199069595015 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.61202928863157,45.8385381891759,0 4.61208359421547,45.8385003962343,0 4.61206265647195,45.8384850232361,0 4.61205838214751,45.8384798602988,0 4.61205550364705,45.8384739568974,0 4.61205429699164,45.8384679395681,0 4.61205472799084,45.83846063791601,0 4.61205657848251,45.8384534060733,0 4.61205985372612,45.8384464241008,0 4.61209954637383,45.838411271534,0 4.61210862069513,45.8384175368466,0 4.61216669536664,45.83836320764109,0 4.61210246297185,45.8383302588527,0 4.61204563161753,45.8383830391261,0 4.61206056003739,45.83839120238931,0 4.61199937554596,45.8384493587714,0 4.61199393426668,45.838457182265,0 4.61199109013937,45.83846568923751,0 4.61199069595015,45.8384742513147,0 4.61199307242913,45.83848502554931,0 4.6119976333477,45.83849558847369,0 4.61200411057577,45.83850558364251,0 4.61202928863157,45.8385381891759,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.558">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69010000AK0110</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">L ARBRESLE</SimpleData>
+					<SimpleData name="Adresse">IMP SAINT JEAN BAPTISTE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">IMMOBILIERE RHONE ALPES SA DHLM</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8358299224803 </north>
+			<south> 45.8357515950629 </south>
+			<east> 4.61789504897612 </east>
+			<west> 4.61780331959813 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.61782359603607,45.8357515950629,0 4.61780331959813,45.83582033719989,0 4.6178100488356,45.8358213216318,0 4.61786983126929,45.8358299224803,0 4.61789504897612,45.83575831744209,0 4.61782359603607,45.8357515950629,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.746">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69010000AC0120</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">L ARBRESLE</SimpleData>
+					<SimpleData name="Adresse">407, RUE ANTOINE PAGNEUX</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8409505741869 </north>
+			<south> 45.8405166359581 </south>
+			<east> 4.60783516385774 </east>
+			<west> 4.60738023920165 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.6077371470104,45.8405166359581,0 4.60741528356985,45.84051797409521,0 4.60738023920165,45.84051820256811,0 4.60738934973919,45.8405301420141,0 4.60761562642526,45.8408306305982,0 4.60770610468283,45.8409505741869,0 4.60783516385774,45.84089974038649,0 4.60781485000962,45.8408748105344,0 4.60780255079088,45.8408595839966,0 4.6077938344133,45.840847909175,0 4.6077371470104,45.8405166359581,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.764">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69010000AC0122</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">L ARBRESLE</SimpleData>
+					<SimpleData name="Adresse">407, RUE ANTOINE PAGNEUX</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.84089974038649 </north>
+			<south> 45.840516348033 </south>
+			<east> 4.60802925754862 </east>
+			<west> 4.6077371470104 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.6077371470104,45.8405166359581,0 4.6077938344133,45.840847909175,0 4.60780255079088,45.8408595839966,0 4.60781485000962,45.8408748105344,0 4.60783516385774,45.84089974038649,0 4.60797924677044,45.8408426580304,0 4.60795994762845,45.84081717335251,0 4.60802925754862,45.840789976984,0 4.60781432819661,45.840516348033,0 4.6077371470104,45.8405166359581,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.793">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69010000AC0124</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">L ARBRESLE</SimpleData>
+					<SimpleData name="Adresse">407, RUE ANTOINE PAGNEUX</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8412477616237 </north>
+			<south> 45.8408426580304 </south>
+			<east> 4.60820236561575 </east>
+			<west> 4.60768516123385 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.60770610468283,45.8409505741869,0 4.60771455031954,45.8409618025295,0 4.60768516123385,45.8410278802473,0 4.60784012740388,45.84123373129191,0 4.60791115465595,45.8412477616237,0 4.60820236561575,45.8411407586258,0 4.60797924677044,45.8408426580304,0 4.60783516385774,45.84089974038649,0 4.60770610468283,45.8409505741869,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.1693">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69010000AR0196</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">L ARBRESLE</SimpleData>
+					<SimpleData name="Adresse">48, RUE GABRIEL PERI</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8328241456687 </north>
+			<south> 45.8323998266783 </south>
+			<east> 4.61319371107254 </east>
+			<west> 4.6126271779626 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.6126271779626,45.83255815183559,0 4.61290307931036,45.8328241456687,0 4.61319371107254,45.832659493859,0 4.61314207955617,45.8326122251078,0 4.61311828108378,45.8325870757911,0 4.61292263245146,45.8323998266783,0 4.6126271779626,45.83255815183559,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.1797">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69010000AB0205</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">L ARBRESLE</SimpleData>
+					<SimpleData name="Adresse">120, RUE RAYMOND LECERF</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.843737701736 </north>
+			<south> 45.8436519213135 </south>
+			<east> 4.60893720969289 </east>
+			<west> 4.60882740802445 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.60882990670766,45.8436987563973,0 4.60883266303007,45.84373141177301,0 4.6088647177406,45.843730234711,0 4.60886532207331,45.843737701736,0 4.60888077762384,45.8437373915488,0 4.60888090701161,45.84372414973149,0 4.60893720969289,45.8436927247748,0 4.60889291785985,45.8436808361683,0 4.60889158299549,45.8436659939839,0 4.60887559906789,45.8436658613588,0 4.60887416164115,45.8436519213135,0 4.60885831178564,45.8436519669123,0 4.60885959151511,45.8436649184573,0 4.60882740802445,45.84366609735239,0 4.60882990670766,45.8436987563973,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.1805">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69010000AH0206</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">L ARBRESLE</SimpleData>
+					<SimpleData name="Adresse">5, RUE ANNE FRANK</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8377856176071 </north>
+			<south> 45.8376184383632 </south>
+			<east> 4.61386585219804 </east>
+			<west> 4.6129315212251 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.61354162387053,45.8376184383632,0 4.61296533873749,45.8376613452844,0 4.6129315212251,45.8376638096843,0 4.61293268599051,45.8376727998452,0 4.61293330383001,45.837676303672,0 4.61294042083118,45.8377170028173,0 4.61294290535061,45.83773146827631,0 4.61297658883706,45.8377288256516,0 4.61298425017766,45.8377749210976,0 4.61309071047122,45.8377669158995,0 4.61309104439718,45.8377695231009,0 4.61315237866294,45.8377650444533,0 4.61315191593007,45.8377624390917,0 4.61336085662604,45.8377469354635,0 4.61336119056464,45.83774954266401,0 4.61342252215409,45.83774497383949,0 4.61342218821262,45.8377423666391,0 4.61352659541352,45.8377346605585,0 4.61362766798358,45.8377539323354,0 4.61362658245817,45.8377564697455,0 4.61368567249034,45.8377677847593,0 4.61368675801326,45.8377652473487,0 4.61379288828041,45.8377856176071,0 4.61381362854706,45.8377325414646,0 4.61382062871859,45.8377339726054,0 4.61382589589976,45.83772020702181,0 4.61384857612857,45.8377246565773,0 4.61386585219804,45.8376809069188,0 4.6138360482829,45.83767520812841,0 4.61354162387053,45.8376184383632,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.1823">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69010000AH0208</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">L ARBRESLE</SimpleData>
+					<SimpleData name="Adresse">1, RUE ANNE FRANK</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.83893543523641 </north>
+			<south> 45.8382143780519 </south>
+			<east> 4.61165632557891 </east>
+			<west> 4.61102640164169 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.61165632557891,45.83832050312479,0 4.61165352860719,45.8383129773284,0 4.61150158261659,45.83824164980119,0 4.61144344405172,45.8382143780519,0 4.61129913507642,45.83836486860349,0 4.61146753675595,45.8384437074811,0 4.61127372368194,45.8386420097372,0 4.61112915288422,45.8387924137179,0 4.61102640164169,45.8389010600376,0 4.61109802073223,45.83893543523641,0 4.61119514382728,45.8388370468021,0 4.61122349178932,45.8388502426978,0 4.61123275535662,45.8388409236351,0 4.61133819285153,45.8388904880977,0 4.61148263190104,45.8387399956563,0 4.61134623371862,45.83867601179509,0 4.61153743372812,45.8384764857425,0 4.61150934349445,45.83846328625039,0 4.61160212507715,45.8383663104033,0 4.61161518967635,45.8383724287547,0 4.61165158090903,45.8383345313474,0 4.61164570052659,45.8383317330762,0 4.61165632557891,45.83832050312479,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.1848">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69010000AK0210</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">L ARBRESLE</SimpleData>
+					<SimpleData name="Adresse">13, RUE DE LYON</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8351222015902 </north>
+			<south> 45.83489450304521 </south>
+			<east> 4.6201643646003 </east>
+			<west> 4.61988574089972 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.62015598331382,45.83507174450421,0 4.62013191577103,45.8350507435942,0 4.6201643646003,45.8350324446597,0 4.62011439732544,45.83498947837069,0 4.62012618518237,45.83498282438361,0 4.62004880109753,45.8349144918564,0 4.62003547032252,45.83492125803399,0 4.62000440486177,45.83489450304521,0 4.61990250361394,45.8349522571182,0 4.61988574089972,45.83496501699241,0 4.62006675287473,45.8351222015902,0 4.62015598331382,45.83507174450421,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.1860">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69010000AH0211</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">L ARBRESLE</SimpleData>
+					<SimpleData name="Adresse">295, RUE ANNE FRANK</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8384998041496 </north>
+			<south> 45.83823058122711 </south>
+			<east> 4.61434836590925 </east>
+			<west> 4.61359843727792 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.6136081021961,45.83823058122711,0 4.61359843727792,45.8383715855673,0 4.61397121424395,45.8383843633742,0 4.61396403771696,45.8384870533212,0 4.61433861882764,45.8384998041496,0 4.61434633885228,45.8383980971489,0 4.61434836590925,45.8383572673891,0 4.61397507908367,45.8383446782492,0 4.6139786803877,45.8382915767639,0 4.61398081347362,45.8382631748779,0 4.61398229243537,45.8382432487266,0 4.6136081021961,45.83823058122711,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.1870">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69010000AH0212</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">L ARBRESLE</SimpleData>
+					<SimpleData name="Adresse">153, RUE ANNE FRANK</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8386182497379 </north>
+			<south> 45.8383043392305 </south>
+			<east> 4.61295045973922 </east>
+			<west> 4.61249609660548 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.61250556529921,45.8385253564956,0 4.61264203615449,45.8386182497379,0 4.61295045973922,45.838404348003,0 4.61292719539724,45.8383887381811,0 4.61280141045413,45.8383043392305,0 4.61249609660548,45.8385188266401,0 4.61250556529921,45.8385253564956,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.1879">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69010000AH0213</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">L ARBRESLE</SimpleData>
+					<SimpleData name="Adresse">95, RUE ANNE FRANK</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8392333988123 </north>
+			<south> 45.8386911417553 </south>
+			<east> 4.61239285774902 </east>
+			<west> 4.6118234392307 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.6118234392307,45.83913170202601,0 4.61196789924564,45.8392333988123,0 4.61223385197166,45.8390475759131,0 4.61212943558805,45.8389756608534,0 4.61239285774902,45.8387914948951,0 4.61225908129478,45.8386982026213,0 4.61224895278744,45.8386911417553,0 4.61198310170765,45.83887597251569,0 4.61208826688241,45.8389470664071,0 4.6118234392307,45.83913170202601,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.1893">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69010000AH0215</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">L ARBRESLE</SimpleData>
+					<SimpleData name="Adresse">EN RAPINANT</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8402390227997 </north>
+			<south> 45.8388083803297 </south>
+			<east> 4.61508467979626 </east>
+			<west> 4.61344798314943 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.61348150888124,45.8400841866299,0 4.61344798314943,45.840123124516,0 4.61372675337514,45.8402390227997,0 4.61376176940714,45.8401981721109,0 4.61379760402104,45.8401809075211,0 4.61383333354676,45.8402217382551,0 4.61400292200118,45.840085294101,0 4.61396461361834,45.8400444101993,0 4.61414389565262,45.8399001715408,0 4.61422795958928,45.83983123914449,0 4.61439024090784,45.83970057308439,0 4.61455090200414,45.839567408036,0 4.61457747994712,45.8395464926441,0 4.61459490959303,45.8395212046116,0 4.61463532284493,45.83946226289461,0 4.61468506856899,45.8393699526741,0 4.61469160005875,45.8393553583639,0 4.61469903846747,45.839340931225,0 4.61470751787086,45.83932684947659,0 4.61471812377419,45.8393105756977,0 4.61472989947692,45.8392946454673,0 4.61474245855569,45.83927906430899,0 4.61475331706537,45.83926702011049,0 4.61476522183678,45.83925550136211,0 4.6147781755041,45.8392445980936,0 4.6149027048068,45.8391450039827,0 4.61500734588946,45.8390615460496,0 4.61503297433932,45.83903902289669,0 4.61505546133918,45.8390148333626,0 4.61507222548445,45.83898883422281,0 4.61508071730149,45.8389663759442,0 4.61508467979626,45.8389432618828,0 4.61508297479382,45.8389202288571,0 4.61507620184592,45.8389001504699,0 4.6150650705584,45.8388808549427,0 4.61504960728433,45.8388632425772,0 4.61504244093993,45.8388561396029,0 4.61503667565977,45.83884847618791,0 4.61503347070191,45.83884023575761,0 4.61503352279506,45.83883320971,0 4.61503641126522,45.838826233176,0 4.6150413843517,45.8388200374481,0 4.61506926359747,45.8388083803297,0 4.61487860108055,45.83884974546871,0 4.61489656051456,45.83885138013731,0 4.61491418885824,45.83885491096431,0 4.61493122323084,45.8388601615721,0 4.61494688289025,45.8388668729196,0 4.61498012964547,45.8388889145774,0 4.614991909909,45.8389039676386,0 4.6150010115869,45.83891995967591,0 4.61500472446651,45.8389367493036,0 4.6150035950883,45.8389509961925,0 4.61499911146341,45.838965110903,0 4.61499151275927,45.8389784595394,0 4.61498121174239,45.8389919368792,0 4.61496908107642,45.8390045396973,0 4.61495511812592,45.8390161779626,0 4.6149073963311,45.8390543285194,0 4.61477613429327,45.8389766750359,0 4.61475266163405,45.8389627798484,0 4.61475015371353,45.8389607441366,0 4.61472876069408,45.8389518630219,0 4.61470549727373,45.8389627335275,0 4.61450084103597,45.83913363566509,0 4.61448268262936,45.8391472252637,0 4.61451246948885,45.8391611203254,0 4.61455154682011,45.8391842496555,0 4.61455823452807,45.83918820712299,0 4.61460059266823,45.83921336110551,0 4.6146039996122,45.8392152939021,0 4.61466720434355,45.8392526693259,0 4.61468818261866,45.8392693922967,0 4.61468996775811,45.83927314963361,0 4.61469074614658,45.8392777319736,0 4.61454631706694,45.8395164050287,0 4.61453767401699,45.83952049155789,0 4.61453176201487,45.83952102639991,0 4.61451962771281,45.8395202991586,0 4.61450764829952,45.8395160570511,0 4.61435350696847,45.8394227880506,0 4.61433407467672,45.8394104562543,0 4.61432365728877,45.8394155588729,0 4.61431059575339,45.8394271841727,0 4.61408722295366,45.83960591871289,0 4.61410978352686,45.83961946680179,0 4.61418718411768,45.83966636698409,0 4.6141239838256,45.8397172578318,0 4.61415415756006,45.83973556079349,0 4.61405966061451,45.839813468874,0 4.61410730039845,45.8398429609061,0 4.61407320690111,45.8398712790791,0 4.61402415811324,45.8398420773693,0 4.61396995544931,45.8398877957554,0 4.61386267814001,45.839823939167,0 4.61383815118335,45.8398092482387,0 4.61382929517768,45.8398148689102,0 4.61367062674842,45.839945752733,0 4.61356695734413,45.8400317173999,0 4.61356073537743,45.84003928191821,0 4.61348150888124,45.8400841866299,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.1913">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69010000AB0217</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">L ARBRESLE</SimpleData>
+					<SimpleData name="Adresse">RUE RAYMOND LECERF</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8433635869333 </north>
+			<south> 45.84317963903219 </south>
+			<east> 4.60943436460434 </east>
+			<west> 4.60902177787728 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.60905313268866,45.8433635869333,0 4.60943436460434,45.8433205077383,0 4.60942462585854,45.8432782245228,0 4.60942035447579,45.8432599115331,0 4.60940293533676,45.84317963903219,0 4.60902177787728,45.8432252389739,0 4.60905313268866,45.8433635869333,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.1952">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69010000AB0221</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">L ARBRESLE</SimpleData>
+					<SimpleData name="Adresse">RUE RAYMOND LECERF</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8434569525597 </north>
+			<south> 45.842856884293 </south>
+			<east> 4.60907454156896 </east>
+			<west> 4.60891064824002 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.6089736222294,45.843014535616,0 4.60893796774779,45.842856884293,0 4.60891064824002,45.84285691312699,0 4.6089544491404,45.8434044422373,0 4.60895604989336,45.8434107241877,0 4.60895854974316,45.8434169032645,0 4.60896232726671,45.8434227038721,0 4.60896618372983,45.8434267920659,0 4.60897130736605,45.8434301416683,0 4.60897718290571,45.8434327600183,0 4.60898811120283,45.8434362971472,0 4.60902214507642,45.8434411263948,0 4.60905473028407,45.8434493087774,0 4.60907454156896,45.8434569525597,0 4.60905313268866,45.8433635869333,0 4.60902177787728,45.8432252389739,0 4.60899385591939,45.84310296425941,0 4.6089736222294,45.843014535616,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.1986">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69010000AH0224</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">L ARBRESLE</SimpleData>
+					<SimpleData name="Adresse">EN RAPINANT</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.842380890681 </north>
+			<south> 45.8418964357426 </south>
+			<east> 4.61495711341726 </east>
+			<west> 4.61410595988055 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.61469379165002,45.842380890681,0 4.61488745741542,45.84220834409911,0 4.61495711341726,45.8421137676505,0 4.61435834885419,45.8418964357426,0 4.61410595988055,45.8422377972776,0 4.61463590558764,45.842366856871,0 4.61469379165002,45.842380890681,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2011">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69010000AR0227</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">L ARBRESLE</SimpleData>
+					<SimpleData name="Adresse">COLLONGE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">IMMOBILIERE RHONE ALPES SA DHLM</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.83107049438791 </north>
+			<south> 45.8306656608037 </south>
+			<east> 4.61137015455971 </east>
+			<west> 4.61078261131096 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.61104696686125,45.83102045762289,0 4.61104785523993,45.8310199946112,0 4.61110035081556,45.83107049438791,0 4.61112235001622,45.8310605433031,0 4.61137015455971,45.8309472152884,0 4.61106727457911,45.8306656608037,0 4.61097992486277,45.83070995924461,0 4.610943924982,45.83067282437669,0 4.61080394022748,45.83074129108701,0 4.61078261131096,45.8307521332295,0 4.61104696686125,45.83102045762289,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2020">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69010000AR0228</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">L ARBRESLE</SimpleData>
+					<SimpleData name="Adresse">COLLONGE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8310717952311 </north>
+			<south> 45.8310199946112 </south>
+			<east> 4.61110035081556 </east>
+			<west> 4.61104696686125 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.61104696686125,45.83102045762289,0 4.61109755426178,45.8310717952311,0 4.61110035081556,45.83107049438791,0 4.61104785523993,45.8310199946112,0 4.61104696686125,45.83102045762289,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2025">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69010000AR0229</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">L ARBRESLE</SimpleData>
+					<SimpleData name="Adresse">COLLONGE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.83138332674019 </north>
+			<south> 45.83102045762289 </south>
+			<east> 4.61122390096298 </east>
+			<west> 4.61062756573436 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.61110289458548,45.8312370836631,0 4.61122390096298,45.83118933275131,0 4.61110035081556,45.83107049438791,0 4.61109755426178,45.8310717952311,0 4.61104696686125,45.83102045762289,0 4.61077717235644,45.8311661627017,0 4.61082857980677,45.8312014566532,0 4.61062756573436,45.83129349064729,0 4.61065011938525,45.8313113627191,0 4.61067242068072,45.83133383184659,0 4.61068366465427,45.8313438491617,0 4.61071037099673,45.8313759827894,0 4.61071960432277,45.83138332674019,0 4.61110289458548,45.8312370836631,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2040">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69010000AR0230</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">L ARBRESLE</SimpleData>
+					<SimpleData name="Adresse">COLLONGE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">IMMOBILIERE RHONE ALPES SA DHLM</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.83118933275131 </north>
+			<south> 45.8309472152884 </south>
+			<east> 4.61151145685243 </east>
+			<west> 4.61110035081556 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.61110035081556,45.83107049438791,0 4.61122390096298,45.83118933275131,0 4.61124963243396,45.8311792383291,0 4.61151145685243,45.831078319497,0 4.61137015455971,45.8309472152884,0 4.61112235001622,45.8310605433031,0 4.61110035081556,45.83107049438791,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2060">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69010000AR0232</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">L ARBRESLE</SimpleData>
+					<SimpleData name="Adresse">COLLONGE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.83129349064729 </north>
+			<south> 45.8311661627017 </south>
+			<east> 4.61082857980677 </east>
+			<west> 4.61060631595924 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.61062756573436,45.83129349064729,0 4.61082857980677,45.8312014566532,0 4.61077717235644,45.8311661627017,0 4.61060631595924,45.8312584870835,0 4.61060978270011,45.8312624906992,0 4.61062756573436,45.83129349064729,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2069">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69010000AR0233</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">L ARBRESLE</SimpleData>
+					<SimpleData name="Adresse">COLLONGE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">IMMOBILIERE RHONE ALPES SA DHLM</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8312584870835 </north>
+			<south> 45.8308482139408 </south>
+			<east> 4.61077717235644 </east>
+			<west> 4.60960277862909 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.61060631595924,45.8312584870835,0 4.61077717235644,45.8311661627017,0 4.6105368311119,45.8310010732761,0 4.60960277862909,45.8308482139408,0 4.60962065496539,45.8309001084453,0 4.60963945635525,45.8309572136981,0 4.60964434178875,45.8309789404865,0 4.60966907389209,45.8309964214286,0 4.60968476456468,45.83101313055099,0 4.60971170460388,45.8310267971662,0 4.60977849030393,45.8310371938117,0 4.60988818097626,45.83104760931871,0 4.60997990705794,45.8310561191809,0 4.61008248038759,45.8310610517524,0 4.61013322034231,45.8310646516455,0 4.61017466905778,45.8310721668302,0 4.6102276508849,45.83108194940069,0 4.61031635699906,45.8310973472049,0 4.61036241851165,45.83110398594069,0 4.61040661381216,45.8311173162894,0 4.61043906835014,45.83113009349281,0 4.61046845818239,45.8311482283918,0 4.61051541572668,45.8311767407786,0 4.61055403893862,45.8311978062961,0 4.6105803219869,45.8312286850386,0 4.61060631595924,45.8312584870835,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2093">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69010000AR0235</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">L ARBRESLE</SimpleData>
+					<SimpleData name="Adresse">66, RUE GABRIEL PERI</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">IMMOBILIERE RHONE ALPES SA DHLM</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8313080662389 </north>
+			<south> 45.831078319497 </south>
+			<east> 4.61161594439089 </east>
+			<west> 4.61122390096298 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.61151145685243,45.831078319497,0 4.61124963243396,45.8311792383291,0 4.61122390096298,45.83118933275131,0 4.61136110590921,45.8313080662389,0 4.61161594439089,45.831175272742,0 4.61151145685243,45.831078319497,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2105">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69010000AR0236</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">L ARBRESLE</SimpleData>
+					<SimpleData name="Adresse">62, RUE GABRIEL PERI</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.83186678667069 </north>
+			<south> 45.831175272742 </south>
+			<east> 4.61211212463881 </east>
+			<west> 4.61110289458548 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.61132667232244,45.8316158691073,0 4.61157264631949,45.8318457254301,0 4.61162363658018,45.83181815760549,0 4.6116809748931,45.83186678667069,0 4.61211212463881,45.831638706036,0 4.61181869394628,45.8313633233248,0 4.61161594439089,45.831175272742,0 4.61136110590921,45.8313080662389,0 4.61122390096298,45.83118933275131,0 4.61110289458548,45.8312370836631,0 4.61145212646738,45.83155274296359,0 4.61132667232244,45.8316158691073,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2127">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69010000AR0238</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">L ARBRESLE</SimpleData>
+					<SimpleData name="Adresse">90, RUE GABRIEL PERI</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8304907790273 </north>
+			<south> 45.83042506078179 </south>
+			<east> 4.61032223400225 </east>
+			<west> 4.6102334871086 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.61029249027597,45.83042506078179,0 4.6102334871086,45.8304429248624,0 4.6102630993794,45.8304907790273,0 4.61032223400225,45.8304730031254,0 4.61029249027597,45.83042506078179,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2137">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69010000AR0239</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">L ARBRESLE</SimpleData>
+					<SimpleData name="Adresse">90, RUE GABRIEL PERI</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8305766456551 </north>
+			<south> 45.8301145273569 </south>
+			<east> 4.61067204838113 </east>
+			<west> 4.61019025696281 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.61045667571742,45.8305766456551,0 4.61050124940082,45.830567633737,0 4.61056596140116,45.83054230254229,0 4.61063891844995,45.830508117144,0 4.61067204838113,45.8304998988327,0 4.61061484955775,45.8304074042543,0 4.61064077524511,45.8303995588942,0 4.61060889424382,45.83037110176799,0 4.61051718591023,45.8302925193869,0 4.61041367164333,45.8302067197153,0 4.61029008542146,45.8301218366192,0 4.61027953290226,45.8301178439571,0 4.61027161389749,45.830115795238,0 4.61025946595906,45.8301145273569,0 4.61024839033788,45.8301146852712,0 4.61024094174596,45.8301155120141,0 4.61023325396759,45.8301169726417,0 4.61022393399262,45.8301198976255,0 4.61021668247748,45.830123063321,0 4.61020858198893,45.83012804247721,0 4.61020228450765,45.8301329959267,0 4.61019842871274,45.83013773442819,0 4.61019521422239,45.83014237371841,0 4.61019327446241,45.8301465444951,0 4.6101919681278,45.83015034596949,0 4.610190906233,45.8301536936195,0 4.61019025696281,45.8301579360652,0 4.61019035677194,45.8301613572204,0 4.61019096122051,45.8301644109094,0 4.61031414068177,45.8303634158798,0 4.61031480825705,45.830364216972,0 4.61031612239349,45.83036509891309,0 4.61031729986278,45.8303657125993,0 4.61031873227907,45.83036623258261,0 4.61032028822872,45.8303665706687,0 4.61032209912536,45.8303668150519,0 4.61032363931434,45.83036661295561,0 4.61032531091697,45.8303664990534,0 4.61032671706547,45.83036611873251,0 4.61045654167603,45.8305764674308,0 4.61045667571742,45.8305766456551,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2148">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69010000AR0240</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">L ARBRESLE</SimpleData>
+					<SimpleData name="Adresse">90, RUE GABRIEL PERI</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8302986052641 </north>
+			<south> 45.8301341775309 </south>
+			<east> 4.61062998471436 </east>
+			<west> 4.61042622790861 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.61042622790861,45.8301469157534,0 4.61060832475167,45.8302986052641,0 4.61062998471436,45.8302858670066,0 4.6104478878538,45.8301341775309,0 4.61042622790861,45.8301469157534,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2185">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69010000AL0245</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">L ARBRESLE</SimpleData>
+					<SimpleData name="Adresse">5, AV PIERRE SEMARD</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.834515155007 </north>
+			<south> 45.83428647699139 </south>
+			<east> 4.61913498046099 </east>
+			<west> 4.61878334327066 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.61892265103522,45.834515155007,0 4.61913498046099,45.8344355535326,0 4.6190489199297,45.8343173569536,0 4.61893488380189,45.83428647699139,0 4.61883680218732,45.8342899543801,0 4.61883621366654,45.8342918542445,0 4.61878334327066,45.83449688637059,0 4.61892265103522,45.834515155007,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2197">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69010000AL0246</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">L ARBRESLE</SimpleData>
+					<SimpleData name="Adresse">AV PIERRE SEMARD</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.83452143706651 </north>
+			<south> 45.8344355535326 </south>
+			<east> 4.61915000785497 </east>
+			<west> 4.61892265103522 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.61893403000448,45.8345165230635,0 4.61897450434442,45.83452143706651,0 4.6190172859982,45.8345039811012,0 4.61915000785497,45.8344558736281,0 4.61913498046099,45.8344355535326,0 4.61892265103522,45.834515155007,0 4.61893403000448,45.8345165230635,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2395">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69010000AL0270</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">L ARBRESLE</SimpleData>
+					<SimpleData name="Adresse">51, RUE CHARLES DE GAULLE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8369893821018 </north>
+			<south> 45.83689539631361 </south>
+			<east> 4.61626384894849 </east>
+			<west> 4.61610989824323 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.61612612375389,45.8369893821018,0 4.61626384894849,45.8369754323925,0 4.6162425630559,45.83689539631361,0 4.61610989824323,45.8369105345483,0 4.61612612375389,45.8369893821018,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2400">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69010000AL0271</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">L ARBRESLE</SimpleData>
+					<SimpleData name="Adresse">RUE CHARLES DE GAULLE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8368944754584 </north>
+			<south> 45.8368328719482 </south>
+			<east> 4.61633665234269 </east>
+			<west> 4.61623320703163 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.61633665234269,45.8368742349779,0 4.61630670602743,45.8368328719482,0 4.61623320703163,45.8368575214906,0 4.61625026743994,45.8368944754584,0 4.61628146083199,45.8368904263818,0 4.61633665234269,45.8368742349779,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2408">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69010000AL0272</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">L ARBRESLE</SimpleData>
+					<SimpleData name="Adresse">51, RUE CHARLES DE GAULLE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8368575214906 </north>
+			<south> 45.83661088495071 </south>
+			<east> 4.6165545620105 </east>
+			<west> 4.61606515892141 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.61638515181057,45.8366647632943,0 4.61626293769376,45.8367243358263,0 4.61620927162874,45.836748611489,0 4.61611177907452,45.8367767566512,0 4.61610775458531,45.83677573341739,0 4.61606515892141,45.8367864304824,0 4.616096994172,45.83684830205141,0 4.61616282878252,45.83683033722829,0 4.61616773458173,45.8368394539705,0 4.61620928139574,45.8368281413989,0 4.61621336429447,45.8368355586218,0 4.61622316377632,45.8368357786739,0 4.61623320703163,45.8368575214906,0 4.61630670602743,45.8368328719482,0 4.61629140560869,45.8368120149776,0 4.61629430659529,45.83680107523669,0 4.6162929737523,45.836799563153,0 4.6163768256483,45.836763236712,0 4.61640383788989,45.83677041586741,0 4.61642529155533,45.8367593907577,0 4.61642126804629,45.8367408042588,0 4.61648560565593,45.83671133196191,0 4.61649011634479,45.8367113574759,0 4.6165545620105,45.83668557638089,0 4.61649967229217,45.83661088495071,0 4.61638515181057,45.8366647632943,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2417">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69010000AL0275</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">L ARBRESLE</SimpleData>
+					<SimpleData name="Adresse">6, PL JEAN-JACQUES SAINCLAIR</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8369980819598 </north>
+			<south> 45.8369105345483 </south>
+			<east> 4.61612612375389 </east>
+			<west> 4.61602282360938 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.61603153021678,45.83695813089509,0 4.6160396583533,45.8369936815328,0 4.616040560351,45.8369980819598,0 4.61612612375389,45.8369893821018,0 4.61610989824323,45.8369105345483,0 4.61602282360938,45.8369204269011,0 4.61603153021678,45.83695813089509,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2445">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69010000AL0279</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">L ARBRESLE</SimpleData>
+					<SimpleData name="Adresse">4, PL JEAN-JACQUES SAINCLAIR</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.83692232238601 </north>
+			<south> 45.8368034030727 </south>
+			<east> 4.61601925511564 </east>
+			<west> 4.61574789522492 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.61599942413335,45.8368034030727,0 4.6159052983031,45.8368277170301,0 4.61574789522492,45.8368693284658,0 4.61577070803256,45.83692232238601,0 4.61581983848994,45.8369103610679,0 4.61600970722875,45.8368641419213,0 4.61600108916862,45.8368470622318,0 4.61601925511564,45.83684256913429,0 4.61599942413335,45.8368034030727,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2470">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69010000AL0281</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">L ARBRESLE</SimpleData>
+					<SimpleData name="Adresse">51, RUE CHARLES DE GAULLE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8368528667632 </north>
+			<south> 45.8367864304824 </south>
+			<east> 4.616096994172 </east>
+			<west> 4.61604828364981 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.616096994172,45.83684830205141,0 4.61606515892141,45.8367864304824,0 4.61604828364981,45.8367909951894,0 4.61608011888411,45.8368528667632,0 4.616096994172,45.83684830205141,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2872">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69010000AL0330</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">L ARBRESLE</SimpleData>
+					<SimpleData name="Adresse">8, RUE DE LYON</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">IMMOBILIERE RHONE ALPES SA DHLM</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.83471775513381 </north>
+			<south> 45.8342012609594 </south>
+			<east> 4.619936359688 </east>
+			<west> 4.61933947045846 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.61950944079335,45.8346777820298,0 4.61958058606639,45.83467405983999,0 4.61974669081581,45.8346833867508,0 4.61980310050714,45.8346956376534,0 4.61993144094366,45.83471775513381,0 4.61986992576044,45.8346325322988,0 4.61991832423213,45.8345474443685,0 4.61975927261332,45.8343876929374,0 4.61974878329412,45.8343771252614,0 4.619936359688,45.8342883300158,0 4.61984657269613,45.8342012609594,0 4.61933947045846,45.8343874077357,0 4.61939244242469,45.83445816230499,0 4.6193545783071,45.8344719451876,0 4.61950944079335,45.8346777820298,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2878">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69010000AL0331</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">L ARBRESLE</SimpleData>
+					<SimpleData name="Adresse">8, RUE DE LYON</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">3F RESIDENCES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8348687793353 </north>
+			<south> 45.8343874077357 </south>
+			<east> 4.61950944079335 </east>
+			<west> 4.61875938524219 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.61933947045846,45.8343874077357,0 4.61915000785497,45.8344558736281,0 4.6190172859982,45.8345039811012,0 4.61897450434442,45.83452143706651,0 4.61893403000448,45.8345165230635,0 4.61892727553551,45.8345410283241,0 4.61894540209946,45.8345440109559,0 4.61890700278295,45.8346801137875,0 4.61881229717774,45.8347152467132,0 4.61875938524219,45.834734378942,0 4.61882165372513,45.834823374421,0 4.6188460499624,45.8348687793353,0 4.61893651404541,45.83483839072001,0 4.61900461816076,45.8348144471719,0 4.61913827140815,45.834767317121,0 4.61925806456924,45.83472209690661,0 4.61932336657457,45.8346992741513,0 4.61932660562885,45.8347042715252,0 4.6194600383661,45.8346803818113,0 4.61950944079335,45.8346777820298,0 4.6193545783071,45.8344719451876,0 4.61939244242469,45.83445816230499,0 4.61933947045846,45.8343874077357,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.3491">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69010000AH0043</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">L ARBRESLE</SimpleData>
+					<SimpleData name="Adresse">EN RAPINANT</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8389741524999 </north>
+			<south> 45.83874788266151 </south>
+			<east> 4.6153818583024 </east>
+			<west> 4.61506926359747 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.61506926359747,45.8388083803297,0 4.61526753521006,45.8389741524999,0 4.6153818583024,45.83880327987019,0 4.61530665750701,45.83874788266151,0 4.61506926359747,45.8388083803297,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.3762">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69010000AL0048</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">L ARBRESLE</SimpleData>
+					<SimpleData name="Adresse">RUE CHARLES DE GAULLE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8368277170301 </north>
+			<south> 45.8365804761649 </south>
+			<east> 4.61649967229217 </east>
+			<west> 4.6158837225491 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.6158837225491,45.8367949707384,0 4.6159052983031,45.8368277170301,0 4.61599942413335,45.8368034030727,0 4.61604828364981,45.8367909951894,0 4.61606515892141,45.8367864304824,0 4.61610775458531,45.83677573341739,0 4.61611177907452,45.8367767566512,0 4.61620927162874,45.836748611489,0 4.61626293769376,45.8367243358263,0 4.61638515181057,45.8366647632943,0 4.61649967229217,45.83661088495071,0 4.61647210854315,45.8365804761649,0 4.61646105051816,45.83658567822701,0 4.61635606357749,45.8366350968408,0 4.61623423326258,45.8366945737818,0 4.61618616065394,45.8367162474923,0 4.61602566950335,45.8367579935765,0 4.6158837225491,45.8367949707384,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.4111">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69010000AK0054</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">L ARBRESLE</SimpleData>
+					<SimpleData name="Adresse">9, RUE DE LYON</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">IMMOBILIERE RHONE ALPES SA DHLM</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.83516748627319 </north>
+			<south> 45.8347812853352 </south>
+			<east> 4.62004040181696 </east>
+			<west> 4.61922793869757 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.62004040181696,45.8348741717571,0 4.61997370189197,45.83484936895899,0 4.61989621479354,45.8348258016498,0 4.61980681042516,45.8348044767631,0 4.61972403885921,45.8347896316593,0 4.61959004648765,45.8347812853352,0 4.61946168421443,45.8347891604494,0 4.61933183639609,45.83481227822009,0 4.61922793869757,45.8348459220564,0 4.61954056224207,45.83516748627319,0 4.61961403369956,45.8351244610331,0 4.61962226551269,45.835119569385,0 4.61964646160613,45.8351054420058,0 4.61972144940304,45.8350614042007,0 4.61977300327885,45.835031122554,0 4.61988574089972,45.83496501699241,0 4.61990250361394,45.8349522571182,0 4.62000440486177,45.83489450304521,0 4.62004040181696,45.8348741717571,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.4325">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69010000AH0006</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">L ARBRESLE</SimpleData>
+					<SimpleData name="Adresse">12, CHE DU RAVATEL</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8431465689261 </north>
+			<south> 45.8418952656537 </south>
+			<east> 4.61469379165002 </east>
+			<west> 4.61149536716059 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.61150651101357,45.84277893041929,0 4.61149536716059,45.8427856643507,0 4.61150507832384,45.8427916504332,0 4.61181794501232,45.8429803824449,0 4.61217062046335,45.8431465689261,0 4.61378421492446,45.8428604405479,0 4.61390014701658,45.84275736777311,0 4.61438560356812,45.84270908987921,0 4.61452932622154,45.8425076253101,0 4.61456942984068,45.8424644499663,0 4.61469379165002,45.842380890681,0 4.61463590558764,45.842366856871,0 4.61410595988055,45.8422377972776,0 4.6135126735797,45.8420931575469,0 4.61271458289841,45.8418987490908,0 4.61269991906956,45.8418952656537,0 4.61230780626826,45.8421124325171,0 4.61214169775829,45.84220072804979,0 4.61200190886633,45.842281262179,0 4.6118615333008,45.8423593726669,0 4.61159615986243,45.8425038450249,0 4.61154414499249,45.8425363810573,0 4.61157022624711,45.8425557338508,0 4.61170324595517,45.842658134724,0 4.61150651101357,45.84277893041929,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.4725">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69010000AH0076</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">L ARBRESLE</SimpleData>
+					<SimpleData name="Adresse">CHE DU BORG</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8386920728409 </north>
+			<south> 45.8386783578566 </south>
+			<east> 4.61546184657023 </east>
+			<west> 4.61536919015554 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.61536919015554,45.8386918667945,0 4.61546184657023,45.8386920728409,0 4.61543837913046,45.8386783578566,0 4.61536919015554,45.8386918667945,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.5069">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69010000AS0097</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">L ARBRESLE</SimpleData>
+					<SimpleData name="Adresse">9, RUE EMILE FOURNIER</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8319268456528 </north>
+			<south> 45.8315838616201 </south>
+			<east> 4.61443114803945 </east>
+			<west> 4.61398636001538 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.61418591354461,45.8319268456528,0 4.61420728437761,45.83191744335231,0 4.61439565802032,45.8318338698686,0 4.61442834889274,45.831819442046,0 4.61443114803945,45.83181823115061,0 4.61436733451018,45.8317377218815,0 4.61429726609619,45.8317605198498,0 4.61416737853159,45.8315838616201,0 4.61398636001538,45.8316766066195,0 4.61418591354461,45.8319268456528,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.5081">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69010000AS0098</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">L ARBRESLE</SimpleData>
+					<SimpleData name="Adresse">9, RUE EMILE FOURNIER</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8317605198498 </north>
+			<south> 45.8315538358699 </south>
+			<east> 4.61444698284542 </east>
+			<west> 4.61416737853159 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.61416737853159,45.8315838616201,0 4.61429726609619,45.8317605198498,0 4.61436733451018,45.8317377218815,0 4.61444698284542,45.8317076715604,0 4.61433486984152,45.8315660660725,0 4.61422641253114,45.8315538358699,0 4.61416737853159,45.8315838616201,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

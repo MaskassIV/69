@@ -1,0 +1,952 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>SAINTE-PAULE_COM</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_4">
+		<name>SAINTE-PAULE_COM</name>
+		<Schema name="SAINTE-PAULE_COM" id="SAINTE-PAULE_COM.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="COM">
+			<LineStyle>
+				<color>BFe6c645</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4Ce6c645</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.9406">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">692300000B0157</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINTE-PAULE</SimpleData>
+					<SimpleData name="Adresse">LE PLAN</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE SAINTE PAULE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.96647811029731 </north>
+			<south> 45.9661217959949 </south>
+			<east> 4.56339666263655 </east>
+			<west> 4.56306288322535 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.56306288322535,45.96647811029731,0 4.56314715052375,45.9664346154474,0 4.56322995279677,45.96638501621069,0 4.56330720974331,45.9663311702687,0 4.56335064580172,45.96627797141959,0 4.56338814672875,45.9662204412299,0 4.56339533066294,45.9661914305483,0 4.56339666263655,45.96615646619081,0 4.56338973694193,45.9661217959949,0 4.56331798714076,45.96620582844,0 4.56329658358735,45.9662344049906,0 4.56306288322535,45.96647811029731,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.9550">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">692300000B0159</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINTE-PAULE</SimpleData>
+					<SimpleData name="Adresse">CRET SENCIER</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE SAINTE PAULE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9678704025139 </north>
+			<south> 45.9663884847753 </south>
+			<east> 4.56348177216231 </east>
+			<west> 4.56319607714074 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.5632126433933,45.9664349721407,0 4.56326325308764,45.9664797571521,0 4.56324798630835,45.9665561645572,0 4.56325663207385,45.9667605871473,0 4.56322104972384,45.9670858597333,0 4.56319919546122,45.9672077518057,0 4.56319607714074,45.96734811911099,0 4.56321757771795,45.9674958021976,0 4.56327021300816,45.96763008576551,0 4.56333067823494,45.9677626399944,0 4.56338630660879,45.9678704025139,0 4.56335734907457,45.9676739160815,0 4.56334522693556,45.9675881596247,0 4.56334109682033,45.96750184247981,0 4.56334510825246,45.9674156831176,0 4.56334809824094,45.96738907209141,0 4.563408939213,45.9670527327116,0 4.56345807424424,45.966836343941,0 4.56347737888833,45.9667247546458,0 4.56348177216231,45.9665656357958,0 4.56345480016257,45.966389026761,0 4.56333751005144,45.9663884847753,0 4.56327949770501,45.9664059481832,0 4.56322499547052,45.9664287671112,0 4.5632126433933,45.9664349721407,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.10727">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">692300000C0171</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINTE-PAULE</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE SAINTE PAULE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9611765088085 </north>
+			<south> 45.9609919327201 </south>
+			<east> 4.56535488676157 </east>
+			<west> 4.56505106358563 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.56507884043832,45.9609919327201,0 4.56505106358563,45.9610369899408,0 4.56514424156665,45.96108469817839,0 4.56520452057517,45.9611153882155,0 4.56532429654976,45.9611765088085,0 4.56535488676157,45.9611032216568,0 4.56507884043832,45.9609919327201,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.10832">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">692300000C0172</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINTE-PAULE</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE SAINTE PAULE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9611032216568 </north>
+			<south> 45.9609517506809 </south>
+			<east> 4.56539234637008 </east>
+			<west> 4.56507884043832 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.56535488676157,45.9611032216568,0 4.56537833386436,45.9610466956564,0 4.56539234637008,45.96101263671741,0 4.56535733233074,45.9610075367221,0 4.56535681339572,45.9610074538307,0 4.56532216360958,45.9610015381852,0 4.56528690050905,45.96100130522829,0 4.56510668008344,45.96095362964581,0 4.56509926543944,45.9609517506809,0 4.56507884043832,45.9609919327201,0 4.56535488676157,45.9611032216568,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.10916">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">692300000C0173</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINTE-PAULE</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE SAINTE PAULE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.96101263671741 </north>
+			<south> 45.96074172019519 </south>
+			<east> 4.56545756374573 </east>
+			<west> 4.56494065656003 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.56525443012249,45.96080856054321,0 4.5649815859597,45.96074172019519,0 4.56497315447236,45.9607585892069,0 4.56494065656003,45.96091017080901,0 4.56509926543944,45.9609517506809,0 4.56510668008344,45.96095362964581,0 4.56528690050905,45.96100130522829,0 4.56532216360958,45.9610015381852,0 4.56535681339572,45.9610074538307,0 4.56535733233074,45.9610075367221,0 4.56539234637008,45.96101263671741,0 4.56544106927323,45.9608957765934,0 4.56545756374573,45.9608581707124,0 4.56525443012249,45.96080856054321,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.11329">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">692300000C0179</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINTE-PAULE</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE SAINTE PAULE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.96046067881801 </north>
+			<south> 45.96002985052899 </south>
+			<east> 4.56607647267789 </east>
+			<west> 4.56525625373063 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.56568364654094,45.96002985052899,0 4.56525625373063,45.9602276034041,0 4.56575904805924,45.96046067881801,0 4.56604790218401,45.9602413331413,0 4.56607647267789,45.9602196820955,0 4.56602523316005,45.9601889575493,0 4.56603670142377,45.96017898160181,0 4.5660012807329,45.9601595667874,0 4.56598977405935,45.9601681922578,0 4.56595810729725,45.9601490857694,0 4.56593610874966,45.9601656921939,0 4.56568364654094,45.96002985052899,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.11470">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">692300000C0180</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINTE-PAULE</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE SAINTE PAULE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9602196820955 </north>
+			<south> 45.95996836504721 </south>
+			<east> 4.56622524359161 </east>
+			<west> 4.56584653475831 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.56607647267789,45.9602196820955,0 4.56615611565419,45.96015931621789,0 4.56622524359161,45.9601061209855,0 4.56611867213786,45.9600460796266,0 4.56609570212962,45.96003306748491,0 4.56598099158461,45.95996836504721,0 4.56591766394976,45.9600257130449,0 4.56584653475831,45.9600902842073,0 4.56591149770588,45.9601267634244,0 4.56592312323326,45.96011777605,0 4.56596733128623,45.9601419329503,0 4.56595810729725,45.9601490857694,0 4.56598977405935,45.9601681922578,0 4.5660012807329,45.9601595667874,0 4.56603670142377,45.96017898160181,0 4.56602523316005,45.9601889575493,0 4.56607647267789,45.9602196820955,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.11551">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">692300000C0181</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINTE-PAULE</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE SAINTE PAULE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9601656921939 </north>
+			<south> 45.9597504666181 </south>
+			<east> 4.56653393305472 </east>
+			<west> 4.56568364654094 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.56595810729725,45.9601490857694,0 4.56596733128623,45.9601419329503,0 4.56592312323326,45.96011777605,0 4.56591149770588,45.9601267634244,0 4.56584653475831,45.9600902842073,0 4.56591766394976,45.9600257130449,0 4.56598099158461,45.95996836504721,0 4.56609570212962,45.96003306748491,0 4.56611867213786,45.9600460796266,0 4.56622524359161,45.9601061209855,0 4.56653393305472,45.9598623616327,0 4.56651892107697,45.9598113212483,0 4.56650307515439,45.9597945178599,0 4.56646930302149,45.959769496227,0 4.5664481899859,45.9597763632668,0 4.56642560728509,45.9597633458332,0 4.56639758125441,45.9597541865276,0 4.56636699799003,45.9597504666181,0 4.56633618880281,45.9597524240467,0 4.56632052422604,45.9597556129962,0 4.5662466533837,45.9597782511389,0 4.56617641390293,45.9598059728114,0 4.56612672393878,45.9598297174038,0 4.56568364654094,45.96002985052899,0 4.56593610874966,45.9601656921939,0 4.56595810729725,45.9601490857694,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.11620">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">692300000C0182</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINTE-PAULE</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE SAINTE PAULE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9598685490113 </north>
+			<south> 45.95942092553301 </south>
+			<east> 4.56728624830217 </east>
+			<west> 4.56665164072236 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.56712600500157,45.95949326847229,0 4.56699725882378,45.95942092553301,0 4.56693571906148,45.9594684320721,0 4.56665164072236,45.95970104394319,0 4.56676998041153,45.95977073922889,0 4.5667893706709,45.9597668681833,0 4.56683377295766,45.9597887703834,0 4.56683513004376,45.9598046934596,0 4.56695240001604,45.9598685490113,0 4.56728624830217,45.9595832786737,0 4.56712600500157,45.95949326847229,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.12562">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">692300000C0194</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINTE-PAULE</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE SAINTE PAULE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9611132097761 </north>
+			<south> 45.9609631830296 </south>
+			<east> 4.56602431313112 </east>
+			<west> 4.56571126277197 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.56576168860288,45.960966818704,0 4.56574453813957,45.9609631830296,0 4.56571126277197,45.9610283113371,0 4.56586038065978,45.9610630862626,0 4.56584412154643,45.96109987834701,0 4.56590261586324,45.9611132097761,0 4.56591651837786,45.9610843761742,0 4.56594958949605,45.96108472932359,0 4.56598152842684,45.9610906822775,0 4.56598673571801,45.96109214138449,0 4.56600838445869,45.96104960050341,0 4.56600240111277,45.9610435587166,0 4.56602431313112,45.961001194324,0 4.56589676313278,45.96097098490449,0 4.56588573357658,45.9609918528713,0 4.56576168860288,45.960966818704,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.12706">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">692300000C0196</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINTE-PAULE</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE SAINTE PAULE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9612301478147 </north>
+			<south> 45.9611185116647 </south>
+			<east> 4.56590941886763 </east>
+			<west> 4.56571047604145 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.56590941886763,45.9612116489514,0 4.56584708908496,45.9611497344069,0 4.56584473022177,45.9611349059825,0 4.56578627794299,45.9611185116647,0 4.56576616602945,45.96114698079649,0 4.56574474516111,45.9611430439171,0 4.56571047604145,45.9611959368585,0 4.56584259852813,45.96122797465551,0 4.56588734455445,45.9612301478147,0 4.56590941886763,45.9612116489514,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.12775">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">692300000C0197</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINTE-PAULE</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE SAINTE PAULE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.96123083875401 </north>
+			<south> 45.961125856473 </south>
+			<east> 4.56557335597246 </east>
+			<west> 4.56540869414943 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.56553131099952,45.96123083875401,0 4.56557335597246,45.9611607256112,0 4.56543753725889,45.961125856473,0 4.56540869414943,45.9611924545342,0 4.56553131099952,45.96123083875401,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.13067">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">692300000A0020</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINTE-PAULE</SimpleData>
+					<SimpleData name="Adresse">ROCHE PROZ</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE SAINTE PAULE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9809771703593 </north>
+			<south> 45.98068304240049 </south>
+			<east> 4.55679008301138 </east>
+			<west> 4.55617170156146 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.55679008301138,45.98068304240049,0 4.55677372548229,45.9806847983968,0 4.55662030710316,45.980705190823,0 4.55646833531312,45.9807310572298,0 4.55631871405233,45.9807623851999,0 4.55617170156146,45.98079917119361,0 4.55628242378832,45.9808359280447,0 4.55659570101519,45.9809771703593,0 4.55668543416394,45.9808975788711,0 4.5567232943249,45.9808430183956,0 4.5567535987775,45.9807908134391,0 4.55677596958622,45.980736736066,0 4.55679008301138,45.98068304240049,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.14736">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">692300000C0223</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINTE-PAULE</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE SAINTE PAULE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9619106568688 </north>
+			<south> 45.9618271664464 </south>
+			<east> 4.56643276219933 </east>
+			<west> 4.56629825517387 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.56643276219933,45.96188063173359,0 4.56640658035573,45.9618637011369,0 4.56639920549111,45.9618677661259,0 4.56632611585565,45.9618271664464,0 4.56629825517387,45.9618465560495,0 4.5663978427252,45.9619106568688,0 4.56643276219933,45.96188063173359,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.14841">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">692300000C0225</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINTE-PAULE</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE SAINTE PAULE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9620108815898 </north>
+			<south> 45.9619455252064 </south>
+			<east> 4.56667176309785 </east>
+			<west> 4.56653295601376 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.56655316516866,45.9619455252064,0 4.56653295601376,45.9619705732755,0 4.56665963371863,45.9620108815898,0 4.56667176309785,45.9620014368349,0 4.56663086720896,45.9619711998615,0 4.56655316516866,45.9619455252064,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.19256">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">692300000A0307</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINTE-PAULE</SimpleData>
+					<SimpleData name="Adresse">LES EVERCINS</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE SAINTE PAULE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9898960956737 </north>
+			<south> 45.9891213558862 </south>
+			<east> 4.56202651291061 </east>
+			<west> 4.56142853382254 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.56142853382254,45.9896772074022,0 4.56142928121987,45.9898037410216,0 4.56143319367164,45.9898960956737,0 4.56149594996048,45.9897762522243,0 4.56144834622037,45.9897606964475,0 4.56147187787375,45.9897247956413,0 4.56151701730478,45.989740025114,0 4.56158709393953,45.9896368331232,0 4.56166473828754,45.98953623875069,0 4.56170035347846,45.9894935964099,0 4.56194693819065,45.9892449441942,0 4.56198409918063,45.98919759696471,0 4.56201421647289,45.9891479150549,0 4.56202651291061,45.9891213558862,0 4.56158969016281,45.9895143064097,0 4.56146525633513,45.9896462585646,0 4.56142853382254,45.9896772074022,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.24951">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">692300000C0445</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINTE-PAULE</SimpleData>
+					<SimpleData name="Adresse">LES CLOS</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE SAINTE PAULE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9595832786737 </north>
+			<south> 45.9590602028549 </south>
+			<east> 4.56776765972784 </east>
+			<west> 4.56712600500157 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.56728624830217,45.9595832786737,0 4.567563069444,45.9593090646278,0 4.56762820436008,45.9592517807144,0 4.56772244922318,45.9591419448249,0 4.56773426065354,45.95913043280639,0 4.56775480165787,45.9591034884972,0 4.56776765972784,45.9590743088435,0 4.56773264855001,45.9590602028549,0 4.56736335179711,45.9593248897115,0 4.56718081206306,45.9594542312664,0 4.56712600500157,45.95949326847229,0 4.56728624830217,45.9595832786737,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.25011">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">692300000C0447</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINTE-PAULE</SimpleData>
+					<SimpleData name="Adresse">LES CLOS</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE SAINTE PAULE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.95970104394319 </north>
+			<south> 45.9592691303573 </south>
+			<east> 4.56693571906148 </east>
+			<west> 4.56632144201845 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.56632144201845,45.9596607597573,0 4.56633362880289,45.9596578891281,0 4.56638467547485,45.9596500675265,0 4.56643678712256,45.959647905386,0 4.56648867029404,45.9596513305366,0 4.5665391657503,45.95966044908749,0 4.56665164072236,45.95970104394319,0 4.56693571906148,45.9594684320721,0 4.56670676350327,45.9592691303573,0 4.56666500103784,45.95931276035481,0 4.56650379338763,45.95947477009291,0 4.56633603549889,45.959633537741,0 4.56632144201845,45.9596607597573,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.29758">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">692300000A0006</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINTE-PAULE</SimpleData>
+					<SimpleData name="Adresse">ROCHE PROZ</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE SAINTE PAULE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9807903978711 </north>
+			<south> 45.9804047448584 </south>
+			<east> 4.55680646927365 </east>
+			<west> 4.55587676792028 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.55674358408352,45.9804047448584,0 4.55673377783112,45.9804097432634,0 4.55587676792028,45.9805755348568,0 4.55597942744699,45.9807384061323,0 4.55614161045996,45.9807903978711,0 4.55657287298613,45.980695304996,0 4.5567979449293,45.9806641103725,0 4.55680628265881,45.9806117570362,0 4.55680646927365,45.9805589753515,0 4.55680400942969,45.98053595207699,0 4.55678784876276,45.9804852865175,0 4.55676371965863,45.9804360814964,0 4.55674358408352,45.9804047448584,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.32623">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">692300000A0711</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINTE-PAULE</SimpleData>
+					<SimpleData name="Adresse">CRET BOURCET</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE SAINTE PAULE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9932724490399 </north>
+			<south> 45.99257718485351 </south>
+			<east> 4.55447103021157 </east>
+			<west> 4.55381415796213 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.55447103021157,45.9926058635629,0 4.55429655065539,45.99257718485351,0 4.55381415796213,45.993267499208,0 4.55388666090324,45.9932724490399,0 4.55405557193987,45.9932686006672,0 4.55447103021157,45.9926058635629,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.32663">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">692300000C0713</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINTE-PAULE</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE SAINTE PAULE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9612955386706 </north>
+			<south> 45.9611924545342 </south>
+			<east> 4.56553131099952 </east>
+			<west> 4.56533701895906 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.56540869414943,45.9611924545342,0 4.56540045836736,45.96121166261349,0 4.56538902639634,45.9612092988154,0 4.56533701895906,45.9612742356874,0 4.56535001287295,45.96127702822839,0 4.56542479765313,45.9612955386706,0 4.56550142024927,45.9612742140489,0 4.5655215118679,45.9612450247115,0 4.56553131099952,45.96123083875401,0 4.56540869414943,45.9611924545342,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.32681">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">692300000C0714</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINTE-PAULE</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE SAINTE PAULE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9612742140489 </north>
+			<south> 45.9611607256112 </south>
+			<east> 4.56562513482692 </east>
+			<west> 4.56550142024927 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.56562513482692,45.96117405998609,0 4.56557335597246,45.9611607256112,0 4.56553131099952,45.96123083875401,0 4.5655215118679,45.9612450247115,0 4.56550142024927,45.9612742140489,0 4.56556753383717,45.9612557367148,0 4.56562513482692,45.96117405998609,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.33404">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">692300000C0746</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINTE-PAULE</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE SAINTE PAULE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.961001194324 </north>
+			<south> 45.96068878894679 </south>
+			<east> 4.56635439376386 </east>
+			<west> 4.56576168860288 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.5657738324859,45.9609397207162,0 4.56576168860288,45.960966818704,0 4.56588573357658,45.9609918528713,0 4.56589676313278,45.96097098490449,0 4.56602431313112,45.961001194324,0 4.56603631137176,45.9609780612683,0 4.56611499695958,45.9609975080277,0 4.56619960657954,45.96083475732961,0 4.56632401464591,45.9608634787386,0 4.56635439376386,45.9608146023708,0 4.56595957093202,45.9607045986624,0 4.56591095063539,45.96068878894679,0 4.56588188516867,45.96073845762349,0 4.5657738324859,45.9609397207162,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.34425">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">692300000C0793</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINTE-PAULE</SimpleData>
+					<SimpleData name="Adresse">LES CLOS</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE SAINTE PAULE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.95968098815351 </north>
+			<south> 45.958966812847 </south>
+			<east> 4.56773264855001 </east>
+			<west> 4.56625899635716 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.56666919118523,45.95908330172229,0 4.56662244755724,45.959097098399,0 4.56652566281633,45.9591268088656,0 4.56657165453832,45.959150130237,0 4.56668601584174,45.9592479815514,0 4.56627409134419,45.9596623155709,0 4.56625899635716,45.95968098815351,0 4.56632144201845,45.9596607597573,0 4.56633603549889,45.959633537741,0 4.56650379338763,45.95947477009291,0 4.56666500103784,45.95931276035481,0 4.56670676350327,45.9592691303573,0 4.56693571906148,45.9594684320721,0 4.56699725882378,45.95942092553301,0 4.56712600500157,45.95949326847229,0 4.56718081206306,45.9594542312664,0 4.56736335179711,45.9593248897115,0 4.56773264855001,45.9590602028549,0 4.56719857892356,45.958966812847,0 4.56682348983384,45.9589962330305,0 4.56683619150631,45.9590341555701,0 4.56666919118523,45.95908330172229,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.34511">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">692300000B0799</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINTE-PAULE</SimpleData>
+					<SimpleData name="Adresse">LA CHASSAGNE</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE SAINTE PAULE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9674121712307 </north>
+			<south> 45.96713681001789 </south>
+			<east> 4.56888805688941 </east>
+			<west> 4.56881466219924 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.56888805688941,45.96713681001789,0 4.56883487973066,45.96713808728349,0 4.56881466219924,45.9674121712307,0 4.56886643225429,45.9674113638113,0 4.56888805688941,45.96713681001789,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.34994">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">692300000B0082</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINTE-PAULE</SimpleData>
+					<SimpleData name="Adresse">FELINE</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE SAINTE PAULE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9695311865838 </north>
+			<south> 45.9689230845616 </south>
+			<east> 4.55733305772355 </east>
+			<west> 4.55658478247966 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.55723768643806,45.9689230845616,0 4.55699453996091,45.9690396423795,0 4.55692958166476,45.96907656234,0 4.55687004167494,45.96911782103041,0 4.55684250857953,45.9691399057075,0 4.55663548400107,45.96940115366951,0 4.55661059688676,45.96944373713161,0 4.55659363914728,45.9694881029785,0 4.55658478247966,45.9695311865838,0 4.55733305772355,45.9691028971151,0 4.55723768643806,45.9689230845616,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.35147">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">692300000B0828</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINTE-PAULE</SimpleData>
+					<SimpleData name="Adresse">LE MARDUEL</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE SAINTE PAULE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9666923639921 </north>
+			<south> 45.9666535882871 </south>
+			<east> 4.56802670064027 </east>
+			<west> 4.56797870567207 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.56797870567207,45.9666535882871,0 4.56800783727962,45.9666923639921,0 4.56802670064027,45.9666880497295,0 4.5679997738086,45.9666768040036,0 4.56797870567207,45.9666535882871,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.35233">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">692300000B0830</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINTE-PAULE</SimpleData>
+					<SimpleData name="Adresse">LE MARDUEL</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE SAINTE PAULE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.966698509037 </north>
+			<south> 45.9666827363553 </south>
+			<east> 4.56808554950724 </east>
+			<west> 4.56804732098037 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.56804732098037,45.966691006559,0 4.56805838393346,45.966698509037,0 4.56808554950724,45.9666909274346,0 4.5680851870556,45.9666827363553,0 4.56804732098037,45.966691006559,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

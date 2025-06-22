@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>RIVERIE_DEPT</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_3">
+		<name>RIVERIE_DEPT</name>
+		<Schema name="RIVERIE_DEPT" id="RIVERIE_DEPT.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="DEPT">
+			<LineStyle>
+				<color>BF63f16c</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C63f16c</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1908">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">691660000U0018</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">RIVERIE</SimpleData>
+					<SimpleData name="Adresse">LE VERSIEU</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.597365266545 </north>
+			<south> 45.5969250165799 </south>
+			<east> 4.58647369590899 </east>
+			<west> 4.5856873696176 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.58599929973454,45.597365266545,0 4.58647369590899,45.59713043869999,0 4.58621699514267,45.5969250165799,0 4.58597455495973,45.5969892301754,0 4.58596681184689,45.59699213140989,0 4.5858846236159,45.5970073406594,0 4.5856873696176,45.59709937726001,0 4.58585267289821,45.59724034129119,0 4.58599929973454,45.597365266545,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3141">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">691660000U0278</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">RIVERIE</SimpleData>
+					<SimpleData name="Adresse">LES ROCHES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.59606158671549 </north>
+			<south> 45.5954631538511 </south>
+			<east> 4.58815933151062 </east>
+			<west> 4.58749024062612 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.58779371261554,45.5954631538511,0 4.58769263103848,45.5955711288863,0 4.5876447314583,45.5956635822567,0 4.58754180897896,45.59579689165649,0 4.58749024062612,45.5958687716535,0 4.58774658015751,45.59606158671549,0 4.58815933151062,45.59569981827291,0 4.58783789401155,45.5954917114242,0 4.58779371261554,45.5954631538511,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3156">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">691660000U0279</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">RIVERIE</SimpleData>
+					<SimpleData name="Adresse">LES ROCHES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.5963090097835 </north>
+			<south> 45.5958687716535 </south>
+			<east> 4.58774658015751 </east>
+			<west> 4.5871786828451 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.58749024062612,45.5958687716535,0 4.58742082461774,45.59588191038039,0 4.58740717550757,45.5958891281774,0 4.58732931246986,45.5959477792899,0 4.58719774462431,45.5960664516569,0 4.5871786828451,45.59608626497401,0 4.5871977808643,45.59610355829599,0 4.58730543051105,45.5962024624681,0 4.58746500261417,45.5963090097835,0 4.58774658015751,45.59606158671549,0 4.58749024062612,45.5958687716535,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3181">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">691660000U0280</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">RIVERIE</SimpleData>
+					<SimpleData name="Adresse">LES ROCHES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.5969220705659 </north>
+			<south> 45.59608626497401 </south>
+			<east> 4.58746500261417 </east>
+			<west> 4.58651043130345 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.58746500261417,45.5963090097835,0 4.58730543051105,45.5962024624681,0 4.5871977808643,45.59610355829599,0 4.5871786828451,45.59608626497401,0 4.58701301189522,45.5962595480058,0 4.58684890203764,45.5964336193484,0 4.58680957026898,45.5964758748135,0 4.58681118831604,45.5965279100707,0 4.58651043130345,45.5967733496299,0 4.58676422620041,45.5969220705659,0 4.58746500261417,45.5963090097835,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3195">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">691660000U0281</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">RIVERIE</SimpleData>
+					<SimpleData name="Adresse">LES ROCHES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.59713043869999 </north>
+			<south> 45.5967733496299 </south>
+			<east> 4.58676422620041 </east>
+			<west> 4.58621699514267 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.58676422620041,45.5969220705659,0 4.58651043130345,45.5967733496299,0 4.58645733377529,45.5968008482171,0 4.58621699514267,45.5969250165799,0 4.58647369590899,45.59713043869999,0 4.58648433970428,45.5971257852605,0 4.58652838878078,45.5971003957583,0 4.58657099876607,45.59707403581501,0 4.58661229275112,45.597046523564,0 4.58665201682156,45.59701795265481,0 4.58671145465139,45.5969699195666,0 4.58673319974438,45.5969497082121,0 4.58676422620041,45.5969220705659,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3278">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">691660000U0029</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">RIVERIE</SimpleData>
+					<SimpleData name="Adresse">LE VERSIEU</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6016488720761 </north>
+			<south> 45.60137915992661 </south>
+			<east> 4.58663904041918 </east>
+			<west> 4.5863302370492 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.5863302370492,45.60137915992661,0 4.58633984887869,45.6014011805799,0 4.58637306195844,45.6014588046617,0 4.58643547072516,45.6015502419925,0 4.58645011992214,45.6015868723335,0 4.58646655441624,45.6016231172275,0 4.58647960924724,45.6016488720761,0 4.5865392362604,45.6016341608559,0 4.58656834919494,45.6016247435996,0 4.58660429001028,45.601611807514,0 4.58663904041918,45.6015976272863,0 4.58645031636439,45.6014637494339,0 4.5863302370492,45.60137915992661,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.4473">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">691660000U0434</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">RIVERIE</SimpleData>
+					<SimpleData name="Adresse">LES COTES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.5950566818308 </north>
+			<south> 45.5947376314249 </south>
+			<east> 4.59199660449236 </east>
+			<west> 4.58993862802363 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.59199660449236,45.59496241356591,0 4.59115058626645,45.5948710808972,0 4.59030504245954,45.5947782941411,0 4.58993862802363,45.5947376314249,0 4.5905163695473,45.5948374510907,0 4.590568993883,45.5948472445399,0 4.59062089271658,45.5948585793475,0 4.59065241331969,45.5948661493949,0 4.59069493771752,45.59487716643069,0 4.59073672886291,45.5948894547461,0 4.59077765851776,45.5949030161556,0 4.59077908725036,45.59490362640779,0 4.59083694142391,45.5949257748605,0 4.59089393413657,45.5949491963941,0 4.59090783418276,45.5949552143133,0 4.59095882031804,45.5949794413132,0 4.59101105272532,45.5950023897359,0 4.59102611730127,45.59500875143,0 4.59108081637316,45.59502824241719,0 4.59111004689236,45.5950364752001,0 4.59114000551344,45.5950432566185,0 4.59117031268095,45.5950487721739,0 4.59118525581387,45.59505090246431,0 4.59121447503302,45.5950542718173,0 4.59124378114222,45.5950561988777,0 4.59127330238002,45.5950566818308,0 4.59130291050328,45.59505572249099,0 4.59132812742008,45.5950537444872,0 4.59137169210935,45.595047363816,0 4.59193074473275,45.5949831603737,0 4.59198975506069,45.59497854227381,0 4.59199660449236,45.59496241356591,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.4518">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">691660000U0441</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">RIVERIE</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6010552738215 </north>
+			<south> 45.6005458356255 </south>
+			<east> 4.58873278680645 </east>
+			<west> 4.58762977164335 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.58841944808207,45.6005458356255,0 4.58837193307316,45.60054884837191,0 4.5883213363197,45.6005607310827,0 4.58822932025533,45.6005823853895,0 4.58822748858325,45.6005811503311,0 4.58762977164335,45.6007175728221,0 4.58766151827902,45.6008896910591,0 4.58768008959643,45.6009557174493,0 4.58772842306301,45.6009678245275,0 4.58775428017708,45.6010552738215,0 4.58816178910047,45.6009390995363,0 4.58825913496126,45.6009108852801,0 4.58820025127046,45.6008216508072,0 4.58856844137278,45.60078862071549,0 4.58870936275243,45.60077663293229,0 4.58873278680645,45.60077468087181,0 4.58871692053357,45.60070906676,0 4.58850935599029,45.6007371268912,0 4.58846291891541,45.60063898036489,0 4.58841944808207,45.6005458356255,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.4582">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">691660000U0453</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">RIVERIE</SimpleData>
+					<SimpleData name="Adresse">LE VERSIEU</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.60099866490761 </north>
+			<south> 45.6005703117052 </south>
+			<east> 4.58682133719286 </east>
+			<west> 4.58661336575222 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.58674288586475,45.60099866490761,0 4.58682133719286,45.6009826972333,0 4.58664709498706,45.6005703117052,0 4.58661336575222,45.6006380667645,0 4.58674288586475,45.60099866490761,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.4593">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">691660000U0455</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">RIVERIE</SimpleData>
+					<SimpleData name="Adresse">LE VERSIEU</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6013691467447 </north>
+			<south> 45.6009826972333 </south>
+			<east> 4.58693470895063 </east>
+			<west> 4.58674288586475 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.58674288586475,45.60099866490761,0 4.58677608547893,45.6010871816762,0 4.58679075339383,45.6011468685882,0 4.58680277890462,45.60120389080041,0 4.58678529597215,45.6012833954759,0 4.58691875302292,45.6013691467447,0 4.58692266127933,45.6013622465908,0 4.58692869510148,45.6013489217649,0 4.58693279735442,45.6013353539939,0 4.58693470895063,45.60132145686771,0 4.58692612428237,45.60123673587519,0 4.58691580008905,45.60120328694601,0 4.58682133719286,45.6009826972333,0 4.58674288586475,45.60099866490761,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.4603">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">691660000U0457</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">RIVERIE</SimpleData>
+					<SimpleData name="Adresse">LE VERSIEU</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6015976272863 </north>
+			<south> 45.6012833954759 </south>
+			<east> 4.58691875302292 </east>
+			<west> 4.58645031636439 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.58645031636439,45.6014637494339,0 4.58663904041918,45.6015976272863,0 4.58664624534094,45.6015938329455,0 4.58667631407091,45.6015774671004,0 4.58670506155916,45.601559768897,0 4.586732500693,45.6015411884842,0 4.58675836980524,45.6015215494227,0 4.58678156099165,45.60150248853059,0 4.58681836858542,45.60147053623319,0 4.58685321878908,45.6014374406821,0 4.5868867657716,45.6014036429791,0 4.58691875302292,45.6013691467447,0 4.58678529597215,45.6012833954759,0 4.58677552523704,45.60131856897059,0 4.58676369466779,45.6013535013263,0 4.58674992736098,45.6013880106738,0 4.58673471055996,45.6014211894793,0 4.58668437637499,45.60141091151421,0 4.58663283171123,45.60142109556979,0 4.58657283307167,45.6014362624147,0 4.5865117851577,45.6014506334343,0 4.58645031636439,45.6014637494339,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

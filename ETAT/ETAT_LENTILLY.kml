@@ -1,0 +1,1447 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>LENTILLY_ETAT</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_1">
+		<name>LENTILLY_ETAT</name>
+		<Schema name="LENTILLY_ETAT" id="LENTILLY_ETAT.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="ETAT">
+			<LineStyle>
+				<color>BF119ff7</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C119ff7</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.51">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69112000AA0187</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LENTILLY</SimpleData>
+					<SimpleData name="Adresse">LES BALMES</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8386429593483 </north>
+			<south> 45.83822411777351 </south>
+			<east> 4.68030840361672 </east>
+			<west> 4.67970149994179 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.68027420004353,45.8383140641412,0 4.68030840361672,45.8382608646517,0 4.68026592026034,45.83822411777351,0 4.68010451153495,45.83830208707009,0 4.67970149994179,45.8386429593483,0 4.68027420004353,45.8383140641412,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.55">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69112000AD0002</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LENTILLY</SimpleData>
+					<SimpleData name="Adresse">CHARPENAY</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">MINISTERE ECOLOGIE DEVELOPPEMENT TRANSPORTS LOGEMENT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8201761052267 </north>
+			<south> 45.8200776507386 </south>
+			<east> 4.6879780065565 </east>
+			<west> 4.68762644696875 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.6879780065565,45.8201132958186,0 4.68797047563463,45.8200776507386,0 4.68762644696875,45.8201761052267,0 4.6879780065565,45.8201132958186,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.338">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69112000AD0010</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LENTILLY</SimpleData>
+					<SimpleData name="Adresse">CHARPENAY</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SCI</SimpleData>
+					<SimpleData name="Denomination">SCI LES CHICOTS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.81824204922609 </north>
+			<south> 45.8178332574275 </south>
+			<east> 4.68677588302701 </east>
+			<west> 4.68608042763852 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.68612834022678,45.8178332574275,0 4.6861265376559,45.8178332843456,0 4.68610781602619,45.8180005529881,0 4.68608042763852,45.81822568566981,0 4.68677588302701,45.81824204922609,0 4.68661614003764,45.81786217996859,0 4.6866086453974,45.8178445482024,0 4.68612834022678,45.8178332574275,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.348">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69112000AB0100</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LENTILLY</SimpleData>
+					<SimpleData name="Adresse">PRE LONG</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8376307850215 </north>
+			<south> 45.83740248152589 </south>
+			<east> 4.68488726003236 </east>
+			<west> 4.68470625450905 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.68488726003236,45.8376033304994,0 4.68485664444305,45.83740248152589,0 4.68470625450905,45.83743588883119,0 4.6847676142214,45.8376307850215,0 4.68488726003236,45.8376033304994,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.372">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69112000AB0102</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LENTILLY</SimpleData>
+					<SimpleData name="Adresse">PRE LONG</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.83743588883119 </north>
+			<south> 45.83710701874231 </south>
+			<east> 4.68485664444305 </east>
+			<west> 4.68461973291317 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.68461973291317,45.8371512081883,0 4.68464674515736,45.8372424962013,0 4.68467700848669,45.8373431930317,0 4.68470625450905,45.83743588883119,0 4.68485664444305,45.83740248152589,0 4.68481064116179,45.83710701874231,0 4.68461973291317,45.8371512081883,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.417">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69112000AB0104</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LENTILLY</SimpleData>
+					<SimpleData name="Adresse">PRE LONG</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8371512081883 </north>
+			<south> 45.8368225369022 </south>
+			<east> 4.68481064116179 </east>
+			<west> 4.68452454987553 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.68460209702969,45.8368225369022,0 4.68452454987553,45.8368360329944,0 4.68456379282022,45.83696496786209,0 4.68459774542931,45.837076778321,0 4.68461973291317,45.8371512081883,0 4.68481064116179,45.83710701874231,0 4.68469325704809,45.8369468244044,0 4.68460209702969,45.8368225369022,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.445">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69112000AB0106</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LENTILLY</SimpleData>
+					<SimpleData name="Adresse">PRE LONG</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8368360329944 </north>
+			<south> 45.8366326547753 </south>
+			<east> 4.68460209702969 </east>
+			<west> 4.68446422158136 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.68446422158136,45.8366326547753,0 4.68447799638599,45.8366828883408,0 4.68452454987553,45.8368360329944,0 4.68460209702969,45.8368225369022,0 4.68446422158136,45.8366326547753,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.459">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69112000AB0107</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LENTILLY</SimpleData>
+					<SimpleData name="Adresse">PRE LONG</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8366326547753 </north>
+			<south> 45.8363572625173 </south>
+			<east> 4.68469097957037 </east>
+			<west> 4.68440344236866 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.68446422158136,45.8366326547753,0 4.68469097957037,45.8363572625173,0 4.68440344236866,45.8364060452915,0 4.68441833201368,45.8364843639619,0 4.68446422158136,45.8366326547753,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.527">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69112000AB0112</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LENTILLY</SimpleData>
+					<SimpleData name="Adresse">PRE LONG</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8353205670023 </north>
+			<south> 45.8346369608655 </south>
+			<east> 4.68504484275712 </east>
+			<west> 4.68429802403038 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.68504484275712,45.8348176475433,0 4.68476757491125,45.8346369608655,0 4.68429802403038,45.8353205670023,0 4.68481571028088,45.8352302520977,0 4.68504484275712,45.8348176475433,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.544">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69112000AC0113</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LENTILLY</SimpleData>
+					<SimpleData name="Adresse">219, RTE NATIONALE 7</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">MINISTERE ECOLOGIE DEVELOPPEMENT TRANSPORTS LOGEMENT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.82138589236849 </north>
+			<south> 45.8213529623879 </south>
+			<east> 4.68232030868271 </east>
+			<west> 4.68220319507738 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.68229615150695,45.8213761098831,0 4.68232030868271,45.8213529623879,0 4.68220319507738,45.82137362174411,0 4.68220782014158,45.82138589236849,0 4.68229615150695,45.8213761098831,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.595">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69112000AB0117</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LENTILLY</SimpleData>
+					<SimpleData name="Adresse">PRE LONG</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8348176475433 </north>
+			<south> 45.8336870904305 </south>
+			<east> 4.68559077237948 </east>
+			<west> 4.68476757491125 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.68535000423133,45.8342703347256,0 4.68559077237948,45.8338339570803,0 4.68530461891973,45.8336870904305,0 4.68489143938779,45.8344566852105,0 4.68476757491125,45.8346369608655,0 4.68504484275712,45.8348176475433,0 4.68535000423133,45.8342703347256,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.694">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69112000AB0123</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LENTILLY</SimpleData>
+					<SimpleData name="Adresse">LES FERRATIERES</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">AUPM</SimpleData>
+					<SimpleData name="Denomination">ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.83398831040739 </north>
+			<south> 45.83384035730529 </south>
+			<east> 4.6882936782579 </east>
+			<west> 4.68794250168099 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.6880507217413,45.83388620665301,0 4.68818012858499,45.8339422773798,0 4.68828809696542,45.83398831040739,0 4.6882936782579,45.8339306724278,0 4.68794250168099,45.83384035730529,0 4.6880507217413,45.83388620665301,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.724">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69112000AB0125</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LENTILLY</SimpleData>
+					<SimpleData name="Adresse">PRE LONG</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8338339570803 </north>
+			<south> 45.8325302513029 </south>
+			<east> 4.68605832655703 </east>
+			<west> 4.68480485489504 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.68559077237948,45.8338339570803,0 4.68605832655703,45.83297627032439,0 4.68592446134885,45.8329048618743,0 4.68576364544908,45.8328243081537,0 4.68558911371899,45.8327291874897,0 4.6854124779668,45.832632656849,0 4.68523115376555,45.8325302513029,0 4.68480485489504,45.8327727739821,0 4.68523692997664,45.8333354777825,0 4.68537593997162,45.8335542542905,0 4.68530461891973,45.8336870904305,0 4.68559077237948,45.8338339570803,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.754">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69112000AB0127</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LENTILLY</SimpleData>
+					<SimpleData name="Adresse">PRE LONG</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">AUPM</SimpleData>
+					<SimpleData name="Denomination">ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8327727739821 </north>
+			<south> 45.8323204932312 </south>
+			<east> 4.68523115376555 </east>
+			<west> 4.68457527020922 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.68457527020922,45.8324738348269,0 4.68480485489504,45.8327727739821,0 4.68523115376555,45.8325302513029,0 4.68512818801078,45.8324748636227,0 4.68503112792255,45.8324229905277,0 4.68483176367776,45.8323204932312,0 4.68457527020922,45.8324738348269,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.832">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69112000AB0131</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LENTILLY</SimpleData>
+					<SimpleData name="Adresse">PRE LONG</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">AUPM</SimpleData>
+					<SimpleData name="Denomination">ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8321885894204 </north>
+			<south> 45.8315226030047 </south>
+			<east> 4.68436997807794 </east>
+			<west> 4.68324669846033 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.68424277047101,45.8321885894204,0 4.68436997807794,45.8320884263999,0 4.68416859686846,45.8319873090951,0 4.6839477495562,45.8318773846546,0 4.68374221542316,45.8317710144271,0 4.68351114315736,45.8316552970021,0 4.68333294211234,45.8315663523966,0 4.68324669846033,45.8315226030047,0 4.68424277047101,45.8321885894204,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.867">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69112000AB0135</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LENTILLY</SimpleData>
+					<SimpleData name="Adresse">LES FERRATIERES</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8325129084583 </north>
+			<south> 45.83200958883101 </south>
+			<east> 4.6869564403841 </east>
+			<west> 4.68659920472798 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.68672546938582,45.83200958883101,0 4.68659920472798,45.8324988414774,0 4.68688761005173,45.8325129084583,0 4.6869564403841,45.8320205502777,0 4.68672546938582,45.83200958883101,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.1079">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69112000AB0157</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LENTILLY</SimpleData>
+					<SimpleData name="Adresse">PRE LONG</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8358717070115 </north>
+			<south> 45.8356456823159 </south>
+			<east> 4.68544161570737 </east>
+			<west> 4.685170843227 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.685170843227,45.8356694477855,0 4.68526992452595,45.8358717070115,0 4.68544161570737,45.8356456823159,0 4.685170843227,45.8356694477855,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.1087">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69112000AB0158</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LENTILLY</SimpleData>
+					<SimpleData name="Adresse">PRE LONG</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8363880837384 </north>
+			<south> 45.8352577923678 </south>
+			<east> 4.68526992452595 </east>
+			<west> 4.68421690273779 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.68427186506008,45.8353585161216,0 4.68421968679799,45.8354347725364,0 4.68421690273779,45.8354364353041,0 4.68423922017452,45.8354710495301,0 4.6842510958674,45.8354928494315,0 4.6842800300499,45.835545829256,0 4.68430437193694,45.8356383280518,0 4.68429794006549,45.83580334145171,0 4.68432901435919,45.8360193153806,0 4.6843999304242,45.8363880837384,0 4.68470862305809,45.8363358329906,0 4.68526992452595,45.8358717070115,0 4.685170843227,45.8356694477855,0 4.68483523495859,45.8352577923678,0 4.68427186506008,45.8353585161216,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.1136">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69112000AA0165</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LENTILLY</SimpleData>
+					<SimpleData name="Adresse">LES BALMES</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.84112621861449 </north>
+			<south> 45.84052261359891 </south>
+			<east> 4.67805192891337 </east>
+			<west> 4.67712571597835 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.67805192891337,45.84088021452209,0 4.67712571597835,45.84052261359891,0 4.67768646629433,45.84112621861449,0 4.67805192891337,45.84088021452209,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.1167">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69112000AA0169</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LENTILLY</SimpleData>
+					<SimpleData name="Adresse">LES BALMES</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.840578580108 </north>
+			<south> 45.8399476901314 </south>
+			<east> 4.67919657364514 </east>
+			<west> 4.67758130633609 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.67819168942511,45.8400349977269,0 4.67781261181962,45.8399898298168,0 4.67758130633609,45.8399476901314,0 4.67783586495656,45.8405469244475,0 4.67849997500159,45.840578580108,0 4.67919657364514,45.8400432116664,0 4.67854915287553,45.8400728296563,0 4.67820604451445,45.8400366759133,0 4.67819168942511,45.8400349977269,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.1203">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69112000AA0173</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LENTILLY</SimpleData>
+					<SimpleData name="Adresse">LES BALMES</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8400728296563 </north>
+			<south> 45.8394031906538 </south>
+			<east> 4.67919657364514 </east>
+			<west> 4.67801304843854 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.67801304843854,45.83975843623,0 4.67819168942511,45.8400349977269,0 4.67820604451445,45.8400366759133,0 4.67854915287553,45.8400728296563,0 4.67919657364514,45.8400432116664,0 4.67882001607923,45.8394031906538,0 4.6788163765787,45.8394063971789,0 4.67801304843854,45.83975843623,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.1221">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69112000AA0175</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LENTILLY</SimpleData>
+					<SimpleData name="Adresse">LES BALMES</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8400432116664 </north>
+			<south> 45.83915179799399 </south>
+			<east> 4.67959689552118 </east>
+			<west> 4.67882001607923 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.67919657364514,45.8400432116664,0 4.67959689552118,45.839939534424,0 4.67911145970299,45.83915179799399,0 4.67882001607923,45.8394031906538,0 4.67919657364514,45.8400432116664,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.1255">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69112000AA0178</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LENTILLY</SimpleData>
+					<SimpleData name="Adresse">LES BALMES</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.839939534424 </north>
+			<south> 45.8390250440306 </south>
+			<east> 4.67994695130319 </east>
+			<west> 4.67911145970299 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.67959689552118,45.839939534424,0 4.67994695130319,45.8398864117853,0 4.67970106227246,45.8397292943911,0 4.67925863026786,45.8390250440306,0 4.67911145970299,45.83915179799399,0 4.67959689552118,45.839939534424,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.1288">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69112000AA0181</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LENTILLY</SimpleData>
+					<SimpleData name="Adresse">LES BALMES</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8398864117853 </north>
+			<south> 45.8389150677201 </south>
+			<east> 4.68001313874004 </east>
+			<west> 4.67925863026786 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.67938595044706,45.8389150677201,0 4.67925863026786,45.8390250440306,0 4.67970106227246,45.8397292943911,0 4.67994695130319,45.8398864117853,0 4.68001313874004,45.8398763303722,0 4.67938595044706,45.8389150677201,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.1354">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69112000AA0190</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LENTILLY</SimpleData>
+					<SimpleData name="Adresse">LES BALMES</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8386774375777 </north>
+			<south> 45.8374221304183 </south>
+			<east> 4.68177829393403 </east>
+			<west> 4.68026592026034 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.68177829393403,45.8378624079498,0 4.68150744471026,45.8376683773902,0 4.68127453415023,45.837501432859,0 4.68116232993362,45.8374221304183,0 4.68104941416509,45.8377340105287,0 4.6808182082587,45.8379572209836,0 4.68026592026034,45.83822411777351,0 4.68030840361672,45.8382608646517,0 4.68027420004353,45.8383140641412,0 4.68059891508817,45.8386774375777,0 4.68086862138561,45.8384912137091,0 4.68146102282751,45.83808176719881,0 4.68177829393403,45.8378624079498,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.1361">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69112000AA0191</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LENTILLY</SimpleData>
+					<SimpleData name="Adresse">LES PLASSES</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8387717939131 </north>
+			<south> 45.8375744623998 </south>
+			<east> 4.68309566810322 </east>
+			<west> 4.68232646810025 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.68309566810322,45.8376945310016,0 4.68305979112978,45.8375744623998,0 4.68232646810025,45.8381245435494,0 4.68251759061939,45.83837461221491,0 4.68253097556102,45.8384374615505,0 4.68253222851839,45.83850391424521,0 4.68253137578202,45.8387717939131,0 4.68280187448058,45.8379990203168,0 4.68309566810322,45.8376945310016,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.1366">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69112000AA0193</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LENTILLY</SimpleData>
+					<SimpleData name="Adresse">LES PLASSES</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8376945310016 </north>
+			<south> 45.8375511383339 </south>
+			<east> 4.68313864130825 </east>
+			<west> 4.68305979112978 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.68309566810322,45.8376945310016,0 4.68313864130825,45.8376501168244,0 4.68308974838181,45.8375511383339,0 4.68305979112978,45.8375744623998,0 4.68309566810322,45.8376945310016,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.1389">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69112000AC0197</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LENTILLY</SimpleData>
+					<SimpleData name="Adresse">LES FOURCHES</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.82552991244199 </north>
+			<south> 45.8222336307301 </south>
+			<east> 4.68803312218471 </east>
+			<west> 4.68400227897782 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.68400227897782,45.8222336307301,0 4.68427505726272,45.82312215203631,0 4.68441874179021,45.8233726540532,0 4.68460570051213,45.8236987092287,0 4.68478286518426,45.8240077069604,0 4.6849167552317,45.8242410611837,0 4.68549758842498,45.8241084574482,0 4.68622921370445,45.82552991244199,0 4.68624840214962,45.8255170161685,0 4.68631130713076,45.82547599585149,0 4.68638349415628,45.8254309638913,0 4.68644036088585,45.8253947172926,0 4.68650427203703,45.8253613377583,0 4.68657975011117,45.8253228316027,0 4.68666045050379,45.8252865892065,0 4.68676204882444,45.8252385957589,0 4.68683797064531,45.82520197426041,0 4.68685897319178,45.825193644334,0 4.68693638566969,45.8251594323815,0 4.68702606605805,45.8251177414603,0 4.68710026233912,45.8250879007835,0 4.68716822520473,45.82505644186319,0 4.6872208625352,45.8250335883582,0 4.68726622037576,45.8250128251262,0 4.68730819984469,45.8249911215876,0 4.68734845295833,45.8249677325046,0 4.68743476364101,45.8249127612887,0 4.68752726991558,45.8248455380138,0 4.68762316530496,45.82477961505631,0 4.68771865488304,45.8247130675914,0 4.68777142134806,45.8246776021367,0 4.68782505396921,45.82464518607971,0 4.68785485263288,45.8246296089879,0 4.68777435194485,45.8231724039611,0 4.68803312218471,45.82296461824779,0 4.68802545335208,45.8229623910746,0 4.68792942186994,45.8229352744808,0 4.68775873844732,45.8228892781296,0 4.68760395416663,45.8228450254478,0 4.68751294008153,45.8228218866565,0 4.68747306193807,45.82281113381389,0 4.68735588415991,45.82279180852541,0 4.68721269230154,45.8227685484636,0 4.68700275714614,45.8227364677667,0 4.68678969057438,45.8227030824148,0 4.68653704623562,45.8226687566008,0 4.68587240640548,45.8225791544214,0 4.68561490219196,45.82253751340879,0 4.68550281030929,45.82251594862629,0 4.6854008859568,45.8224982851119,0 4.68530902740159,45.82248119183539,0 4.685145912179,45.822438231073,0 4.68504869349762,45.8224059057446,0 4.68498441500897,45.82238074472819,0 4.68492016405941,45.8223564839613,0 4.68487009151089,45.8223366952257,0 4.6848181314809,45.8223183757439,0 4.68477259128985,45.8223077965104,0 4.68466343745343,45.82228960971599,0 4.68448323739868,45.82226509695751,0 4.68435658847736,45.8222519445373,0 4.68423631230051,45.82224076852581,0 4.68417567169729,45.8222377099154,0 4.68410163125924,45.8222345809102,0 4.68404622368454,45.8222341462724,0 4.68400227897782,45.8222336307301,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.1508">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69112000AA0207</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LENTILLY</SimpleData>
+					<SimpleData name="Adresse">LES PLASSES</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8371557489416 </north>
+			<south> 45.8369949121106 </south>
+			<east> 4.68455080319425 </east>
+			<west> 4.68406870353469 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.68406870353469,45.8370151336815,0 4.68429655640028,45.8371512540805,0 4.68455080319425,45.8371557489416,0 4.68454046878776,45.8371211361886,0 4.68410803255261,45.8369949121106,0 4.68406870353469,45.8370151336815,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.1525">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69112000AC0209</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LENTILLY</SimpleData>
+					<SimpleData name="Adresse">LE LAC</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8222318721841 </north>
+			<south> 45.82071304495939 </south>
+			<east> 4.68590571759753 </east>
+			<west> 4.68229615150695 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.68590571759753,45.82071304495939,0 4.68517751046436,45.8208485713775,0 4.68348054449184,45.8211481458373,0 4.68344791699395,45.8211723205651,0 4.68344557953312,45.8212055010124,0 4.68338079526229,45.8213326542858,0 4.68325430662155,45.8214345171034,0 4.68307044548397,45.8214757174226,0 4.6829925893936,45.82146570922351,0 4.68288059426673,45.8214514360785,0 4.68273615495372,45.82136171768799,0 4.68265372035752,45.8213367358743,0 4.68229615150695,45.8213761098831,0 4.68276046967754,45.82152122879009,0 4.68287407553661,45.8219728557909,0 4.68339533561496,45.8222318721841,0 4.68345916179483,45.822225336347,0 4.68372203086535,45.8222022322813,0 4.68357956425142,45.821602871884,0 4.68369555385538,45.8213004001744,0 4.68442504846406,45.8211138848613,0 4.68590571759753,45.82071304495939,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.1542">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69112000AA0210</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LENTILLY</SimpleData>
+					<SimpleData name="Adresse">LES PLASSES</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8379990203168 </north>
+			<south> 45.8376945310016 </south>
+			<east> 4.68313095863222 </east>
+			<west> 4.68280187448058 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.68309566810322,45.8376945310016,0 4.68280187448058,45.8379990203168,0 4.68313095863222,45.8378122665237,0 4.68309566810322,45.8376945310016,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.1553">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69112000AA0211</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LENTILLY</SimpleData>
+					<SimpleData name="Adresse">LES PLASSES</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8378122665237 </north>
+			<south> 45.8376501168244 </south>
+			<east> 4.68319961586768 </east>
+			<west> 4.68309566810322 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.68309566810322,45.8376945310016,0 4.68313095863222,45.8378122665237,0 4.68319961586768,45.8377734141913,0 4.68313864130825,45.8376501168244,0 4.68309566810322,45.8376945310016,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.1577">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69112000AA0214</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LENTILLY</SimpleData>
+					<SimpleData name="Adresse">LES PLASSES</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8377734141913 </north>
+			<south> 45.8370151336815 </south>
+			<east> 4.68429655640028 </east>
+			<west> 4.68313864130825 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.68319961586768,45.8377734141913,0 4.68429655640028,45.8371512540805,0 4.68406870353469,45.8370151336815,0 4.68344305245317,45.8373347500532,0 4.68313864130825,45.8376501168244,0 4.68319961586768,45.8377734141913,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.1590">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69112000AC0216</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LENTILLY</SimpleData>
+					<SimpleData name="Adresse">LE LAC</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8207846835272 </north>
+			<south> 45.82016750643 </south>
+			<east> 4.68944094286038 </east>
+			<west> 4.68904931574047 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.68934592198275,45.82016750643,0 4.6892212737867,45.8201859440527,0 4.68904931574047,45.8207127220413,0 4.68907229263602,45.8207437225997,0 4.68944094286038,45.8207846835272,0 4.68934592198275,45.82016750643,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.1628">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69112000AC0221</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LENTILLY</SimpleData>
+					<SimpleData name="Adresse">LE LAC</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8205373022642 </north>
+			<south> 45.8198252019015 </south>
+			<east> 4.69338017617933 </east>
+			<west> 4.69271654844874 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.69300187803777,45.8205139211554,0 4.69338017617933,45.820411603672,0 4.69331302957568,45.8198562494718,0 4.69271654844874,45.8198252019015,0 4.69286617439157,45.8205373022642,0 4.69300187803777,45.8205139211554,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.1757">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69112000AA0244</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LENTILLY</SimpleData>
+					<SimpleData name="Adresse">CRUZOLS</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8419848487142 </north>
+			<south> 45.8401943336992 </south>
+			<east> 4.6776533832757 </east>
+			<west> 4.67507685225021 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.67694821328884,45.8401943336992,0 4.67691182693439,45.8402394582615,0 4.67665264185856,45.8404248857142,0 4.67639993154527,45.8406029208313,0 4.67617551052359,45.8407874709304,0 4.67595432708152,45.8409768362766,0 4.67579722384043,45.84112489942561,0 4.67572492742691,45.841180013608,0 4.67561912851737,45.84120977478921,0 4.67548850899138,45.8411860425095,0 4.67542449894993,45.841149072701,0 4.67538386062141,45.8411178809378,0 4.67528891080401,45.8410593029327,0 4.67526615354179,45.8410482916942,0 4.67521692199674,45.8410354213396,0 4.67515939224459,45.8410505955448,0 4.67529964389898,45.8412175758656,0 4.67544869851318,45.8413603769215,0 4.67556840680254,45.8414703774785,0 4.67572562709398,45.8416146783166,0 4.67576873362048,45.8417440991043,0 4.67561387518462,45.8416012043945,0 4.6755054817324,45.841503105354,0 4.67538530199097,45.84139455283429,0 4.67523650506866,45.841251747874,0 4.67512741094809,45.8411262777798,0 4.67507685225021,45.8410569535199,0 4.67518945007598,45.8416247026253,0 4.67513805366474,45.8416678875129,0 4.67516327345265,45.8418279271547,0 4.67516527288535,45.8418428490279,0 4.67582261432874,45.8419057850375,0 4.6761768737283,45.841939619039,0 4.67628182159076,45.8419496806766,0 4.67664926685468,45.8419848487142,0 4.67664907239011,45.8419826899336,0 4.67664032648694,45.8418941914,0 4.67694241456749,45.8416700277843,0 4.6776533832757,45.8411485968462,0 4.67706397891098,45.84051380270979,0 4.67694821328884,45.8401943336992,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.1761">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69112000AA0245</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LENTILLY</SimpleData>
+					<SimpleData name="Adresse">CRUZOLS</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8411549608017 </north>
+			<south> 45.8395649196536 </south>
+			<east> 4.67691701781884 </east>
+			<west> 4.6747146843125 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.6766951542776,45.8396398398147,0 4.67629576837755,45.8396259522117,0 4.67610871492117,45.8396193607474,0 4.67564515133275,45.8396011090385,0 4.67517518873695,45.83958430137271,0 4.6747146843125,45.8395649196536,0 4.67484376925911,45.8400901819851,0 4.67494746234518,45.84045810918531,0 4.67495638900759,45.84051445034181,0 4.67498179393811,45.84067637871561,0 4.67502777277884,45.84080710819549,0 4.67508335860341,45.8409274272842,0 4.67512554457429,45.8409968757028,0 4.67516268376843,45.840984976195,0 4.67521522471163,45.8409795134007,0 4.67528759305813,45.8409861861052,0 4.67534525015115,45.841021899169,0 4.67542547705725,45.8410836677904,0 4.67547264914483,45.8411135917241,0 4.67551861891352,45.8411336258357,0 4.67562261875247,45.8411549608017,0 4.67568780052412,45.8411371509033,0 4.67574046496977,45.8410933164553,0 4.67589853282653,45.840947310672,0 4.67612183772756,45.84075566222119,0 4.67635204124028,45.8405748093318,0 4.67660492439851,45.8403939796039,0 4.67686137739764,45.8402034588598,0 4.6768984595656,45.84016426856869,0 4.67691701781884,45.8401303971541,0 4.67690911080259,45.8400864705724,0 4.67690123278191,45.8400647006469,0 4.67685944265351,45.83999560727219,0 4.67678292404098,45.83987776142191,0 4.67674373659606,45.8397798071482,0 4.6766951542776,45.8396398398147,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.1766">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69112000AA0246</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LENTILLY</SimpleData>
+					<SimpleData name="Adresse">CRUZOLS</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8417440991043 </north>
+			<south> 45.84067637871561 </south>
+			<east> 4.67576873362048 </east>
+			<west> 4.67498179393811 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.67498179393811,45.84067637871561,0 4.67501067776028,45.8408595118818,0 4.67504625004062,45.8409021276431,0 4.67507685225021,45.8410569535199,0 4.67512741094809,45.8411262777798,0 4.67523650506866,45.841251747874,0 4.67538530199097,45.84139455283429,0 4.6755054817324,45.841503105354,0 4.67561387518462,45.8416012043945,0 4.67576873362048,45.8417440991043,0 4.67572562709398,45.8416146783166,0 4.67556840680254,45.8414703774785,0 4.67544869851318,45.8413603769215,0 4.67529964389898,45.8412175758656,0 4.67515939224459,45.8410505955448,0 4.67512554457429,45.8409968757028,0 4.67508335860341,45.8409274272842,0 4.67502777277884,45.84080710819549,0 4.67498179393811,45.84067637871561,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.1770">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69112000AA0247</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LENTILLY</SimpleData>
+					<SimpleData name="Adresse">CRUZOLS</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.84120977478921 </north>
+			<south> 45.8400864705724 </south>
+			<east> 4.67694821328884 </east>
+			<west> 4.67512554457429 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.67512554457429,45.8409968757028,0 4.67515939224459,45.8410505955448,0 4.67521692199674,45.8410354213396,0 4.67526615354179,45.8410482916942,0 4.67528891080401,45.8410593029327,0 4.67538386062141,45.8411178809378,0 4.67542449894993,45.841149072701,0 4.67548850899138,45.8411860425095,0 4.67561912851737,45.84120977478921,0 4.67572492742691,45.841180013608,0 4.67579722384043,45.84112489942561,0 4.67595432708152,45.8409768362766,0 4.67617551052359,45.8407874709304,0 4.67639993154527,45.8406029208313,0 4.67665264185856,45.8404248857142,0 4.67691182693439,45.8402394582615,0 4.67694821328884,45.8401943336992,0 4.67690911080259,45.8400864705724,0 4.67691701781884,45.8401303971541,0 4.6768984595656,45.84016426856869,0 4.67686137739764,45.8402034588598,0 4.67660492439851,45.8403939796039,0 4.67635204124028,45.8405748093318,0 4.67612183772756,45.84075566222119,0 4.67589853282653,45.840947310672,0 4.67574046496977,45.8410933164553,0 4.67568780052412,45.8411371509033,0 4.67562261875247,45.8411549608017,0 4.67551861891352,45.8411336258357,0 4.67547264914483,45.8411135917241,0 4.67542547705725,45.8410836677904,0 4.67534525015115,45.841021899169,0 4.67528759305813,45.8409861861052,0 4.67521522471163,45.8409795134007,0 4.67516268376843,45.840984976195,0 4.67512554457429,45.8409968757028,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.1772">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69112000AA0248</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LENTILLY</SimpleData>
+					<SimpleData name="Adresse">CRUZOLS</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8400647006469 </north>
+			<south> 45.8396398398147 </south>
+			<east> 4.67690123278191 </east>
+			<west> 4.6766951542776 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.67690123278191,45.8400647006469,0 4.67681134978426,45.8398166326402,0 4.67674778656419,45.8396416705565,0 4.6766951542776,45.8396398398147,0 4.67674373659606,45.8397798071482,0 4.67678292404098,45.83987776142191,0 4.67685944265351,45.83999560727219,0 4.67690123278191,45.8400647006469,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.3684">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69112000AA0077</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LENTILLY</SimpleData>
+					<SimpleData name="Adresse">LES BALMES</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8405469244475 </north>
+			<south> 45.8398161071232 </south>
+			<east> 4.67783586495656 </east>
+			<west> 4.67685888491722 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.67758130633609,45.8399476901314,0 4.67685888491722,45.8398161071232,0 4.67711678757312,45.8405129285897,0 4.67783586495656,45.8405469244475,0 4.67758130633609,45.8399476901314,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.4046">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69112000AB0096</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LENTILLY</SimpleData>
+					<SimpleData name="Adresse">PRE LONG</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8381813549672 </north>
+			<south> 45.83787442677709 </south>
+			<east> 4.68487607924769 </east>
+			<west> 4.68481161292883 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.68487607924769,45.83787442677709,0 4.68483004316743,45.8378860118996,0 4.68481161292883,45.8381813549672,0 4.68486307820757,45.838170319359,0 4.68487607924769,45.83787442677709,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.4077">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69112000AB0098</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LENTILLY</SimpleData>
+					<SimpleData name="Adresse">PRE LONG</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8378860118996 </north>
+			<south> 45.8376033304994 </south>
+			<east> 4.68488803048129 </east>
+			<west> 4.6847676142214 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.68487607924769,45.83787442677709,0 4.68488803048129,45.8376074622105,0 4.68488726003236,45.8376033304994,0 4.6847676142214,45.8376307850215,0 4.68482760933806,45.8378527224344,0 4.68483004316743,45.8378860118996,0 4.68487607924769,45.83787442677709,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

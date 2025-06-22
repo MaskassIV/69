@@ -1,0 +1,2453 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>ST FONS_HLM</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_5">
+		<name>ST FONS_HLM</name>
+		<Schema name="ST FONS_HLM" id="ST FONS_HLM.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="HLM">
+			<LineStyle>
+				<color>BFe451f5</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4Ce451f5</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.34">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69199000AM0141</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ST FONS</SimpleData>
+					<SimpleData name="Adresse">2, RUE LOUIS GIRARDET</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7058535792564 </north>
+			<south> 45.7057837905576 </south>
+			<east> 4.85476664744824 </east>
+			<west> 4.8547276334841 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.85472763952126,45.7058511770288,0 4.85473491938648,45.7058535792564,0 4.85476664744824,45.7057837905576,0 4.8547276334841,45.7058509969813,0 4.85472763952126,45.7058511770288,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.44">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69199000AC0149</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ST FONS</SimpleData>
+					<SimpleData name="Adresse">8, RUE DE LA REPUBLIQUE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">BATIGERE RHONE ALPES  SOCIETE ANONYME   DHABITATIONS A LOYE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7118812112748 </north>
+			<south> 45.7115006880276 </south>
+			<east> 4.85386790843956 </east>
+			<west> 4.85357496345533 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.85386790843956,45.7118602499033,0 4.85380699887326,45.7115006880276,0 4.85378666973211,45.7115040849414,0 4.85357496345533,45.7115401738994,0 4.85360340499665,45.71170210843331,0 4.85360707367584,45.7117079929342,0 4.8536210175589,45.71178261457911,0 4.85363949362187,45.7118812112748,0 4.85386790843956,45.7118602499033,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.94">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69199000AE0023</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ST FONS</SimpleData>
+					<SimpleData name="Adresse">15, RUE CARNOT</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">CDC HABITAT SOCIAL SOCIETE ANONYME DHABITATIONS A LOYER MOD</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7087275473914 </north>
+			<south> 45.7082343263816 </south>
+			<east> 4.85674795266762 </east>
+			<west> 4.85643822324423 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.85668652663875,45.7082343263816,0 4.85659762550705,45.7082401146782,0 4.85643822324423,45.7082636379199,0 4.85644746318887,45.70838571538199,0 4.85644845695084,45.7084306456675,0 4.85645839781262,45.70872682358819,0 4.85674795266762,45.7087275473914,0 4.85672014411607,45.70848895060501,0 4.85670069887147,45.70831948251511,0 4.8566978750264,45.70831961911671,0 4.85668652663875,45.7082343263816,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.149">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69199000AE0037</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ST FONS</SimpleData>
+					<SimpleData name="Adresse">6, RUE MADIER MONTJAU</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">BATIGERE RHONE ALPES  SOCIETE ANONYME   DHABITATIONS A LOYE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7102919644069 </north>
+			<south> 45.7101580339373 </south>
+			<east> 4.8578955828171 </east>
+			<west> 4.85755136779147 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.85755504748186,45.7101580339373,0 4.85755136779147,45.7102858188194,0 4.85789434086889,45.7102919644069,0 4.8578955828171,45.7101605266775,0 4.85755504748186,45.7101580339373,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.477">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69199000AH0105</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ST FONS</SimpleData>
+					<SimpleData name="Adresse">8, RUE PAUL CASTAGNIER</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7048525771653 </north>
+			<south> 45.7046446612564 </south>
+			<east> 4.85763386782195 </east>
+			<west> 4.85699595073453 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.85699595073453,45.7048405738263,0 4.85755707106398,45.7048511410221,0 4.85763386782195,45.7048525771653,0 4.85761485638773,45.7046577914538,0 4.85700158657145,45.7046446612564,0 4.85699595073453,45.7048405738263,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.547">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69199000AH0011</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ST FONS</SimpleData>
+					<SimpleData name="Adresse">3, RUE RENE FERNANDEZ</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7050267755602 </north>
+			<south> 45.7041132388143 </south>
+			<east> 4.85665308903835 </east>
+			<west> 4.85575699756093 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.85652087155413,45.70502260442441,0 4.8565629212509,45.7050267755602,0 4.85656313290068,45.7050254209713,0 4.85665308903835,45.7045456487694,0 4.85646551230928,45.7042005155182,0 4.85640579601268,45.7041908707244,0 4.85637154221323,45.7041853100741,0 4.8563710252546,45.7041852285177,0 4.85592393677191,45.7041132388143,0 4.85592297976245,45.7041191994232,0 4.85590470012488,45.7042219139891,0 4.85589595711977,45.70427168845011,0 4.85588621177616,45.7043260731641,0 4.85587864346151,45.70436871247509,0 4.85587063670463,45.7044136108425,0 4.85586276288063,45.7044126596484,0 4.85585292499711,45.7044757830051,0 4.85583290599104,45.7046032963969,0 4.85580409688938,45.7047332063935,0 4.85578523392058,45.7048185463745,0 4.85575699756093,45.7049463752357,0 4.85599343394901,45.7049699533905,0 4.85652087155413,45.70502260442441,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+				<innerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.85633695682417,45.7042043449235,0 4.85639815451228,45.7042121638787,0 4.85639219824337,45.7042415358766,0 4.85633130885132,45.7042352430869,0 4.85633695682417,45.7042043449235,0 
+						</coordinates>
+					</LinearRing>
+				</innerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.549">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69199000AI0011</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ST FONS</SimpleData>
+					<SimpleData name="Adresse">100, BD YVES FARGE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">DYNACITE OFFICE PUBLIC DE LHABITAT DE LAIN</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6980407459266 </north>
+			<south> 45.6975129403798 </south>
+			<east> 4.85787515246796 </east>
+			<west> 4.85712043438464 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.85727339914408,45.6975129403798,0 4.85712043438464,45.6979455624706,0 4.85723241158062,45.6979652441633,0 4.85725297127225,45.6979688684718,0 4.85765458935967,45.6980394400628,0 4.85765899059336,45.698040358301,0 4.8576636306297,45.6980407321611,0 4.85766825857435,45.6980407459266,0 4.857672755026,45.69804067178661,0 4.85767737087883,45.6980403254574,0 4.85768198068567,45.69803979908081,0 4.85768645295348,45.69803900475159,0 4.8576906652581,45.6980381246353,0 4.85769499394069,45.6980368823061,0 4.85769919113006,45.6980355520715,0 4.85770325380321,45.6980340439079,0 4.85770718196011,45.69803235781541,0 4.85771097257772,45.6980304037702,0 4.85771450323201,45.69802836393811,0 4.85771777089998,45.6980261482953,0 4.85772090405163,45.69802375472361,0 4.85772377421696,45.6980211853413,0 4.85772651288899,45.6980185280538,0 4.85772873465777,45.698015789216,0 4.85773095340329,45.6980129603546,0 4.85773251166046,45.6980096019434,0 4.85786650587878,45.69770501590359,0 4.85786965863811,45.69769937936051,0 4.85787190304241,45.6976934875762,0 4.85787363054609,45.6976875142424,0 4.85787471268012,45.6976814614776,0 4.85787515246796,45.6976754193053,0 4.85787494688656,45.6976692977021,0 4.85787409895939,45.6976631866915,0 4.85787261170991,45.697657176297,0 4.85787048816158,45.6976513565422,0 4.85786772226808,45.6976455473799,0 4.85786457701431,45.69763992462019,0 4.85786066699306,45.6976344946186,0 4.85785624914269,45.6976292531381,0 4.85785119499422,45.6976242022969,0 4.85784577055551,45.69761960792891,0 4.85783957832659,45.6976151162951,0 4.85783326972236,45.69761098687369,0 4.85782646235881,45.6976073160437,0 4.85781914716637,45.69760383373421,0 4.85781159317571,45.69760089580271,0 4.85727339914408,45.6975129403798,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.806">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69199000AC0125</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ST FONS</SimpleData>
+					<SimpleData name="Adresse">7, RUE ANATOLE FRANCE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.71286861897519 </north>
+			<south> 45.7126468314928 </south>
+			<east> 4.85403943541958 </east>
+			<west> 4.85303485769034 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.85329620266437,45.71282893513251,0 4.85364645502783,45.71277561580879,0 4.85403751549458,45.7127161295418,0 4.85403831438864,45.71268242893809,0 4.85403943541958,45.7126468314928,0 4.85379430478971,45.71268320046769,0 4.85360508582623,45.71271135333081,0 4.85303485769034,45.7127958522744,0 4.85303562422696,45.71286861897519,0 4.85329620266437,45.71282893513251,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.846">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69199000AC0128</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ST FONS</SimpleData>
+					<SimpleData name="Adresse">11, RUE ANATOLE FRANCE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7126048911049 </north>
+			<south> 45.7123099304217 </south>
+			<east> 4.85376108375438 </east>
+			<west> 4.85304067425765 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.85344038237949,45.71233539367089,0 4.85316022197134,45.7123623392555,0 4.85305306696888,45.712360768574,0 4.85304067425765,45.7126048911049,0 4.85354606151509,45.7125269530766,0 4.85376108375438,45.7124937821095,0 4.85372894954294,45.7123099304217,0 4.85358161420803,45.71232559468361,0 4.85358097347763,45.7123218221391,0 4.85344038237949,45.71233539367089,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.963">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69199000AD0137</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ST FONS</SimpleData>
+					<SimpleData name="Adresse">RUE MATHIEU DUSSURGEY</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7120234001233 </north>
+			<south> 45.7115592549598 </south>
+			<east> 4.85743627778334 </east>
+			<west> 4.85722189515711 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.85724673364109,45.7115592549598,0 4.85722189515711,45.71199120646761,0 4.85722202970552,45.71199138439719,0 4.85724064432575,45.7120058496735,0 4.85726334834068,45.7120234001233,0 4.85740833245134,45.7120220013862,0 4.85740910346651,45.71202198867831,0 4.85743627778334,45.7115677504479,0 4.85724673364109,45.7115592549598,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.973">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69199000AC0138</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ST FONS</SimpleData>
+					<SimpleData name="Adresse">36, AV JEAN JAURES</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.71259151474089 </north>
+			<south> 45.7125013273357 </south>
+			<east> 4.85494473776047 </east>
+			<west> 4.85479552989062 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.85486455500385,45.7125832628532,0 4.8549413020404,45.7125829003569,0 4.85494473776047,45.7125013273357,0 4.85486823840931,45.71250907178181,0 4.8548652750859,45.712512723494,0 4.85479831990088,45.7125175185244,0 4.85479552989062,45.71259151474089,0 4.85486455500385,45.7125832628532,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.986">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69199000AH0014</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ST FONS</SimpleData>
+					<SimpleData name="Adresse">25, RUE LOUIS GIRARDET</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.70408193164661 </north>
+			<south> 45.7038058056901 </south>
+			<east> 4.85606378281286 </east>
+			<west> 4.85579549865946 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.85579549865946,45.7038599961407,0 4.85584666376347,45.70400561280759,0 4.85592300577987,45.7040586696561,0 4.85606378281286,45.70408193164661,0 4.85601719555537,45.7039386716426,0 4.85597463498719,45.7038081357237,0 4.85597391403673,45.7038058056901,0 4.85579549865946,45.7038599961407,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.996">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69199000AM0140</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ST FONS</SimpleData>
+					<SimpleData name="Adresse">2, RUE LOUIS GIRARDET</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7059836280026 </north>
+			<south> 45.7058511770288 </south>
+			<east> 4.85473491938648 </east>
+			<west> 4.85467577167043 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.85472763952126,45.7058511770288,0 4.85467577167043,45.7059836280026,0 4.85473491938648,45.7058535792564,0 4.85472763952126,45.7058511770288,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.1285">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69199000AD0164</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ST FONS</SimpleData>
+					<SimpleData name="Adresse">43, RUE EMILE ZOLA</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.71216527061151 </north>
+			<south> 45.7107333216785 </south>
+			<east> 4.86093416064015 </east>
+			<west> 4.85963517313564 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.85975659919385,45.7107333216785,0 4.85975116388581,45.71079727353639,0 4.85974449395928,45.7108742163625,0 4.85973567536132,45.7109790273798,0 4.85972643051196,45.7110864575644,0 4.85971707528812,45.71119443001129,0 4.85970805104437,45.7113007756713,0 4.8596978510175,45.711418039636,0 4.8596880028654,45.7115266507306,0 4.8596820035938,45.7115929538055,0 4.8596795948579,45.7116207362143,0 4.85967337791302,45.7116882138373,0 4.85966462535715,45.7117873491257,0 4.85965692608833,45.7118757482775,0 4.85964857548646,45.7119715442099,0 4.85963517313564,45.7121274125025,0 4.86053712186258,45.7121542291764,0 4.86087217171759,45.71216527061151,0 4.86093416064015,45.71102319459941,0 4.86080828463805,45.7110192382731,0 4.86082476463042,45.7107638777257,0 4.85975659919385,45.7107333216785,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.1471">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69199000AD0018</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ST FONS</SimpleData>
+					<SimpleData name="Adresse">43, RUE MATHIEU DUSSURGEY</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">BATIGERE RHONE ALPES  SOCIETE ANONYME   DHABITATIONS A LOYE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.712419109986 </north>
+			<south> 45.7122001749926 </south>
+			<east> 4.85921732370409 </east>
+			<west> 4.85907303761006 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.85920152709133,45.712419109986,0 4.85921732370409,45.7122043842284,0 4.85909027953302,45.7122001749926,0 4.85907303761006,45.7123757425701,0 4.8590780885764,45.7123768302017,0 4.85907444147494,45.7124098572888,0 4.85920152709133,45.712419109986,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.1711">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69199000AE0199</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ST FONS</SimpleData>
+					<SimpleData name="Adresse">42, RUE CLEMENCEAU</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">GRANDLYON HABITAT - OFFICE PUBLIC DE LHABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7096477858535 </north>
+			<south> 45.7095710453088 </south>
+			<east> 4.86443542743939 </east>
+			<west> 4.8641338604263 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.86442621359047,45.7096477858535,0 4.86443542743939,45.7095854825675,0 4.86414296234069,45.7095710453088,0 4.8641338604263,45.7096366794397,0 4.86442621359047,45.7096477858535,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.1811">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69199000AD0207</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ST FONS</SimpleData>
+					<SimpleData name="Adresse">AV JEAN JAURES</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.71449175902139 </north>
+			<south> 45.7130557949667 </south>
+			<east> 4.85580575739934 </east>
+			<west> 4.85515318086016 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.85515318086016,45.7143572825407,0 4.85570114804715,45.7144826505497,0 4.85577705831859,45.71449175902139,0 4.85580575739934,45.7130632615267,0 4.85534019035709,45.7130557949667,0 4.85533048321831,45.7131228793599,0 4.8553172766182,45.7132159625211,0 4.85530247760123,45.71331907005071,0 4.85528815496353,45.71341721569521,0 4.85527374906725,45.71351671381031,0 4.85524734315589,45.71369927705791,0 4.85524114268815,45.7137444158631,0 4.85523012575437,45.71381845746559,0 4.85519597190175,45.71405753423501,0 4.85517107468721,45.7142314255746,0 4.85516873940094,45.7142538022359,0 4.85515318086016,45.7143572825407,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.1859">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69199000AD0211</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ST FONS</SimpleData>
+					<SimpleData name="Adresse">AV JEAN JAURES</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.71291035159291 </north>
+			<south> 45.71267368737439 </south>
+			<east> 4.85581344820583 </east>
+			<west> 4.85535808291256 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.85580911254267,45.71291035159291,0 4.85581344820583,45.7126832049733,0 4.85536851614526,45.71267368737439,0 4.85536726111616,45.7127167631502,0 4.85536500263897,45.7127874179252,0 4.85536291826982,45.7128517646917,0 4.85535808291256,45.71290309609789,0 4.85580911254267,45.71291035159291,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.1869">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69199000AD0212</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ST FONS</SimpleData>
+					<SimpleData name="Adresse">RUE MATHIEU DUSSURGEY</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7146117990551 </north>
+			<south> 45.71294025077919 </south>
+			<east> 4.8576480630811 </east>
+			<west> 4.85577705831859 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.8576480630811,45.71296958652581,0 4.85760906567746,45.7129684278788,0 4.85665704423928,45.71294025077919,0 4.85665410321957,45.71297137458859,0 4.85671415821388,45.71300614433891,0 4.85666862744065,45.7130516610048,0 4.85665407024678,45.7130431637076,0 4.85663989095063,45.71303826312239,0 4.85655393180758,45.7130361663961,0 4.85653881960008,45.7130379466059,0 4.85652678085904,45.7130431890476,0 4.85651817692286,45.71305116718191,0 4.85651415224898,45.7130615018618,0 4.85650989700772,45.7131109322354,0 4.85640569305553,45.7131092260272,0 4.85640683388844,45.7130666024741,0 4.85623022128225,45.71306428739079,0 4.85622991271882,45.7130704174702,0 4.85580575739934,45.7130632615267,0 4.85577705831859,45.71449175902139,0 4.85666397515859,45.7145982996553,0 4.85698135020447,45.7146109951778,0 4.85722773583286,45.7146117990551,0 4.85760232612125,45.7146052650012,0 4.8576480630811,45.71296958652581,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.1892">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69199000AD0215</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ST FONS</SimpleData>
+					<SimpleData name="Adresse">RUE MATHIEU DUSSURGEY</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7129648057071 </north>
+			<south> 45.7121564394353 </south>
+			<east> 4.85652113456201 </east>
+			<west> 4.85536851614526 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.85580911254267,45.71291035159291,0 4.85600195247818,45.7129134809574,0 4.85600153542834,45.7129585245645,0 4.85639673107415,45.7129648057071,0 4.85647448853715,45.71296388508991,0 4.85652113456201,45.7121701997327,0 4.85647809817517,45.7121712690066,0 4.85610975039732,45.7121564394353,0 4.85577061021311,45.7122035486035,0 4.85556808998128,45.7122337253113,0 4.85548570244944,45.7122460708097,0 4.85547152014669,45.71224873630289,0 4.85545744520489,45.7122507695125,0 4.85544338234244,45.7122531628153,0 4.85542946610235,45.712256094143,0 4.85541582196735,45.7122594713562,0 4.85540257844033,45.7122632923394,0 4.85538934699151,45.71226747341591,0 4.85538413876133,45.7122693606336,0 4.85538268745357,45.7123065848657,0 4.85537460051183,45.7125024476316,0 4.85537135537722,45.71259734841039,0 4.85536851614526,45.71267368737439,0 4.85581344820583,45.7126832049733,0 4.85580911254267,45.71291035159291,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.1894">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69199000AH0215</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ST FONS</SimpleData>
+					<SimpleData name="Adresse">30, AV ANTOINE GRAVALLON</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7027542406018 </north>
+			<south> 45.7016620533579 </south>
+			<east> 4.86296143524687 </east>
+			<west> 4.8613242696904 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.8613242696904,45.70250425782569,0 4.86265792681521,45.7027542406018,0 4.86270305667047,45.702735389739,0 4.86296143524687,45.7019907129876,0 4.86290358965607,45.7018991638307,0 4.8616523998507,45.7016620533579,0 4.86158508811863,45.7018353861607,0 4.86148967542506,45.7020752071032,0 4.86142239884043,45.7022687156932,0 4.8613242696904,45.70250425782569,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.1904">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69199000AI0216</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ST FONS</SimpleData>
+					<SimpleData name="Adresse">BD YVES FARGE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">GRANDLYON HABITAT - OFFICE PUBLIC DE LHABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6983768484441 </north>
+			<south> 45.6979688684718 </south>
+			<east> 4.85773095340329 </east>
+			<west> 4.85714242573903 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.85718799340088,45.6982847461951,0 4.85740842759815,45.6983493879539,0 4.85750202832851,45.6983768484441,0 4.8575635719544,45.698291795252,0 4.85755795401112,45.6982890956016,0 4.85768209867467,45.6981045599311,0 4.85768469074482,45.6981013646213,0 4.85768728281467,45.69809816931149,0 4.85768974641405,45.6980949761199,0 4.85769220699017,45.6980916929047,0 4.85769453607285,45.69808832178411,0 4.85769674273107,45.698085132829,0 4.8576990718132,45.6980817617084,0 4.85770101548464,45.69807839694269,0 4.8577032160961,45.6980750279403,0 4.85770515976705,45.6980716631745,0 4.85770697194466,45.6980682105034,0 4.85770890956913,45.6980646656904,0 4.85771059327618,45.69806121513749,0 4.85771227396,45.69805767456111,0 4.85771382919655,45.69805422612661,0 4.85771538140989,45.6980506876685,0 4.85771680515297,45.69804715132869,0 4.85771810042581,45.6980436171072,0 4.85771939569849,45.6980400828857,0 4.85772055947795,45.6980364607589,0 4.85773095340329,45.6980129603546,0 4.85772873465777,45.698015789216,0 4.85772651288899,45.6980185280538,0 4.85772377421696,45.6980211853413,0 4.85772090405163,45.69802375472361,0 4.85771777089998,45.6980261482953,0 4.85771450323201,45.69802836393811,0 4.85771097257772,45.6980304037702,0 4.85770718196011,45.69803235781541,0 4.85770325380321,45.6980340439079,0 4.85769919113006,45.6980355520715,0 4.85769499394069,45.6980368823061,0 4.8576906652581,45.6980381246353,0 4.85768645295348,45.69803900475159,0 4.85768198068567,45.69803979908081,0 4.85767737087883,45.6980403254574,0 4.857672755026,45.69804067178661,0 4.85766825857435,45.6980407459266,0 4.8576636306297,45.6980407321611,0 4.85765899059336,45.698040358301,0 4.85765458935967,45.6980394400628,0 4.85725297127225,45.6979688684718,0 4.85714242573903,45.6982713558058,0 4.85718799340088,45.6982847461951,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2018">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69199000AE0228</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ST FONS</SimpleData>
+					<SimpleData name="Adresse">46, RUE CARNOT</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">BATIGERE RHONE ALPES  SOCIETE ANONYME   DHABITATIONS A LOYE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.70796871346711 </north>
+			<south> 45.70559321488319 </south>
+			<east> 4.861756552799 </east>
+			<west> 4.86057995316157 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.86065970010715,45.70573878646741,0 4.86063981783701,45.7062904550341,0 4.86062337040805,45.70674550803499,0 4.86060843698806,45.7071653172799,0 4.86060729434687,45.7071963214537,0 4.8605950864595,45.7075366408157,0 4.86058950902088,45.7076880565026,0 4.86058553024008,45.70779909283511,0 4.86058132040391,45.70791472673509,0 4.86057995316157,45.7079581647708,0 4.86169187561915,45.70796871346711,0 4.86172498568946,45.70674847986581,0 4.86174676323148,45.705951689363,0 4.861756552799,45.70559321488319,0 4.86066446338414,45.7056052187995,0 4.86065970010715,45.70573878646741,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+				<innerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.8613980275161,45.707844132087,0 4.86144855846058,45.7078442881779,0 4.86144782777268,45.7078798793173,0 4.8613980738113,45.7078798905379,0 4.8613980275161,45.707844132087,0 
+						</coordinates>
+					</LinearRing>
+					<LinearRing>
+						<coordinates>							4.86146821651661,45.7059453022998,0 4.86151231222529,45.7059452944221,0 4.8615125065028,45.7059778077759,0 4.86146840773865,45.70597772563,0 4.86146821651661,45.7059453022998,0 
+						</coordinates>
+					</LinearRing>
+				</innerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2023">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69199000AE0229</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ST FONS</SimpleData>
+					<SimpleData name="Adresse">50, RUE CARNOT</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">BATIGERE RHONE ALPES  SOCIETE ANONYME   DHABITATIONS A LOYE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7078798905379 </north>
+			<south> 45.707844132087 </south>
+			<east> 4.86144855846058 </east>
+			<west> 4.8613980275161 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.8613980738113,45.7078798905379,0 4.86144782777268,45.7078798793173,0 4.86144855846058,45.7078442881779,0 4.8613980275161,45.707844132087,0 4.8613980738113,45.7078798905379,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2240">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69199000AC0251</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ST FONS</SimpleData>
+					<SimpleData name="Adresse">9, RUE ANATOLE FRANCE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.71271135333081 </north>
+			<south> 45.7124937821095 </south>
+			<east> 4.85379430478971 </east>
+			<west> 4.85354606151509 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.85379430478971,45.71268320046769,0 4.85376108375438,45.7124937821095,0 4.85354606151509,45.7125269530766,0 4.85358054103542,45.7126350144974,0 4.85360508582623,45.71271135333081,0 4.85379430478971,45.71268320046769,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2272">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69199000AC0256</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ST FONS</SimpleData>
+					<SimpleData name="Adresse">7, RUE FRANCIS DE PRESSENSE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">GRANDLYON HABITAT - OFFICE PUBLIC DE LHABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.70725822826759 </north>
+			<south> 45.7068131435241 </south>
+			<east> 4.85360789508134 </east>
+			<west> 4.85305976790616 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.85315170373284,45.7071234511724,0 4.85319554582081,45.7071120114177,0 4.85342418288698,45.7070522253525,0 4.853470411725,45.7071427092903,0 4.85348750286646,45.7071386450826,0 4.85350209506099,45.7071981237063,0 4.85351696538694,45.70725822826759,0 4.85360789508134,45.7072362858768,0 4.85349637044476,45.7068508048663,0 4.85328351143465,45.70681359279551,0 4.85327796824174,45.7068131435241,0 4.85329050909605,45.70686896289901,0 4.85305976790616,45.7069349983665,0 4.85310077679397,45.7070193532234,0 4.85315170373284,45.7071234511724,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2294">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69199000AC0259</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ST FONS</SimpleData>
+					<SimpleData name="Adresse">RUE ANATOLE FRANCE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">BATIGERE RHONE ALPES  SOCIETE ANONYME   DHABITATIONS A LOYE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7113847003433 </north>
+			<south> 45.71125028547671 </south>
+			<east> 4.85331015332923 </east>
+			<west> 4.85310310548125 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.85331015332923,45.71125386238651,0 4.85311139019264,45.71125028547671,0 4.8531047928972,45.7113795592045,0 4.85310310548125,45.7113829196679,0 4.85330155176021,45.7113847003433,0 4.85331015332923,45.71125386238651,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2413">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69199000AE0274</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ST FONS</SimpleData>
+					<SimpleData name="Adresse">12, RUE ROBERT ET BOIRON</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">CDC HABITAT SOCIAL SOCIETE ANONYME DHABITATIONS A LOYER MOD</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.70593611350751 </north>
+			<south> 45.70582230230919 </south>
+			<east> 4.85879229328492 </east>
+			<west> 4.8582690197999 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.85827336289962,45.70582230230919,0 4.8582690197999,45.7059302819805,0 4.85841250654887,45.7059307078523,0 4.85841243104708,45.70593611350751,0 4.85878455302221,45.70593438916269,0 4.85879229328492,45.7058280648114,0 4.85827336289962,45.70582230230919,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2423">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69199000AE0276</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ST FONS</SimpleData>
+					<SimpleData name="Adresse">35, RUE ETIENNE DOLET</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">CDC HABITAT SOCIAL SOCIETE ANONYME DHABITATIONS A LOYER MOD</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7058280648114 </north>
+			<south> 45.7055643368698 </south>
+			<east> 4.85881192204698 </east>
+			<west> 4.85827336289962 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.85881192204698,45.705566707983,0 4.85843694859942,45.7055676688271,0 4.85828398037624,45.7055643368698,0 4.85827336289962,45.70582230230919,0 4.85879229328492,45.7058280648114,0 4.85881192204698,45.705566707983,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2441">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69199000AC0279</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ST FONS</SimpleData>
+					<SimpleData name="Adresse">15, RUE ANATOLE FRANCE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7123623392555 </north>
+			<south> 45.7122667930274 </south>
+			<east> 4.85344038237949 </east>
+			<west> 4.85305306696888 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.85316022197134,45.7123623392555,0 4.85344038237949,45.71233539367089,0 4.85342728324354,45.7122667930274,0 4.85325733135885,45.7122828288302,0 4.85325682518743,45.71227923421829,0 4.85305713710509,45.7122826980876,0 4.85305306696888,45.712360768574,0 4.85316022197134,45.7123623392555,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2525">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69199000AC0287</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ST FONS</SimpleData>
+					<SimpleData name="Adresse">RUE ANATOLE FRANCE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7127958522744 </north>
+			<south> 45.71262392554999 </south>
+			<east> 4.85360508582623 </east>
+			<west> 4.85303430832218 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.85358054103542,45.7126350144974,0 4.85312655714978,45.71262392554999,0 4.85311769507621,45.7126779351688,0 4.85303711872262,45.71267529689139,0 4.85303430832218,45.7127295672876,0 4.85303485769034,45.7127958522744,0 4.85360508582623,45.71271135333081,0 4.85358054103542,45.7126350144974,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2526">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69199000AE0287</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ST FONS</SimpleData>
+					<SimpleData name="Adresse">21, RUE PIERRE DUPONT</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.70632536593051 </north>
+			<south> 45.7061271018088 </south>
+			<east> 4.85767617323651 </east>
+			<west> 4.85732092496248 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.85767617323651,45.70613524659359,0 4.85732878780667,45.7061271018088,0 4.85732092496248,45.7062949482163,0 4.85735140099007,45.70631813519919,0 4.85767227347854,45.70632536593051,0 4.85767617323651,45.70613524659359,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2533">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69199000AC0288</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ST FONS</SimpleData>
+					<SimpleData name="Adresse">RUE ANATOLE FRANCE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7126779351688 </north>
+			<south> 45.7125269530766 </south>
+			<east> 4.85358054103542 </east>
+			<west> 4.85303711872262 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.85354606151509,45.7125269530766,0 4.85304067425765,45.7126048911049,0 4.85303711872262,45.71267529689139,0 4.85311769507621,45.7126779351688,0 4.85312655714978,45.71262392554999,0 4.85358054103542,45.7126350144974,0 4.85354606151509,45.7125269530766,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2600">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69199000AC0298</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ST FONS</SimpleData>
+					<SimpleData name="Adresse">AV JEAN JAURES</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">3F RESIDENCES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7115040849414 </north>
+			<south> 45.7110447792946 </south>
+			<east> 4.85410938515859 </east>
+			<west> 4.85375354137468 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.85395386504121,45.7110683515477,0 4.85379891796858,45.7110447792946,0 4.85379859655179,45.7110582055197,0 4.85379773187316,45.7111014549793,0 4.85379519922886,45.7112176913375,0 4.85378973322489,45.71131929398521,0 4.85378545546865,45.7113988091011,0 4.85375354137468,45.7114056392251,0 4.85378666973211,45.7115040849414,0 4.85380699887326,45.7115006880276,0 4.85392858212836,45.7114801327627,0 4.85409682082039,45.7114514237399,0 4.85409703732417,45.7114463760664,0 4.854105111782,45.7114456127044,0 4.85410938515859,45.7113084506539,0 4.85410937918251,45.7112354012114,0 4.85397188077685,45.7112299170784,0 4.853976014653,45.7111039264382,0 4.85397695539053,45.7110744569557,0 4.85397716285084,45.7110691392113,0 4.85395386504121,45.7110683515477,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2894">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69199000AE0335</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ST FONS</SimpleData>
+					<SimpleData name="Adresse">9, RUE PAUL BERT</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">BATIGERE RHONE ALPES  SOCIETE ANONYME   DHABITATIONS A LOYE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7074220080659 </north>
+			<south> 45.7072385007792 </south>
+			<east> 4.85670025377997 </east>
+			<west> 4.85656470409299 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.85670025377997,45.7072414906259,0 4.85657557634669,45.7072385007792,0 4.85656470409299,45.70742017792901,0 4.8566887001916,45.7074220080659,0 4.85670025377997,45.7072414906259,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2910">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69199000AE0337</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ST FONS</SimpleData>
+					<SimpleData name="Adresse">6, RUE PAUL BERT</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7071610433567 </north>
+			<south> 45.7069889957332 </south>
+			<east> 4.856277169042 </east>
+			<west> 4.85582331885023 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.85588210327369,45.7071539961637,0 4.85626905514787,45.7071610433567,0 4.856277169042,45.7070005789542,0 4.85582655651384,45.7069889957332,0 4.85582331885023,45.7070266096788,0 4.85588469664422,45.707028210931,0 4.85588210327369,45.7071539961637,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2920">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69199000AE0338</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ST FONS</SimpleData>
+					<SimpleData name="Adresse">16, RUE PASTEUR</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7070005789542 </north>
+			<south> 45.7068392166637 </south>
+			<east> 4.85628533122779 </east>
+			<west> 4.85612507829778 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.85628533122779,45.7068415549316,0 4.85613200737048,45.7068392166637,0 4.85612507829778,45.70699668910729,0 4.856277169042,45.7070005789542,0 4.85628533122779,45.7068415549316,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.3070">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69199000AE0036</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ST FONS</SimpleData>
+					<SimpleData name="Adresse">4, RUE MADIER MONTJAU</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">BATIGERE RHONE ALPES  SOCIETE ANONYME   DHABITATIONS A LOYE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7103842121872 </north>
+			<south> 45.7102858188194 </south>
+			<east> 4.85789434086889 </east>
+			<west> 4.85754872215507 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.85755136779147,45.7102858188194,0 4.85754872215507,45.71037548556511,0 4.85789358246533,45.7103842121872,0 4.85789434086889,45.7102919644069,0 4.85755136779147,45.7102858188194,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.3184">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69199000AE0378</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ST FONS</SimpleData>
+					<SimpleData name="Adresse">39, RUE PARMENTIER</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">BATIGERE RHONE ALPES  SOCIETE ANONYME   DHABITATIONS A LOYE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7059778077759 </north>
+			<south> 45.7059452944221 </south>
+			<east> 4.8615125065028 </east>
+			<west> 4.86146821651661 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.86146840773865,45.70597772563,0 4.8615125065028,45.7059778077759,0 4.86151231222529,45.7059452944221,0 4.86146821651661,45.7059453022998,0 4.86146840773865,45.70597772563,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.3349">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69199000AC0403</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ST FONS</SimpleData>
+					<SimpleData name="Adresse">3, RUE GAMBETTA</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">POSTE HABITAT RHONE-ALPES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7084949181164 </north>
+			<south> 45.7082074153629 </south>
+			<east> 4.85397697814803 </east>
+			<west> 4.85362372005392 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.85376925330138,45.7082378596342,0 4.85362372005392,45.70827628304579,0 4.85366721852786,45.7083466354073,0 4.85375896957129,45.7084949181164,0 4.85393720172734,45.7084501017987,0 4.85397697814803,45.7084400797442,0 4.85387050514482,45.7082783482528,0 4.85391128224917,45.7082674990961,0 4.85389860512794,45.70824599997369,0 4.85389710419169,45.7082434125387,0 4.85390590388747,45.708241286151,0 4.85388419827771,45.7082074153629,0 4.85376925330138,45.7082378596342,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.3442">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69199000AI0042</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ST FONS</SimpleData>
+					<SimpleData name="Adresse">14, RUE DE PRIVAS</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">BATIGERE RHONE ALPES  SOCIETE ANONYME   DHABITATIONS A LOYE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6967300762362 </north>
+			<south> 45.6958097639149 </south>
+			<east> 4.85544234357577 </east>
+			<west> 4.85402934236278 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.85429634146623,45.6966977247257,0 4.85513253733124,45.6967300762362,0 4.85514639668431,45.6967293976549,0 4.85516010341964,45.6967280009981,0 4.8551737860038,45.6967258841505,0 4.85518706205385,45.6967231434821,0 4.85520006003647,45.6967197768776,0 4.85521277995126,45.69671578433711,0 4.8552248394156,45.69671126223069,0 4.85523674927854,45.69670611207311,0 4.85524787022352,45.6967004344655,0 4.85525871611851,45.6966942209461,0 4.85526864462831,45.6966874820926,0 4.85527817263985,45.69668029946671,0 4.85528678930423,45.6966727715544,0 4.85529474551751,45.69666471407751,0 4.85530179340297,45.69665640133821,0 4.85530818687569,45.6966477390819,0 4.85531354355425,45.6966388236791,0 4.85531824883966,45.69662964878311,0 4.85532191733166,45.6966202207409,0 4.85532468353563,45.6966107174843,0 4.85544190519465,45.69596287095171,0 4.85544234357577,45.6959606118979,0 4.85544071745448,45.69595811662519,0 4.85543999360957,45.6959556965659,0 4.85543901585336,45.6959533707616,0 4.85543778418586,45.6959511392125,0 4.85543616712264,45.69594891401061,0 4.85543429916738,45.6959468730874,0 4.85543217428173,45.6959448363956,0 4.85542992998852,45.6959430718904,0 4.85542742876494,45.6959413116166,0 4.8554246826877,45.6959399156688,0 4.8554216796801,45.6959385239523,0 4.85541868271098,45.69593731228299,0 4.85541556331506,45.69593628277659,0 4.85541232451148,45.6959355254567,0 4.85540896328103,45.69593495029969,0 4.85540547962371,45.6959345573056,0 4.8554020020047,45.6959343443586,0 4.85405798929182,45.6958104620773,0 4.85405579030199,45.6958100478998,0 4.85405346888106,45.6958098158837,0 4.85405115349402,45.6958097639149,0 4.85404884715776,45.6958099820171,0 4.85404667230343,45.6958102880287,0 4.8540443750179,45.6958107762018,0 4.85404234069619,45.69581144019391,0 4.85404030939135,45.6958121942096,0 4.85403841258529,45.6958131261584,0 4.85403677572611,45.6958141439026,0 4.85403514490069,45.6958153416941,0 4.85403389947026,45.69581653314319,0 4.85403266007358,45.69581790463959,0 4.85403155215877,45.6958193640455,0 4.85403070419088,45.6958209092468,0 4.85402934236278,45.6958224629047,0 4.85402952513199,45.6958240812166,0 4.85402970790121,45.6958256995285,0 4.85403001913549,45.69582731572621,0 4.85403020190474,45.6958289340381,0 4.85413188794869,45.6965887404215,0 4.85413294537487,45.6965972799847,0 4.85413630313623,45.6966054213966,0 4.85414055714955,45.6966134579849,0 4.85414544746427,45.69662130395439,0 4.85415109651324,45.6966287771434,0 4.85415725641427,45.6966361518513,0 4.85416417203276,45.6966430637548,0 4.85417172395339,45.6966497850391,0 4.854179649208,45.6966561398853,0 4.8541883362147,45.696662211974,0 4.85419739052099,45.6966677375771,0 4.85420707509517,45.6966728925131,0 4.85421713602046,45.6966777710342,0 4.85422768969474,45.69668201093129,0 4.85423835976854,45.6966858886184,0 4.85424952862548,45.6966893077286,0 4.85426093631396,45.6966921824668,0 4.85427258283368,45.6966945128331,0 4.85428434273464,45.6966963909655,0 4.85429634146623,45.6966977247257,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.3492">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69199000AI0043</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ST FONS</SimpleData>
+					<SimpleData name="Adresse">RUE DE PRIVAS</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">BATIGERE RHONE ALPES  SOCIETE ANONYME   DHABITATIONS A LOYE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6959606118979 </north>
+			<south> 45.6956989483184 </south>
+			<east> 4.85546476934068 </east>
+			<west> 4.85402114869439 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.85405798929182,45.6958104620773,0 4.8554020020047,45.6959343443586,0 4.85540547962371,45.6959345573056,0 4.85540896328103,45.69593495029969,0 4.85541232451148,45.6959355254567,0 4.85541556331506,45.69593628277659,0 4.85541868271098,45.69593731228299,0 4.8554216796801,45.6959385239523,0 4.8554246826877,45.6959399156688,0 4.85542742876494,45.6959413116166,0 4.85542992998852,45.6959430718904,0 4.85543217428173,45.6959448363956,0 4.85543429916738,45.6959468730874,0 4.85543616712264,45.69594891401061,0 4.85543778418586,45.6959511392125,0 4.85543901585336,45.6959533707616,0 4.85543999360957,45.6959556965659,0 4.85544071745448,45.69595811662519,0 4.85544234357577,45.6959606118979,0 4.85546476934068,45.69583594132619,0 4.85546262468546,45.69583714760141,0 4.85546125383949,45.6958384312057,0 4.85545987997422,45.6958396247863,0 4.85545837462465,45.695840730459,0 4.85545673477155,45.6958416582002,0 4.85545496645337,45.69584258805709,0 4.85545306967009,45.6958435200298,0 4.85545116382912,45.6958441819316,0 4.85544912650385,45.6958447559254,0 4.85544708615934,45.6958452398956,0 4.85544491131135,45.6958455459342,0 4.85544286492837,45.695845849857,0 4.85544068102275,45.6958458858247,0 4.85543850013631,45.6958460118159,0 4.85543618172726,45.6958458698519,0 4.85543411722912,45.69584563363281,0 4.85543191822759,45.6958452194822,0 4.85542882902838,45.69584509021241,0 4.85406302038065,45.6957189548628,0 4.85406044203392,45.6957187270752,0 4.85405785765334,45.69571831924019,0 4.85405540475452,45.6957179993147,0 4.85405294280494,45.6957174093181,0 4.85405047783848,45.6957167292978,0 4.85404813831995,45.6957159571396,0 4.85404592424935,45.6957150928435,0 4.85404370716191,45.69571413852379,0 4.85404149007454,45.695713184204,0 4.85403939541821,45.6957120477226,0 4.85403742620984,45.6957108191035,0 4.85403558546633,45.6957095883701,0 4.85403386715388,45.6957081754752,0 4.85403227730628,45.6957067604662,0 4.85403081592353,45.695705343343,0 4.85402947697183,45.69570374405839,0 4.8540281380202,45.6957021447737,0 4.85402705901505,45.6957006312844,0 4.85402533165244,45.6956989483184,0 4.85402114869439,45.695762068478,0 4.85402934236278,45.6958224629047,0 4.85403070419088,45.6958209092468,0 4.85403155215877,45.6958193640455,0 4.85403266007358,45.69581790463959,0 4.85403389947026,45.69581653314319,0 4.85403514490069,45.6958153416941,0 4.85403677572611,45.6958141439026,0 4.85403841258529,45.6958131261584,0 4.85404030939135,45.6958121942096,0 4.85404234069619,45.69581144019391,0 4.8540443750179,45.6958107762018,0 4.85404667230343,45.6958102880287,0 4.85404884715776,45.6958099820171,0 4.85405115349402,45.6958097639149,0 4.85405346888106,45.6958098158837,0 4.85405579030199,45.6958100478998,0 4.85405798929182,45.6958104620773,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.3524">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69199000AE0435</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ST FONS</SimpleData>
+					<SimpleData name="Adresse">RUE ETIENNE DOLET</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">CDC HABITAT SOCIAL SOCIETE ANONYME DHABITATIONS A LOYER MOD</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.70616199982351 </north>
+			<south> 45.7059302819805 </south>
+			<east> 4.85866886814188 </east>
+			<west> 4.85825968670626 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.85866886814188,45.70593494635,0 4.85841243104708,45.70593611350751,0 4.85841250654887,45.7059307078523,0 4.8582690197999,45.7059302819805,0 4.85825968670626,45.7061576012527,0 4.85846301815732,45.7061599224848,0 4.8586147802145,45.7061617428721,0 4.85865927063766,45.70616199982351,0 4.85866886814188,45.70593494635,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.3545">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69199000AI0044</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ST FONS</SimpleData>
+					<SimpleData name="Adresse">2, RUE DE NIMES</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">BATIGERE RHONE ALPES  SOCIETE ANONYME   DHABITATIONS A LOYE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6958460118159 </north>
+			<south> 45.6951136015092 </south>
+			<east> 4.85556821817975 </east>
+			<west> 4.85402533165244 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.85406090587796,45.6951534193158,0 4.85402539977949,45.6956971457309,0 4.85402533165244,45.6956989483184,0 4.85402705901505,45.6957006312844,0 4.8540281380202,45.6957021447737,0 4.85402947697183,45.69570374405839,0 4.85403081592353,45.695705343343,0 4.85403227730628,45.6957067604662,0 4.85403386715388,45.6957081754752,0 4.85403558546633,45.6957095883701,0 4.85403742620984,45.6957108191035,0 4.85403939541821,45.6957120477226,0 4.85404149007454,45.695713184204,0 4.85404370716191,45.69571413852379,0 4.85404592424935,45.6957150928435,0 4.85404813831995,45.6957159571396,0 4.85405047783848,45.6957167292978,0 4.85405294280494,45.6957174093181,0 4.85405540475452,45.6957179993147,0 4.85405785765334,45.69571831924019,0 4.85406044203392,45.6957187270752,0 4.85406302038065,45.6957189548628,0 4.85542882902838,45.69584509021241,0 4.85543191822759,45.6958452194822,0 4.85543411722912,45.69584563363281,0 4.85543618172726,45.6958458698519,0 4.85543850013631,45.6958460118159,0 4.85544068102275,45.6958458858247,0 4.85544286492837,45.695845849857,0 4.85544491131135,45.6958455459342,0 4.85544708615934,45.6958452398956,0 4.85544912650385,45.6958447559254,0 4.85545116382912,45.6958441819316,0 4.85545306967009,45.6958435200298,0 4.85545496645337,45.69584258805709,0 4.85545673477155,45.6958416582002,0 4.85545837462465,45.695840730459,0 4.85545987997422,45.6958396247863,0 4.85546125383949,45.6958384312057,0 4.85546262468546,45.69583714760141,0 4.85546476934068,45.69583594132619,0 4.85546498098219,45.69583458674019,0 4.85546531505022,45.69583304999121,0 4.85556821817975,45.69526425331699,0 4.85556739771851,45.6952589525026,0 4.85556658466534,45.6952577048672,0 4.8555657716122,45.6952564572318,0 4.85556402308111,45.6952541441241,0 4.85556164430933,45.6952522016903,0 4.85555875470248,45.69525035774349,0 4.85555562326529,45.69524896814651,0 4.8555519870317,45.69524785708381,0 4.85554823743131,45.69524719825499,0 4.85505919080481,45.6952020187086,0 4.85413847131117,45.6951168340275,0 4.85410391640801,45.6951136196495,0 4.85409954563585,45.6951136015092,0 4.85409518693155,45.6951139434634,0 4.85409096875843,45.6951146433978,0 4.85408675963606,45.6951156134031,0 4.85408281649117,45.6951168492508,0 4.85407901086033,45.6951183530551,0 4.85407534576042,45.6951202148398,0 4.85407206906743,45.69512216030549,0 4.85406906136873,45.69512446163741,0 4.85406644207695,45.6951268466504,0 4.8540622553355,45.695132319952,0 4.85406090587796,45.6951534193158,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.3564">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69199000AE0441</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ST FONS</SimpleData>
+					<SimpleData name="Adresse">25, AV GABRIEL PERI</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7071539961637 </north>
+			<south> 45.7070266096788 </south>
+			<east> 4.85588469664422 </east>
+			<west> 4.85581960623737 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.85588210327369,45.7071539961637,0 4.85588469664422,45.707028210931,0 4.85582331885023,45.7070266096788,0 4.85581960623737,45.7070730586433,0 4.85585327996481,45.7070727742711,0 4.85585110062952,45.70715342589079,0 4.85588210327369,45.7071539961637,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.3599">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69199000AH0447</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ST FONS</SimpleData>
+					<SimpleData name="Adresse">30, BD YVES FARGE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7042415358766 </north>
+			<south> 45.7042043449235 </south>
+			<east> 4.85639815451228 </east>
+			<west> 4.85633130885132 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.85633695682417,45.7042043449235,0 4.85633130885132,45.7042352430869,0 4.85639219824337,45.7042415358766,0 4.85639815451228,45.7042121638787,0 4.85633695682417,45.7042043449235,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.3622">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69199000AI0045</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ST FONS</SimpleData>
+					<SimpleData name="Adresse">RUE DE NIMES</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">BATIGERE RHONE ALPES  SOCIETE ANONYME   DHABITATIONS A LOYE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.69526425331699 </north>
+			<south> 45.695015188939 </south>
+			<east> 4.85558977268049 </east>
+			<west> 4.8540622553355 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.85410391640801,45.6951136196495,0 4.85413847131117,45.6951168340275,0 4.85505919080481,45.6952020187086,0 4.85554823743131,45.69524719825499,0 4.8555519870317,45.69524785708381,0 4.85555562326529,45.69524896814651,0 4.85555875470248,45.69525035774349,0 4.85556164430933,45.6952522016903,0 4.85556402308111,45.6952541441241,0 4.8555657716122,45.6952564572318,0 4.85556658466534,45.6952577048672,0 4.85556739771851,45.6952589525026,0 4.85556821817975,45.69526425331699,0 4.85558977268049,45.6951442808821,0 4.8555869039359,45.69515072334111,0 4.85558395064768,45.6951546451386,0 4.85558021450089,45.695158219537,0 4.85557556401263,45.6951613586284,0 4.85557051303664,45.6951640539492,0 4.8555650525149,45.6951660354284,0 4.85555893457872,45.6951675773687,0 4.85555266100468,45.6951683112119,0 4.85554636931448,45.6951685049129,0 4.85554315470865,45.6951684677858,0 4.85408959292108,45.6950275651466,0 4.85408597483317,45.6950269941786,0 4.85408259858699,45.6950259688638,0 4.85407933873638,45.69502458134,0 4.85407645522468,45.6950229174026,0 4.85407395106882,45.6950210670752,0 4.85407207716128,45.6950188460823,0 4.85406989805684,45.695015188939,0 4.8540622553355,45.695132319952,0 4.85406644207695,45.6951268466504,0 4.85406906136873,45.69512446163741,0 4.85407206906743,45.69512216030549,0 4.85407534576042,45.6951202148398,0 4.85407901086033,45.6951183530551,0 4.85408281649117,45.6951168492508,0 4.85408675963606,45.6951156134031,0 4.85409096875843,45.6951146433978,0 4.85409518693155,45.6951139434634,0 4.85409954563585,45.6951136015092,0 4.85410391640801,45.6951136196495,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.3667">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69199000AI0046</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ST FONS</SimpleData>
+					<SimpleData name="Adresse">3, ALL DE BEZIERS</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">BATIGERE RHONE ALPES  SOCIETE ANONYME   DHABITATIONS A LOYE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6951685049129 </north>
+			<south> 45.6944631740177 </south>
+			<east> 4.85568199834117 </east>
+			<west> 4.85406989805684 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.85567189978152,45.6946305909002,0 4.85497478825347,45.6945439815744,0 4.85491028559261,45.69453693703441,0 4.85422621907759,45.6944751487098,0 4.85410551110692,45.6944631740177,0 4.85406989805684,45.695015188939,0 4.85407207716128,45.6950188460823,0 4.85407395106882,45.6950210670752,0 4.85407645522468,45.6950229174026,0 4.85407933873638,45.69502458134,0 4.85408259858699,45.6950259688638,0 4.85408597483317,45.6950269941786,0 4.85408959292108,45.6950275651466,0 4.85554315470865,45.6951684677858,0 4.85554636931448,45.6951685049129,0 4.85555266100468,45.6951683112119,0 4.85555893457872,45.6951675773687,0 4.8555650525149,45.6951660354284,0 4.85557051303664,45.6951640539492,0 4.85557556401263,45.6951613586284,0 4.85558021450089,45.695158219537,0 4.85558395064768,45.6951546451386,0 4.8555869039359,45.69515072334111,0 4.85558977268049,45.6951442808821,0 4.85568199834117,45.6946327664653,0 4.85567189978152,45.6946305909002,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.3679">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69199000AE0462</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ST FONS</SimpleData>
+					<SimpleData name="Adresse">16, RUE ROBERT REYNIER</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SOCIETE FRANCAISE DES HABITATIONS ECONOMIQUES - SOCIETE ANON</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.70935548293699 </north>
+			<south> 45.7091270530765 </south>
+			<east> 4.86164149549388 </east>
+			<west> 4.86094029550172 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.8609561188343,45.7091270530765,0 4.8609432186642,45.7092403985401,0 4.8609485021418,45.709240761655,0 4.86094029550172,45.7092987244251,0 4.86098507876912,45.7092999664737,0 4.86097928760638,45.7093532956035,0 4.86103167945547,45.7093552226439,0 4.86103468015312,45.7093297723347,0 4.8610793622136,45.70933182668,0 4.86108113038632,45.7093232404865,0 4.86161577086082,45.70935548293699,0 4.8616258498235,45.7092767722452,0 4.86164149549388,45.70916482250091,0 4.8609561188343,45.7091270530765,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.3691">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69199000AE0464</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ST FONS</SimpleData>
+					<SimpleData name="Adresse">14, RUE ROBERT REYNIER</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SOCIETE FRANCAISE DES HABITATIONS ECONOMIQUES - SOCIETE ANON</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.70916482250091 </north>
+			<south> 45.7089190712616 </south>
+			<east> 4.86167213990552 </east>
+			<west> 4.8609561188343 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.86125073840131,45.7089190712616,0 4.86123094227061,45.7090987347599,0 4.86103128036368,45.7090873503791,0 4.86096094610373,45.709083287667,0 4.8609561188343,45.7091270530765,0 4.86164149549388,45.70916482250091,0 4.86167213990552,45.7089446267108,0 4.86125073840131,45.7089190712616,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.3706">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69199000AE0467</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ST FONS</SimpleData>
+					<SimpleData name="Adresse">18, RUE ROBERT REYNIER</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SOCIETE FRANCAISE DES HABITATIONS ECONOMIQUES - SOCIETE ANON</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.70943502815009 </north>
+			<south> 45.7092767722452 </south>
+			<east> 4.86174050214705 </east>
+			<west> 4.8613197836215 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.86174050214705,45.709283525159,0 4.8616258498235,45.7092767722452,0 4.86161577086082,45.70935548293699,0 4.86151682826293,45.70934946119041,0 4.86151227300988,45.7093860162496,0 4.8614933174062,45.7093843477618,0 4.86149699137726,45.7093483477033,0 4.86134381256629,45.7093390783437,0 4.86134214566418,45.70934685220679,0 4.86132584179899,45.70934757187739,0 4.8613197836215,45.7094044183111,0 4.86133376754991,45.7094340917645,0 4.86142024507267,45.7094250070662,0 4.86142431079004,45.70943502815009,0 4.86150751102054,45.7094278890662,0 4.86150637343575,45.7094170089522,0 4.86163562322458,45.7094028939815,0 4.86163892103153,45.70941301781811,0 4.86172031013263,45.7094055482022,0 4.86172147814908,45.7093982329429,0 4.86174050214705,45.709283525159,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.3716">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69199000AC0469</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ST FONS</SimpleData>
+					<SimpleData name="Adresse">40, AV JEAN JAURES</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.71237659124719 </north>
+			<south> 45.7121951793908 </south>
+			<east> 4.85466263696682 </east>
+			<west> 4.85405421343081 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.85466263696682,45.7121981894419,0 4.85465945025404,45.7121951793908,0 4.85406153241831,45.7122627551716,0 4.85405421343081,45.7123627670098,0 4.85459353200911,45.71237659124719,0 4.85459971628513,45.7122466035778,0 4.85460339670801,45.7122336625075,0 4.85460974680941,45.7122236499251,0 4.85461896322004,45.7122147611253,0 4.85463080100801,45.7122073604323,0 4.85464438178344,45.7122020928153,0 4.85465419501055,45.71219949933101,0 4.85466263696682,45.7121981894419,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.3717">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69199000AE0469</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ST FONS</SimpleData>
+					<SimpleData name="Adresse">18, RUE ROBERT REYNIER</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SOCIETE FRANCAISE DES HABITATIONS ECONOMIQUES - SOCIETE ANON</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7093860162496 </north>
+			<south> 45.7093483477033 </south>
+			<east> 4.86151682826293 </east>
+			<west> 4.8614933174062 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.86151682826293,45.70934946119041,0 4.86149699137726,45.7093483477033,0 4.8614933174062,45.7093843477618,0 4.86151227300988,45.7093860162496,0 4.86151682826293,45.70934946119041,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.3721">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69199000AC0470</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ST FONS</SimpleData>
+					<SimpleData name="Adresse">38, AV JEAN JAURES</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.71268320046769 </north>
+			<south> 45.71215255584841 </south>
+			<east> 4.85494961564913 </east>
+			<west> 4.8537074981002 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.85402647908462,45.71215677501811,0 4.85388076650026,45.7121709718068,0 4.8537074981002,45.71218778344151,0 4.85372894954294,45.7123099304217,0 4.85376108375438,45.7124937821095,0 4.85379430478971,45.71268320046769,0 4.85403943541958,45.7126468314928,0 4.85403831438864,45.71268242893809,0 4.85479552989062,45.71259151474089,0 4.85479831990088,45.7125175185244,0 4.8548652750859,45.712512723494,0 4.85486823840931,45.71250907178181,0 4.85494473776047,45.7125013273357,0 4.85494961564913,45.71238991626571,0 4.85494343842439,45.7123897477232,0 4.85491637382274,45.7123955075389,0 4.85471344304701,45.7123904707348,0 4.85459299774982,45.7123874989253,0 4.85459353200911,45.71237659124719,0 4.85405421343081,45.7123627670098,0 4.85406153241831,45.7122627551716,0 4.85406940988265,45.71215255584841,0 4.85402647908462,45.71215677501811,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.3726">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69199000AE0471</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ST FONS</SimpleData>
+					<SimpleData name="Adresse">12, RUE MARCELLIN BERTHELOT</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7075969944992 </north>
+			<south> 45.7074170822793 </south>
+			<east> 4.85652431232127 </east>
+			<west> 4.85635710487152 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.85636442772403,45.7074170822793,0 4.85635710487152,45.7075666347764,0 4.85639713335088,45.7075947988431,0 4.85651535674738,45.7075969944992,0 4.85652431232127,45.7074194923127,0 4.85636442772403,45.7074170822793,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.3928">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69199000AC0507</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ST FONS</SimpleData>
+					<SimpleData name="Adresse">RUE DE BOURRELIER</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">3F RESIDENCES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7112176913375 </north>
+			<south> 45.71102629514151 </south>
+			<east> 4.85379859655179 </east>
+			<west> 4.85351880199176 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.85379859655179,45.7110582055197,0 4.853769521021,45.7110538198537,0 4.85373824288436,45.71104892997229,0 4.8537071976164,45.7110433156644,0 4.85368364460014,45.7110387490603,0 4.85365412927946,45.7110327492779,0 4.85362485588055,45.71102629514151,0 4.85362229765751,45.71107272502321,0 4.85359908322143,45.71108977044851,0 4.85352138443974,45.7110885263978,0 4.85351880199176,45.7111342360871,0 4.85355702399599,45.7111353188069,0 4.853553264728,45.7112111323701,0 4.85379519922886,45.7112176913375,0 4.85379773187316,45.7111014549793,0 4.85379859655179,45.7110582055197,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.3933">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69199000AC0508</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ST FONS</SimpleData>
+					<SimpleData name="Adresse">RUE DE BOURRELIER</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">3F RESIDENCES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7113084506539 </north>
+			<south> 45.7110744569557 </south>
+			<east> 4.85414991652034 </east>
+			<west> 4.85397188077685 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.85397695539053,45.7110744569557,0 4.853976014653,45.7111039264382,0 4.85397188077685,45.7112299170784,0 4.85410937918251,45.7112354012114,0 4.85410938515859,45.7113084506539,0 4.85413975841048,45.7113055189364,0 4.85414991652034,45.71107926752481,0 4.85402702656411,45.7110761552344,0 4.85401274188912,45.7110757597359,0 4.85397695539053,45.7110744569557,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.3938">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69199000AC0509</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ST FONS</SimpleData>
+					<SimpleData name="Adresse">19, RUE DE LA REPUBLIQUE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7122627551716 </north>
+			<south> 45.7120758124268 </south>
+			<east> 4.85492710504769 </east>
+			<west> 4.85406153241831 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.8540749373676,45.7120758124268,0 4.85406940988265,45.71215255584841,0 4.85406153241831,45.7122627551716,0 4.85465945025404,45.7121951793908,0 4.85466263696682,45.7121981894419,0 4.85473913893579,45.71219053515919,0 4.85473948388687,45.71218548536929,0 4.85488387502919,45.7121702283366,0 4.85488725233659,45.7121712536286,0 4.85492710504769,45.71216726494241,0 4.85486011840768,45.7121136028703,0 4.85483416330001,45.71209493450401,0 4.85415535723276,45.7120776418626,0 4.8540749373676,45.7120758124268,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.3953">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69199000AC0510</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ST FONS</SimpleData>
+					<SimpleData name="Adresse">19, RUE DE LA REPUBLIQUE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.71216726494241 </north>
+			<south> 45.71197996792969 </south>
+			<east> 4.85496749559804 </east>
+			<west> 4.8540749373676 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.85445876349918,45.7120346384676,0 4.8540749373676,45.7120758124268,0 4.85415535723276,45.7120776418626,0 4.85483416330001,45.71209493450401,0 4.85486011840768,45.7121136028703,0 4.85492710504769,45.71216726494241,0 4.85495940023345,45.71216412122901,0 4.85496749559804,45.71197996792969,0 4.85445876349918,45.7120346384676,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.3964">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69199000AK0513</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ST FONS</SimpleData>
+					<SimpleData name="Adresse">LA CHARRIERE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OPH DE LA METROPOLE DE LYON</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6889635104333 </north>
+			<south> 45.6888611569484 </south>
+			<east> 4.85577414109005 </east>
+			<west> 4.85569174866963 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.85572882042882,45.6888628881393,0 4.85569174866963,45.6888611569484,0 4.85574924046604,45.6889620827526,0 4.85575005946949,45.6889635104333,0 4.85576846052534,45.688929700015,0 4.85576777600959,45.6889284502655,0 4.85577414109005,45.6889266340116,0 4.85577114612896,45.688921639246,0 4.85576490949793,45.6889234533836,0 4.85575905104657,45.6889135517593,0 4.85575751871738,45.6889138472233,0 4.85572882042882,45.6888628881393,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.4032">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69199000AK0524</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ST FONS</SimpleData>
+					<SimpleData name="Adresse">LA CHARRIERE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OPH DE LA METROPOLE DE LYON</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6890639352632 </north>
+			<south> 45.6890400055448 </south>
+			<east> 4.85568734572388 </east>
+			<west> 4.85557039045386 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.85557039045386,45.68906320892989,0 4.85557576419058,45.6890624898973,0 4.85558126939551,45.6890618587722,0 4.85558665218915,45.6890614098099,0 4.85559216041291,45.6890608687078,0 4.85559754622545,45.6890605097685,0 4.85560306652537,45.68906032876019,0 4.85560858380617,45.6890600577281,0 4.85561410410601,45.6890598767192,0 4.85561949897566,45.6890597878497,0 4.85562502833281,45.68905987691101,0 4.85563055768999,45.68905996597209,0 4.85563596161705,45.6890601471725,0 4.85564149701257,45.6890604162802,0 4.85564690697803,45.6890607775273,0 4.85565231694356,45.689061138774,0 4.85565773294752,45.6890616800676,0 4.85566315197077,45.6890623113846,0 4.85566844254487,45.68906294481731,0 4.85567386458757,45.6890636661574,0 4.85567939998363,45.6890639352632,0 4.85568734572388,45.6890632639286,0 4.85567600813072,45.6890432742763,0 4.85565996240916,45.689047681977,0 4.85565572083347,45.6890400055448,0 4.85560568107294,45.6890539805591,0 4.85557039045386,45.68906320892989,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.4098">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69199000AH0538</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ST FONS</SimpleData>
+					<SimpleData name="Adresse">RUE LOUIS GIRARDET</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7054345451064 </north>
+			<south> 45.70526632929121 </south>
+			<east> 4.85568347232442 </east>
+			<west> 4.8555083816976 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.85564931658761,45.7054345451064,0 4.85568347232442,45.705280047132,0 4.85554288402258,45.70526632929121,0 4.8555083816976,45.7054220038782,0 4.85554737345413,45.7054308194967,0 4.85564931658761,45.7054345451064,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.4192">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69199000AE0559</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ST FONS</SimpleData>
+					<SimpleData name="Adresse">18, RUE ROBERT REYNIER</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SOCIETE FRANCAISE DES HABITATIONS ECONOMIQUES - SOCIETE ANON</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7093532956035 </north>
+			<south> 45.7092987244251 </south>
+			<east> 4.86098507876912 </east>
+			<west> 4.86093371817444 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.86093371817444,45.7093516161669,0 4.86097928760638,45.7093532956035,0 4.86098507876912,45.7092999664737,0 4.86094029550172,45.7092987244251,0 4.86093371817444,45.7093516161669,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.4242">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69199000AC0057</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ST FONS</SimpleData>
+					<SimpleData name="Adresse">9, RUE FRANCIS DE PRESSENSE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">GRANDLYON HABITAT - OFFICE PUBLIC DE LHABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7072362858768 </north>
+			<south> 45.7068508048663 </south>
+			<east> 4.85368926326507 </east>
+			<west> 4.85349637044476 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.85368926326507,45.7072167525378,0 4.85362014696366,45.7069650535421,0 4.85360228609437,45.70686941920551,0 4.85358831557793,45.70686685674239,0 4.85349637044476,45.7068508048663,0 4.85360789508134,45.7072362858768,0 4.85368926326507,45.7072167525378,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.4357">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69199000AH0608</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ST FONS</SimpleData>
+					<SimpleData name="Adresse">23, BD YVES FARGE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7048405738263 </north>
+			<south> 45.7046437099608 </south>
+			<east> 4.85700158657145 </east>
+			<west> 4.85695493352222 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.85699595073453,45.7048405738263,0 4.85700158657145,45.7046446612564,0 4.8569609307834,45.7046437099608,0 4.85695493352222,45.70484034907031,0 4.85696097537998,45.70484033957269,0 4.85699595073453,45.7048405738263,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.4359">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69199000AD0061</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ST FONS</SimpleData>
+					<SimpleData name="Adresse">13, RUE EMILE ZOLA</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.71109851895459 </north>
+			<south> 45.7106047708126 </south>
+			<east> 4.85668066421971 </east>
+			<west> 4.8564046979462 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.85666246198831,45.71109851895459,0 4.85668066421971,45.7106104711483,0 4.85642526076029,45.7106047708126,0 4.8564046979462,45.7110915063251,0 4.85666246198831,45.71109851895459,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.4472">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69199000AH0654</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ST FONS</SimpleData>
+					<SimpleData name="Adresse">18, AV ANTOINE GRAVALLON</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">GRANDLYON HABITAT - OFFICE PUBLIC DE LHABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7043605845745 </north>
+			<south> 45.7038568251379 </south>
+			<east> 4.86230388039448 </east>
+			<west> 4.86180029243842 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.86214739985881,45.7043605845745,0 4.86230295622512,45.7039062946117,0 4.86230308892924,45.7039025994012,0 4.86230374465963,45.7038991657668,0 4.86230388039448,45.7038955605798,0 4.86230376219319,45.70389204966341,0 4.86230313005813,45.70388854724121,0 4.86230185550594,45.7038850554369,0 4.86230033004865,45.7038817479267,0 4.86229829065783,45.7038784489108,0 4.86229574339516,45.70387533843601,0 4.8622929482583,45.7038725022788,0 4.86228976767152,45.7038696724921,0 4.86228633921058,45.703867117023,0 4.86228240590867,45.7038648401184,0 4.86227822473259,45.70386283753129,0 4.86227392416568,45.703861107138,0 4.86226924421039,45.7038595631622,0 4.86226457940903,45.7038584693037,0 4.86225966370256,45.703857559739,0 4.86225463163575,45.7038570123916,0 4.8622496116919,45.7038568251379,0 4.8622091303357,45.7038572239647,0 4.86180029243842,45.7038944250048,0 4.86180655000896,45.7042674964437,0 4.86203259097801,45.704310689584,0 4.86214739985881,45.7043605845745,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.4494">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69199000AE0665</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ST FONS</SimpleData>
+					<SimpleData name="Adresse">6, RUE DE LA COMMUNE DE PARIS</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SOCIETE FRANCAISE DES HABITATIONS ECONOMIQUES - SOCIETE ANON</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7095682204267 </north>
+			<south> 45.70939301932049 </south>
+			<east> 4.86179984348458 </east>
+			<west> 4.86137079090442 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.86172147814908,45.7093982329429,0 4.86172031013263,45.7094055482022,0 4.86163892103153,45.70941301781811,0 4.86163562322458,45.7094028939815,0 4.86150637343575,45.7094170089522,0 4.86150751102054,45.7094278890662,0 4.86142431079004,45.70943502815009,0 4.86142024507267,45.7094250070662,0 4.86137079090442,45.7094301474949,0 4.86140410820931,45.7095682204267,0 4.86179984348458,45.7095262839373,0 4.86176990125595,45.70939301932049,0 4.86172147814908,45.7093982329429,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.4497">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69199000AE0666</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ST FONS</SimpleData>
+					<SimpleData name="Adresse">6, RUE DE LA COMMUNE DE PARIS</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SOCIETE FRANCAISE DES HABITATIONS ECONOMIQUES - SOCIETE ANON</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7095262839373 </north>
+			<south> 45.709283525159 </south>
+			<east> 4.86192021165921 </east>
+			<west> 4.86172147814908 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.86179984348458,45.7095262839373,0 4.86188875341782,45.709516888472,0 4.86192021165921,45.70929415708831,0 4.86174050214705,45.709283525159,0 4.86172147814908,45.7093982329429,0 4.86176990125595,45.70939301932049,0 4.86179984348458,45.7095262839373,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.4498">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69199000AE0667</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ST FONS</SimpleData>
+					<SimpleData name="Adresse">10, RUE ROBERT REYNIER</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SOCIETE FRANCAISE DES HABITATIONS ECONOMIQUES - SOCIETE ANON</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7086198442724 </north>
+			<south> 45.70858073362081 </south>
+			<east> 4.86128777026188 </east>
+			<west> 4.86108499921067 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.86108841689031,45.70858073362081,0 4.86108499921067,45.7086090731728,0 4.86128361024086,45.7086198442724,0 4.86128777026188,45.7085944648797,0 4.86108841689031,45.70858073362081,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.4880">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69199000AM0083</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ST FONS</SimpleData>
+					<SimpleData name="Adresse">12, RUE JEAN MACE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7061044728133 </north>
+			<south> 45.70581086991309 </south>
+			<east> 4.85472763952126 </east>
+			<west> 4.85385236768582 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.85410409523722,45.7058540528904,0 4.85385236768582,45.7060033929609,0 4.85464498391243,45.7061044728133,0 4.85465405563329,45.7060682941391,0 4.85464410766313,45.706066836555,0 4.85466329237098,45.70599869551711,0 4.85467200846911,45.7059979215404,0 4.85467577167043,45.7059836280026,0 4.85472763952126,45.7058511770288,0 4.85442112551901,45.7058273083063,0 4.85441838891064,45.70581086991309,0 4.85410409523722,45.7058540528904,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.5012">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69199000AI0092</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ST FONS</SimpleData>
+					<SimpleData name="Adresse">RUE DE FALAISE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">BATIGERE RHONE ALPES  SOCIETE ANONYME   DHABITATIONS A LOYE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.69682283075759 </north>
+			<south> 45.6944493388267 </south>
+			<east> 4.85575371295927 </east>
+			<west> 4.85391295817635 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.85508871752156,45.6968070899111,0 4.85536354598122,45.69682283075759,0 4.85575371295927,45.69464788844329,0 4.85568199834117,45.6946327664653,0 4.85558977268049,45.6951442808821,0 4.85556821817975,45.69526425331699,0 4.85546531505022,45.69583304999121,0 4.85546498098219,45.69583458674019,0 4.85546476934068,45.69583594132619,0 4.85544234357577,45.6959606118979,0 4.85544190519465,45.69596287095171,0 4.85532468353563,45.6966107174843,0 4.85532191733166,45.6966202207409,0 4.85531824883966,45.69662964878311,0 4.85531354355425,45.6966388236791,0 4.85530818687569,45.6966477390819,0 4.85530179340297,45.69665640133821,0 4.85529474551751,45.69666471407751,0 4.85528678930423,45.6966727715544,0 4.85527817263985,45.69668029946671,0 4.85526864462831,45.6966874820926,0 4.85525871611851,45.6966942209461,0 4.85524787022352,45.6967004344655,0 4.85523674927854,45.69670611207311,0 4.8552248394156,45.69671126223069,0 4.85521277995126,45.69671578433711,0 4.85520006003647,45.6967197768776,0 4.85518706205385,45.6967231434821,0 4.8551737860038,45.6967258841505,0 4.85516010341964,45.6967280009981,0 4.85514639668431,45.6967293976549,0 4.85513253733124,45.6967300762362,0 4.85429634146623,45.6966977247257,0 4.85428434273464,45.6966963909655,0 4.85427258283368,45.6966945128331,0 4.85426093631396,45.6966921824668,0 4.85424952862548,45.6966893077286,0 4.85423835976854,45.6966858886184,0 4.85422768969474,45.69668201093129,0 4.85421713602046,45.6966777710342,0 4.85420707509517,45.6966728925131,0 4.85419739052099,45.6966677375771,0 4.8541883362147,45.696662211974,0 4.854179649208,45.6966561398853,0 4.85417172395339,45.6966497850391,0 4.85416417203276,45.6966430637548,0 4.85415725641427,45.6966361518513,0 4.85415109651324,45.6966287771434,0 4.85414544746427,45.69662130395439,0 4.85414055714955,45.6966134579849,0 4.85413630313623,45.6966054213966,0 4.85413294537487,45.6965972799847,0 4.85413188794869,45.6965887404215,0 4.85403020190474,45.6958289340381,0 4.85403001913549,45.69582731572621,0 4.85402970790121,45.6958256995285,0 4.85402952513199,45.6958240812166,0 4.85402934236278,45.6958224629047,0 4.85402114869439,45.695762068478,0 4.85402533165244,45.6956989483184,0 4.85402539977949,45.6956971457309,0 4.85406090587796,45.6951534193158,0 4.8540622553355,45.695132319952,0 4.85406989805684,45.695015188939,0 4.85410551110692,45.6944631740177,0 4.85396648920374,45.6944493388267,0 4.85395116646372,45.6948090735557,0 4.85391295817635,45.6957017883855,0 4.85399669203435,45.6965051254609,0 4.85400854773751,45.6965904099399,0 4.85401257321008,45.6966031341064,0 4.85401787430253,45.6966155670606,0 4.85402420011568,45.6966278930778,0 4.85403167006627,45.69663983997281,0 4.85403977632097,45.6966515962492,0 4.85404889824712,45.6966629755171,0 4.85405877891113,45.6966739820046,0 4.85406954376328,45.69668452357359,0 4.85408093888671,45.69669469447589,0 4.85409334968279,45.6967044883688,0 4.85410638471635,45.6967137315471,0 4.85412017547154,45.69672251192019,0 4.85413446199695,45.6967307436926,0 4.85414950122671,45.6967384226355,0 4.85416516469351,45.6967455508629,0 4.85418132392993,45.6967521304889,0 4.85419784443401,45.6967579835803,0 4.85421486070694,45.6967632880699,0 4.85423211279662,45.6967679581625,0 4.85425464713238,45.69677299168081,0 4.85508871752156,45.6968070899111,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.5078">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69199000AH0098</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ST FONS</SimpleData>
+					<SimpleData name="Adresse">37, BD YVES FARGE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.70384244329149 </north>
+			<south> 45.703302747671 </south>
+			<east> 4.85691912732595 </east>
+			<west> 4.8561542362818 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.8561542362818,45.703302747671,0 4.85615586265114,45.7033052429347,0 4.85641695121342,45.70370735289519,0 4.85642875211557,45.7037027448679,0 4.85647022519513,45.7037663739873,0 4.85646361656993,45.7037686446345,0 4.85651108745128,45.70384244329149,0 4.85679739389674,45.703750984864,0 4.85691912732595,45.7034405672673,0 4.85691808996944,45.7033522223157,0 4.85691715187149,45.7033051293655,0 4.8567038803045,45.7033089141634,0 4.85670362333986,45.7033089183978,0 4.8561542362818,45.703302747671,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

@@ -1,0 +1,1876 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>VAUX EN BEAUJOLAIS_COM</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_4">
+		<name>VAUX EN BEAUJOLAIS_COM</name>
+		<Schema name="VAUX EN BEAUJOLAIS_COM" id="VAUX EN BEAUJOLAIS_COM.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="COM">
+			<LineStyle>
+				<color>BFe6c645</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4Ce6c645</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.320">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69257000AB0183</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">VAUX EN BEAUJOLAIS</SimpleData>
+					<SimpleData name="Adresse">21, ALL ALBERT DUBOUT</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">CCOM</SimpleData>
+					<SimpleData name="Denomination">COMMUNAUTE COMMUNES BEAUJOLAIS VAUXONNE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.05615596819071 </north>
+			<south> 46.05600522862889 </south>
+			<east> 4.5926922046506 </east>
+			<west> 4.59251145021173 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.59268654567305,46.05603757100279,0 4.5926922046506,46.05602749404271,0 4.59257810316156,46.05600522862889,0 4.59256631746391,46.0560271003862,0 4.59251145021173,46.05612928679529,0 4.59261895268973,46.05615596819071,0 4.59263939142242,46.0561201945915,0 4.59268125116384,46.056046832237,0 4.59268654567305,46.05603757100279,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.1473">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69257000AB0148</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">VAUX EN BEAUJOLAIS</SimpleData>
+					<SimpleData name="Adresse">10, RTE DE LA CIME</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE VAUX EN BEAUJOLAIS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.056465333729 </north>
+			<south> 46.05612689565749 </south>
+			<east> 4.59247724227996 </east>
+			<west> 4.59181826494318 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.59237677079596,46.0564550603809,0 4.59240910107155,46.056405519672,0 4.59242111534389,46.05638706728499,0 4.59246643624165,46.0563036589338,0 4.59247724227996,46.056283692361,0 4.59239777895735,46.0562603098723,0 4.59238238135572,46.0562557525108,0 4.59236111495231,46.0562495662742,0 4.5923039995919,46.0562339759837,0 4.59225197716201,46.0562200254377,0 4.59225347311085,46.0562136096484,0 4.59214628562851,46.056184401598,0 4.59202488542628,46.0561513399435,0 4.59193762960788,46.05612689565749,0 4.59190762560175,46.056127226779,0 4.59188148233167,46.0561357898977,0 4.59185574630392,46.0561494811348,0 4.59183482991547,46.0561687789584,0 4.59182050136693,46.0562011341442,0 4.59181826494318,46.05622665460711,0 4.59182435378783,46.0562403494492,0 4.59183156632826,46.05624817413771,0 4.59194823666603,46.0562831938132,0 4.59215305290228,46.0563421046629,0 4.59225448594475,46.056413815251,0 4.59234583792014,46.0564545940521,0 4.59236995307856,46.056465333729,0 4.59237677079596,46.0564550603809,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.1524">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69257000AL0166</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">VAUX EN BEAUJOLAIS</SimpleData>
+					<SimpleData name="Adresse">TOLETE</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE VAUX EN BEAUJOLAIS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0553423905865 </north>
+			<south> 46.055304347036 </south>
+			<east> 4.57898846178578 </east>
+			<west> 4.5789280976189 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.57898846178578,46.0553161159424,0 4.5789280976189,46.055304347036,0 4.57894497314346,46.0553423905865,0 4.57898846178578,46.0553161159424,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.2129">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69257000AB0025</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">VAUX EN BEAUJOLAIS</SimpleData>
+					<SimpleData name="Adresse">17, PL EPHREM MERVILLE</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE VAUX EN BEAUJOLAIS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0579440356848 </north>
+			<south> 46.05748253393891 </south>
+			<east> 4.5913494159272 </east>
+			<west> 4.59100272229746 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.59100272229746,46.0578803876351,0 4.59103219891851,46.057888620565,0 4.59124235257959,46.0579440356848,0 4.59127434591558,46.05782469784509,0 4.5913494159272,46.05754434554811,0 4.59122597275649,46.0575123024133,0 4.59111372158061,46.05748253393891,0 4.59100272229746,46.0578803876351,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.2314">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69257000AC0010</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">VAUX EN BEAUJOLAIS</SimpleData>
+					<SimpleData name="Adresse">BOURDISSONNE</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE VAUX EN BEAUJOLAIS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0550992904675 </north>
+			<south> 46.0546878317987 </south>
+			<east> 4.59183684656962 </east>
+			<west> 4.5912075977555 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.5912075977555,46.0549246544027,0 4.59126492576477,46.0549387110932,0 4.5913450978341,46.0549732527524,0 4.59150476703212,46.0550413546361,0 4.59160286032065,46.0550782565576,0 4.59169298115697,46.0550855480595,0 4.59183684656962,46.0550992904675,0 4.59171912770524,46.0549698948061,0 4.59163660391826,46.05487648234439,0 4.59147353549907,46.0547803273317,0 4.59131924108922,46.0546878317987,0 4.59124218467235,46.0548458104633,0 4.5912075977555,46.0549246544027,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.2396">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69257000AB0100</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">VAUX EN BEAUJOLAIS</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE VAUX EN BEAUJOLAIS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0568776970855 </north>
+			<south> 46.0566375866353 </south>
+			<east> 4.59264377315158 </east>
+			<west> 4.59211438721132 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.59220003478868,46.0566375866353,0 4.59217604157727,46.0566935851486,0 4.59214407034596,46.05668853990419,0 4.59211438721132,46.05676695500041,0 4.59214066328298,46.0567719000763,0 4.5921772154543,46.05677877242211,0 4.59217796238569,46.0568090245796,0 4.59225143910212,46.0568222236035,0 4.59257272113244,46.0568776970855,0 4.59264377315158,46.05674916381421,0 4.59253521409175,46.0567217767247,0 4.59234338735252,46.0566736723739,0 4.59229151989482,46.0566606203382,0 4.59220003478868,46.0566375866353,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.4352">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69257000AB0113</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">VAUX EN BEAUJOLAIS</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE VAUX EN BEAUJOLAIS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0582259763668 </north>
+			<south> 46.0580119178206 </south>
+			<east> 4.59545617822158 </east>
+			<west> 4.59492893642517 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.59545617822158,46.0581582767656,0 4.59496949612149,46.0580119178206,0 4.59492893642517,46.0580319428206,0 4.59506024410155,46.0580941340231,0 4.59516155737472,46.0581391838226,0 4.59531878984561,46.05819416495,0 4.5954199780077,46.0582259763668,0 4.59545617822158,46.0581582767656,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.4483">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69257000AB0114</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">VAUX EN BEAUJOLAIS</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE VAUX EN BEAUJOLAIS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0581582767656 </north>
+			<south> 46.0577001640512 </south>
+			<east> 4.59554796819142 </east>
+			<west> 4.59496949612149 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.59517016292259,46.0577001640512,0 4.59513319342619,46.05782605796019,0 4.59511671760492,46.0578690717444,0 4.59508810916502,46.0579219834597,0 4.5950163088976,46.0579889227003,0 4.59496949612149,46.0580119178206,0 4.59545617822158,46.0581582767656,0 4.59550997087098,46.05805484306491,0 4.59554796819142,46.0579777511308,0 4.59533987472176,46.0578374713942,0 4.59517016292259,46.0577001640512,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.5617">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69257000AP0122</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">VAUX EN BEAUJOLAIS</SimpleData>
+					<SimpleData name="Adresse">LA FEE</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE VAUX EN BEAUJOLAIS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0478812937227 </north>
+			<south> 46.0470893139899 </south>
+			<east> 4.54074713892975 </east>
+			<west> 4.54005461224679 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.54005461224679,46.0471759984563,0 4.5401339310337,46.0472878641554,0 4.54057274739232,46.0478812937227,0 4.54064227218181,46.047860534501,0 4.54074713892975,46.0478362327474,0 4.54074300764985,46.0478272822592,0 4.54053060680213,46.04736065286519,0 4.54041564621533,46.0470893139899,0 4.54031991354285,46.0471071867329,0 4.54011255257976,46.0471572882856,0 4.54005461224679,46.0471759984563,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.5735">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69257000AK0123</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">VAUX EN BEAUJOLAIS</SimpleData>
+					<SimpleData name="Adresse">CHEVRETON</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE VAUX EN BEAUJOLAIS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.05840071166999 </north>
+			<south> 46.0579777511308 </south>
+			<east> 4.59610737591854 </east>
+			<west> 4.5954199780077 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.59596376505234,46.05840071166999,0 4.59610737591854,46.0581380352845,0 4.59554796819142,46.0579777511308,0 4.59550997087098,46.05805484306491,0 4.59545617822158,46.0581582767656,0 4.5954199780077,46.0582259763668,0 4.59566848603105,46.0583055222742,0 4.59596376505234,46.05840071166999,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.7808">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69257000AM0140</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">VAUX EN BEAUJOLAIS</SimpleData>
+					<SimpleData name="Adresse">CHARPENET</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE VAUX EN BEAUJOLAIS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.04369014788761 </north>
+			<south> 46.0426460742011 </south>
+			<east> 4.58412284166881 </east>
+			<west> 4.58299281737148 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.58378836349369,46.0426460742011,0 4.58339485935285,46.0426574249192,0 4.58313910733711,46.0427588995316,0 4.58299392553301,46.0427656102066,0 4.58299281737148,46.0428169639977,0 4.58299716998045,46.0428648189888,0 4.58300888118165,46.0429077076056,0 4.58305099498156,46.0429823257182,0 4.58312102988745,46.043096813996,0 4.58317113989518,46.0432514802463,0 4.58320015420795,46.0433517702533,0 4.5832303755959,46.0434445678181,0 4.58324725286991,46.0435141342401,0 4.58326956214701,46.0435747081486,0 4.58331660325351,46.04369014788761,0 4.5833458578013,46.04368199356199,0 4.58375282135469,46.04353148135271,0 4.58412284166881,46.043396164797,0 4.58395524191328,46.043019863706,0 4.58378836349369,46.0426460742011,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.8753">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69257000AI0015</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">VAUX EN BEAUJOLAIS</SimpleData>
+					<SimpleData name="Adresse">LE MATHY</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE VAUX EN BEAUJOLAIS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0507951914358 </north>
+			<south> 46.0504449578603 </south>
+			<east> 4.58483992317987 </east>
+			<west> 4.58402071952086 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.58476720245438,46.0507951914358,0 4.58483992317987,46.050697262713,0 4.5846108891677,46.0505914822533,0 4.58443455477318,46.0505099136003,0 4.58435064894724,46.0504755995066,0 4.58427466055208,46.0504556755566,0 4.58416504642523,46.0504449578603,0 4.58409168259424,46.0504487748702,0 4.58405782152359,46.0504587950347,0 4.58402071952086,46.0504910170008,0 4.58413488041319,46.05053382531771,0 4.58426284023993,46.0505437463246,0 4.58431919191268,46.0505555683995,0 4.58446075270255,46.05065140342699,0 4.5845136016966,46.0506763341007,0 4.58469425429078,46.0507461335498,0 4.58476720245438,46.0507951914358,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.11191">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69257000AB0177</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">VAUX EN BEAUJOLAIS</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE VAUX EN BEAUJOLAIS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.05593048343129 </north>
+			<south> 46.0556787039927 </south>
+			<east> 4.59241632957046 </east>
+			<west> 4.59201114589838 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.59205427587449,46.0556787039927,0 4.592014296115,46.05580806163501,0 4.59201114589838,46.055873494787,0 4.59204168373937,46.0558781999157,0 4.59205230944591,46.0558609379376,0 4.59206834045005,46.0558650361126,0 4.59206284304937,46.0558806949502,0 4.59210221870436,46.0558868071337,0 4.59210747571698,46.05587178214069,0 4.5921334927286,46.0558767308495,0 4.59218396715273,46.0558863799443,0 4.59217703426945,46.05590160860519,0 4.59218614375072,46.05590346218991,0 4.59219705322292,46.0559049302321,0 4.59234643781246,46.05593048343129,0 4.59241632957046,46.0557663899564,0 4.5923442860384,46.05574902783349,0 4.59223287633996,46.0557214103087,0 4.59211169508605,46.0556914079775,0 4.59205427587449,46.0556787039927,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.11270">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69257000AB0178</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">VAUX EN BEAUJOLAIS</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE VAUX EN BEAUJOLAIS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.05596412809749 </north>
+			<south> 46.0557663899564 </south>
+			<east> 4.59266906160277 </east>
+			<west> 4.59234643781246 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.59241632957046,46.0557663899564,0 4.59234643781246,46.05593048343129,0 4.59237673012284,46.0559356422554,0 4.59252891659247,46.05596412809749,0 4.5925585636119,46.05591129252651,0 4.59262420983586,46.05592216944039,0 4.59266906160277,46.05582705882261,0 4.59251533970381,46.0557902184663,0 4.59250661296012,46.0557881793985,0 4.59241632957046,46.0557663899564,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.11333">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69257000AB0179</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">VAUX EN BEAUJOLAIS</SimpleData>
+					<SimpleData name="Adresse">22, ALL ALBERT DUBOUT</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE VAUX EN BEAUJOLAIS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0562130516561 </north>
+			<south> 46.0558609379376 </south>
+			<east> 4.59270488768456 </east>
+			<west> 4.59199247388054 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.59234643781246,46.05593048343129,0 4.59219705322292,46.0559049302321,0 4.59218614375072,46.05590346218991,0 4.59217703426945,46.05590160860519,0 4.59218396715273,46.0558863799443,0 4.5921334927286,46.0558767308495,0 4.59210747571698,46.05587178214069,0 4.59210221870436,46.0558868071337,0 4.59206284304937,46.0558806949502,0 4.59206834045005,46.0558650361126,0 4.59205230944591,46.0558609379376,0 4.59204168373937,46.0558781999157,0 4.59205156389166,46.0558798625571,0 4.59202077139456,46.0559467645833,0 4.59200313400994,46.0559854709637,0 4.59199247388054,46.0560104792156,0 4.59212932389064,46.0560409822401,0 4.59228440351017,46.0560755523769,0 4.59229648447538,46.0560549374484,0 4.59234062259731,46.0560646754443,0 4.59234752330291,46.0560661997614,0 4.59234970754753,46.0560612153842,0 4.59239633659894,46.05607208925839,0 4.59239388590102,46.05607680717581,0 4.59244363682273,46.0560882676655,0 4.59243054484927,46.0561097074137,0 4.59238225911683,46.0561890142838,0 4.59244068326784,46.0562051265604,0 4.59246639859245,46.0562130516561,0 4.59249438816794,46.0561610499864,0 4.59251145021173,46.05612928679529,0 4.59256631746391,46.0560271003862,0 4.59257810316156,46.05600522862889,0 4.5926922046506,46.05602749404271,0 4.59270488768456,46.0560053394667,0 4.59256390865798,46.05597075201851,0 4.59252891659247,46.05596412809749,0 4.59237673012284,46.0559356422554,0 4.59234643781246,46.05593048343129,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.11478">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69257000AB0180</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">VAUX EN BEAUJOLAIS</SimpleData>
+					<SimpleData name="Adresse">16, ALL ALBERT DUBOUT</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE VAUX EN BEAUJOLAIS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0561498421277 </north>
+			<south> 46.0560104792156 </south>
+			<east> 4.59228440351017 </east>
+			<west> 4.59196544078087 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.59228440351017,46.0560755523769,0 4.59212932389064,46.0560409822401,0 4.59199247388054,46.0560104792156,0 4.59196544078087,46.0560731853486,0 4.59211086445875,46.05611383572149,0 4.59224062955065,46.0561498421277,0 4.59228440351017,46.0560755523769,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.12275">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69257000AB0190</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">VAUX EN BEAUJOLAIS</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE VAUX EN BEAUJOLAIS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.05613685094029 </north>
+			<south> 46.05582705882261 </south>
+			<east> 4.59339412768813 </east>
+			<west> 4.59252891659247 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.59266906160277,46.05582705882261,0 4.59262420983586,46.05592216944039,0 4.5925585636119,46.05591129252651,0 4.59252891659247,46.05596412809749,0 4.59256390865798,46.05597075201851,0 4.59270488768456,46.0560053394667,0 4.5926922046506,46.05602749404271,0 4.59268654567305,46.05603757100279,0 4.59285454716435,46.0560626819393,0 4.59296317210651,46.0560789894904,0 4.59301839242469,46.05608722054171,0 4.59305529305993,46.0560927366935,0 4.59312974093402,46.0561037598777,0 4.59323797026127,46.0561198025233,0 4.59335153293924,46.05613685094029,0 4.59339412768813,46.0559996201788,0 4.59333002662121,46.0559840384913,0 4.59312214049717,46.05593526044531,0 4.59279660080049,46.05585769180549,0 4.59269016725759,46.05583216644861,0 4.59266906160277,46.05582705882261,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.12588">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69257000AL0194</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">VAUX EN BEAUJOLAIS</SimpleData>
+					<SimpleData name="Adresse">LE SOTISON</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE VAUX EN BEAUJOLAIS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.05275554355969 </north>
+			<south> 46.0526157301327 </south>
+			<east> 4.57708078517778 </east>
+			<west> 4.57685624541222 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.57685624541222,46.0526465651199,0 4.57701835561246,46.05275554355969,0 4.57708078517778,46.0527041477043,0 4.57707579653714,46.05270160514,0 4.57689093494482,46.0526157301327,0 4.57685624541222,46.0526465651199,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.13459">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69257000AB0205</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">VAUX EN BEAUJOLAIS</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE VAUX EN BEAUJOLAIS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0561122842186 </north>
+			<south> 46.0559910432082 </south>
+			<east> 4.5938696702683 </east>
+			<west> 4.59347672478055 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.59347672478055,46.05601953537401,0 4.59374575419322,46.05608447624141,0 4.59386273381909,46.0561122842186,0 4.5938696702683,46.0560927321616,0 4.59372960593943,46.05605849356269,0 4.59351971442505,46.0559985760588,0 4.59349815021099,46.0559910432082,0 4.59347672478055,46.05601953537401,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.13958">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69257000AK0211</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">VAUX EN BEAUJOLAIS</SimpleData>
+					<SimpleData name="Adresse">57, RTE DARBUISSONNAS</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE VAUX EN BEAUJOLAIS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0520091526237 </north>
+			<south> 46.0514748572191 </south>
+			<east> 4.58525689803201 </east>
+			<west> 4.5845240058172 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.58477877631926,46.0514748572191,0 4.58456559812911,46.0516096047469,0 4.5845240058172,46.05163864719681,0 4.5847211112214,46.0517764877054,0 4.58481384798036,46.0518567925594,0 4.58490815938029,46.05195580931889,0 4.58494514173679,46.0520091526237,0 4.58512837952795,46.0518858111352,0 4.58523849390809,46.0518105967927,0 4.58525689803201,46.05179836055909,0 4.58517789097096,46.0517456048403,0 4.58477877631926,46.0514748572191,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.14002">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69257000AK0212</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">VAUX EN BEAUJOLAIS</SimpleData>
+					<SimpleData name="Adresse">LE MOULIN</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE VAUX EN BEAUJOLAIS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.05243473003 </north>
+			<south> 46.05179836055909 </south>
+			<east> 4.58575859752575 </east>
+			<west> 4.58494514173679 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.58525689803201,46.05179836055909,0 4.58523849390809,46.0518105967927,0 4.58512837952795,46.0518858111352,0 4.58494514173679,46.0520091526237,0 4.5849621586483,46.0520340435335,0 4.58515692055122,46.05237762966559,0 4.58519663245864,46.0524134616926,0 4.58524084011227,46.05243473003,0 4.58570560621516,46.0521289382564,0 4.58575859752575,46.0520959531375,0 4.58575530771118,46.0520940176638,0 4.5854087131575,46.0518997253473,0 4.58525689803201,46.05179836055909,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.14048">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69257000AB0213</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">VAUX EN BEAUJOLAIS</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE VAUX EN BEAUJOLAIS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.05556182183089 </north>
+			<south> 46.0552652852479 </south>
+			<east> 4.59291490244997 </east>
+			<west> 4.59241057282034 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.59245265370806,46.0552652852479,0 4.59241057282034,46.0553533316163,0 4.59252999074585,46.0553983996402,0 4.59267725476066,46.0554713576243,0 4.59279404701996,46.05553294458931,0 4.59284779516827,46.05556182183089,0 4.59291490244997,46.055440098815,0 4.59274201308228,46.05539803390409,0 4.59278495135904,46.0553172708237,0 4.59272476833563,46.0553073980906,0 4.59255427050389,46.0552808809733,0 4.59245265370806,46.0552652852479,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.14224">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69257000AB0216</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">VAUX EN BEAUJOLAIS</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE VAUX EN BEAUJOLAIS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0553533316163 </north>
+			<south> 46.0551724520352 </south>
+			<east> 4.59245265370806 </east>
+			<west> 4.59182802061146 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.59231812245118,46.0552120530934,0 4.59221120612644,46.0552055383075,0 4.59208205454166,46.0551951024253,0 4.59198354263815,46.0551839660625,0 4.59191192811348,46.0551724520352,0 4.59182802061146,46.05532611398169,0 4.59209454511726,46.0553315593051,0 4.59229262839969,46.0553367941457,0 4.592363057431,46.0553431006739,0 4.59241057282034,46.0553533316163,0 4.59245265370806,46.0552652852479,0 4.59231812245118,46.0552120530934,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.14290">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69257000AB0217</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">VAUX EN BEAUJOLAIS</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE VAUX EN BEAUJOLAIS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.05532611398169 </north>
+			<south> 46.05513384919569 </south>
+			<east> 4.59191192811348 </east>
+			<west> 4.5915501142333 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.59191192811348,46.0551724520352,0 4.59187046832163,46.0551658286448,0 4.59174145351562,46.0551422406181,0 4.59169597981754,46.0551354933706,0 4.59166553105559,46.05513384919569,0 4.59164105002225,46.0551372550936,0 4.59160488688458,46.0551527138424,0 4.59157923830075,46.0551738793885,0 4.59155756920661,46.0552029150071,0 4.5915501142333,46.0552313908618,0 4.5915578912516,46.0552542488964,0 4.59158795308819,46.0552827386123,0 4.5916155913869,46.0552990131713,0 4.59164909474536,46.0553123232482,0 4.5916936998809,46.05532034365099,0 4.59177235802143,46.0553249138282,0 4.59182802061146,46.05532611398169,0 4.59191192811348,46.0551724520352,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.14425">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69257000AB0219</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">VAUX EN BEAUJOLAIS</SimpleData>
+					<SimpleData name="Adresse">41, RUE LOUIS DE VERMONT</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE VAUX EN BEAUJOLAIS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0554979985918 </north>
+			<south> 46.05512165885611 </south>
+			<east> 4.59131138941047 </east>
+			<west> 4.59082289866177 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.59096815103085,46.05512165885611,0 4.59095813358643,46.0551420645548,0 4.59092745027197,46.05520383090119,0 4.59087872274787,46.0553036786724,0 4.59085673333453,46.0553484804342,0 4.59082289866177,46.05541758641421,0 4.59093933989026,46.0554447744477,0 4.59093733436708,46.05545146756899,0 4.59104472368251,46.05547878248711,0 4.59104994903528,46.055471593852,0 4.59116442731116,46.0554979985918,0 4.59119864433592,46.055428707005,0 4.59127098683139,46.0552821430229,0 4.59131138941047,46.055198624022,0 4.59103924641251,46.0551375940607,0 4.59101997502782,46.0551332710047,0 4.59096815103085,46.05512165885611,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.14567">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69257000AB0220</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">VAUX EN BEAUJOLAIS</SimpleData>
+					<SimpleData name="Adresse">RUE LOUIS DE VERMONT</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE VAUX EN BEAUJOLAIS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.055198624022 </north>
+			<south> 46.054970199954 </south>
+			<east> 4.59139512570157 </east>
+			<west> 4.59096815103085 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.59139512570157,46.0550256003902,0 4.59125882215185,46.0549736528159,0 4.59123530691245,46.054970199954,0 4.59121426266415,46.05497166612061,0 4.59115978288501,46.0549844995853,0 4.59111592343301,46.0550022277839,0 4.59103696489102,46.0550408937124,0 4.59102191172372,46.0550482202331,0 4.59099939516279,46.0550703324442,0 4.59097915868045,46.0550997081188,0 4.59096815103085,46.05512165885611,0 4.59101997502782,46.0551332710047,0 4.59103924641251,46.0551375940607,0 4.59131138941047,46.055198624022,0 4.59139512570157,46.0550256003902,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.15264">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69257000AO0231</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">VAUX EN BEAUJOLAIS</SimpleData>
+					<SimpleData name="Adresse">TRES SEC</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE VAUX EN BEAUJOLAIS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0517719586945 </north>
+			<south> 46.0515857070954 </south>
+			<east> 4.56661016383022 </east>
+			<west> 4.56633258862669 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.56642339422154,46.0515857070954,0 4.56633258862669,46.0517719586945,0 4.56640069338596,46.0517650735236,0 4.56653695262487,46.0517485103,0 4.56658949379325,46.05173112207179,0 4.56661016383022,46.0516893156979,0 4.56649944543548,46.0516261773057,0 4.56642339422154,46.0515857070954,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.15297">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69257000AB0232</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">VAUX EN BEAUJOLAIS</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE VAUX EN BEAUJOLAIS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0572956999286 </north>
+			<south> 46.05714176202811 </south>
+			<east> 4.58940603792403 </east>
+			<west> 4.58918149710442 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.58918149710442,46.0572569882616,0 4.58924057482977,46.0572956999286,0 4.58940603792403,46.0571792657362,0 4.58937251926126,46.0571564981343,0 4.58935074689952,46.05714176202811,0 4.5892012161892,46.0572454535153,0 4.58918149710442,46.0572569882616,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.15520">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69257000AB0236</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">VAUX EN BEAUJOLAIS</SimpleData>
+					<SimpleData name="Adresse">42, IMP DES ECOLES</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE VAUX EN BEAUJOLAIS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0577293886417 </north>
+			<south> 46.057444345562 </south>
+			<east> 4.59512319226135 </east>
+			<west> 4.59459941157699 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.59511589824178,46.0577293886417,0 4.59512175415514,46.0577038171844,0 4.59512319226135,46.0576686706478,0 4.59508995417871,46.0575352979135,0 4.59507689410973,46.0574775682314,0 4.59465973980608,46.057444345562,0 4.59465484645843,46.0574629682644,0 4.59459941157699,46.0576436124406,0 4.5946650602734,46.0576544881725,0 4.59498940625757,46.0577082906116,0 4.59499389718567,46.0576936365215,0 4.59505290889864,46.0577031642969,0 4.59504985618142,46.057718338566,0 4.59511589824178,46.0577293886417,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.15574">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69257000AB0237</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">VAUX EN BEAUJOLAIS</SimpleData>
+					<SimpleData name="Adresse">42, IMP DES ECOLES</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE VAUX EN BEAUJOLAIS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0580007648882 </north>
+			<south> 46.0576436124406 </south>
+			<east> 4.59511589824178 </east>
+			<west> 4.59452864430752 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.59511589824178,46.0577293886417,0 4.59504985618142,46.057718338566,0 4.59505290889864,46.0577031642969,0 4.59499389718567,46.0576936365215,0 4.59498940625757,46.0577082906116,0 4.5946650602734,46.0576544881725,0 4.59459941157699,46.0576436124406,0 4.59459254571242,46.0576655953706,0 4.59456398749785,46.05776038760439,0 4.59454547071472,46.05782225409289,0 4.59452864430752,46.05787103703111,0 4.59459126525263,46.0578934840134,0 4.59475298216293,46.057951465146,0 4.59489154841109,46.0580007648882,0 4.59497471075642,46.0579776188485,0 4.59504211809686,46.0579242515388,0 4.59506316724762,46.0578917113352,0 4.59508399820531,46.0578471952244,0 4.59510497406717,46.0577764674409,0 4.59511589824178,46.0577293886417,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.15702">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69257000AB0024</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">VAUX EN BEAUJOLAIS</SimpleData>
+					<SimpleData name="Adresse">17, PL EPHREM MERVILLE</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE VAUX EN BEAUJOLAIS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0578803876351 </north>
+			<south> 46.0572309235862 </south>
+			<east> 4.59111372158061 </east>
+			<west> 4.59007108693156 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.59007108693156,46.0576113629812,0 4.5903080861246,46.0576825254543,0 4.59029892111243,46.0577011177822,0 4.59034614918258,46.0577147762001,0 4.59035876674997,46.0576947844409,0 4.59077340953916,46.0578156036204,0 4.59100272229746,46.0578803876351,0 4.59111372158061,46.05748253393891,0 4.5910092870297,46.0574546371751,0 4.59067324014089,46.05736288905959,0 4.59035393217011,46.05727730000671,0 4.59018634796546,46.0572309235862,0 4.59017319858166,46.057268305782,0 4.59012267191447,46.0574402322793,0 4.59007108693156,46.0576113629812,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.15986">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69257000AK0244</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">VAUX EN BEAUJOLAIS</SimpleData>
+					<SimpleData name="Adresse">CHEVRETON</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE VAUX EN BEAUJOLAIS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0583442818622 </north>
+			<south> 46.0581802100333 </south>
+			<east> 4.5947644331912 </east>
+			<west> 4.59438973912387 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.59438973912387,46.0581802100333,0 4.59475066578524,46.0583442818622,0 4.5947644331912,46.0582079062804,0 4.59438973912387,46.0581802100333,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.16789">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">692570000E0258</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">VAUX EN BEAUJOLAIS</SimpleData>
+					<SimpleData name="Adresse">FOND BALLY</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE VAUX EN BEAUJOLAIS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.03737644023109 </north>
+			<south> 46.0363150829685 </south>
+			<east> 4.56955277038113 </east>
+			<west> 4.56848541595324 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.56940375753625,46.0363150829685,0 4.56888758328313,46.0364039184712,0 4.56862156891945,46.0364538040049,0 4.56865228847381,46.03659226211361,0 4.56863240913917,46.0367975294903,0 4.56860170162283,46.03703122769989,0 4.5685841086131,46.03709451797,0 4.56848541595324,46.0373568073477,0 4.56907214002509,46.0373742670624,0 4.56955277038113,46.03737644023109,0 4.56950207917861,46.0370231789981,0 4.56942189088636,46.03645200386759,0 4.56940375753625,46.0363150829685,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.16882">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69257000AP0026</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">VAUX EN BEAUJOLAIS</SimpleData>
+					<SimpleData name="Adresse">LA CHATAIGNERAIE</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE VAUX EN BEAUJOLAIS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.05243680596369 </north>
+			<south> 46.0519031291426 </south>
+			<east> 4.5503411461622 </east>
+			<west> 4.54838370110129 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.54962056900423,46.0519031291426,0 4.54933889423637,46.0520523452999,0 4.54921472662469,46.052112584936,0 4.54861592167009,46.0522960335114,0 4.54838370110129,46.052345768982,0 4.54846271403441,46.05236324374119,0 4.54865617828216,46.0523933859297,0 4.54886282966497,46.0524186642165,0 4.54909798480407,46.0524317540424,0 4.54932152994202,46.05243680596369,0 4.54950255745395,46.0524295589345,0 4.54970806706723,46.05240972800169,0 4.54992468410232,46.0523801077661,0 4.55006142357368,46.0523528399552,0 4.55017100771444,46.05231675642761,0 4.55027025172964,46.05227180751011,0 4.5503411461622,46.0522169785252,0 4.54962056900423,46.0519031291426,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.17076">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">692570000E0263</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">VAUX EN BEAUJOLAIS</SimpleData>
+					<SimpleData name="Adresse">FOND BALLY</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE VAUX EN BEAUJOLAIS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0373579025712 </north>
+			<south> 46.0364394465915 </south>
+			<east> 4.56860829687995 </east>
+			<west> 4.56803126457319 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.56803126457319,46.0373489494626,0 4.56843229502055,46.0373579025712,0 4.56848101825633,46.0372751775053,0 4.56855098664819,46.0370667853201,0 4.56856768591676,46.0369857642398,0 4.56858422076412,46.03681738052479,0 4.5686035917841,46.0366758875686,0 4.56860829687995,46.0365824230732,0 4.56859376797828,46.03646751859181,0 4.5684354531389,46.0364394465915,0 4.5684267293342,46.036496309444,0 4.56840396283632,46.0365731813007,0 4.56836733758008,46.0366810477702,0 4.56837160671528,46.0367445759453,0 4.5683809678938,46.03682793845899,0 4.56839279645912,46.0368935236546,0 4.56839299327622,46.0369185595324,0 4.5683849543307,46.0369495637013,0 4.56836918904386,46.0369726588073,0 4.56834376947818,46.03698372844191,0 4.56830794737953,46.03698827703159,0 4.56828117777451,46.0369882870991,0 4.56824099956028,46.0370305438967,0 4.56818332724847,46.0371169052617,0 4.56807542893482,46.0372469232527,0 4.56805933890205,46.037276777822,0 4.56803126457319,46.0373489494626,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.17219">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69257000AK0267</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">VAUX EN BEAUJOLAIS</SimpleData>
+					<SimpleData name="Adresse">CHEVRETON</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE VAUX EN BEAUJOLAIS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0585290876705 </north>
+			<south> 46.0576947556247 </south>
+			<east> 4.59650556218939 </east>
+			<west> 4.59554796819142 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.595949986056,46.05785932984421,0 4.59568904944815,46.0576947556247,0 4.59559715335853,46.05788050679491,0 4.59554796819142,46.0579777511308,0 4.59610737591854,46.0581380352845,0 4.59596376505234,46.05840071166999,0 4.59612549256062,46.0584500442588,0 4.59639865033999,46.05850960695409,0 4.59650556218939,46.0585290876705,0 4.59645057542792,46.0581815707645,0 4.595949986056,46.05785932984421,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.17751">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69257000AI0277</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">VAUX EN BEAUJOLAIS</SimpleData>
+					<SimpleData name="Adresse">LES BALMES</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE VAUX EN BEAUJOLAIS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0459163686218 </north>
+			<south> 46.0455003697725 </south>
+			<east> 4.60137234469231 </east>
+			<west> 4.60076737115517 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.60115180531567,46.0455033050978,0 4.60109469047044,46.0455318524845,0 4.60093993254238,46.0456274379073,0 4.60076737115517,46.0457246254839,0 4.60095313205802,46.0459163686218,0 4.60096575024473,46.0459143890992,0 4.60137234469231,46.0458499230957,0 4.60133161634971,46.0457705182622,0 4.60127459047175,46.045642256723,0 4.60120970593638,46.0455061801897,0 4.60118108097263,46.0455003697725,0 4.60115180531567,46.0455033050978,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.18313">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69257000AB0029</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">VAUX EN BEAUJOLAIS</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE VAUX EN BEAUJOLAIS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.05796603610299 </north>
+			<south> 46.0578721764038 </south>
+			<east> 4.59430980650169 </east>
+			<west> 4.59325269496756 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.59353528526331,46.05790562503649,0 4.59380917747793,46.0579371726019,0 4.59404628688588,46.0579628417481,0 4.59411378303991,46.05796603610299,0 4.59417630633096,46.05796281546701,0 4.59421673543745,46.0579561225555,0 4.59425718951881,46.0579369099046,0 4.59430980650169,46.0578954597266,0 4.59422371700227,46.0578935176105,0 4.59399608965371,46.057886989993,0 4.59382185724637,46.0578836744833,0 4.59368499585678,46.0578797434757,0 4.59353664584943,46.0578766942759,0 4.59333896213646,46.0578721764038,0 4.59325269496756,46.0578730281377,0 4.59353528526331,46.05790562503649,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.22263">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69257000AE0375</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">VAUX EN BEAUJOLAIS</SimpleData>
+					<SimpleData name="Adresse">BUCHOTIERE</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE VAUX EN BEAUJOLAIS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0451529285089 </north>
+			<south> 46.0447800872279 </south>
+			<east> 4.61530007261142 </east>
+			<west> 4.61491156975164 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.61491156975164,46.0447800872279,0 4.61504758848518,46.0449148729305,0 4.61510934700864,46.0449962252344,0 4.61514219617982,46.04505772404559,0 4.61519107162495,46.0451496176487,0 4.61519259167817,46.0451529285089,0 4.61522649712017,46.0451138964034,0 4.61527907047494,46.0450763096249,0 4.61530007261142,46.0450647519174,0 4.61524774768291,46.0450711716513,0 4.61521429013717,46.0450638123819,0 4.61519267137895,46.04504997969201,0 4.61501479889582,46.0448730080608,0 4.61491156975164,46.0447800872279,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.22301">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69257000AE0376</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">VAUX EN BEAUJOLAIS</SimpleData>
+					<SimpleData name="Adresse">BUCHOTIERE</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE VAUX EN BEAUJOLAIS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.044669549365 </north>
+			<south> 46.04454968974691 </south>
+			<east> 4.61476151880775 </east>
+			<west> 4.61461284596052 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.61463357095525,46.04454968974691,0 4.61461284596052,46.0445618738608,0 4.61476151880775,46.044669549365,0 4.61468602094557,46.0446091982504,0 4.61463357095525,46.04454968974691,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.22313">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69257000AN0376</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">VAUX EN BEAUJOLAIS</SimpleData>
+					<SimpleData name="Adresse">LES BUIS</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE VAUX EN BEAUJOLAIS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0510951343834 </north>
+			<south> 46.05094691096309 </south>
+			<east> 4.56552836990242 </east>
+			<west> 4.5647368888132 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.56549655460907,46.0510681032526,0 4.56548801567282,46.05107713775381,0 4.56535943678374,46.0510590080601,0 4.5650884646915,46.0510009626119,0 4.5647368888132,46.05094691096309,0 4.56473933836194,46.0509648004515,0 4.56552836990242,46.0510951343834,0 4.56549655460907,46.0510681032526,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.22500">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69257000AE0380</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">VAUX EN BEAUJOLAIS</SimpleData>
+					<SimpleData name="Adresse">LE PLAGERET</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE VAUX EN BEAUJOLAIS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0445691447824 </north>
+			<south> 46.0444127840434 </south>
+			<east> 4.61461284596052 </east>
+			<west> 4.61446929531235 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.61459559825658,46.0445691447824,0 4.61461284596052,46.0445618738608,0 4.61446929531235,46.0444127840434,0 4.61448893015001,46.0444383539493,0 4.61451877982092,46.0444814317104,0 4.61455157144305,46.0445233867543,0 4.61457590568816,46.04455042088,0 4.61459559825658,46.0445691447824,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.22530">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69257000AE0381</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">VAUX EN BEAUJOLAIS</SimpleData>
+					<SimpleData name="Adresse">LE PLAGERET</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE VAUX EN BEAUJOLAIS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0443657117982 </north>
+			<south> 46.0438543684323 </south>
+			<east> 4.61444165657603 </east>
+			<west> 4.61424750402986 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.61444165657603,46.0443657117982,0 4.61442966171739,46.0443184167894,0 4.61432122798594,46.0440217457961,0 4.61424750402986,46.0438543684323,0 4.61428904529131,46.0439608677531,0 4.6143521263973,46.04414019553489,0 4.61441571373036,46.0443059158182,0 4.6144270714366,46.0443315135256,0 4.61444165657603,46.0443657117982,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.22569">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69257000AE0382</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">VAUX EN BEAUJOLAIS</SimpleData>
+					<SimpleData name="Adresse">LE PLAGERET</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE VAUX EN BEAUJOLAIS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.043740029261 </north>
+			<south> 46.043588456119 </south>
+			<east> 4.61419991242345 </east>
+			<west> 4.61390555944732 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.61390555944732,46.043595517555,0 4.61395224496924,46.0435953033211,0 4.61397037674817,46.0435961260233,0 4.61398830545768,46.0435988430401,0 4.61406637429011,46.0436190777558,0 4.61409941168314,46.04363418917401,0 4.61414044462483,46.043666119524,0 4.61416867297364,46.0436980520262,0 4.61419991242345,46.043740029261,0 4.61415200429122,46.0436237130838,0 4.61408397986913,46.0435975710817,0 4.61400300399576,46.043588456119,0 4.61392754845336,46.0435911514843,0 4.61390555944732,46.043595517555,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.22640">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69257000AE0384</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">VAUX EN BEAUJOLAIS</SimpleData>
+					<SimpleData name="Adresse">LE PLAGERET</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE VAUX EN BEAUJOLAIS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.04360520960661 </north>
+			<south> 46.04328766766429 </south>
+			<east> 4.6134777278574 </east>
+			<west> 4.61313329043851 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.6134777278574,46.04360520960661,0 4.61344980943398,46.0435926371324,0 4.61338280842218,46.0435484665659,0 4.61326525379658,46.0434255754063,0 4.61313329043851,46.04328766766429,0 4.61314816695229,46.04330979284191,0 4.61316622588697,46.0433434014307,0 4.61319914788181,46.0433898583841,0 4.61323548155646,46.04343797807421,0 4.61329124301887,46.0435002321749,0 4.6133147897426,46.04352250416301,0 4.6133507930291,46.0435505433729,0 4.61339761675878,46.04357707757391,0 4.61343794945227,46.0435939767929,0 4.6134777278574,46.04360520960661,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.22705">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69257000AE0386</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">VAUX EN BEAUJOLAIS</SimpleData>
+					<SimpleData name="Adresse">VORION</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE VAUX EN BEAUJOLAIS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0444888123531 </north>
+			<south> 46.04425203096341 </south>
+			<east> 4.61458237430121 </east>
+			<west> 4.61444271595306 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.61444271595306,46.04425203096341,0 4.61448578446592,46.0443840877704,0 4.6145106497725,46.0444248046749,0 4.61458237430121,46.0444888123531,0 4.61450127549252,46.0443874698979,0 4.614491100358,46.0443713124922,0 4.61444271595306,46.04425203096341,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.22799">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69257000AE0389</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">VAUX EN BEAUJOLAIS</SimpleData>
+					<SimpleData name="Adresse">VORION</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE VAUX EN BEAUJOLAIS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0436689100111 </north>
+			<south> 46.04360520960661 </south>
+			<east> 4.61377211009151 </east>
+			<west> 4.6134777278574 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.61360272930461,46.0436689100111,0 4.61373640391462,46.0436182806947,0 4.61377211009151,46.0436053430936,0 4.61369617984557,46.0436138994768,0 4.61364478206159,46.0436166125071,0 4.61357999380552,46.0436169941862,0 4.61355500192847,46.04361599884961,0 4.61353023427592,46.0436138294334,0 4.61350569084942,46.0436104859377,0 4.6134777278574,46.04360520960661,0 4.61351101572624,46.0436200474255,0 4.61359435098841,46.0436434499607,0 4.61360272930461,46.0436689100111,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.22913">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69257000AE0390</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">VAUX EN BEAUJOLAIS</SimpleData>
+					<SimpleData name="Adresse">VORION</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE VAUX EN BEAUJOLAIS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0436169941862 </north>
+			<south> 46.04287611025839 </south>
+			<east> 4.61450061764212 </east>
+			<west> 4.61309049283181 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.6134777278574,46.04360520960661,0 4.61350569084942,46.0436104859377,0 4.61353023427592,46.0436138294334,0 4.61355500192847,46.04361599884961,0 4.61357999380552,46.0436169941862,0 4.61364478206159,46.0436166125071,0 4.61369617984557,46.0436138994768,0 4.61377211009151,46.0436053430936,0 4.61381664714571,46.0435892174718,0 4.61387575101046,46.0435670300638,0 4.61388308331932,46.04356566473961,0 4.61385507051896,46.0435675045773,0 4.61380570192869,46.0435732511065,0 4.61375678460869,46.0435811528213,0 4.61372150554453,46.0435866087001,0 4.6136853846945,46.0435898248506,0 4.61362891834791,46.04359170933521,0 4.61358491612971,46.04359080443191,0 4.61355691369089,46.0435885909914,0 4.6135292541951,46.0435848415086,0 4.61350532022186,46.04358022838851,0 4.6134819904091,46.0435741655786,0 4.61344697447498,46.0435621444493,0 4.61341249930557,46.0435465128969,0 4.61337422449335,46.0435248107853,0 4.61335201568526,46.0435084642537,0 4.61332712589737,46.0434845000943,0 4.6132753116705,46.04342453161021,0 4.61322748427812,46.0433637858319,0 4.61321486897358,46.0433437901197,0 4.61320612680496,46.0433191458322,0 4.61320764326288,46.0433003000592,0 4.61321553713148,46.0432872179577,0 4.61322522810016,46.0432824866014,0 4.61335790336196,46.0432639361233,0 4.61361249405938,46.04323041041781,0 4.6136864210903,46.0432197209647,0 4.61375979131275,46.0432076883694,0 4.61383015358771,46.0431945276592,0 4.61389969519012,46.04317984743219,0 4.61393834838931,46.0431703804728,0 4.61397617829157,46.0431593039973,0 4.61400139373953,46.0431502985141,0 4.614025144755,46.0431398727859,0 4.6140513995283,46.0431266193022,0 4.6140767228628,46.0431124783932,0 4.61411548607838,46.0430891393428,0 4.61415319119278,46.0430650047315,0 4.61426182078095,46.0429896023787,0 4.6143245560247,46.0429501600419,0 4.61435816903469,46.0429320281109,0 4.61437517354879,46.0429253010888,0 4.6143905634493,46.0429208487538,0 4.61441018826741,46.0429196686278,0 4.61442999788612,46.0429203772938,0 4.61444931706035,46.0429264069494,0 4.61450061764212,46.0429424290631,0 4.61448611666567,46.0428978717883,0 4.61444338591661,46.0428829885873,0 4.61440512538871,46.0428793902788,0 4.61435083623576,46.04287611025839,0 4.61432614099867,46.0428896118122,0 4.61407012155493,46.04306384561589,0 4.61402490752663,46.04309214015421,0 4.61397578560969,46.0431150862288,0 4.61391979018514,46.0431329962546,0 4.61381516786501,46.04315547134991,0 4.6136647522685,46.0431821107768,0 4.61346556709121,46.04321286663981,0 4.61333552508259,46.0432285876694,0 4.61326361618247,46.04323312355719,0 4.61320663553139,46.04323069189449,0 4.61309049283181,46.0432440532396,0 4.61310833744956,46.0432615427286,0 4.61313329043851,46.04328766766429,0 4.61326525379658,46.0434255754063,0 4.61338280842218,46.0435484665659,0 4.61344980943398,46.0435926371324,0 4.6134777278574,46.04360520960661,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.24908">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69257000AL0443</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">VAUX EN BEAUJOLAIS</SimpleData>
+					<SimpleData name="Adresse">LES NIRES</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE VAUX EN BEAUJOLAIS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0571069761221 </north>
+			<south> 46.0546191269258 </south>
+			<east> 4.57587073432115 </east>
+			<west> 4.5734227529802 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.5744987942391,46.055027009095,0 4.57449816571925,46.05502764829049,0 4.57401861472947,46.0551363514176,0 4.5734227529802,46.0552763884383,0 4.57346836624383,46.0554417489811,0 4.57348812784716,46.0555219946557,0 4.57349711324981,46.0556189621742,0 4.57352682984318,46.0556718694886,0 4.57370610528576,46.056073061969,0 4.57427867274527,46.0564338491935,0 4.57450231460574,46.0569022450569,0 4.5746962841241,46.0571069761221,0 4.57474701489638,46.05692244495039,0 4.57482169849917,46.0566257179151,0 4.57489066423698,46.0564139133367,0 4.57494247122743,46.056312138683,0 4.57504894116101,46.05616313023379,0 4.57481930598916,46.0560545462382,0 4.57494672883454,46.0559234404417,0 4.57496584836673,46.0559044409701,0 4.57502055573588,46.0558497310322,0 4.57511859421337,46.05575866262041,0 4.57527314554736,46.0556352856585,0 4.57534303843206,46.0555913527885,0 4.57548334857831,46.0555082531812,0 4.57587073432115,46.0554020856038,0 4.5757087250586,46.0548590710739,0 4.57563134302635,46.0546191269258,0 4.57562212278771,46.0546224073812,0 4.57508241185162,46.0548210272257,0 4.57449929860229,46.0550265517572,0 4.5744987942391,46.055027009095,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.28718">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">692570000F0056</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">VAUX EN BEAUJOLAIS</SimpleData>
+					<SimpleData name="Adresse">LA PONSONNIERES</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE VILLEFRANCHE SUR SAONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.05848333840279 </north>
+			<south> 46.0576995625755 </south>
+			<east> 4.548411541466 </east>
+			<west> 4.54743206250714 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.548411541466,46.0584822434746,0 4.54829306447732,46.0580607291086,0 4.54820790886567,46.05777034674599,0 4.54795070841283,46.0577470179104,0 4.54748143630368,46.0576995625755,0 4.54748052841725,46.057708671668,0 4.54747459847526,46.0578380879008,0 4.54745165917787,46.0581583166769,0 4.54743206250714,46.0584134719101,0 4.54807672840706,46.0584732142862,0 4.5481862044201,46.05848333840279,0 4.54841076552601,46.05848225406879,0 4.548411541466,46.0584822434746,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.31520">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69257000AH0067</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">VAUX EN BEAUJOLAIS</SimpleData>
+					<SimpleData name="Adresse">HAUT DE CHATEL</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE VAUX EN BEAUJOLAIS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.03780769757491 </north>
+			<south> 46.0367419023834 </south>
+			<east> 4.58795268864428 </east>
+			<west> 4.58718552456928 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.58795268864428,46.0369072767762,0 4.58725887874508,46.0367419023834,0 4.58718552456928,46.03764594455439,0 4.5871870169515,46.0377021256775,0 4.58736620596917,46.03780769757491,0 4.58768119463299,46.0373984338648,0 4.58778436629707,46.0372137918952,0 4.58795268864428,46.0369072767762,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.32209">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69257000AC0007</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">VAUX EN BEAUJOLAIS</SimpleData>
+					<SimpleData name="Adresse">BOURDISSONNE</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE VAUX EN BEAUJOLAIS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0549450361936 </north>
+			<south> 46.0548159150394 </south>
+			<east> 4.5912075977555 </east>
+			<west> 4.59081410144864 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.5912075977555,46.0549246544027,0 4.59092028094127,46.05488013928459,0 4.5909070310355,46.0548782536203,0 4.59091561822001,46.0548218410426,0 4.59083084145467,46.0548159150394,0 4.59081910897199,46.05487093065489,0 4.59081410144864,46.0549169352599,0 4.5909652589007,46.0549278744482,0 4.5910507814473,46.0549372124501,0 4.59110387137544,46.0549434027543,0 4.59113509589683,46.0549450361936,0 4.5911739234862,46.05493224222959,0 4.5912075977555,46.0549246544027,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.33035">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69257000AK0073</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">VAUX EN BEAUJOLAIS</SimpleData>
+					<SimpleData name="Adresse">CHEVRETON</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE VAUX EN BEAUJOLAIS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0582297969686 </north>
+			<south> 46.05788569809761 </south>
+			<east> 4.59477595274683 </east>
+			<west> 4.59353840036442 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.59438973912387,46.0581802100333,0 4.5947644331912,46.0582079062804,0 4.59477595274683,46.0579896009265,0 4.59445959623116,46.05788569809761,0 4.59441187904747,46.0579399591035,0 4.59434707190452,46.0579893265071,0 4.59424713775871,46.05803639559411,0 4.59418809025308,46.0580479436797,0 4.59408860859791,46.0580481711973,0 4.59384380640565,46.05801153195689,0 4.59356392896732,46.0579609742794,0 4.59354853198131,46.05796092043081,0 4.59353840036442,46.0579684483246,0 4.59355020462109,46.0579873767494,0 4.59372223842842,46.05812456377169,0 4.59377555284931,46.0581740721491,0 4.59380951215978,46.0582297969686,0 4.59397346172854,46.0582130819371,0 4.59438973912387,46.0581802100333,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.33273">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69257000AK0074</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">VAUX EN BEAUJOLAIS</SimpleData>
+					<SimpleData name="Adresse">CHEVRETON</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE VAUX EN BEAUJOLAIS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0584736888713 </north>
+			<south> 46.0579896009265 </south>
+			<east> 4.59557936908283 </east>
+			<west> 4.59475066578524 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.5947644331912,46.0582079062804,0 4.59475066578524,46.0583442818622,0 4.59495981127165,46.05838259153149,0 4.59543079590403,46.058464953295,0 4.59546287561725,46.0584736888713,0 4.59557936908283,46.0582929057457,0 4.5952124747771,46.0581862934375,0 4.59503354000715,46.0581145946535,0 4.59477595274683,46.0579896009265,0 4.5947644331912,46.0582079062804,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.34544">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69257000AH0008</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">VAUX EN BEAUJOLAIS</SimpleData>
+					<SimpleData name="Adresse">LE FOUILLOUD</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE VAUX EN BEAUJOLAIS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0398721988659 </north>
+			<south> 46.0393200607791 </south>
+			<east> 4.58600977158244 </east>
+			<west> 4.58462469550719 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.58462469550719,46.0396901791203,0 4.58537618918148,46.0398456665869,0 4.58553344410921,46.0398721988659,0 4.58578939445369,46.0396571409573,0 4.58600977158244,46.03946878969641,0 4.58554929455747,46.0393993040345,0 4.58501999298757,46.0393200607791,0 4.58472313372398,46.03959657426211,0 4.58462469550719,46.0396901791203,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.37966">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69257000AB0099</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">VAUX EN BEAUJOLAIS</SimpleData>
+					<SimpleData name="Adresse">229, RUE DU CHATEAU</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE VAUX EN BEAUJOLAIS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0566736723739 </north>
+			<south> 46.0564948087606 </south>
+			<east> 4.59240185371132 </east>
+			<west> 4.59220003478868 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.59240185371132,46.0565527915703,0 4.59227209779059,46.0564948087606,0 4.59220003478868,46.0566375866353,0 4.59229151989482,46.0566606203382,0 4.59234338735252,46.0566736723739,0 4.59234728295857,46.05666524140631,0 4.59240185371132,46.0565527915703,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

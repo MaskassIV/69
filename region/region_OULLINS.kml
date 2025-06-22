@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>OULLINS_region</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_2">
+		<name>OULLINS_region</name>
+		<Schema name="OULLINS_region" id="OULLINS_region.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="region">
+			<LineStyle>
+				<color>BF318006</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C318006</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_2.29">
+		<styleUrl>#region</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_2.schema">
+					<SimpleData name="Numero de Parcelle">69149000AH0100</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">OULLINS</SimpleData>
+					<SimpleData name="Adresse">GRANDE RUE</SimpleData>
+					<SimpleData name="Groupe de personne">Region</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COLL</SimpleData>
+					<SimpleData name="Denomination">REGION AUVERGNE-RHONE-ALPES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7211440874003 </north>
+			<south> 45.7206184636436 </south>
+			<east> 4.80878376262959 </east>
+			<west> 4.80798253605019 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.80878376262959,45.72107895609139,0 4.80868830767062,45.72094015529439,0 4.80850509604722,45.7206737790676,0 4.80857618569992,45.7206652524525,0 4.8085734768303,45.7206610625227,0 4.80855211004449,45.7206289793576,0 4.8085450793594,45.7206184636436,0 4.80798253605019,45.7206709936155,0 4.80801078011036,45.7208151065207,0 4.80801614088589,45.72084141169859,0 4.80804149965845,45.7209641336866,0 4.80814715713258,45.7209548726873,0 4.80818253460173,45.7211440874003,0 4.80878376262959,45.72107895609139,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_2.76">
+		<styleUrl>#region</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_2.schema">
+					<SimpleData name="Numero de Parcelle">69149000AO0181</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">OULLINS</SimpleData>
+					<SimpleData name="Adresse">20, RUE LOUIS AUGUSTE BLANQUI</SimpleData>
+					<SimpleData name="Groupe de personne">Region</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COLL</SimpleData>
+					<SimpleData name="Denomination">REGION RHONE ALPES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7119306368616 </north>
+			<south> 45.7111372978686 </south>
+			<east> 4.81085329218503 </east>
+			<west> 4.80930105557478 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.81083505881166,45.7116890376833,0 4.81023899441081,45.7113312994513,0 4.81032749995813,45.71122674496749,0 4.81008671809958,45.7111372978686,0 4.80996374916434,45.71130059235649,0 4.80990287600633,45.7113812839698,0 4.80980476492658,45.711333770273,0 4.80930105557478,45.7115822613562,0 4.80946119353005,45.7116629169485,0 4.80979023083523,45.7118286804564,0 4.8099924673746,45.7119306368616,0 4.81085329218503,45.7117000938008,0 4.81083505881166,45.7116890376833,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_2.211">
+		<styleUrl>#region</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_2.schema">
+					<SimpleData name="Numero de Parcelle">69149000AH0080</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">OULLINS</SimpleData>
+					<SimpleData name="Adresse">GRANDE RUE</SimpleData>
+					<SimpleData name="Groupe de personne">Region</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COLL</SimpleData>
+					<SimpleData name="Denomination">REGION AUVERGNE-RHONE-ALPES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7203348891929 </north>
+			<south> 45.720122881034 </south>
+			<east> 4.80834483153789 </east>
+			<west> 4.80806252273886 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.80806252273886,45.72019124672611,0 4.80827494216265,45.7203245686484,0 4.80828625813345,45.7203245672443,0 4.80828852452381,45.7203348891929,0 4.80834483153789,45.720318673525,0 4.80824207860112,45.72016503749101,0 4.80827016626868,45.7201509859584,0 4.80824782371321,45.7201283759844,0 4.80824224322867,45.720122881034,0 4.80806252273886,45.72019124672611,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_2.236">
+		<styleUrl>#region</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_2.schema">
+					<SimpleData name="Numero de Parcelle">69149000AH0094</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">OULLINS</SimpleData>
+					<SimpleData name="Adresse">9, CHE DES CHASSAGNES</SimpleData>
+					<SimpleData name="Groupe de personne">Region</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COLL</SimpleData>
+					<SimpleData name="Denomination">REGION RHONE ALPES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.72098846243581 </north>
+			<south> 45.7209641336866 </south>
+			<east> 4.8080465386572 </east>
+			<west> 4.80798034031786 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.80798034031786,45.72096961835609,0 4.8080465386572,45.72098846243581,0 4.80804149965845,45.7209641336866,0 4.80798752006815,45.72096896275401,0 4.80798034031786,45.72096961835609,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_2.239">
+		<styleUrl>#region</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_2.schema">
+					<SimpleData name="Numero de Parcelle">69149000AH0095</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">OULLINS</SimpleData>
+					<SimpleData name="Adresse">GRANDE RUE</SimpleData>
+					<SimpleData name="Groupe de personne">Region</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COLL</SimpleData>
+					<SimpleData name="Denomination">REGION AUVERGNE-RHONE-ALPES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7206740459702 </north>
+			<south> 45.720318673525 </south>
+			<east> 4.8085450793594 </east>
+			<west> 4.80756678614656 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.80756678614656,45.72049751733989,0 4.80756704908,45.7204976932677,0 4.80774731267497,45.7206740459702,0 4.80797838304371,45.7206501634706,0 4.80798253605019,45.7206709936155,0 4.8085450793594,45.7206184636436,0 4.80834483153789,45.720318673525,0 4.80828852452381,45.7203348891929,0 4.80828625813345,45.7203245672443,0 4.80827494216265,45.7203245686484,0 4.80814281691129,45.7203383977189,0 4.80815277030121,45.7203911104564,0 4.80794077462676,45.72041234548649,0 4.80793095290202,45.7203597206937,0 4.80779839187845,45.7203720251196,0 4.80778533542406,45.7203738558354,0 4.80775829727622,45.72039248409501,0 4.80756678614656,45.72049751733989,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_2.241">
+		<styleUrl>#region</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_2.schema">
+					<SimpleData name="Numero de Parcelle">69149000AH0098</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">OULLINS</SimpleData>
+					<SimpleData name="Adresse">GRANDE RUE</SimpleData>
+					<SimpleData name="Groupe de personne">Region</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COLL</SimpleData>
+					<SimpleData name="Denomination">REGION AUVERGNE-RHONE-ALPES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.72102946748 </north>
+			<south> 45.72096151747219 </south>
+			<east> 4.80798034031786 </east>
+			<west> 4.80706031208986 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.80706485055063,45.7210274443528,0 4.80724420147975,45.7210106075549,0 4.80724764688319,45.72102946748,0 4.80794383818718,45.72096624069169,0 4.80794495272139,45.7209727980886,0 4.80798034031786,45.72096961835609,0 4.80795191369166,45.72096151747219,0 4.80725393487017,45.7210251332619,0 4.80725238482456,45.72101705161451,0 4.80724953295888,45.721000614123,0 4.80706505575979,45.7210179834785,0 4.80706031208986,45.72101841982071,0 4.80706485055063,45.7210274443528,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

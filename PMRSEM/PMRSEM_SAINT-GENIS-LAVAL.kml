@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>SAINT-GENIS-LAVAL_PMRSEM</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_6">
+		<name>SAINT-GENIS-LAVAL_PMRSEM</name>
+		<Schema name="SAINT-GENIS-LAVAL_PMRSEM" id="SAINT-GENIS-LAVAL_PMRSEM.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="PMRSEM">
+			<LineStyle>
+				<color>BF00faff</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C00faff</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.233">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">69204000BH0163</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT-GENIS-LAVAL</SimpleData>
+					<SimpleData name="Adresse">LES COLLONGES</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SOCIETE MAISON FAMILIALE CONSTRUCTEUR</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6888452752208 </north>
+			<south> 45.68876716534 </south>
+			<east> 4.80483744366171 </east>
+			<west> 4.80457809577404 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.80457809577404,45.6887689740696,0 4.80483607768802,45.6888452752208,0 4.80483744366171,45.6888438121835,0 4.80457855085472,45.68876716534,0 4.80457820954421,45.6887685218872,0 4.80457809577404,45.6887689740696,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.251">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">69204000AH0177</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT-GENIS-LAVAL</SimpleData>
+					<SimpleData name="Adresse">LORETTE</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SA BATIR</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7079749062051 </north>
+			<south> 45.7076999095556 </south>
+			<east> 4.7945279879325 </east>
+			<west> 4.79415643851255 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.79437115400732,45.7079749062051,0 4.7945279879325,45.7078160440362,0 4.7942245438983,45.7076999095556,0 4.79415643851255,45.70777620390441,0 4.79416922375628,45.7077819450792,0 4.79418162935777,45.7077878724408,0 4.79419392106774,45.70779425197371,0 4.79420595871056,45.70780072562231,0 4.7942176196315,45.70780747548351,0 4.79422903232575,45.7078144995113,0 4.79424019679338,45.7078217977059,0 4.79425072170841,45.70782919615469,0 4.79426125830742,45.70783695470369,0 4.79427128384891,45.7078448114611,0 4.79428106700443,45.7078531224362,0 4.79429033618195,45.7078614415946,0 4.79429922863755,45.7078700369663,0 4.79430774145082,45.707878818526,0 4.79431600019658,45.7078876942026,0 4.79432375372492,45.7078968481388,0 4.79433125318555,45.70790609619191,0 4.79433824742851,45.7079156225048,0 4.79434473061278,45.707925247027,0 4.79435095680848,45.70793487564099,0 4.794356677786,45.707944782515,0 4.79436188478377,45.7079546975732,0 4.79436670921744,45.70796470879479,0 4.79437115400732,45.7079749062051,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.328">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">69204000BV0251</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT-GENIS-LAVAL</SimpleData>
+					<SimpleData name="Adresse">19, RUE DES TROIS GRACES</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SOCIETE MAISON FAMILIALE CONSTRUCTEUR</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.677235214099 </north>
+			<south> 45.677083587214 </south>
+			<east> 4.78352966716102 </east>
+			<west> 4.78288404602942 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.78288404602942,45.6770960159456,0 4.78289302746081,45.677235214099,0 4.78300356330128,45.6772322932768,0 4.78329883821664,45.6772244657448,0 4.78352966716102,45.6772183786051,0 4.78352940450957,45.6772182026218,0 4.78352388302708,45.677214326922,0 4.78351862419673,45.6772106272053,0 4.7835133595647,45.6772067474375,0 4.78350796650894,45.67720286970321,0 4.78350270477957,45.6771990799603,0 4.78349756567303,45.6771951081327,0 4.78349243236955,45.6771913163556,0 4.78348729326447,45.6771873445275,0 4.7834820257357,45.6771833747328,0 4.78347701795765,45.677179490896,0 4.78347187595364,45.67717542904169,0 4.7834667368515,45.67717145721269,0 4.78346172617449,45.6771674833498,0 4.7834567125971,45.6771634194612,0 4.7834518274448,45.67715935353871,0 4.78344681386887,45.6771552896497,0 4.78344192871802,45.6771512237269,0 4.78343704066682,45.67714706777841,0 4.78343215551742,45.67714300185509,0 4.78342726746767,45.6771388459062,0 4.78342263626729,45.6771346858898,0 4.78341774821899,45.6771305299405,0 4.78341311411899,45.67712627989831,0 4.78340822607215,45.6771221239486,0 4.78340359197358,45.67711787390599,0 4.78339908629999,45.67711362182969,0 4.78339432377858,45.6771093738203,0 4.78338981810638,45.6771051217436,0 4.78338518691163,45.6771009617257,0 4.78338080676407,45.6770966175896,0 4.78337616976878,45.6770922775206,0 4.78337178962261,45.6770879333842,0 4.78336753790133,45.677083587214,0 4.78288404602942,45.6770960159456,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.402">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">69204000BV0319</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT-GENIS-LAVAL</SimpleData>
+					<SimpleData name="Adresse">9001, RTE DE VOURLES</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">HABITAT HUMANISME INSERTION</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6771385623361 </north>
+			<south> 45.6766651068622 </south>
+			<east> 4.78851358621612 </east>
+			<west> 4.78790635533698 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.78798997394416,45.6768812245987,0 4.78812530317297,45.6769577084238,0 4.78811617547789,45.6769655094182,0 4.78812867408499,45.6770381787845,0 4.78830743483936,45.6771385623361,0 4.78835101397028,45.67708752040281,0 4.78841226525919,45.6770147608179,0 4.78843062614961,45.6769944733878,0 4.78851358621612,45.67689768021661,0 4.78806034215199,45.6766651068622,0 4.7880278325405,45.6767008409363,0 4.78793141563925,45.6768066743749,0 4.7879064808521,45.67683427179929,0 4.78790635533698,45.6768343638634,0 4.78796002689365,45.67686503681291,0 4.78798997394416,45.6768812245987,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.570">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">69204000BB0052</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT-GENIS-LAVAL</SimpleData>
+					<SimpleData name="Adresse">16, CHEMIN DES SOURCES</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SEM</SimpleData>
+					<SimpleData name="Denomination">ADOMA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6949199179632 </north>
+			<south> 45.6940907604078 </south>
+			<east> 4.8195782212961 </east>
+			<west> 4.81872635590288 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.81907406228188,45.6940907604078,0 4.81897713940077,45.6941490709763,0 4.819006458759,45.6943332459517,0 4.81900710284359,45.69433719873669,0 4.81872635590288,45.6946723870958,0 4.81890937145205,45.6947384278324,0 4.81914793718533,45.6948247383096,0 4.81932310145653,45.6948943279197,0 4.81939502142386,45.6949199179632,0 4.81940479759975,45.69489670154899,0 4.8195782212961,45.69449127706839,0 4.81953691091407,45.6944584373496,0 4.81935200491661,45.6943114530901,0 4.81907406228188,45.6940907604078,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

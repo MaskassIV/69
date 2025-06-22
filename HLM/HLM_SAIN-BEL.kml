@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>SAIN-BEL_HLM</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_5">
+		<name>SAIN-BEL_HLM</name>
+		<Schema name="SAIN-BEL_HLM" id="SAIN-BEL_HLM.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="HLM">
+			<LineStyle>
+				<color>BFe451f5</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4Ce451f5</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.13">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">691710000U1119</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAIN-BEL</SimpleData>
+					<SimpleData name="Adresse">BON VALLON</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8144733357922 </north>
+			<south> 45.8137093041443 </south>
+			<east> 4.60217799504861 </east>
+			<west> 4.60130577719194 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.60208607366906,45.8139827454334,0 4.60185868396229,45.8140208279416,0 4.60174299778229,45.8137093041443,0 4.60137089403681,45.8138470718659,0 4.60130577719194,45.81387123285869,0 4.6014468851962,45.814286604705,0 4.60167784916095,45.81425180484231,0 4.6017439866779,45.8144359555226,0 4.60175235913326,45.814444843507,0 4.60176593905877,45.8144556391014,0 4.60178251495579,45.8144631497574,0 4.60179487681825,45.8144674777614,0 4.601810315624,45.8144713117735,0 4.60182852685392,45.8144730348956,0 4.60184540878879,45.8144733357922,0 4.60191556601782,45.8144630634606,0 4.60191067575611,45.81444989290529,0 4.60214319017441,45.8141933236392,0 4.60217799504861,45.81418985751879,0 4.60208607366906,45.8139827454334,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.121">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">691710000U2921</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAIN-BEL</SimpleData>
+					<SimpleData name="Adresse">MONT ROGNON</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.81162538992349 </north>
+			<south> 45.8107295618317 </south>
+			<east> 4.5957435762173 </east>
+			<west> 4.59358981628799 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.59360103939468,45.8112131931685,0 4.59371365682118,45.81138002954971,0 4.59379737236191,45.8115004387826,0 4.5938362084126,45.8114492726497,0 4.59404197200061,45.8114117817727,0 4.59411838813714,45.8114176380173,0 4.59446015571658,45.8115628641762,0 4.59449484493226,45.8115643557495,0 4.59455016432007,45.8115666367533,0 4.59462293961766,45.8115534497867,0 4.59467563432335,45.81162538992349,0 4.59501943188538,45.8115153346381,0 4.59531924076146,45.8113940109679,0 4.5957435762173,45.81125426399879,0 4.59569387425177,45.811196782908,0 4.59553730443764,45.811015618387,0 4.59552624158017,45.8110027149509,0 4.59534048466993,45.81078755688839,0 4.59531223544737,45.8107593146191,0 4.59528252587377,45.8107295618317,0 4.59516210836216,45.81075648217129,0 4.59497834590772,45.8107975372153,0 4.59483092481381,45.8108304228671,0 4.59468350354431,45.81086330832651,0 4.59453595595734,45.8108962854424,0 4.59438840559427,45.8109291723349,0 4.59424085765508,45.8109621490653,0 4.5940934356825,45.8109950337544,0 4.59394588739117,45.8110280100995,0 4.5937984650671,45.81106089440361,0 4.59365104516612,45.811093868546,0 4.59364100444349,45.8110985136469,0 4.59363059568222,45.8111037944138,0 4.59362215443763,45.8111103083511,0 4.59361463257916,45.81111743978219,0 4.5936080249097,45.8111250086457,0 4.59360233142947,45.811133014942,0 4.59359754954012,45.8111413686402,0 4.59359393153002,45.8111498860449,0 4.59359148259686,45.8111587472173,0 4.59359006880132,45.8111677739135,0 4.59358981628799,45.81117687428551,0 4.59359085380014,45.811186046516,0 4.59359291605719,45.8111950241475,0 4.5935962631437,45.8112038935759,0 4.59360103939468,45.8112131931685,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.570">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">691710000U1109</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAIN-BEL</SimpleData>
+					<SimpleData name="Adresse">16, RTE DE BEAULIEU</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8123720786723 </north>
+			<south> 45.8115129311436 </south>
+			<east> 4.60207852813522 </east>
+			<west> 4.60070072731288 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.60070072731288,45.8117587211581,0 4.6010834061198,45.8120970828674,0 4.60159639854998,45.8123720786723,0 4.60207255289631,45.81216303124891,0 4.60207852813522,45.8121603344998,0 4.60201954279084,45.8120938909899,0 4.60164413797597,45.81215298753219,0 4.60120318014803,45.8115638954643,0 4.60116409362985,45.8115129311436,0 4.60070072731288,45.8117587211581,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.1761">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">691710000U2010</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAIN-BEL</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.80896415841551 </north>
+			<south> 45.8083760038281 </south>
+			<east> 4.59964908025788 </east>
+			<west> 4.59877927119214 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.59877927119214,45.8085006442107,0 4.59879690369769,45.8085313777274,0 4.59892555228947,45.80875778683789,0 4.59900789854086,45.8089018093836,0 4.59902280533076,45.808927357559,0 4.59904447752938,45.80896415841551,0 4.59904498726397,45.8089639710606,0 4.59919402422516,45.808920428946,0 4.59919810730978,45.80891911016239,0 4.5992023243467,45.8089179696163,0 4.59920654920636,45.8089170991618,0 4.59921090541075,45.8089163169141,0 4.59921539817519,45.80891580293441,0 4.59921989876253,45.8089155590462,0 4.59922427582795,45.80891549704269,0 4.59922878684593,45.8089156132765,0 4.59923330568696,45.80891599960189,0 4.59923770361392,45.8089166578425,0 4.59924197541145,45.80891740793721,0 4.5992462550322,45.8089184281235,0 4.59925041113131,45.8089196301945,0 4.59925444631652,45.8089211041807,0 4.5992582266352,45.8089226718448,0 4.59926188604004,45.8089245114242,0 4.59926541931562,45.8089264428577,0 4.59926870033244,45.8089285579996,0 4.59927172909049,45.80893085685,0 4.59927463432704,45.8089333375851,0 4.59927715335206,45.80893582379129,0 4.59927955146331,45.8089385819129,0 4.59928156336297,45.8089413455056,0 4.59928304988265,45.8089437562706,0 4.59946778258781,45.80889205237631,0 4.59958033408049,45.80886055529961,0 4.59959878558708,45.80889731162001,0 4.59964908025788,45.8088818279133,0 4.59963337411228,45.8088331437866,0 4.59954826902546,45.8086828560371,0 4.59947892102179,45.80856521963539,0 4.59938639370123,45.80840765139761,0 4.59925527150972,45.8083760038281,0 4.59877927119214,45.8085006442107,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.1763">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">691710000U2013</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAIN-BEL</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8090064091944 </north>
+			<south> 45.80891549704269 </south>
+			<east> 4.59928304988265 </east>
+			<west> 4.59904447752938 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.59904447752938,45.80896415841551,0 4.59904772627575,45.8089696065191,0 4.59906926977012,45.8090064091944,0 4.59922338852047,45.8089604533071,0 4.59928304988265,45.8089437562706,0 4.59928156336297,45.8089413455056,0 4.59927955146331,45.8089385819129,0 4.59927715335206,45.80893582379129,0 4.59927463432704,45.8089333375851,0 4.59927172909049,45.80893085685,0 4.59926870033244,45.8089285579996,0 4.59926541931562,45.8089264428577,0 4.59926188604004,45.8089245114242,0 4.5992582266352,45.8089226718448,0 4.59925444631652,45.8089211041807,0 4.59925041113131,45.8089196301945,0 4.5992462550322,45.8089184281235,0 4.59924197541145,45.80891740793721,0 4.59923770361392,45.8089166578425,0 4.59923330568696,45.80891599960189,0 4.59922878684593,45.8089156132765,0 4.59922427582795,45.80891549704269,0 4.59921989876253,45.8089155590462,0 4.59921539817519,45.80891580293441,0 4.59921090541075,45.8089163169141,0 4.59920654920636,45.8089170991618,0 4.5992023243467,45.8089179696163,0 4.59919810730978,45.80891911016239,0 4.59919402422516,45.808920428946,0 4.59904498726397,45.8089639710606,0 4.59904447752938,45.80896415841551,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.1764">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">691710000U2015</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAIN-BEL</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8089318752267 </north>
+			<south> 45.80886055529961 </south>
+			<east> 4.59959878558708 </east>
+			<west> 4.59946778258781 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.59959878558708,45.80889731162001,0 4.59958033408049,45.80886055529961,0 4.59946778258781,45.80889205237631,0 4.59948593649349,45.8089318752267,0 4.59959878558708,45.80889731162001,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2530">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">691710000U2878</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAIN-BEL</SimpleData>
+					<SimpleData name="Adresse">4, PL DES BROTTEAUX</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8110422534166 </north>
+			<south> 45.8107371445628 </south>
+			<east> 4.60074696867841 </east>
+			<west> 4.60041433420799 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.60059486358166,45.8107371445628,0 4.60056749475948,45.810748250614,0 4.60054984588596,45.810752553861,0 4.60054330005324,45.8107444505119,0 4.60041433420799,45.8107785229457,0 4.6004345840889,45.8108284035199,0 4.60041808602513,45.81083242022951,0 4.60042405773819,45.8108473768589,0 4.60043155522193,45.8108660946966,0 4.60045796303863,45.8109329107429,0 4.60044452867084,45.8109493133484,0 4.6004660425282,45.8109717053943,0 4.60052130082842,45.8110296460876,0 4.60051453841691,45.8110407301975,0 4.60051509775326,45.8110422534166,0 4.60051791181106,45.8110415830503,0 4.60057001839637,45.8110263434722,0 4.60074696867841,45.8109503395825,0 4.60059486358166,45.8107371445628,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2531">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">691710000U2879</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAIN-BEL</SimpleData>
+					<SimpleData name="Adresse">4, PL DES BROTTEAUX</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8109503395825 </north>
+			<south> 45.8106957387586 </south>
+			<east> 4.60082361477857 </east>
+			<west> 4.60059486358166 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.60063687060938,45.8107200666468,0 4.60059486358166,45.8107371445628,0 4.60074696867841,45.8109503395825,0 4.60078194983473,45.81093525264929,0 4.60082361477857,45.81087972066329,0 4.6008011012632,45.8108495069797,0 4.60070107762139,45.8106957387586,0 4.60063687060938,45.8107200666468,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2563">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">691710000U2930</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAIN-BEL</SimpleData>
+					<SimpleData name="Adresse">4, CHE DE LA RONFIERE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8073780336687 </north>
+			<south> 45.807221415731 </south>
+			<east> 4.60135598160228 </east>
+			<west> 4.60076134268067 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.60076134268067,45.8072748388561,0 4.60077282791854,45.8072934100509,0 4.60077797735209,45.8073066670316,0 4.60078594065298,45.80731925363909,0 4.60079632379196,45.80733090525751,0 4.60080899281618,45.80734144365051,0 4.60082601529307,45.80735110970161,0 4.6008450348669,45.8073585858093,0 4.6008656627253,45.8073637874187,0 4.60088712124425,45.8073665454209,0 4.60095724709344,45.80736438008731,0 4.60102726165992,45.80736726007171,0 4.60107138251502,45.807369876776,0 4.60111507198174,45.8073753817435,0 4.60116305746534,45.8073780336687,0 4.60121089674687,45.80737564386351,0 4.60128506272271,45.8073618023066,0 4.60135598160228,45.80734701601681,0 4.60135583229613,45.80731522428271,0 4.60135587937355,45.80727244151961,0 4.60130155652389,45.80727330213701,0 4.60129994918386,45.80722676000361,0 4.60112874444634,45.80722954857911,0 4.60107982744671,45.807221415731,0 4.60083396527649,45.8072255328623,0 4.60083560093614,45.8072730653383,0 4.60076134268067,45.8072748388561,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2564">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">691710000U2931</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAIN-BEL</SimpleData>
+					<SimpleData name="Adresse">LA RONFIERE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.80715659341519 </north>
+			<south> 45.807027997505 </south>
+			<east> 4.60104304369173 </east>
+			<west> 4.60073693740895 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.60103841650109,45.807027997505,0 4.60073693740895,45.8070327230544,0 4.60073877311273,45.8070916012054,0 4.60077095373139,45.8070910548297,0 4.60077311135449,45.80715659341519,0 4.60104304369173,45.8071520449808,0 4.60103841650109,45.807027997505,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2565">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">691710000U2932</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAIN-BEL</SimpleData>
+					<SimpleData name="Adresse">LA RONFIERE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8071505079384 </north>
+			<south> 45.80702396686431 </south>
+			<east> 4.60129495074963 </east>
+			<west> 4.60110921429535 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.60129084836824,45.80702396686431,0 4.60110921429535,45.8070268132845,0 4.6011133162701,45.8071505079384,0 4.60129495074963,45.8071476615116,0 4.60129084836824,45.80702396686431,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2566">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">691710000U2933</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAIN-BEL</SimpleData>
+					<SimpleData name="Adresse">LA RONFIERE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8072748388561 </north>
+			<south> 45.8070229473848 </south>
+			<east> 4.60135637072083 </east>
+			<west> 4.60073877311273 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.60110921429535,45.8070268132845,0 4.60103841650109,45.807027997505,0 4.60104304369173,45.8071520449808,0 4.60077311135449,45.80715659341519,0 4.60077095373139,45.8070910548297,0 4.60073877311273,45.8070916012054,0 4.60074387223709,45.8072586042162,0 4.60076134268067,45.8072748388561,0 4.60083560093614,45.8072730653383,0 4.60083396527649,45.8072255328623,0 4.60107982744671,45.807221415731,0 4.60112874444634,45.80722954857911,0 4.60129994918386,45.80722676000361,0 4.60130155652389,45.80727330213701,0 4.60135587937355,45.80727244151961,0 4.60135637072083,45.8070229473848,0 4.60129084836824,45.80702396686431,0 4.60129495074963,45.8071476615116,0 4.6011133162701,45.8071505079384,0 4.60110921429535,45.8070268132845,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.4717">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">691710000U0750</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAIN-BEL</SimpleData>
+					<SimpleData name="Adresse">9, MTE DE LEGLISE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.80977308107131 </north>
+			<south> 45.8096082202332 </south>
+			<east> 4.59757301624239 </east>
+			<west> 4.59742167467683 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.59753746485404,45.8096082202332,0 4.59742167467683,45.8096258006015,0 4.59742906418124,45.80964082738181,0 4.59745469344353,45.8096942350281,0 4.59745620334711,45.80969745609299,0 4.59748826371734,45.8097639225875,0 4.59757301624239,45.80977308107131,0 4.59756771787116,45.8097056954969,0 4.59756698669949,45.8096982302418,0 4.59756584544894,45.8096810435007,0 4.59753746485404,45.8096082202332,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

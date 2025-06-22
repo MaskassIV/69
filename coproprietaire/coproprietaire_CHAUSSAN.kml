@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>CHAUSSAN_coproprietaire</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_7">
+		<name>CHAUSSAN_coproprietaire</name>
+		<Schema name="CHAUSSAN_coproprietaire" id="CHAUSSAN_coproprietaire.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="coproprietaire">
+			<LineStyle>
+				<color>BF7c1404</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C7c1404</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_7.62">
+		<styleUrl>#coproprietaire</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_7.schema">
+					<SimpleData name="Numero de Parcelle">690510000C0477</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHAUSSAN</SimpleData>
+					<SimpleData name="Adresse">GARENNES ET PIRAUDES</SimpleData>
+					<SimpleData name="Groupe de personne">Coproprietaires</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SYCO</SimpleData>
+					<SimpleData name="Denomination">LES COPROPRIETAIRES 051 PARCELLE C 477 C 488</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6350690843759 </north>
+			<south> 45.6348251136916 </south>
+			<east> 4.63658414731448 </east>
+			<west> 4.63620883439965 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.63653307087155,45.6350209935682,0 4.63658414731448,45.6349637785706,0 4.63655189115249,45.6348888612361,0 4.63639123805039,45.63491353402091,0 4.63640964940851,45.63495875033929,0 4.63639194163556,45.6349634211202,0 4.63636634510698,45.63496181181819,0 4.6363426369794,45.6349545908755,0 4.63632327949898,45.6349425330995,0 4.63631023753869,45.6349269609344,0 4.63630458296401,45.6349093899434,0 4.63630700530164,45.6348914313149,0 4.63631755507912,45.6348747955939,0 4.63632592720989,45.6348670181376,0 4.63635382366254,45.63484652749891,0 4.63638710935571,45.6348302817258,0 4.63640184950498,45.6348251136916,0 4.63628696896368,45.6348259734477,0 4.63620883439965,45.63484079969809,0 4.63621884358119,45.6348449774104,0 4.63623445811497,45.6348563690833,0 4.6362431048503,45.63487092435061,0 4.63623989651206,45.6349231200089,0 4.63624761966372,45.6349455245661,0 4.63626314712025,45.63496700504809,0 4.63628538840262,45.63498541568969,0 4.6363132822825,45.63499960104081,0 4.63641109713211,45.6350381687205,0 4.63649006989688,45.6350690843759,0 4.63653307087155,45.6350209935682,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_7.63">
+		<styleUrl>#coproprietaire</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_7.schema">
+					<SimpleData name="Numero de Parcelle">690510000C0488</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHAUSSAN</SimpleData>
+					<SimpleData name="Adresse">GARENNES ET PIRAUDES</SimpleData>
+					<SimpleData name="Groupe de personne">Coproprietaires</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SYCO</SimpleData>
+					<SimpleData name="Denomination">LES COPROPRIETAIRES 051 PARCELLE C 477 C 488</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6349634211202 </north>
+			<south> 45.63482452995689 </south>
+			<east> 4.63655189115249 </east>
+			<west> 4.63630458296401 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.63652251559567,45.63482452995689,0 4.63640184950498,45.6348251136916,0 4.63638710935571,45.6348302817258,0 4.63635382366254,45.63484652749891,0 4.63632592720989,45.6348670181376,0 4.63631755507912,45.6348747955939,0 4.63630700530164,45.6348914313149,0 4.63630458296401,45.6349093899434,0 4.63631023753869,45.6349269609344,0 4.63632327949898,45.6349425330995,0 4.6363426369794,45.6349545908755,0 4.63636634510698,45.63496181181819,0 4.63639194163556,45.6349634211202,0 4.63640964940851,45.63495875033929,0 4.63639123805039,45.63491353402091,0 4.63655189115249,45.6348888612361,0 4.63652251559567,45.63482452995689,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

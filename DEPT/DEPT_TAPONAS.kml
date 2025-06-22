@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>TAPONAS_DEPT</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_3">
+		<name>TAPONAS_DEPT</name>
+		<Schema name="TAPONAS_DEPT" id="TAPONAS_DEPT.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="DEPT">
+			<LineStyle>
+				<color>BF63f16c</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C63f16c</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1198">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69242000ZE0136</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TAPONAS</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1215067966666 </north>
+			<south> 46.1212204118485 </south>
+			<east> 4.76661647142067 </east>
+			<west> 4.76414720556487 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.76423583200283,46.1212204118485,0 4.76425164181585,46.1213697746059,0 4.76414720556487,46.12137671163501,0 4.76415518959265,46.1214276580016,0 4.76476449671749,46.1213874743435,0 4.76506702968483,46.1213900671885,0 4.76552145489442,46.1214436195546,0 4.76628926240272,46.1215067966666,0 4.76661647142067,46.121402717295,0 4.76655970624295,46.12140576226909,0 4.76653824128665,46.12140690689689,0 4.76607993911897,46.1214301596847,0 4.76606976937663,46.1214321193059,0 4.76578289786218,46.1213848803791,0 4.76536781381748,46.12132216057,0 4.76515591064537,46.12129816368351,0 4.76449602361867,46.1212234840022,0 4.76440832247617,46.1212271888328,0 4.76438459300972,46.12122638667731,0 4.76423583200283,46.1212204118485,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1818">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69242000ZH0173</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TAPONAS</SimpleData>
+					<SimpleData name="Adresse">PLANCHE D ARDIERES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.12027615818389 </north>
+			<south> 46.1198357432131 </south>
+			<east> 4.7573551718361 </east>
+			<west> 4.75648680568739 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.75735341779322,46.1202472878343,0 4.7573551718361,46.12017664491701,0 4.75648680568739,46.1198357432131,0 4.75690703012669,46.1200395570584,0 4.75702090444451,46.1201049878534,0 4.75716617719719,46.1202165894245,0 4.75715969091983,46.1202405586623,0 4.75711756869423,46.12027615818389,0 4.75735341779322,46.1202472878343,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2524">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69242000ZH0222</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TAPONAS</SimpleData>
+					<SimpleData name="Adresse">LES SEVERINS</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1225120992294 </north>
+			<south> 46.1212947427333 </south>
+			<east> 4.76355378024361 </east>
+			<west> 4.76095356878598 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.76337633817188,46.1212947427333,0 4.76304354583101,46.1213662935856,0 4.76261275060652,46.1214555778009,0 4.7624291115042,46.1215292246321,0 4.76205627695495,46.1216810171048,0 4.76186824953656,46.1217592346729,0 4.76168559845471,46.1218354770026,0 4.76154655201927,46.1219425674274,0 4.76120810110273,46.1222093849271,0 4.76110903776009,46.12217390231301,0 4.76095356878598,46.1225120992294,0 4.76126375447568,46.1222564394916,0 4.76175416553003,46.12187323375609,0 4.76199287214637,46.1217960313156,0 4.76229902061638,46.121677159414,0 4.76268076074397,46.1215768387024,0 4.76355378024361,46.1214758221144,0 4.76354570267852,46.1214300112303,0 4.76352729382082,46.1214012942227,0 4.76340736063825,46.1214177486227,0 4.76337633817188,46.1212947427333,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3824">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69242000ZC0347</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TAPONAS</SimpleData>
+					<SimpleData name="Adresse">BAS DE LYS</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1225752285005 </north>
+			<south> 46.1214768093182 </south>
+			<east> 4.76356759588299 </east>
+			<west> 4.76094264061842 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.76356759588299,46.12166799977189,0 4.76355796992935,46.12154979562931,0 4.76354241341274,46.1214768093182,0 4.76268076074397,46.1215768387024,0 4.76229902061638,46.121677159414,0 4.76199287214637,46.1217960313156,0 4.76175416553003,46.12187323375609,0 4.76126375447568,46.1222564394916,0 4.76095356878598,46.1225120992294,0 4.76094264061842,46.1225752285005,0 4.76123241672165,46.122503000192,0 4.761191135215,46.1224194239724,0 4.76143381355027,46.1222156110785,0 4.76162124587293,46.12205823088789,0 4.76200495079814,46.1218656490744,0 4.76211117430119,46.12181347053121,0 4.76224730979571,46.1217811837102,0 4.76266820403426,46.121681966667,0 4.7629341398288,46.12168234118511,0 4.76324638224264,46.1216726285174,0 4.76356759588299,46.12166799977189,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3830">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69242000ZC0348</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TAPONAS</SimpleData>
+					<SimpleData name="Adresse">LES SABLONS</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1216079903309 </north>
+			<south> 46.1213874743435 </south>
+			<east> 4.7663048473549 </east>
+			<west> 4.7641432144003 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.76416616562667,46.1216079903309,0 4.76423984399256,46.1215991893937,0 4.76451493070393,46.1215659114797,0 4.76462022068089,46.1215532863558,0 4.76475583056381,46.12153694728569,0 4.76496065346616,46.1215421400201,0 4.76538627689669,46.1215458808786,0 4.76544820719763,46.12154635903079,0 4.7660503267901,46.1215686096154,0 4.7663048473549,46.1215080854194,0 4.76628926240272,46.1215067966666,0 4.76552145489442,46.1214436195546,0 4.76506702968483,46.1213900671885,0 4.76476449671749,46.1213874743435,0 4.76416798050809,46.1214266486078,0 4.7641432144003,46.1215024231114,0 4.76416616562667,46.1216079903309,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.4563">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69242000ZE0045</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TAPONAS</SimpleData>
+					<SimpleData name="Adresse">LES PRES DES RIVES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.11287054011561 </north>
+			<south> 46.1115168906904 </south>
+			<east> 4.76206131102059 </east>
+			<west> 4.76124520634559 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.76129237995592,46.1115168906904,0 4.76124520634559,46.1115441035831,0 4.76176849887742,46.112398595837,0 4.76190466703857,46.112670749484,0 4.76200251099829,46.11287054011561,0 4.76206131102059,46.1128544954342,0 4.76184067535234,46.11241197711129,0 4.76177696898643,46.11230334910741,0 4.76129237995592,46.1115168906904,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.5261">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69242000ZC0059</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TAPONAS</SimpleData>
+					<SimpleData name="Adresse">FATRY</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.12279010142359 </north>
+			<south> 46.12251424438301 </south>
+			<east> 4.76063492454241 </east>
+			<west> 4.7591185688265 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.7591185688265,46.12251424438301,0 4.75920379140998,46.12259885182269,0 4.75932206844764,46.12268015480421,0 4.75945788193983,46.122734704987,0 4.7595206751377,46.1227499446923,0 4.75960173809468,46.1227694047794,0 4.75972608865569,46.1227815286331,0 4.76000279328699,46.12278633682141,0 4.76009066462452,46.1227878569275,0 4.76021314420551,46.12279010142359,0 4.76043178263249,46.1227816675963,0 4.76061640052604,46.1227544856686,0 4.76063492454241,46.1227423990892,0 4.76061534335597,46.1227174827983,0 4.75965521296989,46.1227283141984,0 4.75936968969373,46.1226827495107,0 4.7591185688265,46.12251424438301,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

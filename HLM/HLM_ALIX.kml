@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>ALIX_HLM</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_5">
+		<name>ALIX_HLM</name>
+		<Schema name="ALIX_HLM" id="ALIX_HLM.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="HLM">
+			<LineStyle>
+				<color>BFe451f5</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4Ce451f5</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.9">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">690040000U1071</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ALIX</SimpleData>
+					<SimpleData name="Adresse">134, RTE DU GARRET</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">IMMOBILIERE RHONE ALPES SA DHLM</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9117835603249 </north>
+			<south> 45.9105645270873 </south>
+			<east> 4.65603291781028 </east>
+			<west> 4.65475050366171 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.65494667135473,45.91165973184751,0 4.65496799652598,45.9117683132962,0 4.65519400282155,45.9117835603249,0 4.6552131759703,45.9116486265007,0 4.65538274059703,45.9116448839289,0 4.65564883741994,45.9115557837104,0 4.65567497167032,45.91154522334219,0 4.6557026400868,45.9115341901642,0 4.65572565998367,45.9115230448908,0 4.65574739012182,45.9115119184935,0 4.65576344805976,45.9115009651984,0 4.65578007242376,45.9114873916056,0 4.6558010477417,45.9114640268543,0 4.65581493115515,45.91144941255381,0 4.65590664197505,45.9113496243941,0 4.6559210619995,45.91133139946049,0 4.65593821936234,45.9113098018922,0 4.65603291781028,45.91102604883011,0 4.65561904880623,45.9110452579521,0 4.6555228024316,45.9105645270873,0 4.65475050366171,45.9106700411404,0 4.65487089488514,45.911258952496,0 4.65494667135473,45.91165973184751,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.4527">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">690040000U0677</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ALIX</SimpleData>
+					<SimpleData name="Adresse">85, MTE DU PERROUX</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">IMMOBILIERE RHONE ALPES SA DHLM</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.91025784401189 </north>
+			<south> 45.90972503958859 </south>
+			<east> 4.65316956731295 </east>
+			<west> 4.6520171654949 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.6524323904549,45.9098535013052,0 4.65242274328013,45.9100395446443,0 4.65242160981338,45.9100619883825,0 4.6520171654949,45.9101715660408,0 4.65205471848146,45.91025784401189,0 4.65242445881768,45.9101656161636,0 4.65282160345567,45.9100665016468,0 4.65316956731295,45.909979633423,0 4.65308115930761,45.90972503958859,0 4.6524323904549,45.9098535013052,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

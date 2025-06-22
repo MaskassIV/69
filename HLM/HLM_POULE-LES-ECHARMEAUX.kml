@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>POULE-LES-ECHARMEAUX_HLM</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_5">
+		<name>POULE-LES-ECHARMEAUX_HLM</name>
+		<Schema name="POULE-LES-ECHARMEAUX_HLM" id="POULE-LES-ECHARMEAUX_HLM.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="HLM">
+			<LineStyle>
+				<color>BFe451f5</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4Ce451f5</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2608">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69160000ZS0298</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">POULE-LES-ECHARMEAUX</SimpleData>
+					<SimpleData name="Adresse">LES MONNERIES</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.15483465011909 </north>
+			<south> 46.1544156330299 </south>
+			<east> 4.45285252233804 </east>
+			<west> 4.45170949144125 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.45208084846432,46.1544156330299,0 4.45189675312923,46.154618738223,0 4.45180001749337,46.1547243584487,0 4.45170949144125,46.15482467553701,0 4.45197462496642,46.1548336261005,0 4.45235955583796,46.15483465011909,0 4.4524532372422,46.15483399286671,0 4.45249840370842,46.1548316141475,0 4.45285252233804,46.1545205988144,0 4.45276481923674,46.15451208350419,0 4.45270616610181,46.1545092309528,0 4.45263996793463,46.1545053040139,0 4.45260860190113,46.1545051646808,0 4.45257350982734,46.1545062438094,0 4.45249197032844,46.1545102584261,0 4.45243253188727,46.1545120090315,0 4.45242477541193,46.1545127386405,0 4.45241246076184,46.1545126258832,0 4.45238149854307,46.154508158259,0 4.45233415723654,46.15449201157951,0 4.45232092077519,46.154481553251,0 4.45230713751216,46.1544700211446,0 4.4523005597977,46.1544663225469,0 4.45228988644683,46.1544645676456,0 4.45226382017621,46.1544639101502,0 4.4522483724473,46.1544629367866,0 4.45223114283634,46.1544582935795,0 4.45221884575499,46.15445394757489,0 4.45215552882064,46.1544511543557,0 4.45214642202121,46.1544498297366,0 4.45213868549593,46.1544464161332,0 4.45208084846432,46.1544156330299,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2615">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69160000ZS0299</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">POULE-LES-ECHARMEAUX</SimpleData>
+					<SimpleData name="Adresse">LES MONNERIES</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1544081121758 </north>
+			<south> 46.153959081194 </south>
+			<east> 4.45292463313754 </east>
+			<west> 4.45215849677561 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.45248648578688,46.15407297835599,0 4.45227499001903,46.1542787761715,0 4.45216013894698,46.1543903023166,0 4.45215849677561,46.1543968079056,0 4.45216468581503,46.15440051147939,0 4.4521730510348,46.1544031965339,0 4.45218345811669,46.1544046846579,0 4.45227465497595,46.1544081121758,0 4.45228279294665,46.1544071075085,0 4.45228931433001,46.1544037818451,0 4.45229522694814,46.15439704153611,0 4.45229774022433,46.1543891738513,0 4.4523080959685,46.1543691373544,0 4.45232485934224,46.1543512705414,0 4.45234728400837,46.1543367537807,0 4.4523739615744,46.15432623552089,0 4.45240335171675,46.1543202758342,0 4.45244052604286,46.1543195303914,0 4.45247671553062,46.1543256423822,0 4.45249725065967,46.15433276507931,0 4.45251627883504,46.1543417083171,0 4.45263036852025,46.15439726003461,0 4.45292463313754,46.154087099781,0 4.45279419088099,46.1540355401589,0 4.45279117782302,46.15403431779469,0 4.45276838556532,46.1540251525452,0 4.45260360548416,46.153959081194,0 4.45248648578688,46.15407297835599,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2636">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69160000ZS0300</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">POULE-LES-ECHARMEAUX</SimpleData>
+					<SimpleData name="Adresse">LES MONNERIES</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.15478481653911 </north>
+			<south> 46.1545509127944 </south>
+			<east> 4.4532660052488 </east>
+			<west> 4.45287337756681 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.45324781533295,46.1545655285264,0 4.45311601728267,46.1545509127944,0 4.45301917765837,46.1546329386819,0 4.45301812454562,46.1546323217036,0 4.45296160277108,46.15468059831001,0 4.4529626535,46.1546811252555,0 4.45294238038004,46.15469858673,0 4.4528843705847,46.1547494041149,0 4.45287337756681,46.15476494562099,0 4.45289171929118,46.1547626395914,0 4.45289710161491,46.15478481653911,0 4.45305621291329,46.1547639582859,0 4.45316815479089,46.1546992115944,0 4.4532660052488,46.15459663808121,0 4.45326007436695,46.1545684338853,0 4.45324781533295,46.1545655285264,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2675">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69160000ZS0305</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">POULE-LES-ECHARMEAUX</SimpleData>
+					<SimpleData name="Adresse">LES MONNERIES</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1544710668999 </north>
+			<south> 46.15416490263271 </south>
+			<east> 4.45323747507386 </east>
+			<west> 4.45284997375469 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.45323747507386,46.15420936803449,0 4.45321076511395,46.15419908215501,0 4.45312277158006,46.15416490263271,0 4.45298705416518,46.1543105605521,0 4.4529622261707,46.1543370866749,0 4.45290235291722,46.1544007169791,0 4.45289986281423,46.15439966805741,0 4.45284997375469,46.15445371394011,0 4.45299311886287,46.1544710668999,0 4.45323747507386,46.15420936803449,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

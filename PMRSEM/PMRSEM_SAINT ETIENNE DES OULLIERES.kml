@@ -1,0 +1,754 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>SAINT ETIENNE DES OULLIERES_PMRSEM</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_6">
+		<name>SAINT ETIENNE DES OULLIERES_PMRSEM</name>
+		<Schema name="SAINT ETIENNE DES OULLIERES_PMRSEM" id="SAINT ETIENNE DES OULLIERES_PMRSEM.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="PMRSEM">
+			<LineStyle>
+				<color>BF00faff</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C00faff</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.22">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">691970000C0631</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT ETIENNE DES OULLIERES</SimpleData>
+					<SimpleData name="Adresse">MILLY</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SEM</SimpleData>
+					<SimpleData name="Denomination">SEM DE CONSTRUCTION DU DPT DE L AIN</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0559091502656 </north>
+			<south> 46.0558335273786 </south>
+			<east> 4.64273872003727 </east>
+			<west> 4.64240664463114 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.64243010698213,46.05589627191121,0 4.64263541408712,46.0559091502656,0 4.64268222631522,46.0558955022997,0 4.64272304213388,46.0558673500681,0 4.6427290336306,46.05586870437289,0 4.64273872003727,46.0558335273786,0 4.6425122987754,46.0558500471848,0 4.64241002388431,46.0558735952939,0 4.64240664463114,46.0558947202815,0 4.64243010698213,46.05589627191121,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.66">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">691970000E1044</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT ETIENNE DES OULLIERES</SimpleData>
+					<SimpleData name="Adresse">30, RUE DU CELLIER</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SEM</SimpleData>
+					<SimpleData name="Denomination">SEM DE CONSTRUCTION DU DPT DE L AIN</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0643973155583 </north>
+			<south> 46.06343088582831 </south>
+			<east> 4.65159892442776 </east>
+			<west> 4.65110268019266 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.65149623709022,46.0636292267688,0 4.65146987020118,46.0636129479796,0 4.65138824417543,46.0635575733275,0 4.6513544249325,46.06352149782531,0 4.65130122287499,46.0634690418005,0 4.65127419880672,46.06343088582831,0 4.65126524247356,46.0634988379994,0 4.65125614884275,46.0635449955294,0 4.65117688732098,46.0640118950018,0 4.65117095994038,46.0640385515761,0 4.65115524068771,46.06410966452721,0 4.65112615832646,46.0642398769765,0 4.65110268019266,46.06434559920089,0 4.65110288133416,46.0643609079601,0 4.65110567898083,46.06436789259551,0 4.65110880241986,46.0643728009069,0 4.65111588431192,46.0643802635861,0 4.65112579802587,46.06438723469609,0 4.65113641742012,46.0643918537447,0 4.65114502918786,46.0643942503004,0 4.65115322320155,46.06439566218089,0 4.65116957606689,46.0643973155583,0 4.65132544175866,46.0643913535153,0 4.65142538433417,46.0643888175291,0 4.65143233339553,46.0643444925881,0 4.65149640009565,46.06434941419699,0 4.65159892442776,46.0636965440024,0 4.65158796529903,46.0636892278828,0 4.65149623709022,46.0636292267688,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.67">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">691970000E1045</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT ETIENNE DES OULLIERES</SimpleData>
+					<SimpleData name="Adresse">LES OULLIERES</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SEM</SimpleData>
+					<SimpleData name="Denomination">SEM DE CONSTRUCTION DU DPT DE L AIN</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0644355200626 </north>
+			<south> 46.0634033378996 </south>
+			<east> 4.65243766594281 </east>
+			<west> 4.65103240545682 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.65122093552353,46.063406532111,0 4.65118669725214,46.0635890595281,0 4.65117999543214,46.0636286972792,0 4.65112379044441,46.0639629500404,0 4.65111424640976,46.064007042531,0 4.65109081433287,46.0641142952533,0 4.65104458254154,46.0643713939902,0 4.65103240545682,46.0644355200626,0 4.65203801483454,46.0644049348386,0 4.65243766594281,46.0643908265633,0 4.65239313548574,46.0643385148914,0 4.65217912793501,46.0641148393815,0 4.65208342350565,46.06403021780169,0 4.65199471642341,46.0639631477045,0 4.65195062839421,46.06392983393571,0 4.65180687297766,46.0638306903717,0 4.65156809472039,46.0636738452724,0 4.65149623709022,46.0636292267688,0 4.65158796529903,46.0636892278828,0 4.65159892442776,46.0636965440024,0 4.65163655519321,46.0637216656098,0 4.65172938871809,46.0637839923056,0 4.65176279708497,46.06380638323279,0 4.65180560996752,46.0638360228234,0 4.65187418394558,46.06388330095729,0 4.65199316228847,46.0639674035736,0 4.6520772507068,46.0640314786105,0 4.65215218102968,46.0640964976123,0 4.65217449900704,46.0641158074993,0 4.65223424401637,46.0641835695803,0 4.65229143439613,46.06424812637201,0 4.65232344944517,46.064284408031,0 4.65233751127247,46.0643002354149,0 4.65234099033698,46.06430405768761,0 4.65234061705425,46.0643131600725,0 4.65233747422155,46.0643248247312,0 4.65233195195308,46.0643348127477,0 4.65232344688781,46.0643445740121,0 4.65231421936224,46.0643518238749,0 4.65231028039294,46.064354223047,0 4.65213580168382,46.0643608178529,0 4.65211727062952,46.0643512702911,0 4.6520125834008,46.0643552270288,0 4.65201287397695,46.06435198032061,0 4.65201263639329,46.0643483810303,0 4.65153843837344,46.0643661853383,0 4.65152998727159,46.0643777471304,0 4.65152299618661,46.0643862253243,0 4.65142538433417,46.0643888175291,0 4.65132544175866,46.0643913535153,0 4.65116957606689,46.0643973155583,0 4.65115322320155,46.06439566218089,0 4.65114502918786,46.0643942503004,0 4.65113641742012,46.0643918537447,0 4.65112579802587,46.06438723469609,0 4.65111588431192,46.0643802635861,0 4.65110880241986,46.0643728009069,0 4.65110567898083,46.06436789259551,0 4.65110288133416,46.0643609079601,0 4.65110268019266,46.06434559920089,0 4.65112615832646,46.0642398769765,0 4.65115524068771,46.06410966452721,0 4.65117095994038,46.0640385515761,0 4.65117688732098,46.0640118950018,0 4.65125614884275,46.0635449955294,0 4.65126524247356,46.0634988379994,0 4.65127419880672,46.06343088582831,0 4.65125473922864,46.0634033378996,0 4.65122093552353,46.063406532111,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.514">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">691970000C0455</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT ETIENNE DES OULLIERES</SimpleData>
+					<SimpleData name="Adresse">MILLY</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SEM</SimpleData>
+					<SimpleData name="Denomination">SEM DE CONSTRUCTION DU DPT DE L AIN</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0570082950288 </north>
+			<south> 46.0565921965257 </south>
+			<east> 4.64486844832397 </east>
+			<west> 4.64409719436567 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.64445560236287,46.0565950326133,0 4.6444089436631,46.0565921965257,0 4.6444177127035,46.0566171985128,0 4.64439837302654,46.05682697854729,0 4.64432782479834,46.0569207721765,0 4.64421296218204,46.05691712355421,0 4.64410418553397,46.0569136567885,0 4.64409719436567,46.0569134879392,0 4.64409792695268,46.05692932939311,0 4.64433412071783,46.0569409463247,0 4.64439730318762,46.0568647328098,0 4.64467555688364,46.05687681995651,0 4.64469526142423,46.0568954485928,0 4.6446923919706,46.05700708522999,0 4.64472076081267,46.0570082950288,0 4.64474693959512,46.0568109352715,0 4.64486550639424,46.0568129984562,0 4.64486844832397,46.0567989050792,0 4.6447530848304,46.0567914813899,0 4.64464757363967,46.0567847253172,0 4.64453701106457,46.0567777721945,0 4.64444057090983,46.0567715148648,0 4.64445284341027,46.0566282178717,0 4.64445560236287,46.0565950326133,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.679">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">691970000C0636</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT ETIENNE DES OULLIERES</SimpleData>
+					<SimpleData name="Adresse">14, ALL DE LA VAUXONNE</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SEM</SimpleData>
+					<SimpleData name="Denomination">SEM DE CONSTRUCTION DU DPT DE L AIN</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0563668338357 </north>
+			<south> 46.0559757536783 </south>
+			<east> 4.64275628950436 </east>
+			<west> 4.64261171786958 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.64261171786958,46.05629804933571,0 4.64269789890455,46.05635066199459,0 4.6427131305307,46.0563668338357,0 4.64273769937245,46.056180306188,0 4.64274005761437,46.0561553230307,0 4.64274707835139,46.0560828962605,0 4.64274896759654,46.0560638644228,0 4.64275628950436,46.0560058442611,0 4.64265111774067,46.0559757536783,0 4.64264678610128,46.0560342709286,0 4.64264379218223,46.0560553002741,0 4.6426348722925,46.0561204589909,0 4.64263084081276,46.0561500598796,0 4.64261171786958,46.05629804933571,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.682">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">691970000C0641</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT ETIENNE DES OULLIERES</SimpleData>
+					<SimpleData name="Adresse">4, ALL DE LA VAUXONNE</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SEM</SimpleData>
+					<SimpleData name="Denomination">SEM DE CONSTRUCTION DU DPT DE L AIN</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0564860187653 </north>
+			<south> 46.0561354835432 </south>
+			<east> 4.64340067825316 </east>
+			<west> 4.6432480007623 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.6432480007623,46.05642042131561,0 4.64326738620301,46.05645868976719,0 4.64330214711615,46.0564833151933,0 4.64336419690169,46.0564860187653,0 4.64337901662064,46.05629368769981,0 4.64338093537579,46.05627132288309,0 4.6433875511885,46.05619836151791,0 4.64338953184651,46.0561780673815,0 4.64340067825316,46.0561354835432,0 4.64328389095671,46.056136635532,0 4.64327708696837,46.0561903249379,0 4.64326517925348,46.0562853397133,0 4.6432480007623,46.05642042131561,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.684">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">691970000C0650</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT ETIENNE DES OULLIERES</SimpleData>
+					<SimpleData name="Adresse">MILLY</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SEM</SimpleData>
+					<SimpleData name="Denomination">SEM DE CONSTRUCTION DU DPT DE L AIN</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0566485922779 </north>
+			<south> 46.0561270600737 </south>
+			<east> 4.64398428925611 </east>
+			<west> 4.64271807125113 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.64271807125113,46.0563719862432,0 4.64273142789938,46.0563860235966,0 4.64293775528043,46.05639834623999,0 4.64301188778889,46.0564027663922,0 4.64318334872957,46.0564128916837,0 4.64329203580525,46.0564999442663,0 4.64337726369549,46.05656824216931,0 4.64342881918704,46.05660937693649,0 4.64342636928086,46.0566485922779,0 4.64347710438257,46.0566406515305,0 4.64348298428257,46.0565820217311,0 4.64349229191594,46.0564865942681,0 4.6435127717441,46.0562802205166,0 4.64353309344595,46.0562632633069,0 4.64362575824249,46.0562687654958,0 4.64374408127,46.05627569707289,0 4.6438651280198,46.0562828592502,0 4.64398163531229,46.05628963676379,0 4.64398428925611,46.0562702335394,0 4.64375767313708,46.0562586572321,0 4.64375412398531,46.0561745846034,0 4.64372199512727,46.056151452331,0 4.64365166983578,46.0561358990274,0 4.64355308380577,46.0561270600737,0 4.64354756475504,46.05619775384171,0 4.64356402273168,46.0561986862052,0 4.64356426672236,46.05625011183759,0 4.64351238451533,46.0562499630807,0 4.64352483648029,46.0561342246081,0 4.64349495941004,46.0561344774728,0 4.6434913724504,46.0561832565673,0 4.64348458925343,46.0562765758688,0 4.64346912549446,46.05649062281831,0 4.64336419690169,46.0564860187653,0 4.64330214711615,46.0564833151933,0 4.64326738620301,46.05645868976719,0 4.6432480007623,46.05642042131561,0 4.64323961998358,46.0564040602045,0 4.64308590485772,46.0563946686354,0 4.64293011266712,46.0563850367448,0 4.64282512781401,46.05637854157159,0 4.64271807125113,46.0563719862432,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.685">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">691970000C0652</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT ETIENNE DES OULLIERES</SimpleData>
+					<SimpleData name="Adresse">5254, ALL DE LA VAUXONNE</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SEM</SimpleData>
+					<SimpleData name="Denomination">SEM DE CONSTRUCTION DU DPT DE L AIN</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.05625011183759 </north>
+			<south> 46.0561246646051 </south>
+			<east> 4.64356426672236 </east>
+			<west> 4.64351238451533 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.64355308380577,46.0561270600737,0 4.64352571496599,46.0561246646051,0 4.64352483648029,46.0561342246081,0 4.64351238451533,46.0562499630807,0 4.64356426672236,46.05625011183759,0 4.64356402273168,46.0561986862052,0 4.64354756475504,46.05619775384171,0 4.64355308380577,46.0561270600737,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.686">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">691970000C0654</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT ETIENNE DES OULLIERES</SimpleData>
+					<SimpleData name="Adresse">9, MTE DU MANEGE</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SEM</SimpleData>
+					<SimpleData name="Denomination">SEM DE CONSTRUCTION DU DPT DE L AIN</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.056621816061 </north>
+			<south> 46.0562687654958 </south>
+			<east> 4.64374408127 </east>
+			<west> 4.64359595141389 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.64362575824249,46.0562687654958,0 4.64360773323919,46.05647069033359,0 4.64360628346858,46.05648710383049,0 4.64360435950848,46.0565049652977,0 4.6435999695207,46.0565658252265,0 4.6435968440252,46.0565824431475,0 4.64359595141389,46.056621816061,0 4.64371827642774,46.0566024797111,0 4.64372143462454,46.0565653256717,0 4.64372267688506,46.05655062648399,0 4.64372624768068,46.05649266061741,0 4.6437285595471,46.0564747935251,0 4.64373016021986,46.0564547750948,0 4.64374408127,46.05627569707289,0 4.64362575824249,46.0562687654958,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.689">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">691970000C0661</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT ETIENNE DES OULLIERES</SimpleData>
+					<SimpleData name="Adresse">MILLY</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SEM</SimpleData>
+					<SimpleData name="Denomination">SEM DE CONSTRUCTION DU DPT DE L AIN</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0560351581575 </north>
+			<south> 46.0560030176011 </south>
+			<east> 4.64480128490823 </east>
+			<west> 4.64470768828055 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.64479772606342,46.0560351581575,0 4.64480128490823,46.0560114184906,0 4.64477192517445,46.0560030176011,0 4.64476340120598,46.0560035015065,0 4.64475629969477,46.05600396478021,0 4.64475062333482,46.056004497452,0 4.64474507359514,46.0560049382185,0 4.64473798016537,46.0560056715797,0 4.64473230649899,46.0560062942802,0 4.64472817921648,46.0560067144151,0 4.64472263755809,46.0560074252691,0 4.64471554682159,46.0560082486585,0 4.64470768828055,46.05600935338909,0 4.64479772606342,46.0560351581575,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.690">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">691970000C0665</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT ETIENNE DES OULLIERES</SimpleData>
+					<SimpleData name="Adresse">10, SQ DE MILLY</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SEM</SimpleData>
+					<SimpleData name="Denomination">SEM DE CONSTRUCTION DU DPT DE L AIN</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.05630884047729 </north>
+			<south> 46.05600935338909 </south>
+			<east> 4.64479772606342 </east>
+			<west> 4.64457019908295 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.64475675467438,46.05630884047729,0 4.64476319621947,46.0562647034931,0 4.64477660192546,46.0561766020802,0 4.64478015809455,46.05615277238449,0 4.64479772606342,46.0560351581575,0 4.64470768828055,46.05600935338909,0 4.64464810936893,46.056020034949,0 4.64460800837001,46.05604178264699,0 4.64458801296388,46.0560826035081,0 4.64457019908295,46.0562655210118,0 4.6446116174619,46.05629644436809,0 4.64475675467438,46.05630884047729,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.691">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">691970000C0667</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT ETIENNE DES OULLIERES</SimpleData>
+					<SimpleData name="Adresse">8, SQ DE MILLY</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SEM</SimpleData>
+					<SimpleData name="Denomination">SEM DE CONSTRUCTION DU DPT DE L AIN</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.05638427523721 </north>
+			<south> 46.0562251822571 </south>
+			<east> 4.64521235251808 </east>
+			<west> 4.64481244634456 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.64481330575158,46.0563136945848,0 4.64481244634456,46.0563584711569,0 4.64488180237192,46.0563632295731,0 4.64501039554678,46.0563718122399,0 4.64505200810435,46.05637463121031,0 4.64519434646801,46.05638427523721,0 4.64521235251808,46.0562337795277,0 4.64499785687122,46.0562251822571,0 4.64481330575158,46.0563136945848,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.692">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">691970000C0668</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT ETIENNE DES OULLIERES</SimpleData>
+					<SimpleData name="Adresse">7, SQ DE MILLY</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SEM</SimpleData>
+					<SimpleData name="Denomination">SEM DE CONSTRUCTION DU DPT DE L AIN</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0564680965335 </north>
+			<south> 46.0563584711569 </south>
+			<east> 4.64519434646801 </east>
+			<west> 4.64481073022147 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.64481244634456,46.0563584711569,0 4.64481235205225,46.0563596434166,0 4.64481073022147,46.0564264978602,0 4.64482622112184,46.0564469889603,0 4.64491746119428,46.0564524206962,0 4.64504200539002,46.05645971103159,0 4.64518417693133,46.0564680965335,0 4.64519434646801,46.05638427523721,0 4.64505200810435,46.05637463121031,0 4.64501039554678,46.0563718122399,0 4.64488180237192,46.0563632295731,0 4.64481244634456,46.0563584711569,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.695">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">691970000C0670</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT ETIENNE DES OULLIERES</SimpleData>
+					<SimpleData name="Adresse">5, SQ DE MILLY</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SEM</SimpleData>
+					<SimpleData name="Denomination">SEM DE CONSTRUCTION DU DPT DE L AIN</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.05681861957351 </north>
+			<south> 46.0565007797091 </south>
+			<east> 4.64501141168996 </east>
+			<west> 4.64486550639424 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.64486844832397,46.0567989050792,0 4.64486550639424,46.0568129984562,0 4.64497473550423,46.05681861957351,0 4.64499238944739,46.0566909163827,0 4.64499407858065,46.0566738689097,0 4.6450015005277,46.056601976551,0 4.64500353988097,46.0565836630367,0 4.64501141168996,46.05650518914119,0 4.64489937328338,46.0565007797091,0 4.64489445939726,46.05657002369031,0 4.64489337370108,46.0565812980165,0 4.64488378558213,46.0566586259036,0 4.64488232271117,46.05667026597499,0 4.64486844832397,46.0567989050792,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.696">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">691970000C0672</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT ETIENNE DES OULLIERES</SimpleData>
+					<SimpleData name="Adresse">3, SQ DE MILLY</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SEM</SimpleData>
+					<SimpleData name="Denomination">SEM DE CONSTRUCTION DU DPT DE L AIN</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0567914813899 </north>
+			<south> 46.05648107444609 </south>
+			<east> 4.64478298127562 </east>
+			<west> 4.64464757363967 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.64464757363967,46.0567847253172,0 4.6447530848304,46.0567914813899,0 4.64477525456484,46.0566547058823,0 4.6447759900555,46.0566446975976,0 4.64478185241646,46.05656823437751,0 4.64478293544362,46.0565525467287,0 4.64478298127562,46.0564935511149,0 4.64468066314189,46.05648107444609,0 4.6446749030811,46.0565350190202,0 4.64467356139225,46.0565507104189,0 4.64466707924203,46.0566280833062,0 4.64466635989479,46.05663863176751,0 4.64464757363967,46.0567847253172,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.698">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">691970000C0674</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT ETIENNE DES OULLIERES</SimpleData>
+					<SimpleData name="Adresse">1, SQ DE MILLY</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SEM</SimpleData>
+					<SimpleData name="Denomination">SEM DE CONSTRUCTION DU DPT DE L AIN</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0567777721945 </north>
+			<south> 46.0564681437601 </south>
+			<east> 4.6445661705504 </east>
+			<west> 4.64444057090983 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.6445661705504,46.0564681437601,0 4.64449336328021,46.05646910952,0 4.64446491377934,46.05648681524769,0 4.64446061640785,46.05653776633289,0 4.64445560236287,46.0565950326133,0 4.64445284341027,46.0566282178717,0 4.64444057090983,46.0567715148648,0 4.64453701106457,46.0567777721945,0 4.64454995954487,46.0566311328456,0 4.6445507327873,46.0566223849761,0 4.64455876960137,46.056540756327,0 4.64455997659994,46.05652921004,0 4.6445661705504,46.0564681437601,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.699">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">691970000C0676</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT ETIENNE DES OULLIERES</SimpleData>
+					<SimpleData name="Adresse">6, MTE DU MANEGE</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SEM</SimpleData>
+					<SimpleData name="Denomination">SEM DE CONSTRUCTION DU DPT DE L AIN</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.05691712355421 </north>
+			<south> 46.0565894104806 </south>
+			<east> 4.64423459650434 </east>
+			<west> 4.64410418553397 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.64410418553397,46.0569136567885,0 4.64421296218204,46.05691712355421,0 4.64423459650434,46.0565894104806,0 4.64419242327899,46.056602451413,0 4.64412571779263,46.0566127856701,0 4.64412257311375,46.05666768304451,0 4.64412077857654,46.0566898659394,0 4.64411828832884,46.056762317204,0 4.64411641569142,46.05678188924139,0 4.64410418553397,46.0569136567885,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.701">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">691970000C0677</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT ETIENNE DES OULLIERES</SimpleData>
+					<SimpleData name="Adresse">8, MTE DU MANEGE</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SEM</SimpleData>
+					<SimpleData name="Denomination">SEM DE CONSTRUCTION DU DPT DE L AIN</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.05692932939311 </north>
+			<south> 46.0566127856701 </south>
+			<east> 4.64412571779263 </east>
+			<west> 4.64399577248563 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.64409792695268,46.05692932939311,0 4.64409719436567,46.0569134879392,0 4.64410418553397,46.0569136567885,0 4.64411641569142,46.05678188924139,0 4.64411828832884,46.056762317204,0 4.64412077857654,46.0566898659394,0 4.64412257311375,46.05666768304451,0 4.64412571779263,46.0566127856701,0 4.64401458951953,46.0566301587693,0 4.64401401489081,46.05668447846909,0 4.64401135548886,46.0567080249287,0 4.64400981884233,46.05677776030619,0 4.64400872475574,46.0567974111232,0 4.64399577248563,46.0569180206162,0 4.64401511328447,46.05692449537901,0 4.64401492466389,46.0569268398972,0 4.64409792695268,46.05692932939311,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.702">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">691970000C0678</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT ETIENNE DES OULLIERES</SimpleData>
+					<SimpleData name="Adresse">8, VC DU MANEGE</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SEM</SimpleData>
+					<SimpleData name="Denomination">SEM DE CONSTRUCTION DU DPT DE L AIN</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0569180206162 </north>
+			<south> 46.0566301587693 </south>
+			<east> 4.64401458951953 </east>
+			<west> 4.64377764459784 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.64377764459784,46.05666691891891,0 4.64384953798337,46.0568689814978,0 4.64389292337374,46.05688348411811,0 4.64399577248563,46.0569180206162,0 4.64400872475574,46.0567974111232,0 4.64400981884233,46.05677776030619,0 4.64401135548886,46.0567080249287,0 4.64401401489081,46.05668447846909,0 4.64401458951953,46.0566301587693,0 4.64390448493265,46.05664715664469,0 4.64377764459784,46.05666691891891,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.765">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">691970000E0809</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT ETIENNE DES OULLIERES</SimpleData>
+					<SimpleData name="Adresse">MAISONS NEUVES</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SEM</SimpleData>
+					<SimpleData name="Denomination">SEM DE CONSTRUCTION DU DPT DE L AIN</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0701427442959 </north>
+			<south> 46.07004331129351 </south>
+			<east> 4.64791001624822 </east>
+			<west> 4.64776464530331 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.64776464530331,46.0700887347364,0 4.64785982376637,46.0701427442959,0 4.64789223134847,46.07010579568781,0 4.64791001624822,46.0700990523691,0 4.64782863207197,46.07004331129351,0 4.64776464530331,46.0700887347364,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.770">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">691970000E0818</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT ETIENNE DES OULLIERES</SimpleData>
+					<SimpleData name="Adresse">41, IMP DU CLOS DES VIGNES</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SEM</SimpleData>
+					<SimpleData name="Denomination">SEM DE CONSTRUCTION DU DPT DE L AIN</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0698763598688 </north>
+			<south> 46.0694996568231 </south>
+			<east> 4.64826532410996 </east>
+			<west> 4.64756864641001 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.64813613450429,46.0698763598688,0 4.64826532410996,46.0696880405457,0 4.64824809376673,46.0696830669385,0 4.64797745000333,46.0695946789644,0 4.64769818659331,46.0695036234398,0 4.6476860332447,46.0694996568231,0 4.64756864641001,46.0696630351533,0 4.64759770855976,46.0697087281689,0 4.64808576136814,46.0698665537438,0 4.64813613450429,46.0698763598688,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.771">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">691970000E0819</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT ETIENNE DES OULLIERES</SimpleData>
+					<SimpleData name="Adresse">44, IMP DU CLOS DES VIGNES</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SEM</SimpleData>
+					<SimpleData name="Denomination">SEM DE CONSTRUCTION DU DPT DE L AIN</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0701269874131 </north>
+			<south> 46.0697630853597 </south>
+			<east> 4.64808058479231 </east>
+			<west> 4.64728952881407 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.64728952881407,46.06987037391171,0 4.647438271004,46.0700104320936,0 4.64747914119966,46.0700485680136,0 4.64754988368562,46.06999971406971,0 4.64771066631798,46.0701269874131,0 4.64776464530331,46.0700887347364,0 4.64782863207197,46.07004331129351,0 4.64791001624822,46.0700990523691,0 4.64795098154979,46.0700497300803,0 4.64797221730692,46.0700242924049,0 4.64803197866036,46.0700278375125,0 4.64808058479231,46.0699571479575,0 4.64805683200922,46.06993317453231,0 4.64777103192011,46.069839962418,0 4.64752014372508,46.0697630853597,0 4.64728952881407,46.06987037391171,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

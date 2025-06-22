@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>DOMMARTIN_ETAT</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_1">
+		<name>DOMMARTIN_ETAT</name>
+		<Schema name="DOMMARTIN_ETAT" id="DOMMARTIN_ETAT.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="ETAT">
+			<LineStyle>
+				<color>BF119ff7</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C119ff7</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.1429">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69076000AO0020</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DOMMARTIN</SimpleData>
+					<SimpleData name="Adresse">L ETANG</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8263316233017 </north>
+			<south> 45.82601755222679 </south>
+			<east> 4.73711435926023 </east>
+			<west> 4.73622397196215 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.73622397196215,45.8263316233017,0 4.73711417130461,45.82626443119969,0 4.73711364840414,45.826243722935,0 4.73711435926023,45.8260575354403,0 4.73710669437985,45.8260350455487,0 4.73706697808467,45.82601755222679,0 4.73699584940763,45.82602945482601,0 4.73685489614809,45.8260824228022,0 4.73667294390931,45.8261549360023,0 4.73634006212398,45.8262868745879,0 4.73622397196215,45.8263316233017,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.2613">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69076000AL0037</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DOMMARTIN</SimpleData>
+					<SimpleData name="Adresse">A CLARICOT</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8460131887349 </north>
+			<south> 45.8457971718367 </south>
+			<east> 4.73362932379055 </east>
+			<west> 4.73353839595786 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.73362932379055,45.8458102147674,0 4.73356949995684,45.8457971718367,0 4.73353839595786,45.8460131887349,0 4.73355150429486,45.8459668712967,0 4.73362932379055,45.8458102147674,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.2696">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69076000AL0038</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DOMMARTIN</SimpleData>
+					<SimpleData name="Adresse">A CLARICOT</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">MINISTERE ECOLOGIE DEVELOPPEMENT TRANSPORTS LOGEMENT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8458102147674 </north>
+			<south> 45.8452194775642 </south>
+			<east> 4.73395551529584 </east>
+			<west> 4.73356949995684 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.73362932379055,45.8458102147674,0 4.73370317994519,45.84567919913141,0 4.7338339392404,45.84549290729201,0 4.73389694532741,45.8453693537856,0 4.73395551529584,45.8452194775642,0 4.73393006455333,45.8452257228188,0 4.7338853493005,45.8452300119817,0 4.73387179236482,45.8452292292819,0 4.73381690922367,45.8452257482423,0 4.73379597575752,45.8452239978981,0 4.73381957378618,45.8452654286021,0 4.73383409126986,45.8452926774029,0 4.73383417877169,45.8453036647066,0 4.73383355277736,45.8453165544496,0 4.73383486016507,45.8453417542287,0 4.73382169595654,45.8454313966533,0 4.73377061678575,45.8455202699213,0 4.73368654410785,45.8456214487972,0 4.73360331168849,45.8457329728616,0 4.73356949995684,45.8457971718367,0 4.73362932379055,45.8458102147674,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.2806">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69076000AL0040</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DOMMARTIN</SimpleData>
+					<SimpleData name="Adresse">A CLARICOT</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">MINISTERE ECOLOGIE DEVELOPPEMENT TRANSPORTS LOGEMENT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8452118045543 </north>
+			<south> 45.8445730629193 </south>
+			<east> 4.73467397055326 </east>
+			<west> 4.73373803972865 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.7339598171218,45.8445730629193,0 4.73393776458114,45.84461771628349,0 4.73396806972839,45.8446429213169,0 4.7339962983733,45.8446635646017,0 4.73402294446666,45.84468306125069,0 4.73405051193173,45.8447113706965,0 4.73407374494579,45.844741187806,0 4.73408990441052,45.844771473778,0 4.73410061399726,45.8448005824152,0 4.73410681070062,45.84483372344639,0 4.73410808990753,45.8448580229474,0 4.73410478115875,45.84488806734241,0 4.73409785139567,45.8449177169677,0 4.73408334824318,45.8449524367463,0 4.73406628021777,45.844979359728,0 4.73403991889471,45.84500993812441,0 4.73401900347017,45.8450292641314,0 4.73398297101501,45.8450555774911,0 4.73394627897046,45.84507730734829,0 4.73390930247941,45.84509408766079,0 4.73386797598802,45.8451077822465,0 4.73382820659654,45.84512181320161,0 4.73381512798041,45.8451280486823,0 4.73379090713737,45.84514472325079,0 4.73376146963316,45.8451717459565,0 4.73373803972865,45.8452012885089,0 4.73387446679017,45.8452118045543,0 4.73388034711888,45.8452102731656,0 4.73389598926711,45.8452076912364,0 4.73390200689932,45.8452064279517,0 4.73392164803795,45.84520396478091,0 4.73393702406056,45.8452011167182,0 4.73394980959131,45.84519785806089,0 4.73396909689738,45.84519233790301,0 4.7339993436494,45.8451828665414,0 4.73401872015246,45.8451760840134,0 4.73404126049307,45.8451674514994,0 4.73406032842298,45.8451590524248,0 4.73411300377461,45.8451332942,0 4.73421513107729,45.84508173708799,0 4.73433656250086,45.8450170033751,0 4.73467397055326,45.8448367249235,0 4.7339598171218,45.8445730629193,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

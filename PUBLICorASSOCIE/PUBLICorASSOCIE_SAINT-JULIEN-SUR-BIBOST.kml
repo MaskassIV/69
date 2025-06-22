@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>SAINT-JULIEN-SUR-BIBOST_PUBLICorASSOCIE</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_9">
+		<name>SAINT-JULIEN-SUR-BIBOST_PUBLICorASSOCIE</name>
+		<Schema name="SAINT-JULIEN-SUR-BIBOST_PUBLICorASSOCIE" id="SAINT-JULIEN-SUR-BIBOST_PUBLICorASSOCIE.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="PUBLICorASSOCIE">
+			<LineStyle>
+				<color>BFdb2105</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4Cdb2105</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.14560">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">692160000B0584</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT-JULIEN-SUR-BIBOST</SimpleData>
+					<SimpleData name="Adresse">EN JAILLY</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">CCOM</SimpleData>
+					<SimpleData name="Denomination">COMMUNAUTE COMMUNES PAYS DE L ARBRESLE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.81655073390341 </north>
+			<south> 45.814881910966 </south>
+			<east> 4.50864094795165 </east>
+			<west> 4.50612978262471 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.50715045552602,45.814881910966,0 4.50612978262471,45.8152293132425,0 4.50663718461503,45.8154860753154,0 4.50677509066038,45.8155600701881,0 4.50697224409424,45.8156717321215,0 4.50738573463127,45.8159371296642,0 4.50756125887252,45.8160396224796,0 4.507684674804,45.8161017409683,0 4.50781260331931,45.8161592957905,0 4.50816494352617,45.8163077014805,0 4.50831315266374,45.8163767834412,0 4.508347609561,45.8163933455321,0 4.50849666713254,45.816469891362,0 4.50864094795165,45.81655073390341,0 4.50838622394113,45.8161755016129,0 4.50836156915077,45.8161499821719,0 4.50823563902466,45.8160477287788,0 4.50786539129335,45.8157529358455,0 4.50748919926365,45.8154620038685,0 4.50741792383706,45.8153470411775,0 4.50715045552602,45.814881910966,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

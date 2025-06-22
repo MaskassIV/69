@@ -1,0 +1,2206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>HAUTE-RIVOIRE_DEPT</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_3">
+		<name>HAUTE-RIVOIRE_DEPT</name>
+		<Schema name="HAUTE-RIVOIRE_DEPT" id="HAUTE-RIVOIRE_DEPT.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="DEPT">
+			<LineStyle>
+				<color>BF63f16c</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C63f16c</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690990000C1025</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">HAUTE-RIVOIRE</SimpleData>
+					<SimpleData name="Adresse">LE POTEAU</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7247229487125 </north>
+			<south> 45.72470668290009 </south>
+			<east> 4.40535499978379 </east>
+			<west> 4.40524518157223 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.40535499978379,45.7247068449352,0 4.40524518157223,45.72470668290009,0 4.40532750544842,45.7247229487125,0 4.40535499978379,45.7247068449352,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.102">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690990000A0309</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">HAUTE-RIVOIRE</SimpleData>
+					<SimpleData name="Adresse">LE PECHER</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7290189586792 </north>
+			<south> 45.7287141337083 </south>
+			<east> 4.4161506436577 </east>
+			<west> 4.41576958126108 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.41578575042601,45.7290189586792,0 4.41580710485568,45.72899914679161,0 4.4158555565536,45.7289728702915,0 4.41592139564393,45.72894763627599,0 4.41597757042112,45.7289266665129,0 4.4160233591752,45.7289018643966,0 4.41605256464989,45.72888231409989,0 4.4160902761987,45.72884842696819,0 4.4161506436577,45.7287752578746,0 4.41610129937829,45.7287616477319,0 4.41609011554357,45.7287668317524,0 4.41600295617464,45.7287428889829,0 4.41591071457373,45.7287213516204,0 4.41586772322372,45.7287147765766,0 4.41583285682481,45.7287141337083,0 4.4158097353929,45.7287603563008,0 4.41579432922834,45.7287814444357,0 4.41577849004615,45.7288107337544,0 4.41577591875774,45.7288308501316,0 4.41578115022708,45.7288493374448,0 4.4157790896271,45.72887935435699,0 4.41577567322837,45.7288965993262,0 4.41576974739904,45.7289112639777,0 4.41576958126108,45.72892486560221,0 4.41577648574373,45.7289383784314,0 4.41578292210761,45.72895369840251,0 4.41578367769191,45.7289781860949,0 4.41578094717792,45.7290121741997,0 4.41578575042601,45.7290189586792,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.182">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690990000A0739</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">HAUTE-RIVOIRE</SimpleData>
+					<SimpleData name="Adresse">AU BRONDEAU</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7258727495763 </north>
+			<south> 45.7255356990547 </south>
+			<east> 4.40573322613369 </east>
+			<west> 4.40530773768302 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.40530773768302,45.7256249952823,0 4.40569851995994,45.7258727495763,0 4.40573322613369,45.7258418755221,0 4.40539072346891,45.7255356990547,0 4.40530773768302,45.7256249952823,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.396">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690990000C1010</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">HAUTE-RIVOIRE</SimpleData>
+					<SimpleData name="Adresse">LES GARENNES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7259208064655 </north>
+			<south> 45.72560111503491 </south>
+			<east> 4.40365232438142 </east>
+			<west> 4.40341065329838 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.40341065329838,45.72588864642709,0 4.40349685371158,45.7259208064655,0 4.40365232438142,45.7257284777586,0 4.40363173186768,45.72560111503491,0 4.40341065329838,45.72588864642709,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.398">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690990000C1011</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">HAUTE-RIVOIRE</SimpleData>
+					<SimpleData name="Adresse">LES GARENNES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7243631494682 </north>
+			<south> 45.7235698753233 </south>
+			<east> 4.40360213015792 </east>
+			<west> 4.40204371047446 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.40253074626249,45.7238165330536,0 4.40263845074032,45.7238703114195,0 4.40277930679087,45.7239383573942,0 4.40290003761434,45.72399872812939,0 4.40304548312885,45.7240651855944,0 4.40319176423585,45.7241341542357,0 4.40328714386396,45.7241835822707,0 4.40338628627872,45.7242495349538,0 4.40359966661444,45.7243631494682,0 4.40360106978361,45.72433737400959,0 4.40360213015792,45.7243183575362,0 4.40340504555826,45.7242236334857,0 4.40320195942311,45.7241254713538,0 4.40301854709891,45.7240374212326,0 4.40275987683571,45.7239124809492,0 4.4024814496737,45.7237791398613,0 4.40204371047446,45.7235698753233,0 4.40211300933996,45.7236050385243,0 4.40253074626249,45.7238165330536,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.401">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690990000C1013</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">HAUTE-RIVOIRE</SimpleData>
+					<SimpleData name="Adresse">LE BRONDEAU</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7264264307841 </north>
+			<south> 45.72588864642709 </south>
+			<east> 4.40349685371158 </east>
+			<west> 4.40302566702085 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.40341065329838,45.72588864642709,0 4.40321750767876,45.7261317889132,0 4.40302566702085,45.7264264307841,0 4.40315374968264,45.7263708889453,0 4.40349685371158,45.7259208064655,0 4.40341065329838,45.72588864642709,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.402">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690990000C1015</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">HAUTE-RIVOIRE</SimpleData>
+					<SimpleData name="Adresse">LE BRONDEAU</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.72681224918309 </north>
+			<south> 45.7263708889453 </south>
+			<east> 4.40315374968264 </east>
+			<west> 4.40272258997405 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.40302566702085,45.7264264307841,0 4.40275864362159,45.7267634367892,0 4.40272258997405,45.72681224918309,0 4.4028744911406,45.7267324545689,0 4.40294774874641,45.72662950164129,0 4.40315374968264,45.7263708889453,0 4.40302566702085,45.7264264307841,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.404">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690990000C1017</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">HAUTE-RIVOIRE</SimpleData>
+					<SimpleData name="Adresse">LE BRONDEAU</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7269403028763 </north>
+			<south> 45.7267324545689 </south>
+			<east> 4.4028744911406 </east>
+			<west> 4.40264588591324 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.40272258997405,45.72681224918309,0 4.40264588591324,45.72691623553099,0 4.40270937839628,45.7269403028763,0 4.4028744911406,45.7267324545689,0 4.40272258997405,45.72681224918309,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.406">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690990000C1019</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">HAUTE-RIVOIRE</SimpleData>
+					<SimpleData name="Adresse">LE POTEAU</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7257284777586 </north>
+			<south> 45.7243183575362 </south>
+			<east> 4.40434294334686 </east>
+			<west> 4.40360106978361 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.40363173186768,45.72560111503491,0 4.40365232438142,45.7257284777586,0 4.40420023718893,45.725008986269,0 4.40429104722787,45.72489356522059,0 4.40431486411829,45.72485922474219,0 4.4043281665052,45.7248361830465,0 4.40433634578008,45.7248088821523,0 4.40434180446691,45.724785848107,0 4.40434294334686,45.724759805738,0 4.40434115358162,45.7247298370858,0 4.40433155165419,45.7247061800968,0 4.40432150642497,45.7246853205798,0 4.40431029284712,45.7246640253024,0 4.40429531838206,45.7246516030401,0 4.40428229219526,45.7246450105946,0 4.40418179872304,45.7245968178974,0 4.40391268862086,45.7244660660815,0 4.40360213015792,45.7243183575362,0 4.40360106978361,45.72433737400959,0 4.40374468482217,45.724407636029,0 4.40383536002524,45.7244540600569,0 4.40387940481114,45.7244820614784,0 4.40392240298129,45.7245093554149,0 4.40398411201767,45.72455442887839,0 4.40407779890578,45.72464854854639,0 4.40422188736005,45.72472726999351,0 4.4042586614374,45.7248132722919,0 4.40418545698234,45.7250042169184,0 4.40394316909666,45.72518042565971,0 4.40363173186768,45.72560111503491,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.427">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690990000C1021</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">HAUTE-RIVOIRE</SimpleData>
+					<SimpleData name="Adresse">LE POTEAU</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.72383931880551 </north>
+			<south> 45.7237635785406 </south>
+			<east> 4.40279746585131 </east>
+			<west> 4.40263188599941 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.40263188599941,45.7237635785406,0 4.40279132472209,45.72383931880551,0 4.40279746585131,45.72383302804501,0 4.4027441822113,45.7238108151439,0 4.40263188599941,45.7237635785406,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.428">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690990000C1022</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">HAUTE-RIVOIRE</SimpleData>
+					<SimpleData name="Adresse">LE POTEAU</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7241521166106 </north>
+			<south> 45.72383302804501 </south>
+			<east> 4.4034966123167 </east>
+			<west> 4.40279132472209 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.40279746585131,45.72383302804501,0 4.40279132472209,45.72383931880551,0 4.4030075863322,45.723944973014,0 4.40324144065159,45.72405473083991,0 4.4034490074264,45.7241521166106,0 4.4034966123167,45.7241380144829,0 4.40347929863027,45.7241296740712,0 4.40337047188003,45.72408239499071,0 4.40323160628162,45.72402189024499,0 4.40313571446787,45.7239776021272,0 4.40290313115822,45.7238773749359,0 4.40279746585131,45.72383302804501,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.429">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690990000C1024</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">HAUTE-RIVOIRE</SimpleData>
+					<SimpleData name="Adresse">LE POTEAU</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.724556155697 </north>
+			<south> 45.7241380144829 </south>
+			<east> 4.40430099557803 </east>
+			<west> 4.4034490074264 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.40430099557803,45.724556155697,0 4.40405649829047,45.7244173521955,0 4.4038707257378,45.72431240100289,0 4.40376046371559,45.7242643295982,0 4.40360439434571,45.7241897195345,0 4.4034966123167,45.7241380144829,0 4.4034490074264,45.7241521166106,0 4.40349781770306,45.7241753755742,0 4.40359609939188,45.7242226057107,0 4.4036626320322,45.7242551005395,0 4.40397319487318,45.7244029889863,0 4.40416405825947,45.7244957181117,0 4.40424824311509,45.7245346573756,0 4.40430099557803,45.724556155697,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.433">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690990000C1027</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">HAUTE-RIVOIRE</SimpleData>
+					<SimpleData name="Adresse">LE POTEAU</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7251972779845 </north>
+			<south> 45.72470003495129 </south>
+			<east> 4.40890753072436 </east>
+			<west> 4.40532750544842 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.4053666568064,45.72470003495129,0 4.40535499978379,45.7247068449352,0 4.40532750544842,45.7247229487125,0 4.40642157209294,45.7248711472217,0 4.40731724370338,45.7249945230856,0 4.40807988433421,45.7250947863239,0 4.40888720507881,45.7251972779845,0 4.40890753072436,45.7251269549332,0 4.40877373979552,45.7251246642389,0 4.40868640289728,45.72512368421389,0 4.40857767668713,45.72511594647661,0 4.40847342446405,45.7251071620421,0 4.40839945457515,45.7250958376628,0 4.40809100497203,45.7250568209613,0 4.40798062654167,45.7250397367384,0 4.40784648993227,45.7250188062271,0 4.40765554486537,45.724988858149,0 4.40756858051872,45.7249772451776,0 4.40734221891009,45.7249400834411,0 4.40703930586197,45.72489117789861,0 4.40681189367649,45.7248531275899,0 4.40660223707884,45.7248205292415,0 4.40639350345778,45.7247888196208,0 4.40609765496237,45.7247445967676,0 4.40605039570061,45.7247419439772,0 4.40589531119515,45.72473153961991,0 4.40568990069923,45.7247192408554,0 4.4053666568064,45.72470003495129,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.512">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690990000C1052</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">HAUTE-RIVOIRE</SimpleData>
+					<SimpleData name="Adresse">HAM CHALANDON</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7134483475742 </north>
+			<south> 45.7133651369136 </south>
+			<east> 4.39261238341738 </east>
+			<west> 4.39247280016001 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.39261238341738,45.71342919098709,0 4.39249005170215,45.7133651369136,0 4.39247280016001,45.7133794898878,0 4.39259268160235,45.7134483475742,0 4.39261238341738,45.71342919098709,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.515">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690990000C1054</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">HAUTE-RIVOIRE</SimpleData>
+					<SimpleData name="Adresse">HAM CHALANDON</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7127627683034 </north>
+			<south> 45.7125313057523 </south>
+			<east> 4.39424266980269 </east>
+			<west> 4.39399618132895 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.39422625726916,45.7127627683034,0 4.39424266980269,45.71275085712391,0 4.39411832383248,45.7126426089818,0 4.39406742948329,45.7125973065842,0 4.39404494808403,45.7125724571898,0 4.39402808153095,45.71255105078339,0 4.39401524220079,45.7125313057523,0 4.39399618132895,45.7125350539562,0 4.39400408617907,45.7125477450758,0 4.39401846093354,45.7125672009288,0 4.39403276081568,45.7125836856394,0 4.39405097755658,45.7126025535908,0 4.39408508555069,45.71263473436729,0 4.39422625726916,45.7127627683034,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.583">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690990000C1088</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">HAUTE-RIVOIRE</SimpleData>
+					<SimpleData name="Adresse">LE POTEAU</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.72464854854639 </north>
+			<south> 45.72433737400959 </south>
+			<east> 4.40407779890578 </east>
+			<west> 4.40359778524721 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.40359778524721,45.72439541540921,0 4.4037419043139,45.72445513379961,0 4.40385248605717,45.7245005894218,0 4.40394463037776,45.72454915657899,0 4.40407779890578,45.72464854854639,0 4.40398411201767,45.72455442887839,0 4.40392240298129,45.7245093554149,0 4.40387940481114,45.7244820614784,0 4.40383536002524,45.7244540600569,0 4.40374468482217,45.724407636029,0 4.40360106978361,45.72433737400959,0 4.40359966661444,45.7243631494682,0 4.40359778524721,45.72439541540921,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.600">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690990000C1090</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">HAUTE-RIVOIRE</SimpleData>
+					<SimpleData name="Adresse">LE POTEAU</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7244173521955 </north>
+			<south> 45.7241161021517 </south>
+			<east> 4.40405649829047 </east>
+			<west> 4.4034966123167 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.40354941958948,45.7241161021517,0 4.40349890557815,45.7241371753646,0 4.4034966123167,45.7241380144829,0 4.40360439434571,45.7241897195345,0 4.40376046371559,45.7242643295982,0 4.4038707257378,45.72431240100289,0 4.40405649829047,45.7244173521955,0 4.4038473399192,45.7242877448198,0 4.40354941958948,45.7241161021517,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.602">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690990000C1092</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">HAUTE-RIVOIRE</SimpleData>
+					<SimpleData name="Adresse">LE POTEAU</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7241380144829 </north>
+			<south> 45.7237984682746 </south>
+			<east> 4.40354941958948 </east>
+			<west> 4.40279746585131 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.40354941958948,45.7241161021517,0 4.40320236947094,45.7239237253931,0 4.40283169308711,45.7237984682746,0 4.40279746585131,45.72383302804501,0 4.40290313115822,45.7238773749359,0 4.40313571446787,45.7239776021272,0 4.40323160628162,45.72402189024499,0 4.40337047188003,45.72408239499071,0 4.40347929863027,45.7241296740712,0 4.4034966123167,45.7241380144829,0 4.40349890557815,45.7241371753646,0 4.40354941958948,45.7241161021517,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.607">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690990000C1094</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">HAUTE-RIVOIRE</SimpleData>
+					<SimpleData name="Adresse">LES GARENNES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.72439541540921 </north>
+			<south> 45.7238165330536 </south>
+			<east> 4.40359966661444 </east>
+			<west> 4.40253074626249 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.40359778524721,45.72439541540921,0 4.40359966661444,45.7243631494682,0 4.40338628627872,45.7242495349538,0 4.40328714386396,45.7241835822707,0 4.40319176423585,45.7241341542357,0 4.40304548312885,45.7240651855944,0 4.40290003761434,45.72399872812939,0 4.40277930679087,45.7239383573942,0 4.40263845074032,45.7238703114195,0 4.40253074626249,45.7238165330536,0 4.40272501523823,45.7239524523628,0 4.4029431676676,45.72410221398069,0 4.40306694529793,45.72416101555619,0 4.40319806859776,45.724220446065,0 4.40335999232383,45.7243028192747,0 4.40346331315372,45.7243459339651,0 4.40359778524721,45.72439541540921,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.612">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690990000C1096</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">HAUTE-RIVOIRE</SimpleData>
+					<SimpleData name="Adresse">LE POTEAU</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.72383302804501 </north>
+			<south> 45.72362292099449 </south>
+			<east> 4.40283721432101 </east>
+			<west> 4.40234067300524 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.40283721432101,45.723793085855,0 4.40242369057415,45.7236514288153,0 4.40234067300524,45.72362292099449,0 4.40252385775389,45.7237122358973,0 4.40263188599941,45.7237635785406,0 4.4027441822113,45.7238108151439,0 4.40279746585131,45.72383302804501,0 4.40283169308711,45.7237984682746,0 4.40283721432101,45.723793085855,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.824">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690990000C1182</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">HAUTE-RIVOIRE</SimpleData>
+					<SimpleData name="Adresse">LES GARENNES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.724445374621 </north>
+			<south> 45.7240353495738 </south>
+			<east> 4.39209763203748 </east>
+			<west> 4.39101279206766 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.39139046443029,45.7240359162357,0 4.39101279206766,45.7244289273447,0 4.39129288232545,45.724445374621,0 4.39164595620427,45.7244443486964,0 4.39179123825369,45.72434132463201,0 4.39189179159075,45.7242697441621,0 4.39196583263818,45.724217674327,0 4.39202639459364,45.7241869356165,0 4.39205039069323,45.7241747510221,0 4.39209763203748,45.72407969190331,0 4.39177196476091,45.7240353495738,0 4.39139046443029,45.7240359162357,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.827">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690990000C1185</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">HAUTE-RIVOIRE</SimpleData>
+					<SimpleData name="Adresse">LES GARENNES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7241747510221 </north>
+			<south> 45.72407969190331 </south>
+			<east> 4.39230627090968 </east>
+			<west> 4.39205039069323 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.39209763203748,45.72407969190331,0 4.39205039069323,45.7241747510221,0 4.39208415856935,45.72416253581169,0 4.39212718403028,45.7241502963264,0 4.39218251591415,45.7241365538996,0 4.39224001945607,45.7241222442481,0 4.39230627090968,45.7241080967078,0 4.39209763203748,45.72407969190331,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.830">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690990000C1188</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">HAUTE-RIVOIRE</SimpleData>
+					<SimpleData name="Adresse">LE BRONDEAU</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.72760018981181 </north>
+			<south> 45.7267611250575 </south>
+			<east> 4.3961994977354 </east>
+			<west> 4.39509951768991 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.39509951768991,45.72686433581281,0 4.39539247325761,45.7270690251152,0 4.39569701866735,45.7272844677901,0 4.39573907646978,45.7273102454048,0 4.39577043254668,45.727334894627,0 4.39581004661786,45.7273657459867,0 4.395837634782,45.727393954291,0 4.3960637658897,45.72760018981181,0 4.39617560463943,45.7275477391853,0 4.3961994977354,45.72753654567801,0 4.39596739836723,45.7273282228261,0 4.39574622204177,45.7271959573685,0 4.39545549437615,45.7269879090595,0 4.39526981969367,45.72684574665049,0 4.39521586177108,45.7267611250575,0 4.39509951768991,45.72686433581281,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.844">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690990000C1190</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">HAUTE-RIVOIRE</SimpleData>
+					<SimpleData name="Adresse">LES GARENNES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.72696370995621 </north>
+			<south> 45.7256536190701 </south>
+			<east> 4.39521586177108 </east>
+			<west> 4.39394411677733 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.39457442421826,45.7256692160005,0 4.39450292070747,45.7256536190701,0 4.39410829311548,45.7259500330525,0 4.39408684151348,45.72598155009799,0 4.39401837767319,45.72609164280701,0 4.39396691515739,45.72616712128891,0 4.39394411677733,45.7262115339265,0 4.39401324115495,45.7261684397527,0 4.39408238769558,45.7260956245669,0 4.39421949719205,45.7264793973298,0 4.39433610062938,45.7266567296524,0 4.39442275564274,45.7267478820386,0 4.3945029875289,45.7268239832797,0 4.39458535734666,45.7268981667017,0 4.39465252057274,45.7269506529518,0 4.39498024734797,45.72696370995621,0 4.39509951768991,45.72686433581281,0 4.39521586177108,45.7267611250575,0 4.3950760465197,45.72661191024451,0 4.39482622154129,45.7261950391148,0 4.39461232734034,45.7258872392508,0 4.39457442421826,45.7256692160005,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.845">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690990000C1193</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">HAUTE-RIVOIRE</SimpleData>
+					<SimpleData name="Adresse">LES GARENNES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7259500330525 </north>
+			<south> 45.7252858686367 </south>
+			<east> 4.39457442421826 </east>
+			<west> 4.39410829311548 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.39457442421826,45.7256692160005,0 4.39453864576827,45.72546404542889,0 4.39441752228255,45.7252858686367,0 4.39436305396609,45.7254511770159,0 4.39437394633276,45.7254751790928,0 4.39437403431198,45.7254888675368,0 4.39437481669352,45.7255147959205,0 4.39437053968074,45.72554916271741,0 4.39435484814121,45.7255796178796,0 4.39433277904733,45.7256121333023,0 4.39427708888383,45.7256882046017,0 4.39410829311548,45.7259500330525,0 4.39450292070747,45.7256536190701,0 4.39457442421826,45.7256692160005,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.848">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690990000C1195</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">HAUTE-RIVOIRE</SimpleData>
+					<SimpleData name="Adresse">LES GARENNES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7254229693478 </north>
+			<south> 45.7243935429603 </south>
+			<east> 4.39439420100753 </east>
+			<west> 4.39346686611568 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.39439420100753,45.72527381851959,0 4.39424234287815,45.72507512717279,0 4.39410848758399,45.72496312350639,0 4.39402852738446,45.7248874689873,0 4.39387302657043,45.7247278193721,0 4.39366845949937,45.7245804843318,0 4.39359328259404,45.7243935429603,0 4.39355820858532,45.7244763839209,0 4.39352018098824,45.724579795675,0 4.39349287626775,45.72464948148029,0 4.39347302796426,45.7247088980228,0 4.39346686611568,45.7247501328411,0 4.39347316581173,45.724785809856,0 4.39348234951501,45.7248185692141,0 4.39349363160669,45.724858057334,0 4.39352362279026,45.7249102832036,0 4.39357256513381,45.72497974695089,0 4.39362580711905,45.7250412320066,0 4.3936883712031,45.7250950365212,0 4.39374449878351,45.7251332496729,0 4.39385782391983,45.72518579605,0 4.39393739442548,45.7252204769833,0 4.39404743955648,45.7252653183406,0 4.39414290125651,45.72530295480869,0 4.3942116391045,45.7253312850074,0 4.3942700136468,45.7253565911479,0 4.39431668516361,45.7253920389724,0 4.39434266854798,45.7254229693478,0 4.39439420100753,45.72527381851959,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.852">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690990000C1197</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">HAUTE-RIVOIRE</SimpleData>
+					<SimpleData name="Adresse">LE BRONDEAU</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.72842704265241 </north>
+			<south> 45.7275477391853 </south>
+			<east> 4.39697624745266 </east>
+			<west> 4.3960637658897 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.3960637658897,45.72760018981181,0 4.39618598081019,45.7277142267862,0 4.39633040273431,45.72785212540051,0 4.3965079362967,45.7280230269577,0 4.39668831175375,45.72818929984059,0 4.39683292158623,45.7283294470876,0 4.39693003386343,45.72842704265241,0 4.39697624745266,45.7282202262293,0 4.39671142145028,45.7279790772012,0 4.39658552771988,45.7278060051709,0 4.39640901775716,45.7276756193093,0 4.39636782514098,45.7276484802785,0 4.39617560463943,45.7275477391853,0 4.3960637658897,45.72760018981181,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.889">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690990000C1203</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">HAUTE-RIVOIRE</SimpleData>
+					<SimpleData name="Adresse">LE BRONDEAU</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7284724311574 </north>
+			<south> 45.7283775096987 </south>
+			<east> 4.40093622848758 </east>
+			<west> 4.40012003319079 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.40012003319079,45.7284183608928,0 4.40020544326569,45.7284395456263,0 4.40026478335789,45.7284519577629,0 4.40031455332524,45.728462237171,0 4.40035739811203,45.7284681895003,0 4.40040019958456,45.7284724311574,0 4.40045598609165,45.728471467972,0 4.40050105455359,45.7284687465894,0 4.40053533342164,45.7284665194825,0 4.4005723105343,45.72845912526061,0 4.40062849806655,45.7284486103449,0 4.40073256793911,45.72842462148401,0 4.40093622848758,45.7283775096987,0 4.40060249378141,45.7284170511707,0 4.40031677225346,45.72842798572641,0 4.40027106419323,45.7284257615234,0 4.40018350020386,45.7284210850923,0 4.40012003319079,45.7284183608928,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.892">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690990000C1205</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">HAUTE-RIVOIRE</SimpleData>
+					<SimpleData name="Adresse">LE BRONDEAU</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7274529658849 </north>
+			<south> 45.72691623553099 </south>
+			<east> 4.40270937839628 </east>
+			<west> 4.40230920981283 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.40230920981283,45.7274529658849,0 4.40270937839628,45.7269403028763,0 4.40264588591324,45.72691623553099,0 4.40250313270365,45.72714379927611,0 4.40230920981283,45.7274529658849,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.896">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690990000C1207</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">HAUTE-RIVOIRE</SimpleData>
+					<SimpleData name="Adresse">LE BRONDEAU</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.72882729395219 </north>
+			<south> 45.728258561906 </south>
+			<east> 4.39851263314149 </east>
+			<west> 4.39695209075027 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.39699329044437,45.728258561906,0 4.39695209075027,45.72844496201899,0 4.39701784523062,45.72848224376239,0 4.39707365553223,45.7285076703523,0 4.3971943127948,45.7285548089435,0 4.39731820350497,45.7286077614121,0 4.3974001622462,45.7286399787,0 4.3974706738477,45.7286670241242,0 4.39754779082239,45.7286908354229,0 4.39759658666102,45.7287032896105,0 4.39766850113941,45.7287196901116,0 4.39775176845556,45.7287324373608,0 4.39785640700747,45.728751223956,0 4.39792955138072,45.7287603139554,0 4.39809075735042,45.72877848894359,0 4.39830507686692,45.72880185900961,0 4.39851263314149,45.72882729395219,0 4.39849611022742,45.72874347031579,0 4.39839349563415,45.7287386189421,0 4.39832226590388,45.7287289651178,0 4.39826689421167,45.7287209158178,0 4.39823254558155,45.7287153076329,0 4.39815119849577,45.7286971331546,0 4.3980608160758,45.7286776296632,0 4.39799837949585,45.7286648044543,0 4.39796606615911,45.7286532268049,0 4.39788934383079,45.72862977114849,0 4.39781735084582,45.72860517604759,0 4.39772165003182,45.72857366981621,0 4.39762089351118,45.7285354714729,0 4.3975413750896,45.7285031340314,0 4.39742503622027,45.7284538708361,0 4.39732440072451,45.7284102669659,0 4.39721652873562,45.72836017811269,0 4.39699329044437,45.728258561906,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.897">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690990000C1209</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">HAUTE-RIVOIRE</SimpleData>
+					<SimpleData name="Adresse">LE BRONDEAU</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7288359872752 </north>
+			<south> 45.72867265885941 </south>
+			<east> 4.39962275775136 </east>
+			<west> 4.39854212113581 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.39854212113581,45.7287474927401,0 4.39856348726333,45.7288346786744,0 4.39861045839003,45.7288359872752,0 4.39866336010686,45.7288328092003,0 4.39870662004396,45.7288297507259,0 4.39876014403641,45.72882575431951,0 4.39881816068189,45.7288214319547,0 4.39888427057693,45.72881169542839,0 4.3989401756195,45.72880523769459,0 4.39900280532588,45.72879518403261,0 4.39906700958426,45.7287863716748,0 4.39915413664947,45.7287737623389,0 4.39925143983058,45.72875166009739,0 4.39938610149414,45.7287219790828,0 4.39962275775136,45.72867265885941,0 4.39953926338515,45.7286814408241,0 4.39948573047387,45.7286850774621,0 4.39936495367913,45.7286993656295,0 4.39916823756378,45.72872117076691,0 4.39899109252977,45.72873885999221,0 4.39891942618847,45.72874245119699,0 4.39876205117949,45.7287486368832,0 4.39866813412064,45.7287470101686,0 4.39854212113581,45.7287474927401,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.999">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690990000C1265</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">HAUTE-RIVOIRE</SimpleData>
+					<SimpleData name="Adresse">LE BRONDEAU</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7272844677901 </north>
+			<south> 45.72686433581281 </south>
+			<east> 4.39569701866735 </east>
+			<west> 4.39465252057274 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.39503578790608,45.7271722383995,0 4.39509950899572,45.727180005809,0 4.39517985209242,45.72718909853609,0 4.39526117820657,45.727196377785,0 4.39533496059138,45.7272053714768,0 4.39543378458661,45.727218107975,0 4.3955351647517,45.72723531588121,0 4.3956280055887,45.7272606449987,0 4.39569701866735,45.7272844677901,0 4.39539247325761,45.7270690251152,0 4.39509951768991,45.72686433581281,0 4.39498024734797,45.72696370995621,0 4.39465252057274,45.7269506529518,0 4.39479441799587,45.7270396806243,0 4.39503578790608,45.7271722383995,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3879">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690990000A0352</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">HAUTE-RIVOIRE</SimpleData>
+					<SimpleData name="Adresse">AU BRONDEAU</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.72626283832151 </north>
+			<south> 45.7255273683693 </south>
+			<east> 4.40402033476656 </east>
+			<west> 4.40337604306699 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.40394876266837,45.7255273683693,0 4.40389459695603,45.7255971211951,0 4.40337604306699,45.72626283832151,0 4.4035560446052,45.7262364604896,0 4.40375141949379,45.726207819489,0 4.403868387238,45.72613998654819,0 4.40395608405927,45.7260740491003,0 4.40398103925334,45.7260490610648,0 4.40402033476656,45.7260013786921,0 4.40398927740076,45.72579615187751,0 4.40394876266837,45.7255273683693,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.5742">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690990000D0677</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">HAUTE-RIVOIRE</SimpleData>
+					<SimpleData name="Adresse">LES PREBENDES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7239947806497 </north>
+			<south> 45.723749458189 </south>
+			<east> 4.3877867118251 </east>
+			<west> 4.38748609526848 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.3877867118251,45.7239947806497,0 4.38758705023704,45.7237859517523,0 4.38748609526848,45.723749458189,0 4.38752295343246,45.7237886320419,0 4.38760416849553,45.7238685985967,0 4.3876806413825,45.7239542974155,0 4.3877224059773,45.7239686436011,0 4.3877867118251,45.7239947806497,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.5746">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690990000D0678</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">HAUTE-RIVOIRE</SimpleData>
+					<SimpleData name="Adresse">LES PREBENDES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.72424739160849 </north>
+			<south> 45.72376592494899 </south>
+			<east> 4.38846416112708 </east>
+			<west> 4.38756777428526 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.38846416112708,45.7240688457074,0 4.38756777428526,45.72376592494899,0 4.38758705023704,45.7237859517523,0 4.3877867118251,45.7239947806497,0 4.3878668361864,45.7240312602297,0 4.38795385269404,45.72407080708409,0 4.38804844279485,45.7241200774373,0 4.38814446741566,45.7241701406115,0 4.38822353960057,45.724215909347,0 4.38827795043241,45.72424739160849,0 4.38846416112708,45.7240688457074,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.5769">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690990000D0681</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">HAUTE-RIVOIRE</SimpleData>
+					<SimpleData name="Adresse">LES PREBENDES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7239542974155 </north>
+			<south> 45.7227217481822 </south>
+			<east> 4.3876806413825 </east>
+			<west> 4.38464879967065 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.38472535519674,45.7227217481822,0 4.38464879967065,45.7227403408341,0 4.385149031119,45.7231630727791,0 4.38522634263223,45.7232259770786,0 4.3852937405841,45.7232781055928,0 4.38537244156419,45.7233297349062,0 4.38545852159163,45.7233782113482,0 4.38555441851056,45.7234233248122,0 4.38563451120069,45.7234535019615,0 4.38570524491462,45.72347451766321,0 4.38578477839999,45.7234977667673,0 4.38590489169797,45.72352916291611,0 4.38612351616644,45.7235816831504,0 4.38649712021427,45.7236714740651,0 4.38675359927951,45.7237310927373,0 4.38722850895576,45.7238353958936,0 4.38734177228001,45.7238602101988,0 4.38745302641016,45.72388694043489,0 4.38755274540526,45.7239151634885,0 4.38761829341772,45.7239344405864,0 4.3876806413825,45.7239542974155,0 4.38760416849553,45.7238685985967,0 4.38752295343246,45.7237886320419,0 4.38748609526848,45.723749458189,0 4.38746755675467,45.723728071354,0 4.38731676888408,45.7236836350491,0 4.38718558826285,45.72365192627111,0 4.3870064510544,45.7236101800433,0 4.3868407145724,45.7235746631093,0 4.38664717645514,45.7235380469284,0 4.38652817698379,45.7235151938064,0 4.38637187915475,45.7234868551597,0 4.38626027026128,45.72347156617881,0 4.38608288699885,45.7234535734392,0 4.38588814518489,45.7233894116336,0 4.38574989811007,45.7233322103245,0 4.38562354053322,45.7232722508901,0 4.38543167959501,45.7231793229553,0 4.38526623622017,45.7230835483103,0 4.38513696608392,45.7230048010722,0 4.38496248519537,45.7228818481065,0 4.38480854259734,45.7227728724464,0 4.38472535519674,45.7227217481822,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.5777">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690990000D0684</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">HAUTE-RIVOIRE</SimpleData>
+					<SimpleData name="Adresse">LES PREBENDES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.724335100482 </north>
+			<south> 45.7240688457074 </south>
+			<east> 4.38928523822548 </east>
+			<west> 4.38827795043241 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.38928523822548,45.7242502024937,0 4.3891901555859,45.7242376847725,0 4.3890686730902,45.7242184674032,0 4.38895882544387,45.7242017183613,0 4.38884917130134,45.7241773115086,0 4.38875013719653,45.7241559259066,0 4.38864565641991,45.72412758243279,0 4.3885378897513,45.7240963973356,0 4.38846416112708,45.7240688457074,0 4.38827795043241,45.72424739160849,0 4.38830804930171,45.7242631421261,0 4.38834628731731,45.7242804135206,0 4.38838458156914,45.72429480220709,0 4.38844603234375,45.724309626167,0 4.38852837976295,45.7243219411337,0 4.38861049919595,45.7243302960951,0 4.38865559232039,45.72433379342869,0 4.38873226274945,45.724335100482,0 4.38879971591265,45.724332918537,0 4.3888778833359,45.72432727222831,0 4.38896139769611,45.7243194885435,0 4.38902149616938,45.7243111827666,0 4.38908918077931,45.72429773997109,0 4.38917024967242,45.7242796290661,0 4.38923335138721,45.72426291034341,0 4.38928523822548,45.7242502024937,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.5784">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690990000D0686</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">HAUTE-RIVOIRE</SimpleData>
+					<SimpleData name="Adresse">LES PREBENDES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7244534168324 </north>
+			<south> 45.7240476188301 </south>
+			<east> 4.39128146077831 </east>
+			<west> 4.39059027393518 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.39059027393518,45.7240665946953,0 4.3906044030008,45.7242296138817,0 4.39088932169031,45.7244534168324,0 4.39106967890036,45.7242725070625,0 4.39128146077831,45.7240476188301,0 4.39059027393518,45.7240665946953,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.5790">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690990000D0688</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">HAUTE-RIVOIRE</SimpleData>
+					<SimpleData name="Adresse">LES PREBENDES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7242296138817 </north>
+			<south> 45.72403555135641 </south>
+			<east> 4.3906044030008 </east>
+			<west> 4.39036163902079 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.39036163902079,45.72403555135641,0 4.39037515365575,45.72405141581341,0 4.39039092780022,45.7240650908967,0 4.39043410009114,45.7240995927527,0 4.3906044030008,45.7242296138817,0 4.39059027393518,45.7240665946953,0 4.39048465201576,45.7240696087873,0 4.39036163902079,45.72403555135641,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.5883">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690990000D0708</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">HAUTE-RIVOIRE</SimpleData>
+					<SimpleData name="Adresse">LES PREBENDES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7227403408341 </north>
+			<south> 45.7225925015373 </south>
+			<east> 4.38472535519674 </east>
+			<west> 4.38451968942095 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.38453528867128,45.7225925015373,0 4.38452259187085,45.7226246296731,0 4.38451968942095,45.7226319603847,0 4.38453846553862,45.7226474907036,0 4.38464879967065,45.7227403408341,0 4.38472535519674,45.7227217481822,0 4.38453528867128,45.7225925015373,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.5966">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690990000A0728</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">HAUTE-RIVOIRE</SimpleData>
+					<SimpleData name="Adresse">TORANCHE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.72500013674959 </north>
+			<south> 45.7248048604837 </south>
+			<east> 4.41203379309477 </east>
+			<west> 4.41039914376458 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.41039914376458,45.72500013674959,0 4.41048284649976,45.72497963585191,0 4.41068363288744,45.7249416385366,0 4.41081828151846,45.7249170774388,0 4.41095956645117,45.7249006288525,0 4.41108097250142,45.72489127371781,0 4.41127245065262,45.7248815815966,0 4.41154223923922,45.7248668557577,0 4.41203189153942,45.72484117971861,0 4.41203379309477,45.7248048604837,0 4.41180862676364,45.7248146155697,0 4.41150586374554,45.7248271431127,0 4.41126563651265,45.7248362751271,0 4.41097061825677,45.7248499651532,0 4.41074821076889,45.7248620252243,0 4.4106636014473,45.7248721804178,0 4.41059940134912,45.724885952872,0 4.41053416836258,45.72490964514769,0 4.41048950523002,45.72493317007221,0 4.41043688139029,45.7249672418946,0 4.41039914376458,45.72500013674959,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.5985">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690990000A0730</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">HAUTE-RIVOIRE</SimpleData>
+					<SimpleData name="Adresse">AU BRONDEAU</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.72531608920439 </north>
+			<south> 45.7251584931343 </south>
+			<east> 4.40892828105406 </east>
+			<west> 4.40775943041972 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.40777443583193,45.7251584931343,0 4.40775943041972,45.7252105568016,0 4.40817813555945,45.7252668402228,0 4.40832790307132,45.7252855036227,0 4.40845652694506,45.7252969557719,0 4.4085910755705,45.72530878405789,0 4.40869117564904,45.72531608920439,0 4.40882141135811,45.72531509210259,0 4.40892828105406,45.7253155577103,0 4.40777443583193,45.7251584931343,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.5989">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690990000A0732</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">HAUTE-RIVOIRE</SimpleData>
+					<SimpleData name="Adresse">AU BRONDEAU</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7260702934696 </north>
+			<south> 45.7254575120622 </south>
+			<east> 4.40617225623746 </east>
+			<west> 4.40546449223004 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.40617225623746,45.7260702934696,0 4.40550729606902,45.7254575120622,0 4.40549053127073,45.7254657366865,0 4.40546449223004,45.7254783999577,0 4.40568787443291,45.7256765451064,0 4.40583440659786,45.7258056693373,0 4.40601971436165,45.725952682608,0 4.40617225623746,45.7260702934696,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.5992">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690990000A0733</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">HAUTE-RIVOIRE</SimpleData>
+					<SimpleData name="Adresse">AU BRONDEAU</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7252105568016 </north>
+			<south> 45.72498383171429 </south>
+			<east> 4.40777443583193 </east>
+			<west> 4.40638928071875 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.40638928071875,45.725027268938,0 4.40775943041972,45.7252105568016,0 4.40777443583193,45.7251584931343,0 4.40647805944423,45.72498383171429,0 4.40638928071875,45.725027268938,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.5997">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690990000A0735</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">HAUTE-RIVOIRE</SimpleData>
+					<SimpleData name="Adresse">AU BRONDEAU</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7261714510075 </north>
+			<south> 45.72587242628591 </south>
+			<east> 4.40613935136838 </east>
+			<west> 4.40574537394102 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.40574537394102,45.7259049482259,0 4.40609870248668,45.7261714510075,0 4.40613935136838,45.7261467170468,0 4.40578222425816,45.72587242628591,0 4.40574537394102,45.7259049482259,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6001">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690990000A0737</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">HAUTE-RIVOIRE</SimpleData>
+					<SimpleData name="Adresse">AU BRONDEAU</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7256249952823 </north>
+			<south> 45.7250263796721 </south>
+			<east> 4.40539072346891 </east>
+			<west> 4.40451265956897 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.40451265956897,45.7254020014017,0 4.4045850885556,45.72536786575229,0 4.4046556362937,45.7253457318649,0 4.40468839153229,45.7253392894975,0 4.40471961285554,45.72533827001,0 4.40475990988078,45.72534524308089,0 4.40479206442447,45.7253556499352,0 4.40484119381678,45.7253711589511,0 4.40494648262953,45.7254156888059,0 4.40506243299116,45.7254749460618,0 4.40517572710801,45.725540991032,0 4.40530773768302,45.7256249952823,0 4.40539072346891,45.7255356990547,0 4.40482099051425,45.7250263796721,0 4.40451265956897,45.7254020014017,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6023">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690990000A0741</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">HAUTE-RIVOIRE</SimpleData>
+					<SimpleData name="Adresse">AU BRONDEAU</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.72579615187751 </north>
+			<south> 45.7248400247952 </south>
+			<east> 4.40482099051425 </east>
+			<west> 4.40394876266837 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.40482099051425,45.7250263796721,0 4.40461257261586,45.7248400247952,0 4.40443337593859,45.7249029598894,0 4.40394876266837,45.7255273683693,0 4.40398927740076,45.72579615187751,0 4.40408795037609,45.725711794846,0 4.4041620908896,45.7256488180266,0 4.40427256700407,45.7255634131771,0 4.40437485807697,45.7254899084267,0 4.40444129268662,45.7254425182382,0 4.40448174233716,45.7254149954106,0 4.40451265956897,45.7254020014017,0 4.40482099051425,45.7250263796721,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6029">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690990000A0743</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">HAUTE-RIVOIRE</SimpleData>
+					<SimpleData name="Adresse">AU BRONDEAU</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7267072222315 </north>
+			<south> 45.7262364604896 </south>
+			<east> 4.4035560446052 </east>
+			<west> 4.40304550516371 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.40310724642348,45.7267072222315,0 4.40340416661106,45.7263930794138,0 4.4035560446052,45.7262364604896,0 4.40337604306699,45.72626283832151,0 4.40330617885716,45.7263525100529,0 4.40304550516371,45.7266862855175,0 4.40310724642348,45.7267072222315,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6034">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690990000A0745</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">HAUTE-RIVOIRE</SimpleData>
+					<SimpleData name="Adresse">AU BRONDEAU</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7270050620412 </north>
+			<south> 45.7266862855175 </south>
+			<east> 4.40310724642348 </east>
+			<west> 4.40281184717537 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.40286829061311,45.7270050620412,0 4.40288347900825,45.72698028586179,0 4.40305890508129,45.7267734797504,0 4.40310724642348,45.7267072222315,0 4.40304550516371,45.7266862855175,0 4.40281184717537,45.7269851400228,0 4.40286829061311,45.7270050620412,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6037">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690990000A0747</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">HAUTE-RIVOIRE</SimpleData>
+					<SimpleData name="Adresse">AU BRONDEAU</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7254783999577 </north>
+			<south> 45.7247526138467 </south>
+			<east> 4.40647805944423 </east>
+			<west> 4.40471300127955 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.40546449223004,45.7254783999577,0 4.40549053127073,45.7254657366865,0 4.40523343084577,45.7252259521051,0 4.40525023611099,45.7251181174131,0 4.40553787552389,45.7249506168373,0 4.40576699723443,45.72495982825101,0 4.40604665979384,45.7249894835477,0 4.40638928071875,45.725027268938,0 4.40647805944423,45.72498383171429,0 4.4056069260518,45.724864556327,0 4.40522264712166,45.72481170699441,0 4.40481172120684,45.7247526138467,0 4.40471300127955,45.72480463953931,0 4.40546449223004,45.7254783999577,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6271">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690990000A0816</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">HAUTE-RIVOIRE</SimpleData>
+					<SimpleData name="Adresse">AU BRONDEAU</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.72798123284489 </north>
+			<south> 45.7269851400228 </south>
+			<east> 4.40286829061311 </east>
+			<west> 4.40203018057508 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.40234422864427,45.727860244956,0 4.40245786683389,45.727701491437,0 4.40253758724117,45.7275744116032,0 4.40258967890253,45.7274886540764,0 4.40267909602774,45.7273383073295,0 4.40286829061311,45.7270050620412,0 4.40281184717537,45.7269851400228,0 4.40203018057508,45.72798123284489,0 4.40234422864427,45.727860244956,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6274">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690990000A0819</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">HAUTE-RIVOIRE</SimpleData>
+					<SimpleData name="Adresse">CHEZ DEMARE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.72771488452651 </north>
+			<south> 45.727310113565 </south>
+			<east> 4.39601650965493 </east>
+			<west> 4.39533503172691 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.39601650965493,45.72771488452651,0 4.39593859391672,45.727644069339,0 4.3957866070086,45.7275069844103,0 4.39572100285719,45.7274552000117,0 4.39566918329983,45.7274145928263,0 4.39561018623278,45.7273800186158,0 4.3955662637562,45.7273567857934,0 4.3955232898694,45.727340566106,0 4.39547069135108,45.72733022955781,0 4.39541099741408,45.72731899012279,0 4.39533503172691,45.727310113565,0 4.3953581401251,45.72732387732921,0 4.39601650965493,45.72771488452651,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6295">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690990000A0822</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">HAUTE-RIVOIRE</SimpleData>
+					<SimpleData name="Adresse">AUX PREBENDES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7259485475026 </north>
+			<south> 45.725286164873 </south>
+			<east> 4.39416569571781 </east>
+			<west> 4.39367234776256 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.39367234776256,45.7254031589825,0 4.39392818095885,45.7255997548907,0 4.39393710171676,45.7259485475026,0 4.39397969964566,45.72589380301,0 4.39400868725359,45.72585516790469,0 4.39403795070132,45.7258070727962,0 4.39406837104795,45.7257589633728,0 4.3941038167457,45.7257010650208,0 4.39413323188234,45.72564369155109,0 4.39415364107703,45.72559633635051,0 4.39416086124771,45.7255613927882,0 4.39416569571781,45.72552873029809,0 4.39416491032873,45.7254975783143,0 4.39415674625784,45.72546957971739,0 4.39414069158784,45.7254448308996,0 4.39410552993911,45.72541707611789,0 4.39405192905863,45.7253872977867,0 4.39378911552549,45.725286164873,0 4.39367234776256,45.7254031589825,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6298">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690990000A0824</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">HAUTE-RIVOIRE</SimpleData>
+					<SimpleData name="Adresse">AUX PREBENDES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7249091058903 </north>
+			<south> 45.7241090622736 </south>
+			<east> 4.39035664272551 </east>
+			<west> 4.38956582459717 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.39035132674605,45.7249091058903,0 4.39035622211882,45.7248532066828,0 4.39035664272551,45.72479321978511,0 4.3903527733828,45.7247518387,0 4.39034522370094,45.7247123943223,0 4.39033407744166,45.7246782179354,0 4.39031893991147,45.7246489541557,0 4.3903021624939,45.7246158379066,0 4.39026883001856,45.7245635623663,0 4.39023903043627,45.7245239420767,0 4.39021823466058,45.7244946580041,0 4.39020528753707,45.7244706808922,0 4.39018933358179,45.7244396259131,0 4.39017753794898,45.7244051873337,0 4.39017154551136,45.7243765312575,0 4.39016739481024,45.72433929651961,0 4.39017164990911,45.7243090730668,0 4.39017876425134,45.7242749416601,0 4.3901874297308,45.7242360178048,0 4.39020016162072,45.7242002860542,0 4.3902171766539,45.72414567839169,0 4.39021149657537,45.7241294471077,0 4.39019513404693,45.72411794075881,0 4.39015758901765,45.724112909956,0 4.39011904504763,45.7241090622736,0 4.39004136961321,45.7241138027551,0 4.38998711448235,45.724119245087,0 4.38993958900776,45.7241264056671,0 4.38990443112253,45.72413449448799,0 4.38985657246598,45.72414886415,0 4.38976590728178,45.72418420575961,0 4.38956582459717,45.7242557503532,0 4.38960033577632,45.7244214904482,0 4.38998433638585,45.7244333276885,0 4.39005617743645,45.7244982776017,0 4.39008655171326,45.7245351889724,0 4.39009331856184,45.7245486149204,0 4.39009169769586,45.7245557498551,0 4.39008686586681,45.7245681480176,0 4.39011136188914,45.7246167499477,0 4.39015079030304,45.7246711118615,0 4.39019133724567,45.7247239289041,0 4.39025049842372,45.7247959698957,0 4.39035132674605,45.7249091058903,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6304">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690990000A0826</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">HAUTE-RIVOIRE</SimpleData>
+					<SimpleData name="Adresse">AUX PREBENDES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7244300153172 </north>
+			<south> 45.7242557503532 </south>
+			<east> 4.38960033577632 </east>
+			<west> 4.38907113079084 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.38956582459717,45.7242557503532,0 4.38943830087535,45.7243031641152,0 4.38934968926938,45.7243332564411,0 4.38926790147974,45.724358581343,0 4.38920595206476,45.7243751057582,0 4.38914777986161,45.724388431401,0 4.38907113079084,45.724403335634,0 4.38917904236485,45.7244300153172,0 4.38923776347606,45.7244283009699,0 4.38932710326911,45.72442206634991,0 4.38941378427359,45.7244174855567,0 4.38946964339716,45.72441445542459,0 4.38960033577632,45.7244214904482,0 4.38956582459717,45.7242557503532,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6308">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690990000A0828</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">HAUTE-RIVOIRE</SimpleData>
+					<SimpleData name="Adresse">AUX PREBENDES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.72442123536461 </north>
+			<south> 45.724170681533 </south>
+			<east> 4.39065808463552 </east>
+			<west> 4.39025725533231 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.39065808463552,45.72442123536461,0 4.39035217453029,45.7241858925469,0 4.39034155627915,45.7241778278116,0 4.39032571969198,45.7241718988768,0 4.39031488784086,45.724170681533,0 4.39030448964148,45.7241764837242,0 4.39028895279796,45.7241927064927,0 4.39027689396552,45.7242142901213,0 4.39026485417861,45.7242468611537,0 4.3902577625281,45.7242818929128,0 4.39025725533231,45.72433332492569,0 4.39025891796017,45.7243636555244,0 4.39026221548356,45.72439252495809,0 4.39027106948227,45.724417363108,0 4.39065808463552,45.72442123536461,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6328">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690990000A0830</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">HAUTE-RIVOIRE</SimpleData>
+					<SimpleData name="Adresse">AU BRONDEAU</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7284553768106 </north>
+			<south> 45.72792375842739 </south>
+			<east> 4.40230648921198 </east>
+			<west> 4.40131943295794 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.40146094616973,45.7284553768106,0 4.40183553408019,45.7283026561365,0 4.40207750863275,45.7281487916355,0 4.40230648921198,45.72792375842739,0 4.40199090488707,45.7280450355001,0 4.40194702467241,45.7281047525095,0 4.40190120224143,45.7281487326494,0 4.40185355257136,45.728191654737,0 4.40178826105087,45.72823362535391,0 4.40174691113459,45.7282562049134,0 4.40167467057114,45.7282827710526,0 4.40160406083984,45.7283026522162,0 4.40152249795587,45.7283267223348,0 4.40131943295794,45.7283719364644,0 4.40146094616973,45.7284553768106,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6332">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690990000A0832</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">HAUTE-RIVOIRE</SimpleData>
+					<SimpleData name="Adresse">CHEZ DEMARE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.72895740057219 </north>
+			<south> 45.7288347299814 </south>
+			<east> 4.39856620543226 </east>
+			<west> 4.39781865285573 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.39781865285573,45.7288347299814,0 4.39794785413473,45.7288687928021,0 4.39810998789825,45.7289083912101,0 4.39824822815039,45.7289286520456,0 4.39836820531522,45.7289437354795,0 4.39846601708472,45.7289518887204,0 4.39856620543226,45.72895740057219,0 4.39855340124502,45.7289189224679,0 4.39849534556795,45.7289115370132,0 4.39842827496603,45.7289036329148,0 4.39834686745808,45.72889833830489,0 4.39826110829757,45.72888877459501,0 4.39813366131027,45.7288732433121,0 4.39806572505288,45.7288667006771,0 4.39800668428894,45.7288610383819,0 4.39794330782983,45.7288517372445,0 4.39788450372356,45.7288452613859,0 4.39781865285573,45.7288347299814,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6336">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690990000A0834</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">HAUTE-RIVOIRE</SimpleData>
+					<SimpleData name="Adresse">CHEZ DEMARE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7289650916471 </north>
+			<south> 45.728630852776 </south>
+			<east> 4.40018984067507 </east>
+			<west> 4.39859461925088 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.39860778864371,45.7289592263301,0 4.3987230318871,45.7289650916471,0 4.39895704231712,45.728953451928,0 4.39914450581868,45.72894202916541,0 4.39929622675101,45.7289258260938,0 4.39943214417985,45.72891017924421,0 4.39985703879711,45.728819074182,0 4.3999087765703,45.7287902420643,0 4.40018984067507,45.728630852776,0 4.40009913411289,45.728649361458,0 4.39992113849894,45.7286893082368,0 4.39968431192618,45.7287420535914,0 4.39932485959985,45.72882243881559,0 4.3991146009021,45.728868098473,0 4.39904859121214,45.7288817966548,0 4.39897474178258,45.7288956821465,0 4.39889567714141,45.7289067502927,0 4.39880773620115,45.7289126148125,0 4.39871306471935,45.728916761513,0 4.39859461925088,45.7289215633262,0 4.39860778864371,45.7289592263301,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6340">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690990000A0836</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">HAUTE-RIVOIRE</SimpleData>
+					<SimpleData name="Adresse">CHEZ DEMARE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7290417140019 </north>
+			<south> 45.7283946377298 </south>
+			<east> 4.40192453553819 </east>
+			<west> 4.39952193773298 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.39952193773298,45.72903848486351,0 4.39953024972461,45.7290417140019,0 4.40065470868736,45.72879799877241,0 4.40123291407241,45.728773881708,0 4.40152635520487,45.72870214650279,0 4.40192453553819,45.728734301532,0 4.40182595443631,45.7286958096654,0 4.40175389188522,45.7286634725126,0 4.40123204832781,45.7283946377298,0 4.40044583659013,45.7285683215574,0 4.40038503368663,45.72858447760879,0 4.40034977014963,45.7285986051965,0 4.4000442339761,45.7287767616913,0 4.39991545060591,45.728850681419,0 4.39981145155393,45.7289079918839,0 4.39972888766566,45.7289484645513,0 4.3995911710836,45.72900988601611,0 4.39952193773298,45.72903848486351,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6444">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690990000C0087</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">HAUTE-RIVOIRE</SimpleData>
+					<SimpleData name="Adresse">LE POTEAU</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7253077576861 </north>
+			<south> 45.724865812653 </south>
+			<east> 4.4101362018709 </east>
+			<west> 4.40888720507881 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.4089835597191,45.724865812653,0 4.40890753072436,45.7251269549332,0 4.40888720507881,45.7251972779845,0 4.40968180020363,45.7253048765041,0 4.40973228071818,45.7253077576861,0 4.40978354402571,45.7253009923123,0 4.40983649452886,45.7252847491967,0 4.40989166016513,45.7252646056411,0 4.40993720758884,45.725240439458,0 4.40997932318022,45.7252077601931,0 4.41001452007821,45.7251760680821,0 4.41005358713851,45.7251398243987,0 4.41010487074077,45.7250884774233,0 4.4101362018709,45.7250564733772,0 4.41008526475097,45.7250508061365,0 4.41005833166908,45.7250485312047,0 4.41002990422519,45.72504816628199,0 4.40998437302053,45.72504270156631,0 4.40993896119042,45.7250368750871,0 4.40988309797365,45.7250246047046,0 4.40983223437297,45.725011731389,0 4.40977234721582,45.7249929366771,0 4.40971737476584,45.7249702077633,0 4.40966862545626,45.7249444289229,0 4.40962699677562,45.7249255859363,0 4.4095923348809,45.72491773357051,0 4.40956699035412,45.7249172399188,0 4.40953399723076,45.7249193636634,0 4.40950385280546,45.7249222623464,0 4.40947663972872,45.7249241336764,0 4.40944924991241,45.7249241158863,0 4.40940928771789,45.7249202024443,0 4.40936791380032,45.7249163967013,0 4.40931801679397,45.724906122899,0 4.40927295637164,45.7248989408155,0 4.40922416808282,45.7248918053167,0 4.40914459500645,45.7248826229235,0 4.40906180138694,45.7248732105414,0 4.4089835597191,45.724865812653,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6471">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690990000B0875</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">HAUTE-RIVOIRE</SimpleData>
+					<SimpleData name="Adresse">VALETTE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7247315446167 </north>
+			<south> 45.7247109682565 </south>
+			<east> 4.41093835728099 </east>
+			<west> 4.41070201417558 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.41070201417558,45.7247145397139,0 4.41070305403614,45.7247149770159,0 4.41074655370975,45.7247315446167,0 4.41081187393143,45.7247264041094,0 4.41093835728099,45.7247195073452,0 4.41083003097362,45.7247123071592,0 4.4107858910959,45.7247109682565,0 4.41072949798291,45.72471320507649,0 4.41070355214681,45.72471434034121,0 4.41070201417558,45.7247145397139,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6473">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690990000B0877</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">HAUTE-RIVOIRE</SimpleData>
+					<SimpleData name="Adresse">VALETTE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7250470502624 </north>
+			<south> 45.7247145397139 </south>
+			<east> 4.41074655370975 </east>
+			<west> 4.40967517222498 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.41070201417558,45.7247145397139,0 4.41063706129315,45.7247239985866,0 4.41046452159838,45.72476029145821,0 4.41021532629086,45.724816096032,0 4.40967517222498,45.7249389432737,0 4.40975046200504,45.7249768189014,0 4.40980067133066,45.7249942936499,0 4.40984290384379,45.7250065544212,0 4.40988027681071,45.7250148231192,0 4.4099253603618,45.7250229053032,0 4.41001609906503,45.7250312269846,0 4.41016232229682,45.7250470502624,0 4.41018025919743,45.725024310123,0 4.41016052932032,45.7250069946434,0 4.41023503607426,45.724933471779,0 4.41028156090546,45.72490226830811,0 4.41037726866028,45.7248482939756,0 4.41046085614651,45.7248031172622,0 4.41053607891929,45.7247728154895,0 4.41059510256549,45.7247577568992,0 4.41065350870779,45.7247436966984,0 4.41071545220002,45.7247322040273,0 4.41074655370975,45.7247315446167,0 4.41070305403614,45.7247149770159,0 4.41070201417558,45.7247145397139,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6599">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690990000A0917</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">HAUTE-RIVOIRE</SimpleData>
+					<SimpleData name="Adresse">LA ROCHETIERE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7394806724757 </north>
+			<south> 45.7373310213269 </south>
+			<east> 4.41453790912977 </east>
+			<west> 4.41307443887435 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.41450337689838,45.7394806724757,0 4.41453790912977,45.7394679906792,0 4.41450026831709,45.7394295555754,0 4.4144224313531,45.739353347829,0 4.41434449826956,45.7392784021221,0 4.41429809500092,45.73922926928161,0 4.41426154685517,45.7391832550894,0 4.41422587310412,45.7391311956856,0 4.41406240832669,45.7388903453782,0 4.41399481155445,45.7387920335172,0 4.41394082980485,45.73871309459999,0 4.41389085295399,45.7386398694836,0 4.41386219298055,45.7386005109976,0 4.41383980968259,45.7385500860939,0 4.41369628855266,45.7382289190675,0 4.4135668794853,45.7379616128697,0 4.41345785291126,45.73775700518781,0 4.41338452794471,45.7376257116243,0 4.41326375591307,45.7374898791365,0 4.41316726188765,45.7373830127734,0 4.41312444817488,45.7373433811941,0 4.41310458239529,45.7373310213269,0 4.41307443887435,45.7373442781362,0 4.41309374001144,45.7373597072325,0 4.41313562836525,45.7373983597261,0 4.41323119700326,45.7375042470199,0 4.41334985421244,45.73763785447201,0 4.4134218288898,45.7377666432153,0 4.41353058208024,45.7379706239156,0 4.41365946056427,45.7382373063633,0 4.41380297229236,45.7385581132995,0 4.41382631317653,45.7386107777826,0 4.4138561740919,45.7386518324191,0 4.41390601311771,45.738724699026,0 4.41395999713161,45.73880372799429,0 4.4140277178306,45.73890185819521,0 4.41419105621352,45.7391428001999,0 4.41422726499007,45.7391956634727,0 4.41426501410303,45.73924337381321,0 4.41431273771193,45.73929384105401,0 4.41439119431198,45.7393691404685,0 4.41446863860089,45.7394450829726,0 4.41450337689838,45.7394806724757,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6606">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690990000A0919</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">HAUTE-RIVOIRE</SimpleData>
+					<SimpleData name="Adresse">LA ROCHETIERE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7406386317714 </north>
+			<south> 45.7394679906792 </south>
+			<east> 4.41527845376164 </east>
+			<west> 4.41450337689838 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.41524134419672,45.7406386317714,0 4.41527845376164,45.7406311410729,0 4.41514424944587,45.7403729930522,0 4.41509810896507,45.740278915675,0 4.41505548191095,45.74021154296431,0 4.41480150936872,45.739847001812,0 4.41465391757242,45.7396335124694,0 4.41456387400699,45.739502519405,0 4.41453790912977,45.7394679906792,0 4.41450337689838,45.7394806724757,0 4.41452945651948,45.7395146593907,0 4.41461910275914,45.7396452071505,0 4.41476682533845,45.7398587849599,0 4.41502065760073,45.7402228776327,0 4.41506221677864,45.74028873268279,0 4.41510795301945,45.7403820946414,0 4.41524134419672,45.7406386317714,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6695">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690990000A0949</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">HAUTE-RIVOIRE</SimpleData>
+					<SimpleData name="Adresse">LA VALLETIERE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.732056768096 </north>
+			<south> 45.731859236917 </south>
+			<east> 4.42162055677851 </east>
+			<west> 4.42071658882153 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.42071658882153,45.7319216300998,0 4.4207919115057,45.7319000564018,0 4.42079254969604,45.7318998682326,0 4.42079331644985,45.7318996784432,0 4.42079395695371,45.73189958030819,0 4.42079459514403,45.731899392139,0 4.42079536189783,45.7318992023496,0 4.42079600240168,45.73189910421461,0 4.42079664059199,45.7318989160454,0 4.42079740734578,45.731898726256,0 4.42079804784961,45.7318986281209,0 4.42079881460339,45.73189843833149,0 4.42079945510722,45.7318983401964,0 4.42080022186099,45.731898150407,0 4.42080086236481,45.7318980522719,0 4.42080150286864,45.7318979541369,0 4.42080226962239,45.73189776434741,0 4.42080291012621,45.7318976662123,0 4.4208036791935,45.731897566457,0 4.42080431969731,45.7318974683219,0 4.42080508645105,45.7318972785325,0 4.42080572464131,45.7318970903632,0 4.42080649370859,45.7318969906079,0 4.42080713421239,45.73189689247279,0 4.42080790327966,45.7318967927175,0 4.42080854378346,45.7318966945823,0 4.42080931285072,45.73189659482699,0 4.42081008191799,45.7318964950716,0 4.42081072473533,45.7318964869706,0 4.42081149380259,45.7318963872153,0 4.42081213430638,45.7318962890801,0 4.42081290337363,45.7318961893247,0 4.42081354619097,45.7318961812237,0 4.42081431525822,45.7318960814684,0 4.42081508432547,45.731895981713,0 4.42081572714281,45.7318959736119,0 4.42081649621005,45.7318958738565,0 4.42081713902739,45.7318958657555,0 4.42081790809463,45.7318957660001,0 4.42081867947543,45.7318957562788,0 4.4208193199792,45.73189565814361,0 4.42082008904643,45.7318955583882,0 4.42082073186376,45.7318955502871,0 4.42082150324456,45.73189554056579,0 4.42082227231179,45.73189544081039,0 4.42082291512912,45.7318954327093,0 4.42082368650992,45.731895422988,0 4.42082445789072,45.7318954132667,0 4.42082510070805,45.7318954051656,0 4.42082587208885,45.7318953954443,0 4.42082651490618,45.7318953873432,0 4.42082728628698,45.7318953776219,0 4.42082805766777,45.73189536790049,0 4.4208287004851,45.7318953597994,0 4.4208294718659,45.7318953500781,0 4.42083011699682,45.7318954320111,0 4.42083088837761,45.73189542228971,0 4.42083165975841,45.73189541256831,0 4.42083230257574,45.7318954044672,0 4.42083307627013,45.73189548478,0 4.42083384765093,45.7318954750586,0 4.42083449278185,45.73189555699161,0 4.42083526184906,45.73189545723611,0 4.42083590697998,45.731895539169,0 4.42083667836078,45.7318955294476,0 4.42083745205518,45.7318956097604,0 4.42083809718611,45.73189569169331,0 4.42083886856691,45.73189568197191,0 4.42083951369784,45.7318957639049,0 4.42084028739225,45.7318958442176,0 4.42084093252319,45.7318959261505,0 4.42084170390399,45.73189591642911,0 4.42084234903493,45.731895998362,0 4.42084312272934,45.7318960786747,0 4.42084389642376,45.7318961589874,0 4.4208445415547,45.7318962409203,0 4.42084531524912,45.73189632123299,0 4.42084596038007,45.7318964031659,0 4.4208467340745,45.73189648347851,0 4.42084737920545,45.7318965654115,0 4.4208481552135,45.7318967357582,0 4.42084880034446,45.7318968176911,0 4.42084957403889,45.7318968980038,0 4.42085021916986,45.7318969799367,0 4.42085099286429,45.7318970602493,0 4.42085163799526,45.7318971421822,0 4.42085228543986,45.73189731414919,0 4.4208530591343,45.7318973944618,0 4.4208537065789,45.73189756642879,0 4.42085448027335,45.7318976467414,0 4.42085512771796,45.7318978187084,0 4.42099819152627,45.7319199724544,0 4.42111547202369,45.73194470260571,0 4.42140630339847,45.73200687255601,0 4.42162055677851,45.732056768096,0 4.42153975089025,45.7320301375561,0 4.42144488071553,45.7320017028897,0 4.42135179537315,45.7319776587446,0 4.42124857569529,45.7319495993684,0 4.42112513796312,45.7319254873475,0 4.42102351780795,45.731904612669,0 4.42093847647875,45.7318883023043,0 4.42079356331057,45.731859236917,0 4.42071658882153,45.7319216300998,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

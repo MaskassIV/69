@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>ANSE_DEPT</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_3">
+		<name>ANSE_DEPT</name>
+		<Schema name="ANSE_DEPT" id="ANSE_DEPT.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="DEPT">
+			<LineStyle>
+				<color>BF63f16c</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C63f16c</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.930">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69009000AL0122</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ANSE</SimpleData>
+					<SimpleData name="Adresse">123, AV GENERAL LECLERC</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9413546524871 </north>
+			<south> 45.94066897541321 </south>
+			<east> 4.71811495231914 </east>
+			<west> 4.71761242559986 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.71811495231914,45.94078111040859,0 4.71789696279171,45.9407045272509,0 4.71779437970757,45.94066897541321,0 4.71777575320753,45.94068024677179,0 4.71776233315592,45.94068873697779,0 4.71775197088903,45.9407000630254,0 4.71774321045583,45.9407130760982,0 4.71773477278272,45.9407322991417,0 4.71770652631127,45.940824239618,0 4.71768759528199,45.9408878465946,0 4.71768605270995,45.9409004798913,0 4.71767298496732,45.9409782290193,0 4.71763933555112,45.9411949992464,0 4.71761242559986,45.9413546524871,0 4.71772144940253,45.941228249897,0 4.7179833207034,45.9409318154056,0 4.71804199324834,45.940863371707,0 4.71811495231914,45.94078111040859,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1379">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69009000AD0148</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ANSE</SimpleData>
+					<SimpleData name="Adresse">AUX CARRIERES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9244042839954 </north>
+			<south> 45.9243678678199 </south>
+			<east> 4.70694923339764 </east>
+			<west> 4.7069117959915 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.7069117959915,45.92437347728989,0 4.70692952865343,45.9244042839954,0 4.70694923339764,45.92439876260409,0 4.70693136893412,45.9243678678199,0 4.7069117959915,45.92437347728989,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2983">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69009000ZC0263</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ANSE</SimpleData>
+					<SimpleData name="Adresse">AUX COMMUNAUX</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9464734218621 </north>
+			<south> 45.946106026869 </south>
+			<east> 4.72577107902561 </east>
+			<west> 4.72561972562502 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.72576715519207,45.946106026869,0 4.72567726836143,45.9463319439719,0 4.72562222702993,45.94646671848399,0 4.72561972562502,45.9464734218621,0 4.72569330353213,45.94647284038701,0 4.72573428269058,45.9462848682894,0 4.72577107902561,45.9461323577756,0 4.72576715519207,45.946106026869,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.4171">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69009000AD0390</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ANSE</SimpleData>
+					<SimpleData name="Adresse">856, RTE DE LUCENAY</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9262561565129 </north>
+			<south> 45.9262348283374 </south>
+			<east> 4.70853664550863 </east>
+			<west> 4.70845803756748 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.70845803756748,45.9262359398467,0 4.70847918628331,45.9262561565129,0 4.70853664550863,45.926252766808,0 4.70846006818833,45.9262348283374,0 4.70845803756748,45.9262359398467,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.4390">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69009000ZC0422</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ANSE</SimpleData>
+					<SimpleData name="Adresse">SAINT ROMAIN</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9496346164951 </north>
+			<south> 45.9492466960004 </south>
+			<east> 4.71582114545717 </east>
+			<west> 4.71542036725714 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.71562023922057,45.9492510926356,0 4.71555221384366,45.9493761508878,0 4.71542036725714,45.9494918183061,0 4.71542798285986,45.9496078037923,0 4.7154298510276,45.9496346164951,0 4.7156012157851,45.9495440201607,0 4.7157641800753,45.9494200446657,0 4.71581083152012,45.9492762153557,0 4.71581965558879,45.949252753313,0 4.71582114545717,45.9492466960004,0 4.71562023922057,45.9492510926356,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.4469">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69009000AI0434</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ANSE</SimpleData>
+					<SimpleData name="Adresse">207, RTE DE GRAVES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9397049454037 </north>
+			<south> 45.9382992718242 </south>
+			<east> 4.71428756775695 </east>
+			<west> 4.71289547596862 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.71428756775695,45.9383622168032,0 4.71359247062816,45.9383359962994,0 4.7135945558238,45.9383158790041,0 4.71310902395327,45.9382992718242,0 4.71310679714305,45.9383397471789,0 4.71313349491196,45.9383638421648,0 4.7131117412116,45.9385568322425,0 4.71308467342725,45.9385748057628,0 4.71304394616469,45.9388509478929,0 4.71307186477038,45.9388686294116,0 4.71305375221492,45.9389587038706,0 4.71302545008432,45.9389743542272,0 4.71298477382049,45.9391857348866,0 4.71294465461483,45.9393652221481,0 4.71291000822546,45.93949652891889,0 4.71289935757531,45.9395318176204,0 4.71289561723136,45.9395485372743,0 4.71289547596862,45.93956475209691,0 4.7128962041247,45.9395840161552,0 4.71289744894869,45.9395949859096,0 4.71290309788749,45.93960642942199,0 4.71291215502933,45.9396195326831,0 4.71292391664489,45.9396282716231,0 4.71294457303634,45.9396448921912,0 4.71297371215682,45.9396644467443,0 4.71299231260302,45.9396772253958,0 4.71300885148292,45.9396859820809,0 4.71302616460162,45.9396947270432,0 4.71304605594996,45.9396991996611,0 4.71307560842288,45.9397029855988,0 4.7131008438154,45.9397049454037,0 4.71313063221178,45.93970386395,0 4.71319871460391,45.9396970687245,0 4.71353214763867,45.9396504076491,0 4.7139142980828,45.939596973002,0 4.71413031834459,45.9395649684884,0 4.71427154895361,45.9395440944021,0 4.71427693697886,45.93872581233229,0 4.71427564661275,45.9387258318805,0 4.71428756775695,45.9383622168032,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6124">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69009000AE0078</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ANSE</SimpleData>
+					<SimpleData name="Adresse">RONGEFER</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.92841228636149 </north>
+			<south> 45.9282018613313 </south>
+			<east> 4.70451251150807 </east>
+			<west> 4.70413711836251 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.70413711836251,45.9282018613313,0 4.70426727905112,45.92841228636149,0 4.70436694827138,45.92839223046091,0 4.70443213303119,45.92837980954009,0 4.70451251150807,45.9283620256712,0 4.70413711836251,45.9282018613313,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6162">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69009000AE0079</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ANSE</SimpleData>
+					<SimpleData name="Adresse">RONGEFER</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.92848703162459 </north>
+			<south> 45.92809545251519 </south>
+			<east> 4.70426727905112 </east>
+			<west> 4.70388833168018 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.70388833168018,45.92809545251519,0 4.70389140705378,45.92848703162459,0 4.70404113263019,45.9284578456057,0 4.70406304625602,45.92845274182489,0 4.70426727905112,45.92841228636149,0 4.70413711836251,45.9282018613313,0 4.7040429263061,45.92816112719031,0 4.70392493397594,45.9281103933464,0 4.70388833168018,45.92809545251519,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

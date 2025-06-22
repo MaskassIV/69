@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>SAINT MARTIN EN HAUT_HLM</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_5">
+		<name>SAINT MARTIN EN HAUT_HLM</name>
+		<Schema name="SAINT MARTIN EN HAUT_HLM" id="SAINT MARTIN EN HAUT_HLM.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="HLM">
+			<LineStyle>
+				<color>BFe451f5</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4Ce451f5</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.31">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">692270000O0139</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT MARTIN EN HAUT</SimpleData>
+					<SimpleData name="Adresse">LA SABLIERE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.65478385722431 </north>
+			<south> 45.6536745476946 </south>
+			<east> 4.55718831521007 </east>
+			<west> 4.55543287795242 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.55655879312878,45.6537320001947,0 4.55656724610125,45.6537494461317,0 4.55657269759355,45.6537606289692,0 4.55617357126371,45.653839280026,0 4.55614871718785,45.65384601823741,0 4.55582224070369,45.6537724435426,0 4.55548966773666,45.6537881171558,0 4.55545655565881,45.6543512148721,0 4.55543287795242,45.65478385722431,0 4.55592715633689,45.6546998409492,0 4.55595419393711,45.6546976659643,0 4.55610828161637,45.6546006971146,0 4.55625186254741,45.65450918716089,0 4.55633846825702,45.654455931987,0 4.55638581086197,45.6544268167534,0 4.5564393427738,45.654394013305,0 4.55678329034305,45.6541752616262,0 4.55679994524055,45.6541646737649,0 4.55700940078247,45.6540318123691,0 4.55708611556359,45.6539831066135,0 4.55711352552927,45.65396678587919,0 4.5571333568442,45.65395498317979,0 4.55718831521007,45.6539227000288,0 4.55715248125486,45.6538997785848,0 4.55692943950385,45.6537549754652,0 4.5568269190661,45.6536806479699,0 4.55681865660275,45.6536745476946,0 4.55669727815041,45.653701444503,0 4.55659453390786,45.6537242107103,0 4.55655879312878,45.6537320001947,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.994">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">692270000O0140</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT MARTIN EN HAUT</SimpleData>
+					<SimpleData name="Adresse">LA SABLIERE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6549317717596 </north>
+			<south> 45.6546976659643 </south>
+			<east> 4.55595419393711 </east>
+			<west> 4.55530009017521 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.55553045922096,45.6549109426616,0 4.55553162982267,45.6549114668817,0 4.55554111542954,45.65491538877649,0 4.5555808754352,45.6549317717596,0 4.55579058914381,45.6548033223541,0 4.55586964156342,45.6547508924567,0 4.55595419393711,45.6546976659643,0 4.55592715633689,45.6546998409492,0 4.55543287795242,45.65478385722431,0 4.55530009017521,45.6548070372918,0 4.55530271149033,45.6548134858072,0 4.55553045922096,45.6549109426616,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.1002">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">692270000O0141</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT MARTIN EN HAUT</SimpleData>
+					<SimpleData name="Adresse">LA SABLIERE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6548070372918 </north>
+			<south> 45.6537881171558 </south>
+			<east> 4.55548966773666 </east>
+			<west> 4.55409958805455 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.55409958805455,45.65392620144929,0 4.55432222216683,45.65480243881131,0 4.55443457354094,45.65476495143511,0 4.55518002368383,45.6545286817573,0 4.55525338591231,45.6546988831612,0 4.55530009017521,45.6548070372918,0 4.55543287795242,45.65478385722431,0 4.55545655565881,45.6543512148721,0 4.55548966773666,45.6537881171558,0 4.55524702493123,45.653960342519,0 4.55515469728777,45.6539150539908,0 4.55503557472609,45.65387598976731,0 4.55473248691597,45.6538852194637,0 4.55454793711942,45.6538898394359,0 4.55438780452723,45.6539178993131,0 4.55409958805455,45.65392620144929,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.3710">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69227000AB0468</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT MARTIN EN HAUT</SimpleData>
+					<SimpleData name="Adresse">433, RTE DE CROIX CARRIERE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6609459655256 </north>
+			<south> 45.659501708299 </south>
+			<east> 4.55793784073738 </east>
+			<west> 4.55639555917712 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.55723291596175,45.66037169007851,0 4.55753642024033,45.6602664382691,0 4.55759836755634,45.6602449562615,0 4.55791380254629,45.6601346748176,0 4.55793784073738,45.6601262362888,0 4.55793717343901,45.6601253448644,0 4.55776948494492,45.659953928155,0 4.55776325545109,45.6599470792784,0 4.55747844469367,45.65963011507651,0 4.55745037609022,45.6595637646186,0 4.55743437064141,45.6595381371438,0 4.55741138241435,45.659501708299,0 4.55740269388152,45.6595124562398,0 4.55738699778355,45.6595297858435,0 4.55726872946506,45.6596083378282,0 4.55711382586526,45.6596995552181,0 4.55695396511031,45.65979264225191,0 4.55686091549607,45.6599321798339,0 4.55676937685486,45.66002954567551,0 4.55672868252623,45.6600851384947,0 4.55660746854167,45.6602417274166,0 4.55639555917712,45.6604754953401,0 4.55644268928959,45.6605391507859,0 4.55650028085304,45.6606094165265,0 4.55650892766515,45.6606200148163,0 4.55654040747869,45.66065695691741,0 4.55662375039609,45.66073857514931,0 4.55664863455364,45.66076020716469,0 4.55679628452469,45.6608813757193,0 4.55688004840014,45.6609459655256,0 4.5569261560306,45.6608910183272,0 4.5571072177577,45.66067478848729,0 4.5571012061504,45.6606300188781,0 4.55707514633306,45.66043871934189,0 4.557073787476,45.66042693952011,0 4.55723291596175,45.66037169007851,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.4903">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69227000AB0839</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT MARTIN EN HAUT</SimpleData>
+					<SimpleData name="Adresse">RUE DE VAGANAY</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6614358149974 </north>
+			<south> 45.660931805881 </south>
+			<east> 4.56302186327534 </east>
+			<west> 4.56267790487067 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.56288200905064,45.6614283387169,0 4.56292088230013,45.6614358149974,0 4.56302186327534,45.6610954052415,0 4.56298632974924,45.6610924759995,0 4.56298370964407,45.6611043110018,0 4.56291252436017,45.66109881438721,0 4.5628982009614,45.6611419746348,0 4.56285489764254,45.6611368114873,0 4.56285942608795,45.6611061262296,0 4.56285996639853,45.66110251609441,0 4.56286364550222,45.6610872438923,0 4.56277065735268,45.6610783571164,0 4.56279695313305,45.66093604830581,0 4.56275897006313,45.6609327927293,0 4.56274571240865,45.660931805881,0 4.56274139120126,45.6609561836449,0 4.56267888507867,45.6613173147012,0 4.56267790487067,45.66132354285121,0 4.56275449948629,45.66133409829579,0 4.56275367309593,45.66134122497061,0 4.56275325354714,45.6613445632314,0 4.56285547484771,45.6613847548657,0 4.5628422497512,45.661421325051,0 4.56288200905064,45.6614283387169,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.4912">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69227000AB0840</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT MARTIN EN HAUT</SimpleData>
+					<SimpleData name="Adresse">VAGANAY</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6614774036227 </north>
+			<south> 45.6610954052415 </south>
+			<east> 4.56325468328069 </east>
+			<west> 4.56292088230013 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.56325468328069,45.6611845806617,0 4.5631695562465,45.6611720724997,0 4.56307729127602,45.6611569613877,0 4.56305742187771,45.6611538147135,0 4.56306367272432,45.6611249969192,0 4.56305613431934,45.6611218591958,0 4.56304522206523,45.6611175073852,0 4.56303648619942,45.6611083518689,0 4.56303922067757,45.66110056824251,0 4.56302186327534,45.6610954052415,0 4.56292088230013,45.6614358149974,0 4.56313656107724,45.6614774036227,0 4.56325468328069,45.6611845806617,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.4917">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69227000AB0843</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT MARTIN EN HAUT</SimpleData>
+					<SimpleData name="Adresse">RUE DE VAGANAY</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6611249969192 </north>
+			<south> 45.6609771301079 </south>
+			<east> 4.56309157843665 </east>
+			<west> 4.56302186327534 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.56306367272432,45.6611249969192,0 4.56307657234616,45.6610587094798,0 4.56308813455899,45.6609996458766,0 4.56308825786959,45.66099946403299,0 4.56308925073541,45.6609936860326,0 4.56309157843665,45.66098059416429,0 4.56305564454592,45.6609771301079,0 4.56302186327534,45.6610954052415,0 4.56303922067757,45.66110056824251,0 4.56303648619942,45.6611083518689,0 4.56304522206523,45.6611175073852,0 4.56305613431934,45.6611218591958,0 4.56306367272432,45.6611249969192,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.5114">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69227000AB0998</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT MARTIN EN HAUT</SimpleData>
+					<SimpleData name="Adresse">RAMPEAUX</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6618679174667 </north>
+			<south> 45.6611543267558 </south>
+			<east> 4.56429913519075 </east>
+			<west> 4.56321489822159 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.56335798333923,45.6618679174667,0 4.5634939208782,45.6618602657363,0 4.56349789862585,45.6618601204363,0 4.56400743656534,45.66183701221469,0 4.56419651222825,45.6618279910543,0 4.56429913519075,45.6618232329302,0 4.56429367607466,45.66124364449459,0 4.56415254899777,45.6611994012703,0 4.5640712541269,45.6611543267558,0 4.56406482299455,45.6611585591229,0 4.56404639295587,45.6611881766211,0 4.56403668724091,45.66120380277841,0 4.56400042939265,45.6612388917316,0 4.56396686261682,45.66126466650431,0 4.5639469514734,45.6612918727783,0 4.5639218385451,45.6613350029005,0 4.56390435939779,45.66138009850339,0 4.56389208109144,45.6614501601907,0 4.56389702811873,45.66152070315551,0 4.56374405174472,45.6615344463064,0 4.56359683389291,45.6615064988325,0 4.56354276668107,45.6615340892774,0 4.56333226896513,45.66149405067289,0 4.56328529498186,45.661609086562,0 4.56324680929135,45.66160169509,0 4.56323858681526,45.6616198224273,0 4.56321489822159,45.6616724795938,0 4.5632322138908,45.6616716087322,0 4.56331431466789,45.6617998034938,0 4.56335798333923,45.6618679174667,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

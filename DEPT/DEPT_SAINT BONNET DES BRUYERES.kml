@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>SAINT BONNET DES BRUYERES_DEPT</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_3">
+		<name>SAINT BONNET DES BRUYERES_DEPT</name>
+		<Schema name="SAINT BONNET DES BRUYERES_DEPT" id="SAINT BONNET DES BRUYERES_DEPT.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="DEPT">
+			<LineStyle>
+				<color>BF63f16c</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C63f16c</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1301">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69182000AI0142</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT BONNET DES BRUYERES</SimpleData>
+					<SimpleData name="Adresse">VILLEMARTIN</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.2533302155583 </north>
+			<south> 46.2529438750998 </south>
+			<east> 4.46967434833619 </east>
+			<west> 4.46931870976706 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.46963891539501,46.25304634403291,0 4.46967434833619,46.2529878855841,0 4.46956735603236,46.2529438750998,0 4.46954545752311,46.2529551456012,0 4.46950101220964,46.2529825583917,0 4.46946119628831,46.2530131536809,0 4.46940609389927,46.2530933911868,0 4.46934820820272,46.25321023038481,0 4.46931870976706,46.2533302155583,0 4.46936467504627,46.253325569292,0 4.46950197922568,46.25330893611459,0 4.46953345697829,46.25321918667581,0 4.46963891539501,46.25304634403291,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1864">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">691820000D0177</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT BONNET DES BRUYERES</SimpleData>
+					<SimpleData name="Adresse">CROIX DUNE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.2498090615974 </north>
+			<south> 46.24954781636011 </south>
+			<east> 4.49786769742933 </east>
+			<west> 4.49692344854073 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.49692344854073,46.2497922237057,0 4.49705053128556,46.2498059530625,0 4.49725924229048,46.2498090615974,0 4.4974501989647,46.24979907386479,0 4.49750432428952,46.24978917513861,0 4.49761305952341,46.24976811033299,0 4.49771931591116,46.2497418543234,0 4.49782230491988,46.2497100572377,0 4.49786769742933,46.24969414890661,0 4.49783309453799,46.2496346215962,0 4.49780635882225,46.2495731894534,0 4.49779761597516,46.24954781636011,0 4.49757708419515,46.24959665126419,0 4.497393764907,46.2496200483546,0 4.49735253053857,46.2496218517799,0 4.49725040160048,46.2496233755707,0 4.49717877252411,46.2496245880985,0 4.49717747476214,46.24962460517111,0 4.49709802465917,46.2496246596389,0 4.4970189337172,46.2496188551574,0 4.49699927599668,46.24961686213071,0 4.49692344854073,46.2497922237057,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2478">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">691820000D0219</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT BONNET DES BRUYERES</SimpleData>
+					<SimpleData name="Adresse">CROIX DUNE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.24970891325571 </north>
+			<south> 46.2465366490503 </south>
+			<east> 4.49662906984805 </east>
+			<west> 4.49183579338102 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.49631419439176,46.2493600022376,0 4.49627472440595,46.24933134040089,0 4.49620937465385,46.2492772604549,0 4.49615029548727,46.249219855728,0 4.49609826800715,46.2491592060257,0 4.49608886160314,46.2491475312819,0 4.49604363610215,46.249084000149,0 4.49602764286272,46.2490498058924,0 4.49600531442085,46.2489880452253,0 4.49596732453484,46.2488376871957,0 4.4959025108408,46.24853700445681,0 4.49586013845684,46.2484067882993,0 4.49585902404999,46.2484040109592,0 4.49583309544657,46.24835301521281,0 4.49579943459439,46.2483041025019,0 4.49577554770726,46.2482708225407,0 4.49573048853939,46.2482180968015,0 4.49567824822628,46.248168617669,0 4.49558798255346,46.2481005446483,0 4.49548999220849,46.2480348246718,0 4.49538614563544,46.2479733245147,0 4.49503306767514,46.247760368543,0 4.49473726200322,46.2475861974244,0 4.49459642290623,46.24752959558,0 4.49443022098229,46.2474569349604,0 4.49426855862778,46.2473793510356,0 4.49417811868573,46.2473285715275,0 4.49401120088479,46.2472296209926,0 4.49384987572724,46.24712627373,0 4.49365673712999,46.2470464002131,0 4.49358701412109,46.2470174140363,0 4.49348273665672,46.2469685268178,0 4.4933832654516,46.24691498316631,0 4.49335915033415,46.2468065922671,0 4.49315545935356,46.24666813461239,0 4.49309866128937,46.2466179936273,0 4.49260561192845,46.2465366490503,0 4.49255223345184,46.2465500481841,0 4.49246107545642,46.2465728591098,0 4.49244089467512,46.2466612064332,0 4.4919995458113,46.24681938204441,0 4.49199561183766,46.2468369961124,0 4.49186513287972,46.2468603220639,0 4.49183579338102,46.2469413140121,0 4.49185419374921,46.246940082093,0 4.49189292406086,46.24694173589649,0 4.4919305038061,46.24694880861399,0 4.49196511621492,46.2469613240653,0 4.49204245528737,46.2469839969501,0 4.49221315912846,46.24703147409531,0 4.49229831405176,46.24705512509249,0 4.49244177151218,46.2470554954208,0 4.49259610979561,46.24705022895,0 4.49296385670717,46.2470064973813,0 4.49317642105881,46.24705612583869,0 4.49348214186935,46.2470419368557,0 4.49363341415272,46.24713370823951,0 4.4936508412502,46.2471491506613,0 4.49387137527567,46.2472767588034,0 4.49409632707052,46.2473997152608,0 4.49428427174441,46.2475080264451,0 4.49445831274874,46.24759679587291,0 4.49475412476627,46.2477426874917,0 4.49477514868782,46.2477519581447,0 4.49491468927641,46.2478180335657,0 4.49504929687069,46.2478888569593,0 4.49537442246883,46.2480717385135,0 4.49540615975392,46.2480882535369,0 4.49548280388612,46.2481329088987,0 4.49555371898533,46.2481816923843,0 4.49561877282102,46.2482345156778,0 4.49563705813311,46.2482528285791,0 4.49568874356744,46.2483105108587,0 4.4957332380213,46.2483710796155,0 4.49576787471115,46.2484319580484,0 4.49580833118386,46.2485538234557,0 4.4958132991429,46.2485741126509,0 4.49583459928766,46.2486838009836,0 4.49584799803954,46.2487941335529,0 4.49586992400468,46.2488934562787,0 4.49589768336996,46.2489782020004,0 4.49593428226787,46.2490633719083,0 4.49597849374996,46.2491468205837,0 4.49603017577639,46.2492280995648,0 4.49610676345358,46.2493371511214,0 4.49611944435457,46.249354636985,0 4.49616413026007,46.24940790787371,0 4.49621574544882,46.24945820559449,0 4.49639041736086,46.249583980237,0 4.49644181095904,46.24962140160229,0 4.49649959750943,46.2496552263802,0 4.49656232487329,46.2496845730155,0 4.49662906984805,46.24970891325571,0 4.49654148143083,46.2494823829344,0 4.49647664159222,46.249456486505,0 4.49646663104444,46.2494512142885,0 4.49634638656268,46.2493836260959,0 4.49631419439176,46.2493600022376,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2744">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69182000AK0242</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT BONNET DES BRUYERES</SimpleData>
+					<SimpleData name="Adresse">CHEVENATTE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.2480878992699 </north>
+			<south> 46.24757552310869 </south>
+			<east> 4.47519766215299 </east>
+			<west> 4.47498212282604 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.47518660406066,46.2480878992699,0 4.47519766215299,46.24802128892701,0 4.47513126540229,46.2479371294646,0 4.47512862272029,46.2479305890701,0 4.47509996694022,46.24784990318611,0 4.4750775185031,46.2477683262649,0 4.47506403272244,46.2477014036149,0 4.47505362653868,46.2476186799017,0 4.47502013985528,46.24757552310869,0 4.47498212282604,46.24765338055519,0 4.47498771507113,46.24774535316211,0 4.47501650230358,46.24786467468971,0 4.47508900479857,46.2479972093386,0 4.47518660406066,46.2480878992699,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3406">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69182000AB0030</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT BONNET DES BRUYERES</SimpleData>
+					<SimpleData name="Adresse">FROMONTO</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.2761288170651 </north>
+			<south> 46.27595991311429 </south>
+			<east> 4.46462317010178 </east>
+			<west> 4.46429862683565 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.46436606249331,46.2761288170651,0 4.46462317010178,46.2759759151607,0 4.46460689612248,46.27595991311429,0 4.46442488291538,46.2760261990788,0 4.46429862683565,46.27605502192141,0 4.46436606249331,46.2761288170651,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3503">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">691820000D0031</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT BONNET DES BRUYERES</SimpleData>
+					<SimpleData name="Adresse">CHARRUGE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.2441898336435 </north>
+			<south> 46.24332414374359 </south>
+			<east> 4.48255317611684 </east>
+			<west> 4.48030434752837 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.48255317611684,46.2441361771311,0 4.48196548277929,46.2439425394708,0 4.48121292265333,46.2436955656066,0 4.4809395553568,46.2435854630006,0 4.48035458811054,46.24332414374359,0 4.48030434752837,46.2433719907668,0 4.48086166423027,46.2436284464143,0 4.48103212601231,46.24370134123669,0 4.48147875622454,46.243863046263,0 4.48248569943138,46.2441898336435,0 4.48255317611684,46.2441361771311,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3531">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">691820000D0312</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT BONNET DES BRUYERES</SimpleData>
+					<SimpleData name="Adresse">GRANDE FONTAINE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.2470094642163 </north>
+			<south> 46.2468603220639 </south>
+			<east> 4.49186513287972 </east>
+			<west> 4.4898836842798 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.49186513287972,46.2468603220639,0 4.49073772247891,46.2469095906905,0 4.49041354747218,46.2469277966806,0 4.49011121035996,46.24694706676199,0 4.48999369012607,46.24695527024569,0 4.4898836842798,46.2469629249096,0 4.4900505959076,46.2470094642163,0 4.49042928478797,46.2469909055818,0 4.49074003267749,46.2469753972339,0 4.49086575531381,46.2469680762269,0 4.49183579338102,46.2469413140121,0 4.49186513287972,46.2468603220639,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3763">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">691820000D0034</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT BONNET DES BRUYERES</SimpleData>
+					<SimpleData name="Adresse">CHARRUGE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.2432821372166 </north>
+			<south> 46.2429786179878 </south>
+			<east> 4.48015441061566 </east>
+			<west> 4.47947725238992 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.48015441061566,46.2432371341801,0 4.47962817536381,46.24300656965019,0 4.47954057978646,46.2429786179878,0 4.47947725238992,46.2430273553069,0 4.47981537675308,46.24316588999239,0 4.48010123733812,46.2432821372166,0 4.48015441061566,46.2432371341801,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.4853">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">691820000D0050</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT BONNET DES BRUYERES</SimpleData>
+					<SimpleData name="Adresse">BOIS CLAIR</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.24707766076849 </north>
+			<south> 46.2448809712311 </south>
+			<east> 4.48906081136409 </east>
+			<west> 4.48620525988309 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.48733349242883,46.2462954056355,0 4.48693034108222,46.245752184506,0 4.48682272060413,46.2455989508442,0 4.48672257099023,46.2454435480121,0 4.48663001462489,46.245285704238,0 4.48661690468213,46.2452618284266,0 4.48659207018271,46.24522207439361,0 4.48654427692619,46.2451399299547,0 4.4864290972762,46.2449998539611,0 4.48638801762963,46.2449641848304,0 4.48632867834139,46.2449205583603,0 4.48626347742679,46.2448809712311,0 4.48620525988309,46.2449887275471,0 4.48632067911832,46.2450850295505,0 4.48644259184927,46.2452244773195,0 4.48652190492061,46.2453248533042,0 4.48671740227895,46.24562617517629,0 4.48684689282865,46.245810375384,0 4.48726001131446,46.2463573392905,0 4.48731249346898,46.24643041576991,0 4.48737216949324,46.2465006962839,0 4.487395024972,46.2465248949579,0 4.48747354465009,46.2465959198327,0 4.48755845765159,46.2466633485902,0 4.48764936489392,46.2467268261772,0 4.48774587462366,46.2467862676369,0 4.48784797216485,46.2468411327633,0 4.487904937773,46.2468689382527,0 4.48816910504047,46.2469641941797,0 4.48825336439846,46.2469884002742,0 4.48834033933853,46.24700743714509,0 4.48835677846017,46.2470104644497,0 4.48849805118568,46.2470355458509,0 4.4886411213423,46.2470551096632,0 4.48878546491305,46.2470689826065,0 4.48893082476036,46.2470772581039,0 4.48894135084796,46.24707766076849,0 4.48906081136409,46.24701188209739,0 4.48889809182422,46.24700491465939,0 4.48877361784028,46.2469960956995,0 4.48865041722037,46.2469815859159,0 4.48852861977203,46.24696138361529,0 4.48850512902941,46.24695682741831,0 4.48839400486528,46.2469281094193,0 4.48803598254463,46.2468138168828,0 4.487946787711,46.2467799482542,0 4.48786174577554,46.2467412518707,0 4.48778138316624,46.2466979910513,0 4.48771468560066,46.2466559925581,0 4.48761365657403,46.2465878739467,0 4.48751823495432,46.2465158992662,0 4.48749061219726,46.2464930238253,0 4.48741461038345,46.2464047638368,0 4.48734619182702,46.2463137027695,0 4.48733349242883,46.2462954056355,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

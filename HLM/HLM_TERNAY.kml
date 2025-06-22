@@ -1,0 +1,688 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>TERNAY_HLM</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_5">
+		<name>TERNAY_HLM</name>
+		<Schema name="TERNAY_HLM" id="TERNAY_HLM.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="HLM">
+			<LineStyle>
+				<color>BFe451f5</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4Ce451f5</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.315">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69297000AN0037</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TERNAY</SimpleData>
+					<SimpleData name="Adresse">17, RUE DE VILLENEUVE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6058826948157 </north>
+			<south> 45.6055041998313 </south>
+			<east> 4.81411059956851 </east>
+			<west> 4.81345265733315 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.81411059956851,45.60570188340499,0 4.81384106187018,45.6055041998313,0 4.81345265733315,45.60569348802001,0 4.8137284617017,45.6058826948157,0 4.81411059956851,45.60570188340499,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.660">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69297000AR0115</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TERNAY</SimpleData>
+					<SimpleData name="Adresse">13, CHE DU DEVES OUEST</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6027943918129 </north>
+			<south> 45.6019238386656 </south>
+			<east> 4.80252416210764 </east>
+			<west> 4.80149778088936 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.80205850345334,45.6019238386656,0 4.80149778088936,45.602188893821,0 4.80165478677652,45.6023964249439,0 4.80180334230096,45.6025926522016,0 4.80197325062627,45.6027943918129,0 4.80252416210764,45.6026023591956,0 4.80205850345334,45.6019238386656,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.880">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69297000AT0130</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TERNAY</SimpleData>
+					<SimpleData name="Adresse">CHE DES GRANDES COMBES</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">IMMOBILIERE RHONE ALPES SA DHLM</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.59812362108151 </north>
+			<south> 45.5972212105611 </south>
+			<east> 4.80382577625423 </east>
+			<west> 4.80131578177857 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.80303335605246,45.5979178797396,0 4.80382577625423,45.5977797935298,0 4.80374402086168,45.5976292447275,0 4.80365223523779,45.5973991437151,0 4.80364678567633,45.59738545021889,0 4.80360723632009,45.5972859253114,0 4.80271858134435,45.5974196980967,0 4.80229480652394,45.5974834152183,0 4.80221152150087,45.5972225527049,0 4.8022109646363,45.5972212105611,0 4.80131578177857,45.5973555271908,0 4.80133516994163,45.5974072777728,0 4.80136832523722,45.5974957370106,0 4.80143691036559,45.5976794644385,0 4.80154260830535,45.59796284653589,0 4.801744833532,45.5979316848514,0 4.80180701534776,45.59812362108151,0 4.80244761562684,45.5980198621274,0 4.80303335605246,45.5979178797396,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.902">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69297000AY0131</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TERNAY</SimpleData>
+					<SimpleData name="Adresse">1, RUE DES CITES</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">ALPES ISERE HABITAT OFFICE PUBLIC DE LHABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.59561073209521 </north>
+			<south> 45.5953616579473 </south>
+			<east> 4.79545598014526 </east>
+			<west> 4.79446675675473 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.79467541611037,45.59561073209521,0 4.7950054510536,45.59551305191031,0 4.79530298753099,45.5954934406687,0 4.79545598014526,45.5954833421296,0 4.79543330632069,45.5953616579473,0 4.79537213857609,45.5953665976197,0 4.79446675675473,45.5954390539345,0 4.79448338676519,45.5955286793878,0 4.79467541611037,45.59561073209521,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.1094">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69297000AR0148</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TERNAY</SimpleData>
+					<SimpleData name="Adresse">DEVES</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6026023591956 </north>
+			<south> 45.60189926966159 </south>
+			<east> 4.8025934374652 </east>
+			<west> 4.80205850345334 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.8025934374652,45.6025781907061,0 4.80212468554519,45.60189926966159,0 4.80205850345334,45.6019238386656,0 4.80252416210764,45.6026023591956,0 4.8025934374652,45.6025781907061,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.1643">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69297000AN0191</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TERNAY</SimpleData>
+					<SimpleData name="Adresse">43, GR GRANDE RUE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.60657608106201 </north>
+			<south> 45.6064610879957 </south>
+			<east> 4.81077188868072 </east>
+			<west> 4.81061234318383 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.81061234318383,45.6064644110237,0 4.81069183339439,45.60657608106201,0 4.81077188868072,45.60654795101259,0 4.81072590288344,45.606483749772,0 4.81068078726668,45.60649330304789,0 4.81067202739891,45.6064726375505,0 4.81063659479668,45.6064800533613,0 4.81062853213441,45.6064610879957,0 4.81061234318383,45.6064644110237,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.1706">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69297000AN0198</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TERNAY</SimpleData>
+					<SimpleData name="Adresse">43, GR GRANDE RUE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6065400833592 </north>
+			<south> 45.6064275589431 </south>
+			<east> 4.81091102983935 </east>
+			<west> 4.81081652473261 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.81081652473261,45.6064648170196,0 4.81084657466583,45.6065400833592,0 4.81090784688328,45.6065262166832,0 4.81091102983935,45.6065254448663,0 4.81087876999546,45.60644931340651,0 4.81089425290485,45.60644402013419,0 4.81088729861002,45.6064275589431,0 4.81085313689255,45.6064345940762,0 4.81086189976374,45.60645534958361,0 4.81081652473261,45.6064648170196,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.1769">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69297000AN0202</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TERNAY</SimpleData>
+					<SimpleData name="Adresse">45, GR GRANDE RUE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6065419308358 </north>
+			<south> 45.60644402013419 </south>
+			<east> 4.811009567382 </east>
+			<west> 4.81087876999546 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.81089425290485,45.60644402013419,0 4.81087876999546,45.60644931340651,0 4.81091102983935,45.6065254448663,0 4.81090784688328,45.6065262166832,0 4.81091644503688,45.6065419308358,0 4.811009567382,45.6065209760979,0 4.81100583663498,45.6065128396601,0 4.81100277899846,45.6065135193905,0 4.81099957306003,45.6065057347887,0 4.81092692696618,45.6065210456358,0 4.81089425290485,45.60644402013419,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.1845">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69297000AV0021</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TERNAY</SimpleData>
+					<SimpleData name="Adresse">23, CHE DU TERRIER</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">VILOGIA SOCIETE ANONYME DHLM</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6014557487559 </north>
+			<south> 45.6011561778303 </south>
+			<east> 4.81140072838616 </east>
+			<west> 4.81084357723217 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.81090691572677,45.6014557487559,0 4.81140072838616,45.60143779873479,0 4.81140061412374,45.6014264515721,0 4.81139870900078,45.6011561778303,0 4.811038747837,45.6011707116167,0 4.81084357723217,45.60117844782751,0 4.8108582208531,45.6014223957189,0 4.81090691572677,45.6014557487559,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.1949">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69297000AT0220</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TERNAY</SimpleData>
+					<SimpleData name="Adresse">GRANDE COMBE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.60045534603059 </north>
+			<south> 45.5998908336394 </south>
+			<east> 4.80401342130008 </east>
+			<west> 4.80378303795359 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.8038206807042,45.59989393712001,0 4.80380982853128,45.60004146772421,0 4.80378303795359,45.6004049745816,0 4.80396700999749,45.60045534603059,0 4.80401342130008,45.5998944484999,0 4.80391309231304,45.5998908336394,0 4.80391265620983,45.5998971456213,0 4.8038206807042,45.59989393712001,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.1955">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69297000AT0221</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TERNAY</SimpleData>
+					<SimpleData name="Adresse">GRANDE COMBE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.5998971456213 </north>
+			<south> 45.5994287980914 </south>
+			<east> 4.80404599519329 </east>
+			<west> 4.8038206807042 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.80385405478334,45.5994449371379,0 4.80383375214872,45.5997199800483,0 4.8038206807042,45.59989393712001,0 4.80391265620983,45.5998971456213,0 4.80391309231304,45.5998908336394,0 4.80401342130008,45.5998944484999,0 4.80402781560818,45.599721731174,0 4.80404599519329,45.5994287980914,0 4.80385405478334,45.5994449371379,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.1965">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69297000AT0222</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TERNAY</SimpleData>
+					<SimpleData name="Adresse">24, MTE DE LA MONNAIE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6005980207612 </north>
+			<south> 45.5998944484999 </south>
+			<east> 4.80436423759115 </east>
+			<west> 4.80396700999749 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.80401342130008,45.5998944484999,0 4.80396700999749,45.60045534603059,0 4.80403869707345,45.6004738316927,0 4.80419044394424,45.600519675695,0 4.80431502034201,45.6005980207612,0 4.80431774151627,45.6005594266065,0 4.8043401483516,45.6002466099369,0 4.80434392188894,45.60019304707049,0 4.80436423759115,45.5999066548293,0 4.80401342130008,45.5998944484999,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.1971">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69297000AT0223</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TERNAY</SimpleData>
+					<SimpleData name="Adresse">24, MTE DE LA MONNAIE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.5999066548293 </north>
+			<south> 45.599721731174 </south>
+			<east> 4.80437657597092 </east>
+			<west> 4.80401342130008 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.80401342130008,45.5998944484999,0 4.80436423759115,45.5999066548293,0 4.80437657597092,45.59973388035431,0 4.80430605266236,45.59973140893481,0 4.80402781560818,45.599721731174,0 4.80401342130008,45.5998944484999,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2358">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69297000AX0266</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TERNAY</SimpleData>
+					<SimpleData name="Adresse">54, MTE DES BROSSES</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.5975090047609 </north>
+			<south> 45.5969225712421 </south>
+			<east> 4.79969015546971 </east>
+			<west> 4.79854412745073 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.7996548701241,45.5972963702557,0 4.79969015546971,45.5972885098411,0 4.79958049572741,45.5969736647044,0 4.79956455461549,45.5969252813942,0 4.79931807071341,45.5969723693344,0 4.79932184586552,45.5969819465413,0 4.79930169823969,45.5969857816642,0 4.79931009688155,45.5970073544256,0 4.79929404624237,45.5970346325538,0 4.79927568516195,45.5970381688751,0 4.79929276522801,45.5970821205171,0 4.79868006285828,45.5971992863313,0 4.79865722629649,45.5971084095656,0 4.79868438621699,45.5971032014114,0 4.79864817673718,45.5969600270892,0 4.7986199354702,45.5969635411794,0 4.79861567608575,45.5969469461513,0 4.79863605529574,45.5969225712421,0 4.79854412745073,45.5969404343807,0 4.79869357874388,45.5975090047609,0 4.79879727303013,45.5974859994037,0 4.79904556017075,45.5974311376856,0 4.7992926985147,45.5973764739338,0 4.79945385098617,45.5973409294954,0 4.7996548701241,45.5972963702557,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2786">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69297000AN0032</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TERNAY</SimpleData>
+					<SimpleData name="Adresse">40, LOT LES EMERAUDES</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.60587899523711 </north>
+			<south> 45.6048258236839 </south>
+			<east> 4.81294851043996 </east>
+			<west> 4.81153242604728 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.81190161327569,45.60558040467989,0 4.81211886309305,45.6057647039089,0 4.81223514390493,45.6058633502822,0 4.81225362115256,45.60587899523711,0 4.81294851043996,45.6054477034414,0 4.81251731139148,45.60514867985151,0 4.81222827998551,45.6049471634012,0 4.81207556804232,45.6048409975618,0 4.81205018137152,45.6048298774032,0 4.81202784889024,45.6048258236839,0 4.81200301143833,45.6048275748913,0 4.81198111924383,45.60483306164849,0 4.8119641655227,45.6048404504172,0 4.81194968986687,45.60484906026381,0 4.81171919504163,45.6050327360377,0 4.81153242604728,45.6051801288515,0 4.81172760199694,45.60534875157,0 4.81187575962775,45.60547651835201,0 4.8118203078638,45.6055113685504,0 4.81190161327569,45.60558040467989,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2933">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69297000AY0034</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TERNAY</SimpleData>
+					<SimpleData name="Adresse">1, RUE DES CITES</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">ALPES ISERE HABITAT OFFICE PUBLIC DE LHABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.5954390539345 </north>
+			<south> 45.5950127285677 </south>
+			<east> 4.79537213857609 </east>
+			<west> 4.79440640128247 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.79529755215419,45.5950127285677,0 4.79440640128247,45.5951124289379,0 4.79442270176361,45.5951998078782,0 4.79445417499024,45.59537143126811,0 4.79446675675473,45.5954390539345,0 4.79537213857609,45.5953665976197,0 4.79533333253384,45.5951825716409,0 4.79529755215419,45.5950127285677,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2967">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69297000AB0345</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TERNAY</SimpleData>
+					<SimpleData name="Adresse">1, ALL LALSONE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.62273700158021 </north>
+			<south> 45.6222031165804 </south>
+			<east> 4.81736499320422 </east>
+			<west> 4.81682806061168 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.81686413804672,45.6222712555616,0 4.81688556458113,45.6223022545386,0 4.81682806061168,45.6223219180503,0 4.81698756633357,45.6225512771009,0 4.81691851116104,45.6225749102129,0 4.81689601679441,45.6225426674783,0 4.81687880868034,45.6225385318434,0 4.81684428108618,45.62255034837129,0 4.81683838428258,45.6225623330675,0 4.8169598980015,45.62273700158021,0 4.81736499320422,45.6225914782178,0 4.81721512342972,45.6223780868917,0 4.81709000560107,45.6222031165804,0 4.81686413804672,45.6222712555616,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.3251">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69297000AB0390</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TERNAY</SimpleData>
+					<SimpleData name="Adresse">1, CHE DE BUYAT</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.62191838410839 </north>
+			<south> 45.6216240842141 </south>
+			<east> 4.81956458909521 </east>
+			<west> 4.81905070243734 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.8190653629258,45.6218073065243,0 4.81905070243734,45.6218142989403,0 4.81915321893439,45.6219106395859,0 4.81917450172413,45.6219176813601,0 4.81919788688986,45.62191838410839,0 4.81922004171022,45.6219128917888,0 4.81935268599203,45.62184391364481,0 4.81940922482391,45.6218144465978,0 4.8195127174965,45.62176071144731,0 4.81953404446993,45.6217495579261,0 4.81956458909521,45.6217337517375,0 4.81945072368934,45.6216240842141,0 4.81906827232017,45.6218059984797,0 4.8190653629258,45.6218073065243,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.3273">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69297000AB0394</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TERNAY</SimpleData>
+					<SimpleData name="Adresse">1, CHE DE BUYAT</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6220691707455 </north>
+			<south> 45.6219511127794 </south>
+			<east> 4.81943769230814 </east>
+			<west> 4.81929028789797 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.81935184223619,45.6219511127794,0 4.81929028789797,45.621980300608,0 4.81937574416035,45.6220691707455,0 4.81943769230814,45.62204024671799,0 4.81935184223619,45.6219511127794,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.4014">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69297000AM0521</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TERNAY</SimpleData>
+					<SimpleData name="Adresse">1, IMP DES BUISSERATTES</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">IMMOBILIERE RHONE ALPES SA DHLM</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.60272438305551 </north>
+			<south> 45.60236340105369 </south>
+			<east> 4.81929461133501 </east>
+			<west> 4.81888931373104 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.81906704052277,45.60236340105369,0 4.81888931373104,45.6024804862527,0 4.81916884119289,45.60272438305551,0 4.81929461133501,45.60258030570721,0 4.81928758753558,45.6025305196158,0 4.81906704052277,45.60236340105369,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

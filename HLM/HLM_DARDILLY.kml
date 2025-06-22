@@ -1,0 +1,1414 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>DARDILLY_HLM</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_5">
+		<name>DARDILLY_HLM</name>
+		<Schema name="DARDILLY_HLM" id="DARDILLY_HLM.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="HLM">
+			<LineStyle>
+				<color>BFe451f5</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4Ce451f5</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.411">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69072000AI0100</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">CHE DE GARGANTUA</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">GRANDLYON HABITAT - OFFICE PUBLIC DE LHABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8213847533677 </north>
+			<south> 45.8192466587564 </south>
+			<east> 4.75991411558995 </east>
+			<west> 4.75764916879833 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.75946781131663,45.8192888321145,0 4.75930312533195,45.8195660260468,0 4.75902399989812,45.82003586393719,0 4.75889795799841,45.8201837431188,0 4.75835338134431,45.8198021254531,0 4.75764916879833,45.82124000080049,0 4.75765830958232,45.82126814093839,0 4.75766005823801,45.8212745087889,0 4.75766256225777,45.82128032445311,0 4.75766557845372,45.8212860420733,0 4.75766885217146,45.8212917556848,0 4.75767250643841,45.8212972832298,0 4.75767641536067,45.8213027167393,0 4.75768083645954,45.8213080522046,0 4.75768538345325,45.8213132956387,0 4.75769043975708,45.8213183510018,0 4.75769561908915,45.8213232243068,0 4.75770118183746,45.82132800157179,0 4.75770699350802,45.8213325047475,0 4.75771318859489,45.82133691188311,0 4.75771924918863,45.8213411409692,0 4.75772581622596,45.82134509195711,0 4.75773276667964,45.82134894690489,0 4.75773970566732,45.821352441745,0 4.75774715969881,45.8213559285672,0 4.75775460226415,45.8213590552818,0 4.7577621707243,45.8213620899647,0 4.75776923274266,45.8213654027451,0 4.75777679260407,45.82136816734671,0 4.7577843467326,45.8213707518942,0 4.75779214978288,45.821373062352,0 4.75779994710013,45.82137519275571,0 4.7578081249666,45.821377137092,0 4.75781616547225,45.8213788133517,0 4.7578243318723,45.8213803975797,0 4.75783248680522,45.82138162169991,0 4.75784076476547,45.8213826637615,0 4.75784916575298,45.8213835237644,0 4.75785755813993,45.8213841136863,0 4.75786581889932,45.8213846155854,0 4.75787432571258,45.8213847533677,0 4.75788282679193,45.8213847110958,0 4.75789119050949,45.8213844007474,0 4.75789967725373,45.8213839083403,0 4.75790802950299,45.8213832378836,0 4.75791637315095,45.82138229734591,0 4.75792471106453,45.821381176754,0 4.75793007601158,45.8213797421599,0 4.75793493738351,45.82137867569099,0 4.75793966426033,45.8213774311729,0 4.75794451416354,45.8213760045965,0 4.75794923817283,45.8213746700512,0 4.75795383055403,45.82137324748361,0 4.75795854882866,45.82137173288439,0 4.75796326423591,45.8213701282582,0 4.75796785374925,45.8213686156633,0 4.7579724375281,45.8213669230145,0 4.75797689254591,45.8213652323703,0 4.7579814763242,45.8213635397212,0 4.75798579971358,45.8213617610545,0 4.75799024612911,45.82135980032929,0 4.75799456665076,45.8213579316355,0 4.75799901593284,45.8213560609368,0 4.75800319909166,45.8213539241669,0 4.75800738798451,45.8213519674504,0 4.75801157400989,45.821349920707,0 4.75801575430056,45.8213476939099,0 4.75805255272695,45.8213260442753,0 4.75806464996022,45.8213175693577,0 4.7582336893922,45.8211847841665,0 4.75824527152553,45.8211763172492,0 4.75825685652289,45.82116794035759,0 4.75826883066509,45.8211596474766,0 4.75828081053893,45.8211515346479,0 4.75829317955753,45.8211435058297,0 4.75830568593569,45.82113574508539,0 4.75831832107052,45.8211279823347,0 4.75833109069736,45.8211203976312,0 4.7583441235764,45.8211129889696,0 4.75835728807981,45.8211056683282,0 4.75837058994312,45.8210986157604,0 4.75838415219099,45.82109164920771,0 4.75839771730324,45.8210847726802,0 4.75841154853571,45.821078162221,0 4.75842551139276,45.8210716397817,0 4.75843960587441,45.8210652053624,0 4.75845358019644,45.8210590430267,0 4.75846807242326,45.8210529626953,0 4.75848257038277,45.82104706241559,0 4.75849861632678,45.821041228098,0 4.75851862514604,45.8210344313476,0 4.75853890295237,45.8210279906902,0 4.75855931811809,45.82102181810409,0 4.75857973901543,45.8210158255679,0 4.75860055479241,45.8210100970922,0 4.75860080944407,45.82101000305479,0 4.75886500603256,45.8208799681901,0 4.75904675055803,45.8207619356877,0 4.75916538977915,45.8206647017618,0 4.75926662486972,45.82068429132151,0 4.75945625191093,45.82026394560561,0 4.75953193772787,45.8200963141906,0 4.75991411558995,45.8192466587564,0 4.75946781131663,45.8192888321145,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.530">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69072000AR0108</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">AV DE VERDUN</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8090378705959 </north>
+			<south> 45.8087801848248 </south>
+			<east> 4.75318175928972 </east>
+			<west> 4.7527926011352 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.75318125358006,45.8090097762181,0 4.75313945604436,45.8089954734849,0 4.75312187711366,45.80898944148471,0 4.75310441262611,45.80898295734839,0 4.75308758036877,45.8089761031066,0 4.75307086541367,45.80896888675581,0 4.75305440221001,45.8089614863507,0 4.7530383080561,45.8089535397851,0 4.75302297772337,45.8089453111426,0 4.75300763596168,45.80893672239061,0 4.75299279769901,45.8089277655333,0 4.75297833706186,45.8089185325966,0 4.75296425119194,45.8089089335538,0 4.75295067167948,45.8088990564331,0 4.75293746979259,45.8088889032334,0 4.75292477426306,45.8088784719561,0 4.7529125850908,45.8088677626014,0 4.7529009051339,45.80885686519609,0 4.75288972867581,45.8088455996869,0 4.75287905857461,45.8088340561007,0 4.75286890054645,45.8088224144913,0 4.75285937474831,45.8088104027796,0 4.75283860118293,45.80878082167331,0 4.7527926011352,45.8087801848248,0 4.7528034911578,45.808802713696,0 4.75280476406447,45.8088062967821,0 4.75280642030822,45.8088097838451,0 4.75280820528384,45.8088132689093,0 4.75280998740164,45.80881666394661,0 4.75281202698301,45.80882005498639,0 4.75281419529632,45.80882344402739,0 4.75281636075182,45.80882674304151,0 4.75281878081292,45.80882994803121,0 4.75282132960601,45.8088331510221,0 4.7528238783994,45.80883635401289,0 4.75282655592481,45.8088395550049,0 4.75282935932417,45.8088426639712,0 4.75283228573939,45.8088455908849,0 4.75283534374477,45.8088486058266,0 4.75283840175049,45.8088516207683,0 4.75284171150383,45.8088544516586,0 4.75284502411563,45.8088573725756,0 4.75284845688519,45.8088600214132,0 4.75285202124499,45.8088627582787,0 4.75285571147878,45.8088654031184,0 4.75286804080392,45.808876470588,0 4.75287995249858,45.8088865537572,0 4.75289198721305,45.8088964548725,0 4.75290466273301,45.8089062559654,0 4.75291758714656,45.80891578297859,0 4.75293088918555,45.808925033913,0 4.75294431138609,45.8089340127664,0 4.75295824280223,45.80894280356879,0 4.75297255184376,45.8089513182921,0 4.752987112637,45.808959648962,0 4.75300192232353,45.8089677055514,0 4.75301685217122,45.80897549005941,0 4.75303215964398,45.8089829984878,0 4.75304784760021,45.8089903208633,0 4.75306378159085,45.80899727913109,0 4.75307970700998,45.8090039673162,0 4.75309613878583,45.809010377422,0 4.75311281945406,45.80901651344681,0 4.75312949155024,45.80902237938841,0 4.75314653841195,45.8090278792228,0 4.75318175928972,45.8090378705959,0 4.75318125358006,45.8090097762181,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.653">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69072000BT0114</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">8, CHE DU LAVOIR</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">GRANDLYON HABITAT - OFFICE PUBLIC DE LHABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8198652474133 </north>
+			<south> 45.8191359479645 </south>
+			<east> 4.74639470364055 </east>
+			<west> 4.74560409134771 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.74639470364055,45.819672108721,0 4.74593346721928,45.81930364501219,0 4.7456586740613,45.8191359479645,0 4.74562309408171,45.8194976831338,0 4.74560409134771,45.8196300211398,0 4.74560442857428,45.8196325379172,0 4.74560463704373,45.8196350566851,0 4.74560497427036,45.81963757346251,0 4.74560556616449,45.8196399962317,0 4.74560590339119,45.81964251300899,0 4.74560649813229,45.8196450258053,0 4.74560696411625,45.8196475405922,0 4.74560768761464,45.8196500513979,0 4.74560840826621,45.8196524721766,0 4.74560913176473,45.8196549829823,0 4.74560985241644,45.819657403761,0 4.74561083342952,45.8196599105856,0 4.74561168283858,45.8196623293737,0 4.74561266100495,45.8196647461713,0 4.7456136391714,45.8196671629688,0 4.74561487485241,45.8196695757853,0 4.74561598177629,45.8196719905923,0 4.74561708870027,45.8196744053992,0 4.74561832438159,45.8196768182157,0 4.74561968597339,45.8196791390144,0 4.74562009502033,45.8196798532595,0 4.74562037815691,45.81968065952219,0 4.74562066129351,45.81968146578479,0 4.74562094443011,45.8196822720475,0 4.74562122756672,45.81968307831019,0 4.74562151070333,45.8196838845729,0 4.74562166508269,45.81968469282611,0 4.74562195106622,45.8196855891159,0 4.74562210544558,45.81968639736909,0 4.74562225982495,45.81968720562229,0 4.74562228544705,45.8196880158661,0 4.74562244267332,45.8196889141464,0 4.7456225970527,45.8196897223996,0 4.7456226226748,45.81969053264339,0 4.74562264829691,45.8196913428872,0 4.74562267676591,45.819692243158,0 4.74562257363072,45.81969305539239,0 4.74562259925282,45.8196938656362,0 4.74562249896453,45.8196947678976,0 4.74562239298243,45.8196954901048,0 4.74561820054083,45.819717712409,0 4.74566674233366,45.8197332648271,0 4.7460785046329,45.8198652474133,0 4.74639470364055,45.819672108721,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.851">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69072000BC0128</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">56, CHE JEAN-MARIE VIANNEY</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7971404295517 </north>
+			<south> 45.7970145167627 </south>
+			<east> 4.7664675517626 </east>
+			<west> 4.76625304605641 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.76642331029829,45.7970145167627,0 4.76625304605641,45.7970940123666,0 4.76629715297792,45.7971404295517,0 4.7664675517626,45.7970611119197,0 4.76642331029829,45.7970145167627,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.860">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69072000BC0129</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">56, CHE JEAN-MARIE VIANNEY</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7970940123666 </north>
+			<south> 45.7969635594194 </south>
+			<east> 4.76643193832293 </east>
+			<west> 4.76620827265597 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.76638729930024,45.7969635594194,0 4.76620827265597,45.7970468850226,0 4.76625304605641,45.7970940123666,0 4.76642331029829,45.7970145167627,0 4.76643193832293,45.7970105086536,0 4.76638729930024,45.7969635594194,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.882">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69072000BC0130</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">56, CHE JEAN-MARIE VIANNEY</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7970468850226 </north>
+			<south> 45.79691723431059 </south>
+			<east> 4.76638729930024 </east>
+			<west> 4.76616404293863 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.76634306662027,45.79691723431059,0 4.76616404293863,45.7970006498699,0 4.76618175652647,45.7970190174931,0 4.76620827265597,45.7970468850226,0 4.76638729930024,45.7969635594194,0 4.76634306662027,45.79691723431059,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.944">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69072000AA0135</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">LONGE NORD</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SA DHLM REGION LYONNAISE GABRIEL ROSSETSOCIETE ANONYME DHA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8372824644698 </north>
+			<south> 45.83689575422401 </south>
+			<east> 4.74627558455108 </east>
+			<west> 4.74482657627514 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.74491272878756,45.837260327142,0 4.74482657627514,45.8372824644698,0 4.74488982550645,45.8372777044057,0 4.74493554322339,45.8372768179922,0 4.74498295663246,45.8372684294591,0 4.74560160387766,45.8371131350705,0 4.74565613290081,45.8371015738624,0 4.74592110392582,45.837045597396,0 4.74604097337617,45.837013930894,0 4.74627558455108,45.8369392377423,0 4.74626840982347,45.83689575422401,0 4.74566695330985,45.8370566412686,0 4.74498894383863,45.837237712776,0 4.74491272878756,45.837260327142,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.954">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69072000AA0136</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">LONGE NORD</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SA DHLM REGION LYONNAISE GABRIEL ROSSETSOCIETE ANONYME DHA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8375454950155 </north>
+			<south> 45.8372768179922 </south>
+			<east> 4.74493554322339 </east>
+			<west> 4.74473180340249 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.74493554322339,45.8372768179922,0 4.74488982550645,45.8372777044057,0 4.74482657627514,45.8372824644698,0 4.74482126921828,45.83728578901249,0 4.74481609949863,45.83728938164679,0 4.7448110557302,45.837292882264,0 4.74480614645246,45.83729656094579,0 4.74480136881894,45.83730032766479,0 4.74479672282963,45.8373041824213,0 4.74479233728296,45.8373081232255,0 4.74478808338054,45.837312152067,0 4.74478383232393,45.8373162709356,0 4.74477996766203,45.8373203838352,0 4.7447761086924,45.837324676789,0 4.74477251016553,45.83732905579069,0 4.74476891163808,45.83733343479221,0 4.74476557070704,45.8373378098145,0 4.74476249306527,45.8373423609119,0 4.7447594182694,45.8373470020363,0 4.74475672702216,45.83735154716479,0 4.74475404146727,45.8373562723476,0 4.74475174230754,45.8373609915616,0 4.74474944314742,45.8373657107756,0 4.74474740443041,45.8373705160375,0 4.74474549451162,45.8373753193099,0 4.74474397383463,45.8373802066408,0 4.74474232435878,45.83738509596121,0 4.74474106412483,45.8373900693401,0 4.74473993268928,45.8373950407294,0 4.74473893005215,45.83740001012909,0 4.74473831381077,45.8374049735603,0 4.74473769756929,45.8374099369914,0 4.74473747057005,45.83741498448099,0 4.7447339033336,45.8374855652775,0 4.74473180340249,45.8375454950155,0 4.74493554322339,45.8372768179922,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.987">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69072000AX0014</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">46, CHE DES BLES D OR</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">GRANDLYON HABITAT - OFFICE PUBLIC DE LHABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8025355233361 </north>
+			<south> 45.80191594362841 </south>
+			<east> 4.75980586248917 </east>
+			<west> 4.75920294965151 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.75960669900708,45.80191594362841,0 4.75939668687212,45.8019491209326,0 4.75920294965151,45.8019797924141,0 4.7592298615565,45.8019999092634,0 4.75924034558541,45.80200965371881,0 4.75925240037274,45.80202423754699,0 4.75926168903709,45.8020368829151,0 4.75926836323713,45.8020483080311,0 4.75927389620821,45.8020602913618,0 4.75937296636186,45.80236868289091,0 4.75937580672803,45.8023689088338,0 4.75937864709423,45.8023691347768,0 4.75938149319732,45.802369540773,0 4.75938433930045,45.8023699467691,0 4.75938718827207,45.8023704427918,0 4.75939003437529,45.80237084878781,0 4.75939275749905,45.8023714368433,0 4.75939548349133,45.8023721149255,0 4.75939820948367,45.8023727930075,0 4.75940093834455,45.8023735611162,0 4.75940353848909,45.8023743312311,0 4.75940614437065,45.80237528139931,0 4.75940862153588,45.8023762335736,0 4.75941110156968,45.8023772757747,0 4.75941358160357,45.8023783179756,0 4.75941593578963,45.8023794522095,0 4.75941828710728,45.8023804964166,0 4.75942064703052,45.8023818107037,0 4.75942287536894,45.8023830369704,0 4.75942484053756,45.80238408719621,0 4.75942668846385,45.802385499535,0 4.75942853352173,45.8023868218471,0 4.75943038431673,45.8023883242126,0 4.75943222937479,45.8023896465246,0 4.759433948585,45.8023910608696,0 4.75943554194738,45.80239256724749,0 4.7594372640263,45.8023940716192,0 4.75943886025738,45.80239566802371,0 4.75944045362001,45.8023971744016,0 4.7594419211348,45.8023987728124,0 4.75944338864968,45.8024003712232,0 4.75944498774966,45.8024020576544,0 4.75944632654822,45.8024036580715,0 4.75944766534687,45.8024052584886,0 4.75944900701414,45.8024069489323,0 4.75945021996499,45.8024086413823,0 4.75945143291593,45.8024103338323,0 4.75945264586693,45.8024120262824,0 4.75945411338247,45.8024136246931,0 4.75946817623247,45.8024588915449,0 4.75943267096112,45.8024964643096,0 4.75944627845107,45.8025355233361,0 4.75980586248917,45.80247983821991,0 4.75961957970466,45.8019524018921,0 4.75960669900708,45.80191594362841,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.1015">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69072000BC0142</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">56, CHE JEAN-MARIE VIANNEY</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7967350377056 </north>
+			<south> 45.796630826107 </south>
+			<east> 4.76630923067694 </east>
+			<west> 4.76612569056333 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.76612569056333,45.7966832074012,0 4.76617499209952,45.7967350377056,0 4.76630923067694,45.7966725890871,0 4.76627098859646,45.7966323851415,0 4.76624929426715,45.7966425424357,0 4.76623823186443,45.796630826107,0 4.76612569056333,45.7966832074012,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.1026">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69072000BC0143</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">56, CHE JEAN-MARIE VIANNEY</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7967820770498 </north>
+			<south> 45.7966612191396 </south>
+			<east> 4.76637836064902 </east>
+			<west> 4.76617499209952 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.76630923067694,45.7966725890871,0 4.76617499209952,45.7967350377056,0 4.76619351525446,45.7967545635873,0 4.76621963363635,45.7967820770498,0 4.76637836064902,45.7967082564067,0 4.76633359033382,45.7966612191396,0 4.76630923067694,45.7966725890871,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.1037">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69072000BC0144</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">56, CHE JEAN-MARIE VIANNEY</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7968036413084 </north>
+			<south> 45.7967082564067 </south>
+			<east> 4.76642126872555 </east>
+			<west> 4.76621963363635 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.76637836064902,45.7967082564067,0 4.76621963363635,45.7967820770498,0 4.76624028229824,45.7968036413084,0 4.76628461492144,45.7967967326085,0 4.76633004713913,45.7967960216193,0 4.76642126872555,45.7967534312997,0 4.76637836064902,45.7967082564067,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.1049">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69072000BC0145</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">56, CHE JEAN-MARIE VIANNEY</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7970034835049 </north>
+			<south> 45.796961286973 </south>
+			<east> 4.76651435916678 </east>
+			<west> 4.76644442592822 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.76649796707374,45.796961286973,0 4.76644442592822,45.7969862641124,0 4.76646068642855,45.7970034835049,0 4.76651435916678,45.7969785943698,0 4.76649796707374,45.796961286973,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.1059">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69072000BC0146</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">56, CHE JEAN-MARIE VIANNEY</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7969862641124 </north>
+			<south> 45.7969441616411 </south>
+			<east> 4.76649796707374 </east>
+			<west> 4.76642803673447 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.76648145204693,45.7969441616411,0 4.76642803673447,45.79696904673201,0 4.76644442592822,45.7969862641124,0 4.76649796707374,45.796961286973,0 4.76648145204693,45.7969441616411,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.1074">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69072000BC0147</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">56, CHE JEAN-MARIE VIANNEY</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.79696904673201 </north>
+			<south> 45.7969269422517 </south>
+			<east> 4.76648145204693 </east>
+			<west> 4.76641164755093 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.76642803673447,45.79696904673201,0 4.76648145204693,45.7969441616411,0 4.76646519155759,45.7969269422517,0 4.76641164755093,45.7969518293491,0 4.76642803673447,45.79696904673201,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.1111">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69072000BC0149</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">56, CHE JEAN-MARIE VIANNEY</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7968302525783 </north>
+			<south> 45.79678060259391 </south>
+			<east> 4.76652710297507 </east>
+			<west> 4.76645010679589 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.76647928808916,45.79679197459241,0 4.76645010679589,45.7968055817502,0 4.76647368781741,45.7968302525783,0 4.76652710297507,45.79680536746599,0 4.76650377646682,45.79678060259391,0 4.76647928808916,45.79679197459241,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.1121">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69072000BC0150</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">56, CHE JEAN-MARIE VIANNEY</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7968169517229 </north>
+			<south> 45.7967747572171 </south>
+			<east> 4.76647928808916 </east>
+			<west> 4.76640935508203 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.76646289894219,45.7967747572171,0 4.76640935508203,45.7967996443133,0 4.76642574709932,45.7968169517229,0 4.76645010679589,45.7968055817502,0 4.76647928808916,45.79679197459241,0 4.76646289894219,45.7967747572171,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.1129">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69072000BC0151</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">56, CHE JEAN-MARIE VIANNEY</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7967996443133 </north>
+			<south> 45.79675603154659 </south>
+			<east> 4.76646289894219 </east>
+			<west> 4.76639150126743 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.76640935508203,45.7967996443133,0 4.76646289894219,45.7967747572171,0 4.76644504511749,45.79675603154659,0 4.76639150126743,45.7967809186342,0 4.76640935508203,45.7967996443133,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.1472">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69072000AO0018</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">LE JUBIN</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">GRANDLYON HABITAT - OFFICE PUBLIC DE LHABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8175936367916 </north>
+			<south> 45.8170942533018 </south>
+			<east> 4.75954067456 </east>
+			<west> 4.75880171034564 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.75880171034564,45.8174055479594,0 4.75881439141474,45.8174113852096,0 4.758832686246,45.8174195669393,0 4.75885110122916,45.8174274765801,0 4.75886976798391,45.8174352021531,0 4.75888842327024,45.8174425676161,0 4.75890746194783,45.8174498370321,0 4.75892480391189,45.8174564123053,0 4.75894123314481,45.8174626415091,0 4.75895804863631,45.8174688646932,0 4.75897485839448,45.81747490782129,0 4.75899166815633,45.81748095094701,0 4.75900860667352,45.8174869920643,0 4.75902540783682,45.81749276510471,0 4.75904246937568,45.8174986241576,0 4.75905952804947,45.8175043931812,0 4.7590764579751,45.8175101642081,0 4.75909363680147,45.8175156611405,0 4.75911081850005,45.8175212480969,0 4.75912812321623,45.8175266529914,0 4.75914529918403,45.8175320598892,0 4.75916273265875,45.81753746277231,0 4.7591800316473,45.8175426876053,0 4.75919745365308,45.8175477303762,0 4.75921487853099,45.8175528631711,0 4.75923230054317,45.8175579059366,0 4.75924984844134,45.8175628566665,0 4.75936702123972,45.8175936367916,0 4.75939000179475,45.81755887141411,0 4.75954067456,45.8173272015898,0 4.7595044173879,45.817256610165,0 4.75910187556295,45.81712741498059,0 4.75899879763876,45.8170942533018,0 4.75899302747321,45.81710317019489,0 4.75893688760715,45.81718880199201,0 4.75880171034564,45.8174055479594,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.1620">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69072000AO0019</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">LE JUBIN</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">GRANDLYON HABITAT - OFFICE PUBLIC DE LHABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8174055479594 </north>
+			<south> 45.816706680073 </south>
+			<east> 4.75959051993297 </east>
+			<west> 4.75798646720902 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.75798646720902,45.816706680073,0 4.75799253331061,45.8167151424062,0 4.75799688839509,45.8167224604518,0 4.7580013664968,45.816729596439,0 4.75800571011584,45.8167365543772,0 4.75801031410285,45.8167435983327,0 4.75801491809104,45.8167506422879,0 4.75801939046344,45.81675759822091,0 4.75802412320397,45.8167646401711,0 4.75802898182875,45.8167715900897,0 4.75803370597074,45.81677836195921,0 4.75803856459794,45.8167853118773,0 4.75804368072652,45.81679225778579,0 4.75804853362217,45.81679902764999,0 4.75805364688625,45.81680588353129,0 4.75805888890173,45.8168127374076,0 4.75806399930133,45.8168195032617,0 4.75806923845234,45.8168262671108,0 4.75807460922186,45.81683311898161,0 4.75807997425858,45.8168397907987,0 4.7580854680468,45.81684646061079,0 4.75809096470343,45.8168532204494,0 4.75812689759841,45.8168975164934,0 4.75817102238416,45.8169482601786,0 4.75824510535853,45.8170296119701,0 4.75830115114353,45.8170582826172,0 4.75849785050845,45.817207890339,0 4.75856782965972,45.8172655269927,0 4.75858235364371,45.8172766497781,0 4.7585973840346,45.8172874944601,0 4.75861266619797,45.8172981550759,0 4.75862820300176,45.817308721652,0 4.75864398584204,45.8173189241083,0 4.75865989743946,45.81732912455689,0 4.75867618669256,45.81733904890681,0 4.75869272484994,45.8173486991631,0 4.75870951764774,45.8173582553794,0 4.75872643346645,45.8173676295341,0 4.75874360105739,45.8173768196218,0 4.7587610204205,45.8173858256424,0 4.75877868868752,45.8173945575689,0 4.7587964771068,45.8174030174068,0 4.75880171034564,45.8174055479594,0 4.75893688760715,45.81718880199201,0 4.75899302747321,45.81710317019489,0 4.75899879763876,45.8170942533018,0 4.75910187556295,45.81712741498059,0 4.7595044173879,45.817256610165,0 4.75954067456,45.8173272015898,0 4.75959051993297,45.81725022436139,0 4.75901896459817,45.817080338334,0 4.75837097346533,45.8168481395186,0 4.75807716086959,45.8167393149181,0 4.75798646720902,45.816706680073,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.1656">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69072000AR0192</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">1, ALL DU LEVANT</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">GRANDLYON HABITAT - OFFICE PUBLIC DE LHABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8145038703899 </north>
+			<south> 45.8137693003593 </south>
+			<east> 4.75419506437249 </east>
+			<west> 4.75317810301997 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.75419506437249,45.8143221045293,0 4.75331024362372,45.8137693003593,0 4.75317810301997,45.81383467246179,0 4.75331391945503,45.81421761808041,0 4.75331531554558,45.8142210191084,0 4.75331918914637,45.8142294256535,0 4.75332370075145,45.81423764214799,0 4.75332872161675,45.8142456705913,0 4.75333275549748,45.8142510122235,0 4.75333463797543,45.8142535049852,0 4.7533409319912,45.8142610633001,0 4.75334786115288,45.8142683415373,0 4.75335530243466,45.8142755217496,0 4.75336324439976,45.8142822438296,0 4.75336456615464,45.8142833041584,0 4.75362059560657,45.8144888335795,0 4.75362204897587,45.8144899819324,0 4.75362454946229,45.8144916544491,0 4.75362704708918,45.8144932369388,0 4.75362966774171,45.8144946373751,0 4.75363241713926,45.8144960358117,0 4.75363516367725,45.8144973442213,0 4.75363816198575,45.8144984685777,0 4.75364116029437,45.814499592934,0 4.75364415002398,45.8145004472097,0 4.75364739724348,45.8145012974859,0 4.75365064160335,45.8145020577351,0 4.75365388024385,45.8145026379305,0 4.75365672979,45.8145031340981,0 4.75365724476959,45.8145031260992,0 4.75366060357592,45.8145034342141,0 4.75366383363738,45.8145037443286,0 4.75366731546918,45.8145038703899,0 4.75367066283658,45.814503818397,0 4.75367400734422,45.8145036763772,0 4.75367734899208,45.8145034443304,0 4.75368068492037,45.81450303222969,0 4.75368401798883,45.8145025301021,0 4.75368721945255,45.81450193994731,0 4.75369041519663,45.8145011697387,0 4.75369347933594,45.8145003115029,0 4.75369654061536,45.8144993632401,0 4.75369972777976,45.8144983229506,0 4.75419506437249,45.8143221045293,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.1700">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69072000AK0197</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">LES CHARRIERES</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">GRANDLYON HABITAT - OFFICE PUBLIC DE LHABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8228505866528 </north>
+			<south> 45.8216431823552 </south>
+			<east> 4.7631450747058 </east>
+			<west> 4.76194081064398 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.76194081064398,45.8221880420566,0 4.7619541234669,45.82224187724041,0 4.76200289426678,45.8224379225013,0 4.76202433812146,45.8225245069077,0 4.76212038856095,45.82255507353659,0 4.76225470368911,45.8225978330806,0 4.76236285586351,45.8226321737915,0 4.76264072704686,45.82272061034351,0 4.76288007096692,45.8227966774072,0 4.76303234360753,45.8228450103467,0 4.7630501711834,45.8228505866528,0 4.7631450747058,45.8226233855521,0 4.76296575534282,45.8217161024237,0 4.76283603204081,45.8216960601655,0 4.76283640455413,45.8216431823552,0 4.76256943317913,45.8216619414984,0 4.76256957631358,45.82166238962179,0 4.76263287640552,45.8219381913653,0 4.76263348344533,45.82194106417871,0 4.76263398759609,45.821944749242,0 4.76263436298497,45.82194843631531,0 4.76263435208808,45.8219521294184,0 4.76263408366728,45.8219558265414,0 4.76263355772252,45.8219595276843,0 4.76263277425375,45.8219632328471,0 4.76263160162419,45.82196685401309,0 4.76263029735773,45.82197038716231,0 4.76262970529331,45.8219720176919,0 4.76262873556712,45.8219739243314,0 4.76262678461555,45.8219773775036,0 4.76262470202698,45.8219807426591,0 4.76262235903939,45.8219840218078,0 4.76261962689069,45.82198721695951,0 4.76261689186696,45.8219903220845,0 4.76261376768206,45.8219933432125,0 4.76261151320921,45.82199535997771,0 4.76248710479128,45.8221054777846,0 4.7624865954911,45.82210566587711,0 4.76247849842896,45.82211029583599,0 4.76247026110515,45.8221145676975,0 4.76246162886959,45.8221185755076,0 4.76245259884785,45.8221222292396,0 4.76244355732709,45.82212552286421,0 4.76244202942554,45.82212608714089,0 4.76243399213248,45.8221285544469,0 4.76242428380234,45.8221311379052,0 4.76241443808568,45.82213345329241,0 4.76240458087063,45.822135408572,0 4.76239432012147,45.8221368297198,0 4.76238418238546,45.8221380688037,0 4.7623737727525,45.8221388617725,0 4.76237287429011,45.82213896586681,0 4.76194081064398,45.8221880420566,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.1721">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69072000AL0002</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">NERONDE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">GRANDLYON HABITAT - OFFICE PUBLIC DE LHABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8215665340399 </north>
+			<south> 45.8206258215858 </south>
+			<east> 4.76403043930504 </east>
+			<west> 4.76089785915229 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.76281729563638,45.82079068334091,0 4.76141403010123,45.8209847086818,0 4.76100820375501,45.8209554603032,0 4.76089785915229,45.8209047595406,0 4.76093282522583,45.8210316654087,0 4.76092436392109,45.8210531443055,0 4.76092023641708,45.8210650981102,0 4.760915574244,45.8210804829695,0 4.76091040324765,45.82110010912351,0 4.76090680561208,45.82111655823899,0 4.76090407196043,45.8211318229514,0 4.7609018188851,45.82114599931139,0 4.76089984965071,45.8211650351055,0 4.76089888704688,45.8211792814124,0 4.76089848208712,45.8211908168784,0 4.7608985031397,45.8211995534847,0 4.76089878171284,45.821208286075,0 4.76089931493476,45.82121692462271,0 4.76089997978905,45.82122565118911,0 4.76089981751562,45.821232679296,0 4.76089990989094,45.8212396133602,0 4.76090038854737,45.8212465414005,0 4.76090112472468,45.8212534654249,0 4.76090198679066,45.8212602974145,0 4.76090323513809,45.8212671233803,0 4.76090461224625,45.8212739473381,0 4.7609061181152,45.8212807692879,0 4.76090788437734,45.82128767724829,0 4.76091003117751,45.8212943991315,0 4.76091218085013,45.8213012110413,0 4.76091471393286,45.8213079269004,0 4.76091737577674,45.8213146407514,0 4.76092016063793,45.821321172541,0 4.76092333465338,45.8213277883332,0 4.76092676331877,45.8213343100826,0 4.76093019198497,45.8213408318319,0 4.76093400118986,45.82134716750371,0 4.76093768450698,45.8213535952101,0 4.76094187999548,45.8213599248576,0 4.7609462358373,45.8213672427906,0 4.76095084345763,45.8213743766541,0 4.7609557086005,45.82138150650119,0 4.7609609600267,45.82138863032411,0 4.76096619996621,45.82139539403979,0 4.76097195782192,45.8214022397499,0 4.7609779703285,45.82140899141681,0 4.76098397709248,45.82141556303,0 4.76099037014019,45.8214221286187,0 4.76099701496687,45.82142851013741,0 4.7610037856838,45.8214347996209,0 4.76101093694055,45.8214409030264,0 4.76101834572053,45.8214470024151,0 4.76102574588582,45.8214528317233,0 4.76103353233522,45.82145865500669,0 4.76104143893073,45.8214642062012,0 4.76104960304959,45.821469753379,0 4.7610577585536,45.82147503047609,0 4.76106630034186,45.82148030154799,0 4.76107496227611,45.8214853005311,0 4.76108203887001,45.8214890632378,0 4.76108910684824,45.821492555864,0 4.76109604606642,45.8214960504979,0 4.76110336295161,45.8214992690267,0 4.76111055394895,45.82150257959001,0 4.76111786796358,45.82150570809121,0 4.76112531074001,45.8215088345836,0 4.76113275064499,45.8215118710489,0 4.76114540992529,45.8215169878246,0 4.76115780019664,45.8215217485086,0 4.76116861661462,45.8215256330236,0 4.76117981931715,45.8215295115126,0 4.7611908846431,45.82153312192881,0 4.76120116016993,45.82153620423361,0 4.76121168460273,45.8215390124407,0 4.76123141139172,45.8215435686151,0 4.76125021962172,45.8215475986845,0 4.76126590886398,45.8215507766851,0 4.7612830001171,45.8215534824576,0 4.76130176526579,45.821556162118,0 4.76132285098824,45.8215588956498,0 4.76134443739393,45.8215611710103,0 4.76136098488316,45.8215629845379,0 4.7613757067368,45.8215641059688,0 4.76139377063386,45.8215649951226,0 4.76140783431957,45.8215656764585,0 4.76141995509828,45.8215660278143,0 4.76143504025494,45.82156642299829,0 4.76145101812102,45.8215665340399,0 4.76146929932254,45.8215661587907,0 4.76148165176819,45.8215656958825,0 4.76149258209598,45.82156507501459,0 4.76150273698414,45.821564376171,0 4.76151031665046,45.8215637174997,0 4.76151814809293,45.8215628747573,0 4.76152713551189,45.8215619239095,0 4.76156848740334,45.82155785609089,0 4.76219577677683,45.8214864594172,0 4.76286876532559,45.8214100223526,0 4.76324573131004,45.82131802811689,0 4.76332715119799,45.8211769656345,0 4.76368085954546,45.8210949707605,0 4.76403043930504,45.8206258215858,0 4.76281729563638,45.82079068334091,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.1727">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69072000AO0020</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">LE JUBIN</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">GRANDLYON HABITAT - OFFICE PUBLIC DE LHABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.81725022436139 </north>
+			<south> 45.8161078397216 </south>
+			<east> 4.76012009902318 </east>
+			<west> 4.7578464541481 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.75798646720902,45.816706680073,0 4.75807716086959,45.8167393149181,0 4.75837097346533,45.8168481395186,0 4.75901896459817,45.817080338334,0 4.75959051993297,45.81725022436139,0 4.75960976967474,45.81721966036329,0 4.75977987783965,45.81688653706649,0 4.75989517327865,45.8166927977583,0 4.76002832266428,45.8165702066733,0 4.76003548588916,45.816560547437,0 4.76012009902318,45.81641052045759,0 4.75910615453985,45.8162672562249,0 4.7599441377558,45.8165437769284,0 4.75974565454494,45.816871668246,0 4.75872858627275,45.81653758784981,0 4.75891529771981,45.8162403259272,0 4.75797783111983,45.8161078397216,0 4.7578464541481,45.8163549694808,0 4.75785149643218,45.8163717343289,0 4.75785654445267,45.8163886792304,0 4.75786184710794,45.81640553009581,0 4.7578674043982,45.8164222869252,0 4.75787296169182,45.8164390437544,0 4.75787877935414,45.816455886601,0 4.75788484878522,45.81647254538471,0 4.75789092108671,45.8164892941948,0 4.75789724802396,45.8165059489688,0 4.75790357783179,45.81652269376919,0 4.75791028529162,45.81653916247531,0 4.75791699848902,45.8165558112346,0 4.75792383757324,45.816572367962,0 4.75793106004358,45.8165888286486,0 4.7579381566354,45.81660538136611,0 4.75794563661369,45.8166218380426,0 4.75795337409589,45.8166382907093,0 4.75796097709921,45.8166545653267,0 4.75796896922328,45.8166709239564,0 4.7579769584852,45.81668719255871,0 4.75798646720902,45.816706680073,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2030">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69072000AO0023</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">LE JUBIN</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">GRANDLYON HABITAT - OFFICE PUBLIC DE LHABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8163549694808 </north>
+			<south> 45.8160853638928 </south>
+			<east> 4.75797783111983 </east>
+			<west> 4.75781594253454 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.75797783111983,45.8161078397216,0 4.75781893392568,45.8160853638928,0 4.7578178246674,45.8160990720147,0 4.75781696717238,45.81611259607419,0 4.757816367174,45.81612611612491,0 4.75781602753906,45.8161397221933,0 4.75781594253454,45.8161532342261,0 4.75781624664246,45.81616683027229,0 4.75781667376599,45.8161802442606,0 4.75781736412031,45.81619383429339,0 4.75781843785453,45.8162073282862,0 4.7578197719534,45.81622090829669,0 4.75782123193509,45.816234396276,0 4.75782307816394,45.816247878242,0 4.75782505314255,45.8162613582034,0 4.75782728561987,45.81627483415589,0 4.75783003309393,45.8162883020905,0 4.75783277483606,45.81630158997151,0 4.75783564819512,45.8163149658747,0 4.75783890780258,45.81632833576441,0 4.75784268240776,45.8163416976361,0 4.7578464541481,45.8163549694808,0 4.75797783111983,45.8161078397216,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2389">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69072000AO0027</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">LE JUBIN</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">GRANDLYON HABITAT - OFFICE PUBLIC DE LHABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8179493935187 </north>
+			<south> 45.8167099811387 </south>
+			<east> 4.76089468040589 </east>
+			<west> 4.75940726429362 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.76048418123149,45.81687276542359,0 4.75993114487231,45.8167099811387,0 4.75983318053071,45.8168574238463,0 4.75980846157536,45.8168982512041,0 4.75966426673971,45.8171997159028,0 4.75964911411121,45.8172294954872,0 4.75962876302004,45.81726187808529,0 4.75942700594631,45.8175680225141,0 4.75940971558791,45.8175954034456,0 4.75940726429362,45.81760336792959,0 4.76083051007884,45.8179493935187,0 4.76084709191643,45.8179361646317,0 4.76087625913503,45.8177924961103,0 4.76089468040589,45.8176794393296,0 4.76080084700966,45.8176655905268,0 4.7602654347875,45.81763565851159,0 4.76026964529774,45.8175980330695,0 4.76053068077688,45.8176037809945,0 4.76046260717829,45.8173070661326,0 4.76048418123149,45.81687276542359,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2451">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69072000AN0028</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">31, CHE DES SAULES</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">GRANDLYON HABITAT - OFFICE PUBLIC DE LHABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8179661224738 </north>
+			<south> 45.8177924961103 </south>
+			<east> 4.76093865326615 </east>
+			<west> 4.76083051007884 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.76087625913503,45.8177924961103,0 4.76084709191643,45.8179361646317,0 4.76083051007884,45.8179493935187,0 4.76090137763901,45.8179661224738,0 4.76093865326615,45.81779800817841,0 4.76087625913503,45.8177924961103,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2452">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69072000AO0028</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">LE JUBIN</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">GRANDLYON HABITAT - OFFICE PUBLIC DE LHABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.81687276542359 </north>
+			<south> 45.8163224575866 </south>
+			<east> 4.76050731646481 </east>
+			<west> 4.75993114487231 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.76050731646481,45.8164066451422,0 4.76024003055094,45.8163299283164,0 4.76021080943861,45.8163224575866,0 4.76006838384658,45.8165702126835,0 4.76005716707113,45.8165860599696,0 4.75993114487231,45.8167099811387,0 4.76048418123149,45.81687276542359,0 4.76050731646481,45.8164066451422,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2545">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69072000AO0029</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">LE JUBIN</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">GRANDLYON HABITAT - OFFICE PUBLIC DE LHABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8164066451422 </north>
+			<south> 45.8157642386578 </south>
+			<east> 4.76067012893702 </east>
+			<west> 4.76024003055094 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.76050731646481,45.8164066451422,0 4.76050909771149,45.8163695979959,0 4.76067012893702,45.8157642386578,0 4.7603534701935,45.81611847335551,0 4.76024003055094,45.8163299283164,0 4.76050731646481,45.8164066451422,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2787">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69072000AX0032</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">40, CHE DES BLES D OR</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">GRANDLYON HABITAT - OFFICE PUBLIC DE LHABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8024894620406 </north>
+			<south> 45.80201513393399 </south>
+			<east> 4.7592979773971 </east>
+			<west> 4.75882676333256 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.75882676333256,45.8020640167538,0 4.75887139033719,45.8022036525827,0 4.75887839138388,45.80222534076469,0 4.75895760357849,45.80247234316159,0 4.75896304255352,45.8024894620406,0 4.75926469929968,45.8024426075858,0 4.75926365487125,45.8024381202944,0 4.75926358890158,45.8024360496807,0 4.7592635229319,45.8024339790671,0 4.75926345983048,45.80243199848011,0 4.75926365129392,45.80242992385409,0 4.75926384275734,45.8024278492282,0 4.75926429452208,45.8024258606168,0 4.75926474341854,45.80242378197871,0 4.75926519518322,45.8024217933673,0 4.75926577566439,45.8024198027497,0 4.75926661357856,45.80241780812,0 4.75926745149267,45.8024158134902,0 4.75926842099149,45.802413906881,0 4.75926926177373,45.80241200227799,0 4.75927048583717,45.8024100016298,0 4.75927171563704,45.8024081810351,0 4.75927307128507,45.8024062684075,0 4.75927443266952,45.8024045358333,0 4.7592757940539,45.80240280325899,0 4.75927741287115,45.8024010666725,0 4.75927890297182,45.8023993320922,0 4.7592979773971,45.80238363259761,0 4.75919865628992,45.8020794782747,0 4.75919478803312,45.8020671987819,0 4.7591939612447,45.8020655003111,0 4.75919272249623,45.8020629976182,0 4.75919135790028,45.802060586958,0 4.75918999617256,45.8020582663244,0 4.75918850572928,45.80205594769691,0 4.75918688370233,45.8020535410486,0 4.75918501284849,45.8020514084925,0 4.75918326497426,45.8020490938769,0 4.75918139125261,45.8020468712939,0 4.75917926296789,45.8020447427497,0 4.75917726339899,45.8020426121994,0 4.75917488055138,45.8020405776937,0 4.75917262641959,45.80203854118201,0 4.75917011772476,45.802036598709,0 4.75916773774574,45.80203465422991,0 4.7591651032037,45.8020328037894,0 4.75916234281427,45.8020310453815,0 4.75915958529308,45.8020293770002,0 4.75915682777204,45.80202770861889,0 4.75915394153557,45.8020260422434,0 4.75914267123076,45.80201991288919,0 4.7591314439486,45.80201513393399,0 4.75894617577378,45.8020448623415,0 4.75882676333256,45.8020640167538,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2807">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69072000AR0322</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">2, ALL DE LAQUEDUC</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8096088600168 </north>
+			<south> 45.8090097762181 </south>
+			<east> 4.75416330043921 </east>
+			<west> 4.75297799404502 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.75390846244679,45.80946072632339,0 4.75401881579532,45.8093991144202,0 4.75402859372276,45.8094068887725,0 4.75413048192375,45.8093463990641,0 4.75413276193208,45.8093451927107,0 4.75413503908007,45.8093438963304,0 4.75413731622795,45.80934259995001,0 4.75413945892238,45.8093411255162,0 4.75414147288384,45.8093396530826,0 4.7541434868452,45.809338180649,0 4.75414536921336,45.8093366201887,0 4.75414712284857,45.8093350617287,0 4.7541487448906,45.8093334152422,0 4.75415049566535,45.8093317667553,0 4.75415198611408,45.8093300322421,0 4.75415347370245,45.809328207702,0 4.7541548325579,45.8093263851622,0 4.75415606268046,45.8093245646227,0 4.75415716407013,45.8093227460834,0 4.75415826259946,45.8093208375173,0 4.75415923239591,45.80931893095151,0 4.75416020219229,45.8093170243856,0 4.75416078292997,45.80931503379381,0 4.75416149240038,45.8093130412017,0 4.75416207313797,45.80931105060991,0 4.75416252514275,45.8093090620183,0 4.75416297714749,45.8093070734268,0 4.75416304009363,45.8093050008092,0 4.75416323749309,45.80930310624511,0 4.75416330043921,45.8093010336276,0 4.75416323751287,45.8092990530372,0 4.75416304299351,45.8092969844202,0 4.75416285133444,45.8092950058301,0 4.7541622706169,45.8092929432141,0 4.75416182149242,45.8092909686245,0 4.75416124077496,45.8092889060085,0 4.75416095470667,45.8092880097407,0 4.75414246592546,45.809269562197,0 4.75412943824947,45.8092567943578,0 4.7541156439042,45.8092442185722,0 4.75410108575021,45.80923192486671,0 4.75408589824066,45.80922009129459,0 4.75407021010812,45.80920871585531,0 4.75405376102737,45.8091977125222,0 4.7540368113236,45.8091871673214,0 4.75401910353173,45.80917708425311,0 4.75400089797665,45.80916754934351,0 4.75398219465806,45.8091585625923,0 4.75396311944812,45.8091500319724,0 4.75394341488174,45.80914196148369,0 4.75392360160796,45.8091345231794,0 4.75390303024466,45.8091275470058,0 4.75388209270828,45.8091212070163,0 4.75386104360309,45.809115409184,0 4.75383949673156,45.8091101595084,0 4.75381784114982,45.8091055420165,0 4.75379568780057,45.8091014726811,0 4.75377368606402,45.8090981215562,0 4.75344943884482,45.80905542047349,0 4.75344681237494,45.809074106019,0 4.75345443045059,45.8090747082647,0 4.75342958629168,45.80916840797001,0 4.75341559855496,45.809259236913,0 4.75346363578754,45.8092631745088,0 4.75345749314296,45.8093009197045,0 4.75338351483362,45.8092953133708,0 4.75337934894504,45.809330415793,0 4.75335784492005,45.8093265164284,0 4.75333572002493,45.8093274004791,0 4.7533401405476,45.80929220403291,0 4.75331599604838,45.80929032723739,0 4.7533301069715,45.8091993162536,0 4.75325651215001,45.8091936138118,0 4.75325984819112,45.80917293568421,0 4.75326307507971,45.8091731557833,0 4.7532658589371,45.8091553685113,0 4.75333222467856,45.8091605527224,0 4.75334336636326,45.809057158018,0 4.75335149650535,45.8090576622464,0 4.75335341065172,45.8090408792633,0 4.75334875056289,45.8090401409987,0 4.75333865227472,45.80903849641119,0 4.75332855684606,45.80903694184969,0 4.75331858729124,45.8090352952611,0 4.75330835741381,45.8090335626434,0 4.75329826198691,45.8090320080792,0 4.75328816370172,45.8090303634872,0 4.75327819129046,45.8090286268682,0 4.7532680930065,45.8090269822744,0 4.75325799186434,45.80902524765289,0 4.75324764183487,45.80902378710951,0 4.75318125358006,45.8090097762181,0 4.75318175928972,45.8090378705959,0 4.75318856125402,45.8094548849466,0 4.75297799404502,45.8094513093651,0 4.75300233425811,45.8095201962058,0 4.75301704311688,45.8095615807247,0 4.7530254393724,45.80956235105921,0 4.75304636564553,45.80956427789219,0 4.75328651296371,45.80958675928469,0 4.75331867909061,45.80958977250459,0 4.75333741119763,45.8095915532185,0 4.75352214050885,45.8096088600168,0 4.75356124149828,45.8095869057823,0 4.75379496852766,45.8094559143055,0 4.75378694646941,45.8095034164165,0 4.75378875445411,45.8095035684722,0 4.75379043370559,45.8095037225277,0 4.75379224169031,45.8095038745832,0 4.7537939209418,45.8095040286387,0 4.75379572606685,45.8095040906674,0 4.7537975340516,45.8095042427228,0 4.75379921044341,45.8095043067513,0 4.75380101842817,45.8095044588068,0 4.75380282069353,45.8095044308085,0 4.75380462581859,45.809504492837,0 4.75380630221042,45.80950455686541,0 4.75380810447578,45.8095045288671,0 4.75381003833409,45.8095045888956,0 4.75381184059945,45.80950456089721,0 4.75381351413156,45.80950453489871,0 4.75381531925664,45.809504596927,0 4.75381698706928,45.8095043908747,0 4.75381878933462,45.8095043628762,0 4.75382059159997,45.8095043348776,0 4.75382213353909,45.809504220852,0 4.75382393580442,45.8095041928534,0 4.75382573521,45.8095040748279,0 4.75382753461558,45.8095039568024,0 4.75382920528791,45.80950384077671,0 4.75383100183372,45.8095036327243,0 4.75383279837951,45.8095034246719,0 4.75383446619205,45.8095032186193,0 4.75383626559758,45.8095031005936,0 4.75383806214333,45.8095028925411,0 4.75383972995584,45.8095026864885,0 4.7538415236418,45.809502388409,0 4.75384332018751,45.80950218035639,0 4.75384498799997,45.8095019743037,0 4.75384677882609,45.8095015861973,0 4.75384844377874,45.8095012901177,0 4.7538502374646,45.8095009920382,0 4.75385190241721,45.8095006959585,0 4.75385356736981,45.8095003998788,0 4.75385536105561,45.80950010179921,0 4.75385702314837,45.8094997156926,0 4.75388280709252,45.8094883264268,0 4.7538882372053,45.8094443773554,0 4.75390846244679,45.80946072632339,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2880">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69072000AR0331</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">LES NOYERAIES</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">IMMOBILIERE RHONE ALPES SA DHLM</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8090270020626 </north>
+			<south> 45.8088506030446 </south>
+			<east> 4.75264034377576 </east>
+			<west> 4.7524114902099 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.7524114902099,45.8088530243534,0 4.75241230728101,45.8088828252486,0 4.75248298391767,45.8088818181907,0 4.75248364757584,45.80896359257099,0 4.75252085113108,45.80896301503471,0 4.75264034377576,45.8090270020626,0 4.75263950851136,45.80902503346271,0 4.75249203914885,45.8088506030446,0 4.7524114902099,45.8088530243534,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2940">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69072000BA0340</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">IMMOBILIERE RHONE ALPES SA DHLM</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.806870065462 </north>
+			<south> 45.8068606100121 </south>
+			<east> 4.75106747476185 </east>
+			<west> 4.7509802413047 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.75106747476185,45.806870065462,0 4.7509802413047,45.8068606100121,0 4.75101183631255,45.80686597457169,0 4.75106747476185,45.806870065462,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2950">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69072000BA0342</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">IMMOBILIERE RHONE ALPES SA DHLM</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8063355175575 </north>
+			<south> 45.8062952613686 </south>
+			<east> 4.75110617041891 </east>
+			<west> 4.75085102767842 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.75085102767842,45.8063355175575,0 4.75110338601008,45.8063130485853,0 4.75110617041891,45.8062952613686,0 4.75107748739358,45.8062964268673,0 4.75085646947556,45.806320301197,0 4.75085102767842,45.8063355175575,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2955">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69072000AR0343</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">CHE DE LA LIASSE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.80878082167331 </north>
+			<south> 45.80864743448189 </south>
+			<east> 4.75283860118293 </east>
+			<west> 4.7525023120898 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.75283860118293,45.80878082167331,0 4.75281881759746,45.8087459109891,0 4.75279911406196,45.8087135210539,0 4.75279560127909,45.80870835146251,0 4.7527928580273,45.8087030798518,0 4.75278973143987,45.8086979042641,0 4.75278634739026,45.8086927326737,0 4.75278284032592,45.8086877431357,0 4.75277907865749,45.8086828476219,0 4.75277480206433,45.80867796010269,0 4.75277052832991,45.8086731626103,0 4.75276600570751,45.8086686391957,0 4.7527610968919,45.808664121777,0 4.75275712063383,45.8086605806629,0 4.75274828414786,45.8086540525862,0 4.75273944480604,45.80864743448189,0 4.75272148530062,45.8086496948847,0 4.75263515492369,45.808660672815,0 4.7525023120898,45.8087644255401,0 4.7525142781282,45.80877216605059,0 4.75251171478589,45.8087766193341,0 4.7527926011352,45.8087801848248,0 4.75283860118293,45.80878082167331,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2965">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69072000BA0344</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">IMMOBILIERE RHONE ALPES SA DHLM</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.806870065462 </north>
+			<south> 45.8063130485853 </south>
+			<east> 4.75114521641692 </east>
+			<west> 4.75079492143479 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.75079492143479,45.8068406062354,0 4.75087220287031,45.80684895518551,0 4.7509802413047,45.8068606100121,0 4.75106747476185,45.806870065462,0 4.7510714408424,45.80684892728261,0 4.75107363491417,45.8068490733914,0 4.75109533580692,45.8067008398734,0 4.75109081894827,45.8067005496534,0 4.75109792470074,45.8066525215552,0 4.75110218410212,45.80665281576849,0 4.75114521641692,45.8063568948725,0 4.75109771391253,45.80635348846501,0 4.75109978307233,45.8063375137672,0 4.75110338601008,45.8063130485853,0 4.75085102767842,45.8063355175575,0 4.75079492143479,45.8068406062354,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2970">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69072000AR0345</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">AV DE VERDUN</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8094548849466 </north>
+			<south> 45.8087766193341 </south>
+			<east> 4.75318856125402 </east>
+			<west> 4.7524114902099 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.7524114902099,45.8088530243534,0 4.75249203914885,45.8088506030446,0 4.75263950851136,45.80902503346271,0 4.75264034377576,45.8090270020626,0 4.75265257527489,45.8090552746814,0 4.752728908379,45.8091269572206,0 4.75289652668044,45.8092219919462,0 4.75297799404502,45.8094513093651,0 4.75318856125402,45.8094548849466,0 4.75318175928972,45.8090378705959,0 4.75314653841195,45.8090278792228,0 4.75312949155024,45.80902237938841,0 4.75311281945406,45.80901651344681,0 4.75309613878583,45.809010377422,0 4.75307970700998,45.8090039673162,0 4.75306378159085,45.80899727913109,0 4.75304784760021,45.8089903208633,0 4.75303215964398,45.8089829984878,0 4.75301685217122,45.80897549005941,0 4.75300192232353,45.8089677055514,0 4.752987112637,45.808959648962,0 4.75297255184376,45.8089513182921,0 4.75295824280223,45.80894280356879,0 4.75294431138609,45.8089340127664,0 4.75293088918555,45.808925033913,0 4.75291758714656,45.80891578297859,0 4.75290466273301,45.8089062559654,0 4.75289198721305,45.8088964548725,0 4.75287995249858,45.8088865537572,0 4.75286804080392,45.808876470588,0 4.75285571147878,45.8088654031184,0 4.75285202124499,45.8088627582787,0 4.75284845688519,45.8088600214132,0 4.75284502411563,45.8088573725756,0 4.75284171150383,45.8088544516586,0 4.75283840175049,45.8088516207683,0 4.75283534374477,45.8088486058266,0 4.75283228573939,45.8088455908849,0 4.75282935932417,45.8088426639712,0 4.75282655592481,45.8088395550049,0 4.7528238783994,45.80883635401289,0 4.75282132960601,45.8088331510221,0 4.75281878081292,45.80882994803121,0 4.75281636075182,45.80882674304151,0 4.75281419529632,45.80882344402739,0 4.75281202698301,45.80882005498639,0 4.75280998740164,45.80881666394661,0 4.75280820528384,45.8088132689093,0 4.75280642030822,45.8088097838451,0 4.75280476406447,45.8088062967821,0 4.7528034911578,45.808802713696,0 4.7527926011352,45.8087801848248,0 4.75251171478589,45.8087766193341,0 4.75248324338463,45.8088250692841,0 4.75246790145185,45.8088245868745,0 4.75245304572609,45.8088272494085,0 4.75243970034375,45.80883286084601,0 4.75242977913469,45.80884085105159,0 4.7524114902099,45.8088530243534,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2979">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69072000BA0346</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">7, CHE NEUF</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">IMMOBILIERE RHONE ALPES SA DHLM</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8068406062354 </north>
+			<south> 45.806320301197 </south>
+			<east> 4.75085646947556 </east>
+			<west> 4.75074656053541 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.75085646947556,45.806320301197,0 4.75083901413474,45.8063221932066,0 4.75083075384179,45.80635006324591,0 4.75074656053541,45.80683451085141,0 4.75079492143479,45.8068406062354,0 4.75085102767842,45.8063355175575,0 4.75085646947556,45.806320301197,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.4619">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69072000AA0071</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">LONGE NORD</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SA DHLM REGION LYONNAISE GABRIEL ROSSETSOCIETE ANONYME DHA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8383810116232 </north>
+			<south> 45.83755007494981 </south>
+			<east> 4.74478230311382 </east>
+			<west> 4.74431226658381 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.74478230311382,45.8383194167416,0 4.74471061380038,45.83821622174041,0 4.74469187215933,45.83755007494981,0 4.74443621809568,45.8375829364484,0 4.74431226658381,45.83774643830111,0 4.74457909942476,45.8383810116232,0 4.74478230311382,45.8383194167416,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.4951">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69072000BB0087</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">34, RTE D ECULLY</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">IMMOBILIERE RHONE ALPES SA DHLM</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7996100706806 </north>
+			<south> 45.7992395379207 </south>
+			<east> 4.7566397361889 </east>
+			<west> 4.75567500231452 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.75567500231452,45.7993378058855,0 4.75568114325172,45.79934059264719,0 4.75575981763072,45.799279651613,0 4.75661417783413,45.7996100706806,0 4.7566397361889,45.7995229342498,0 4.75573871120335,45.7992395379207,0 4.755676595395,45.79933525911,0 4.75567500231452,45.7993378058855,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.4984">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69072000BB0089</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">34, RTE D ECULLY</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">IMMOBILIERE RHONE ALPES SA DHLM</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7993870027296 </north>
+			<south> 45.7993378058855 </south>
+			<east> 4.75568114325172 </east>
+			<west> 4.7556564778143 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.7556564778143,45.7993870027296,0 4.75568114325172,45.79934059264719,0 4.75567500231452,45.7993378058855,0 4.75566775764688,45.79934890726889,0 4.7556602441985,45.7993637057551,0 4.75565648335911,45.7993790763705,0 4.7556564778143,45.7993870027296,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.5001">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69072000BB0091</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">34, RTE D ECULLY</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">IMMOBILIERE RHONE ALPES SA DHLM</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7998528646496 </north>
+			<south> 45.799279651613 </south>
+			<east> 4.75661417783413 </east>
+			<west> 4.75565646654508 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.7556564778143,45.7993870027296,0 4.75565646654508,45.7993947490352,0 4.75566058847519,45.7994109878234,0 4.75566880621975,45.79942644233339,0 4.75568058776949,45.79944058041161,0 4.75569381375521,45.7994555967338,0 4.75570385062643,45.7994715633733,0 4.75571056680879,45.79948839230621,0 4.7557136934306,45.7995057274301,0 4.756350614314,45.79970838672629,0 4.75630813638532,45.7997737188847,0 4.75649546392172,45.799833223329,0 4.75648883713483,45.79984350451,0 4.75650874176821,45.79984986003749,0 4.75652403271473,45.7998528646496,0 4.75653599421363,45.7998524082916,0 4.75661417783413,45.7996100706806,0 4.75575981763072,45.799279651613,0 4.75568114325172,45.79934059264719,0 4.7556564778143,45.7993870027296,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

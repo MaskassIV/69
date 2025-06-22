@@ -1,0 +1,589 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>CORBAS_ETAT</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_1">
+		<name>CORBAS_ETAT</name>
+		<Schema name="CORBAS_ETAT" id="CORBAS_ETAT.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="ETAT">
+			<LineStyle>
+				<color>BF119ff7</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C119ff7</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.222">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69273000AX0030</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CORBAS</SimpleData>
+					<SimpleData name="Adresse">FORET DU VELIN EST</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6672032354471 </north>
+			<south> 45.66632134795031 </south>
+			<east> 4.92547771609894 </east>
+			<west> 4.92254227135188 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.92254227135188,45.66632134795031,0 4.92412701541122,45.6667630288125,0 4.92414241322328,45.66676988161701,0 4.92511716480642,45.6672032354471,0 4.92547771609894,45.6670978078259,0 4.9247925556401,45.66669085326311,0 4.92415245177036,45.666445169745,0 4.92339354597229,45.6663555403769,0 4.92254227135188,45.66632134795031,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.263">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69273000AX0054</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CORBAS</SimpleData>
+					<SimpleData name="Adresse">FORET DU VELIN EST</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6675722452501 </north>
+			<south> 45.6657386137835 </south>
+			<east> 4.92585551482225 </east>
+			<west> 4.91809230320942 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.9247172879973,45.6658526404852,0 4.9246241892812,45.66594250539189,0 4.92484229110624,45.6662073809633,0 4.92449130333508,45.6660704313956,0 4.92397692030693,45.66592654474579,0 4.92343095993908,45.66582769226579,0 4.92282306466002,45.6657616913221,0 4.92220163068416,45.6657386137835,0 4.92170394818378,45.6657683665421,0 4.92113830466203,45.6658388195622,0 4.92063881945732,45.665946242933,0 4.92017903977519,45.6660909985631,0 4.91985120358696,45.6662248554697,0 4.91964619062291,45.6663107693776,0 4.91924227205157,45.66645871217251,0 4.91888766516241,45.6666246387873,0 4.91857826499085,45.66680501663949,0 4.91830959924557,45.6670042458918,0 4.91809230320942,45.6671510766047,0 4.91867513318448,45.6675722452501,0 4.91898266000486,45.6674044195245,0 4.91918515990433,45.6672940493648,0 4.91919398845918,45.6672893050692,0 4.9197725739497,45.666972917092,0 4.91984987771799,45.6669385415817,0 4.9204958821861,45.6666511753376,0 4.92058192115072,45.6666279096884,0 4.92133272501003,45.6664249526498,0 4.92254227135188,45.66632134795031,0 4.92339354597229,45.6663555403769,0 4.92415245177036,45.666445169745,0 4.9247925556401,45.66669085326311,0 4.92547771609894,45.6670978078259,0 4.92548916209952,45.6670944594695,0 4.92585551482225,45.6669896520097,0 4.9247172879973,45.6658526404852,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.266">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69273000AX0056</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CORBAS</SimpleData>
+					<SimpleData name="Adresse">FORET DU VELIN EST</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6675843903909 </north>
+			<south> 45.6674044195245 </south>
+			<east> 4.91898266000486 </east>
+			<west> 4.91867513318448 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.91867513318448,45.6675722452501,0 4.91869187022939,45.6675843903909,0 4.91898266000486,45.6674044195245,0 4.91867513318448,45.6675722452501,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.652">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69273000BB0012</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CORBAS</SimpleData>
+					<SimpleData name="Adresse">LA PLAINE DU VELIN</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">MINISTERE ECOLOGIE DEVELOPPEMENT TRANSPORTS LOGEMENT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6485382220811 </north>
+			<south> 45.64777418671 </south>
+			<east> 4.9171869502214 </east>
+			<west> 4.91525168865669 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.9171869502214,45.6485382220811,0 4.91712878604598,45.6482604315432,0 4.91525168865669,45.64777418671,0 4.91527112806851,45.6478980688719,0 4.91640447309752,45.6483241080899,0 4.9171869502214,45.6485382220811,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.1295">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69273000AV0181</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CORBAS</SimpleData>
+					<SimpleData name="Adresse">7, RUE DE LA VANOISE</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6833922418489 </north>
+			<south> 45.6826386114793 </south>
+			<east> 4.93179737959129 </east>
+			<west> 4.93072070401121 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.9314844853719,45.68265461034059,0 4.93072070401121,45.6827082395208,0 4.9308065115266,45.6833922418489,0 4.93179737959129,45.68332021551001,0 4.93171357126145,45.6826386114793,0 4.93159703764608,45.682646645108,0 4.9314844853719,45.68265461034059,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.1311">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69273000AV0183</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CORBAS</SimpleData>
+					<SimpleData name="Adresse">CORBEGE ET TACHES NORD</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6834004543413 </north>
+			<south> 45.6827082395208 </south>
+			<east> 4.9308065115266 </east>
+			<west> 4.93059610089743 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.93069525137732,45.6834004543413,0 4.9308065115266,45.6833922418489,0 4.93072070401121,45.6827082395208,0 4.93059610089743,45.6827170409628,0 4.93069525137732,45.6834004543413,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.1968">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69273000AX0028</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CORBAS</SimpleData>
+					<SimpleData name="Adresse">FORET DU VELIN EST</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6685800402143 </north>
+			<south> 45.6669896520097 </south>
+			<east> 4.9274175098277 </east>
+			<west> 4.92511716480642 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.92547771609894,45.6670978078259,0 4.92511716480642,45.6672032354471,0 4.9251789856465,45.6672335246057,0 4.92566073099459,45.66755406098149,0 4.92715663450214,45.66854928999701,0 4.92714408674734,45.6685800402143,0 4.92717403807625,45.6685768253543,0 4.9274175098277,45.6685476172402,0 4.92585990221043,45.6669939005736,0 4.92585551482225,45.6669896520097,0 4.92548916209952,45.6670944594695,0 4.92547771609894,45.6670978078259,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.2704">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69273000ZB0038</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CORBAS</SimpleData>
+					<SimpleData name="Adresse">PILLON</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">MINISTERE ECOLOGIE DEVELOPPEMENT TRANSPORTS LOGEMENT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.64434847395481 </north>
+			<south> 45.6437665357878 </south>
+			<east> 4.90052231031181 </east>
+			<west> 4.89970148722681 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.90052231031181,45.6439608677352,0 4.90050818807673,45.643957233004,0 4.89977249230167,45.6437665357878,0 4.89970148722681,45.643815473565,0 4.89973636562935,45.6443380357285,0 4.89973698056989,45.64434847395481,0 4.89993359752471,45.6440530446147,0 4.90022266376608,45.6439594416641,0 4.90052231031181,45.6439608677352,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.3123">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69273000AZ0005</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CORBAS</SimpleData>
+					<SimpleData name="Adresse">FORET DU VELIN SUD</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6656092793334 </north>
+			<south> 45.6642648000127 </south>
+			<east> 4.92338959896618 </east>
+			<west> 4.91950804009211 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.92338959896618,45.6645264547922,0 4.92026471091045,45.6642648000127,0 4.92024287320193,45.66432038836211,0 4.92014167756693,45.664576936054,0 4.91950804009211,45.6656092793334,0 4.91956224200197,45.665594123476,0 4.92167777804689,45.6650034463258,0 4.92338959896618,45.6645264547922,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.3312">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69273000AX0058</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CORBAS</SimpleData>
+					<SimpleData name="Adresse">FORET DU VELIN EST</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6671510766047 </north>
+			<south> 45.6645264547922 </south>
+			<east> 4.92484229110624 </east>
+			<west> 4.91801640060687 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.9247172879973,45.6658526404852,0 4.92470903653933,45.6658444045549,0 4.9247085010571,45.66584378318301,0 4.92470823488108,45.6658435175078,0 4.92470796870506,45.6658432518326,0 4.92416535699882,45.6653011765595,0 4.92338959896618,45.6645264547922,0 4.92167777804689,45.6650034463258,0 4.91956224200197,45.665594123476,0 4.91950804009211,45.6656092793334,0 4.9192150415222,45.66608833799301,0 4.91899349639892,45.66630883414021,0 4.91866280709284,45.6666384688493,0 4.91801640060687,45.6670961628297,0 4.91809230320942,45.6671510766047,0 4.91830959924557,45.6670042458918,0 4.91857826499085,45.66680501663949,0 4.91888766516241,45.6666246387873,0 4.91924227205157,45.66645871217251,0 4.91964619062291,45.6663107693776,0 4.91985120358696,45.6662248554697,0 4.92017903977519,45.6660909985631,0 4.92063881945732,45.665946242933,0 4.92113830466203,45.6658388195622,0 4.92170394818378,45.6657683665421,0 4.92220163068416,45.6657386137835,0 4.92282306466002,45.6657616913221,0 4.92343095993908,45.66582769226579,0 4.92397692030693,45.66592654474579,0 4.92449130333508,45.6660704313956,0 4.92484229110624,45.6662073809633,0 4.9246241892812,45.66594250539189,0 4.9247172879973,45.6658526404852,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.3495">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69273000AW0065</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CORBAS</SimpleData>
+					<SimpleData name="Adresse">CORBEGE ET TACHES OUEST</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">MINISTERE ECOLOGIE DEVELOPPEMENT TRANSPORTS LOGEMENT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.668864013518 </north>
+			<south> 45.6688058735512 </south>
+			<east> 4.9263405790536 </east>
+			<west> 4.92606680903874 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.9263405790536,45.6688599609165,0 4.92631145974856,45.6688058735512,0 4.92621662284612,45.6688274024873,0 4.92620030987787,45.66883119446781,0 4.9261843821062,45.6688349798568,0 4.92616871113157,45.6688387608508,0 4.92615291802059,45.668842724082,0 4.92613699024236,45.6688465094642,0 4.92612132239389,45.6688503804731,0 4.92610540087656,45.668854345894,0 4.9260896077566,45.6688583091163,0 4.92607394303406,45.6688622701401,0 4.92606680903874,45.668864013518,0 4.9263405790536,45.6688599609165,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.3533">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69273000AW0067</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CORBAS</SimpleData>
+					<SimpleData name="Adresse">CORBEGE ET TACHES SUD</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">MINISTERE ECOLOGIE DEVELOPPEMENT TRANSPORTS LOGEMENT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6725521479323 </north>
+			<south> 45.6722479374725 </south>
+			<east> 4.93222203675908 </east>
+			<west> 4.93196091178551 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.93196091178551,45.6725521479323,0 4.93222203675908,45.67233626103069,0 4.93220918846252,45.6722479374725,0 4.93196091178551,45.6725521479323,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.3566">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69273000AW0069</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CORBAS</SimpleData>
+					<SimpleData name="Adresse">CORBEGE ET TACHES OUEST</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">MINISTERE ECOLOGIE DEVELOPPEMENT TRANSPORTS LOGEMENT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6688599609165 </north>
+			<south> 45.668649035885 </south>
+			<east> 4.92740253552053 </east>
+			<west> 4.92631145974856 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.9263405790536,45.6688599609165,0 4.92740253552053,45.668774322441,0 4.92731260800562,45.668649035885,0 4.92714107064866,45.6686779134209,0 4.92704844194631,45.6686927397152,0 4.92672608862764,45.66873680803519,0 4.92671202110368,45.66873867009209,0 4.9266982072439,45.6687404377319,0 4.92668426498388,45.66874220756699,0 4.9266703258565,45.6687440674218,0 4.92665625832882,45.6687459294718,0 4.92664232233307,45.6687478793447,0 4.92662825793694,45.6687498314127,0 4.92661445347207,45.66875186910671,0 4.92660052060678,45.6687539089959,0 4.92658658774047,45.6687559488833,0 4.92657265800651,45.6687580787906,0 4.92655872827149,45.66876020869611,0 4.92654480166873,45.6687624286214,0 4.92653113499702,45.6687647341729,0 4.92651733679145,45.668766951898,0 4.92650341645189,45.6687693518612,0 4.92648961824405,45.6687715695829,0 4.92647582630158,45.6687739673459,0 4.92646203749111,45.6687764551288,0 4.9264482486794,45.6687789429099,0 4.9264344567333,45.6687813406679,0 4.92642067105227,45.6687839184672,0 4.92640701376945,45.6687864940682,0 4.92639323121896,45.6687891618856,0 4.92637957706664,45.66879182750469,0 4.92636579764656,45.66879458534031,0 4.92635240342362,45.6687973365845,0 4.92633862713382,45.6688001844383,0 4.92632497924213,45.6688030300938,0 4.92631145974856,45.6688058735512,0 4.9263405790536,45.6688599609165,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.3588">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69273000AZ0007</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CORBAS</SimpleData>
+					<SimpleData name="Adresse">FORET DU VELIN SUD</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6645264547922 </north>
+			<south> 45.66237232743391 </south>
+			<east> 4.92338959896618 </east>
+			<west> 4.92026471091045 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.92338959896618,45.6645264547922,0 4.92338348033763,45.6645204342135,0 4.92137374986329,45.66252896200569,0 4.92122689808223,45.6623840153105,0 4.92122038227384,45.662377641101,0 4.921215059422,45.66237232743391,0 4.92120866801171,45.6623769402408,0 4.92092928290912,45.6625810430041,0 4.92026471091045,45.6642648000127,0 4.92338959896618,45.6645264547922,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.3612">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69273000AW0071</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CORBAS</SimpleData>
+					<SimpleData name="Adresse">CORBEGE ET TACHES OUEST</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">MINISTERE ECOLOGIE DEVELOPPEMENT TRANSPORTS LOGEMENT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.67214349283071 </north>
+			<south> 45.6720302006103 </south>
+			<east> 4.93223879943991 </east>
+			<west> 4.93215289172905 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.93215289172905,45.6720302006103,0 4.93216362703588,45.6721021667226,0 4.93216995213135,45.67214349283071,0 4.9321737661872,45.6721386533984,0 4.93223879943991,45.6720582712745,0 4.93215289172905,45.6720302006103,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.3640">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69273000AW0073</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CORBAS</SimpleData>
+					<SimpleData name="Adresse">CORBEGE ET TACHES OUEST</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">MINISTERE ECOLOGIE DEVELOPPEMENT TRANSPORTS LOGEMENT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6720582712745 </north>
+			<south> 45.67151193077191 </south>
+			<east> 4.9327279481981 </east>
+			<west> 4.93215289172905 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.93215289172905,45.6720302006103,0 4.93223879943991,45.6720582712745,0 4.93238308792342,45.67187798674379,0 4.93254124331407,45.6716974640387,0 4.93258917663384,45.6716498923401,0 4.93265164973205,45.67159189257281,0 4.9327279481981,45.6715214052409,0 4.93269742395922,45.67151193077191,0 4.93258973616069,45.6715923246207,0 4.93242344702692,45.6717165097681,0 4.93236750431806,45.6717812430645,0 4.93215289172905,45.6720302006103,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.3795">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69273000ZE0084</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CORBAS</SimpleData>
+					<SimpleData name="Adresse">450, CHE SOUS LE FORT</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6789095463753 </north>
+			<south> 45.67558890998119 </south>
+			<east> 4.91239256861343 </east>
+			<west> 4.90593381570536 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.9099438506476,45.6781380007128,0 4.91033081404312,45.6776855677232,0 4.9103841592382,45.67766007245011,0 4.9109079814263,45.6774240172267,0 4.91091265836933,45.67742177607661,0 4.91206995567985,45.6768844738639,0 4.91239256861343,45.6767346962728,0 4.91226811475583,45.67638677899,0 4.91191055107115,45.67638771557709,0 4.91178035774544,45.6760483622946,0 4.90955787138769,45.6761352494522,0 4.90945884183083,45.676367249535,0 4.909080779706,45.67614270746549,0 4.90849357268344,45.6757925416015,0 4.90853581929338,45.6756874291233,0 4.90808797143579,45.67558890998119,0 4.90779465562958,45.6758320366209,0 4.90754515380396,45.676041633173,0 4.90747987323198,45.67622784226,0 4.90696781549022,45.6761453585416,0 4.90683113472619,45.67651184455261,0 4.9064861262619,45.67670567129191,0 4.90648360750777,45.6767071551244,0 4.90624945217928,45.6768402857595,0 4.90593381570536,45.6770177604507,0 4.90665492018821,45.6773681949503,0 4.90657480935544,45.6775940171357,0 4.90653707767642,45.6777072491652,0 4.90738266621613,45.6775419662144,0 4.90731806098008,45.67793425453619,0 4.90801296295135,45.6778893363908,0 4.90790881419114,45.6786850188767,0 4.90934558936729,45.6789095463753,0 4.90932311225873,45.6784815321379,0 4.9099438506476,45.6781380007128,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

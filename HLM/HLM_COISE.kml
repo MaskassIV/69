@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>COISE_HLM</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_5">
+		<name>COISE_HLM</name>
+		<Schema name="COISE_HLM" id="COISE_HLM.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="HLM">
+			<LineStyle>
+				<color>BFe451f5</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4Ce451f5</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.1196">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69062000WC0157</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">COISE</SimpleData>
+					<SimpleData name="Adresse">17, ALL DES SOURCES</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">IMMOBILIERE RHONE ALPES SA DHLM</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6136391099384 </north>
+			<south> 45.61290218950951 </south>
+			<east> 4.47653232867338 </east>
+			<west> 4.47558804075336 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.47629904305634,45.61363770141,0 4.47630151889844,45.6136391099384,0 4.47644643270158,45.6134859914133,0 4.47653232867338,45.6133960613771,0 4.47632045924007,45.613218084246,0 4.47630392813254,45.61320452144889,0 4.4762231874965,45.6131459588518,0 4.47617495271473,45.6131032711873,0 4.47605025514939,45.6129217179978,0 4.47603490035318,45.612908950302,0 4.47602163053549,45.61290218950951,0 4.47598196267336,45.61290649262491,0 4.47596567159655,45.6129115697946,0 4.47558804075336,45.6131108807873,0 4.47560015943315,45.6131707942441,0 4.47577924367649,45.613279133306,0 4.47584652348842,45.6133189594526,0 4.47592934291901,45.6133688489419,0 4.47589127536555,45.61339951965851,0 4.4759545844856,45.6134348045919,0 4.47595888750461,45.6134373599825,0 4.47629904305634,45.61363770141,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.1374">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69062000WC0171</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">COISE</SimpleData>
+					<SimpleData name="Adresse">74, RTE DE LA VIALLIERE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">IMMOBILIERE RHONE ALPES SA DHLM</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6130192264903 </north>
+			<south> 45.612696228266 </south>
+			<east> 4.47604428156177 </east>
+			<west> 4.47553225966487 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.47566811671012,45.6130192264903,0 4.47579471820337,45.6129398409042,0 4.47588342720482,45.6129073350375,0 4.47604428156177,45.6128227264244,0 4.47595863461941,45.6127871041747,0 4.4758661383013,45.61274968038249,0 4.47590259526684,45.6127211923264,0 4.47587164009076,45.6127008838053,0 4.47582600772954,45.6127366072426,0 4.47572534808606,45.612696228266,0 4.47553225966487,45.6129534607684,0 4.47566811671012,45.6130192264903,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2865">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69062000WI0329</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">COISE</SimpleData>
+					<SimpleData name="Adresse">99, IMP DE LOREE DU BOIS</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6140847543245 </north>
+			<south> 45.613860000111 </south>
+			<east> 4.47191125917986 </east>
+			<west> 4.4716095579294 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.47163992149535,45.61394137541649,0 4.4716095579294,45.6139578039032,0 4.47175024614253,45.6140847543245,0 4.47191125917986,45.613996096804,0 4.47178816611966,45.613860000111,0 4.47163992149535,45.61394137541649,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2875">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69062000WI0330</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">COISE</SimpleData>
+					<SimpleData name="Adresse">97, IMP DE LOREE DU BOIS</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6141878291747 </north>
+			<south> 45.6139578039032 </south>
+			<east> 4.47175024614253 </east>
+			<west> 4.47142372990372 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.4716095579294,45.6139578039032,0 4.47157970510784,45.61397413563731,0 4.47142372990372,45.6140592143103,0 4.47156112547764,45.6141878291747,0 4.47175024614253,45.6140847543245,0 4.4716095579294,45.6139578039032,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2889">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69062000WI0333</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">COISE</SimpleData>
+					<SimpleData name="Adresse">19, IMP DE LOREE DU BOIS</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.61434905686809 </north>
+			<south> 45.6141358151628 </south>
+			<east> 4.47118117443124 </east>
+			<west> 4.47090892721891 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.47091738572643,45.61428378934059,0 4.47090892721891,45.6143228974241,0 4.47092230992765,45.6143242535312,0 4.47116064257359,45.61434905686809,0 4.47118117443124,45.6142523303698,0 4.47108800326817,45.6141652864927,0 4.47107209548039,45.6141509942802,0 4.47105513748793,45.6141358151628,0 4.47104461620335,45.61414072610161,0 4.47103436105544,45.6141459938136,0 4.47102449794267,45.614151526589,0 4.47101515276364,45.6141572327183,0 4.47100594543228,45.6141632972983,0 4.47099713013599,45.6141696269421,0 4.47098870926495,45.614176311682,0 4.47098092983629,45.6141829880343,0 4.47097329064535,45.6141901128699,0 4.47096604109946,45.61419741273739,0 4.4709528392321,45.6142125358908,0 4.4709440318683,45.6142239990457,0 4.47093748590128,45.6142336313629,0 4.47093183795515,45.6142432519384,0 4.47092707847011,45.6142525006433,0 4.47092309110794,45.61426182931629,0 4.47092000893823,45.61427141634469,0 4.47091738572643,45.61428378934059,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2892">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69062000WI0334</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">COISE</SimpleData>
+					<SimpleData name="Adresse">17, IMP DE LOREE DU BOIS</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6144958189169 </north>
+			<south> 45.6143228974241 </south>
+			<east> 4.47116064257359 </east>
+			<west> 4.47088874303053 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.4710551398795,45.6144887739758,0 4.47112937571687,45.6144958189169,0 4.47113064347795,45.6144903985291,0 4.47116064257359,45.61434905686809,0 4.47092230992765,45.6143242535312,0 4.47090892721891,45.6143228974241,0 4.47089098940442,45.61440617049101,0 4.47088934469494,45.6144167294232,0 4.47088874303053,45.6144279051628,0 4.47088949279977,45.6144368116461,0 4.4708924187106,45.6144455095509,0 4.47089908891854,45.6144550591366,0 4.47091022297202,45.6144635596613,0 4.47092232837374,45.6144699760246,0 4.4709424140223,45.6144772787461,0 4.47095841036307,45.6144804019469,0 4.47097386008517,45.61448227140341,0 4.47098929307707,45.6144835106322,0 4.47100369975301,45.61448476327819,0 4.47101978853555,45.61448653430909,0 4.47103521674915,45.61448759346711,0 4.4710551398795,45.6144887739758,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

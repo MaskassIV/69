@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>VILLE SUR JARNIOUX_PUBLICorASSOCIE</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_9">
+		<name>VILLE SUR JARNIOUX_PUBLICorASSOCIE</name>
+		<Schema name="VILLE SUR JARNIOUX_PUBLICorASSOCIE" id="VILLE SUR JARNIOUX_PUBLICorASSOCIE.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="PUBLICorASSOCIE">
+			<LineStyle>
+				<color>BFdb2105</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4Cdb2105</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.9853">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">692650000A0305</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">VILLE SUR JARNIOUX</SimpleData>
+					<SimpleData name="Adresse">LA VARENNE</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SYMC</SimpleData>
+					<SimpleData name="Denomination">SYNDICAT MIXTE DASSAINISSEMENT DU PONT DE SOLLIERES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.98891313940619 </north>
+			<south> 45.98831702869229 </south>
+			<east> 4.58730730593993 </east>
+			<west> 4.58610923412996 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.58685742210383,45.98831702869229,0 4.58680861815378,45.9883317629615,0 4.58610923412996,45.9885434001891,0 4.58622855571295,45.9886441358332,0 4.58622039178255,45.9888136669722,0 4.58638587487388,45.9888707037536,0 4.58641617184632,45.98888180803801,0 4.58647949831284,45.9889001954773,0 4.58654563974318,45.98891313940619,0 4.58662734524609,45.988910193542,0 4.58679923402417,45.9888846382342,0 4.58697293929828,45.9888279839483,0 4.58726984967396,45.98879608270229,0 4.58730730593993,45.98874629089929,0 4.58685742210383,45.98831702869229,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.15852">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">692650000A0728</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">VILLE SUR JARNIOUX</SimpleData>
+					<SimpleData name="Adresse">LA VARENNE</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SYMC</SimpleData>
+					<SimpleData name="Denomination">SYNDICAT MIXTE DASSAINISSEMENT DU PONT DE SOLLIERES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9883317629615 </north>
+			<south> 45.9877414052787 </south>
+			<east> 4.58685742210383 </east>
+			<west> 4.586187873648 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.58685742210383,45.98831702869229,0 4.58680693344292,45.9882733328034,0 4.58659922019834,45.9880870110033,0 4.58639774359097,45.9878973590618,0 4.58622747429256,45.9877414052787,0 4.586187873648,45.9877706013144,0 4.58680861815378,45.9883317629615,0 4.58685742210383,45.98831702869229,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

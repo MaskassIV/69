@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>BAGNOLS_DEPT</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_3">
+		<name>BAGNOLS_DEPT</name>
+		<Schema name="BAGNOLS_DEPT" id="BAGNOLS_DEPT.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="DEPT">
+			<LineStyle>
+				<color>BF63f16c</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C63f16c</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.196">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690170000C0891</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">BAGNOLS</SimpleData>
+					<SimpleData name="Adresse">LES VAVRES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9116758046107 </north>
+			<south> 45.91165223704899 </south>
+			<east> 4.60479992634657 </east>
+			<west> 4.60462031538365 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.60472796347018,45.9116758046107,0 4.60479992634657,45.9116612734043,0 4.60463695603735,45.91165223704899,0 4.60462031538365,45.9116523830628,0 4.60472796347018,45.9116758046107,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.5626">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690170000A0654</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">BAGNOLS</SimpleData>
+					<SimpleData name="Adresse">AU BARONNAT</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9156952867759 </north>
+			<south> 45.91563288653731 </south>
+			<east> 4.61213950468411 </east>
+			<west> 4.61206026511547 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.61213950468411,45.91566877335071,0 4.6120938404176,45.9156340274281,0 4.61207909650049,45.91563288653731,0 4.61206026511547,45.91567287492451,0 4.6120929226518,45.9156952867759,0 4.61213950468411,45.91566877335071,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.5824">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690170000C0697</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">BAGNOLS</SimpleData>
+					<SimpleData name="Adresse">LA CROIX METRA</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9118586731714 </north>
+			<south> 45.9115664055191 </south>
+			<east> 4.60584764059945 </east>
+			<west> 4.6050243417028 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.60503664368855,45.9115664055191,0 4.6050243417028,45.9115826121735,0 4.60527466373208,45.9116358925187,0 4.60537481209953,45.91166761607321,0 4.60551778175651,45.9117164750786,0 4.6058426948852,45.9118586731714,0 4.60584764059945,45.911833564079,0 4.60554463659665,45.9117037545735,0 4.60536531783676,45.9116428920955,0 4.60535462109009,45.9116389007973,0 4.60527426608371,45.9116133811924,0 4.60519083882279,45.91159312907,0 4.60510498941507,45.9115783153329,0 4.60503664368855,45.9115664055191,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.5915">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690170000C0716</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">BAGNOLS</SimpleData>
+					<SimpleData name="Adresse">SAINT PAUL</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9151296190764 </north>
+			<south> 45.9139789884896 </south>
+			<east> 4.59588280301516 </east>
+			<west> 4.59534937248388 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.59553410762001,45.91509181062119,0 4.5955228822028,45.91511412560689,0 4.59552913749713,45.9151296190764,0 4.59554505456693,45.9151044458132,0 4.59557924013436,45.9150328101427,0 4.59564981688726,45.91489887468921,0 4.59572806856108,45.9147670826046,0 4.59577130939101,45.9146561396889,0 4.59580621959483,45.9145516190219,0 4.59584495306879,45.9144142597716,0 4.5958754001242,45.91427593660649,0 4.59587982684106,45.9142505651363,0 4.59588280301516,45.9141973832235,0 4.59587749558513,45.91414332744,0 4.59586940571973,45.91411795243079,0 4.59585375540064,45.914094395376,0 4.59583122605015,45.91407390760601,0 4.59582571230375,45.9140706528937,0 4.5957781902074,45.9140470951517,0 4.59572642350918,45.9140284609256,0 4.59567654749569,45.9140261022503,0 4.59554593334793,45.9140161459202,0 4.59541644487103,45.9140004993003,0 4.59535788522708,45.9139789884896,0 4.59534937248388,45.913996941952,0 4.59544324082274,45.914012370542,0 4.59569503386758,45.9140361992375,0 4.59575939135504,45.9140529445623,0 4.5958107034885,45.9140781601264,0 4.59586391737494,45.9141556781489,0 4.5958637438335,45.9142209796537,0 4.59584138103319,45.9143577476754,0 4.59576214355758,45.9146470820981,0 4.59571733268328,45.91475282323509,0 4.59553410762001,45.91509181062119,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6053">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690170000A0753</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">BAGNOLS</SimpleData>
+					<SimpleData name="Adresse">AU BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.91688215883829 </north>
+			<south> 45.91632662863281 </south>
+			<east> 4.60947055938909 </east>
+			<west> 4.6093972274134 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.60947055938909,45.91632662863281,0 4.60941690251547,45.9163451354772,0 4.60940961077179,45.9165019575084,0 4.60942962146923,45.9165287832548,0 4.60944207972381,45.91655769795249,0 4.60944604082476,45.9165784472958,0 4.60944125964068,45.9166003117753,0 4.60942856019717,45.91662057762591,0 4.60940919030125,45.91663778600319,0 4.6093972274134,45.9168290804618,0 4.6094458781739,45.91688215883829,0 4.6094380054445,45.9167760807054,0 4.60947055938909,45.91632662863281,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6376">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690170000C0848</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">BAGNOLS</SimpleData>
+					<SimpleData name="Adresse">LE PLAN</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9130508313449 </north>
+			<south> 45.912815290903 </south>
+			<east> 4.60762932261602 </east>
+			<west> 4.60719870388487 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.60723728782341,45.912815290903,0 4.60719870388487,45.91282403534819,0 4.60737065842027,45.9129197658776,0 4.60754777567956,45.9130110995182,0 4.60762932261602,45.9130508313449,0 4.60723728782341,45.912815290903,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6396">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690170000C0850</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">BAGNOLS</SimpleData>
+					<SimpleData name="Adresse">LE PLAN</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.91282403534819 </north>
+			<south> 45.9123767224928 </south>
+			<east> 4.60723728782341 </east>
+			<west> 4.60651649860941 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.60723728782341,45.912815290903,0 4.60651649860941,45.9123767224928,0 4.60654193360943,45.9124392286236,0 4.60687259276159,45.9126366439434,0 4.60719870388487,45.91282403534819,0 4.60723728782341,45.912815290903,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6398">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690170000C0852</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">BAGNOLS</SimpleData>
+					<SimpleData name="Adresse">LE PLAN</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9127521017607 </north>
+			<south> 45.91236430022461 </south>
+			<east> 4.60668937762962 </east>
+			<west> 4.60638916900201 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.60654734684856,45.9127001685383,0 4.60668937762962,45.9127521017607,0 4.6066062719778,45.9125747676442,0 4.60654193360943,45.9124392286236,0 4.60638916900201,45.91236430022461,0 4.60654239652063,45.91268970090589,0 4.60654734684856,45.9127001685383,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6403">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690170000C0854</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">BAGNOLS</SimpleData>
+					<SimpleData name="Adresse">LE PLAN</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.912131085167 </north>
+			<south> 45.91177689456551 </south>
+			<east> 4.60637527291211 </east>
+			<west> 4.60590128436831 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.60590131188883,45.9118776558648,0 4.60590128436831,45.9118899955571,0 4.60598133015375,45.9119358744617,0 4.60632146829979,45.912131085167,0 4.60632916919872,45.9121119714715,0 4.60637527291211,45.91177689456551,0 4.60634437480066,45.9118235382255,0 4.60634814008025,45.91186860877059,0 4.60631529630059,45.91200786985991,0 4.60625528392068,45.9120472711943,0 4.60620057106568,45.9120471474971,0 4.60598305010645,45.9119240511457,0 4.60590131188883,45.9118776558648,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6406">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690170000C0856</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">BAGNOLS</SimpleData>
+					<SimpleData name="Adresse">LE PLAN</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.91268970090589 </north>
+			<south> 45.91234482924931 </south>
+			<east> 4.60654239652063 </east>
+			<west> 4.60629047182261 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.60654239652063,45.91268970090589,0 4.60638916900201,45.91236430022461,0 4.60637763373516,45.91234482924931,0 4.60633779694231,45.91235485214771,0 4.60631494213798,45.9123764327542,0 4.60629939934215,45.91240097182251,0 4.60629125817922,45.9124271170642,0 4.60629047182261,45.9124488345965,0 4.6062951696128,45.9124860559928,0 4.60630796946765,45.9125223517154,0 4.60632832662036,45.9125567387514,0 4.60635609635851,45.9125886787446,0 4.606379266037,45.9126088851673,0 4.60644291004706,45.91264535944109,0 4.60651132413237,45.91267726253349,0 4.60654239652063,45.91268970090589,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6408">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690170000C0857</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">BAGNOLS</SimpleData>
+					<SimpleData name="Adresse">LE PLAN</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9131157626969 </north>
+			<south> 45.9120288020314 </south>
+			<east> 4.60672087054234 </east>
+			<west> 4.60586945251049 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.60669172179271,45.9131157626969,0 4.60670657589578,45.9131118589102,0 4.60672087054234,45.9130931919308,0 4.60671293478353,45.9130555662033,0 4.60654734684856,45.9127001685383,0 4.60654239652063,45.91268970090589,0 4.60651132413237,45.91267726253349,0 4.60644291004706,45.91264535944109,0 4.606379266037,45.9126088851673,0 4.60635609635851,45.9125886787446,0 4.60632832662036,45.9125567387514,0 4.60630796946765,45.9125223517154,0 4.6062951696128,45.9124860559928,0 4.60629047182261,45.9124488345965,0 4.60629125817922,45.9124271170642,0 4.60629939934215,45.91240097182251,0 4.60631494213798,45.9123764327542,0 4.60633779694231,45.91235485214771,0 4.60637763373516,45.91234482924931,0 4.60632642362486,45.9122612529819,0 4.60602509263629,45.91207828089389,0 4.60593216761425,45.9120288020314,0 4.60587058531651,45.91204976152961,0 4.60586945251049,45.9120595950135,0 4.60595990730891,45.9121217185069,0 4.60619810104969,45.91225902227799,0 4.60613051875013,45.9124327322107,0 4.6061551866324,45.9125884695932,0 4.60631299614769,45.9127080904152,0 4.60653413950851,45.91280924823409,0 4.60669172179271,45.9131157626969,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6410">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690170000C0858</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">BAGNOLS</SimpleData>
+					<SimpleData name="Adresse">LE PLAN</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.91204976152961 </north>
+			<south> 45.911970721661 </south>
+			<east> 4.60593216761425 </east>
+			<west> 4.60581559962539 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.60593216761425,45.9120288020314,0 4.60582337936929,45.911970721661,0 4.60581670839481,45.9120074740045,0 4.60581559962539,45.9120137044307,0 4.60587058531651,45.91204976152961,0 4.60593216761425,45.9120288020314,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6522">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690170000C0892</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">BAGNOLS</SimpleData>
+					<SimpleData name="Adresse">LES VAVRES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9120074740045 </north>
+			<south> 45.9116612734043 </south>
+			<east> 4.60582337936929 </east>
+			<west> 4.60472796347018 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.60581670839481,45.9120074740045,0 4.60582337936929,45.911970721661,0 4.60581721773152,45.9119673865609,0 4.60571368064121,45.91191238391139,0 4.60560538163162,45.91186222236659,0 4.60549283397386,45.9118168045591,0 4.60537617449438,45.9117763987376,0 4.60509053592959,45.91169786038039,0 4.60502179263878,45.911685595926,0 4.60491167972016,45.91167058594259,0 4.60479992634657,45.9116612734043,0 4.60472796347018,45.9116758046107,0 4.60512187031923,45.9117370455717,0 4.60535257716007,45.9117990705014,0 4.60557938578612,45.91189114291111,0 4.60577106294638,45.9119864156827,0 4.60581670839481,45.9120074740045,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6523">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690170000C0894</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">BAGNOLS</SimpleData>
+					<SimpleData name="Adresse">LA CROIX METRA</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9115826121735 </north>
+			<south> 45.911538333888 </south>
+			<east> 4.60503664368855 </east>
+			<west> 4.604640225663 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.604640225663,45.9115606817115,0 4.60492159377522,45.9115679480284,0 4.6050243417028,45.9115826121735,0 4.60503664368855,45.9115664055191,0 4.60486318398082,45.911538333888,0 4.604640225663,45.9115606817115,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6787">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690170000B0981</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">BAGNOLS</SimpleData>
+					<SimpleData name="Adresse">LES MOUILLES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9178436131071 </north>
+			<south> 45.9172416721956 </south>
+			<east> 4.62002957348031 </east>
+			<west> 4.61991343525459 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.62002957348031,45.9172416721956,0 4.61996688525,45.9172469833291,0 4.61992594957337,45.91755767446901,0 4.61991343525459,45.91779482318221,0 4.61992790310348,45.9178436131071,0 4.61996891484594,45.91782960561559,0 4.61997842010251,45.917626185503,0 4.62002957348031,45.9172416721956,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6790">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690170000B0983</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">BAGNOLS</SimpleData>
+					<SimpleData name="Adresse">LES MOUILLES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9172469833291 </north>
+			<south> 45.91695125198691 </south>
+			<east> 4.62002957348031 </east>
+			<west> 4.61996688525 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.62002957348031,45.9172416721956,0 4.6200072279112,45.91695125198691,0 4.61996688525,45.9172469833291,0 4.62002957348031,45.9172416721956,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

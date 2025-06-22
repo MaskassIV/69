@@ -1,0 +1,929 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>LYON 8EME_ETAT</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_1">
+		<name>LYON 8EME_ETAT</name>
+		<Schema name="LYON 8EME_ETAT" id="LYON 8EME_ETAT.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="ETAT">
+			<LineStyle>
+				<color>BF119ff7</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C119ff7</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.300">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69388000AR0172</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LYON 8EME</SimpleData>
+					<SimpleData name="Adresse">20, IMP BARAILLE</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.740637439097 </north>
+			<south> 45.7405704457897 </south>
+			<east> 4.87037868476285 </east>
+			<west> 4.87032327590768 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>4.87032327590768,45.7405704457897,15 4.87033544790699,45.740637439097,15 4.87037868476285,45.7406302365344,15 4.87035595664394,45.740570624263,15 4.87032327590768,45.7405704457897,15</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.4165">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69388000BW0008</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LYON 8EME</SimpleData>
+					<SimpleData name="Adresse">40, RUE MARIUS BERLIET</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7440664368631 </north>
+			<south> 45.7417884588725 </south>
+			<east> 4.86040337669817 </east>
+			<west> 4.85839032952819 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>4.86016399756479,45.7418309261029,15 4.86014679488243,45.74183580366721,15 4.85839032952819,45.742334051306,15 4.85870078488665,45.7436244643293,15 4.85874957730127,45.74362933466149,15 4.85884302036552,45.7440361885349,15 4.85899700032634,45.7440664368631,15 4.85929414406818,45.7435988287621,15 4.85932652394282,45.7435479436113,15 4.86033961307629,45.7419537716849,15 4.86040337669817,45.7418530980401,15 4.8603139812934,45.7417884588725,15 4.86016399756479,45.7418309261029,15</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.4175">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69388000AI0010</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LYON 8EME</SimpleData>
+					<SimpleData name="Adresse">21, PROM LEA ET NAPOLEON BULLUKIAN</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7416226592472 </north>
+			<south> 45.74157004280771 </south>
+			<east> 4.87909967889289 </east>
+			<west> 4.879023201082 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>4.87906430099216,45.74157004280771,15 4.879023201082,45.74159090438279,15 4.87904726490169,45.7416138325888,15 4.87905194550563,45.7416115027286,15 4.87906351671614,45.7416226592472,15 4.87909967889289,45.7416041318052,15 4.87906430099216,45.74157004280771,15</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.4230">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69388000AR0154</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LYON 8EME</SimpleData>
+					<SimpleData name="Adresse">41, RUE ANTOINE LUMIERE</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7401497378145 </north>
+			<south> 45.7401027469804 </south>
+			<east> 4.87396714853401 </east>
+			<west> 4.87393806349736 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>4.87393989532589,45.7401497378145,15 4.87396714853401,45.74014919477791,15 4.8739653166826,45.7401027469804,15 4.87393806349736,45.7401032900166,15 4.87393989532589,45.7401497378145,15</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.4239">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69388000AK0017</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LYON 8EME</SimpleData>
+					<SimpleData name="Adresse">61, RUE LAENNEC</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7401860806689 </north>
+			<south> 45.7401552538136 </south>
+			<east> 4.88181824508539 </east>
+			<west> 4.88177705255037 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>4.88181824508539,45.7401552538136,15 4.88177705255037,45.7401808919108,15 4.88180077031861,45.7401860806689,15 4.88181824508539,45.7401552538136,15</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.4245">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69388000AI0018</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LYON 8EME</SimpleData>
+					<SimpleData name="Adresse">17, PROM LEA ET NAPOLEON BULLUKIAN</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7426061550338 </north>
+			<south> 45.7420503783338 </south>
+			<east> 4.87829801724416 </east>
+			<west> 4.87782676975225 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>4.87812544519827,45.7420503783338,15 4.87798027640932,45.742128188447,15 4.87800576655359,45.74215145341319,15 4.87798150895482,45.7421644678351,15 4.8779561473865,45.7421412007219,15 4.87783953688953,45.7422038528928,15 4.87782676975225,45.742346833179,15 4.87820003214363,45.7426061550338,15 4.87829801724416,45.74258975063181,15 4.87818804801849,45.7422458775382,15 4.87815020221326,45.7421277900978,15 4.87812544519827,45.7420503783338,15</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.4255">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69388000AK0019</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LYON 8EME</SimpleData>
+					<SimpleData name="Adresse">12, RUE VOLNEY</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.74087835568599 </north>
+			<south> 45.740411532511 </south>
+			<east> 4.883239423518 </east>
+			<west> 4.88254418393371 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>4.88268590285964,45.740411532511,15 4.88254418393371,45.74075654166639,15 4.88299990317875,45.7408454915203,15 4.88305093023908,45.7408555383258,15 4.88308434012518,45.74086200614219,15 4.88316787100824,45.74087835568599,15 4.88320429310934,45.74078821343159,15 4.883239423518,45.7407016957135,15 4.8827567115073,45.740605811486,15 4.88276917785747,45.7405752482575,15 4.88278674334832,45.7405319894681,15 4.88282341991161,45.74044175302151,15 4.88282212503697,45.7404415044217,15 4.88274954155564,45.74042551227661,15 4.88268590285964,45.740411532511,15</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.4281">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69388000AK0023</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LYON 8EME</SimpleData>
+					<SimpleData name="Adresse">61, RUE LAENNEC</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7401808919108 </north>
+			<south> 45.740008883962 </south>
+			<east> 4.88206642528448 </east>
+			<west> 4.88175165115746 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>4.88206642528448,45.740008883962,15 4.88204525470059,45.7400104983917,15 4.88202417024997,45.74002219970501,15 4.88199322922024,45.7400391097023,15 4.88188744252049,45.740098252781,15 4.88186320512405,45.7401118081754,15 4.88183354047029,45.7401284266007,15 4.88177849964541,45.7401591598457,15 4.88175165115746,45.7401753709496,15 4.88177705255037,45.7401808919108,15 4.88181824508539,45.7401552538136,15 4.88205471055797,45.7400124122604,15 4.88206642528448,45.740008883962,15</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.4282">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69388000AO0233</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LYON 8EME</SimpleData>
+					<SimpleData name="Adresse">125, RUE BATAILLE</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7368777676007 </north>
+			<south> 45.7364296276898 </south>
+			<east> 4.87947056953986 </east>
+			<west> 4.87890353674631 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>4.87947056953986,45.7368409481721,15 4.87895428077217,45.7364296276898,15 4.87890353674631,45.7364429036225,15 4.87898256456294,45.73659192044709,15 4.87890924905972,45.7366109770127,15 4.87917038370573,45.73681568706521,15 4.87922479824952,45.7367817228344,15 4.87924409730892,45.7367969839939,15 4.87943940596578,45.7368777676007,15 4.87947056953986,45.7368409481721,15</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.4291">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69388000AK0025</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LYON 8EME</SimpleData>
+					<SimpleData name="Adresse">61, RUE LAENNEC</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7407016957135 </north>
+			<south> 45.74044175302151 </south>
+			<east> 4.88325544304016 </east>
+			<west> 4.8827567115073 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>4.883239423518,45.7407016957135,15 4.88325544304016,45.7406621557165,15 4.88297457072468,45.7406154142866,15 4.88276952105487,45.7405815477316,15 4.88282743003697,45.74044240665071,15 4.88282341991161,45.74044175302151,15 4.88278674334832,45.7405319894681,15 4.88276917785747,45.7405752482575,15 4.8827567115073,45.740605811486,15 4.883239423518,45.7407016957135,15</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.4294">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69388000AO0263</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LYON 8EME</SimpleData>
+					<SimpleData name="Adresse">133, RUE BATAILLE</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7368409481721 </north>
+			<south> 45.736370438756 </south>
+			<east> 4.87959533361567 </east>
+			<west> 4.87895428077217 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>4.87947253773332,45.73683830320821,15 4.87959533361567,45.7366931280899,15 4.87947909198304,45.736645164833,15 4.8793759912943,45.7365637450089,15 4.87934004401763,45.7365355204762,15 4.87923715186061,45.7364564389866,15 4.87923583570635,45.7364517770645,15 4.87919268061291,45.736370438756,15 4.87918731788624,45.7363716090334,15 4.8791402195407,45.7363823923034,15 4.879132955977,45.73638440492889,15 4.87895428077217,45.7364296276898,15 4.87947056953986,45.7368409481721,15 4.87947253773332,45.73683830320821,15</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.4297">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69388000AK0027</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LYON 8EME</SimpleData>
+					<SimpleData name="Adresse">61, RUE LAENNEC</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.74034335830829 </north>
+			<south> 45.7402610824689 </south>
+			<east> 4.88285295774051 </east>
+			<west> 4.88271770641969 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>4.88279845696043,45.74034335830829,15 4.88281005149059,45.74032496967111,15 4.88281348580134,45.740320048306,15 4.88285295774051,45.7402967804901,15 4.8827575771368,45.7402610824689,15 4.88274215053024,45.740287821931,15 4.88271770641969,45.7403255208902,15 4.88279845696043,45.74034335830829,15</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.4310">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69388000AC0029</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LYON 8EME</SimpleData>
+					<SimpleData name="Adresse">1, RUE SAINT HIPPOLYTE</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7477631111742 </north>
+			<south> 45.7469568908872 </south>
+			<east> 4.8634755706438 </east>
+			<west> 4.86245027482297 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>4.86329540287399,45.74730291054099,15 4.86329100290583,45.74729451630181,15 4.8631182877567,45.7469568908872,15 4.86291615281375,45.7470059879693,15 4.86284597490793,45.7470232705445,15 4.8626780602698,45.74706468603671,15 4.8625801949122,45.74708882103651,15 4.86249432535125,45.7471100556035,15 4.86245027482297,45.7471543789072,15 4.86245191439193,45.7471686735684,15 4.862482126661,45.7474200210341,15 4.86263590452388,45.7473981151681,15 4.86263571526476,45.7473963168173,15 4.8626410915461,45.7473955074212,15 4.86271058530019,45.74738463152659,15 4.86277996889101,45.747683521389,15 4.8627893725003,45.74771822463061,15 4.86279847603789,45.7477631111742,15 4.86322846235674,45.7476948471343,15 4.8634755706438,45.7476554549068,15 4.86346441165138,45.7476335712135,15 4.86343217697239,45.7475704216675,15 4.86341689338729,45.74754067962829,15 4.86329540287399,45.74730291054099,15</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.4311">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69388000AK0029</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LYON 8EME</SimpleData>
+					<SimpleData name="Adresse">61, RUE LAENNEC</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.74039705807941 </north>
+			<south> 45.74000877247779 </south>
+			<east> 4.88279845696043 </east>
+			<west> 4.88180077031861 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>4.88206642528448,45.740008883962,15 4.88205471055797,45.7400124122604,15 4.88181824508539,45.7401552538136,15 4.88180077031861,45.7401860806689,15 4.8827651670758,45.74039705807941,15 4.88278611554727,45.7403624800111,15 4.88279845696043,45.74034335830829,15 4.88271770641969,45.7403255208902,15 4.88271537401756,45.7403288025139,15 4.88270432724551,45.7403443896893,15 4.88267522870429,45.7403549639036,15 4.88216245369211,45.7402449871423,15 4.88215591125316,45.74022663111771,15 4.88209552008493,45.74005487664951,15 4.88209767797038,45.7400502468372,15 4.88208336252653,45.7400113935395,15 4.88206770788574,45.74000877247779,15 4.88206642528448,45.740008883962,15</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.4313">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69388000AR0291</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LYON 8EME</SimpleData>
+					<SimpleData name="Adresse">20, IMP BARAILLE</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7407287697006 </north>
+			<south> 45.7403302547089 </south>
+			<east> 4.87096464404579 </east>
+			<west> 4.87029099029592 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>4.87029099029592,45.7404070466306,15 4.87030360643862,45.7404719608696,15 4.87031330770609,45.74052296198721,15 4.87031441175615,45.7405289786324,15 4.87032327590768,45.7405704457897,15 4.87035595664394,45.740570624263,15 4.87037868476285,45.7406302365344,15 4.87038309427188,45.74065790618521,15 4.87038092078983,45.7406583025365,15 4.87038161846021,45.7406599122955,15 4.87038175616671,45.7406601802332,15 4.87039988342709,45.740701673871,15 4.8704108993308,45.7407268920041,15 4.87041104312966,45.7407273399888,15 4.87041173470974,45.7407287697006,15 4.87047619155949,45.7407213952307,15 4.87064789178209,45.74070134253979,15 4.87068466913264,45.7406971293986,15 4.87096464404579,45.7406644708619,15 4.8709493642559,45.7405778930394,15 4.87094123997499,45.7405392960155,15 4.87090200492775,45.7403302547089,15 4.87029099029592,45.7404070466306,15</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.4321">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69388000AI0003</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LYON 8EME</SimpleData>
+					<SimpleData name="Adresse">6, AV ROCKEFELLER</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.74244536787209 </north>
+			<south> 45.741920766603 </south>
+			<east> 4.87986864222236 </east>
+			<west> 4.87918541621225 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>4.87918541621225,45.7420146125181,15 4.87931931418616,45.74244536787209,15 4.87979374307664,45.74236549000339,15 4.87986864222236,45.7422717349907,15 4.87975752201909,45.741920766603,15 4.87926678057146,45.7420012765614,15 4.87922111012661,45.7420087933165,15 4.87918541621225,45.7420146125181,15</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.4324">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69388000BW0003</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LYON 8EME</SimpleData>
+					<SimpleData name="Adresse">9001, RUE EPARGNE</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7424163909017 </north>
+			<south> 45.7417701752143 </south>
+			<east> 4.86016399756479 </east>
+			<west> 4.85809991720783 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>4.86016399756479,45.7418309261029,15 4.86005183487756,45.7417701752143,15 4.86001845204222,45.74177973329071,15 4.85893039136567,45.7421202311099,15 4.85809991720783,45.7424163909017,15 4.85839032952819,45.742334051306,15 4.86014679488243,45.74183580366721,15 4.86016399756479,45.7418309261029,15</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.4333">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69388000AK0032</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LYON 8EME</SimpleData>
+					<SimpleData name="Adresse">61, RUE LAENNEC</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7400502468372 </north>
+			<south> 45.7400113935395 </south>
+			<east> 4.88211221695109 </east>
+			<west> 4.88208336252653 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>4.88209767797038,45.7400502468372,15 4.88211221695109,45.74002009946,15 4.88209319489026,45.7400130308971,15 4.88208336252653,45.7400113935395,15 4.88209767797038,45.7400502468372,15</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.4334">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69388000AR0032</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LYON 8EME</SimpleData>
+					<SimpleData name="Adresse">41, RUE ANTOINE LUMIERE</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT MINISTERE DE LEDUCATION NATIONALE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7406550253274 </north>
+			<south> 45.73892967454901 </south>
+			<east> 4.87403337833658 </east>
+			<west> 4.86760496092351 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>4.86812465339209,45.73948475412369,15 4.86815620803468,45.7395239539049,15 4.86821311516832,45.7395901160793,15 4.86831168605272,45.73970530866791,15 4.8683568141767,45.73975788464471,15 4.86819878287857,45.7397826614613,15 4.86821991676744,45.7398560818525,15 4.86823334218789,45.73990314822499,15 4.86824020629197,45.7399273544569,15 4.86815639042596,45.7399404528605,15 4.86805619703546,45.7399561644721,15 4.86795407812375,45.7399719979685,15 4.86785644075194,45.7399872166846,15 4.86784301867371,45.7399402402905,15 4.86781488668946,45.7398424356538,15 4.86763381932446,45.7398707458751,15 4.86760496092351,45.7399189630871,15 4.86797211588302,45.7403535226221,15 4.86847615564713,45.7406550253274,15 4.86866830030596,45.7406270706428,15 4.8688231865498,45.74060432696,15 4.86885598443806,45.74060036052331,15 4.8689059100627,45.7405931377344,15 4.86907969871686,45.74057017044961,15 4.86925989738029,45.7405465561808,15 4.86942562855925,45.7405249829767,15 4.86958378017113,45.74050371535689,15 4.86974962443884,45.7404816894273,15 4.86991872912552,45.7404571771805,15 4.87008558948291,45.7404347736048,15 4.87029099029592,45.7404070466306,15 4.87090200492775,45.7403302547089,15 4.87094123997499,45.7405392960155,15 4.87117750262939,45.74051501856769,15 4.87120132340338,45.7406410871984,15 4.87141313647255,45.7406203676156,15 4.87254853271484,45.74048784327889,15 4.87311779363881,45.7404165066781,15 4.87342458493403,45.7403780821104,15 4.87372099843462,45.7403409100533,15 4.87387580165787,45.7403233850619,15 4.87393895358595,45.74031548984021,15 4.87403337833658,45.74030419242411,15 4.87402618926195,45.74008074795339,15 4.87397850864025,45.7399985821908,15 4.87255801240337,45.73892967454901,15 4.87222176640021,45.73898696110239,15 4.87217600958746,45.7389880812043,15 4.87213025277285,45.7389892012876,15 4.87133020165206,45.73913948566201,15 4.87054957846027,45.7392861993059,15 4.87048989776514,45.73909632258481,15 4.87023779063373,45.7391387862406,15 4.87000567294823,45.7391751530515,15 4.86953917050199,45.7392531471081,15 4.86911651512777,45.7393230262655,15 4.86894355889378,45.7393514743847,15 4.86877713802817,45.7393791833956,15 4.86812465339209,45.73948475412369,15</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+				<innerBoundaryIs>
+					<LinearRing>
+						<coordinates>4.87393989532589,45.7401497378145,15 4.87393806349736,45.7401032900166,15 4.8739653166826,45.7401027469804,15 4.87396714853401,45.74014919477791,15 4.87393989532589,45.7401497378145,15</coordinates>
+					</LinearRing>
+				</innerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.4346">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69388000AK0034</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LYON 8EME</SimpleData>
+					<SimpleData name="Adresse">RUE CHARLES JUNG</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.74042551227661 </north>
+			<south> 45.7401753709496 </south>
+			<east> 4.8827651670758 </east>
+			<west> 4.88166867534972 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>4.88222073026498,45.74035462558831,15 4.88223769329996,45.74031633103709,15 4.88268590285964,45.740411532511,15 4.88274954155564,45.74042551227661,15 4.88275362463931,45.7404169771057,15 4.8827651670758,45.74039705807941,15 4.88180077031861,45.7401860806689,15 4.88177705255037,45.7401808919108,15 4.88175165115746,45.7401753709496,15 4.88171291667312,45.74020141837019,15 4.88166867534972,45.7402319713223,15 4.88222073026498,45.74035462558831,15</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.4376">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69388000AI0004</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LYON 8EME</SimpleData>
+					<SimpleData name="Adresse">23, PROM LEA ET NAPOLEON BULLUKIAN</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7420146125181 </north>
+			<south> 45.7413381552992 </south>
+			<east> 4.87975752201909 </east>
+			<west> 4.87906351671614 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>4.87975752201909,45.741920766603,15 4.87969886909625,45.741735650955,15 4.87967998759176,45.7416759762572,15 4.87957753287393,45.7413527863071,15 4.87951502961488,45.7413381552992,15 4.87913661607125,45.741532717842,15 4.87906430099216,45.74157004280771,15 4.87909967889289,45.7416041318052,15 4.87906351671614,45.7416226592472,15 4.87909225425608,45.7417149568118,15 4.87918541621225,45.7420146125181,15 4.87922111012661,45.7420087933165,15 4.87926678057146,45.7420012765614,15 4.87975752201909,45.741920766603,15</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.4377">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69388000AK0004</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LYON 8EME</SimpleData>
+					<SimpleData name="Adresse">6, RUE VOLNEY</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.741499026246 </north>
+			<south> 45.7411131738413 </south>
+			<east> 4.88300399143657 </east>
+			<west> 4.88214325895038 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>4.88215944183588,45.7413542128698,15 4.88251566029736,45.741422397158,15 4.88276777957304,45.7414708809675,15 4.88281359997631,45.74147912327041,15 4.88291629193481,45.741499026246,15 4.8829618665081,45.7413867530911,15 4.88300399143657,45.7412827342936,15 4.8828519469088,45.7412528466369,15 4.88273423406133,45.7412300418297,15 4.8826610680431,45.7412158608245,15 4.8823779951109,45.7411612280705,15 4.88237966326303,45.7411573270237,15 4.88214325895038,45.7411131738413,15 4.88215944183588,45.7413542128698,15</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.4412">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69388000AM0047</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LYON 8EME</SimpleData>
+					<SimpleData name="Adresse">9003, RUE GUILLAUME PARADIN</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7389467876167 </north>
+			<south> 45.7380186736466 </south>
+			<east> 4.88679632368289 </east>
+			<west> 4.88541313663602 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>4.88609654607651,45.7387222011765,15 4.88598431383821,45.73883730218459,15 4.88593586620473,45.7388877436032,15 4.88589002926388,45.7389355291727,15 4.88586002496438,45.7388818062359,15 4.88564856388337,45.7385052289732,15 4.88562897567098,45.7384702474058,15 4.8856074801315,45.7384321451296,15 4.8855124389683,45.7382630435731,15 4.88541313663602,45.7380859065093,15 4.88587132257196,45.73893016738481,15 4.8858721400222,45.7389315048282,15 4.88587308296535,45.7389327500979,15 4.88587389734457,45.7389339975182,15 4.88587496885178,45.7389352406375,15 4.88587616278081,45.7389363015602,15 4.885877359781,45.7389374525061,15 4.8858788108381,45.7389385091279,15 4.88588026189525,45.7389395657497,15 4.88588183537422,45.7389404401749,15 4.88588340885325,45.7389413146001,15 4.88588511089632,45.73894218687479,15 4.88588680986832,45.7389429691264,15 4.88588850576924,45.73894366135491,15 4.88589033023421,45.7389443514329,15 4.88589228019209,45.73894494933739,15 4.88589409851489,45.73894545936929,15 4.88589616782345,45.738945785054,15 4.88589810856802,45.7389461128892,15 4.88590004624149,45.7389463507013,15 4.88590211247897,45.7389465863629,15 4.88590417564532,45.7389467320013,15 4.88590623574052,45.7389467876167,15 4.88590828969342,45.7389466631859,15 4.88591034364631,45.7389465387551,15 4.88591226596403,45.7389463264516,15 4.88591431377457,45.7389460219746,15 4.88591636158509,45.7389457174976,15 4.88591827468924,45.7389452351248,15 4.88592018779335,45.7389447527521,15 4.88592209782626,45.7389441803562,15 4.88592387929513,45.73894361011079,15 4.88592565462159,45.73894285981931,15 4.88592742687683,45.7389420195046,15 4.88592907056801,45.7389411813405,15 4.88593058262397,45.7389402553038,15 4.88593209467988,45.738939329267,15 4.88593347510055,45.7389383153577,15 4.885934723886,45.7389372135758,15 4.88593610123538,45.7389361096434,15 4.88593721838555,45.73893491998889,15 4.88678850178258,45.73806316835271,15 4.88678960046153,45.7380614385516,15 4.88679069606786,45.73805961872749,15 4.88679179474666,45.7380578889265,15 4.88679302198729,45.7380561569739,15 4.88679399210406,45.73805442932429,15 4.88679496222077,45.73805270167469,15 4.88679567214109,45.738050888305,15 4.8867961249376,45.7380490792383,15 4.88679632368289,45.7380473644977,15 4.88679613366998,45.7380455661885,15 4.88679594672964,45.7380438579024,15 4.88679549959303,45.7380420638962,15 4.88679518101832,45.7380402677385,15 4.88679473388176,45.7380384737323,15 4.88679428674523,45.73803667972611,15 4.88679383960873,45.7380348857198,15 4.88678299546049,45.7380186736466,15 4.88670043243877,45.7381022032075,15 4.88669346954007,45.7381092554589,15 4.88665933469848,45.7381455862288,15 4.88642643323082,45.7383847577782,15 4.88609654607651,45.7387222011765,15</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.4421">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69388000AM0049</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LYON 8EME</SimpleData>
+					<SimpleData name="Adresse">9003, RUE GUILLAUME PARADIN</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7374585910202 </north>
+			<south> 45.7372254970455 </south>
+			<east> 4.8858935661843 </east>
+			<west> 4.88569004382546 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>4.8858935661843,45.7372254970455,15 4.88577958268642,45.7372854115564,15 4.88577480529588,45.7372924271949,15 4.88577039557472,45.7373026793627,15 4.88576611441214,45.7373129293799,15 4.88576183324796,45.73732317939701,15 4.88575754901138,45.7373333393909,15 4.88575326784404,45.7373435894077,15 4.88574886118561,45.7373539315977,15 4.88574419126328,45.737364098042,15 4.88573938970808,45.73737417661331,15 4.88573578163125,45.7373815329898,15 4.88573217048269,45.7373887993431,15 4.88572817058119,45.73739598212411,15 4.88572443087025,45.7374032506275,15 4.8857205625979,45.737410521281,15 4.88571656269332,45.7374177040616,15 4.88571269134817,45.73742488469181,15 4.88570882000201,45.7374320653218,15 4.88569004382546,45.7374585910202,15 4.88569204552131,45.7374569362013,15 4.88569529597376,45.7374541796032,15 4.88569854642589,45.7374514230051,15 4.88570154282738,45.73744876073039,15 4.88570479327888,45.7374460041321,15 4.88570791209879,45.7374431596608,15 4.88571103398914,45.7374404052126,15 4.88571402731867,45.7374376529145,15 4.8857170206479,45.7374349006164,15 4.88572013946656,45.73743205614479,15 4.88572312972442,45.7374292138234,15 4.88572599142149,45.7374263736523,15 4.88572898474952,45.7374236213538,15 4.88573197500646,45.7374207790322,15 4.88573470814219,45.7374179410111,15 4.88573743820684,45.73741501296689,15 4.88574042539209,45.737412080622,15 4.88574315852695,45.7374092426006,15 4.88574588859073,45.7374063145562,15 4.88574874721463,45.73740338436139,15 4.88575147420701,45.7374003662938,15 4.88575420426991,45.73739743824909,15 4.8857568027013,45.7373944223317,15 4.88575953276362,45.7373914942869,15 4.88576213119443,45.7373884783693,15 4.8857647326958,45.7373855524747,15 4.88576732805522,45.73738244653401,15 4.88576992648518,45.7373794306162,15 4.88577239635451,45.73737641684869,15 4.88577486622356,45.7373734030812,15 4.88577733302149,45.7373702992906,15 4.88577979981915,45.7373671954999,15 4.8857821380562,45.73736409385939,15 4.8857846048533,45.7373609900687,15 4.885787074721,45.73735797630081,15 4.88578928439695,45.7373548768106,15 4.88579161956207,45.7373516851469,15 4.88579395472692,45.7373484934832,15 4.8857961644021,45.7373453939929,15 4.88579837407703,45.7373422945025,15 4.88580058068082,45.737339104989,15 4.88585227932443,45.7372746476973,15 4.8858935661843,45.7372254970455,15</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.4425">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69388000AK0005</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LYON 8EME</SimpleData>
+					<SimpleData name="Adresse">8, RUE VOLNEY</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7412827342936 </north>
+			<south> 45.7409515382841 </south>
+			<east> 4.88308870909399 </east>
+			<west> 4.8823779951109 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>4.88237966326303,45.7411573270237,15 4.8823779951109,45.7411612280705,15 4.8826610680431,45.7412158608245,15 4.88273423406133,45.7412300418297,15 4.8828519469088,45.7412528466369,15 4.88300399143657,45.7412827342936,15 4.88300884573527,45.7412704031104,15 4.88305477804024,45.7411573132695,15 4.88308870909399,45.7410733377171,15 4.88295970983361,45.7410477491934,15 4.88290699895015,45.7410373701657,15 4.88282644338729,45.7410215111871,15 4.88246412001279,45.7409515382841,15 4.88238905384909,45.7411346516601,15 4.88237966326303,45.7411573270237,15</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.4446">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69388000AK0006</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LYON 8EME</SimpleData>
+					<SimpleData name="Adresse">10, RUE VOLNEY</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7410733377171 </north>
+			<south> 45.74075654166639 </south>
+			<east> 4.88316787100824 </east>
+			<west> 4.88246412001279 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>4.88246412001279,45.7409515382841,15 4.88282644338729,45.7410215111871,15 4.88290699895015,45.7410373701657,15 4.88295970983361,45.7410477491934,15 4.88308870909399,45.7410733377171,15 4.88313428296627,45.74096106449529,15 4.88315766054096,45.7409033867475,15 4.88316787100824,45.74087835568599,15 4.88308434012518,45.74086200614219,15 4.88305093023908,45.7408555383258,15 4.88299990317875,45.7408454915203,15 4.88254418393371,45.74075654166639,15 4.88253930505032,45.7407681526439,15 4.88246412001279,45.7409515382841,15</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.4484">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69388000AI0009</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LYON 8EME</SimpleData>
+					<SimpleData name="Adresse">17, PROM LEA ET NAPOLEON BULLUKIAN</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7421644678351 </north>
+			<south> 45.742128188447 </south>
+			<east> 4.87800576655359 </east>
+			<west> 4.8779561473865 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>4.8779561473865,45.7421412007219,15 4.87798150895482,45.7421644678351,15 4.87800576655359,45.74215145341319,15 4.87798027640932,45.742128188447,15 4.8779561473865,45.7421412007219,15</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.4485">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69388000AK0009</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LYON 8EME</SimpleData>
+					<SimpleData name="Adresse">1, RUE CHARLES JUNG</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7407681526439 </north>
+			<south> 45.74031633103709 </south>
+			<east> 4.88268590285964 </east>
+			<west> 4.88215655508762 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>4.88222073026498,45.74035462558831,15 4.88221690730376,45.7403632464705,15 4.88220561908898,45.74039063736389,15 4.88218089086246,45.7404502290078,15 4.88215902138924,45.7405031074226,15 4.88215655508762,45.7405251267322,15 4.88228960579877,45.7405526301465,15 4.88235645568921,45.74056646645181,15 4.88241579042709,45.74057871677481,15 4.88242872342699,45.7407582892517,15 4.88247930309453,45.7407627591725,15 4.88253930505032,45.7407681526439,15 4.88254418393371,45.74075654166639,15 4.88268590285964,45.740411532511,15 4.88223769329996,45.74031633103709,15 4.88222073026498,45.74035462558831,15</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

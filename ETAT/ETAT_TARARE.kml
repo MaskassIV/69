@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>TARARE_ETAT</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_1">
+		<name>TARARE_ETAT</name>
+		<Schema name="TARARE_ETAT" id="TARARE_ETAT.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="ETAT">
+			<LineStyle>
+				<color>BF119ff7</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C119ff7</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.2168">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69243000AD0031</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TARARE</SimpleData>
+					<SimpleData name="Adresse">22, RUE ETIENNE DOLET</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.89520234078609 </north>
+			<south> 45.8946602436283 </south>
+			<east> 4.43868080891345 </east>
+			<west> 4.43807549537413 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.43807549537413,45.8947763306849,0 4.43818879200032,45.8948819760404,0 4.43813649633477,45.89490948030641,0 4.43810891260965,45.8949250519759,0 4.43812411896868,45.89493440538,0 4.43829859179376,45.8950463876219,0 4.43830006864551,45.8950436669106,0 4.43831587440315,45.8950364408537,0 4.43836736554804,45.8950918057985,0 4.43847150394325,45.89520234078609,0 4.43868080891345,45.8950970047413,0 4.43856836072423,45.8949695535305,0 4.43853858704553,45.8949357979867,0 4.43847305647304,45.8948614280495,0 4.43852596636812,45.8948376985073,0 4.43850301319527,45.8948132228611,0 4.4385065925177,45.8948020994293,0 4.4385208367697,45.8947943528226,0 4.43854202097619,45.8947955243429,0 4.43849681421981,45.894763496222,0 4.43835120436484,45.8946602436283,0 4.43807549537413,45.8947763306849,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.2817">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69243000AH0400</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TARARE</SimpleData>
+					<SimpleData name="Adresse">35, RTE DE ST CLEMENT</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9011398369554 </north>
+			<south> 45.9007823615644 </south>
+			<east> 4.43708926231785 </east>
+			<west> 4.43676327532207 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.43708926231785,45.9010996658342,0 4.43708110926375,45.90107887455319,0 4.43706988236114,45.9010589329109,0 4.43706934071192,45.901057949088,0 4.43705433166538,45.9010314808218,0 4.4370365043486,45.9010057688802,0 4.43701573919596,45.9009811750378,0 4.43699798480566,45.90096320768271,0 4.43695745598904,45.90092274348021,0 4.43694551891701,45.9009101961125,0 4.43691413451829,45.90087411890891,0 4.43689692641011,45.9008523619023,0 4.43684891988035,45.9007823615644,0 4.43676327532207,45.9008520786109,0 4.43686855792421,45.9009369323538,0 4.43688556421391,45.9009509464105,0 4.4369123996776,45.9009758234014,0 4.43693629965731,45.9010019085203,0 4.43694764124734,45.9010163548034,0 4.4369678906829,45.9010459087406,0 4.43698545550289,45.9010763974296,0 4.43699981752625,45.9011077373918,0 4.43701110335875,45.9011398369554,0 4.43708926231785,45.9010996658342,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.3332">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69243000AH0586</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TARARE</SimpleData>
+					<SimpleData name="Adresse">35, RTE DE ST CLEMENT</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9012573258691 </north>
+			<south> 45.9010996658342 </south>
+			<east> 4.4370949701602 </east>
+			<west> 4.43694629645117 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.43696312234458,45.9012539275047,0 4.4369650169435,45.9012573258691,0 4.43698031821417,45.90125046669029,0 4.43703887147552,45.9012252251918,0 4.43705537780776,45.9012151083791,0 4.43706964725385,45.9012033087702,0 4.4370811733717,45.9011901930585,0 4.4370898318992,45.90117594295211,0 4.43709155045956,45.9011725887385,0 4.43709487462902,45.9011516516067,0 4.4370949701602,45.9011305753758,0 4.43709184409856,45.9011096301486,0 4.43708926231785,45.9010996658342,0 4.43701110335875,45.9011398369554,0 4.43700690408614,45.9011420518563,0 4.43694629645117,45.9011478655822,0 4.43696312234458,45.9012539275047,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.3333">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69243000AH0588</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TARARE</SimpleData>
+					<SimpleData name="Adresse">35, RTE DE ST CLEMENT</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9008520786109 </north>
+			<south> 45.9006890522989 </south>
+			<east> 4.43684891988035 </east>
+			<west> 4.43668971929034 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.43684891988035,45.9007823615644,0 4.4367853420013,45.9006890522989,0 4.43668971929034,45.9007916794214,0 4.43676327532207,45.9008520786109,0 4.43684891988035,45.9007823615644,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.3625">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69243000AR0072</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TARARE</SimpleData>
+					<SimpleData name="Adresse">CHALOSSET</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.88447511035329 </north>
+			<south> 45.8842515984478 </south>
+			<east> 4.44478919838384 </east>
+			<west> 4.44436923590127 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.44475883926063,45.8842515984478,0 4.44436923590127,45.8843053015386,0 4.44478919838384,45.88447511035329,0 4.44475883926063,45.8842515984478,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.3648">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69243000AR0074</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TARARE</SimpleData>
+					<SimpleData name="Adresse">CHALOSSET</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.88449959423811 </north>
+			<south> 45.8841731074311 </south>
+			<east> 4.44531195952383 </east>
+			<west> 4.44475883926063 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.44520599934046,45.88449959423811,0 4.44531195952383,45.8841731074311,0 4.44479276036225,45.8842468418577,0 4.44475883926063,45.8842515984478,0 4.44478919838384,45.88447511035329,0 4.44515156929927,45.88446975822569,0 4.44520599934046,45.88449959423811,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>LANCIE_DEPT</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_3">
+		<name>LANCIE_DEPT</name>
+		<Schema name="LANCIE_DEPT" id="LANCIE_DEPT.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="DEPT">
+			<LineStyle>
+				<color>BF63f16c</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C63f16c</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.4953">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69108000ZA0052</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LANCIE</SimpleData>
+					<SimpleData name="Adresse">LES MARANS</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1733026068931 </north>
+			<south> 46.1711833229221 </south>
+			<east> 4.75448919834754 </east>
+			<west> 4.75013387833859 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.75118600252806,46.1719547039936,0 4.75126551428566,46.17191934190311,0 4.75152072109841,46.1718846946016,0 4.75256909539403,46.171890148214,0 4.75270742733755,46.1718900863793,0 4.75300500395076,46.1718587453473,0 4.75312214204421,46.1718445986239,0 4.75350295324712,46.1716835313078,0 4.75427569881671,46.1712959197231,0 4.75448919834754,46.1711896727654,0 4.75445126826779,46.1711833229221,0 4.75349133716028,46.17166488576331,0 4.75311025249837,46.1718255069072,0 4.7527134175897,46.17187062878419,0 4.75150754510527,46.17186183958469,0 4.7512430169845,46.17189690071639,0 4.75106456943975,46.1719805340088,0 4.75074992121135,46.17221632315049,0 4.75064486666163,46.17236944043851,0 4.75032124248565,46.1729741158605,0 4.75013387833859,46.1733026068931,0 4.75034558687148,46.172981306839,0 4.75066207132264,46.17238854059121,0 4.7507908920991,46.1722285720494,0 4.75109324362161,46.1720015289897,0 4.75118600252806,46.1719547039936,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.5418">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69108000ZA0061</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LANCIE</SimpleData>
+					<SimpleData name="Adresse">LES MARANS</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.17114927487739 </north>
+			<south> 46.1695420756814 </south>
+			<east> 4.75785347506621 </east>
+			<west> 4.75457451205911 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.75457969539608,46.17114927487739,0 4.75464524343295,46.1710908877088,0 4.7552125889546,46.1706376267488,0 4.75553797240884,46.170385716414,0 4.75585911270698,46.1701876429353,0 4.75631778260306,46.1698917877626,0 4.75651914499357,46.1698076116356,0 4.75676012470564,46.16975822051741,0 4.75785347506621,46.1695420756814,0 4.75749142544689,46.1695959537516,0 4.7567396068618,46.16972881433811,0 4.75649713877741,46.1697843532374,0 4.75632876671548,46.1698542386021,0 4.75592904342692,46.1701163972084,0 4.7558523308186,46.1701661307314,0 4.75550393304489,46.1703793968924,0 4.7551845418686,46.170632205353,0 4.75461014405472,46.17108791690071,0 4.75457451205911,46.17112503579961,0 4.75457969539608,46.17114927487739,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6758">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69108000ZA0097</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LANCIE</SimpleData>
+					<SimpleData name="Adresse">LES BAISES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1692455825402 </north>
+			<south> 46.1687804446839 </south>
+			<east> 4.76305088390576 </east>
+			<west> 4.76023196999364 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.76305088390576,46.168797462755,0 4.76303892854193,46.1687804446839,0 4.76261347071715,46.1690030351887,0 4.76243122915032,46.1690888172413,0 4.76224612360381,46.1691460008354,0 4.76152325475686,46.16911406487979,0 4.7607954529477,46.1691707405155,0 4.76027121237834,46.16922416827,0 4.76023196999364,46.1692455825402,0 4.76080092979201,46.16919596558489,0 4.76081165867429,46.16919498869779,0 4.76152162491746,46.16913597738899,0 4.7622607773555,46.16916630976591,0 4.76244551966678,46.1691058892271,0 4.7626310382894,46.1690212272431,0 4.76305088390576,46.168797462755,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

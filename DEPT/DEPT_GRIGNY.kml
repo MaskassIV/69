@@ -1,0 +1,754 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>GRIGNY_DEPT</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_3">
+		<name>GRIGNY_DEPT</name>
+		<Schema name="GRIGNY_DEPT" id="GRIGNY_DEPT.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="DEPT">
+			<LineStyle>
+				<color>BF63f16c</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C63f16c</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.4">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69096000AS0106</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GRIGNY</SimpleData>
+					<SimpleData name="Adresse">EMBOUCHURE DU GARON</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.5954242169551 </north>
+			<south> 45.59534468277531 </south>
+			<east> 4.77726416873417 </east>
+			<west> 4.77692474454159 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.77711991563927,45.5954242169551,0 4.77726416873417,45.5954215770273,0 4.77694903584016,45.59534468277531,0 4.77692474454159,45.59537136718541,0 4.77711991563927,45.5954242169551,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1918">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69096000AC0180</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GRIGNY</SimpleData>
+					<SimpleData name="Adresse">AV JACQUES CHIRAC</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6080457674993 </north>
+			<south> 45.6078652170914 </south>
+			<east> 4.77270991226472 </east>
+			<west> 4.77266730584398 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.77269232273338,45.6080455042798,0 4.77270991226472,45.6080457674993,0 4.7727071167031,45.6078661208905,0 4.77266730584398,45.6078652170914,0 4.77266924517345,45.6079378734286,0 4.77267398968344,45.6079858963097,0 4.77267858219654,45.6080050990234,0 4.77269232273338,45.6080455042798,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1937">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69096000AC0182</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GRIGNY</SimpleData>
+					<SimpleData name="Adresse">LES CHINOIS</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6078661208905 </north>
+			<south> 45.60768282013309 </south>
+			<east> 4.77273890053786 </east>
+			<west> 4.77266185587618 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.77273890053786,45.60768430804939,0 4.77266185587618,45.60768282013309,0 4.77266730584398,45.6078652170914,0 4.7727071167031,45.6078661208905,0 4.7727305506504,45.6077321770125,0 4.77273890053786,45.60768430804939,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1967">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69096000AC0184</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GRIGNY</SimpleData>
+					<SimpleData name="Adresse">AV JACQUES CHIRAC</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.60768430804939 </north>
+			<south> 45.6074763591078 </south>
+			<east> 4.77289367619956 </east>
+			<west> 4.77265090987774 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.77289367619956,45.6074801107316,0 4.77265165796583,45.6074763591078,0 4.77265090987774,45.6074810545633,0 4.77265849436015,45.6076018096537,0 4.77266185587618,45.60768282013309,0 4.77273890053786,45.60768430804939,0 4.77277709189077,45.6076065157209,0 4.77284868230591,45.60751774880039,0 4.77289305927552,45.6074848941923,0 4.77289367619956,45.6074801107316,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3124">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69096000AL0277</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GRIGNY</SimpleData>
+					<SimpleData name="Adresse">RUE DE BOUTEILLER</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6060775369809 </north>
+			<south> 45.6058694421653 </south>
+			<east> 4.79009629041771 </east>
+			<west> 4.78985282262081 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.79009629041771,45.60605645922959,0 4.79000760780172,45.6058694421653,0 4.78985282262081,45.60594414221501,0 4.78987548175927,45.6060775369809,0 4.79009629041771,45.60605645922959,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3150">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69096000AL0279</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GRIGNY</SimpleData>
+					<SimpleData name="Adresse">RUE DE BOUTEILLER</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6062041921402 </north>
+			<south> 45.60605645922959 </south>
+			<east> 4.79015577875552 </east>
+			<west> 4.78987548175927 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.79015577875552,45.60618188199749,0 4.79009629041771,45.60605645922959,0 4.78987548175927,45.6060775369809,0 4.78989715335963,45.6062041921402,0 4.78993746211635,45.6062006684284,0 4.79015577875552,45.60618188199749,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3178">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69096000AL0280</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GRIGNY</SimpleData>
+					<SimpleData name="Adresse">CINI ET PTE PLAINE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6063746197008 </north>
+			<south> 45.60618188199749 </south>
+			<east> 4.79024721371247 </east>
+			<west> 4.78993746211635 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.79015577875552,45.60618188199749,0 4.78993746211635,45.6062006684284,0 4.78995818827397,45.6062305123671,0 4.78998582303741,45.6062597059348,0 4.79003443950032,45.6062948705564,0 4.79008357227405,45.6063261538907,0 4.79014990097249,45.60635347061989,0 4.79024721371247,45.6063746197008,0 4.79015577875552,45.60618188199749,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3460">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69096000AN0304</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GRIGNY</SimpleData>
+					<SimpleData name="Adresse">CHARPENAY</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6130324014658 </north>
+			<south> 45.61281290202609 </south>
+			<east> 4.79065433138604 </east>
+			<west> 4.79043906853078 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.7906275051119,45.61297671423601,0 4.79061966390911,45.61296044612409,0 4.79060897737969,45.61294350273409,0 4.790594748873,45.61292418380469,0 4.79058496874742,45.6129114593227,0 4.79056801685312,45.612899209278,0 4.79054703897902,45.6128854921048,0 4.79043906853078,45.61281290202609,0 4.79049077172554,45.6128599968853,0 4.79051795569892,45.6128830727445,0 4.79054203754784,45.6129094405302,0 4.79056345208924,45.6129326982813,0 4.79058228024635,45.6129632929488,0 4.79059580893064,45.6129847847237,0 4.79062246087608,45.6130311073499,0 4.79065433138604,45.6130324014658,0 4.7906275051119,45.61297671423601,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3475">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69096000AN0306</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GRIGNY</SimpleData>
+					<SimpleData name="Adresse">PONT D EN HAUT</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.61295830237779 </north>
+			<south> 45.6129062411937 </south>
+			<east> 4.7907546650826 </east>
+			<west> 4.79068644633478 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.79069775448607,45.61295830237779,0 4.7907546650826,45.6129560453825,0 4.79073503328426,45.6129085301839,0 4.79068644633478,45.6129062411937,0 4.79069775448607,45.61295830237779,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3490">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69096000AN0308</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GRIGNY</SimpleData>
+					<SimpleData name="Adresse">CHARPENAY</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.61313061596501 </north>
+			<south> 45.6130298644556 </south>
+			<east> 4.79070858551028 </east>
+			<west> 4.79059303051122 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.79062246087608,45.6130311073499,0 4.79059303051122,45.6130298644556,0 4.79064687642175,45.61312736491231,0 4.79070858551028,45.61313061596501,0 4.79065433138604,45.6130324014658,0 4.79062246087608,45.6130311073499,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3520">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69096000AN0310</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GRIGNY</SimpleData>
+					<SimpleData name="Adresse">CHARPENAY</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6132665380777 </north>
+			<south> 45.6131268715435 </south>
+			<east> 4.79081578038719 </east>
+			<west> 4.79063826158312 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.79074385877611,45.6132610177327,0 4.79081578038719,45.6132665380777,0 4.79073167866635,45.6131660966251,0 4.79070858551028,45.61313061596501,0 4.79064687642175,45.61312736491231,0 4.79063826158312,45.6131268715435,0 4.79074385877611,45.6132610177327,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3534">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69096000AM0312</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GRIGNY</SimpleData>
+					<SimpleData name="Adresse">44, RUE ANDRE SABATIER</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.61052008213981 </north>
+			<south> 45.6099819853956 </south>
+			<east> 4.78387312960562 </east>
+			<west> 4.78375219605708 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.78387312960562,45.6099819853956,0 4.78375219605708,45.60999660312559,0 4.78384386752155,45.61052008213981,0 4.78378921945948,45.61008626698209,0 4.78387312960562,45.6099819853956,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3535">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69096000AN0312</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GRIGNY</SimpleData>
+					<SimpleData name="Adresse">CHARPENAY</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6133046052228 </north>
+			<south> 45.6132610177327 </south>
+			<east> 4.79084562840932 </east>
+			<west> 4.79074385877611 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.79078389850052,45.6133046052228,0 4.79084562840932,45.6133045232444,0 4.79081578038719,45.6132665380777,0 4.79074385877611,45.6132610177327,0 4.79078389850052,45.6133046052228,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3550">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69096000AN0314</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GRIGNY</SimpleData>
+					<SimpleData name="Adresse">CHARPENAY</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6133211372718 </north>
+			<south> 45.6133045232444 </south>
+			<east> 4.79086032971419 </east>
+			<west> 4.79078389850052 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.79079213335771,45.6133211372718,0 4.79086032971419,45.61331861049959,0 4.79084562840932,45.6133045232444,0 4.79078389850052,45.6133046052228,0 4.79079213335771,45.6133211372718,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3557">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69096000AN0316</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GRIGNY</SimpleData>
+					<SimpleData name="Adresse">CHARPENAY</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6135409733505 </north>
+			<south> 45.61331861049959 </south>
+			<east> 4.79105149497505 </east>
+			<west> 4.79079213335771 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.79079213335771,45.6133211372718,0 4.79079661786326,45.6133566439369,0 4.79099752810325,45.6135409733505,0 4.79105149497505,45.6135349800971,0 4.79086032971419,45.61331861049959,0 4.79079213335771,45.6133211372718,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3574">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69096000AN0318</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GRIGNY</SimpleData>
+					<SimpleData name="Adresse">CHARPENAY</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6137059706712 </north>
+			<south> 45.6135349800971 </south>
+			<east> 4.79119292800599 </east>
+			<west> 4.79099752810325 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.79099752810325,45.6135409733505,0 4.79116239203024,45.6137059706712,0 4.79119292800599,45.6137017014854,0 4.79105149497505,45.6135349800971,0 4.79099752810325,45.6135409733505,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3597">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69096000AN0320</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GRIGNY</SimpleData>
+					<SimpleData name="Adresse">CHARPENAY</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6138927482932 </north>
+			<south> 45.6137017014854 </south>
+			<east> 4.7912773937848 </east>
+			<west> 4.79116239203024 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.79116239203024,45.6137059706712,0 4.79121920919714,45.6137722589992,0 4.79124070562998,45.6138020004441,0 4.79125316446444,45.6138300843697,0 4.7912773937848,45.6138927482932,0 4.79127548633312,45.6138535977637,0 4.79127366511918,45.6138369636208,0 4.79126524689843,45.6138107969213,0 4.79124851125772,45.6137814300306,0 4.79123230038496,45.6137524150662,0 4.79122012970755,45.6137332435833,0 4.7912071831142,45.613721830563,0 4.79119292800599,45.6137017014854,0 4.79116239203024,45.6137059706712,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3609">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69096000AN0322</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GRIGNY</SimpleData>
+					<SimpleData name="Adresse">PONT D EN HAUT</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6129085301839 </north>
+			<south> 45.61281444884939 </south>
+			<east> 4.79073503328426 </east>
+			<west> 4.79067944350227 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.79073503328426,45.6129085301839,0 4.79068707327499,45.61281444884939,0 4.79068120598965,45.6128394018458,0 4.79067944350227,45.6128642895014,0 4.79068240947915,45.6128925245875,0 4.79068644633478,45.6129062411937,0 4.79073503328426,45.6129085301839,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3732">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69096000AM0335</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GRIGNY</SimpleData>
+					<SimpleData name="Adresse">GRIZARD</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.61138443349329 </north>
+			<south> 45.61103357816339 </south>
+			<east> 4.78573487650328 </east>
+			<west> 4.78379828415464 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.78571526217478,45.61138443349329,0 4.78573487650328,45.61126829098279,0 4.78533210744269,45.611179208934,0 4.78510651454129,45.61115603805221,0 4.78491279288803,45.61115812127829,0 4.78470434268048,45.6111810640704,0 4.78456865992433,45.6112040230191,0 4.78437416993469,45.6112141338084,0 4.7842104860279,45.61118853795249,0 4.78404842351817,45.611113647403,0 4.78396358645947,45.6110377120858,0 4.78393370798335,45.61103845613371,0 4.78379828415464,45.61103357816339,0 4.78380351858458,45.6110407008245,0 4.78380887838881,45.61104773142641,0 4.7838144918385,45.61105466793501,0 4.78382023356078,45.6110616024093,0 4.7838259752845,45.6110685368833,0 4.78383197065382,45.61107537726399,0 4.78383809139759,45.6110821255854,0 4.7838443404141,45.6110888718724,0 4.78385071190681,45.6110954360751,0 4.78385721167231,45.6111019982435,0 4.78386396508362,45.61110846631831,0 4.78387097503911,45.61111493032449,0 4.78387785382658,45.6111213063395,0 4.78388511163295,45.611127496202,0 4.78389236944095,45.61113368606391,0 4.78389975262355,45.6111397838664,0 4.78390738945215,45.6111457875752,0 4.78391502338401,45.6111517012586,0 4.78392291096189,45.6111575208483,0 4.78393079854143,45.6111633404374,0 4.78393893397019,45.611168885883,0 4.78394720057045,45.6111745193186,0 4.78395546137548,45.61117997270391,0 4.78396397872505,45.61118542202011,0 4.78397249027933,45.611190691286,0 4.78398113010671,45.6111959585169,0 4.78398988951169,45.6112009536384,0 4.78399890546126,45.61120594469061,0 4.78400779314093,45.6112109377763,0 4.78401705694112,45.6112156546839,0 4.78402619536991,45.61122046365,0 4.78403570991918,45.6112249964377,0 4.78403910295146,45.6112267440425,0 4.78404509619844,45.61122953125899,0 4.78405460785218,45.6112339740203,0 4.78406424198175,45.6112382346967,0 4.78407400148574,45.611242403313,0 4.78408388636413,45.6112464798693,0 4.78409376834528,45.61125046639991,0 4.78410377280206,45.61125427084549,0 4.78411390843057,45.6112581632806,0 4.78412403536428,45.6112617856403,0 4.78413065258502,45.6112640225309,0 4.78413415650181,45.6112652279493,0 4.78414453418389,45.6112686661886,0 4.78415490896848,45.611272014402,0 4.78416540622837,45.6112751805303,0 4.78417602886231,45.6112782545983,0 4.78418664859858,45.6112812386404,0 4.78419726253829,45.6112840426318,0 4.78420813012357,45.6112867525284,0 4.78421886653932,45.6112893744335,0 4.78422972832888,45.6112919042783,0 4.78424058432158,45.61129425407219,0 4.78425169106072,45.6112964197463,0 4.78426266952901,45.61129858745389,0 4.7842737733709,45.61130066310091,0 4.7842847402449,45.61130247070691,0 4.78429583539134,45.6113042762773,0 4.78430705011312,45.6113058097373,0 4.78431826773457,45.6113074332211,0 4.78432947665947,45.6113087866292,0 4.78434081095755,45.6113100479767,0 4.78435213945793,45.6113111292733,0 4.78436347085788,45.6113123005936,0 4.78437479066172,45.6113131118134,0 4.78438611046589,45.61131392303199,0 4.78439755274377,45.6113145521651,0 4.78440886095176,45.611315003282,0 4.78442042570343,45.61131545032829,0 4.78443185638505,45.6113157193585,0 4.78444315299652,45.6113158103726,0 4.7844545749805,45.61131580932599,0 4.78446599696448,45.61131580827811,0 4.78447741025051,45.6113155371546,0 4.7844888206371,45.6113151760051,0 4.78450022522483,45.6113146348047,0 4.78451149864124,45.61131400561311,0 4.78452290032913,45.61131337438561,0 4.78453429331853,45.61131247308231,0 4.78454568340815,45.6113114817531,0 4.78455707059791,45.6113104003979,0 4.78456832661604,45.6113092310516,0 4.78457957393525,45.6113077916296,0 4.78459082125388,45.6113063522065,0 4.78460206277289,45.61130473273259,0 4.78461317312,45.6113030252677,0 4.78462415519472,45.6113013198367,0 4.78463525394219,45.6112992522702,0 4.78464635268883,45.6112971847027,0 4.78465732026334,45.6112950291442,0 4.78466510714143,45.6112937346842,0 4.78467264037541,45.61129253431871,0 4.78468043305207,45.6112914199073,0 4.78468822282877,45.6112902154706,0 4.78469601840446,45.611289191083,0 4.78470381108018,45.61128807667011,0 4.78471160955497,45.6112871423063,0 4.78471940223009,45.6112860278922,0 4.78472720360406,45.6112851835522,0 4.78473499917832,45.6112841591619,0 4.78474292882344,45.6112833127856,0 4.7847507272969,45.61128237841909,0 4.78475840329799,45.6112816261369,0 4.78476633294239,45.611280779759,0 4.78477413721469,45.6112800254405,0 4.78478206685863,45.6112791790615,0 4.78478974285884,45.6112784267771,0 4.7847976812018,45.61127785047151,0 4.78480548547327,45.6112770961509,0 4.78481342381588,45.61127651984421,0 4.78482123388668,45.6112759455721,0 4.78482917222896,45.6112753692643,0 4.78483711347097,45.6112748829808,0 4.78484492644121,45.6112743987319,0 4.78485286768294,45.6112739124472,0 4.78486081182447,45.6112735161869,0 4.78486862479431,45.6112730319364,0 4.78487657183556,45.6112727256997,0 4.78488451597675,45.6112723294377,0 4.78489246301781,45.6112720231999,0 4.78490028468716,45.61127180902171,0 4.78490823172806,45.6112715027828,0 4.78491618456892,45.6112713765931,0 4.78492413450971,45.61127116037791,0 4.78493208735049,45.611271034187,0 4.7849399119196,45.6112709100309,0 4.78494786766038,45.6112708738637,0 4.78495582050107,45.6112707476711,0 4.78496365087029,45.611270803563,0 4.78497147833942,45.6112707694296,0 4.78497943988042,45.6112709133098,0 4.78498739562117,45.6112708771399,0 4.7849952288906,45.61127102305439,0 4.7850031904317,45.611271166933,0 4.78501115197283,45.61127131081101,0 4.78501898814258,45.6112715467487,0 4.78502695258401,45.6112717806505,0 4.78503491992573,45.6112721045765,0 4.78504275609569,45.6112723405125,0 4.78505072633783,45.6112727544622,0 4.7850585654082,45.6112730804221,0 4.78506653565056,45.61127349437059,0 4.78507437762141,45.61127391035421,0 4.78508222249268,45.611274416362,0 4.78509019273541,45.61127483030889,0 4.78509803760695,45.6112753363157,0 4.78510588537897,45.6112759323467,0 4.78511386142278,45.6112765263416,0 4.7851217120955,45.6112772123963,0 4.7851294315964,45.6112778104612,0 4.78513728226949,45.6112784965149,0 4.78514513294277,45.611279182568,0 4.7851531147883,45.6112799566098,0 4.7851609683624,45.6112807326866,0 4.78516869656553,45.6112816008233,0 4.78517655014009,45.611282376899,0 4.78518440951579,45.6112833330239,0 4.78519213771964,45.611284201159,0 4.78519999709587,45.6112851572828,0 4.78520772820073,45.61128611544161,0 4.7852155875775,45.6112870715643,0 4.78522332158341,45.61128811974691,0 4.78523105558961,45.61128916792899,0 4.78523904903998,45.61129030206401,0 4.78524678304678,45.611291350245,0 4.78525452285503,45.6112925784752,0 4.78526225976304,45.6112937166799,0 4.78526987420089,45.6112950369696,0 4.78527761110956,45.6112961751733,0 4.78528522844874,45.6112975854867,0 4.78529283998704,45.6112988157499,0 4.78530071387033,45.6113002219908,0 4.78530832831,45.6113015422779,0 4.7853159456507,45.6113029525892,0 4.7853235629918,45.6113043629,0 4.78533131150567,45.61130586119929,0 4.78533880347657,45.6113073635697,0 4.7853464266203,45.6113089539287,0 4.78535417513543,45.61131045222641,0 4.78550054841683,45.6113404644565,0 4.78571526217478,45.61138443349329,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3743">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69096000AM0337</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GRIGNY</SimpleData>
+					<SimpleData name="Adresse">GRIZARD</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.61103845613371 </north>
+			<south> 45.6099576976209 </south>
+			<east> 4.78393370798335 </east>
+			<west> 4.78355421750209 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.78393370798335,45.61103845613371,0 4.7839299367563,45.611016989013,0 4.78388091181506,45.6107339533085,0 4.78384386752155,45.61052008213981,0 4.78375219605708,45.60999660312559,0 4.78374619525561,45.6099576976209,0 4.78355421750209,45.6099779452224,0 4.78356266763602,45.6100132090674,0 4.78364016385515,45.6103834323107,0 4.78369477987591,45.6106448525057,0 4.7837308637816,45.6108169460876,0 4.7837725691809,45.6110161519111,0 4.78377605267699,45.6110326697036,0 4.78379828415464,45.61103357816339,0 4.78393370798335,45.61103845613371,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.4911">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69096000AL0510</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GRIGNY</SimpleData>
+					<SimpleData name="Adresse">CINI ET PTE PLAINE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.60594414221501 </north>
+			<south> 45.6057884350063 </south>
+			<east> 4.79000760780172 </east>
+			<west> 4.78984421176859 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.79000760780172,45.6058694421653,0 4.78997008676673,45.6057884350063,0 4.78985018242326,45.60589815798131,0 4.78984421176859,45.60590798065099,0 4.78985282262081,45.60594414221501,0 4.79000760780172,45.6058694421653,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.4913">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69096000AL0511</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GRIGNY</SimpleData>
+					<SimpleData name="Adresse">CINI ET PTE PLAINE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6063880474389 </north>
+			<south> 45.60618188199749 </south>
+			<east> 4.79029769469426 </east>
+			<west> 4.79015577875552 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.79029769469426,45.6063880474389,0 4.79015577875552,45.60618188199749,0 4.79024721371247,45.6063746197008,0 4.79029769469426,45.6063880474389,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

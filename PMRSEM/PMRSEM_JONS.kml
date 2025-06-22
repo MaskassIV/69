@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>JONS_PMRSEM</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_6">
+		<name>JONS_PMRSEM</name>
+		<Schema name="JONS_PMRSEM" id="JONS_PMRSEM.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="PMRSEM">
+			<LineStyle>
+				<color>BF00faff</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C00faff</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.506">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">692800000B0433</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">JONS</SimpleData>
+					<SimpleData name="Adresse">BIANNE</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">GOLF CLUB DE LYON</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.80970891337729 </north>
+			<south> 45.8069052591007 </south>
+			<east> 5.09976956947607 </east>
+			<west> 5.09729822625022 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.09729822625022,45.8087465806966,0 5.09734682400738,45.8088492707269,0 5.09736505246317,45.808871362173,0 5.09740653417569,45.8088816713842,0 5.09748876513739,45.80889996127,0 5.0975517139201,45.8089328421617,0 5.09760622675936,45.8089708342222,0 5.09764501267649,45.8089915527375,0 5.09771914830232,45.8090103532129,0 5.09776060498534,45.8090166091245,0 5.0979556987952,45.8090423498274,0 5.09814704026787,45.8090879777279,0 5.0984400391399,45.80915801923071,0 5.09860768426531,45.80919697047189,0 5.09868610427211,45.809230193694,0 5.09890679962833,45.8093397725048,0 5.09897492875166,45.8093631878973,0 5.09928965280809,45.8094489477637,0 5.09934315135877,45.8094703829966,0 5.09944159420259,45.8095186371731,0 5.09965396308474,45.80962936031931,0 5.09976956947607,45.80970891337729,0 5.09847008233741,45.8069052591007,0 5.09838680254018,45.8070084184674,0 5.09833328903494,45.8070746317813,0 5.09826828693006,45.8071435808869,0 5.09825626951394,45.8071629014112,0 5.09822325077,45.8072261213588,0 5.09818123819904,45.80735094360791,0 5.09813178986268,45.8075376995092,0 5.09810707997687,45.8075653632067,0 5.09801140675724,45.8076746078765,0 5.09795423035966,45.8077495368312,0 5.09790211818421,45.8078255426872,0 5.09783840543506,45.8079318511068,0 5.0977801366919,45.8080221140079,0 5.09772400406493,45.8081279211645,0 5.09766116060553,45.8082605169223,0 5.09750982697841,45.80847790154261,0 5.09738944236323,45.8086487696855,0 5.09729822625022,45.8087465806966,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

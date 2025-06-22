@@ -1,0 +1,622 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>GRIGNY_HLM</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_5">
+		<name>GRIGNY_HLM</name>
+		<Schema name="GRIGNY_HLM" id="GRIGNY_HLM.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="HLM">
+			<LineStyle>
+				<color>BFe451f5</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4Ce451f5</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.293">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69096000AO0270</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GRIGNY</SimpleData>
+					<SimpleData name="Adresse">RUE PIERRE SEMARD</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6102059801314 </north>
+			<south> 45.6100686569813 </south>
+			<east> 4.79403596871885 </east>
+			<west> 4.79374972631099 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.79400044397382,45.6102059801314,0 4.79403596871885,45.6101814546567,0 4.79376101697131,45.6100686569813,0 4.79374972631099,45.6100806363351,0 4.79378246378743,45.6100968675116,0 4.79400044397382,45.6102059801314,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.539">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69096000AH0109</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GRIGNY</SimpleData>
+					<SimpleData name="Adresse">LES PLANTEES</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6062911361887 </north>
+			<south> 45.60564908464039 </south>
+			<east> 4.78009981453184 </east>
+			<west> 4.77768363031268 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.77826742827205,45.60564908464039,0 4.77768363031268,45.6059354601215,0 4.77781362931399,45.60595565292219,0 4.77782925847654,45.6059588285758,0 4.77793208215523,45.6059759380107,0 4.77803641323904,45.6059920327472,0 4.778284842481,45.6060317896578,0 4.77828770698572,45.60604507482449,0 4.77818020754375,45.6062381744171,0 4.77856371278741,45.60626831939639,0 4.77871792453158,45.6062792113162,0 4.77878039663723,45.6062865098904,0 4.77888654195166,45.6062911361887,0 4.77890004670244,45.6060722310654,0 4.77933604737212,45.6060907346787,0 4.7798355243666,45.6061118350292,0 4.77986886964921,45.6060752791121,0 4.77992174544416,45.6060155361762,0 4.77996831225139,45.60595913559709,0 4.7800175783649,45.6058908930215,0 4.78006700935308,45.60581580244201,0 4.78009981453184,45.6057584486728,0 4.77975584316875,45.6057565060519,0 4.77961440338925,45.6057556815575,0 4.77923038632705,45.6057534702083,0 4.77900090014777,45.6057521461687,0 4.77844861701585,45.6057489004687,0 4.77848855947306,45.60568197692841,0 4.77826742827205,45.60564908464039,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.557">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69096000AH0110</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GRIGNY</SimpleData>
+					<SimpleData name="Adresse">LES PLANTEES</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.60583127728179 </north>
+			<south> 45.6054416447255 </south>
+			<east> 4.77773919065342 </east>
+			<west> 4.77686685207164 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.77688002664134,45.6058062966029,0 4.77703199368546,45.60583127728179,0 4.77773919065342,45.6055713272001,0 4.7768715421024,45.6054416447255,0 4.77687127352349,45.60548929631249,0 4.77686978258239,45.60553084240929,0 4.77686847428789,45.60559409263429,0 4.77686699115039,45.6056478882092,0 4.77686685207164,45.605691574645,0 4.77687061148014,45.6057407838725,0 4.77688002664134,45.6058062966029,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.677">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69096000AH0116</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GRIGNY</SimpleData>
+					<SimpleData name="Adresse">55, RUE PASTEUR</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6047742789392 </north>
+			<south> 45.6039291241279 </south>
+			<east> 4.78074359633983 </east>
+			<west> 4.78013005989373 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.78013005989373,45.6039915940524,0 4.78032404600884,45.6047614201482,0 4.78035384485595,45.6047742789392,0 4.78068272329279,45.6046900807929,0 4.78071743358037,45.604680073849,0 4.78072074221426,45.6046792108311,0 4.78074359633983,45.6043641420328,0 4.78070097491627,45.60436355582391,0 4.78071415215728,45.6039749624281,0 4.78065108559483,45.6039291241279,0 4.78057643066574,45.6039379620063,0 4.78056530720778,45.6039392189469,0 4.78033513875943,45.6039683524347,0 4.78013005989373,45.6039915940524,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.874">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69096000AI0130</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GRIGNY</SimpleData>
+					<SimpleData name="Adresse">11, RUE PASTEUR LE FLACHAT</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6084488790835 </north>
+			<south> 45.60750850719119 </south>
+			<east> 4.77923328069846 </east>
+			<west> 4.77817845911671 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.77817845911671,45.60817120812389,0 4.77910801214641,45.6084488790835,0 4.77923328069846,45.60822163093999,0 4.77920443195321,45.6082144312472,0 4.7791278593605,45.60800784935001,0 4.77887714494182,45.60793318286369,0 4.77901517315816,45.607703661556,0 4.77897470721706,45.607594415337,0 4.77863611484264,45.60750852825871,0 4.77863175100599,45.60750850719119,0 4.7786309814271,45.6075085193601,0 4.77863008358507,45.6075085335572,0 4.77862931400618,45.6075085457262,0 4.77862842194337,45.6075087399732,0 4.77862765236448,45.6075087521421,0 4.77862688278559,45.607508764311,0 4.77862598783315,45.607508868533,0 4.77862521825426,45.6075088807019,0 4.77862445156497,45.6075089828958,0 4.77862355661254,45.6075090871178,0 4.77862278703364,45.60750909928669,0 4.77862202034434,45.6075092014806,0 4.77862125365505,45.60750930367439,0 4.7786203587026,45.6075094078964,0 4.77861959201329,45.6075095100902,0 4.77861882532399,45.60750961228401,0 4.77861805574508,45.6075096244529,0 4.77861716368222,45.6075098186998,0 4.7786163969929,45.6075099208936,0 4.77861563030359,45.6075100230874,0 4.77861486650386,45.60751021530621,0 4.77861409981453,45.6075103175,0 4.77861321064123,45.60751060177181,0 4.77861244684149,45.60751079399059,0 4.77861168304174,45.6075109862093,0 4.77861091924199,45.6075111784281,0 4.77861015255264,45.6075112806219,0 4.77860938875288,45.6075114728406,0 4.77860862784269,45.6075117550843,0 4.77860786404291,45.607511947303,0 4.77860710024313,45.6075121395217,0 4.77860633644335,45.6075123317404,0 4.77860557553313,45.6075126139841,0 4.77860481173334,45.6075128062028,0 4.77860417908627,45.6075130864183,0 4.77860341528646,45.607513278637,0 4.77860265437621,45.60751356088061,0 4.77860189346596,45.6075138431243,0 4.7786012579293,45.6075140333148,0 4.77860049701904,45.6075143155585,0 4.77859973610876,45.6075145978021,0 4.77859910635122,45.6075149680426,0 4.77859834544093,45.6075152502862,0 4.7785977127938,45.6075155305017,0 4.77859695477306,45.6075159027702,0 4.77859632212592,45.60751618298569,0 4.7785955612156,45.6075164652293,0 4.778594931458,45.6075168354698,0 4.77859417054767,45.6075171177134,0 4.77859354079005,45.6075174879538,0 4.77859290814287,45.6075177681693,0 4.77859227838524,45.6075181384097,0 4.77859164573805,45.6075184186252,0 4.77859088771723,45.60751879089371,0 4.77859038622275,45.607519159106,0 4.77858975646509,45.60751952934639,0 4.77858912670742,45.6075198995868,0 4.77858849694974,45.6075202698273,0 4.77858799545523,45.6075206380396,0 4.77858736569753,45.60752100828,0 4.77858673593983,45.60752137852041,0 4.77858610907166,45.6075218387857,0 4.77858560757712,45.60752220699801,0 4.77858497781939,45.6075225772384,0 4.77858435384074,45.60752312752871,0 4.77858385234618,45.607523495741,0 4.77858322547796,45.6075239560063,0 4.77858272398339,45.6075243242186,0 4.77858222537834,45.6075247824559,0 4.7785815985101,45.60752524272121,0 4.7785810970155,45.6075256109335,0 4.77858059841043,45.6075260691707,0 4.77858009980535,45.60752652740791,0 4.77857960120026,45.6075269856452,0 4.77857910259517,45.6075274438824,0 4.77857860399007,45.6075279021196,0 4.77857810538495,45.60752836035681,0 4.77857760677983,45.60752881859409,0 4.77857512531223,45.60753146988,0 4.77848117043977,45.6076628373351,0 4.77833761555849,45.6079041545136,0 4.77817845911671,45.60817120812389,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.1117">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69096000AH0150</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GRIGNY</SimpleData>
+					<SimpleData name="Adresse">LE GARON</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">AXENTIA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.607142149275 </north>
+			<south> 45.60695066742571 </south>
+			<east> 4.77649040208907 </east>
+			<west> 4.77609305502518 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.77630254962373,45.60695066742571,0 4.77609305502518,45.6071288025632,0 4.77620057380727,45.6071362019193,0 4.77627455264739,45.607142149275,0 4.77649040208907,45.6069621120133,0 4.77647485353075,45.6069614568738,0 4.77643179630682,45.60695934469911,0 4.77630254962373,45.60695066742571,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.1125">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69096000AH0151</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GRIGNY</SimpleData>
+					<SimpleData name="Adresse">LE GARON</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">AXENTIA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6069621120133 </north>
+			<south> 45.6067702457046 </south>
+			<east> 4.77669857464124 </east>
+			<west> 4.77630254962373 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.77651992582232,45.6067702457046,0 4.77630254962373,45.60695066742571,0 4.77643179630682,45.60695934469911,0 4.77647485353075,45.6069614568738,0 4.77649040208907,45.6069621120133,0 4.77669857464124,45.6067828260732,0 4.77664920675504,45.6067800030283,0 4.77651992582232,45.6067702457046,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.1167">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69096000AH0155</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GRIGNY</SimpleData>
+					<SimpleData name="Adresse">LE GARON</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">AXENTIA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6067828260732 </north>
+			<south> 45.60658056402819 </south>
+			<east> 4.77684511208561 </east>
+			<west> 4.77651992582232 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.77674188010389,45.60658056402819,0 4.77651992582232,45.6067702457046,0 4.77664920675504,45.6067800030283,0 4.77669857464124,45.6067828260732,0 4.77684511208561,45.6065903723022,0 4.77676868541413,45.6065841037167,0 4.77674188010389,45.60658056402819,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.1286">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69096000AH0164</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GRIGNY</SimpleData>
+					<SimpleData name="Adresse">LES PLANTEES</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">AXENTIA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.60630143377579 </north>
+			<south> 45.60622358181661 </south>
+			<east> 4.77716155465782 </east>
+			<west> 4.7770386095485 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.7771068704902,45.60630143377579,0 4.77716155465782,45.60625796639551,0 4.77715102690843,45.60622579738259,0 4.77712593243661,45.60622358181661,0 4.7770386095485,45.6062936853078,0 4.7771068704902,45.60630143377579,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.1304">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69096000AH0166</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GRIGNY</SimpleData>
+					<SimpleData name="Adresse">LES PLANTEES</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">AXENTIA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.60625796639551 </north>
+			<south> 45.60622579738259 </south>
+			<east> 4.77719851950579 </east>
+			<west> 4.77715102690843 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.77719851950579,45.6062301810299,0 4.77715102690843,45.60622579738259,0 4.77716155465782,45.60625796639551,0 4.77719851950579,45.6062301810299,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.1642">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69096000AN0191</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GRIGNY</SimpleData>
+					<SimpleData name="Adresse">PONT D EN HAUT</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6114153235254 </north>
+			<south> 45.610847089167 </south>
+			<east> 4.79231269980834 </east>
+			<west> 4.79160492426834 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.79160492426834,45.6112373724066,0 4.79169141077281,45.6112449119531,0 4.79179047085051,45.6113158413042,0 4.7918223859213,45.61134235425271,0 4.79185740300555,45.6113655752236,0 4.79192908424512,45.6114153235254,0 4.79206676128809,45.6113231493318,0 4.79215360628638,45.6112624089672,0 4.79218644866891,45.6112858446256,0 4.79222312061527,45.6112610312543,0 4.79231269980834,45.61120150819549,0 4.79200771513801,45.61098154982851,0 4.79195968225856,45.6109447553829,0 4.7919866521026,45.6109215377783,0 4.79192094758642,45.6108740361645,0 4.79186564950689,45.610850687926,0 4.7917805743885,45.610847089167,0 4.79175120265264,45.6108634995811,0 4.7917432633475,45.61088785514541,0 4.79164057697715,45.6111334030309,0 4.79160492426834,45.6112373724066,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.1655">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69096000AN0192</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GRIGNY</SimpleData>
+					<SimpleData name="Adresse">PONT D EN HAUT</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6117346221313 </north>
+			<south> 45.6112364564111 </south>
+			<east> 4.79278855201557 </east>
+			<west> 4.79215445164032 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.79217351404138,45.61150492332799,0 4.79234120781358,45.6116225864638,0 4.79240944976611,45.6116731098402,0 4.79239564268356,45.6116826972279,0 4.79246636853269,45.6117346221313,0 4.79248089561103,45.6117274551805,0 4.79254711770495,45.6116798332149,0 4.79272910178894,45.61154894217239,0 4.79270559643055,45.6115324734801,0 4.79278855201557,45.6114744967336,0 4.7924483278627,45.6112364564111,0 4.79233824807077,45.6113128792955,0 4.79230216202834,45.6113399351456,0 4.79228333480465,45.6113530252055,0 4.79231711305361,45.6113776168403,0 4.79225670135128,45.61142235389531,0 4.79215445164032,45.6114909057285,0 4.79217351404138,45.61150492332799,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.1665">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69096000AN0193</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GRIGNY</SimpleData>
+					<SimpleData name="Adresse">9019, RUE EMMANUEL ROLLAND</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.611581875876 </north>
+			<south> 45.6112624089672 </south>
+			<east> 4.79231711305361 </east>
+			<west> 4.79192908424512 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.79217351404138,45.61150492332799,0 4.79215445164032,45.6114909057285,0 4.79225670135128,45.61142235389531,0 4.79231711305361,45.6113776168403,0 4.79228333480465,45.6113530252055,0 4.79218644866891,45.6112858446256,0 4.79215360628638,45.6112624089672,0 4.79206676128809,45.6113231493318,0 4.79192908424512,45.6114153235254,0 4.7919358356029,45.6114931274241,0 4.79194172138407,45.6114965464359,0 4.7919621918129,45.6115104515699,0 4.79206409216752,45.611581875876,0 4.79217351404138,45.61150492332799,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2247">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69096000AI0252</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GRIGNY</SimpleData>
+					<SimpleData name="Adresse">11, RUE PASTEUR LE FLACHAT</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6090196510529 </north>
+			<south> 45.6081954860826 </south>
+			<east> 4.77918450492464 </east>
+			<west> 4.77787233854441 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.77816396695235,45.6081954860826,0 4.77815885716582,45.6082042136412,0 4.77811928284334,45.6082706808735,0 4.77787233854441,45.6086854865125,0 4.77787579007696,45.608705067361,0 4.77787940228368,45.6087136570507,0 4.77792980261631,45.6087406022001,0 4.7780098081897,45.6087703219173,0 4.7781140295708,45.60881082755139,0 4.77817790211857,45.6088536822779,0 4.77817829847321,45.6088540362949,0 4.77817869193891,45.608854300287,0 4.77817908829356,45.608854654304,0 4.77817948464823,45.6088550083211,0 4.77818000638022,45.6088552702854,0 4.77818040273489,45.60885562430249,0 4.77818079908956,45.6088559783195,0 4.77818119255529,45.6088562423115,0 4.77818158890997,45.60885659632851,0 4.77818198526466,45.6088569503456,0 4.77818250699668,45.6088572123099,0 4.77818290335138,45.608857566327,0 4.77818329970609,45.608857920344,0 4.77818369317184,45.608858184336,0 4.77818421779284,45.6088585363254,0 4.7781846112586,45.6088588003174,0 4.77818500761333,45.60885915433439,0 4.77818540107909,45.6088594183264,0 4.77818592570012,45.6088597703158,0 4.77818632205486,45.60886012433281,0 4.77818671552064,45.6088603883248,0 4.77818736840797,45.6088607382865,0 4.77818776187376,45.6088610022785,0 4.77818815822852,45.6088613562955,0 4.77818867996062,45.60886161825991,0 4.77818907631539,45.6088619722769,0 4.77818946978119,45.6088622362689,0 4.77818999440227,45.6088625882582,0 4.77819038497911,45.6088627622252,0 4.77819077844493,45.60886302621719,0 4.77819130306602,45.60886337820661,0 4.77819169653185,45.6088636421985,0 4.77819222115295,45.6088639941879,0 4.77819261461879,45.6088642581799,0 4.77819301097361,45.6088646121968,0 4.77819353270575,45.60886487416119,0 4.7781939261716,45.60886513815321,0 4.77819445079273,45.6088654901425,0 4.77819484425859,45.6088657541345,0 4.77819536887973,45.6088661061238,0 4.7781957623456,45.60886637011579,0 4.77819628407777,45.60886663208011,0 4.77819668043263,45.6088669860971,0 4.77819720216481,45.6088672480614,0 4.77819759563069,45.6088675120533,0 4.77819811736289,45.6088677740176,0 4.77819851371776,45.60886812803461,0 4.77819903544997,45.6088683899989,0 4.77819955718218,45.6088686519632,0 4.77819995353707,45.6088690059802,0 4.77820047526929,45.6088692679445,0 4.7782008687352,45.6088695319364,0 4.77820139046743,45.6088697939007,0 4.77820178682234,45.6088701479177,0 4.77820230855458,45.60887040988201,0 4.77820283028683,45.6088706718463,0 4.77820335201907,45.6088709338106,0 4.77820387375133,45.60887119577491,0 4.77820439548359,45.6088714577391,0 4.77820479183853,45.6088718117561,0 4.7782053106818,45.60887198369541,0 4.77820583241407,45.6088722456596,0 4.77820622588003,45.6088725096516,0 4.77820674761231,45.60887277161591,0 4.7782072693446,45.6088730335801,0 4.77820766281057,45.6088732975721,0 4.77820818743187,45.6088736495613,0 4.77820870916417,45.6088739115256,0 4.77820923089648,45.6088741734898,0 4.77820962436247,45.6088744374818,0 4.77821014609478,45.608874699446,0 4.7782106678271,45.6088749614103,0 4.77821118955943,45.6088752233745,0 4.77821158302543,45.6088754873665,0 4.77821210475777,45.6088757493307,0 4.77821262649011,45.608876011295,0 4.77821314822246,45.6088762732592,0 4.77821366995481,45.6088765352234,0 4.77821406342083,45.6088767992154,0 4.77821458515319,45.6088770611796,0 4.77821510688555,45.6088773231438,0 4.77821562861793,45.6088775851081,0 4.7782161503503,45.6088778470723,0 4.77821667208268,45.6088781090365,0 4.77821706265971,45.6088782830034,0 4.7782175843921,45.6088785449676,0 4.77821797785816,45.6088788089595,0 4.77821849959056,45.6088790709238,0 4.77821902132296,45.608879332888,0 4.77829854771218,45.608914103938,0 4.77835580197935,45.6089306724928,0 4.77845040154424,45.6089592604722,0 4.77865844059571,45.6090196510529,0 4.77881461482239,45.6087636325254,0 4.77899292109315,45.6088172870091,0 4.77904032225673,45.60873880633871,0 4.77918450492464,45.608501081127,0 4.77816396695235,45.6081954860826,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2311">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69096000AH0260</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GRIGNY</SimpleData>
+					<SimpleData name="Adresse">LES PLANTEES</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">AXENTIA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6066685553519 </north>
+			<south> 45.6066356622351 </south>
+			<east> 4.77825619511375 </east>
+			<west> 4.77815121971407 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.77815121971407,45.6066625050871,0 4.77821370777138,45.60666629097469,0 4.77825279162676,45.6066685553519,0 4.77825619511375,45.6066426512713,0 4.77815703132194,45.6066356622351,0 4.77815121971407,45.6066625050871,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2406">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69096000AH0272</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GRIGNY</SimpleData>
+					<SimpleData name="Adresse">LES PLANTEES</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">AXENTIA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6061026037005 </north>
+			<south> 45.6060232628521 </south>
+			<east> 4.77770924035396 </east>
+			<west> 4.77760558106647 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.77761094525742,45.6060618070066,0 4.77760558106647,45.6061026037005,0 4.77770924035396,45.60604575215691,0 4.77768465047837,45.6060232628521,0 4.77761094525742,45.6060618070066,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.3441">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69096000AH0042</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GRIGNY</SimpleData>
+					<SimpleData name="Adresse">RUE DARCY</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6044469758564 </north>
+			<south> 45.6033779777931 </south>
+			<east> 4.77991502939353 </east>
+			<west> 4.77625611388983 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.77642799455609,45.6044469758564,0 4.77675488366362,45.6044166828858,0 4.77802710666013,45.60431020109219,0 4.77867099457214,45.6042574172565,0 4.77867310688091,45.60427125472989,0 4.77913789808407,45.6042157158786,0 4.77905745413383,45.6039043531229,0 4.77940810284395,45.6038548517911,0 4.77956177453734,45.6038331454171,0 4.7795239824467,45.6036832352988,0 4.77991502939353,45.60363309319071,0 4.77990771434776,45.6036170863037,0 4.77989527120275,45.6035932343501,0 4.77987688687418,45.60357217853231,0 4.77986220932652,45.6035546668799,0 4.77984358090609,45.6035419914905,0 4.77980085936299,45.60351429526901,0 4.77975726899836,45.60348751348641,0 4.77957224158351,45.6035157509902,0 4.77948617716521,45.60352891192039,0 4.77941223901677,45.6035400795278,0 4.77894921602369,45.6036105433608,0 4.77881743571475,45.6036306416996,0 4.77878031906408,45.6035017071419,0 4.77875869127022,45.6034275607757,0 4.77875132390561,45.6034019170902,0 4.77874439621073,45.6033779777931,0 4.77858762313421,45.60340297464969,0 4.77849647184773,45.6034175663207,0 4.7784156628399,45.6034305532586,0 4.77831046710507,45.6034473483967,0 4.77814565119769,45.6034736427123,0 4.77813582187053,45.60347523923641,0 4.77803726628315,45.6034910284348,0 4.77789568835734,45.60351371248261,0 4.77787219649657,45.6035174164297,0 4.77776521354047,45.6035345095151,0 4.77759912323794,45.6035610933767,0 4.77729081308524,45.6036103704139,0 4.77727972593591,45.6036167604792,0 4.77719621534108,45.6036735635262,0 4.77649219152143,45.6041679140668,0 4.77625611388983,45.6043330489783,0 4.776291632113,45.6043322178484,0 4.77628879507893,45.6043437916851,0 4.77629053934233,45.60435817542981,0 4.77629682162209,45.6043740187072,0 4.77631502017211,45.60438931351189,0 4.77633113457539,45.6043956341715,0 4.77635566354061,45.6044042538425,0 4.77638917076356,45.6044207479923,0 4.77642799455609,45.6044469758564,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.3489">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69096000AC0043</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GRIGNY</SimpleData>
+					<SimpleData name="Adresse">6, RUE PASTEUR</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6091652070368 </north>
+			<south> 45.6086561350075 </south>
+			<east> 4.77631686264517 </east>
+			<west> 4.77544799735508 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.77552756762214,45.60902876207169,0 4.77599043575828,45.609136114883,0 4.77611597856006,45.6091652070368,0 4.77627373207184,45.6088860191419,0 4.77631686264517,45.6088463374798,0 4.77544799735508,45.6086561350075,0 4.77545959704905,45.6086977446712,0 4.77547565934783,45.60876648521359,0 4.7754822120874,45.6088107865844,0 4.77549557469016,45.6088633570318,0 4.77550738255157,45.6089274810543,0 4.77551941061613,45.60897845129439,0 4.77552756762214,45.60902876207169,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

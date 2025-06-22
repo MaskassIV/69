@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>AZOLETTE_DEPT</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_3">
+		<name>AZOLETTE_DEPT</name>
+		<Schema name="AZOLETTE_DEPT" id="AZOLETTE_DEPT.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="DEPT">
+			<LineStyle>
+				<color>BF63f16c</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C63f16c</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6249">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690160000U0809</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">AZOLETTE</SimpleData>
+					<SimpleData name="Adresse">LES COTES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1960597965286 </north>
+			<south> 46.1955055746594 </south>
+			<east> 4.40962488128282 </east>
+			<west> 4.40944078714814 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.40944078714814,46.1960532592138,0 4.40949464826508,46.1960597965286,0 4.40960890751016,46.19585799044281,0 4.40962414185801,46.1957998011715,0 4.40962265401777,46.195630952009,0 4.40962488128282,46.1956217379968,0 4.40959032935177,46.1956095575929,0 4.40956534900638,46.1955055746594,0 4.40954073081606,46.1956225110943,0 4.40957074703359,46.1956751859092,0 4.40957487248905,46.1957145822359,0 4.40949636081235,46.1958388514445,0 4.40949687872419,46.1959346717592,0 4.40944078714814,46.1960532592138,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6266">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690160000U0811</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">AZOLETTE</SimpleData>
+					<SimpleData name="Adresse">LES COTES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1958610165042 </north>
+			<south> 46.19562739098621 </south>
+			<east> 4.40975709463393 </east>
+			<west> 4.40969045604606 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.40975709463393,46.1958610165042,0 4.40974914683896,46.19574358319291,0 4.40974544026316,46.1957204830308,0 4.40973563551207,46.1956771043049,0 4.40973316522481,46.1956667777208,0 4.40972631228022,46.195652452655,0 4.40971559758594,46.1956392562236,0 4.40969194788581,46.19562739098621,0 4.40969160984105,46.19563442007031,0 4.4096960549969,46.19564084947191,0 4.40970118263534,46.1957898397072,0 4.40969045604606,46.19585688930919,0 4.40975709463393,46.1958610165042,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6268">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690160000U0813</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">AZOLETTE</SimpleData>
+					<SimpleData name="Adresse">FOURVIERE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1958421174291 </north>
+			<south> 46.19534294625069 </south>
+			<east> 4.40980224814864 </east>
+			<west> 4.40969035055574 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.4097520233116,46.195361141181,0 4.40973767847172,46.19534294625069,0 4.40971838140029,46.1953439960836,0 4.40971645281622,46.1953547374611,0 4.40971178763279,46.19538010293191,0 4.40970813420262,46.1953994216549,0 4.40970036423558,46.1954553568861,0 4.40969649535016,46.19551169406111,0 4.40969690725154,46.1955680682214,0 4.40969035055574,46.1955854415605,0 4.40969186232886,46.1955988421626,0 4.40971329406018,46.19561019452421,0 4.40973205637212,46.1956236514231,0 4.40974749637962,46.1956390408307,0 4.40975960019164,46.1956558225441,0 4.40976082492612,46.1956580589263,0 4.40976865484207,46.1956952478091,0 4.40977184975466,46.19572366801581,0 4.40978021678156,46.1957767012779,0 4.40978469890906,46.1958299628361,0 4.40978501143762,46.1958421174291,0 4.40980224814864,46.1958416335114,0 4.40976352255546,46.195480511839,0 4.40974290347867,46.1954755438647,0 4.4097494024307,46.1953953975156,0 4.4097520233116,46.195361141181,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

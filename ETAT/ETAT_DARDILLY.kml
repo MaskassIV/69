@@ -1,0 +1,3196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>DARDILLY_ETAT</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_1">
+		<name>DARDILLY_ETAT</name>
+		<Schema name="DARDILLY_ETAT" id="DARDILLY_ETAT.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="ETAT">
+			<LineStyle>
+				<color>BF119ff7</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C119ff7</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.8">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69072000AA0101</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">LONGE NORD</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8316718837992 </north>
+			<south> 45.8304454934381 </south>
+			<east> 4.74601121969152 </east>
+			<west> 4.74450830186466 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.74535463758296,45.8315169588687,0 4.74569248076177,45.8316718837992,0 4.74601121969152,45.8308522631093,0 4.74524603768337,45.83057225982821,0 4.74502105935986,45.8304454934381,0 4.74450830186466,45.8311236341772,0 4.74535463758296,45.8315169588687,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.88">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69072000BW0284</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">EN CARRET</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8233757221741 </north>
+			<south> 45.823061194936 </south>
+			<east> 4.73200982509628 </east>
+			<west> 4.73032340061189 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.73032340061189,45.8232643982968,0 4.73079969016951,45.8233757221741,0 4.73192135144437,45.8233578038969,0 4.73192394371949,45.82335830456291,0 4.73200982509628,45.823061194936,0 4.73163501370938,45.82306775387989,0 4.73142980372528,45.82317493228181,0 4.73140362528394,45.823186412376,0 4.73137691200086,45.8231972701692,0 4.731349658229,45.8232073256061,0 4.73132186396926,45.8232165786862,0 4.7312935320463,45.8232251194368,0 4.73126453369489,45.8232329498315,0 4.73123537833297,45.8232398819184,0 4.73120568248717,45.823246011647,0 4.73117596404657,45.8232514211482,0 4.73114557353477,45.8232559402371,0 4.73111528637329,45.8232596470967,0 4.73108458467556,45.82326245959549,0 4.73105385756475,45.8232644618388,0 4.73102310504223,45.8232656538265,0 4.73099219551996,45.82326594750511,0 4.73096126058878,45.8232654309281,0 4.73093043183933,45.823264192149,0 4.73089970080358,45.8232619610856,0 4.73086920189536,45.8232589158192,0 4.73083929883057,45.8232543302091,0 4.73080573950683,45.8232481793591,0 4.73076520033014,45.82323718159,0 4.730707966325,45.82321554112409,0 4.73057620322589,45.8231671209201,0 4.73036255378381,45.823087349785,0 4.73032340061189,45.8232643982968,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.95">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69072000BW0306</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">EN CARRET</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8239202388486 </north>
+			<south> 45.8234476594684 </south>
+			<east> 4.73347268533885 </east>
+			<west> 4.7329007982852 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.73301560608054,45.8234476594684,0 4.73300886561308,45.8234668579224,0 4.7329007982852,45.82377115423139,0 4.73335741315612,45.8239202388486,0 4.73337318221729,45.8238767628082,0 4.73345976086845,45.8236389979236,0 4.73347268533885,45.8236034016943,0 4.73301560608054,45.8234476594684,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.526">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69072000AB0112</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">LES PRASSES</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8285067629223 </north>
+			<south> 45.8270889199464 </south>
+			<east> 4.74016121994543 </east>
+			<west> 4.73834076652042 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.73915593436604,45.82846361257861,0 4.73935065468994,45.8284731335833,0 4.73970872977901,45.8284862627366,0 4.7400280655561,45.8285007082159,0 4.74016121994543,45.8285067629223,0 4.73979498966222,45.8281123102425,0 4.73958827622759,45.8277017986544,0 4.73922268851098,45.8273151705501,0 4.73905258000243,45.8270889199464,0 4.73834076652042,45.82717112535751,0 4.7383435891742,45.827187114535,0 4.73837254210575,45.8272800724186,0 4.73853283928767,45.8277920900233,0 4.73872891974178,45.8284337991285,0 4.73915593436604,45.82846361257861,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.571">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69072000AC0115</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">1, CHE DES GEAIS</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8327196312439 </north>
+			<south> 45.83197620660269 </south>
+			<east> 4.75041920324437 </east>
+			<west> 4.74932224934631 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.74942836627072,45.8320070571749,0 4.74932224934631,45.8322892727559,0 4.7496556294357,45.8324776716404,0 4.7500839981836,45.8327196312439,0 4.75035995772028,45.83249089717509,0 4.75041039760991,45.8323952704062,0 4.75041920324437,45.8323235272809,0 4.75000909164722,45.8322671931355,0 4.74944297908142,45.83197620660269,0 4.74942836627072,45.8320070571749,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.581">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69072000AB0116</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">LES PRASSES</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.82717112535751 </north>
+			<south> 45.8260313426372 </south>
+			<east> 4.73905258000243 </east>
+			<west> 4.73799128598955 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.73834076652042,45.82717112535751,0 4.73905258000243,45.8270889199464,0 4.73893602022188,45.8269429084101,0 4.73869618463709,45.8266666607547,0 4.73858634596034,45.82654990853379,0 4.73850530323321,45.8264761271029,0 4.73843052171642,45.82641296767321,0 4.73834612279303,45.8263389675877,0 4.73799128598955,45.8260313426372,0 4.7381089170489,45.82642016981509,0 4.73834076652042,45.82717112535751,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.612">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69072000AK0118</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">LES CHARRIERES</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">FRANCE DOMAINE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8244116737648 </north>
+			<south> 45.8229184061361 </south>
+			<east> 4.76325143240302 </east>
+			<west> 4.76231567703055 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.76284860075564,45.82311422054799,0 4.76266922777682,45.8233791288501,0 4.7626446246618,45.82341554151149,0 4.76262789165022,45.8234402120915,0 4.76258531975821,45.8235432879434,0 4.76252552776501,45.8236880654641,0 4.76247279512339,45.8238158893903,0 4.76244409886178,45.8238855122146,0 4.76240117160242,45.82398958432119,0 4.76236590175642,45.8240752523799,0 4.76231567703055,45.82419691221791,0 4.76285035806934,45.8244116737648,0 4.76286022306331,45.8244018821059,0 4.76325143240302,45.82401306015931,0 4.76323045031441,45.8235538426977,0 4.76319732566754,45.82333557611239,0 4.76298122408957,45.8229184061361,0 4.76284860075564,45.82311422054799,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.846">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69072000AA0132</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">LONGE NORD</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8366944284671 </north>
+			<south> 45.836614684762 </south>
+			<east> 4.7448494036059 </east>
+			<west> 4.74480063731906 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.74482941602251,45.8366875908612,0 4.74484540817986,45.8366798679103,0 4.7448494036059,45.836614684762,0 4.74480063731906,45.8366373253844,0 4.74480076759894,45.8366944284671,0 4.74482941602251,45.8366875908612,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.853">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69072000AA0133</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">LONGE NORD</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8366798679103 </north>
+			<south> 45.8361007259769 </south>
+			<east> 4.74582932505383 </east>
+			<west> 4.74484540817986 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.74582932505383,45.83638886610831,0 4.74577704188885,45.8361007259769,0 4.74492438455465,45.83657344476701,0 4.7448494036059,45.836614684762,0 4.74484540817986,45.8366798679103,0 4.74491077505191,45.8366565204573,0 4.74491335098971,45.83665648066241,0 4.74492009397405,45.83665781763,0 4.74496016410494,45.83667395181961,0 4.74550647587216,45.8365703953357,0 4.74573642363173,45.83645830575611,0 4.74575055833493,45.8364489000312,0 4.74582932505383,45.83638886610831,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.854">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69072000AB0133</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">LE CREU MARGELAY</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.83164320707041 </north>
+			<south> 45.8314504544025 </south>
+			<east> 4.74282534820064 </east>
+			<west> 4.74228248235458 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.74267540362919,45.8314769979029,0 4.74228248235458,45.8314504544025,0 4.74231255186181,45.8315948247708,0 4.74245031436429,45.8316078313507,0 4.74282534820064,45.83164320707041,0 4.74267540362919,45.8314769979029,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.880">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69072000AB0136</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">LE CREU MARGELAY</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8314769979029 </north>
+			<south> 45.8307857550974 </south>
+			<east> 4.74267540362919 </east>
+			<west> 4.74214656815392 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.74214656815392,45.8307857550974,0 4.74217931805031,45.8309579160931,0 4.74223013489658,45.8312085204713,0 4.74228248235458,45.8314504544025,0 4.74267540362919,45.8314769979029,0 4.74260406651361,45.8313927112722,0 4.74214656815392,45.8307857550974,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.957">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69072000AA0145</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">LONGE NORD</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.83786463158459 </north>
+			<south> 45.8369121688384 </south>
+			<east> 4.74771165356997 </east>
+			<west> 4.74629909476026 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.74629909476026,45.837091725026,0 4.74638157286066,45.83770680683049,0 4.74640357739182,45.83786463158459,0 4.74694798562662,45.83753375802691,0 4.74697911154037,45.8375156226621,0 4.74701434813896,45.83749301021999,0 4.74704301828178,45.83747464260689,0 4.74708889774256,45.8374422279065,0 4.7471276066472,45.837415328373,0 4.74745872228337,45.83718151538839,0 4.74749023239343,45.83715517745439,0 4.74752197960541,45.8371322585482,0 4.74754921316434,45.8371092293254,0 4.74757955545687,45.83708263922001,0 4.74771165356997,45.8369610708089,0 4.74683784818717,45.8369121688384,0 4.74629909476026,45.837091725026,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.1063">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69072000AK0155</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">LES CHARRIERES</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">MINISTERE ECOLOGIE DEVELOPPEMENT TRANSPORTS LOGEMENT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.823301591241 </north>
+			<south> 45.82232738923249 </south>
+			<east> 4.76494561639934 </east>
+			<west> 4.76447925126787 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.76491072801832,45.82232738923249,0 4.76459677961239,45.82281913270331,0 4.76447925126787,45.823301591241,0 4.76452004074761,45.8232516847077,0 4.76457917647771,45.8231792437864,0 4.76462232308458,45.8231265081601,0 4.76463766925295,45.8230504280631,0 4.76467015402228,45.8228898631922,0 4.76468806156516,45.8228012231076,0 4.76469732379156,45.8227846853296,0 4.76477066033508,45.8226527552599,0 4.76486594365325,45.8225061607409,0 4.76494561639934,45.8223387333775,0 4.76491072801832,45.82232738923249,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.1072">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69072000AK0156</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">ROUTE NATIONALE 6</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">MINISTERE ECOLOGIE DEVELOPPEMENT TRANSPORTS LOGEMENT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8253482538814 </north>
+			<south> 45.8247510044107 </south>
+			<east> 4.75946988666952 </east>
+			<west> 4.7588185570307 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.75919230079411,45.8247510044107,0 4.75904244284649,45.82482296411,0 4.75898736858658,45.8248775946552,0 4.75898279348829,45.8248836106358,0 4.75897834142004,45.8248894445569,0 4.75897388935084,45.8248952784778,0 4.7589695689186,45.82490120041949,0 4.7589653772544,45.82490712035539,0 4.75896105395139,45.82491295227,0 4.7589569939233,45.8249189602265,0 4.75895305979442,45.8249248761504,0 4.75894913140251,45.8249309721277,0 4.75894520014083,45.824936978078,0 4.75894140051624,45.82494307204921,0 4.75893773252877,45.82494925404141,0 4.7589340616716,45.8249553460066,0 4.75893051958271,45.8249614359661,0 4.75892710626215,45.8249675239196,0 4.75892369867857,45.82497379192669,0 4.7589204169945,45.8249799679011,0 4.75891713817855,45.82498623390219,0 4.75891398526217,45.8249924078708,0 4.75891096398312,45.8249986698603,0 4.75890576829958,45.8250094692906,0 4.75890069277675,45.82501999663469,0 4.75889562298963,45.82503070403221,0 4.75889081360792,45.8250414974448,0 4.75888625889416,45.82505219681909,0 4.75888170704742,45.82506298622,0 4.75887728683706,45.8250738636418,0 4.75887299252556,45.82508464903099,0 4.75886882985058,45.8250955224412,0 4.75886492758161,45.82510648186659,0 4.75886102244231,45.82511735126519,0 4.75885737484046,45.8251282166524,0 4.75885373010593,45.8251391720662,0 4.75885034577779,45.8251502134955,0 4.75884708734912,45.8251611628922,0 4.75884396055748,45.82517220031,0 4.75884096253422,45.82518323572201,0 4.75883822491778,45.82519435714951,0 4.7588354844315,45.82520538855021,0 4.75883287558256,45.825216507972,0 4.75882107057442,45.82527460777919,0 4.75881906318206,45.8252924731917,0 4.75881875145886,45.8252948199044,0 4.7588185570307,45.8252968045046,0 4.75881862014229,45.82529878509351,0 4.75881868325389,45.8253007656825,0 4.7588187463655,45.8253027462714,0 4.75881893824701,45.8253047248547,0 4.75881913012853,45.82530670343811,0 4.75881970831981,45.8253086760046,0 4.75882015774121,45.8253106505768,0 4.75882060429393,45.8253125351221,0 4.75882131125524,45.8253145056831,0 4.75882201534789,45.8253163862172,0 4.75882297984917,45.825318352767,0 4.75882381271186,45.8253202312955,0 4.75882477434455,45.82532210781849,0 4.75882586187853,45.825323892309,0 4.75882708105126,45.8253257648207,0 4.75882829448662,45.8253274572789,0 4.7588297683307,45.8253292357526,0 4.75883111053618,45.8253309262051,0 4.75883231249684,45.8253322585561,0 4.75883364322753,45.8253335889015,0 4.75883509985952,45.82533482721449,0 4.75883668526155,45.8253360635219,0 4.75883827066365,45.82533729982919,0 4.75883998196705,45.8253384441041,0 4.75884195081049,45.8253395843678,0 4.75884378514653,45.8253405465835,0 4.75884561948263,45.8253415087992,0 4.75884758258878,45.8253424690092,0 4.75884954282623,45.82534333919239,0 4.75885162896498,45.8253441173432,0 4.75885371510379,45.82534489549391,0 4.75885579837388,45.8253455836179,0 4.75885800467647,45.8253460896826,0 4.75886021384788,45.825346685774,0 4.75886254892056,45.825347189833,0 4.75886475235449,45.8253476058708,0 4.75886708168966,45.8253479298761,0 4.75886941102487,45.8253482538814,0 4.75889117028626,45.8253478248968,0 4.75891053709695,45.8253450913146,0 4.75892215188661,45.82534166783141,0 4.75946988666952,45.8251011109103,0 4.75919230079411,45.8247510044107,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.1094">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69072000AB0159</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">LE CREU MARGELAY</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.83286237718809 </north>
+			<south> 45.83260193928211 </south>
+			<east> 4.74354273290402 </east>
+			<west> 4.74324315014632 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.74348376947521,45.83260193928211,0 4.74324315014632,45.8326124088387,0 4.74324944405242,45.8326240209319,0 4.74338182957696,45.83286237718809,0 4.74354273290402,45.83269416254021,0 4.74349660569546,45.8326574951275,0 4.74348376947521,45.83260193928211,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.1107">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69072000AK0160</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">ROUTE NATIONALE 6</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">MINISTERE ECOLOGIE DEVELOPPEMENT TRANSPORTS LOGEMENT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8249175442741 </north>
+			<south> 45.8248572987429 </south>
+			<east> 4.76020895852639 </east>
+			<west> 4.75997280139734 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.76020895852639,45.8248572987429,0 4.75997280139734,45.8249096181917,0 4.75997859394336,45.8249175442741,0 4.76020895852639,45.8248572987429,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.1113">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69072000AB0161</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">LE CREU MARGELAY</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8330605628919 </north>
+			<south> 45.83269416254021 </south>
+			<east> 4.74383894837265 </east>
+			<west> 4.74338182957696 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.74354273290402,45.83269416254021,0 4.74338182957696,45.83286237718809,0 4.74338319424391,45.832864788042,0 4.74378250423063,45.8330605628919,0 4.74383894837265,45.8328487448964,0 4.74368839813289,45.83280630399789,0 4.74354273290402,45.83269416254021,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.1120">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69072000AK0163</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">ROUTE NATIONALE 6</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">MINISTERE ECOLOGIE DEVELOPPEMENT TRANSPORTS LOGEMENT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8251011109103 </north>
+			<south> 45.8246836835215 </south>
+			<east> 4.7596324682839 </east>
+			<west> 4.75919230079411 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.75919230079411,45.8247510044107,0 4.75946988666952,45.8251011109103,0 4.7596324682839,45.82504030138771,0 4.75935080915289,45.8246836835215,0 4.75934533237046,45.82468566035,0 4.7593343788044,45.8246896140062,0 4.75932342810629,45.8246936576882,0 4.75931274068247,45.8246978774102,0 4.75930205325702,45.82470209713121,0 4.75929149746787,45.8247064048718,0 4.75928081577801,45.8247108046444,0 4.7592703973623,45.82471538045719,0 4.75925984730694,45.8247198682484,0 4.75924943175716,45.824724534086,0 4.75923927661208,45.8247292859373,0 4.75922911859589,45.8247339477609,0 4.75919230079411,45.8247510044107,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.1131">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69072000AA0164</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">21, RUE DU PAILLET</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.83533164295019 </north>
+			<south> 45.8349522670266 </south>
+			<east> 4.74961233787267 </east>
+			<west> 4.74891785724248 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.74961233787267,45.8352537074754,0 4.74898826688952,45.8349522670266,0 4.74891785724248,45.8350400058378,0 4.74952357806558,45.83533164295019,0 4.74954449865666,45.835312764214,0 4.74961233787267,45.8352537074754,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.1202">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69072000AA0173</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">LONGE NORD</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8359519004487 </north>
+			<south> 45.83534896744791 </south>
+			<east> 4.75141137681862 </east>
+			<west> 4.75042921240828 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.75141137681862,45.8356172745761,0 4.75077133362893,45.83534896744791,0 4.75070892963642,45.8353802887711,0 4.75070721220466,45.8353830175301,0 4.75070536026701,45.83538556823149,0 4.75070363997892,45.8353882069635,0 4.75070191683466,45.8353907556685,0 4.75070006489651,45.83539330636971,0 4.75069821581418,45.835395947098,0 4.75069623508194,45.83539849979561,0 4.75069451193702,45.8354010485004,0 4.75069253120442,45.83540360119791,0 4.75069055047164,45.8354061538954,0 4.75068856973868,45.8354087065928,0 4.75068658614957,45.8354111692632,0 4.75068447662246,45.8354137239569,0 4.75068249303299,45.8354161866272,0 4.75068038064954,45.8354186512938,0 4.75067814232806,45.8354212079837,0 4.75067615873803,45.8354236706539,0 4.7506739175602,45.83542613731669,0 4.75067180232004,45.8354285119562,0 4.75066956399777,45.8354310686459,0 4.75066867100883,45.835431352701,0 4.75066752043225,45.8354316407488,0 4.75066636699971,45.8354318387696,0 4.75066521356716,45.83543203679029,0 4.75066406299054,45.835432324838,0 4.75066290955797,45.8354325228588,0 4.7506616301875,45.8354328129028,0 4.75066047675491,45.8354330109235,0 4.75065932332232,45.8354332089441,0 4.75065817274564,45.8354334969918,0 4.75065701931303,45.8354336950125,0 4.75065573708658,45.8354338950294,0 4.75065458650987,45.835434183077,0 4.75065343307723,45.8354343810977,0 4.7506522825005,45.8354346691453,0 4.75065112906784,45.8354348671659,0 4.75064985255317,45.83543524723681,0 4.7506487019764,45.83543553528429,0 4.75064754854371,45.83543573330491,0 4.75064639796692,45.8354360213525,0 4.75057490197487,45.8354528919771,0 4.75056035626527,45.8354614940509,0 4.75054951416151,45.8354690479368,0 4.75045110148504,45.8355473139072,0 4.75042921240828,45.8355844022203,0 4.75098658432828,45.8359519004487,0 4.7509903881927,45.8359499499815,0 4.75102668368002,45.8359323638243,0 4.75102820351078,45.83593152962081,0 4.75102959740307,45.83593078744089,0 4.75103086250036,45.8359300472577,0 4.75103212759761,45.8359293070745,0 4.75103351863323,45.83592847486761,0 4.75103478373041,45.8359277346844,0 4.75103604882756,45.83592699450121,0 4.7510373110681,45.8359261642909,0 4.7510385733086,45.83592533408069,0 4.75103983840564,45.8359245938974,0 4.75104097185111,45.8359237656839,0 4.75104210243997,45.8359228474433,0 4.7510432330288,45.8359219292027,0 4.75104436647416,45.8359211009891,0 4.75104562871444,45.83592027077879,0 4.75104675930315,45.83591935253821,0 4.75104788989183,45.8359184342976,0 4.75104902333705,45.8359176060839,0 4.75105002513071,45.83591668984,0 4.75105115571927,45.83591577159941,0 4.75105378328492,45.8359132989388,0 4.751056662727,45.8359106422307,0 4.75105966810711,45.83590789349879,0 4.75106254754862,45.8359052367905,0 4.75106529533833,45.83590249205191,0 4.75106817477929,45.83589983534349,0 4.75107105136334,45.8358970886081,0 4.7510737962956,45.8358942538423,0 4.75107641528932,45.8358915111002,0 4.75107916022102,45.83588867633429,0 4.75108177635757,45.83588584356511,0 4.75108439535049,45.83588310082289,0 4.75108687983501,45.8358801800234,0 4.7510894931141,45.835877257227,0 4.75109198045474,45.8358744264543,0 4.75109446493846,45.83587150565459,0 4.75109682062709,45.8358685868517,0 4.75109917631547,45.8358656680487,0 4.75110152914693,45.83586265921869,0 4.75110375889668,45.83585983243929,0 4.75110513850277,45.8358586401236,0 4.75110638931399,45.83585744980461,0 4.75110777177664,45.8358563475157,0 4.75110915138255,45.83585515519989,0 4.75111053098841,45.8358539628841,0 4.75111191345089,45.8358528605952,0 4.7511134247081,45.83585175630949,0 4.75111480431378,45.8358505639936,0 4.75111605512461,45.8358493736745,0 4.75111756638165,45.8358482693887,0 4.75111894884385,45.83584716709979,0 4.75112046010076,45.835846062814,0 4.75112197135762,45.8358449585282,0 4.75112348261442,45.8358438542423,0 4.7511248679331,45.8358428419803,0 4.75112637918978,45.8358417376944,0 4.75112789330311,45.8358407234355,0 4.75112927576491,45.83583962114639,0 4.75113078702142,45.8358385168605,0 4.75113243278605,45.8358375906317,0 4.75117699720509,45.83581258044821,0 4.75120139177433,45.8357976106735,0 4.75120482066391,45.8357960262979,0 4.75120811504495,45.83579426386509,0 4.75121140942578,45.8357925014323,0 4.75121470094955,45.8357906489723,0 4.75121786082161,45.8357887084822,0 4.75122089475567,45.8357868600159,0 4.75122405748415,45.83578500955261,0 4.75122708856093,45.8357830710591,0 4.75123011678062,45.8357810425386,0 4.75123314500009,45.83577901401799,0 4.75123604442473,45.8357769874943,0 4.75123894384915,45.8357749609705,0 4.75124184041646,45.83577284441971,0 4.75124460818896,45.8357707298657,0 4.75124737596125,45.8357686153116,0 4.75125001493874,45.8357665027545,0 4.75125277985369,45.8357642981733,0 4.75125541597385,45.8357620955891,0 4.7512580520938,45.83575989300469,0 4.75126068249969,45.8357575103664,0 4.75141137681862,45.8356172745761,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.1212">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69072000AA0174</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">LONGE NORD</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8356172745761 </north>
+			<south> 45.8345594330512 </south>
+			<east> 4.75203927097865 </east>
+			<west> 4.75077133362893 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.75141137681862,45.8356172745761,0 4.75143178455271,45.8355984935059,0 4.75159599117735,45.8354333683883,0 4.75161291256986,45.83541842434479,0 4.75162425275434,45.8354062689938,0 4.75168019553251,45.8353378479183,0 4.75169166733677,45.83532578059,0 4.7517165452912,45.8353098124177,0 4.75173879838572,45.8353004601549,0 4.75176152663848,45.8352898395198,0 4.75178319595755,45.835278334591,0 4.75180420129608,45.8352662094572,0 4.75182414770027,45.8352532000308,0 4.75184329847226,45.8352394823709,0 4.75186139888318,45.8352251505003,0 4.75187832013999,45.83521020641709,0 4.75189419389424,45.8351947381512,0 4.75190888849521,45.8351786576738,0 4.75192240680142,45.8351620550123,0 4.75193462002043,45.8351449321647,0 4.75194566266221,45.8351274671879,0 4.75195540593464,45.8351096620799,0 4.7519637210458,45.8350915188387,0 4.7519707367899,45.835073035467,0 4.75197645888421,45.8350543920189,0 4.7519807556791,45.8350355004654,0 4.75198375882683,45.835016448836,0 4.75198534525209,45.83499741918231,0 4.75200142737309,45.8347977518488,0 4.75200378332467,45.834786726604,0 4.75200778499356,45.8347747751177,0 4.75201260246323,45.8347601088373,0 4.75203927097865,45.8346950239518,0 4.75196208257259,45.8346746041871,0 4.75151297406287,45.8345594330512,0 4.75149324169756,45.834587300869,0 4.75147775109002,45.8346107794826,0 4.75146022287416,45.83463095705369,0 4.75106430302502,45.8350915056028,0 4.75104516875248,45.8351138697156,0 4.75102608041877,45.8351336210456,0 4.75100835477449,45.8351475866843,0 4.75094718689362,45.83518942732061,0 4.75093659080058,45.8352006703539,0 4.75092268606619,45.8352132256757,0 4.75080190448337,45.8353337218772,0 4.75078257634019,45.8353418576864,0 4.75077133362893,45.83534896744791,0 4.75141137681862,45.8356172745761,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.1249">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69072000AB0177</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">LE CREU MARGELAY</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8326124088387 </north>
+			<south> 45.8316078313507 </south>
+			<east> 4.74348376947521 </east>
+			<west> 4.74245031436429 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.74282534820064,45.83164320707041,0 4.74245031436429,45.8316078313507,0 4.74302234142521,45.8322057232253,0 4.74324315014632,45.8326124088387,0 4.74348376947521,45.83260193928211,0 4.74339941597126,45.8323626615723,0 4.74330527416066,45.832172443498,0 4.74282534820064,45.83164320707041,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.1256">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69072000AB0178</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">LE CREU MARGELAY</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8326497687394 </north>
+			<south> 45.8315948247708 </south>
+			<east> 4.74324315014632 </east>
+			<west> 4.74231255186181 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.74242852095644,45.8322928877457,0 4.74245348273031,45.8325692909938,0 4.74245061191271,45.8326497687394,0 4.74308398215587,45.83261936904429,0 4.74324315014632,45.8326124088387,0 4.74302234142521,45.8322057232253,0 4.74245031436429,45.8316078313507,0 4.74231255186181,45.8315948247708,0 4.74241106802633,45.8320869843607,0 4.74242852095644,45.8322928877457,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.1263">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69072000AA0179</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">LONGE NORD</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8329377092177 </north>
+			<south> 45.832472426407 </south>
+			<east> 4.74500534575093 </east>
+			<west> 4.74428409284337 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.74462699373442,45.8324816943436,0 4.74454475214058,45.832472426407,0 4.74428409284337,45.83253779082911,0 4.7444048333002,45.8326725638843,0 4.74461815502733,45.83282572238479,0 4.74484370563764,45.8329377092177,0 4.74500534575093,45.8325361968315,0 4.74490917361634,45.8325183174236,0 4.74483322612137,45.8325043588256,0 4.74481277812454,45.8325015222389,0 4.74469666615624,45.8324887244693,0 4.74462699373442,45.8324816943436,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.1265">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69072000AB0179</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">LE CREU MARGELAY</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.83122288569 </north>
+			<south> 45.83048829978999 </south>
+			<east> 4.74223013489658 </east>
+			<west> 4.7417043825024 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.74212802614569,45.83122288569,0 4.74223013489658,45.8312085204713,0 4.74217931805031,45.8309579160931,0 4.74183387687963,45.83048829978999,0 4.74180636570209,45.8304902553033,0 4.74176335628102,45.8305359541425,0 4.7417043825024,45.8305983821664,0 4.74212802614569,45.83122288569,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.1282">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69072000AB0180</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">LE CREU MARGELAY</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8313543092511 </north>
+			<south> 45.8305983821664 </south>
+			<east> 4.74212802614569 </east>
+			<west> 4.74116111051268 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.74116111051268,45.8312254570231,0 4.74119287777638,45.8313543092511,0 4.74212802614569,45.83122288569,0 4.7417043825024,45.8305983821664,0 4.74150151713979,45.8308128172005,0 4.74127745567827,45.8310497361242,0 4.74119832784741,45.8311349923578,0 4.74116111051268,45.8312254570231,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.1285">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69072000BX0180</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">MONTCOURAND</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8158158587141 </north>
+			<south> 45.8144106510657 </south>
+			<east> 4.73214868301577 </east>
+			<west> 4.73068984589742 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.73101428430228,45.8158158587141,0 4.7310212384547,45.81581169891479,0 4.731029468802,45.8158071592661,0 4.73103744165046,45.81580262356461,0 4.73104554042342,45.8157979958613,0 4.73105351044629,45.8157933701313,0 4.73106148046783,45.8157887444007,0 4.73106957923673,45.81578411669561,0 4.73107728893523,45.8157794048844,0 4.73108525612976,45.8157746891247,0 4.7310929630026,45.815769887285,0 4.73110093019442,45.8157651715242,0 4.73110863706457,45.8157603696834,0 4.73111647268201,45.8157555658681,0 4.73112404797778,45.81575067597289,0 4.73113188641557,45.8157459621839,0 4.73113946170867,45.8157410722876,0 4.73114716292591,45.81573609038931,0 4.73115486696487,45.81573119851799,0 4.73116231068223,45.81572622056681,0 4.73116988314679,45.815721240641,0 4.7311773240383,45.81571617266141,0 4.73118489650013,45.8157111927346,0 4.73119220581724,45.81570603670071,0 4.73119977827634,45.81570105677289,0 4.73120708759071,45.815695900738,0 4.73121439690372,45.8156907447026,0 4.73122170621537,45.8156855886668,0 4.73122901552565,45.8156804326305,0 4.73123619326289,45.8156751885404,0 4.73124350257044,45.81567003250311,0 4.73125054873327,45.81566470035879,0 4.73125772646643,45.8156594562674,0 4.73126477544982,45.81565421414971,0 4.73127118069,45.8156489819025,0 4.73127758875226,45.8156438396823,0 4.73128411991506,45.8156385154328,0 4.73129065389992,45.8156332812103,0 4.73129705631189,45.81562795893411,0 4.73130345872262,45.81562263665769,0 4.73130985830876,45.8156172243534,0 4.73131600039707,45.8156118159973,0 4.73132226840908,45.8156063156391,0 4.73132841049496,45.81560090728231,0 4.73133454975625,45.8155954088977,0 4.73134055744467,45.8155898224596,0 4.73134669670352,45.8155843240744,0 4.73135244406967,45.81557865155679,0 4.73135832300626,45.8155730670921,0 4.73136420194167,45.8155674826271,0 4.73136994648082,45.81556172008121,0 4.73137569666568,45.8155561375898,0 4.73138118370617,45.81555037899201,0 4.73138679949364,45.81554461841951,0 4.73139228653182,45.81553885982111,0 4.73139776792188,45.8155329211676,0 4.73140312620967,45.815527164543,0 4.73140847884932,45.81552122786331,0 4.73141370273976,45.81551529315771,0 4.73141892945261,45.8155094484793,0 4.73142415051728,45.8155034237458,0 4.73142911408478,45.8154974029608,0 4.73143420922275,45.8154914702287,0 4.73143916996452,45.8154853594158,0 4.73144400478078,45.81547934060449,0 4.73144883677241,45.81547323176559,0 4.73145353719145,45.8154670348734,0 4.73145824325661,45.815461018036,0 4.73146281774923,45.81545491314531,0 4.73146738659364,45.81544862819949,0 4.73147195826062,45.81544243328099,0 4.7314764011787,45.81543624033679,0 4.73148084127216,45.8154299573649,0 4.73148502386892,45.8154236783418,0 4.73214868301577,45.8144106510657,0 4.73204534349658,45.8144259271875,0 4.73186974531244,45.8146055198119,0 4.73138699797619,45.81504166043669,0 4.73080560167894,45.8155402890554,0 4.73068984589742,45.8156279909448,0 4.73069957366262,45.8156342368522,0 4.73079934108279,45.81570215202889,0 4.73091351229362,45.81576110944539,0 4.73098557236129,45.8157916195273,0 4.73101428430228,45.8158158587141,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.1291">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69072000AB0181</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">LES PRASSES</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8272800724186 </north>
+			<south> 45.8259535545404 </south>
+			<east> 4.73837254210575 </east>
+			<west> 4.73720610449355 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.73720610449355,45.82624221061851,0 4.73762076067066,45.8263424750261,0 4.7381526230544,45.8269325411454,0 4.7381877324097,45.8270982716977,0 4.73837254210575,45.8272800724186,0 4.7383435891742,45.827187114535,0 4.73834076652042,45.82717112535751,0 4.7381089170489,45.82642016981509,0 4.73799128598955,45.8260313426372,0 4.73798306477185,45.82601165356071,0 4.73780769519503,45.8259535545404,0 4.73760718724322,45.8260259044638,0 4.73746334617716,45.8261753835912,0 4.73731037710893,45.8261822405596,0 4.73720610449355,45.82624221061851,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.1299">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69072000AA0182</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">LONGE NORD</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8330914482946 </north>
+			<south> 45.8325361968315 </south>
+			<east> 4.74533013234431 </east>
+			<west> 4.74484370563764 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.74507186591238,45.8330914482946,0 4.74507245292133,45.8330896378022,0 4.74518545739495,45.8327311199655,0 4.74533013234431,45.83260404573851,0 4.74511372005964,45.8325610032346,0 4.74500534575093,45.8325361968315,0 4.74484370563764,45.8329377092177,0 4.74494686163272,45.8329889872491,0 4.74507186591238,45.8330914482946,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.1307">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69072000AB0183</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">LES PRASSES</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8289564977065 </north>
+			<south> 45.8287054783156 </south>
+			<east> 4.73898158429985 </east>
+			<west> 4.73882534071457 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.73883312748298,45.8289564977065,0 4.73898158429985,45.828953401181,0 4.73890278146393,45.8287054783156,0 4.73882534071457,45.8287134260189,0 4.73883312748298,45.8289564977065,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.1315">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69072000AB0184</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">LE CREU MARGELAY</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8314504544025 </north>
+			<south> 45.8312085204713 </south>
+			<east> 4.74228248235458 </east>
+			<west> 4.74212802614569 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.74212802614569,45.83122288569,0 4.74228248235458,45.8314504544025,0 4.74223013489658,45.8312085204713,0 4.74212802614569,45.83122288569,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.1435">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69072000AA0200</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">LONGE NORD</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.83638886610831 </north>
+			<south> 45.8359790338332 </south>
+			<east> 4.74631929350323 </east>
+			<west> 4.74577704188885 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.74631929350323,45.8359790338332,0 4.74596956219196,45.8360072286096,0 4.74577704188885,45.8361007259769,0 4.74582932505383,45.83638886610831,0 4.74610791539361,45.8362054981581,0 4.74612718612908,45.8361670100704,0 4.74631929350323,45.8359790338332,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.1565">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69072000AA0213</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">ROUTE NATIONALE 6</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.83404930144641 </north>
+			<south> 45.8339608075415 </south>
+			<east> 4.74717850365292 </east>
+			<west> 4.74704915025666 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.74704915025666,45.8340213087016,0 4.74717850365292,45.83404930144641,0 4.74712892619566,45.83399737673361,0 4.74709400884115,45.8339608075415,0 4.74704915025666,45.8340213087016,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.1582">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69072000BW0214</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">LA BROCHETIERE</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8230245342112 </north>
+			<south> 45.8227202338604 </south>
+			<east> 4.73188751952598 </east>
+			<west> 4.73152247972096 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.73152247972096,45.8230245342112,0 4.73153047898804,45.8230208087209,0 4.73176432095628,45.8229105789746,0 4.73178705359918,45.8229001424179,0 4.73180993194597,45.8228902440465,0 4.73183347670728,45.8228810560157,0 4.73185755064465,45.82287231021791,0 4.73188190187734,45.82286419065729,0 4.73188751952598,45.8228625732956,0 4.7315545452053,45.8227202338604,0 4.73152247972096,45.8230245342112,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.1634">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69072000BW0221</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">LA FORET</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.82209997035659 </north>
+			<south> 45.819885724624 </south>
+			<east> 4.72821291974604 </east>
+			<west> 4.72520675205037 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.72631892498191,45.8198994022003,0 4.72632251615632,45.81996068538511,0 4.7263125304319,45.8201851138861,0 4.72630447809733,45.82028188276501,0 4.72623510627843,45.8205557672214,0 4.72616232161293,45.8211118950356,0 4.72602294889403,45.82130596600499,0 4.725984685676,45.82133059972969,0 4.72594835521943,45.8213470074731,0 4.72580077880888,45.8214229408344,0 4.72568622844361,45.8214756714852,0 4.7255315012101,45.8215289259051,0 4.72542493302976,45.821560908139,0 4.72520675205037,45.8216242288084,0 4.72539550409187,45.82170745232689,0 4.72574170635989,45.8218574435601,0 4.72629190020699,45.82209997035659,0 4.72644860541706,45.8219904805954,0 4.72646753415532,45.82197785151231,0 4.72648659164819,45.8219652204574,0 4.72650565194819,45.8219526794268,0 4.7265247150554,45.8219402284206,0 4.72654378096992,45.8219278674388,0 4.72656310440222,45.8219155025161,0 4.72658242782586,45.8219031375901,0 4.72660188281994,45.8218908607195,0 4.7266213406214,45.8218786738731,0 4.72664079841426,45.82186648702339,0 4.72666038777764,45.8218543882289,0 4.72667997994855,45.8218423794587,0 4.72669983245301,45.8218304567746,0 4.7267196821327,45.8218184440595,0 4.72673953743619,45.8218066113961,0 4.72675952149404,45.8217947767601,0 4.72677950554332,45.8217829421206,0 4.72679962397947,45.8217712855636,0 4.726819610828,45.8217595409446,0 4.72683973206353,45.82174797440799,0 4.72689049282604,45.8217192762276,0 4.72701170762269,45.8216531119629,0 4.72716545230808,45.8215767223722,0 4.72730893304342,45.8215058037419,0 4.72782502753084,45.82125147455529,0 4.72821291974604,45.82104179866061,0 4.72709074346178,45.8200371167479,0 4.72663616736557,45.819885724624,0 4.72631892498191,45.8198994022003,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.1694">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69072000AA0231</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">LONGE NORD</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8342321718781 </north>
+			<south> 45.83404930144641 </south>
+			<east> 4.74776294295616 </east>
+			<west> 4.74717850365292 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.7477589830879,45.8342321718781,0 4.74776294295616,45.8341944608407,0 4.74721146108636,45.8340605909316,0 4.74717850365292,45.83404930144641,0 4.74721268542761,45.8340870529188,0 4.74751336472547,45.8341622942193,0 4.74761263659927,45.8342087661443,0 4.74761864651612,45.8342113752867,0 4.74762812238937,45.8342135705138,0 4.74771029532514,45.83422463874049,0 4.7477589830879,45.8342321718781,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.1801">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69072000BW0252</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">LA BROCHETIERE</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8174816257711 </north>
+			<south> 45.8170019209262 </south>
+			<east> 4.72938151279146 </east>
+			<west> 4.72890977585237 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.72938151279146,45.8172067113473,0 4.72937867460521,45.8172065746771,0 4.72913057891277,45.81707085488549,0 4.7290619520438,45.8170019209262,0 4.72896287545221,45.8170547784006,0 4.72890977585237,45.8174816257711,0 4.72938151279146,45.8172067113473,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.1815">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69072000AA0258</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">LONGE NORD</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8387658067494 </north>
+			<south> 45.8368325735023 </south>
+			<east> 4.74836766904366 </east>
+			<west> 4.74605180351382 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.74786659764637,45.8368325735023,0 4.74777088811934,45.8369434910608,0 4.74775081892385,45.8369648782699,0 4.74773062425865,45.83698230428381,0 4.74755815085029,45.8371391748223,0 4.74753678547513,45.83715625862809,0 4.74751506841143,45.8371703755213,0 4.74696561692901,45.8375533910633,0 4.74640258334381,45.8378902271669,0 4.74638975062544,45.8379000631952,0 4.74638358759041,45.83790484218531,0 4.74636653747663,45.8379239306769,0 4.74632126177103,45.83797137762261,0 4.74629627670149,45.8379962632672,0 4.74626112660269,45.8380297727502,0 4.74621982478908,45.8380684213119,0 4.7461786466265,45.8381028346013,0 4.7461622068046,45.8381167795689,0 4.74605180351382,45.8382033333147,0 4.7462171733377,45.83844072644099,0 4.74648428781689,45.8387658067494,0 4.74651068711936,45.8387408091283,0 4.74653309180673,45.8387280328764,0 4.74674388810341,45.838605068647,0 4.74682019540108,45.8385649778253,0 4.74695778904218,45.8385028624371,0 4.74698548862479,45.8384904545559,0 4.74701449100108,45.83847442367001,0 4.74701877618217,45.8384713850426,0 4.74702318446352,45.8384681643688,0 4.74702746679349,45.838465035714,0 4.74703174912297,45.838461907059,0 4.7470358969506,45.83845860034181,0 4.74704004477773,45.8384552936245,0 4.74704419260437,45.838451986907,0 4.74704808282852,45.8384486841738,0 4.74705209615279,45.838445199394,0 4.74705598352578,45.83844180663331,0 4.74705973924711,45.8384383258376,0 4.74706349496797,45.8384348450418,0 4.74706711618695,45.83843118618379,0 4.74707074025568,45.8384276173529,0 4.74707423552301,45.838424050514,0 4.74707772793964,45.83842039364789,0 4.74708108870465,45.8384166487469,0 4.74708445231945,45.83841299387281,0 4.74708755548175,45.8384092529559,0 4.74709078744452,45.8384055100468,0 4.74711953644044,45.8383570574232,0 4.74713126907952,45.83833282693679,0 4.74714283407358,45.8382992316381,0 4.74715427256884,45.8382697815697,0 4.74716309691924,45.8382473074178,0 4.7471746654447,45.83823010501781,0 4.74718959755837,45.8382092477395,0 4.74726665205338,45.8380951065236,0 4.74728162685408,45.8380755996396,0 4.74730773650862,45.83804961551959,0 4.74740570016542,45.8379487514957,0 4.74742135257052,45.8379343681674,0 4.74743149457205,45.8379250240024,0 4.74744096354994,45.8379188427405,0 4.74745948944269,45.83790567594839,0 4.74748076288297,45.8378938177136,0 4.74774692385366,45.8377654914057,0 4.74793786063742,45.8376748074276,0 4.74795341159165,45.8376694327134,0 4.74799288685246,45.8376463940816,0 4.74801710581735,45.83762989652669,0 4.74808993658783,45.8375858954825,0 4.74836112798106,45.83715683209831,0 4.74836766904366,45.8371477237264,0 4.74786659764637,45.8368325735023,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.1821">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69072000BW0259</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">LA FORET</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8217507969661 </north>
+			<south> 45.82080477288841 </south>
+			<east> 4.72543717722048 </east>
+			<west> 4.72348083455884 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.72396789496094,45.82080477288841,0 4.72348083455884,45.8213664121527,0 4.72436227100891,45.8217507969661,0 4.72543717722048,45.8214457008897,0 4.72396789496094,45.82080477288841,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.1830">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69072000BW0260</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">LA FORET</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8214457008897 </north>
+			<south> 45.8202327248372 </south>
+			<east> 4.72590664987042 </east>
+			<west> 4.72396789496094 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.72446402426817,45.8202327248372,0 4.72396789496094,45.82080477288841,0 4.72543717722048,45.8214457008897,0 4.72546629296515,45.8214375099138,0 4.72570581145331,45.821261454518,0 4.72573963631395,45.82121022782221,0 4.72575904408941,45.8211840809446,0 4.72588464425133,45.8209985973853,0 4.72589629526197,45.8209715782636,0 4.72590222428635,45.82089339642329,0 4.72590664987042,45.82086189413739,0 4.72446402426817,45.8202327248372,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.1847">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69072000AA0265</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">LONGE NORD</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8370091902884 </north>
+			<south> 45.8358195177419 </south>
+			<east> 4.74667314875145 </east>
+			<west> 4.74468243782459 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.74616244306595,45.83654008018559,0 4.74630292238532,45.83638604833131,0 4.74646953632464,45.83620278941069,0 4.74647518741262,45.8361940551978,0 4.74653370304721,45.8361171303071,0 4.74664068325798,45.835934793227,0 4.74667314875145,45.8358897960097,0 4.74648240525233,45.8358195177419,0 4.74631929350323,45.8359790338332,0 4.74612718612908,45.8361670100704,0 4.74610791539361,45.8362054981581,0 4.74582932505383,45.83638886610831,0 4.74575055833493,45.8364489000312,0 4.74573642363173,45.83645830575611,0 4.74550647587216,45.8365703953357,0 4.74496016410494,45.83667395181961,0 4.74492009397405,45.83665781763,0 4.74491335098971,45.83665648066241,0 4.74491077505191,45.8366565204573,0 4.74484540817986,45.8366798679103,0 4.74482941602251,45.8366875908612,0 4.74471118532657,45.836791467807,0 4.74470676281278,45.8367942382548,0 4.74470640701602,45.8367992877337,0 4.74468243782459,45.83688891846469,0 4.74472734682465,45.8370091902884,0 4.74475668850825,45.8369998200033,0 4.74494239676477,45.8369352524486,0 4.74520889877311,45.8368461978919,0 4.74526097703708,45.8369242054525,0 4.74542316446599,45.8368697282131,0 4.74565095971462,45.83680360837801,0 4.74566513659472,45.8367996062824,0 4.74616244306595,45.83654008018559,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.1879">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69072000AA0270</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">1, CHE DES BROSSES</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.83260404573851 </north>
+			<south> 45.8324667071409 </south>
+			<east> 4.74538912276718 </east>
+			<west> 4.74511372005964 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.74538912276718,45.83255035242989,0 4.74521227216872,45.8324667071409,0 4.74511372005964,45.8325610032346,0 4.74533013234431,45.83260404573851,0 4.74538912276718,45.83255035242989,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.1889">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69072000AA0271</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">1, CHE DES BROSSES</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.83255035242989 </north>
+			<south> 45.8318234777864 </south>
+			<east> 4.74607460703621 </east>
+			<west> 4.74521227216872 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.74607460703621,45.83192727302449,0 4.74588449276645,45.8318234777864,0 4.74521227216872,45.8324667071409,0 4.74538912276718,45.83255035242989,0 4.74607460703621,45.83192727302449,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.1895">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69072000AA0272</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">LONGE NORD</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8325610032346 </north>
+			<south> 45.8323839300085 </south>
+			<east> 4.74521227216872 </east>
+			<west> 4.74490917361634 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.74500534575093,45.8325361968315,0 4.74511372005964,45.8325610032346,0 4.74521227216872,45.8324667071409,0 4.74503751116287,45.8323839300085,0 4.74490917361634,45.8325183174236,0 4.74500534575093,45.8325361968315,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.1897">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69072000BW0272</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">LA FORET</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8225006566538 </north>
+			<south> 45.8222293455248 </south>
+			<east> 4.72311705053676 </east>
+			<west> 4.72249594738553 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.72311705053676,45.8222293455248,0 4.72272596938139,45.8222386452168,0 4.72249594738553,45.8225006566538,0 4.72286836286639,45.822495875893,0 4.72310493751951,45.8222457430621,0 4.72311705053676,45.8222293455248,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.1903">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69072000AA0273</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">LONGE NORD</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8324667071409 </north>
+			<south> 45.8317081235696 </south>
+			<east> 4.74588449276645 </east>
+			<west> 4.74503751116287 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.74567206232843,45.8317188562536,0 4.74565401491957,45.8317389508573,0 4.74503751116287,45.8323839300085,0 4.74521227216872,45.8324667071409,0 4.74588449276645,45.8318234777864,0 4.74567880950398,45.8317081235696,0 4.74567206232843,45.8317188562536,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.1912">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69072000AA0274</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">LONGE NORD</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8325183174236 </north>
+			<south> 45.8323679363887 </south>
+			<east> 4.74503751116287 </east>
+			<west> 4.74469666615624 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.74479012925114,45.8323679363887,0 4.74469666615624,45.8324887244693,0 4.74481277812454,45.8325015222389,0 4.74483322612137,45.8325043588256,0 4.74490917361634,45.8325183174236,0 4.74503751116287,45.8323839300085,0 4.74479012925114,45.8323679363887,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.1917">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69072000BW0274</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">EN CARRET</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8240234090562 </north>
+			<south> 45.8236034016943 </south>
+			<east> 4.7338692880774 </east>
+			<west> 4.73337318221729 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.73347268533885,45.8236034016943,0 4.73345976086845,45.8236389979236,0 4.73337318221729,45.8238767628082,0 4.73376556540552,45.8240234090562,0 4.7338692880774,45.82374088562819,0 4.73347268533885,45.8236034016943,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.1925">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69072000AA0275</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">LONGE NORD</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8323839300085 </north>
+			<south> 45.8316065020861 </south>
+			<east> 4.74567206232843 </east>
+			<west> 4.74479012925114 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.74479012925114,45.8323679363887,0 4.74503751116287,45.8323839300085,0 4.74565401491957,45.8317389508573,0 4.74567206232843,45.8317188562536,0 4.7454354224171,45.8316065020861,0 4.74537291191701,45.8316140433445,0 4.74479012925114,45.8323679363887,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.1932">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69072000AA0276</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">LONGE NORD</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8339700869016 </north>
+			<south> 45.8335068955432 </south>
+			<east> 4.74574829802572 </east>
+			<west> 4.744905597858 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.74574829802572,45.8339700869016,0 4.74569493985361,45.8339452413623,0 4.74554204585541,45.8338206942117,0 4.74526461885976,45.8336778953642,0 4.74503900303639,45.83353951947699,0 4.74494107442072,45.8335068955432,0 4.744905597858,45.83361967226271,0 4.74546734922047,45.833952271635,0 4.74555992269978,45.8339581366951,0 4.74566866051864,45.83396582347859,0 4.74571077439874,45.8339692257541,0 4.74574829802572,45.8339700869016,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.1936">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69072000BW0276</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">EN CARRET</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8241268851723 </north>
+			<south> 45.82374088562819 </south>
+			<east> 4.7341426773745 </east>
+			<west> 4.73376556540552 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.73376556540552,45.8240234090562,0 4.7340363958762,45.8241268851723,0 4.7341426773745,45.82383153212379,0 4.7338692880774,45.82374088562819,0 4.73376556540552,45.8240234090562,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.1943">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69072000AA0277</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">LONGE NORD</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.833952271635 </north>
+			<south> 45.83361967226271 </south>
+			<east> 4.74546734922047 </east>
+			<west> 4.74483487910754 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.744905597858,45.83361967226271,0 4.74483487910754,45.833844501473,0 4.74484660401645,45.8338485536793,0 4.74495495166913,45.8338765131756,0 4.7452262595032,45.83393582133241,0 4.74524074952381,45.8339376690643,0 4.74524811905447,45.8339384558988,0 4.74546734922047,45.833952271635,0 4.744905597858,45.83361967226271,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.1948">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69072000AA0278</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">LONGE NORD</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8334596731911 </north>
+			<south> 45.8328487448964 </south>
+			<east> 4.74468923553629 </east>
+			<west> 4.74378250423063 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.74383894837265,45.8328487448964,0 4.74383860467856,45.8328501012695,0 4.74378250423063,45.8330605628919,0 4.74405386049484,45.8330930318462,0 4.74463368588522,45.8334596731911,0 4.74468923553629,45.83332154671421,0 4.74453304243453,45.83323109610581,0 4.74433993731459,45.83304087617449,0 4.74412114667893,45.83288591010849,0 4.74383894837265,45.8328487448964,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.1950">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69072000BW0278</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">EN CARRET</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8246159440712 </north>
+			<south> 45.8241196564775 </south>
+			<east> 4.73537011630183 </east>
+			<west> 4.73474223632218 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.7348471546766,45.8241196564775,0 4.73474223632218,45.8244049914373,0 4.73527527108477,45.8246159440712,0 4.73537011630183,45.82434220237721,0 4.7348471546766,45.8241196564775,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.1955">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69072000AA0279</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">LONGE NORD</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.83372350879371 </north>
+			<south> 45.8330605628919 </south>
+			<east> 4.74463368588522 </east>
+			<west> 4.7437102474034 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.7437102474034,45.8333306307698,0 4.7439681513747,45.8334959823664,0 4.7440078959183,45.8335100502447,0 4.74411676105799,45.833550342278,0 4.74418044123294,45.8335756596404,0 4.74420973190571,45.83358511512009,0 4.74426780516555,45.833612410517,0 4.74433774706966,45.8336401530787,0 4.74437622667693,45.8336549609355,0 4.7444080697226,45.8336677095752,0 4.7444546026431,45.83368455472851,0 4.74447247737457,45.8336915744035,0 4.74448595902163,45.8336982115747,0 4.74452760505288,45.83372350879371,0 4.74463368588522,45.8334596731911,0 4.74405386049484,45.8330930318462,0 4.74378250423063,45.8330605628919,0 4.7437102474034,45.8333306307698,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.1978">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69072000AA0280</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">LONGE NORD</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.83361967226271 </north>
+			<south> 45.83332154671421 </south>
+			<east> 4.74496016847862 </east>
+			<west> 4.74463368588522 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.74496016847862,45.8334465231024,0 4.74478124436664,45.8333747985254,0 4.74468923553629,45.83332154671421,0 4.74463368588522,45.8334596731911,0 4.744905597858,45.83361967226271,0 4.74494107442072,45.8335068955432,0 4.74496016847862,45.8334465231024,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.1981">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69072000BW0280</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">LA BROCHETIERE</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.81946563300411 </north>
+			<south> 45.8185368002722 </south>
+			<east> 4.72691637038515 </east>
+			<west> 4.7266480756536 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.72666147575151,45.8185368002722,0 4.72665580265382,45.8185695826603,0 4.72665116784354,45.8186314419806,0 4.72664965151517,45.8186653317212,0 4.7266483366669,45.8187138998917,0 4.7266480756536,45.8187549760857,0 4.72664991134092,45.81879719113531,0 4.72665604414037,45.818857354598,0 4.72666498279439,45.8189536835431,0 4.7266699445913,45.81903818398061,0 4.72667616866849,45.8192412881244,0 4.72667792776641,45.8192481065916,0 4.72667993874667,45.8192547410656,0 4.72668208130038,45.8192614635983,0 4.72668460730955,45.8192680901965,0 4.72668751677431,45.8192746208601,0 4.72669042623976,45.81928115152369,0 4.72669384791799,45.8192875842838,0 4.72669726959701,45.8192940170438,0 4.72670120067299,45.8193002618726,0 4.72670526050693,45.8193065047323,0 4.72670957785595,45.8193127436539,0 4.72671427584515,45.8193187966133,0 4.72671896820326,45.8193246695173,0 4.72672417840693,45.8193306245726,0 4.72672951173672,45.8193363976036,0 4.7267349681926,45.8193419886102,0 4.72674081092108,45.81934757370951,0 4.7267467767757,45.8193529767843,0 4.72675299732976,45.8193582858932,0 4.72675934382609,45.81936350300509,0 4.72687190588835,45.81946563300411,0 4.72691301097191,45.8192354143174,0 4.72691637038515,45.81900514241381,0 4.72685904106925,45.8187908404805,0 4.72680895989001,45.81868469256779,0 4.72666147575151,45.8185368002722,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.1985">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69072000AA0281</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">LONGE NORD</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.833844501473 </north>
+			<south> 45.8334596731911 </south>
+			<east> 4.744905597858 </east>
+			<west> 4.74452760505288 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.74463368588522,45.8334596731911,0 4.74452760505288,45.83372350879371,0 4.74457294546891,45.8337515411372,0 4.74460521979999,45.8337697773991,0 4.74461749042196,45.8337788651818,0 4.74463005634633,45.8337850661259,0 4.74483253526451,45.83384372704241,0 4.74483487910754,45.833844501473,0 4.744905597858,45.83361967226271,0 4.74463368588522,45.8334596731911,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.1993">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69072000BW0282</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">EN CARRET</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8232643982968 </north>
+			<south> 45.8227190183836 </south>
+			<east> 4.73036255378381 </east>
+			<west> 4.72998155381096 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.72998155381096,45.8229170091093,0 4.73032340061189,45.8232643982968,0 4.73036255378381,45.823087349785,0 4.73035147323026,45.8230831961835,0 4.73029705375337,45.82303214932979,0 4.73024631778105,45.8229794247377,0 4.73018809345608,45.8229138446779,0 4.73002958464321,45.8227190183836,0 4.72998155381096,45.8229170091093,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.2001">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69072000AA0284</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">LONGE NORD</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8352537074754 </north>
+			<south> 45.8348963610168 </south>
+			<east> 4.74962813771151 </east>
+			<west> 4.74898826688952 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.74962813771151,45.8352399520367,0 4.74904460907898,45.8348963610168,0 4.74899384286867,45.8349452451963,0 4.74898826688952,45.8349522670266,0 4.74961233787267,45.8352537074754,0 4.74962813771151,45.8352399520367,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.2006">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69072000AA0285</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">LONGE NORD</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8352399520367 </north>
+			<south> 45.8348743713125 </south>
+			<east> 4.74970888851459 </east>
+			<west> 4.74904460907898 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.74970888851459,45.8351695263903,0 4.74906285395181,45.8348743713125,0 4.74904460907898,45.8348963610168,0 4.74962813771151,45.8352399520367,0 4.74970888851459,45.8351695263903,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.2013">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69072000AA0287</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">67, ROUTE NATIONALE 6</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.835130397165 </north>
+			<south> 45.83501010588301 </south>
+			<east> 4.7471623833846 </east>
+			<west> 4.7469804171287 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.7471623833846,45.8350379018965,0 4.74704360010332,45.83501010588301,0 4.7469804171287,45.8350535067065,0 4.74706390180853,45.835130397165,0 4.7471623833846,45.8350379018965,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.2026">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69072000AA0289</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">65, ROUTE NATIONALE 6</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8347505288972 </north>
+			<south> 45.8343582640328 </south>
+			<east> 4.74752844534367 </east>
+			<west> 4.74671920421905 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.74746228072634,45.8347505288972,0 4.74752844534367,45.8346833028656,0 4.74725817264092,45.8344737453927,0 4.74719541122012,45.834538576768,0 4.74707530618941,45.8344934175138,0 4.74686445438271,45.8344105708259,0 4.74672891885103,45.8343582640328,0 4.74671920421905,45.8343648093264,0 4.74685813108418,45.8344184147467,0 4.74706911455315,45.8345013494812,0 4.74721986477474,45.8345580141413,0 4.74725423142245,45.8345853144896,0 4.74746228072634,45.8347505288972,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.2070">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69072000BW0294</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">LE ROUX</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.82297231705979 </north>
+			<south> 45.8228199392685 </south>
+			<east> 4.73318245769408 </east>
+			<west> 4.73273540919027 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.73318245769408,45.82297231705979,0 4.73311461776997,45.8229452561997,0 4.73277019312233,45.8228199392685,0 4.73273540919027,45.8228937906413,0 4.73277020812207,45.8228983906927,0 4.73299249485555,45.8229372226906,0 4.73318245769408,45.82297231705979,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.2125">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69072000BW0302</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">LA BROCHETIERE</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.82288776285539 </north>
+			<south> 45.822560312697 </south>
+			<east> 4.73273279103912 </east>
+			<west> 4.73204389982534 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.73205671823757,45.822560312697,0 4.73204420984699,45.82268309087299,0 4.73204389982534,45.82268552753901,0 4.73247667823909,45.8228512839634,0 4.73252691602806,45.822859340121,0 4.73269386643164,45.82288776285539,0 4.73273279103912,45.8228062820131,0 4.73205671823757,45.822560312697,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.2134">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69072000BW0304</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">LA BROCHETIERE</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.82268552753901 </north>
+			<south> 45.8223916896491 </south>
+			<east> 4.73205671823757 </east>
+			<west> 4.73157578502096 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.73159345054501,45.8223916896491,0 4.73157578502096,45.8225349028306,0 4.73204389982534,45.82268552753901,0 4.73204420984699,45.82268309087299,0 4.73205671823757,45.822560312697,0 4.73159345054501,45.8223916896491,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.2153">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69072000BW0307</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">EN CARRET</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.82461327603041 </north>
+			<south> 45.82377115423139 </south>
+			<east> 4.73335741315612 </east>
+			<west> 4.73263579383319 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.73310296251648,45.82461327603041,0 4.73321462303115,45.82431261728019,0 4.73321486077984,45.8243119831355,0 4.73335741315612,45.8239202388486,0 4.7329007982852,45.82377115423139,0 4.73263579383319,45.8245180344242,0 4.73310296251648,45.82461327603041,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.2159">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69072000BW0308</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">EN CARRET</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.82567896753649 </north>
+			<south> 45.82476632644371 </south>
+			<east> 4.73646839649562 </east>
+			<west> 4.73603397976525 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.736103877664,45.82476632644371,0 4.73603397976525,45.825116335597,0 4.73624372738674,45.82536233702021,0 4.73635487930022,45.8256234548366,0 4.73640571133405,45.82567896753649,0 4.73643129798299,45.82546438553649,0 4.73646839649562,45.8251529804506,0 4.73636759651144,45.82497519929051,0 4.7363029499779,45.8249187280724,0 4.7361798144035,45.82481721993461,0 4.736103877664,45.82476632644371,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.2164">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69072000BW0309</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">EN CARRET</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8262966843031 </north>
+			<south> 45.825116335597 </south>
+			<east> 4.73640571133405 </east>
+			<west> 4.73591289517358 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.73598590251711,45.8253572937112,0 4.73595185002325,45.82552805113821,0 4.73592169002351,45.8260970421216,0 4.73592150609501,45.82609938679169,0 4.73591289517358,45.8262966843031,0 4.73635411297679,45.82611102031869,0 4.73640571133405,45.82567896753649,0 4.73635487930022,45.8256234548366,0 4.73624372738674,45.82536233702021,0 4.73603397976525,45.825116335597,0 4.73598590251711,45.8253572937112,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.2189">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69072000AA0311</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">LONGE NORD</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8330980062533 </north>
+			<south> 45.8316265001719 </south>
+			<east> 4.7487983242129 </east>
+			<west> 4.74734117625225 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.7487983242129,45.8316379752298,0 4.74876574855115,45.8316265001719,0 4.7486383262266,45.8323058987212,0 4.74859087768003,45.8323943627131,0 4.74852286782669,45.83249269256,0 4.74809964356697,45.8328603394969,0 4.74794432198219,45.8329399344709,0 4.74755203079694,45.8330354458064,0 4.74734117625225,45.8330785196422,0 4.74738573161883,45.8330980062533,0 4.7474756099059,45.8330879688233,0 4.7475674684499,45.8330794318905,0 4.74763814109146,45.8330610446674,0 4.74797471978759,45.8329802662652,0 4.74806750137593,45.8329317230231,0 4.74814462107587,45.83289314981391,0 4.74815650517428,45.8328818871089,0 4.74838736343097,45.8326812377346,0 4.74857775134607,45.832516882646,0 4.74860789993368,45.8324802072445,0 4.74862750421551,45.8324523419265,0 4.74863861339743,45.8324328946854,0 4.74865006614468,45.8324120910554,0 4.74867558242425,45.83236341781371,0 4.74870116712055,45.83231690521531,0 4.74877429951134,45.8319370233865,0 4.74877779674904,45.8319091372289,0 4.74878538425801,45.83181921874,0 4.7487983242129,45.8316379752298,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.2214">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69072000AA0315</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">LONGE NORD</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8337318456018 </north>
+			<south> 45.83255035242989 </south>
+			<east> 4.7468139171701 </east>
+			<west> 4.74507186591238 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.74538912276718,45.83255035242989,0 4.74533013234431,45.83260404573851,0 4.74518545739495,45.8327311199655,0 4.74507245292133,45.8330896378022,0 4.74507186591238,45.8330914482946,0 4.7453324755822,45.83328521749271,0 4.74581267972512,45.8335613396687,0 4.74603035508789,45.83372154394469,0 4.74617383671826,45.8337318456018,0 4.74639149992965,45.8335943642127,0 4.7468139171701,45.8332251151311,0 4.74538912276718,45.83255035242989,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.2220">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69072000AA0316</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">LONGE NORD</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8332251151311 </north>
+			<south> 45.8331060230073 </south>
+			<east> 4.74717028786699 </east>
+			<west> 4.7468139171701 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.7468139171701,45.8332251151311,0 4.74697378101827,45.8332034573246,0 4.74717028786699,45.8331060230073,0 4.7468139171701,45.8332251151311,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.2230">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69072000AA0318</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">LONGE NORD</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8338358969887 </north>
+			<south> 45.8337311322692 </south>
+			<east> 4.74652323308328 </east>
+			<west> 4.74634856891654 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.74639978743591,45.8338358969887,0 4.74652323308328,45.8337627418332,0 4.74646463542801,45.8337311322692,0 4.74640367197267,45.83377134597241,0 4.74634856891654,45.8338175938657,0 4.74639978743591,45.8338358969887,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.2240">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69072000BW0319</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">RTE DE LA TOUR DE SALVAGNY</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.825116335597 </north>
+			<south> 45.82434220237721 </south>
+			<east> 4.736103877664 </east>
+			<west> 4.73527527108477 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.73537011630183,45.82434220237721,0 4.73527527108477,45.8246159440712,0 4.73566723205067,45.8248143811096,0 4.73603397976525,45.825116335597,0 4.736103877664,45.82476632644371,0 4.73596545187767,45.8246701871942,0 4.73593977979013,45.8246486045504,0 4.73591647381226,45.8246367131823,0 4.73550781980268,45.82441133216961,0 4.73546954001289,45.8243903034718,0 4.73537011630183,45.82434220237721,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.2260">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69072000AA0321</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">LONGE NORD</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8340102745434 </north>
+			<south> 45.8337627418332 </south>
+			<east> 4.74703912358571 </east>
+			<west> 4.74639978743591 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.74639978743591,45.8338358969887,0 4.74665361702223,45.8339251054107,0 4.74700550610672,45.8340102745434,0 4.74703912358571,45.8339650792403,0 4.74689180010788,45.83391484649109,0 4.74667068347052,45.8338007234099,0 4.74664441254418,45.8338256290458,0 4.74662744757233,45.83381886585389,0 4.74652323308328,45.8337627418332,0 4.74639978743591,45.8338358969887,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.2264">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69072000AA0322</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">LONGE NORD</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8343412140032 </north>
+			<south> 45.83396289422551 </south>
+			<east> 4.74642776174361 </east>
+			<west> 4.74548520927334 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.74574829802572,45.8339700869016,0 4.74571077439874,45.8339692257541,0 4.74560271973824,45.8339668426496,0 4.74548520927334,45.83396289422551,0 4.74609841153324,45.8342638910803,0 4.74642776174361,45.8343412140032,0 4.74635446979392,45.83423210017461,0 4.74574829802572,45.8339700869016,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.2299">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69072000AA0329</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">LONGE NORD</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.83423456153501 </north>
+			<south> 45.83399737673361 </south>
+			<east> 4.74796952520739 </east>
+			<west> 4.74712892619566 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.7477589830879,45.8342321718781,0 4.74776918324753,45.8342328246752,0 4.74777963813851,45.8342333834583,0 4.74779021611845,45.8342337601932,0 4.74780079124733,45.8342340469001,0 4.74781136352511,45.83423424357881,0 4.7478219386542,45.8342345302837,0 4.74783250522963,45.8342345469064,0 4.74784320059621,45.83423456153501,0 4.74785376432036,45.8342344881286,0 4.74786432519319,45.83423432469409,0 4.7478748803633,45.8342339812046,0 4.74788543553328,45.83423363771401,0 4.74789599070313,45.8342332942224,0 4.74790666896122,45.8342327686826,0 4.7479172127252,45.8342320650807,0 4.74792763054921,45.8342314534982,0 4.74793804267012,45.8342306618605,0 4.74794845479074,45.8342298702219,0 4.74795898999925,45.8342288965349,0 4.74796952520739,45.83422792284701,0 4.74789114757678,45.8341658157741,0 4.74781229280015,45.8341700084346,0 4.74770135913199,45.83416217754001,0 4.74762888082222,45.8341439337463,0 4.74751148691392,45.8341192692449,0 4.74740459746306,45.83408858747701,0 4.747389910127,45.8340845813652,0 4.74730200435518,45.8340552270786,0 4.74728460748022,45.83406738561339,0 4.74728038926406,45.8340643884506,0 4.74723506484622,45.8340328441447,0 4.74712892619566,45.83399737673361,0 4.74717850365292,45.83404930144641,0 4.74721146108636,45.8340605909316,0 4.74776294295616,45.8341944608407,0 4.7477589830879,45.8342321718781,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.2338">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69072000AA0333</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">75, ROUTE NATIONALE 6</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.836032587582 </north>
+			<south> 45.8358028231809 </south>
+			<east> 4.74581025818831 </east>
+			<west> 4.74536895589533 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.74581025818831,45.83583504309351,0 4.74566343452559,45.83582109962639,0 4.74552304564051,45.8358028231809,0 4.74538406324551,45.8358127170946,0 4.74536895589533,45.8358198860269,0 4.74539972749321,45.836022791147,0 4.7454185929397,45.836032587582,0 4.74581025818831,45.83583504309351,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.2355">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69072000AA0335</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">56, ROUTE NATIONALE 6</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8348776998593 </north>
+			<south> 45.8344613965609 </south>
+			<east> 4.74899121183596 </east>
+			<west> 4.74833118187785 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.74899121183596,45.8348662934707,0 4.74884025600718,45.83477882995761,0 4.74876470279452,45.83467578739381,0 4.74851591981299,45.8344613965609,0 4.74847070255133,45.8345146080886,0 4.748468097755,45.8345178009054,0 4.74846561889783,45.8345209017014,0 4.74846327168448,45.8345240905305,0 4.74846117920214,45.8345271853449,0 4.74845896078006,45.83453037218019,0 4.74845687114953,45.8345335570216,0 4.74845504195468,45.8345368279025,0 4.74845321275962,45.83454009878339,0 4.74845151235616,45.8345433676704,0 4.74845007524074,45.834546812624,0 4.74844850648102,45.8345501695443,0 4.74844719530482,45.834553522477,0 4.74844601577259,45.83455696344301,0 4.74844483338795,45.8345603143819,0 4.74844377979504,45.8345636633271,0 4.74844298949031,45.8345671883388,0 4.74844219633322,45.8345706233234,0 4.74844153482019,45.83457414634131,0 4.74844099924673,45.83457757733841,0 4.74844059531739,45.8345810963688,0 4.74844067474077,45.834587670338,0 4.74844023899638,45.8345942522822,0 4.74843980325188,45.8346008342264,0 4.74843898113133,45.8346074221518,0 4.74843790142659,45.8346140140649,0 4.74843669292958,45.8346206079716,0 4.74843509520394,45.8346271178326,0 4.74843349747793,45.8346336276935,0 4.74843151052311,45.8346400535087,0 4.74842913433936,45.834646395278,0 4.74842676100731,45.83465282707429,0 4.74842399559392,45.8346590847977,0 4.74842110424002,45.8346654345418,0 4.74841794674449,45.8346715181921,0 4.74841440572405,45.83467769785071,0 4.74841085899839,45.834683697455,0 4.74840692874763,45.83468979306739,0 4.74840286399941,45.8346957106193,0 4.74839866760591,45.8347015401377,0 4.74839408768707,45.8347074656642,0 4.74839174331384,45.83471074451889,0 4.74838939608814,45.8347139333465,0 4.74838692292211,45.8347172141949,0 4.74838431811137,45.8347204070098,0 4.74838171044815,45.8347235097976,0 4.74837897684454,45.8347267046061,0 4.74837611159618,45.83472981138121,0 4.74837337228761,45.8347328261354,0 4.74837037539418,45.834735844877,0 4.74836724685598,45.83473877558511,0 4.74836412116959,45.8347417963201,0 4.74836098977857,45.83474463700099,0 4.74835772959492,45.83474747967541,0 4.74835434061862,45.8347503243434,0 4.74835082284964,45.834753171005,0 4.74834742816838,45.8347558356187,0 4.74834390469447,45.83475850222591,0 4.74834025242786,45.83476117082671,0 4.74833660016091,45.83476383942741,0 4.74833281339705,45.8347663299675,0 4.74833118187785,45.8347677062907,0 4.7485258834865,45.8348002703697,0 4.74881243269235,45.8348482553283,0 4.74897005441394,45.8348776998593,0 4.74899121183596,45.8348662934707,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.2365">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69072000AA0336</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">56, ROUTE NATIONALE 6</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8344613965609 </north>
+			<south> 45.83419277207279 </south>
+			<east> 4.74878560505605 </east>
+			<west> 4.74851591981299 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.74878560505605,45.83419277207279,0 4.74867921724341,45.8342836798765,0 4.74860735873311,45.8343541472564,0 4.74851591981299,45.8344613965609,0 4.74868767449287,45.83444891969479,0 4.74875515995213,45.8343217751039,0 4.74878560505605,45.83419277207279,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.2439">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69072000AA0345</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">67, ROUTE NATIONALE 6</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8351966274968 </north>
+			<south> 45.8350535067065 </south>
+			<east> 4.74706390180853 </east>
+			<west> 4.74692714846758 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.74700496155661,45.8351857118402,0 4.74706390180853,45.835130397165,0 4.7469804171287,45.8350535067065,0 4.74693791441066,45.8350826265997,0 4.74692714846758,45.8351373762504,0 4.74698056666694,45.8351966274968,0 4.74700496155661,45.8351857118402,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.2504">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69072000AA0355</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">LONGE NORD</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.83625928213319 </north>
+			<south> 45.83585625451951 </south>
+			<east> 4.75030595828367 </east>
+			<west> 4.74970048756104 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.75002703559815,45.83585625451951,0 4.74992667309831,45.8359259033822,0 4.74983442477856,45.8359913732372,0 4.74981837289481,45.8360053127499,0 4.74979842894094,45.8360143586378,0 4.74973640821008,45.8360334237765,0 4.74970048756104,45.8360465902138,0 4.74995412514199,45.83625928213319,0 4.75030595828367,45.836134846331,0 4.75002703559815,45.83585625451951,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.2509">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69072000AA0356</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">LONGE NORD</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8363018580294 </north>
+			<south> 45.8360465902138 </south>
+			<east> 4.74995412514199 </east>
+			<west> 4.74966545989914 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.74966545989914,45.8360594725925,0 4.74983383221031,45.8363018580294,0 4.74995412514199,45.83625928213319,0 4.74970048756104,45.8360465902138,0 4.74966545989914,45.8360594725925,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.2516">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69072000AA0357</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">LONGE NORD</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.83631855584159 </north>
+			<south> 45.836134846331 </south>
+			<east> 4.75041148293902 </east>
+			<west> 4.74995412514199 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.75041148293902,45.83623607239609,0 4.75030595828367,45.836134846331,0 4.74995412514199,45.83625928213319,0 4.75001806929704,45.83631305472449,0 4.75005253235439,45.8363108093944,0 4.75018597886371,45.83631324521651,0 4.75023471510781,45.8363141112965,0 4.75026758630921,45.83631855584159,0 4.75027685675923,45.8363183221131,0 4.75027982763115,45.8363185462893,0 4.75028278708167,45.8363184103574,0 4.75028574082144,45.83631809437141,0 4.75028869741655,45.8363178684123,0 4.75029151950498,45.836317464395,0 4.75029447038928,45.8363170583817,0 4.75029728962225,45.8363165643372,0 4.750300100289,45.8363158002116,0 4.75030291381107,45.83631512611291,0 4.75030572447767,45.83631436198721,0 4.7503084063483,45.83631359985731,0 4.75031095371216,45.8363126596692,0 4.75031349536511,45.83631153942689,0 4.75031603987337,45.83631050921171,0 4.75031858152612,45.8363093889694,0 4.75032099152746,45.8363081806959,0 4.75032326987739,45.8363068843912,0 4.75032554822722,45.83630558808661,0 4.75032769778106,45.83630429377769,0 4.7503298387685,45.8363027293878,0 4.75041148293902,45.83623607239609,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.2525">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69072000AA0358</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">LONGE NORD</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.83634309158511 </north>
+			<south> 45.83625928213319 </south>
+			<east> 4.75001806929704 </east>
+			<west> 4.74983383221031 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.74983383221031,45.8363018580294,0 4.74986413299879,45.83634309158511,0 4.74989455806361,45.836335414516,0 4.75001806929704,45.83631305472449,0 4.74995412514199,45.83625928213319,0 4.74983383221031,45.8363018580294,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.2547">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69072000AA0360</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">2, CHE DE BOIS LONGE</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.83422792284701 </north>
+			<south> 45.8340314067196 </south>
+			<east> 4.74831458655018 </east>
+			<west> 4.74789114757678 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.74789114757678,45.8341658157741,0 4.74796952520739,45.83422792284701,0 4.74801054160645,45.8342210731384,0 4.74805360439451,45.8342137413863,0 4.74806410537851,45.83421168736479,0 4.74812872466315,45.8341811438594,0 4.74821422032668,45.83414253105631,0 4.7482335056499,45.8341330452808,0 4.74824517473988,45.83412719017049,0 4.74831458655018,45.8340811701957,0 4.74823015706621,45.8340314067196,0 4.74817453441422,45.8340774834239,0 4.74806297842692,45.8341313612933,0 4.7479665306885,45.83416185692981,0 4.74789114757678,45.8341658157741,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.2693">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69072000AA0038</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">LONGE NORD</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8345795769148 </north>
+			<south> 45.83372598252859 </south>
+			<east> 4.74185116486344 </east>
+			<west> 4.74077716241445 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.74077716241445,45.83372598252859,0 4.7408274621753,45.8340501834946,0 4.74083136335089,45.8340839900687,0 4.74083413380957,45.83411871478101,0 4.74083579826499,45.834146971427,0 4.74083687840255,45.8341771285706,0 4.74084911535432,45.8344139168175,0 4.74085352744451,45.8344884276191,0 4.74143212606583,45.8345795769148,0 4.74158544152877,45.8343012352541,0 4.74158863100799,45.8342961420944,0 4.74185116486344,45.8339550476819,0 4.74077716241445,45.83372598252859,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.2804">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69072000AB0040</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">LE CREU MARGELAY</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.83181235246501 </north>
+			<south> 45.8312254570231 </south>
+			<east> 4.74129041332895 </east>
+			<west> 4.74025777851119 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.74025777851119,45.8312994574195,0 4.7403268101796,45.8315436570273,0 4.74033237682966,45.83156491807511,0 4.74034653672864,45.8316012687033,0 4.74035352647961,45.8316308844241,0 4.74036735321987,45.83166075507191,0 4.74037970371665,45.831688756976,0 4.74042328076498,45.831771311056,0 4.7404486696608,45.83181235246501,0 4.74080786475746,45.83178267748149,0 4.74108144065314,45.8317632383304,0 4.74129041332895,45.8317503789873,0 4.74119287777638,45.8313543092511,0 4.74116111051268,45.8312254570231,0 4.74025777851119,45.8312994574195,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.3053">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69072000AL0047</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">NERONDE</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">MINISTERE ECOLOGIE DEVELOPPEMENT TRANSPORTS LOGEMENT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8195485791467 </north>
+			<south> 45.8191008152579 </south>
+			<east> 4.76590923333126 </east>
+			<west> 4.76582745721395 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.76582745721395,45.8195485791467,0 4.76584479181199,45.81949849845271,0 4.76590923333126,45.8191008152579,0 4.76584602962716,45.8193962478161,0 4.76582745721395,45.8195485791467,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.3074">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69072000AL0048</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">NERONDE</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">MINISTERE ECOLOGIE DEVELOPPEMENT TRANSPORTS LOGEMENT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.81886258898321 </north>
+			<south> 45.8179917419694 </south>
+			<east> 4.76614671804421 </east>
+			<west> 4.76596022517069 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.76614671804421,45.8179917419694,0 4.76596022517069,45.81886258898321,0 4.76603423965397,45.81861922879361,0 4.76611342576341,45.8182234765554,0 4.76614671804421,45.8179917419694,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.3132">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69072000AL0050</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">NERONDE</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">MINISTERE ECOLOGIE DEVELOPPEMENT TRANSPORTS LOGEMENT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8195643307909 </north>
+			<south> 45.8194018037287 </south>
+			<east> 4.76482814073057 </east>
+			<west> 4.76475655973124 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.76475655973124,45.8195643307909,0 4.7647965318463,45.8195050694473,0 4.76482114355772,45.8194247012049,0 4.76482814073057,45.8194018037287,0 4.76475655973124,45.8195643307909,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.3364">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69072000BW0006</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">LA FORET</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8228488751631 </north>
+			<south> 45.8222457430621 </south>
+			<east> 4.72573533509101 </east>
+			<west> 4.72286836286639 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.72310493751951,45.8222457430621,0 4.72286836286639,45.822495875893,0 4.72502267061873,45.82277048725629,0 4.72564580821575,45.8228488751631,0 4.72573533509101,45.82260963050911,0 4.72356355929727,45.8223077378197,0 4.72310493751951,45.8222457430621,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.3589">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69072000BW0007</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">LA FORET</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8223077378197 </north>
+			<south> 45.8216242288084 </south>
+			<east> 4.72539550409187 </east>
+			<west> 4.72310493751951 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.72520675205037,45.8216242288084,0 4.72311705053676,45.8222293455248,0 4.72310493751951,45.8222457430621,0 4.72356355929727,45.8223077378197,0 4.72539550409187,45.82170745232689,0 4.72520675205037,45.8216242288084,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.3632">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69072000AB0073</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">LES AVOINIERES</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8296311332813 </north>
+			<south> 45.82924879191621 </south>
+			<east> 4.7470532582908 </east>
+			<west> 4.74559532717168 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.74693376093736,45.8296311332813,0 4.7470532582908,45.8295393937432,0 4.74607875212497,45.8293296472345,0 4.74579725003108,45.82924879191621,0 4.74576811037241,45.8292929268697,0 4.74561186306221,45.8294408069559,0 4.74559532717168,45.8294801534179,0 4.74603314241521,45.8295292294748,0 4.74605693481147,45.82953192404601,0 4.74693376093736,45.8296311332813,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.3660">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69072000AC0075</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">LONGE SUD</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8330680805406 </north>
+			<south> 45.8324776716404 </south>
+			<east> 4.75012401779859 </east>
+			<west> 4.74928878309297 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.7496556294357,45.8324776716404,0 4.74928878309297,45.83283102913,0 4.74932918597152,45.83285364171961,0 4.74971429143512,45.8330680805406,0 4.74990219351149,45.83292700007,0 4.75012401779859,45.832742339563,0 4.7500839981836,45.8327196312439,0 4.7496556294357,45.8324776716404,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.3747">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69072000BW0008</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">LA FORET</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.82260963050911 </north>
+			<south> 45.82170745232689 </south>
+			<east> 4.72629190020699 </east>
+			<west> 4.72356355929727 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.72539550409187,45.82170745232689,0 4.72356355929727,45.8223077378197,0 4.72573533509101,45.82260963050911,0 4.7261040051392,45.82227082440451,0 4.7262652921113,45.822122444435,0 4.72627542352658,45.82211274206401,0 4.72629190020699,45.82209997035659,0 4.72574170635989,45.8218574435601,0 4.72539550409187,45.82170745232689,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

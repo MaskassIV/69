@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>GRANDRIS_HLM</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_5">
+		<name>GRANDRIS_HLM</name>
+		<Schema name="GRANDRIS_HLM" id="GRANDRIS_HLM.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="HLM">
+			<LineStyle>
+				<color>BFe451f5</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4Ce451f5</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2703">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69093000AS0309</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GRANDRIS</SimpleData>
+					<SimpleData name="Adresse">LE PLAT MARSAN</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0459985253282 </north>
+			<south> 46.04573169885771 </south>
+			<east> 4.46935520664312 </east>
+			<west> 4.46906620920385 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.46918692042405,46.0459985253282,0 4.46925417370017,46.0459790104733,0 4.4693357878086,46.04595480624261,0 4.46932157886098,46.0459313033554,0 4.46935520664312,46.0459215909098,0 4.46934399380538,46.0459037232753,0 4.46931394979652,46.0458539465679,0 4.46930029175479,46.04583169744531,0 4.46927012093502,46.0457820124352,0 4.46923980403153,46.04573169885771,0 4.46906620920385,46.0457842042924,0 4.46906973689764,46.0457903730502,0 4.46916817768686,46.0459650839869,0 4.46918692042405,46.0459985253282,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2731">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69093000AS0311</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GRANDRIS</SimpleData>
+					<SimpleData name="Adresse">LE PLAT MARSAN</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0457307391531 </north>
+			<south> 46.04544960954549 </south>
+			<east> 4.46953245202424 </east>
+			<west> 4.46924302381934 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.46953220480924,46.04544960954549,0 4.46924302381934,46.04554243118081,0 4.46926497364461,46.0455845672271,0 4.46930919022891,46.0456564963357,0 4.46931947627945,46.0456735654007,0 4.4693297310557,46.0456894640289,0 4.46933821355668,46.0457019631641,0 4.46951540319384,46.0457307391531,0 4.46952540140719,46.04565477508011,0 4.46953229321544,46.0455545337938,0 4.46953245202424,46.0454540195125,0 4.46953220480924,46.04544960954549,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2739">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69093000AS0312</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GRANDRIS</SimpleData>
+					<SimpleData name="Adresse">LE PLAT MARSAN</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.04569551085079 </north>
+			<south> 46.0456242936638 </south>
+			<east> 4.46917512623561 </east>
+			<west> 4.46900200423092 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.46906654436938,46.0456515346387,0 4.46900200423092,46.0456709241707,0 4.46901598325149,46.04569551085079,0 4.46917512623561,46.04564913702231,0 4.46916010557333,46.0456242936638,0 4.46906654436938,46.0456515346387,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2773">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69093000AS0318</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GRANDRIS</SimpleData>
+					<SimpleData name="Adresse">LE PLAT MARSAN</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.046109497342 </north>
+			<south> 46.0458439297058 </south>
+			<east> 4.46909556371691 </east>
+			<west> 4.468562045049 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.468562045049,46.0459054778313,0 4.4687006179779,46.0459508768378,0 4.46862468657262,46.0461055107452,0 4.4686228529448,46.046109497342,0 4.46888945737783,46.0460429084566,0 4.4689450747329,46.04602840802329,0 4.46902250887312,46.04600750050339,0 4.46909556371691,46.04598728012459,0 4.46908144807278,46.0459624250291,0 4.46900903733321,46.0459825469895,0 4.4689305520123,46.0460028376661,0 4.46891669743713,46.04597806923339,0 4.46889820624634,46.0459830822183,0 4.46888896185621,46.0459662698156,0 4.46886451705005,46.0459227249855,0 4.46884874413345,46.0458939284853,0 4.46882192816994,46.0458439297058,0 4.46881293036125,46.0458460276901,0 4.468562045049,46.0459054778313,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.4530">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69093000AB0068</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GRANDRIS</SimpleData>
+					<SimpleData name="Adresse">LE GOUTEL</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.03880679574689 </north>
+			<south> 46.0377714589872 </south>
+			<east> 4.47360932568317 </east>
+			<west> 4.47242011548624 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.47360932568317,46.0386866849379,0 4.4735787594321,46.0386463729448,0 4.47349355322756,46.03851193287539,0 4.47347513995398,46.0384859633352,0 4.47344179874753,46.03844343575381,0 4.47340551072631,46.0384019371748,0 4.473359661407,46.03835110604011,0 4.4732325735111,46.0382221636478,0 4.47322937193529,46.0382185125952,0 4.47318094845441,46.0381633016676,0 4.47313559638002,46.0381068799671,0 4.47307997498673,46.0380195193274,0 4.4730403093933,46.03792915933299,0 4.4730252403687,46.0378880153827,0 4.4730071343183,46.03783970570651,0 4.47298461455918,46.0377714589872,0 4.47294300855093,46.0378065844551,0 4.4729192446903,46.03782706772571,0 4.47242011548624,46.0384472530701,0 4.47278499308794,46.0387052325256,0 4.47285231565659,46.0385534993644,0 4.47301970039125,46.0385984285266,0 4.4730240799574,46.0386026046682,0 4.47309963445459,46.0386761065481,0 4.47333488510966,46.03880679574689,0 4.47343459152784,46.0387632595306,0 4.47360932568317,46.0386866849379,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.4683">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69093000AB0737</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GRANDRIS</SimpleData>
+					<SimpleData name="Adresse">5492, RUE CENTRALE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0380882822254 </north>
+			<south> 46.0379371426959 </south>
+			<east> 4.47537989266603 </east>
+			<west> 4.47513831569606 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.47513831569606,46.0379969879721,0 4.47517117464969,46.0380407822519,0 4.47517277302975,46.03804733618791,0 4.47520995260126,46.0380882822254,0 4.47535129085361,46.0380444727347,0 4.47537989266603,46.03803563441429,0 4.47536460547808,46.0380105251365,0 4.47536742300931,46.0380094977557,0 4.47532825846707,46.0379475924881,0 4.47532151196624,46.0379371426959,0 4.47529023160613,46.0379473668319,0 4.47513831569606,46.0379969879721,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.4700">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69093000AB0741</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GRANDRIS</SimpleData>
+					<SimpleData name="Adresse">LE GOUTEL</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.03930255347571 </north>
+			<south> 46.0391529134179 </south>
+			<east> 4.47327908349751 </east>
+			<west> 4.4729519745066 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.47326242627366,46.03930255347571,0 4.47327908349751,46.0392629786884,0 4.47315653700306,46.0392022462992,0 4.47296071011547,46.0391529134179,0 4.4729519745066,46.0391792357737,0 4.4730111790951,46.0391975602869,0 4.47307983422228,46.0392210757979,0 4.47314725208371,46.0392466788359,0 4.47321278387047,46.0392742877695,0 4.47326242627366,46.03930255347571,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.4703">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69093000AB0742</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GRANDRIS</SimpleData>
+					<SimpleData name="Adresse">LE GOUTEL</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.04005802103201 </north>
+			<south> 46.0390607679291 </south>
+			<east> 4.47387588460744 </east>
+			<west> 4.47198704706545 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.47326242627366,46.03930255347571,0 4.47367070788508,46.0395438445499,0 4.47367599737008,46.0395481889698,0 4.47369562083584,46.039566217047,0 4.47371256077915,46.0395854508468,0 4.47371678567828,46.0395935017611,0 4.47372250609442,46.0396090986799,0 4.47372526510905,46.0396251844182,0 4.4737245335285,46.0396413155312,0 4.47372068954137,46.0396571268434,0 4.47371346975594,46.0396724416486,0 4.47370338164305,46.0396868930903,0 4.47369029109325,46.0397003027813,0 4.47367483244744,46.03971221215081,0 4.47365700329233,46.0397225311645,0 4.47363731351544,46.0397309829991,0 4.47362077614435,46.0397364217156,0 4.473599177484,46.0397412056979,0 4.47357674763351,46.03974392898881,0 4.47355399407029,46.0397442247326,0 4.47353194381172,46.0397418093862,0 4.47350749892828,46.0397369033441,0 4.47348415967751,46.0397298213713,0 4.47345082614554,46.0397165647497,0 4.47343294227209,46.0397055390775,0 4.4733986859093,46.0396868004808,0 4.4733626654681,46.0396697960313,0 4.47290774937089,46.0395366471144,0 4.47287188594266,46.0395254946845,0 4.47280154263566,46.03950173078079,0 4.47273243673492,46.0394758792694,0 4.47264374343718,46.0394429869027,0 4.47218056621141,46.03924266402521,0 4.47220452505622,46.0392101097078,0 4.47270748723948,46.0394231552032,0 4.47276574940096,46.0394449145516,0 4.47290270845542,46.0394933013697,0 4.47336773948944,46.0396274896918,0 4.47337857116866,46.03963113164519,0 4.47341281442633,46.0396445565937,0 4.47344568868419,46.0396599807505,0 4.47347654271193,46.0396772324511,0 4.4735198453774,46.03969089988239,0 4.47352464326923,46.0396913779116,0 4.4735443326606,46.0396925630371,0 4.47356434716248,46.03969140224821,0 4.47358378421489,46.039687997341,0 4.47360077837752,46.0396803010719,0 4.47361719267261,46.039670270652,0 4.47363111200716,46.0396588316229,0 4.47363149261243,46.0396585564812,0 4.47364048718365,46.0396467311401,0 4.47364635728152,46.0396341358282,0 4.47364910773397,46.0396209506129,0 4.47364862132692,46.039607627342,0 4.47364448952289,46.0395982242429,0 4.47363543677395,46.0395837514132,0 4.47362343469195,46.0395702175672,0 4.47360207128728,46.0395548239734,0 4.47326744048186,46.0393545457772,0 4.47325311729941,46.0393460856863,0 4.47320047487257,46.0393168682467,0 4.47314568538799,46.03928957004349,0 4.47296678140667,46.0392250665116,0 4.47291584446788,46.0392112278664,0 4.47277637232271,46.03917521259789,0 4.47263592157915,46.0391412813622,0 4.47256212371211,46.0391526874622,0 4.47242094810781,46.0391206567386,0 4.47237493065127,46.0390780232908,0 4.4722888554414,46.0390607679291,0 4.47219556140733,46.0391699671463,0 4.47198704706545,46.0394147688124,0 4.47206303775917,46.03946592964709,0 4.47214221456827,46.03950083739839,0 4.47254588373716,46.03965212757339,0 4.47281463534236,46.0397442853351,0 4.47289397753325,46.0397756778967,0 4.47303491825045,46.03983265905949,0 4.47309010380682,46.0398747228042,0 4.47319040975046,46.0397424652039,0 4.47320164706889,46.0397274584876,0 4.47327468744087,46.03975533008159,0 4.4734305610463,46.0398145484515,0 4.47330729654108,46.03997322342251,0 4.47353239978677,46.04005802103201,0 4.47370034833211,46.0398005042592,0 4.47376111528595,46.0397082084818,0 4.47387588460744,46.0395318105978,0 4.47360051416913,46.0394243402894,0 4.47357629559997,46.0394133969793,0 4.47349273351707,46.0393741340392,0 4.47341118937911,46.0393329534518,0 4.47333153873449,46.0392900369685,0 4.47327908349751,46.0392629786884,0 4.47326242627366,46.03930255347571,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.4706">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69093000AB0745</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GRANDRIS</SimpleData>
+					<SimpleData name="Adresse">LE GOUTEL</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0391792357737 </north>
+			<south> 46.0390991131387 </south>
+			<east> 4.47296071011547 </east>
+			<west> 4.47264423293654 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.47296071011547,46.0391529134179,0 4.47282999632532,46.0391203870157,0 4.47274850358717,46.0391052340229,0 4.47264423293654,46.0390991131387,0 4.47264631347521,46.03909953643709,0 4.47274926374289,46.0391239576269,0 4.47285136702084,46.0391505512834,0 4.4729519745066,46.0391792357737,0 4.47296071011547,46.0391529134179,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.4811">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69093000AB0792</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GRANDRIS</SimpleData>
+					<SimpleData name="Adresse">5062, PL DE L EGLISE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0383295528158 </north>
+			<south> 46.0381175300361 </south>
+			<east> 4.47570518131471 </east>
+			<west> 4.47548631999109 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.47548631999109,46.0381752008191,0 4.47555560178033,46.0382461708566,0 4.47551980363433,46.038295271812,0 4.47560543036633,46.0383295528158,0 4.47563573351807,46.03828772854669,0 4.47562912949591,46.03827295380359,0 4.47570518131471,46.0382154931965,0 4.47562004418542,46.0381175300361,0 4.47555369319432,46.0381461336333,0 4.47548631999109,46.0381752008191,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.4817">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69093000AB0795</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GRANDRIS</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0381752008191 </north>
+			<south> 46.0380833551699 </south>
+			<east> 4.47562004418542 </east>
+			<west> 4.47547235685014 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.47559546098309,46.0380833551699,0 4.47549269951419,46.0381334177576,0 4.47550441177924,46.038145784337,0 4.47547235685014,46.0381608821058,0 4.47548631999109,46.0381752008191,0 4.47555369319432,46.0381461336333,0 4.47562004418542,46.0381175300361,0 4.47559546098309,46.0380833551699,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>GRANDRIS_PUBLICorASSOCIE</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_9">
+		<name>GRANDRIS_PUBLICorASSOCIE</name>
+		<Schema name="GRANDRIS_PUBLICorASSOCIE" id="GRANDRIS_PUBLICorASSOCIE.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="PUBLICorASSOCIE">
+			<LineStyle>
+				<color>BFdb2105</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4Cdb2105</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.15083">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69093000AB0633</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GRANDRIS</SimpleData>
+					<SimpleData name="Adresse">LA TOUR</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OPH DE LA METROPOLE DE LYON</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0364578544402 </north>
+			<south> 46.0358310863616 </south>
+			<east> 4.4729104858931 </east>
+			<west> 4.47143960588159 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.4729104858931,46.0358344975562,0 4.47290961861631,46.0358310863616,0 4.4723479521611,46.0359068318584,0 4.47225800913508,46.03591880776629,0 4.4719690169964,46.0359586765396,0 4.47168060659019,46.0360009687682,0 4.47168984150246,46.0360367847312,0 4.47163935686058,46.03604455523089,0 4.47162856347661,46.0360084893011,0 4.47155232703987,46.0360156033434,0 4.47143960588159,46.0360172466293,0 4.47145715416846,46.0360351218758,0 4.47150840517391,46.0360849829717,0 4.47156234209589,46.0361337284026,0 4.47165718117296,46.0362176985574,0 4.47171503993626,46.0362680141729,0 4.47193828184723,46.0364578544402,0 4.47214676884653,46.03642497552221,0 4.47243085963428,46.0363806667475,0 4.47252113815664,46.0363667049285,0 4.47262417614698,46.0363511362528,0 4.47275283342796,46.0363312718053,0 4.47289436491609,46.0363092585161,0 4.47290132336038,46.0361345324343,0 4.47290864605079,46.0359009892942,0 4.4729104858931,46.0358344975562,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

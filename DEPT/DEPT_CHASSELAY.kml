@@ -1,0 +1,622 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>CHASSELAY_DEPT</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_3">
+		<name>CHASSELAY_DEPT</name>
+		<Schema name="CHASSELAY_DEPT" id="CHASSELAY_DEPT.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="DEPT">
+			<LineStyle>
+				<color>BF63f16c</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C63f16c</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.936">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690490000C1229</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHASSELAY</SimpleData>
+					<SimpleData name="Adresse">LA COLLONGE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8767722628478 </north>
+			<south> 45.8767306538858 </south>
+			<east> 4.78097828359532 </east>
+			<west> 4.78081009096163 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.78097828359532,45.8767397660442,0 4.78081344304709,45.8767306538858,0 4.78081009096163,45.87675862905981,0 4.78090858851973,45.876769867413,0 4.78097378807795,45.8767722628478,0 4.78097828359532,45.8767397660442,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1775">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690490000D1708</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHASSELAY</SimpleData>
+					<SimpleData name="Adresse">SANVILLE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8717493367878 </north>
+			<south> 45.871628683136 </south>
+			<east> 4.75696853402416 </east>
+			<west> 4.7566587109963 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.75666560798409,45.8716428072348,0 4.75670805325047,45.8716759243181,0 4.75674841593016,45.87169628360301,0 4.75679715286303,45.8717164226327,0 4.75683799635053,45.87172758711869,0 4.75696853402416,45.8717493367878,0 4.7569058636159,45.87172491085219,0 4.75690394478077,45.8717253910382,0 4.75690097197489,45.8717251670359,0 4.7568981251794,45.8717248510033,0 4.7568951495056,45.871724536974,0 4.75689230271017,45.87172422094121,0 4.75688932416846,45.8717238168848,0 4.7568864773731,45.8717235008518,0 4.75688349883147,45.8717230967953,0 4.75688065203618,45.87172278076221,0 4.75687767349464,45.87172237670551,0 4.75687482383147,45.8717219706453,0 4.75687197416834,45.8717215645851,0 4.75686899849487,45.8717212505551,0 4.75686614883182,45.8717208444947,0 4.75686342517922,45.8717203464039,0 4.75686057551626,45.87171994034339,0 4.75685772298542,45.8717194442559,0 4.75685487332255,45.8717190381952,0 4.75685189191348,45.87171854411091,0 4.7568490393828,45.8717180480231,0 4.75684618685216,45.8717175519353,0 4.75684333432157,45.8717170558474,0 4.75684048752683,45.8717167398133,0 4.75683776387466,45.87171624172191,0 4.75683490847633,45.8717156556069,0 4.75683192706762,45.87171516152199,0 4.75682907166942,45.8717145754069,0 4.75682609026082,45.87171408132189,0 4.75682336660891,45.8717135832301,0 4.75682051121087,45.8717129971147,0 4.7568176558129,45.8717124109993,0 4.75681493216115,45.87171191290731,0 4.75681207676329,45.8717113267917,0 4.75680922136549,45.871710740676,0 4.75680636596775,45.8717101545603,0 4.75680363658055,45.8717094764142,0 4.75680078118293,45.8717088902983,0 4.75679792578538,45.8717083041823,0 4.75679519639837,45.8717076260361,0 4.75679246701143,45.8717069478897,0 4.75678960874625,45.87170627174661,0 4.75678688222726,45.87170568362709,0 4.75678402396222,45.87170500748379,0 4.75678116856504,45.8717044213674,0 4.75677842483947,45.8717032930861,0 4.75677555223571,45.8717021668079,0 4.75677293738866,45.87170103652321,0 4.75677019079564,45.8716998182147,0 4.7567674499383,45.8716987799601,0 4.75676483509157,45.8716976496751,0 4.75676208563114,45.8716963413395,0 4.75675946791688,45.8716951210275,0 4.7567567184567,45.8716938126918,0 4.75675410074267,45.87169259237969,0 4.75675160903929,45.8716912800373,0 4.75674898845775,45.87168996969821,0 4.75674649388686,45.8716885673288,0 4.75674387043784,45.8716871669626,0 4.75674150474547,45.87168576258979,0 4.75673888703216,45.8716845422773,0 4.7567365184723,45.8716830478775,0 4.75673402103433,45.87168155548099,0 4.75673165247473,45.8716800610811,0 4.75672928391526,45.8716785666811,0 4.75672704423415,45.8716770702779,0 4.75672467567494,45.8716755758779,0 4.75672230424815,45.8716739914509,0 4.75671993568919,45.87167249705081,0 4.75671782201912,45.87167090861719,0 4.75671570834917,45.8716693201837,0 4.75671359181165,45.8716676417231,0 4.75671134639605,45.87166596526579,0 4.75670910384827,45.8716643788353,0 4.75670698731115,45.8716627003746,0 4.75670487077415,45.87166102191389,0 4.75670300912601,45.87165924941989,0 4.75670102146746,45.8716575689559,0 4.75669903094137,45.871655798465,0 4.75669691153722,45.87165402997719,0 4.75669492387904,45.8716523495131,0 4.75669318824204,45.87165048498879,0 4.75669132659463,45.87164871249449,0 4.75668946207969,45.8716468499733,0 4.75668759756488,45.8716449874521,0 4.75668573305019,45.8716431249308,0 4.75668400028143,45.8716413504333,0 4.75668239065566,45.8716393938787,0 4.75668221016013,45.871637775397,0 4.7566587109963,45.871628683136,0 4.75666560798409,45.8716428072348,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1786">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690490000D1718</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHASSELAY</SimpleData>
+					<SimpleData name="Adresse">SANVILLE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8722547562365 </north>
+			<south> 45.8721820823114 </south>
+			<east> 4.76011801606393 </east>
+			<west> 4.759514193204 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.75952495326243,45.8721820823114,0 4.759514193204,45.8722126039471,0 4.75961295578683,45.8722204338134,0 4.76002997295785,45.8722491585526,0 4.76011009658463,45.8722547562365,0 4.76011801606393,45.87223220507679,0 4.75952495326243,45.8721820823114,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1800">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690490000D1720</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHASSELAY</SimpleData>
+					<SimpleData name="Adresse">SANVILLE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.871774945305 </north>
+			<south> 45.87174997367391 </south>
+			<east> 4.75710930730269 </east>
+			<west> 4.75702311880242 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.75702606254747,45.87174997367391,0 4.75702311880242,45.8717587563747,0 4.75710577080783,45.871774945305,0 4.75710930730269,45.8717645320991,0 4.7571072309062,45.87176411402291,0 4.75710515450973,45.87176369594669,0 4.7571030781133,45.8717632778704,0 4.7571010017169,45.8717628597941,0 4.75709905419896,45.871762439714,0 4.7570968489242,45.8717620236413,0 4.75709477252789,45.87176160556479,0 4.75709270186824,45.87176136754221,0 4.75709062834029,45.8717610394926,0 4.75708855194407,45.871760621416,0 4.75708647554788,45.8717602033394,0 4.75708439915172,45.8717597852628,0 4.75708232562389,45.871759457213,0 4.75708024922779,45.87175903913631,0 4.75707804682159,45.8717587130901,0 4.75707610217225,45.8717583830366,0 4.75707402577624,45.8717579649598,0 4.75707194938026,45.8717575468829,0 4.75706987585258,45.8717572188329,0 4.75706779945666,45.871756800756,0 4.75706572592904,45.8717564727059,0 4.7570636552697,45.8717562346828,0 4.75706157887386,45.87175581660571,0 4.75705950534631,45.87175548855549,0 4.75705730007213,45.871755072482,0 4.75705522654463,45.87175474443169,0 4.75705327902732,45.8717543243509,0 4.75705120549988,45.8717539963006,0 4.75704912910422,45.87175357822331,0 4.75704705844506,45.8717533401998,0 4.75704498491769,45.8717530121494,0 4.75704265076532,45.8717525980792,0 4.757040577238,45.8717522700286,0 4.75703850657893,45.871752032005,0 4.75703643018344,45.8717516139275,0 4.7570343566562,45.8717512858769,0 4.75703228599719,45.8717510478531,0 4.75703008072339,45.87175063177901,0 4.75702813607462,45.8717503017247,0 4.75702606254747,45.87174997367391,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1801">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690490000D1722</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHASSELAY</SimpleData>
+					<SimpleData name="Adresse">SANVILLE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8717963513031 </north>
+			<south> 45.8717645320991 </south>
+			<east> 4.75720966179128 </east>
+			<west> 4.75710577080783 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.75710577080783,45.871774945305,0 4.75713691389611,45.8717811264178,0 4.75720625419249,45.8717963513031,0 4.75720966179128,45.8717859400979,0 4.75720758252473,45.8717854319966,0 4.7572035528702,45.8717844137901,0 4.75720147647224,45.8717839957156,0 4.75719744681793,45.871782977509,0 4.75719537042007,45.87178255943441,0 4.75719342290071,45.871782139356,0 4.75719134363444,45.8717816312544,0 4.75718926436822,45.8717811231527,0 4.75718718797049,45.871780705078,0 4.75718510870434,45.8717801969763,0 4.75718108765597,45.87177944884981,0 4.75717900838992,45.8717789407479,0 4.7571769291239,45.8717784326461,0 4.75717485272637,45.8717780145711,0 4.75717095481988,45.8717770843866,0 4.75716887555401,45.8717765762846,0 4.75716692803507,45.8717761562058,0 4.7571648516377,45.8717757381306,0 4.75716082485308,45.8717748099496,0 4.75715874845581,45.8717743918743,0 4.75715667205857,45.871773973799,0 4.75715459279295,45.8717734656967,0 4.75715251926419,45.87177313764819,0 4.75714862422682,45.8717722974899,0 4.75714641895129,45.87177188141819,0 4.75714434255423,45.8717714633426,0 4.75714226328882,45.8717709552401,0 4.75714018689184,45.87177053716451,0 4.75713811049488,45.8717701190888,0 4.75713603696634,45.8717697910401,0 4.75713395770107,45.8717692829374,0 4.75713188130421,45.8717688648616,0 4.75712785738902,45.87176802670631,0 4.75712590987069,45.87176760662679,0 4.75712383347395,45.8717671885509,0 4.75712176281396,45.87176695052871,0 4.75711968641728,45.8717665324528,0 4.75711761002063,45.8717661143767,0 4.75711553362402,45.87176569630069,0 4.75711345722743,45.8717652782246,0 4.75711138083088,45.87176486014841,0 4.75710930730269,45.8717645320991,0 4.75710577080783,45.871774945305,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1802">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690490000D1724</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHASSELAY</SimpleData>
+					<SimpleData name="Adresse">SANVILLE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.87184007593279 </north>
+			<south> 45.8717859400979 </south>
+			<east> 4.7573879803399 </east>
+			<west> 4.75720625419249 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.75720966179128,45.8717859400979,0 4.75720625419249,45.8717963513031,0 4.75727637640416,45.87181183420369,0 4.75738326699052,45.87184007593279,0 4.7573879803399,45.87182613162869,0 4.75720966179128,45.8717859400979,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1803">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690490000D1726</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHASSELAY</SimpleData>
+					<SimpleData name="Adresse">SANVILLE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8721131469641 </north>
+			<south> 45.8719636547159 </south>
+			<east> 4.75856961471817 </east>
+			<west> 4.75788146852659 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.75788146852659,45.871968516346,0 4.75790344132246,45.87197420938071,0 4.75823801129549,45.8720579957385,0 4.75829847078271,45.8720696651867,0 4.7584286576504,45.8720924995075,0 4.75856045115807,45.8721131469641,0 4.75856961471817,45.8720972418603,0 4.75824491882153,45.8720522137722,0 4.75788711598633,45.8719636547159,0 4.75788146852659,45.871968516346,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1804">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690490000D1728</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHASSELAY</SimpleData>
+					<SimpleData name="Adresse">SANVILLE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.872132886195 </north>
+			<south> 45.8720972418603 </south>
+			<east> 4.75870735620139 </east>
+			<west> 4.75856045115807 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.75856961471817,45.8720972418603,0 4.75856045115807,45.8721131469641,0 4.75868692913565,45.872132886195,0 4.75870735620139,45.87211032065859,0 4.75870230981681,45.8721097686837,0 4.75856961471817,45.8720972418603,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1805">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690490000D1729</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHASSELAY</SimpleData>
+					<SimpleData name="Adresse">SANVILLE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8722126039471 </north>
+			<south> 45.8721235287756 </south>
+			<east> 4.75952495326243 </east>
+			<west> 4.75880783730442 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.75952495326243,45.8721820823114,0 4.75880783730442,45.8721235287756,0 4.75887195473958,45.87214072543281,0 4.75899250545003,45.87217271622789,0 4.75931253536716,45.8721967380724,0 4.759514193204,45.8722126039471,0 4.75952495326243,45.8721820823114,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1821">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690490000D1731</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHASSELAY</SimpleData>
+					<SimpleData name="Adresse">SANVILLE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8722959736358 </north>
+			<south> 45.87223220507679 </south>
+			<east> 4.76070110735945 </east>
+			<west> 4.76011009658463 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.76011801606393,45.87223220507679,0 4.76011009658463,45.8722547562365,0 4.76069642929941,45.8722959736358,0 4.76070110735945,45.87228094887139,0 4.76036840793185,45.8722478509013,0 4.76011801606393,45.87223220507679,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1834">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690490000D1747</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHASSELAY</SimpleData>
+					<SimpleData name="Adresse">SANVILLE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8723184227331 </north>
+			<south> 45.87228094887139 </south>
+			<east> 4.76097388920412 </east>
+			<west> 4.76069642929941 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.76070110735945,45.87228094887139,0 4.76069642929941,45.8722959736358,0 4.76097256974825,45.8723184227331,0 4.76097388920412,45.872311286517,0 4.76070110735945,45.87228094887139,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1860">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690490000D1767</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHASSELAY</SimpleData>
+					<SimpleData name="Adresse">SANVILLE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8717587563747 </north>
+			<south> 45.87172491085219 </south>
+			<east> 4.75702606254747 </east>
+			<west> 4.7569058636159 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.7569058636159,45.87172491085219,0 4.75696853402416,45.8717493367878,0 4.75701403421328,45.87175691603069,0 4.75702311880242,45.8717587563747,0 4.75702606254747,45.87174997367391,0 4.7569058636159,45.87172491085219,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1861">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690490000D1769</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHASSELAY</SimpleData>
+					<SimpleData name="Adresse">SANVILLE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8719248683249 </north>
+			<south> 45.87182613162869 </south>
+			<east> 4.75771116235663 </east>
+			<west> 4.75738326699052 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.7573879803399,45.87182613162869,0 4.75738326699052,45.87184007593279,0 4.75747299078123,45.87186372064539,0 4.75771116235663,45.8719248683249,0 4.75770519328138,45.87191559371689,0 4.75765754999392,45.8718974196365,0 4.75756255902848,45.8718703441876,0 4.7573879803399,45.87182613162869,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1999">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690490000D1860</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHASSELAY</SimpleData>
+					<SimpleData name="Adresse">MONTLUZIN</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8717269620338 </north>
+			<south> 45.8716847878429 </south>
+			<east> 4.75504601324613 </east>
+			<west> 4.75435287927048 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.75435720676819,45.8716847878429,0 4.75435287927048,45.8717189920954,0 4.7543757193895,45.871719538273,0 4.75476200815096,45.8717269620338,0 4.75498245899966,45.87172570079879,0 4.75504601324613,45.87172525433811,0 4.75502889212162,45.8716937249762,0 4.75502843959309,45.87169166035959,0 4.75496146865744,45.8716900882212,0 4.75435720676819,45.8716847878429,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2000">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690490000D1862</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHASSELAY</SimpleData>
+					<SimpleData name="Adresse">MONTLUZIN</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8717189920954 </north>
+			<south> 45.8716477540522 </south>
+			<east> 4.75435720676819 </east>
+			<west> 4.75339561116708 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.75340044045731,45.8716477540522,0 4.75339561116708,45.8716824164007,0 4.75357600347349,45.871690606367,0 4.75408145851005,45.8717109551682,0 4.75435287927048,45.8717189920954,0 4.75435720676819,45.8716847878429,0 4.75432277047689,45.8716845117319,0 4.75430081820255,45.87168350140549,0 4.75398949408161,45.87166950841819,0 4.75359414719235,45.8716569984264,0 4.75340044045731,45.8716477540522,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2001">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690490000D1863</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHASSELAY</SimpleData>
+					<SimpleData name="Adresse">MONTLUZIN</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8716824164007 </north>
+			<south> 45.871184515415 </south>
+			<east> 4.75340044045731 </east>
+			<west> 4.75038474628443 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.75038474628443,45.871184515415,0 4.75047936276738,45.8712161962613,0 4.75054520996636,45.871223012588,0 4.75069234085111,45.8712395585117,0 4.75088001885396,45.8712661045233,0 4.7509776609851,45.8712834167396,0 4.75120589497902,45.8713202325215,0 4.75138105762731,45.8713546276971,0 4.75153621606318,45.8713843786982,0 4.7518471116726,45.8714499058815,0 4.75265580587422,45.8716154391132,0 4.75283337601424,45.8716524968752,0 4.75287088521311,45.8716561484944,0 4.75302940810115,45.8716659395086,0 4.75339561116708,45.8716824164007,0 4.75340044045731,45.8716477540522,0 4.75333638802724,45.8716446945319,0 4.75321389086912,45.8716365068229,0 4.75307068747452,45.87162188480449,0 4.75293799780025,45.8716053881822,0 4.7528130408957,45.8715887714791,0 4.75273225182189,45.8715784051849,0 4.75262260578723,45.8715607401864,0 4.75249662406034,45.8715362127454,0 4.75237863860317,45.87151174132651,0 4.7521099505178,45.8714557393354,0 4.75185928851753,45.8714029700868,0 4.75171364106995,45.871372261471,0 4.75158765731843,45.87134764299,0 4.75131301342202,45.8712989371429,0 4.75101220788902,45.87125063596161,0 4.7508714292894,45.8712311097609,0 4.75077231193588,45.87122012530229,0 4.75038474628443,45.871184515415,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2002">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690490000D1865</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHASSELAY</SimpleData>
+					<SimpleData name="Adresse">MONTLUZIN</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8717221066218 </north>
+			<south> 45.8716923406767 </south>
+			<east> 4.75589508066955 </east>
+			<west> 4.75543428667404 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.755441752653,45.8717014543633,0 4.75543428667404,45.8717221066218,0 4.75572935806705,45.87171968489709,0 4.75588683596562,45.8717168781401,0 4.75589508066955,45.8716923406767,0 4.75582058051252,45.8716972810969,0 4.75575833228451,45.8716982481338,0 4.75562266639577,45.8717017066798,0 4.755441752653,45.8717014543633,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2003">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690490000D1867</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHASSELAY</SimpleData>
+					<SimpleData name="Adresse">MONTLUZIN</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.87172525433811 </north>
+			<south> 45.87169166035959 </south>
+			<east> 4.755441752653 </east>
+			<west> 4.75502843959309 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.75502843959309,45.87169166035959,0 4.75502889212162,45.8716937249762,0 4.75504601324613,45.87172525433811,0 4.75543428667404,45.8717221066218,0 4.755441752653,45.8717014543633,0 4.75535987192299,45.87170137504049,0 4.7552239853769,45.8716979010314,0 4.75506418186567,45.8716924564043,0 4.75502843959309,45.87169166035959,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

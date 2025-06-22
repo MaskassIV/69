@@ -1,0 +1,1645 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>IRIGNY_DEPT</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_3">
+		<name>IRIGNY_DEPT</name>
+		<Schema name="IRIGNY_DEPT" id="IRIGNY_DEPT.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="DEPT">
+			<LineStyle>
+				<color>BF63f16c</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C63f16c</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.60">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69100000AI0205</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">IRIGNY</SimpleData>
+					<SimpleData name="Adresse">27, ROUTE NEUVE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.682026589556 </north>
+			<south> 45.6816024248848 </south>
+			<east> 4.82534149783265 </east>
+			<west> 4.82511341404127 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.82511341404127,45.682026589556,0 4.82526952744927,45.68174555572091,0 4.82534149783265,45.681605587714,0 4.82532791733229,45.68160292548411,0 4.82532545928639,45.6816024248848,0 4.82511341404127,45.682026589556,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.68">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69100000AI0211</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">IRIGNY</SimpleData>
+					<SimpleData name="Adresse">4, ROUTE NEUVE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6803492870617 </north>
+			<south> 45.6801488755394 </south>
+			<east> 4.8262330111596 </east>
+			<west> 4.82610875002553 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.8262330111596,45.6801561013495,0 4.82622313532278,45.6801488755394,0 4.82610875002553,45.68034681795349,0 4.82611756942654,45.6803492870617,0 4.8262330111596,45.6801561013495,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.69">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69100000AI0215</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">IRIGNY</SimpleData>
+					<SimpleData name="Adresse">25, ROUTE NEUVE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.681605587714 </north>
+			<south> 45.6814098873139 </south>
+			<east> 4.82543767108485 </east>
+			<west> 4.82532791733229 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.82532791733229,45.68160292548411,0 4.82534149783265,45.681605587714,0 4.82538014657408,45.68153065157549,0 4.82539726453294,45.681496416832,0 4.82543767108485,45.6814124449373,0 4.82542319456816,45.6814098873139,0 4.82532791733229,45.68160292548411,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.422">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69100000AW0102</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">IRIGNY</SimpleData>
+					<SimpleData name="Adresse">19, RTE DE BRIGNAIS</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6733101308323 </north>
+			<south> 45.6732765673436 </south>
+			<east> 4.812054199974 </east>
+			<west> 4.8119431661624 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.81197935246704,45.6732765673436,0 4.81194730068341,45.67330221315461,0 4.8119431661624,45.67330543219949,0 4.812054199974,45.6733101308323,0 4.8120481880214,45.6732834761693,0 4.81197935246704,45.6732765673436,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.447">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69100000AW0103</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">IRIGNY</SimpleData>
+					<SimpleData name="Adresse">CHAMPVILLARD</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.673337507191 </north>
+			<south> 45.6732998928487 </south>
+			<east> 4.81257506333774 </east>
+			<west> 4.81230980094248 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.81231520798235,45.6733237650008,0 4.81257506333774,45.673337507191,0 4.81256938756275,45.67331327908651,0 4.81256909535506,45.6733122029249,0 4.81245933679496,45.6733072140585,0 4.81230980094248,45.6732998928487,0 4.81231520798235,45.6733237650008,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.520">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69100000AC0106</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">IRIGNY</SimpleData>
+					<SimpleData name="Adresse">AU PEAGE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6902227834439 </north>
+			<south> 45.6901787570607 </south>
+			<east> 4.82552061147211 </east>
+			<west> 4.82423183396536 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.82552061147211,45.6901787570607,0 4.82533920535836,45.69018466906311,0 4.82485857262722,45.6901936270416,0 4.82468196448382,45.6901969382289,0 4.82457998163368,45.6901988603113,0 4.82447812722956,45.69020078022091,0 4.82423549710348,45.6902052500606,0 4.82423183396536,45.6902227834439,0 4.82551872853048,45.690199594327,0 4.82552061147211,45.6901787570607,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1756">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69100000AW0017</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">IRIGNY</SimpleData>
+					<SimpleData name="Adresse">9, RTE DE BRIGNAIS</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6733893996116 </north>
+			<south> 45.6733462388392 </south>
+			<east> 4.81343039883455 </east>
+			<west> 4.81316289812726 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.81316289812726,45.6733462388392,0 4.81316862725143,45.6733720873565,0 4.81343039883455,45.6733893996116,0 4.81342481411874,45.67336796231249,0 4.81342391974712,45.6733641936868,0 4.81337653049801,45.673360903534,0 4.81332231169341,45.6733570027539,0 4.81316289812726,45.6733462388392,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1837">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69100000AD0175</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">IRIGNY</SimpleData>
+					<SimpleData name="Adresse">17, RUE D YVOURS</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.691206262528 </north>
+			<south> 45.69069761483129 </south>
+			<east> 4.82732891811822 </east>
+			<west> 4.82710805467165 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.82732891811822,45.6911985134879,0 4.82729519359855,45.6911074567243,0 4.82726023474595,45.6909829129774,0 4.82719040692527,45.69069761483129,0 4.82710805467165,45.6907063365101,0 4.82718667870983,45.69101671234689,0 4.82725655789952,45.691206262528,0 4.82732891811822,45.6911985134879,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2101">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69100000AC0192</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">IRIGNY</SimpleData>
+					<SimpleData name="Adresse">AU PEAGE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6885381867821 </north>
+			<south> 45.688484384859 </south>
+			<east> 4.82660900920402 </east>
+			<west> 4.82655114434495 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.82660813215388,45.6884960470555,0 4.82657189069382,45.688484384859,0 4.82655114434495,45.688521651004,0 4.82660900920402,45.6885381867821,0 4.82660813215388,45.6884960470555,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2117">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69100000AB0193</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">IRIGNY</SimpleData>
+					<SimpleData name="Adresse">26, RUE D YVOURS</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.69061060835101 </north>
+			<south> 45.6902842687578 </south>
+			<east> 4.82696249028521 </east>
+			<west> 4.82616279724389 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.82696249028521,45.69061060835101,0 4.82690909333341,45.69038692344,0 4.82672962869321,45.6902842687578,0 4.82652824078648,45.69028834495469,0 4.82616279724389,45.69029444991719,0 4.82674845933853,45.690344672299,0 4.82678685965622,45.69035161567849,0 4.82681574125741,45.6903660993585,0 4.82684120218895,45.6903820796656,0 4.82686322228293,45.69039505330121,0 4.8268802868434,45.69040585548451,0 4.82689301668803,45.69041771876191,0 4.82690189823953,45.6904336977132,0 4.82691002096456,45.69045004926051,0 4.82691929616863,45.69047016516429,0 4.82692735988482,45.69050029876939,0 4.82696249028521,45.69061060835101,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2118">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69100000AC0193</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">IRIGNY</SimpleData>
+					<SimpleData name="Adresse">AU PEAGE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.688521651004 </north>
+			<south> 45.688206724074 </south>
+			<east> 4.82660813215388 </east>
+			<west> 4.82653098102123 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.82653284876758,45.6885163631683,0 4.82655114434495,45.688521651004,0 4.82657189069382,45.688484384859,0 4.82660813215388,45.6884960470555,0 4.82660287251332,45.6882277161796,0 4.82653098102123,45.688206724074,0 4.82653284876758,45.6885163631683,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2168">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69100000AI0197</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">IRIGNY</SimpleData>
+					<SimpleData name="Adresse">48, ROUTE NEUVE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6831745063075 </north>
+			<south> 45.6830647509614 </south>
+			<east> 4.8246912460729 </east>
+			<west> 4.8246106049829 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.8246106049829,45.6831730716006,0 4.82461656353751,45.6831745063075,0 4.8246912460729,45.6830660201803,0 4.82468619252074,45.6830647509614,0 4.8246106049829,45.6831730716006,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2171">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69100000AV0197</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">IRIGNY</SimpleData>
+					<SimpleData name="Adresse">LES BERTHIERES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.67225805960419 </north>
+			<south> 45.6721554667775 </south>
+			<east> 4.80801568100172 </east>
+			<west> 4.80770117953031 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.80770117953031,45.6722070828906,0 4.80771826199792,45.67225805960419,0 4.80780791921211,45.6722298689849,0 4.807881496407,45.6722049988873,0 4.80794729628206,45.6721819649689,0 4.80801568100172,45.6721554667775,0 4.80770117953031,45.6722070828906,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2194">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69100000AI0199</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">IRIGNY</SimpleData>
+					<SimpleData name="Adresse">LES COTES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6832633577954 </north>
+			<south> 45.6831730716006 </south>
+			<east> 4.82461656353751 </east>
+			<west> 4.8245486384529 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.8246106049829,45.6831730716006,0 4.8245486384529,45.6832618960385,0 4.82455292733444,45.6832633577954,0 4.82458709522876,45.683216146782,0 4.82461656353751,45.6831745063075,0 4.8246106049829,45.6831730716006,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2246">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69100000AI0201</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">IRIGNY</SimpleData>
+					<SimpleData name="Adresse">22, ROUTE NEUVE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.68113687849469 </north>
+			<south> 45.68092689570459 </south>
+			<east> 4.82578943508854 </east>
+			<west> 4.82569131374998 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.82570100258198,45.68113687849469,0 4.82578943508854,45.680927287532,0 4.82578582415481,45.68092689570459,0 4.82569131374998,45.6811353241697,0 4.82570100258198,45.68113687849469,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2271">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69100000AI0203</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">IRIGNY</SimpleData>
+					<SimpleData name="Adresse">20, ROUTE NEUVE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6809136506402 </north>
+			<south> 45.6807264948945 </south>
+			<east> 4.82589553185115 </east>
+			<west> 4.82579295015095 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.82579295015095,45.680913089174,0 4.82579720918167,45.6809136506402,0 4.82589553185115,45.6807273181017,0 4.82589075019858,45.6807264948945,0 4.82579295015095,45.680913089174,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2319">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69100000AI0207</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">IRIGNY</SimpleData>
+					<SimpleData name="Adresse">LES COTES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.68130324938801 </north>
+			<south> 45.6811340586532 </south>
+			<east> 4.82570100258198 </east>
+			<west> 4.82559756936043 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.82559756936043,45.6813007755662,0 4.82561165758951,45.68130324938801,0 4.82570100258198,45.68113687849469,0 4.82569131374998,45.6811353241697,0 4.82568047794032,45.6811340586532,0 4.82559756936043,45.6813007755662,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2343">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69100000AD0209</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">IRIGNY</SimpleData>
+					<SimpleData name="Adresse">LE CHATEAU DYVOURS</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6905127556558 </north>
+			<south> 45.689958340949 </south>
+			<east> 4.82752128979605 </east>
+			<west> 4.82693405428133 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.82751963180829,45.6901085139377,0 4.82752128979605,45.69008867107361,0 4.82747790729161,45.6900398349522,0 4.82724336331024,45.689958340949,0 4.82693405428133,45.6899907398045,0 4.82695675227732,45.6901137710919,0 4.82699973902995,45.6902790776476,0 4.82705899269981,45.6905127556558,0 4.82723996861615,45.6904937873542,0 4.82724083211558,45.690492692477,0 4.82724132511909,45.6904920539722,0 4.82724182109562,45.6904915054917,0 4.82724231409911,45.6904908669869,0 4.82724281007562,45.6904903185065,0 4.82724330307908,45.6904896800017,0 4.82724379905557,45.6904891315213,0 4.82724429205901,45.6904884930165,0 4.82724478803548,45.690487944536,0 4.8272452810389,45.6904873060312,0 4.82724577701535,45.6904867575508,0 4.82724627001875,45.690486119046,0 4.82724676599518,45.6904855705655,0 4.82724725899855,45.6904849320607,0 4.82724775497496,45.6904843835802,0 4.82724811655162,45.6904836571347,0 4.82724861252801,45.69048310865419,0 4.82724910553134,45.6904824701494,0 4.82724972996136,45.6904819195853,0 4.82725022296467,45.6904812810805,0 4.82725071894102,45.6904807326,0 4.82725121491735,45.6904801841196,0 4.82725170792063,45.6904795456147,0 4.82725233235059,45.6904789950506,0 4.8272528283269,45.6904784465701,0 4.82725332133014,45.69047780806531,0 4.82725381730642,45.6904772595848,0 4.82725443876329,45.69047661899641,0 4.82725493473955,45.69047607051591,0 4.8272554307158,45.6904755220354,0 4.82725605514568,45.69047497147131,0 4.82725654814886,45.6904743329664,0 4.82725704412507,45.69047378448591,0 4.82725754010128,45.69047323600541,0 4.82725803310443,45.6904725975005,0 4.82725852908062,45.69047204902001,0 4.82725915351043,45.6904714984559,0 4.82725964948659,45.6904709499754,0 4.82726027094332,45.6904703093869,0 4.82726076691947,45.6904697609064,0 4.82726139134923,45.6904692103423,0 4.82726188732535,45.6904686618617,0 4.82726250878203,45.6904680212732,0 4.82726300178507,45.69046738276839,0 4.82726362621478,45.69046683220419,0 4.82726412219086,45.69046628372369,0 4.82726474662055,45.6904657331595,0 4.82726524259661,45.690465184679,0 4.82726586702628,45.6904646341148,0 4.82726649145593,45.6904640835506,0 4.82726698445889,45.6904634450458,0 4.82726748043491,45.6904628965652,0 4.82726810486453,45.690462346001,0 4.82726860084052,45.6904617975205,0 4.82726922527012,45.6904612469563,0 4.8272698496997,45.6904606963921,0 4.82727034567566,45.69046014791149,0 4.82727097010522,45.69045959734731,0 4.82727159453477,45.6904590467831,0 4.8272720905107,45.6904584983026,0 4.82727271494022,45.6904579477384,0 4.82727333936973,45.6904573971742,0 4.82727396379923,45.6904568466099,0 4.82727458822871,45.6904562960457,0 4.82727508420459,45.6904557475652,0 4.82727570863405,45.69045519700089,0 4.8272763330635,45.69045464643671,0 4.82727695451985,45.6904540058481,0 4.82727757894927,45.69045345528391,0 4.82727820635177,45.690452994744,0 4.827278573874,45.6904524483471,0 4.82727919830339,45.6904518977828,0 4.82727982273276,45.69045134721859,0 4.82728044716213,45.6904507966544,0 4.82728107159148,45.69045024609011,0 4.82728169602082,45.6904496955258,0 4.82728232342324,45.69044923498589,0 4.82728294785255,45.6904486844217,0 4.82728357228186,45.69044813385741,0 4.82728419671115,45.6904475832932,0 4.82728482114042,45.6904470327289,0 4.82728544854279,45.690446572189,0 4.82728607297204,45.69044602162469,0 4.82728669740129,45.6904454710604,0 4.82728732183051,45.6904449204961,0 4.82728794923283,45.69044445995619,0 4.82728870211561,45.69044390730819,0 4.8272893265448,45.690443356744,0 4.82728995394708,45.690442896204,0 4.82729044992269,45.69044234772329,0 4.82750661049727,45.6902629294307,0 4.82751963180829,45.6901085139377,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2344">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69100000AI0209</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">IRIGNY</SimpleData>
+					<SimpleData name="Adresse">46, ROUTE NEUVE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6830660201803 </north>
+			<south> 45.6830268009063 </south>
+			<east> 4.82471025664792 </east>
+			<west> 4.82468619252074 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.8246912460729,45.6830660201803,0 4.8247088414754,45.6830384431788,0 4.82471025664792,45.6830268009063,0 4.82468619252074,45.6830647509614,0 4.8246912460729,45.6830660201803,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2373">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69100000AD0211</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">IRIGNY</SimpleData>
+					<SimpleData name="Adresse">LE CHATEAU DYVOURS</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6907063365101 </north>
+			<south> 45.6904937873542 </south>
+			<east> 4.82723996861615 </east>
+			<west> 4.82705899269981 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.82719040692527,45.69069761483129,0 4.82719009353076,45.6906959085357,0 4.82718980094697,45.6906948324106,0 4.82718963681734,45.690693754202,0 4.82718947268772,45.6906926759933,0 4.82718918307691,45.6906916898926,0 4.8271890189473,45.69069061168389,0 4.82718872636356,45.6906895355588,0 4.82718843377983,45.69068845943371,0 4.82718826965024,45.6906873812251,0 4.82718810552066,45.6906863030165,0 4.82718794139109,45.6906852248078,0 4.82718777726152,45.6906841465992,0 4.82718761313196,45.69068306839049,0 4.82718745197536,45.6906820802062,0 4.82718728784582,45.69068100199761,0 4.82718699526216,45.6906799258725,0 4.82718683113263,45.6906788476638,0 4.8271866670031,45.69067776945521,0 4.82718650287358,45.6906766912465,0 4.82718633874407,45.6906756130379,0 4.82718630306867,45.6906745327457,0 4.82718613893916,45.6906734545371,0 4.82718597480967,45.6906723763284,0 4.82718593913427,45.6906712960363,0 4.82718577500479,45.6906702178276,0 4.82718548242121,45.6906691417025,0 4.82718544971878,45.69066815143471,0 4.8271854140434,45.6906670711425,0 4.82718524991394,45.69066599293391,0 4.82718521423856,45.6906649126417,0 4.82718505010911,45.69066383443311,0 4.82718501443374,45.6906627541409,0 4.82718497875837,45.69066167384871,0 4.82718494308301,45.6906605935566,0 4.82718477895357,45.69065951534791,0 4.82718461482414,45.6906584371393,0 4.82718457914878,45.6906573568471,0 4.82718454347343,45.6906562765549,0 4.82718450779807,45.69065519626271,0 4.82718447212272,45.6906541159706,0 4.82718443942031,45.6906531257028,0 4.82718440374496,45.6906520454106,0 4.82718449652366,45.6906509630349,0 4.82718446084831,45.6906498827427,0 4.82718429969186,45.6906488945584,0 4.82718426401652,45.69064781426621,0 4.82718435679521,45.6906467318905,0 4.82718432111986,45.6906456515984,0 4.82718428544452,45.6906445713062,0 4.82718437822321,45.6906434889305,0 4.82718434254787,45.6906424086383,0 4.82718443532655,45.6906413262627,0 4.82718439965121,45.69064024597051,0 4.82718449242989,45.6906391635948,0 4.82718445675454,45.6906380833026,0 4.8271844210792,45.6906370030104,0 4.82718451385788,45.6906359206348,0 4.82718460663655,45.69063483825911,0 4.82718469941521,45.6906337558834,0 4.82718479516682,45.69063276353201,0 4.82718475949148,45.6906316832398,0 4.82718485227014,45.6906306008641,0 4.82718494504879,45.6906295184884,0 4.82718490937345,45.6906284381963,0 4.8271850021521,45.69062735582061,0 4.82718522338473,45.6906262713614,0 4.82718531616338,45.69062518898569,0 4.82718540894201,45.69062410661001,0 4.82718550172064,45.6906230242343,0 4.82718559747222,45.6906220318829,0 4.82718581870482,45.6906209474237,0 4.82718591148345,45.69061986504799,0 4.82718600426206,45.6906187826723,0 4.82718609704068,45.6906177002966,0 4.82718618981928,45.69061661792091,0 4.82718641105186,45.6906155334617,0 4.82718650383046,45.690614451086,0 4.82718672803596,45.6906134566511,0 4.82718682081455,45.6906123742754,0 4.82718704204709,45.6906112898162,0 4.82718726327963,45.690610205357,0 4.82718748451215,45.6906091208977,0 4.82718758026367,45.6906081285464,0 4.82718767304223,45.6906070461707,0 4.82718789427474,45.69060596171141,0 4.82718811550723,45.6906048772522,0 4.82718833673972,45.690603792793,0 4.82718856094515,45.6906027983581,0 4.82718878217762,45.6906017138989,0 4.82718900341008,45.6906006294397,0 4.82718921869663,45.6905993649317,0 4.8271895624371,45.6905980983403,0 4.82718977772363,45.6905968338323,0 4.82718999301015,45.6905955693244,0 4.82719033675058,45.690594302733,0 4.82719068049099,45.6905930361415,0 4.82719102125843,45.6905916795257,0 4.82719136499881,45.6905904129342,0 4.82719158028527,45.6905891484263,0 4.82719192402562,45.69058788183479,0 4.82719226776595,45.6905866152434,0 4.82719261150627,45.6905853486519,0 4.82719295524658,45.6905840820604,0 4.82719329898686,45.690582815469,0 4.82719364272714,45.69058154887751,0 4.82719411492127,45.6905802802025,0 4.82719445866151,45.690579013611,0 4.82719493085562,45.69057774493599,0 4.82719514614194,45.6905764804281,0 4.82719562130896,45.6905753017774,0 4.82719596504914,45.6905740351859,0 4.82719643724316,45.6905727665109,0 4.82719690943716,45.6905714978359,0 4.82719738163114,45.6905702291609,0 4.82719772834421,45.6905690525937,0 4.82719820053815,45.6905677839187,0 4.82719854427821,45.69056651732719,0 4.82719901647211,45.6905652486522,0 4.82719962009281,45.690564067918,0 4.82720009228666,45.69056279924289,0 4.82720056448049,45.6905615305679,0 4.82720103964727,45.6905603519172,0 4.82720151184106,45.6905590832422,0 4.82720211248867,45.6905578124836,0 4.82720258765538,45.6905566338329,0 4.8272030598491,45.6905553651579,0 4.82720353501578,45.6905541865072,0 4.82720413566328,45.6905529157486,0 4.82720473928373,45.6905517350143,0 4.82720520850438,45.69055037631491,0 4.82720581212478,45.69054919558069,0 4.82720641277218,45.690547924822,0 4.82720701639252,45.6905467440878,0 4.82720748858606,45.6905454754127,0 4.82720809220636,45.6905442946785,0 4.82720869582662,45.6905431139442,0 4.82720929647389,45.69054184318561,0 4.82720990306709,45.6905407524756,0 4.8272105037143,45.690539481717,0 4.82721123578825,45.6905382988991,0 4.82721183940838,45.6905371181649,0 4.8272124430285,45.6905359374306,0 4.8272130436756,45.6905346666719,0 4.82721364729565,45.6905334859376,0 4.82721437936946,45.69053230311981,0 4.82721498298946,45.69053112238549,0 4.82721571506321,45.69052993956759,0 4.82721644713692,45.6905287567497,0 4.82721705075685,45.6905275760154,0 4.82721777985751,45.69052630317319,0 4.82721838347737,45.6905251224388,0 4.82721911257797,45.6905238495966,0 4.82721984465153,45.6905226667787,0 4.82722057672506,45.6905214839608,0 4.82722131177156,45.6905203911672,0 4.82722204384503,45.6905192083493,0 4.82722277591847,45.6905180255314,0 4.82722363644561,45.6905168406299,0 4.82722436851898,45.69051565781201,0 4.82722497213859,45.69051447707761,0 4.82722583266563,45.6905132921761,0 4.82722656771192,45.6905121993825,0 4.82722742823889,45.690511014481,0 4.8272281603121,45.6905098316631,0 4.827229020839,45.6905086467615,0 4.82722988433888,45.6905075518843,0 4.82723061641199,45.6905063690663,0 4.8272314799118,45.6905052741891,0 4.82723221198485,45.6905040913712,0 4.82723307548459,45.690502996494,0 4.82723393303826,45.690501721568,0 4.82723479653793,45.6905006266908,0 4.82723565706455,45.6904994417892,0 4.82723652056415,45.690498346912,0 4.82723738109069,45.6904971620104,0 4.82723824459022,45.6904960671331,0 4.82723910808972,45.6904949722558,0 4.82723996861615,45.6904937873542,0 4.82705899269981,45.6905127556558,0 4.82710805467165,45.6907063365101,0 4.82719040692527,45.69069761483129,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2400">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69100000AD0213</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">IRIGNY</SimpleData>
+					<SimpleData name="Adresse">LE CHATEAU DYVOURS</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6916758989539 </north>
+			<south> 45.6911960886982 </south>
+			<east> 4.82752384798677 </east>
+			<west> 4.82725655789952 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.82732891811822,45.6911985134879,0 4.82725655789952,45.691206262528,0 4.82728756350484,45.69128115034309,0 4.82743992194304,45.6916758989539,0 4.82752384798677,45.6916603060069,0 4.82735068713696,45.6911960886982,0 4.82732891811822,45.6911985134879,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2402">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69100000AI0213</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">IRIGNY</SimpleData>
+					<SimpleData name="Adresse">9003, COTE DES VACHES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6809277693837 </north>
+			<south> 45.680913089174 </south>
+			<east> 4.82580133978098 </east>
+			<west> 4.82578582415481 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.82579295015095,45.680913089174,0 4.82578582415481,45.68092689570459,0 4.82578943508854,45.680927287532,0 4.82579304899248,45.6809277693837,0 4.82580133978098,45.6809142141881,0 4.82579720918167,45.6809136506402,0 4.82579295015095,45.680913089174,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2420">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69100000AD0215</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">IRIGNY</SimpleData>
+					<SimpleData name="Adresse">LE CHATEAU DYVOURS</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6919607247473 </north>
+			<south> 45.6916744527485 </south>
+			<east> 4.82763099967829 </east>
+			<west> 4.82744483419713 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.82745790460949,45.6917222648359,0 4.82749329081539,45.6917157459999,0 4.82750250935159,45.69173802452579,0 4.82746648382311,45.69174464380819,0 4.82754996529686,45.6919607247473,0 4.82763099967829,45.6919470701621,0 4.82763071302679,45.6919461740867,0 4.82762986199357,45.6919437559336,0 4.82762859882571,45.6919405338135,0 4.82762733863172,45.6919374017178,0 4.82762620392116,45.69193417751361,0 4.82762494372746,45.6919310454179,0 4.82762380901717,45.6919278212137,0 4.82762255179747,45.6919247791422,0 4.82762128863047,45.69192155702209,0 4.8276201568943,45.6919184228422,0 4.82761902218455,45.69191519863801,0 4.82761776199168,45.6919120665421,0 4.82761649882525,45.6919088444219,0 4.82761536708962,45.691905710242,0 4.8276142323804,45.6919024860378,0 4.82761284373117,45.6918993560259,0 4.82761170902223,45.6918961318216,0 4.82761057728713,45.6918929976416,0 4.82760931412155,45.69188977552129,0 4.82760805392981,45.6918866434254,0 4.82760692219511,45.69188350924541,0 4.82760565902996,45.6918802871251,0 4.82760452729552,45.69187715294511,0 4.82760339556122,45.69187401876511,0 4.82760213537018,45.691870886669,0 4.82760087220559,45.6918676645486,0 4.82759974047169,45.6918645303686,0 4.82759860576423,45.6918613061642,0 4.82759734557374,45.6918581740681,0 4.82759608240973,45.6918549519477,0 4.82759495067635,45.6918518177676,0 4.82759368751262,45.6918485956471,0 4.82759255577951,45.691845461467,0 4.82759142404653,45.6918423272869,0 4.82759003242643,45.6918391072504,0 4.82758890069372,45.6918359730702,0 4.82758776598748,45.69183274886569,0 4.82758650579826,45.6918296167695,0 4.82758537109229,45.691826392565,0 4.82758423936011,45.6918232583848,0 4.8275831046544,45.6918200341803,0 4.82758171303534,45.6918168141436,0 4.82758058130356,45.6918136799634,0 4.82757944659826,45.6918104557588,0 4.82757818641002,45.6918073236626,0 4.82757705467864,45.6918041894823,0 4.82757592294738,45.691801055302,0 4.82757465978591,45.6917978331814,0 4.82757352805492,45.69179469900109,0 4.82757239335042,45.6917914747964,0 4.8275710017327,45.69178825475969,0 4.82756987000211,45.6917851205793,0 4.82756873529802,45.6917818963747,0 4.82756760356769,45.6917787621943,0 4.82756634040722,45.6917755400736,0 4.82756520867716,45.6917724058932,0 4.8275640739736,45.6917691816885,0 4.82756281081355,45.69176595956769,0 4.8275616820575,45.69176291541161,0 4.82756054735434,45.6917596912068,0 4.82755928716833,45.6917565591104,0 4.82755828389564,45.69175342284601,0 4.82755715216649,45.69175028866551,0 4.82755588900727,45.6917470665447,0 4.82755475430478,45.6917438423398,0 4.82755362257602,45.6917407081594,0 4.82755235941723,45.6917374860385,0 4.82755109923218,45.6917343539419,0 4.82754996453022,45.691731129737,0 4.8275488298284,45.6917279055322,0 4.82754756964377,45.6917247734356,0 4.82754643791581,45.691721639255,0 4.82754530618798,45.6917185050744,0 4.82754404303018,45.6917152829535,0 4.82754291130261,45.6917121487729,0 4.82754177660158,45.6917089245679,0 4.82754051344421,45.6917057024469,0 4.82753938171703,45.69170256826631,0 4.82753824701641,45.6916993440613,0 4.8275371152895,45.6916962098807,0 4.82753585213268,45.69169298775961,0 4.82753484588891,45.6916897614707,0 4.82753371416239,45.69168662729,0 4.82753245100599,45.6916834051689,0 4.82753132225329,45.6916803610126,0 4.8275301875536,45.6916771368075,0 4.8275290706954,45.6916744527485,0 4.82744483419713,45.6916884294289,0 4.82745790460949,45.6917222648359,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2452">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69100000AD0217</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">IRIGNY</SimpleData>
+					<SimpleData name="Adresse">LE CHATEAU DYVOURS</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.692375938588 </north>
+			<south> 45.6919470701621 </south>
+			<east> 4.82776068788433 </east>
+			<west> 4.82754996529686 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.82763099967829,45.6919470701621,0 4.82754996529686,45.6919607247473,0 4.82757988994832,45.6920378818502,0 4.82761629941591,45.692120698387,0 4.8276844956704,45.692375938588,0 4.82776068788433,45.6923635334212,0 4.82776011159885,45.6923616512467,0 4.82775952044355,45.6923593189505,0 4.82775906072026,45.6923570745945,0 4.82775860099701,45.6923548302384,0 4.82775788435784,45.6923525900507,0 4.8277574216607,45.69235025567029,0 4.82775696193757,45.6923480113143,0 4.82775637375651,45.6923457690424,0 4.82775591403346,45.69234352468641,0 4.82775519442058,45.6923411944743,0 4.82775473469761,45.6923389501183,0 4.82775414651674,45.6923367078464,0 4.82775368679386,45.6923344634903,0 4.82775296718119,45.6923321332783,0 4.82775250745839,45.69232988892221,0 4.82775191927771,45.6923276466503,0 4.82775145955499,45.69232540229419,0 4.82775087137439,45.6923231600223,0 4.82775028021989,45.6923208277261,0 4.8277496920394,45.6923185854542,0 4.82774910385895,45.6923163431823,0 4.82774864413644,45.6923140988262,0 4.82774792452424,45.69231176861409,0 4.82774746480182,45.692309524258,0 4.82774687959551,45.6923073720104,0 4.82774629141529,45.6923051297385,0 4.82774583169299,45.69230288538239,0 4.82774511208106,45.6923005551703,0 4.82774452390099,45.6922983128984,0 4.82774393572096,45.69229607062649,0 4.82774347599883,45.6922938262704,0 4.8277428878189,45.69229158399839,0 4.82774216820724,45.6922892537863,0 4.82774158002741,45.6922870115144,0 4.82774112030545,45.6922847671583,0 4.8277405321257,45.6922825248864,0 4.8277398154882,45.6922802846986,0 4.82773922433462,45.6922779524023,0 4.82773863615503,45.6922757101303,0 4.82773804797549,45.69227346785829,0 4.82773745979599,45.69227122558641,0 4.82773687161654,45.6922689833144,0 4.82773628343714,45.6922667410425,0 4.82773569228386,45.6922644087461,0 4.82773510410455,45.69226216647419,0 4.82773438746753,45.6922599262864,0 4.82773379928833,45.6922576840144,0 4.82773321110917,45.6922554417424,0 4.82773262293006,45.6922531994704,0 4.82773203177708,45.6922508671741,0 4.82773131811425,45.69224871701061,0 4.82773072993529,45.6922464747386,0 4.82773014175637,45.6922442324666,0 4.82772955655143,45.69224208021901,0 4.82772883991489,45.6922398400311,0 4.82772824876221,45.69223750773481,0 4.82772766058349,45.6922352654628,0 4.82772707240482,45.6922330231908,0 4.8277264842262,45.6922307809187,0 4.82772576758993,45.69222854073089,0 4.82772517941141,45.6922262984589,0 4.82772459123294,45.6922240561868,0 4.82772387162293,45.6922217259746,0 4.82772315498689,45.6922194857867,0 4.82772256680857,45.6922172435147,0 4.82772197863029,45.69221500124269,0 4.82772126199442,45.6922127610548,0 4.82772067381624,45.6922105187828,0 4.82771995718048,45.6922082785948,0 4.82771924054477,45.692206038407,0 4.82771865236675,45.6922037961349,0 4.82771806121488,45.6922014638385,0 4.82771734457934,45.69219922365059,0 4.82771662794385,45.6921969834627,0 4.82771604273993,45.6921948312149,0 4.82771532610455,45.692192591027,0 4.82771473792683,45.69219034875489,0 4.82771402129157,45.692188108567,0 4.82771330465636,45.69218586837909,0 4.8277127164788,45.69218362610701,0 4.8277119998437,45.6921813859191,0 4.82771141166624,45.692179143647,0 4.8277105635998,45.69217681551881,0 4.82770997542244,45.6921745732467,0 4.82770925878757,45.6921723330587,0 4.82770867061032,45.6921700907867,0 4.82770782551801,45.6921678526828,0 4.82770723734086,45.6921656104107,0 4.82770652070622,45.69216337022269,0 4.82770579515,45.69216085996171,0 4.82770506959386,45.6921583497007,0 4.82770409009661,45.69215593363231,0 4.82770336454061,45.6921534233712,0 4.82770263898467,45.6921509131102,0 4.8277019134288,45.6921484028491,0 4.82770093393186,45.6921459867807,0 4.82770021135,45.692143566544,0 4.82769948579434,45.6921410562829,0 4.82769863475512,45.6921386381303,0 4.82769778074211,45.6921361299534,0 4.82769705518665,45.6921336196923,0 4.8276962011738,45.6921311115153,0 4.82769547859234,45.6921286912786,0 4.82769462457963,45.69212618310161,0 4.827693770567,45.6921236749247,0 4.82769304798574,45.6921212546879,0 4.82769219694711,45.6921188365353,0 4.8276913429347,45.6921163283583,0 4.82769048892237,45.6921138201813,0 4.82768976634138,45.69211139994451,0 4.8276889123292,45.6921088917675,0 4.82768805831709,45.69210638359049,0 4.82768720430507,45.6921038754135,0 4.82768648172435,45.6921014551767,0 4.82768562771247,45.6920989469996,0 4.82768490513189,45.6920965267629,0 4.82768392563661,45.69209411069429,0 4.82768307162496,45.6920916025172,0 4.82768234607076,45.692089092256,0 4.82768149503309,45.6920866741033,0 4.82768064102166,45.6920841659262,0 4.82767978701031,45.6920816577492,0 4.82767893597287,45.6920792395964,0 4.82767821041901,45.69207672933531,0 4.82767722795055,45.6920742232423,0 4.82767637691334,45.6920718050895,0 4.82767552290237,45.69206929691241,0 4.8276747973488,45.6920667866512,0 4.82767381785449,45.6920643705825,0 4.82767296384376,45.6920618624054,0 4.8276721098331,45.6920593542283,0 4.82767125879634,45.6920569360755,0 4.82767040478583,45.6920544278983,0 4.82766955672303,45.6920520997699,0 4.82766870271267,45.6920495915927,0 4.8276678487024,45.6920470834156,0 4.82766686920874,45.6920446673468,0 4.82766601519863,45.6920421591696,0 4.82766516118859,45.6920396509925,0 4.82766431015243,45.6920372328396,0 4.8276633276853,45.6920347267465,0 4.8276624766493,45.69203230859371,0 4.82766175109681,45.6920297983324,0 4.82766089708715,45.6920272901552,0 4.82766004605137,45.69202487200229,0 4.82765893512744,45.6920223679932,0 4.82765808409182,45.69201994984029,0 4.82765723008248,45.6920174416631,0 4.82765637607322,45.69201493348591,0 4.82765539658064,45.692012517417,0 4.82765454257154,45.6920100092398,0 4.82765369451008,45.69200768111121,0 4.82765284050113,45.6920051729339,0 4.82765186100887,45.6920027568651,0 4.82765100700008,45.6920002486878,0 4.82765002750799,45.6919978326189,0 4.82764917647314,45.69199541446591,0 4.82764819400744,45.6919929083727,0 4.82764734297274,45.6919904902197,0 4.82764661742148,45.6919879799584,0 4.82764563792979,45.6919855638895,0 4.82764465546443,45.6919830577962,0 4.82764380443004,45.6919806396432,0 4.82764295042196,45.6919781314659,0 4.82764197093061,45.6919757153969,0 4.82764098846558,45.6919732093036,0 4.8276401374315,45.6919707911506,0 4.82763915496665,45.69196828505729,0 4.82763830393272,45.6919658669043,0 4.82763745289887,45.6919634487513,0 4.8276363419772,45.691960944742,0 4.82763549094351,45.6919585265889,0 4.82763450847908,45.6919560204956,0 4.82763365744555,45.6919536023425,0 4.82763254652424,45.6919510983332,0 4.82763169549087,45.69194868018009,0 4.82763099967829,45.6919470701621,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2481">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69100000AD0219</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">IRIGNY</SimpleData>
+					<SimpleData name="Adresse">LE CHATEAU DYVOURS</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6925926087333 </north>
+			<south> 45.6923635334212 </south>
+			<east> 4.82781118082436 </east>
+			<west> 4.8276844956704 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.8276844956704,45.692375938588,0 4.82770976424757,45.69248721864601,0 4.82772361193552,45.69257958860639,0 4.82775386040501,45.6925926087333,0 4.82781118082436,45.6925847431329,0 4.82781101965109,45.6925837549494,0 4.82781085847782,45.6925827667659,0 4.82781056884605,45.6925817806666,0 4.82781041064686,45.6925808825074,0 4.82781024947361,45.6925798943238,0 4.82780995984187,45.6925789082245,0 4.82780967021013,45.6925779221252,0 4.8278095090369,45.69257693394169,0 4.82780934786368,45.6925759457581,0 4.82780918669047,45.6925749575746,0 4.82780889705877,45.6925739714753,0 4.82780873588556,45.6925729832917,0 4.82780857471237,45.6925719951082,0 4.82780841353918,45.6925710069247,0 4.82780812390751,45.6925700208254,0 4.82780796273433,45.69256903264181,0 4.82780767310268,45.6925680465425,0 4.82780751192952,45.692567058359,0 4.82780722229789,45.6925660722597,0 4.82780706112474,45.6925650840761,0 4.8278068999516,45.69256409589261,0 4.82780661032,45.6925631097933,0 4.82780644914687,45.6925621216097,0 4.82780628797374,45.6925611334262,0 4.82780612680062,45.69256014524261,0 4.82780583716905,45.69255915914331,0 4.82780554456344,45.69255808301969,0 4.82780538339034,45.6925570948361,0 4.8278050937588,45.69255610873681,0 4.82780493258572,45.6925551205533,0 4.82780477141264,45.6925541323697,0 4.82780461023957,45.6925531441862,0 4.82780432060807,45.6925521580869,0 4.82780415943501,45.6925511699033,0 4.82780399826196,45.6925501817198,0 4.82780370863048,45.6925491956204,0 4.82780341899901,45.69254820952109,0 4.82780325782598,45.6925472213376,0 4.82780296819453,45.6925462352383,0 4.82780280702152,45.6925452470547,0 4.82780264584851,45.6925442588712,0 4.82780235621708,45.69254327277189,0 4.82780219504409,45.6925422845883,0 4.8278020338711,45.6925412964047,0 4.8278017442397,45.6925403103054,0 4.82780158306672,45.6925393221219,0 4.82780142189375,45.6925383339383,0 4.82780100380398,45.69253734992319,0 4.82780084263102,45.6925363617397,0 4.82780068145807,45.6925353735561,0 4.82780039182673,45.6925343874568,0 4.8278002306538,45.69253339927329,0 4.82780006948087,45.6925324110897,0 4.82779977984955,45.6925314249904,0 4.82779961867664,45.6925304368068,0 4.82779945750373,45.6925294486233,0 4.82779916787244,45.692528462524,0 4.82779887824116,45.69252747642461,0 4.82779871706827,45.6925264882411,0 4.82779842743701,45.6925255021417,0 4.82779839472251,45.692524511874,0 4.82779823354964,45.6925235236904,0 4.82779794391841,45.6925225375911,0 4.82779778274555,45.6925215494075,0 4.82779749311433,45.69252056330819,0 4.82779733194149,45.6925195751247,0 4.82779717076865,45.6925185869411,0 4.82779688113746,45.6925176008418,0 4.82779659150628,45.6925166147424,0 4.82779643033346,45.69251562655889,0 4.8277961407023,45.69251464045949,0 4.8277959795295,45.692513652276,0 4.82779568989835,45.6925126661767,0 4.82779552872557,45.6925116779931,0 4.82779536755278,45.6925106898095,0 4.82779507792167,45.69250970371019,0 4.8277949167489,45.6925087155266,0 4.82779475855017,45.69250781736741,0 4.82779434046075,45.6925068333523,0 4.827794179288,45.6925058451688,0 4.82779388965693,45.69250485906939,0 4.8277937284842,45.6925038708859,0 4.82779343885314,45.6925028847865,0 4.82779327768042,45.692501896603,0 4.82779311650771,45.6925009084194,0 4.82779282687668,45.6924999223201,0 4.82779266570398,45.6924989341365,0 4.82779237607298,45.6924979480372,0 4.82779208644198,45.6924969619378,0 4.82779177896679,45.6924954356924,0 4.82779147446566,45.69249399947141,0 4.8277910385322,45.6924924753102,0 4.82779073105707,45.6924909490648,0 4.82779042358196,45.6924894228194,0 4.82779011908089,45.69248798659829,0 4.82778955468923,45.6924864645213,0 4.82778924721417,45.6924849382759,0 4.82778894568719,45.6924835920792,0 4.82778863821217,45.6924820658338,0 4.82778820227888,45.6924805416726,0 4.82778789777792,45.6924791054515,0 4.82778759030295,45.6924775792061,0 4.82778715436974,45.6924760550449,0 4.82778671843654,45.69247453088371,0 4.82778641393565,45.6924730946626,0 4.82778610646076,45.69247156841719,0 4.82778579898588,45.69247004217181,0 4.82778549448504,45.6924686059507,0 4.82778505855195,45.6924670817895,0 4.82778462261888,45.6924655576283,0 4.82778431514408,45.6924640313829,0 4.82778401064331,45.69246259516181,0 4.82778357471031,45.69246107100059,0 4.82778326723556,45.69245954475521,0 4.82778296273484,45.6924581085341,0 4.82778265526012,45.69245658228869,0 4.82778209086899,45.6924550602117,0 4.82778178636833,45.69245362399059,0 4.82778147889367,45.69245209774521,0 4.82778117141902,45.6924505714997,0 4.8277808639444,45.6924490452543,0 4.8277804309856,45.6924476111174,0 4.82778012351101,45.692446084872,0 4.82777968757825,45.6924445607108,0 4.82777938307771,45.6924431244897,0 4.82777894714499,45.6924416003285,0 4.82777864264448,45.6924401641074,0 4.82777833516998,45.6924386378619,0 4.82777803066951,45.6924372016408,0 4.82777759473687,45.6924356774796,0 4.82777715880426,45.6924341533184,0 4.82777685430384,45.6924327170973,0 4.82777654682943,45.6924311908518,0 4.82777623935504,45.6924296646064,0 4.82777580639652,45.6924282304695,0 4.82777549892216,45.6924267042241,0 4.82777519144782,45.6924251779786,0 4.82777475551536,45.69242365381741,0 4.82777432255692,45.6924222196805,0 4.82777401508264,45.692420693435,0 4.82777370760838,45.6924191671896,0 4.82777340310813,45.6924177309685,0 4.8277730956339,45.6924162047231,0 4.82777253124345,45.692414682646,0 4.82777222376926,45.6924131564006,0 4.82777191926908,45.6924117201795,0 4.82777161179493,45.69241019393401,0 4.82777117586268,45.6924086697727,0 4.82777087136256,45.6924072335516,0 4.82777056388846,45.6924057073062,0 4.82777012795627,45.6924041831449,0 4.8277698234562,45.6924027469238,0 4.82776938752407,45.6924012227626,0 4.82776908005004,45.6923996965171,0 4.82776877257603,45.6923981702717,0 4.82776846807602,45.6923967340505,0 4.82776803214397,45.6923952098893,0 4.82776759621194,45.69239368572801,0 4.82776729171199,45.6923922495069,0 4.82776698423807,45.69239072326139,0 4.82776667676417,45.69238919701601,0 4.82776624083222,45.69238767285469,0 4.82776593633234,45.6923862366336,0 4.82776562885849,45.69238471038809,0 4.82776519292661,45.6923831862268,0 4.82776488842679,45.6923817500057,0 4.82776445249495,45.69238022584451,0 4.82776414502117,45.692378699599,0 4.8277638405214,45.69237726337789,0 4.82776353304766,45.6923757371324,0 4.82776310008988,45.6923743029955,0 4.82776266415816,45.6923727788342,0 4.82776235965845,45.69237134261309,0 4.82776205218478,45.69236981636761,0 4.82776174471113,45.6923682901221,0 4.82776131175346,45.6923668559852,0 4.82776100427985,45.69236532973969,0 4.82776068788433,45.6923635334212,0 4.8276844956704,45.692375938588,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2483">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69100000AI0219</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">IRIGNY</SimpleData>
+					<SimpleData name="Adresse">26, ROUTE NEUVE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6815483488782 </north>
+			<south> 45.6814271739855 </south>
+			<east> 4.82554590349836 </east>
+			<west> 4.82547196650635 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.82547196650635,45.6815483488782,0 4.82554590349836,45.681429065523,0 4.82553478998074,45.6814271739855,0 4.82547196650635,45.6815483488782,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2509">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69100000AI0221</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">IRIGNY</SimpleData>
+					<SimpleData name="Adresse">52, ROUTE NEUVE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.683380984144 </north>
+			<south> 45.6832618960385 </south>
+			<east> 4.82455292733444 </east>
+			<west> 4.82447441921152 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.82455292733444,45.6832633577954,0 4.8245486384529,45.6832618960385,0 4.82447441921152,45.6833805527461,0 4.82447558998776,45.683380984144,0 4.82455292733444,45.6832633577954,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2529">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69100000AD0223</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">IRIGNY</SimpleData>
+					<SimpleData name="Adresse">LE CHATEAU DYVOURS</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.692830076689 </north>
+			<south> 45.69267855152921 </south>
+			<east> 4.82779354637225 </east>
+			<west> 4.82774526359934 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.82776968083716,45.69267855152921,0 4.82774526359934,45.69268642371259,0 4.82776826017616,45.692830076689,0 4.82779354637225,45.6928251627985,0 4.82776968083716,45.69267855152921,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2531">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69100000AI0223</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">IRIGNY</SimpleData>
+					<SimpleData name="Adresse">16, ROUTE NEUVE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.68054383710759 </north>
+			<south> 45.68034681795349 </south>
+			<east> 4.82611756942654 </east>
+			<west> 4.82598747094299 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.82611756942654,45.6803492870617,0 4.82610875002553,45.68034681795349,0 4.82598747094299,45.6805422599043,0 4.82599574694248,45.68054383710759,0 4.82611756942654,45.6803492870617,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2550">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69100000AI0225</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">IRIGNY</SimpleData>
+					<SimpleData name="Adresse">2, ROUTE NEUVE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6801561013495 </north>
+			<south> 45.6793497199722 </south>
+			<east> 4.8264773728002 </east>
+			<west> 4.82622313532278 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.8262330111596,45.6801561013495,0 4.8263580767196,45.6799547430009,0 4.82639172501683,45.6799035766309,0 4.82642741824227,45.67984039744929,0 4.82645250527347,45.67977901155781,0 4.82646936159455,45.6797135257304,0 4.8264773728002,45.67965647000901,0 4.82647560414198,45.67948608156919,0 4.82646528248156,45.67941473141091,0 4.82644733175845,45.6793497199722,0 4.82644464665814,45.6793501238057,0 4.82646153526788,45.67942578102079,0 4.82646654286211,45.6794840667761,0 4.82646776068026,45.6795404323956,0 4.8264650548755,45.6796609031738,0 4.82646091604872,45.679691234644,0 4.82644483490149,45.6797646342771,0 4.82643350931089,45.6797991355524,0 4.82641669921382,45.6798387698239,0 4.82638579485425,45.6798952059823,0 4.82622313532278,45.6801488755394,0 4.8262330111596,45.6801561013495,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2563">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69100000AV0226</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">IRIGNY</SimpleData>
+					<SimpleData name="Adresse">43, RTE DE BRIGNAIS</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.67209307398711 </north>
+			<south> 45.6719614825348 </south>
+			<east> 4.80844215206914 </east>
+			<west> 4.80815556929373 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.80817668277938,45.67209307398711,0 4.80823644116909,45.67206995675749,0 4.80844215206914,45.6719918036552,0 4.80843448046273,45.6719614825348,0 4.80830534694217,45.67201615822039,0 4.80815556929373,45.6720760291111,0 4.80817668277938,45.67209307398711,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2587">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69100000AI0228</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">IRIGNY</SimpleData>
+					<SimpleData name="Adresse">18, ROUTE NEUVE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6807273181017 </north>
+			<south> 45.6805422599043 </south>
+			<east> 4.82599574694248 </east>
+			<west> 4.82589075019858 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.82589553185115,45.6807273181017,0 4.82599574694248,45.68054383710759,0 4.82598747094299,45.6805422599043,0 4.82589075019858,45.6807264948945,0 4.82589553185115,45.6807273181017,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2595">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69100000AI0229</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">IRIGNY</SimpleData>
+					<SimpleData name="Adresse">LES COTES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.681429065523 </north>
+			<south> 45.6813007755662 </south>
+			<east> 4.82561165758951 </east>
+			<west> 4.82553478998074 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.82559756936043,45.6813007755662,0 4.82553478998074,45.6814271739855,0 4.82554590349836,45.681429065523,0 4.82556401314655,45.6813937338093,0 4.8255884122134,45.6813465006574,0 4.82561165758951,45.68130324938801,0 4.82559756936043,45.6813007755662,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3068">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69100000AC0272</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">IRIGNY</SimpleData>
+					<SimpleData name="Adresse">40, RUE D YVOURS</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6890127213338 </north>
+			<south> 45.6885163631683 </south>
+			<east> 4.82661812026818 </east>
+			<west> 4.82653284876758 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.82653787537179,45.688660848086,0 4.82654920588023,45.68899240152701,0 4.82661812026818,45.6890127213338,0 4.82660900920402,45.6885381867821,0 4.82655114434495,45.688521651004,0 4.82653284876758,45.6885163631683,0 4.82653566964561,45.68859792314729,0 4.82653787537179,45.688660848086,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3477">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69100000AS0306</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">IRIGNY</SimpleData>
+					<SimpleData name="Adresse">LE BOURG NORD</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6727384662798 </north>
+			<south> 45.6726910484661 </south>
+			<east> 4.81829210371916 </east>
+			<west> 4.81815844391287 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.81829210371916,45.67273814784459,0 4.81829158423777,45.6726910484661,0 4.81822739266966,45.67269253526289,0 4.81822822884449,45.6727297215847,0 4.8182128281806,45.6727302404546,0 4.81821245648424,45.67273456992189,0 4.81819022036615,45.6727342984286,0 4.81819058023481,45.6727296088636,0 4.81817349541751,45.67272970455831,0 4.81817077153391,45.6726937196529,0 4.81815844391287,45.672693918684,0 4.81816080666878,45.6727384662798,0 4.81829210371916,45.67273814784459,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3491">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69100000AS0308</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">IRIGNY</SimpleData>
+					<SimpleData name="Adresse">14, RUE 11 NOVEMBRE 1918</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.67273814784459 </north>
+			<south> 45.67268447184931 </south>
+			<east> 4.81899523533543 </east>
+			<west> 4.81829158423777 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.81899504897294,45.6727115735074,0 4.81897731618168,45.6727114996462,0 4.81897595101999,45.67269341717881,0 4.8186103410935,45.6727026547143,0 4.81860961515727,45.67268447184931,0 4.81829158423777,45.6726910484661,0 4.81829210371916,45.67273814784459,0 4.81899523533543,45.6727367907214,0 4.81899504897294,45.6727115735074,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3555">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69100000AC0316</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">IRIGNY</SimpleData>
+					<SimpleData name="Adresse">AU PEAGE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6858778021311 </north>
+			<south> 45.6856328819429 </south>
+			<east> 4.82325200583658 </east>
+			<west> 4.82301455179134 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.82325200583658,45.6856328819429,0 4.82321889732055,45.6856343185753,0 4.82321525554062,45.6856368995501,0 4.82321135687521,45.6856394846828,0 4.82320758368581,45.6856419777119,0 4.82320368798588,45.6856446528688,0 4.82320004323836,45.68564714381869,0 4.82319627301412,45.68564972687191,0 4.82319237434692,45.6856523120039,0 4.82318848161171,45.6856550771846,0 4.82318471435256,45.68565775026191,0 4.82318081865042,45.68566042541791,0 4.82317692591406,45.6856631905983,0 4.82317291066699,45.68566613790621,0 4.82316902089599,45.6856689931107,0 4.82316500861422,45.6856720304429,0 4.82316087085549,45.68567515987819,0 4.82315686153895,45.6856782872345,0 4.82315260126887,45.6856815987973,0 4.82314846944096,45.6856849082811,0 4.82314421213597,45.68568830986801,0 4.82314021171584,45.685691707297,0 4.82313608285252,45.68569510680469,0 4.82313195992087,45.6856986863611,0 4.82312808794196,45.6857020817107,0 4.82312421596257,45.6857054770602,0 4.8231203439827,45.68570887240951,0 4.82311672888784,45.6857122636009,0 4.82311323630317,45.6857154726645,0 4.82310987216085,45.68571867964911,0 4.82310675897156,45.685721702427,0 4.82310377422471,45.685724723126,0 4.82310104339704,45.6857276496427,0 4.82309856648861,45.6857304819772,0 4.82309608364787,45.6857331342628,0 4.82309385769247,45.68573578239061,0 4.82309175721364,45.685738338415,0 4.82308978221141,45.6857408023362,0 4.82308781314103,45.6857434463061,0 4.82308596658125,45.6857459081484,0 4.82308412298733,45.685748460015,0 4.82308240783606,45.6857510098027,0 4.8230805642418,45.68575356166931,0 4.82307872361337,45.6857562035603,0 4.82307675750792,45.6857589375545,0 4.82307492281113,45.68576175949419,0 4.82307283716042,45.6857647656405,0 4.8230706260326,45.6857678638899,0 4.82306828646166,45.6857709642182,0 4.82306608126531,45.6857742425164,0 4.82306362214889,45.6857776149967,0 4.82306103755525,45.6857810795801,0 4.82305858437017,45.6857846321091,0 4.82305600274185,45.68578818671689,0 4.82305342111321,45.6857917413246,0 4.82305097089313,45.6857953838779,0 4.82304852067272,45.6857990264311,0 4.82304606748604,45.6858025789598,0 4.82304362023095,45.6858063115373,0 4.8230412954866,45.6858098619872,0 4.82303922762791,45.6858134082793,0 4.82303702836003,45.6858168666258,0 4.82303495160299,45.6858201428447,0 4.82303326314064,45.6858235028515,0 4.82303144623508,45.6858268649371,0 4.82302975480639,45.6858301349194,0 4.82302806041157,45.68583331487741,0 4.82302662290261,45.68583649067771,0 4.82302518242757,45.6858395764535,0 4.82302374195237,45.6858426622294,0 4.82302242992007,45.6858457459264,0 4.82302111788761,45.6858488296235,0 4.8230198028891,45.6858518232961,0 4.82301861929943,45.6858549049143,0 4.82301730726655,45.6858579886113,0 4.82301586382452,45.6858609843626,0 4.82301455179134,45.6858640680596,0 4.82303415249878,45.6858778021311,0 4.82303533905401,45.6858748105372,0 4.82303639420006,45.6858717309976,0 4.82303758075505,45.6858687394036,0 4.8230387673099,45.6858657478096,0 4.82303982542154,45.6858627582943,0 4.82304114041923,45.6858597646215,0 4.8230423269737,45.6858567730275,0 4.82304351352804,45.6858537814334,0 4.82304470008225,45.6858507898393,0 4.8230460150794,45.6858477961664,0 4.82304732711044,45.68584471246909,0 4.82304851366425,45.685841720875,0 4.82305057262552,45.6858379045094,0 4.82305275706356,45.6858339960405,0 4.82305481602424,45.6858301796748,0 4.82305713187066,45.6858263591514,0 4.82305919083076,45.6858225427856,0 4.82306163511954,45.6858187201833,0 4.82306395393099,45.6858149896842,0 4.82306626977614,45.6858111691607,0 4.82306871702992,45.6858074365827,0 4.82307116428337,45.6858037040046,0 4.8230736115365,45.68579997142641,0 4.82307618426622,45.685796146745,0 4.8230787599616,45.6857924120879,0 4.82308133862263,45.6857887674552,0 4.82308404572624,45.6857851207436,0 4.8230866243866,45.68578147611079,0 4.82308945993239,45.6857778273202,0 4.82309229251179,45.685774088505,0 4.82309499961396,45.6857704417932,0 4.82309796656754,45.6857668809479,0 4.82310093352074,45.68576332010259,0 4.82310377203071,45.68575976133611,0 4.82310673601711,45.6857561104661,0 4.823109831412,45.6857525475417,0 4.82311280132973,45.68574907672049,0 4.82311602813272,45.6857456017414,0 4.82311912352642,45.68574203881671,0 4.82312222188581,45.6857385659163,0 4.82312557713038,45.6857350888581,0 4.82312880689784,45.6857317039031,0 4.82318954529769,45.6856795596688,0 4.82321885042433,45.6856562970074,0 4.82325200583658,45.6856328819429,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3610">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69100000AT0322</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">IRIGNY</SimpleData>
+					<SimpleData name="Adresse">A L EAU</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6725142052606 </north>
+			<south> 45.67210687275139 </south>
+			<east> 4.80835507711852 </east>
+			<west> 4.80704994933063 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.80835507711852,45.67210687275139,0 4.80815219267879,45.67218110721049,0 4.8078600749462,45.6722886593231,0 4.80777661282957,45.6723137781596,0 4.80769581201198,45.67233777335019,0 4.80761850082473,45.6723584698784,0 4.80761238701493,45.6723600992371,0 4.80760614773254,45.6723618206815,0 4.80760003392201,45.6723634500396,0 4.80759378875865,45.6723649914338,0 4.80758754947514,45.6723667128771,0 4.80758130431107,45.6723682542707,0 4.8075750650268,45.6723699757133,0 4.80756894827438,45.672371515045,0 4.80756270898936,45.67237323648691,0 4.80755659223624,45.67237477581789,0 4.8075503470704,45.6723763172097,0 4.80754410484423,45.6723779486259,0 4.80753785967768,45.67237949001699,0 4.8075314860984,45.6723810334689,0 4.80752536934354,45.6723825727982,0 4.80751912711594,45.672384204213,0 4.80751287900801,45.672385655578,0 4.80750663383973,45.67238719696739,0 4.80750026025868,45.6723887404175,0 4.80749401214976,45.6723901917815,0 4.80748789833278,45.6723918211335,0 4.80748152181076,45.6723932745578,0 4.80747527664074,45.6723948159454,0 4.80746890011804,45.672396269369,0 4.80746264906755,45.6723976307065,0 4.80745627548408,45.67239917415409,0 4.80745002737281,45.6724006255156,0 4.80744364790892,45.6724019889131,0 4.80743752820946,45.6724034382129,0 4.80743115168478,45.67240489163429,0 4.80742490063238,45.6724062529697,0 4.80741852410704,45.6724077063905,0 4.80741214758137,45.6724091598108,0 4.80740589652802,45.6724105211452,0 4.80739952000169,45.6724119745648,0 4.80739326600794,45.6724132458737,0 4.80738688948096,45.6724146992927,0 4.80738051001389,45.6724160626865,0 4.80737438443172,45.67241733193341,0 4.80736800790378,45.67241878535129,0 4.80736162549604,45.6724200587194,0 4.80735524602773,45.6724214221118,0 4.80734886655911,45.6724227855039,0 4.80734261550267,45.6724241468347,0 4.80733623309373,45.6724254202013,0 4.80732985068449,45.6724266935676,0 4.80732347121464,45.6724280569582,0 4.80731708586515,45.672429240299,0 4.80731070639468,45.6724306036889,0 4.80730432104463,45.6724317870289,0 4.80729794157356,45.6724331504181,0 4.80729168463546,45.67243433169661,0 4.80728530516378,45.6724356950851,0 4.80727879140007,45.6724368804845,0 4.80727240604861,45.6724380638228,0 4.80726602363645,45.67243933718539,0 4.80725963828443,45.672440520523,0 4.80725312745916,45.6724417959457,0 4.80724673916703,45.6724428892577,0 4.80724035675373,45.6724441626189,0 4.80723409687363,45.6724452538695,0 4.8072275831077,45.6724464392659,0 4.80722119775404,45.6724476226013,0 4.80721468398755,45.672448807997,0 4.80720829863334,45.6724499913317,0 4.80720203875196,45.6724510825804,0 4.80719616410803,45.6724521676467,0 4.80709215652938,45.6724697794178,0 4.80708349501442,45.6724720801334,0 4.80707598627308,45.67247427227819,0 4.80706914604761,45.67247726434231,0 4.80706310275046,45.6724810542653,0 4.80705797891571,45.67248545993719,0 4.80705415684215,45.67249038515151,0 4.80705137970468,45.6724958340297,0 4.80705002098467,45.67250144029109,0 4.80704994933063,45.6725071159715,0 4.80705141568992,45.6725126769004,0 4.80705159406956,45.6725142052606,0 4.80712128892249,45.6725081329271,0 4.80728367929725,45.67248426994311,0 4.80739808238274,45.6724663110079,0 4.80756545916295,45.67242597449331,0 4.80769283079659,45.6723920445076,0 4.80781445412837,45.672351271116,0 4.80806302000823,45.672243787881,0 4.80835507711852,45.67210687275139,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3616">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69100000AS0323</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">IRIGNY</SimpleData>
+					<SimpleData name="Adresse">14, RUE 11 NOVEMBRE 1918</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6727409965484 </north>
+			<south> 45.6727115735074 </south>
+			<east> 4.81941512090202 </east>
+			<west> 4.81899504897294 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.81941512090202,45.6727409965484,0 4.81941155122731,45.6727144829099,0 4.81899504897294,45.6727115735074,0 4.81899523533543,45.6727367907214,0 4.81941512090202,45.6727409965484,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3670">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69100000AB0329</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">IRIGNY</SimpleData>
+					<SimpleData name="Adresse">5, RUE DE LA MOUCHE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.69017331796329 </north>
+			<south> 45.68990391243149 </south>
+			<east> 4.82263004718266 </east>
+			<west> 4.82250209569459 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.82256340640628,45.69017331796329,0 4.82263004718266,45.6900465886933,0 4.82257882378489,45.68993906031469,0 4.8225257310879,45.6899152394574,0 4.82250209569459,45.68990391243149,0 4.82251400538089,45.68991822141109,0 4.82252300810972,45.6899340185798,0 4.82253107420535,45.6899564962623,0 4.82253402295838,45.68997968724461,0 4.8225378590215,45.6900025035815,0 4.82254643894423,45.69002497295,0 4.82256113419773,45.6900458121459,0 4.8225689432752,45.6900565845671,0 4.82257420702167,45.6900681187489,0 4.82257672284737,45.6900781661584,0 4.82257731781109,45.6900884247909,0 4.82257501687126,45.6901161142586,0 4.82257120414671,45.6901447289102,0 4.82256340640628,45.69017331796329,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3813">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69100000AT0345</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">IRIGNY</SimpleData>
+					<SimpleData name="Adresse">A L EAU</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6720942959816 </north>
+			<south> 45.6718503408526 </south>
+			<east> 4.81021477117396 </east>
+			<west> 4.8100206424218 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.8101414250563,45.6720942959816,0 4.81021477117396,45.6720820381339,0 4.81016675804446,45.6719849917358,0 4.81009737560659,45.6719063032047,0 4.81009037550004,45.6719004709708,0 4.81008323815141,45.6718943707264,0 4.81007610669259,45.67188845053101,0 4.81006872135712,45.67188262448779,0 4.81006108214504,45.67187689259679,0 4.8100534488227,45.6718713407546,0 4.81004543321264,45.6718658851285,0 4.81003742349228,45.6718606095512,0 4.8100290285402,45.6718553401652,0 4.8100206424218,45.6718503408526,0 4.8101414250563,45.6720942959816,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3817">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69100000AT0346</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">IRIGNY</SimpleData>
+					<SimpleData name="Adresse">A L EAU</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.67232380402991 </north>
+			<south> 45.6720820381339 </south>
+			<east> 4.81033689538371 </east>
+			<west> 4.8101414250563 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.8101414250563,45.6720942959816,0 4.81024760347412,45.67232380402991,0 4.81033689538371,45.6723080471865,0 4.81029521917915,45.6722358489072,0 4.81021477117396,45.6720820381339,0 4.8101414250563,45.6720942959816,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3842">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69100000AD0035</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">IRIGNY</SimpleData>
+					<SimpleData name="Adresse">LE CHATEAU DYVOURS</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.69174464380819 </north>
+			<south> 45.6917157459999 </south>
+			<east> 4.82750250935159 </east>
+			<west> 4.82745790460949 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.82745790460949,45.6917222648359,0 4.82746648382311,45.69174464380819,0 4.82750250935159,45.69173802452579,0 4.82749329081539,45.6917157459999,0 4.82745790460949,45.6917222648359,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3878">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69100000AT0352</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">IRIGNY</SimpleData>
+					<SimpleData name="Adresse">A L EAU</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.67356672340389 </north>
+			<south> 45.6731651003213 </south>
+			<east> 4.81165673850583 </east>
+			<west> 4.81105932614563 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.81105932614563,45.6731794073014,0 4.81113520992338,45.6732446600777,0 4.81125764558798,45.673342580817,0 4.81145033483619,45.67341613281899,0 4.81163012837884,45.67356672340389,0 4.81165673850583,45.6735632328785,0 4.81142559159107,45.6733314127449,0 4.8113761780984,45.6732937467961,0 4.81120404226459,45.6731651003213,0 4.81105932614563,45.6731794073014,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.4199">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69100000AS0396</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">IRIGNY</SimpleData>
+					<SimpleData name="Adresse">RUE DE LA VISINA</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6736683245062 </north>
+			<south> 45.6730710903603 </south>
+			<east> 4.8220302860089 </east>
+			<west> 4.82173556732187 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.82173556732187,45.673645098823,0 4.8218310239357,45.6736683245062,0 4.82184641399861,45.6736167343164,0 4.82196956827537,45.6733611883503,0 4.82199898777879,45.67327523375121,0 4.8220302860089,45.6731995169907,0 4.82202304428546,45.6731278465239,0 4.82197916230554,45.6730710903603,0 4.82197428963178,45.6731494420325,0 4.82191953904116,45.6732269793561,0 4.82189754670257,45.6732770550682,0 4.82173556732187,45.673645098823,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6160">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69100000AC0079</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">IRIGNY</SimpleData>
+					<SimpleData name="Adresse">AU PEAGE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6902734805517 </north>
+			<south> 45.6902227834439 </south>
+			<east> 4.82423183396536 </east>
+			<west> 4.82393936091837 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.82393936091837,45.6902279697129,0 4.824121434392,45.6902734805517,0 4.82422290655057,45.6902716572294,0 4.82423183396536,45.6902227834439,0 4.82415874708004,45.69022405705621,0 4.82393936091837,45.6902279697129,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6212">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69100000AC0080</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">IRIGNY</SimpleData>
+					<SimpleData name="Adresse">AU PEAGE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6902716572294 </north>
+			<south> 45.690199594327 </south>
+			<east> 4.82551872853048 </east>
+			<west> 4.82422290655057 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.82551872853048,45.690199594327,0 4.82423183396536,45.6902227834439,0 4.82422290655057,45.6902716572294,0 4.8255106806368,45.6902478234724,0 4.82551872853048,45.690199594327,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6221">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69100000AW0080</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">IRIGNY</SimpleData>
+					<SimpleData name="Adresse">CHAMPVILLARD</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6733237650008 </north>
+			<south> 45.6732834761693 </south>
+			<east> 4.81231520798235 </east>
+			<west> 4.8120481880214 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.81230980094248,45.6732998928487,0 4.8120481880214,45.6732834761693,0 4.812054199974,45.6733101308323,0 4.81231520798235,45.6733237650008,0 4.81230980094248,45.6732998928487,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6419">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69100000AI0086</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">IRIGNY</SimpleData>
+					<SimpleData name="Adresse">LES COTES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6809477385193 </north>
+			<south> 45.6808281103037 </south>
+			<east> 4.825678165054 </east>
+			<west> 4.82514525319187 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.82514525319187,45.68085684311931,0 4.82566135255461,45.6809477385193,0 4.825678165054,45.68091594063681,0 4.82516191004787,45.6808281103037,0 4.82514525319187,45.68085684311931,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

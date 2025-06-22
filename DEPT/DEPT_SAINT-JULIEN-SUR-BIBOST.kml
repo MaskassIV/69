@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>SAINT-JULIEN-SUR-BIBOST_DEPT</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_3">
+		<name>SAINT-JULIEN-SUR-BIBOST_DEPT</name>
+		<Schema name="SAINT-JULIEN-SUR-BIBOST_DEPT" id="SAINT-JULIEN-SUR-BIBOST_DEPT.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="DEPT">
+			<LineStyle>
+				<color>BF63f16c</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C63f16c</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.5476">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">692160000B0622</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT-JULIEN-SUR-BIBOST</SimpleData>
+					<SimpleData name="Adresse">AU BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.80164199398229 </north>
+			<south> 45.8011630491738 </south>
+			<east> 4.51752519655042 </east>
+			<west> 4.51721680554334 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.51752519655042,45.80164199398229,0 4.51746135153412,45.801385174415,0 4.51742480791265,45.80131586478,0 4.5173916304722,45.801275330895,0 4.51728218174362,45.8011630491738,0 4.51721680554334,45.8011832019548,0 4.51731886029271,45.8012841447883,0 4.51733706666755,45.8013047052277,0 4.51734242335358,45.8013121987386,0 4.51737898937412,45.8013682684463,0 4.51741159228826,45.8014253821397,0 4.51742042929618,45.8014423758225,0 4.51752519655042,45.80164199398229,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.5496">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">692160000B0627</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT-JULIEN-SUR-BIBOST</SimpleData>
+					<SimpleData name="Adresse">VIERBIN</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.798898659167 </north>
+			<south> 45.79839292859531 </south>
+			<east> 4.52679676762772 </east>
+			<west> 4.52599765553958 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.52601803817942,45.798898659167,0 4.52613463619361,45.7987985507429,0 4.52619949308942,45.7987551627524,0 4.52625171784741,45.7987252752743,0 4.52635209921167,45.79870932725449,0 4.52667158823235,45.7985192907572,0 4.52670709339612,45.7984668425383,0 4.52679676762772,45.7984129410799,0 4.52667157160466,45.79839292859531,0 4.52599765553958,45.79878545177291,0 4.52601803817942,45.798898659167,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6083">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">692160000C0760</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT-JULIEN-SUR-BIBOST</SimpleData>
+					<SimpleData name="Adresse">ROIVET</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8018633803161 </north>
+			<south> 45.8010923659023 </south>
+			<east> 4.51492454138695 </east>
+			<west> 4.51463574844146 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.51488011202553,45.8010923659023,0 4.51487068264926,45.80110068841541,0 4.51483259100316,45.8011391172196,0 4.51480166297741,45.8011805121089,0 4.51479155479063,45.8011969496282,0 4.51473582909063,45.8012966795098,0 4.5146877521406,45.80139828817099,0 4.51464744529216,45.801501503797,0 4.51463574844146,45.80158208932261,0 4.51464783227974,45.80167523514091,0 4.51465195754078,45.8017692983376,0 4.51464797076602,45.8018633803161,0 4.51467891780975,45.8018414393885,0 4.51469602999471,45.8018127490431,0 4.51470536443308,45.8017821816173,0 4.51470673655064,45.8017711752025,0 4.51472320996598,45.8016675588455,0 4.51473142777335,45.8015634228066,0 4.51473235349431,45.8015267536859,0 4.51475309473825,45.8014566745231,0 4.51478011062014,45.8013947071249,0 4.51489976301288,45.80119378624429,0 4.51492454138695,45.80116292146879,0 4.51488011202553,45.8010923659023,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6087">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">692160000C0762</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT-JULIEN-SUR-BIBOST</SimpleData>
+					<SimpleData name="Adresse">ROIVET</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.80116292146879 </north>
+			<south> 45.800925647288 </south>
+			<east> 4.51517676402651 </east>
+			<west> 4.51488011202553 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.51513565132063,45.800925647288,0 4.51507213297841,45.8009572122147,0 4.51500243290106,45.8009981368289,0 4.51493838877281,45.8010433987064,0 4.51488011202553,45.8010923659023,0 4.51492454138695,45.80116292146879,0 4.51496802229443,45.8011191064335,0 4.51501804295663,45.8010789863636,0 4.51507396223159,45.80104265992099,0 4.51513515380323,45.801010765963,0 4.51517676402651,45.80099264465071,0 4.51513565132063,45.800925647288,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6092">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">692160000C0764</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT-JULIEN-SUR-BIBOST</SimpleData>
+					<SimpleData name="Adresse">ROIVET</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8011361152025 </north>
+			<south> 45.8008979782097 </south>
+			<east> 4.51728993057553 </east>
+			<west> 4.51719494652731 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.51727605762714,45.8008979782097,0 4.51719494652731,45.80111405513961,0 4.51720390215128,45.8011353703946,0 4.51723559985196,45.8011361152025,0 4.51728993057553,45.8011216949489,0 4.5172416560026,45.8010706461381,0 4.51726267139298,45.8009872330691,0 4.51727568126973,45.80090302694501,0 4.51727605762714,45.8008979782097,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6097">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">692160000C0766</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT-JULIEN-SUR-BIBOST</SimpleData>
+					<SimpleData name="Adresse">ROIVET</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8012589989741 </north>
+			<south> 45.8008015784773 </south>
+			<east> 4.51703901551628 </east>
+			<west> 4.51513565132063 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.51691808240558,45.8012589989741,0 4.51703901551628,45.80120342446361,0 4.51609421597648,45.8009213331351,0 4.51603207176744,45.8008997414348,0 4.51600298858212,45.8008910354027,0 4.51585092625238,45.8008493056321,0 4.51569592064448,45.8008129290521,0 4.51563634056523,45.8008049926814,0 4.51556864343487,45.8008015784773,0 4.51550097572332,45.800803928037,0 4.51543410232345,45.8008117608946,0 4.51536893167483,45.80082533505269,0 4.51533827826338,45.8008344829215,0 4.51526635399907,45.8008600363422,0 4.51519855589278,45.8008904879391,0 4.51513565132063,45.800925647288,0 4.51517676402651,45.80099264465071,0 4.51521173752703,45.8009766839176,0 4.51541271981708,45.800905355929,0 4.51548620059984,45.80088959866951,0 4.51556163663311,45.8008793991779,0 4.51563838433277,45.8008747660922,0 4.5156615566131,45.8008745450224,0 4.51579934875073,45.800903046896,0 4.51689674604028,45.8011901152791,0 4.51690267665682,45.8012091294999,0 4.51691808240558,45.8012589989741,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

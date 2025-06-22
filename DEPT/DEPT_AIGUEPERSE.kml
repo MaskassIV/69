@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>AIGUEPERSE_DEPT</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_3">
+		<name>AIGUEPERSE_DEPT</name>
+		<Schema name="AIGUEPERSE_DEPT" id="AIGUEPERSE_DEPT.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="DEPT">
+			<LineStyle>
+				<color>BF63f16c</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C63f16c</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.467">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69002000AE0104</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">AIGUEPERSE</SimpleData>
+					<SimpleData name="Adresse">LES BOURDONNEAUX</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.2673710571195 </north>
+			<south> 46.26679884087829 </south>
+			<east> 4.41820141835611 </east>
+			<west> 4.41727665661262 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.41727665661262,46.2673549640595,0 4.41730785057045,46.2673710571195,0 4.41733268717291,46.2673472416521,0 4.41738681149894,46.2673009962801,0 4.41744569317089,46.2672579338923,0 4.41750933218782,46.2672180544813,0 4.41754517375877,46.2671979746189,0 4.41764090009623,46.267148509234,0 4.41774048428604,46.2671025982163,0 4.41798588527196,46.26698579318249,0 4.41818645174634,46.2668276671445,0 4.41817754631656,46.26681976253389,0 4.41820141835611,46.26679884087829,0 4.4181813873069,46.26680260284251,0 4.41805612061947,46.2668797255452,0 4.4174851159227,46.267200613725,0 4.41745774691181,46.2672168955237,0 4.41739262925265,46.26725985543339,0 4.4173321344448,46.2673058198702,0 4.41727665661262,46.2673549640595,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.899">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69002000AC0121</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">AIGUEPERSE</SimpleData>
+					<SimpleData name="Adresse">PRES DES SOLYS</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.2772865482549 </north>
+			<south> 46.2770589116048 </south>
+			<east> 4.44625638111859 </east>
+			<west> 4.44536164308174 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.44536694048398,46.2770972111152,0 4.44560508929391,46.27723747780599,0 4.44565102655403,46.2772555375901,0 4.44569971340854,46.2772695096194,0 4.4457504934992,46.2772791320355,0 4.4457632680749,46.27728086115479,0 4.44581587457379,46.27728586714859,0 4.44586862663431,46.2772865482549,0 4.44592138251119,46.2772824559593,0 4.4459287621795,46.277281551683,0 4.44606876607128,46.27724167717601,0 4.44625638111859,46.277160309252,0 4.44623826863093,46.27713352046,0 4.44621515851835,46.27714372089691,0 4.44609247596786,46.27719517383749,0 4.44596669502798,46.2772424330366,0 4.44586385961804,46.2772585091896,0 4.4457500270895,46.27724671534631,0 4.44574091190885,46.2772458403906,0 4.4457059451145,46.2772398898969,0 4.44567320138652,46.27722958815311,0 4.44536164308174,46.2770589116048,0 4.44536694048398,46.2770972111152,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3450">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690020000D0303</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">AIGUEPERSE</SimpleData>
+					<SimpleData name="Adresse">COMBE NOIRE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.2671818617199 </north>
+			<south> 46.2671471316481 </south>
+			<east> 4.41727413418939 </east>
+			<west> 4.41720451801867 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.41726826839345,46.2671763848613,0 4.41727413418939,46.2671471316481,0 4.41720451801867,46.2671818617199,0 4.41726826839345,46.2671763848613,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3465">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690020000D0305</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">AIGUEPERSE</SimpleData>
+					<SimpleData name="Adresse">COMBE NOIRE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.2671763848613 </north>
+			<south> 46.2662436628229 </south>
+			<east> 4.41839722106024 </east>
+			<west> 4.41726826839345 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.41726826839345,46.2671763848613,0 4.41731206373107,46.26717259739591,0 4.41732514459175,46.26716622024531,0 4.41755812203651,46.2670560553038,0 4.41779563596591,46.2669506066795,0 4.41789577244097,46.26689595259519,0 4.41804172646848,46.2668303705579,0 4.41813947524605,46.2667637677037,0 4.41814446824226,46.26676100363651,0 4.41816659661031,46.26675298262241,0 4.41819133144672,46.2667503328743,0 4.4181934777447,46.26674796451649,0 4.4182790916492,46.2666440467736,0 4.41835736541966,46.2665375185409,0 4.4183832241535,46.2664729819195,0 4.41839390883754,46.26639917780269,0 4.41839722106024,46.26632150279641,0 4.41839208810888,46.2662436628229,0 4.41836635228098,46.2662477660865,0 4.41834830916802,46.2663784011539,0 4.41834172108792,46.26640982492769,0 4.41832320990929,46.2664672451377,0 4.41829661262398,46.2665233250858,0 4.41827412286209,46.2665625121979,0 4.4182342909517,46.2666190271942,0 4.41818723963161,46.2666725699905,0 4.41813335834565,46.2667231357265,0 4.41806023956913,46.2667830373582,0 4.41799882806353,46.266783532107,0 4.41727413418939,46.2671471316481,0 4.41726826839345,46.2671763848613,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3480">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690020000D0307</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">AIGUEPERSE</SimpleData>
+					<SimpleData name="Adresse">COMBE NOIRE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.266256004943 </north>
+			<south> 46.26606312614061 </south>
+			<east> 4.41839208810888 </east>
+			<west> 4.41831228425354 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.41837455555547,46.26606312614061,0 4.41836164305018,46.26619630909881,0 4.41834840085719,46.2662215114131,0 4.41832794636956,46.26624401164861,0 4.41831228425354,46.266256004943,0 4.41836635228098,46.2662477660865,0 4.41839208810888,46.2662436628229,0 4.41837455555547,46.26606312614061,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

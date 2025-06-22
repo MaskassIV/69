@@ -1,0 +1,3427 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>TAPONAS_COM</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_4">
+		<name>TAPONAS_COM</name>
+		<Schema name="TAPONAS_COM" id="TAPONAS_COM.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="COM">
+			<LineStyle>
+				<color>BFe6c645</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4Ce6c645</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.316">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69242000ZB0180</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TAPONAS</SimpleData>
+					<SimpleData name="Adresse">VILLENEUVE</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE TAPONAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.13335702805969 </north>
+			<south> 46.1327513690903 </south>
+			<east> 4.76846057282171 </east>
+			<west> 4.76816317333609 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.76816465676611,46.13335702805969,0 4.76846057282171,46.1333210753116,0 4.76838025470867,46.1332489179332,0 4.76837075979182,46.1332196124611,0 4.76836033898357,46.1331816745573,0 4.76835379423758,46.1331434060803,0 4.76835086656275,46.1331048110634,0 4.76835195312716,46.1330661535363,0 4.76836680003464,46.1328674951617,0 4.76836849548927,46.1328356735741,0 4.76836863705189,46.1328038761842,0 4.76821795636727,46.1327513690903,0 4.76822155575747,46.13280679699151,0 4.7682198402244,46.1328621275088,0 4.76820499568674,46.13306087589029,0 4.76820374385852,46.1331064714811,0 4.7682071537281,46.1331519944852,0 4.76821496342331,46.1331973589087,0 4.76822728794572,46.1332421126034,0 4.76823649480351,46.1332705218583,0 4.76823879203256,46.1332855280019,0 4.76823629805842,46.1333006087497,0 4.76822911336679,46.1333148618232,0 4.76821747663697,46.13332765300561,0 4.76820214161786,46.1333382499885,0 4.76818361467698,46.1333462846004,0 4.76816317333609,46.1333511965203,0 4.76816465676611,46.13335702805969,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.538">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69242000ZE0029</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TAPONAS</SimpleData>
+					<SimpleData name="Adresse">LES PRES DE BRANDON</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE TAPONAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1096074024779 </north>
+			<south> 46.10785263958649 </south>
+			<east> 4.76655477892226 </east>
+			<west> 4.76403313774381 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.76548230296771,46.10785263958649,0 4.76403313774381,46.1086841015447,0 4.76470829538975,46.10930716892901,0 4.76477683768725,46.1094533699885,0 4.7647132199099,46.1094926393908,0 4.76481092579709,46.1096074024779,0 4.76655477892226,46.1086129092899,0 4.7664984950297,46.1085338918877,0 4.76643931429255,46.1084654578973,0 4.76577153755894,46.10808430767659,0 4.76548230296771,46.10785263958649,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.3065">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69242000ZD0104</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TAPONAS</SimpleData>
+					<SimpleData name="Adresse">5, CHE DE QUELLE</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE TAPONAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1219777205641 </north>
+			<south> 46.12159158456551 </south>
+			<east> 4.76816242181251 </east>
+			<west> 4.76763869930064 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.76777051139751,46.1216139860556,0 4.76776285368585,46.1216175280008,0 4.76763869930064,46.1216758457299,0 4.76767943731365,46.1217221386609,0 4.76768696851574,46.1217307583285,0 4.76769866676206,46.12174408690001,0 4.76774786554218,46.1217997055725,0 4.7678500932656,46.1219132250748,0 4.76793079499934,46.1219777205641,0 4.76799914567714,46.12194828372619,0 4.76816242181251,46.12187800734961,0 4.7679134380888,46.12159158456551,0 4.76778180385241,46.12162678050851,0 4.76777051139751,46.1216139860556,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.3494">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69242000ZC0107</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TAPONAS</SimpleData>
+					<SimpleData name="Adresse">41, PL DES SABLONS</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE TAPONAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1219288555222 </north>
+			<south> 46.12156102121691 </south>
+			<east> 4.76728581771616 </east>
+			<west> 4.76641957809687 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.76641957809687,46.1219257627469,0 4.76647360276459,46.1219260931305,0 4.76676147733771,46.1219279187889,0 4.76690386104853,46.1219288555222,0 4.76701145465065,46.121899258916,0 4.76709580330967,46.1218758786379,0 4.76717412209951,46.12185430350679,0 4.76728581771616,46.121823381789,0 4.76723249786532,46.121748371653,0 4.76716370341697,46.1216513547264,0 4.76709952833202,46.12156102121691,0 4.76676209390168,46.1216371588357,0 4.76657796279913,46.1216752419224,0 4.76647450759916,46.1216965772394,0 4.76647255871576,46.12170444376961,0 4.76644173102657,46.121833275088,0 4.76643557126476,46.1218592214031,0 4.76641957809687,46.1219257627469,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.5637">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69242000ZE0122</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TAPONAS</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE TAPONAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1200318564571 </north>
+			<south> 46.11840629062129 </south>
+			<east> 4.76903167540105 </east>
+			<west> 4.76693011420295 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.76903167540105,46.1197629200658,0 4.76835032789554,46.1191301546027,0 4.76756115050854,46.11840629062129,0 4.76693011420295,46.11854293419501,0 4.76739917093151,46.11927295737059,0 4.7671400486226,46.11935111975481,0 4.76833895959316,46.1200318564571,0 4.76838066502374,46.1200157145737,0 4.76883532392179,46.1198395677825,0 4.76886435279236,46.1198319998616,0 4.76903167540105,46.1197629200658,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.6012">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69242000ZE0125</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TAPONAS</SimpleData>
+					<SimpleData name="Adresse">LES PRES DES RIVES</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE TAPONAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1132293063811 </north>
+			<south> 46.1126852602797 </south>
+			<east> 4.7693246317815 </east>
+			<west> 4.76721180946836 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.7693246317815,46.11272458484919,0 4.76931650066996,46.1126852602797,0 4.76721180946836,46.11319470333341,0 4.76722237737151,46.1132293063811,0 4.76725390588322,46.1132230509755,0 4.7689343676948,46.11281533420319,0 4.7693246317815,46.11272458484919,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.6255">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69242000ZE0127</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TAPONAS</SimpleData>
+					<SimpleData name="Adresse">LES PRES DES RIVES</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE TAPONAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1132681759717 </north>
+			<south> 46.11316332511051 </south>
+			<east> 4.76722237737151 </east>
+			<west> 4.76713245359422 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.76721180946836,46.11319470333341,0 4.76720238144463,46.11316332511051,0 4.76713245359422,46.1132681759717,0 4.76722237737151,46.1132293063811,0 4.76721180946836,46.11319470333341,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.7004">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69242000ZE0133</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TAPONAS</SimpleData>
+					<SimpleData name="Adresse">LES PRES DE BRANDON</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE TAPONAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1114328563332 </north>
+			<south> 46.1085270162164 </south>
+			<east> 4.76126960511682 </east>
+			<west> 4.75898928056979 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.7592024890066,46.1086327919919,0 4.75912690843227,46.1085372268464,0 4.7591173869619,46.1085270162164,0 4.75898928056979,46.1085825938843,0 4.75900217630111,46.10859707565389,0 4.75905934261159,46.1086595098247,0 4.75909606156286,46.1086576797809,0 4.75961751404884,46.1092828882702,0 4.76023011318473,46.1100928584199,0 4.76103333556327,46.1112452916656,0 4.76105003197917,46.1112813313596,0 4.76104073012374,46.1113102984738,0 4.76098392698098,46.11136837495181,0 4.76094968489784,46.1113869204103,0 4.76097874265232,46.1114328563332,0 4.76112582650738,46.11135104154799,0 4.76126960511682,46.1112711693459,0 4.76070761672513,46.1105865191588,0 4.76061781721651,46.11047982650601,0 4.76050995417796,46.1103469329947,0 4.7604526734507,46.11026891895391,0 4.760263696454,46.1099972223917,0 4.76025705014022,46.1099797615642,0 4.7600672783121,46.1097357289011,0 4.75981818710943,46.1094146139272,0 4.75964731906646,46.10919460677,0 4.7592024890066,46.1086327919919,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.7117">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69242000ZE0134</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TAPONAS</SimpleData>
+					<SimpleData name="Adresse">LES PRES DE BRANDON</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE TAPONAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.113059998879 </north>
+			<south> 46.1117654777388 </south>
+			<east> 4.76070912270726 </east>
+			<west> 4.76041511248885 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.76041511248885,46.113059998879,0 4.76058546111076,46.112257614377,0 4.76065704519377,46.1119213489755,0 4.76070912270726,46.1118087627938,0 4.7605672208485,46.1117654777388,0 4.76056342076468,46.11225282215089,0 4.76041511248885,46.113059998879,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.7220">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69242000ZE0135</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TAPONAS</SimpleData>
+					<SimpleData name="Adresse">LES PRES DES RIVES</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE TAPONAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1177521657184 </north>
+			<south> 46.1151234138622 </south>
+			<east> 4.76365357920387 </east>
+			<west> 4.76290540467896 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.76365357920387,46.1177521657184,0 4.76360459573197,46.11769897396089,0 4.76351339139937,46.1172385951939,0 4.76343121382606,46.1168011344033,0 4.76338348258638,46.1166054303135,0 4.76335611779391,46.1164913747445,0 4.76333246359792,46.11639203322801,0 4.76319548225636,46.1158853480587,0 4.76313853724227,46.115680959999,0 4.76312169036487,46.11562015330779,0 4.76309233184434,46.1155165769206,0 4.76297065620977,46.1151234138622,0 4.76290540467896,46.1151402797367,0 4.76292437313911,46.1151945683753,0 4.7633196765333,46.1166229945171,0 4.76341358235178,46.1170304595979,0 4.76353148813492,46.1177011904963,0 4.76365357920387,46.1177521657184,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.7620">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69242000ZB0139</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TAPONAS</SimpleData>
+					<SimpleData name="Adresse">CHAMPAGNE</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE TAPONAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1373042045553 </north>
+			<south> 46.1361968022626 </south>
+			<east> 4.77333916467242 </east>
+			<west> 4.76953971907037 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.77333916467242,46.13623599909829,0 4.77332286878697,46.1361968022626,0 4.77175744990424,46.1367377950958,0 4.76978161020073,46.1372329210159,0 4.76968132204049,46.1372569115847,0 4.76953971907037,46.13725731661991,0 4.76955379876551,46.1373042045553,0 4.76968437391741,46.1373033408484,0 4.76993435830724,46.1372406285484,0 4.77098929229355,46.1369757657171,0 4.77136419217608,46.13688146869571,0 4.7714710925362,46.13684962733711,0 4.77183961035205,46.1367543474134,0 4.77333916467242,46.13623599909829,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.8147">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69242000ZE0143</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TAPONAS</SimpleData>
+					<SimpleData name="Adresse">13, RUE NOTRE DAME DES CHAMPS</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE TAPONAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.121117321862 </north>
+			<south> 46.1207925168246 </south>
+			<east> 4.767561820963 </east>
+			<west> 4.76709759232913 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.76716573920196,46.1208896794882,0 4.76710783924216,46.1209097658983,0 4.76709759232913,46.12091334809959,0 4.76724469585347,46.121117321862,0 4.76728294459622,46.1211024051346,0 4.767561820963,46.1209938511726,0 4.76747509632744,46.1208428005382,0 4.76744770151625,46.1207925168246,0 4.76716573920196,46.1208896794882,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.8408">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69242000ZE0146</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TAPONAS</SimpleData>
+					<SimpleData name="Adresse">134, CHE DES LONES</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE TAPONAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1201456819553 </north>
+			<south> 46.1198395677825 </south>
+			<east> 4.76883532392179 </east>
+			<west> 4.76838066502374 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.76850246089037,46.1201456819553,0 4.76883532392179,46.1198395677825,0 4.76838066502374,46.1200157145737,0 4.76850246089037,46.1201456819553,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.8602">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69242000ZD0148</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TAPONAS</SimpleData>
+					<SimpleData name="Adresse">LA GARENNE</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE TAPONAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.12071777680679 </north>
+			<south> 46.1205472860798 </south>
+			<east> 4.76819214587724 </east>
+			<west> 4.76807715335711 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.76818018217221,46.1205472860798,0 4.76817672250811,46.1205524740313,0 4.76807715335711,46.1207104787185,0 4.76809435646735,46.12071777680679,0 4.76819214587724,46.1205527742527,0 4.76818018217221,46.1205472860798,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.8695">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69242000ZD0149</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TAPONAS</SimpleData>
+					<SimpleData name="Adresse">LA GARENNE</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE TAPONAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1205527742527 </north>
+			<south> 46.1201820191021 </south>
+			<east> 4.76857313300842 </east>
+			<west> 4.76818018217221 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.76819214587724,46.1205527742527,0 4.76822119113138,46.1205054847585,0 4.76825869312485,46.12047544732501,0 4.76857313300842,46.1201924089859,0 4.76856360196035,46.1201820191021,0 4.76831615962604,46.1204057377188,0 4.76821302720205,46.12049732533849,0 4.76818018217221,46.1205472860798,0 4.76819214587724,46.1205527742527,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.9098">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69242000ZD0153</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TAPONAS</SimpleData>
+					<SimpleData name="Adresse">LA GARENNE</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE TAPONAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.12150312676859 </north>
+			<south> 46.12116279244649 </south>
+			<east> 4.76782842306713 </east>
+			<west> 4.76777510204302 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.76780661697062,46.1213273571386,0 4.76782842306713,46.1211799310169,0 4.76782424439462,46.12116279244649,0 4.76781210395171,46.1211880213303,0 4.76778990275113,46.1213553593776,0 4.76777510204302,46.12150312676859,0 4.76779472602857,46.12140860654,0 4.76780639862779,46.1213286215379,0 4.76780661697062,46.1213273571386,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.9374">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69242000ZC0156</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TAPONAS</SimpleData>
+					<SimpleData name="Adresse">VILLENEUVE</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE TAPONAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.12960798945289 </north>
+			<south> 46.129291853987 </south>
+			<east> 4.76098088271442 </east>
+			<west> 4.76037533888745 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.76041295644919,46.129291853987,0 4.76037533888745,46.1293064882774,0 4.76049536223771,46.1293690283817,0 4.76064094162138,46.12944477285989,0 4.76095411235227,46.12960798945289,0 4.76098088271442,46.12959847710751,0 4.76041295644919,46.129291853987,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.9458">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69242000ZD0157</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TAPONAS</SimpleData>
+					<SimpleData name="Adresse">LA GARENNE</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE TAPONAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1215609565608 </north>
+			<south> 46.12122500353459 </south>
+			<east> 4.76822189795899 </east>
+			<west> 4.76776906289502 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.76776906289502,46.1215609565608,0 4.7678860733991,46.1215382380513,0 4.76795024880824,46.121507875463,0 4.76822189795899,46.1213840302257,0 4.76797919729004,46.1212403629883,0 4.76795331507737,46.12122500353459,0 4.76793021756576,46.1212438278427,0 4.76791974460243,46.1212524576361,0 4.76783607864524,46.1213211338275,0 4.76780661697062,46.1213273571386,0 4.76780639862779,46.1213286215379,0 4.76779472602857,46.12140860654,0 4.76777510204302,46.12150312676859,0 4.76776906289502,46.1215609565608,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.9459">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69242000ZE0157</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TAPONAS</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE TAPONAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.120306111795 </north>
+			<south> 46.12004556344041 </south>
+			<east> 4.76722132319467 </east>
+			<west> 4.76687576717026 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.76687576717026,46.120114174496,0 4.76699761127339,46.120306111795,0 4.76715853987586,46.1202515457563,0 4.76717701908115,46.12024216091151,0 4.76718968027648,46.1202290836263,0 4.76722132319467,46.1201779709655,0 4.76719351426796,46.1201630916967,0 4.76716507645605,46.1201407462855,0 4.76714364890548,46.12011486903921,0 4.76709996989448,46.12004556344041,0 4.76687576717026,46.120114174496,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.9522">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69242000ZE0158</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TAPONAS</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE TAPONAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1204893069884 </north>
+			<south> 46.1201779709655 </south>
+			<east> 4.76735533792368 </east>
+			<west> 4.76699761127339 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.76699761127339,46.120306111795,0 4.76711399377613,46.1204893069884,0 4.76735533792368,46.12040592715161,0 4.76726137258556,46.1202753452207,0 4.76725326010868,46.1202526834407,0 4.76725964729563,46.12022979595701,0 4.76728058054893,46.1201960536212,0 4.76724754867753,46.1201879209497,0 4.76722132319467,46.1201779709655,0 4.76718968027648,46.1202290836263,0 4.76717701908115,46.12024216091151,0 4.76715853987586,46.1202515457563,0 4.76699761127339,46.120306111795,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.9600">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69242000ZE0159</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TAPONAS</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE TAPONAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.12040592715161 </north>
+			<south> 46.1201681356449 </south>
+			<east> 4.76759367184176 </east>
+			<west> 4.76725326010868 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.76735533792368,46.12040592715161,0 4.76747128051039,46.1203662021643,0 4.76753060384045,46.1203460933976,0 4.76759367184176,46.1203216028713,0 4.76747125074038,46.1201681356449,0 4.76743350895104,46.12018268426979,0 4.76741416319838,46.1201892904344,0 4.76738176215306,46.1201967303312,0 4.76734820368945,46.12020040523781,0 4.76731413222196,46.1202002150507,0 4.76728058054893,46.1201960536212,0 4.76725964729563,46.12022979595701,0 4.76725326010868,46.1202526834407,0 4.76726137258556,46.1202753452207,0 4.76735533792368,46.12040592715161,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.9775">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69242000ZE0160</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TAPONAS</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE TAPONAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1203216028713 </north>
+			<south> 46.1200718302165 </south>
+			<east> 4.76784312412743 </east>
+			<west> 4.76747125074038 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.76759367184176,46.1203216028713,0 4.76771430750956,46.1202747789943,0 4.76784312412743,46.1202245850277,0 4.76772124357813,46.1200718302165,0 4.76747125074038,46.1201681356449,0 4.76759367184176,46.1203216028713,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.9924">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69242000ZE0162</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TAPONAS</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE TAPONAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1200523100843 </north>
+			<south> 46.1198624715131 </south>
+			<east> 4.7678689884398 </east>
+			<west> 4.76752942509641 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.7678689884398,46.1199337020205,0 4.76783970505533,46.11990119187431,0 4.7676770697851,46.1198624715131,0 4.76752942509641,46.1199152102169,0 4.76763862529835,46.1200523100843,0 4.76780289623137,46.1199889541459,0 4.76782992154859,46.1199754729779,0 4.76785176454026,46.11995792921551,0 4.76786162086163,46.1199462465986,0 4.7678689884398,46.1199337020205,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.10078">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69242000ZE0164</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TAPONAS</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE TAPONAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1201554021789 </north>
+			<south> 46.11997708031431 </south>
+			<east> 4.76746859490438 </east>
+			<west> 4.76716401343626 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.76740219587323,46.1201434502568,0 4.76746859490438,46.12011782708471,0 4.76735642804056,46.11997708031431,0 4.76718778299817,46.12003735118671,0 4.76716401343626,46.1200352892442,0 4.76720290637592,46.1200967430366,0 4.76721759719144,46.1201145286393,0 4.7672371321885,46.1201298969798,0 4.76726083798191,46.1201420478952,0 4.76728779385303,46.12015054535851,0 4.76731656413428,46.1201550514302,0 4.76734610733528,46.1201554021789,0 4.76737512014457,46.1201513476787,0 4.76740219587323,46.1201434502568,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.10148">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69242000ZE0165</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TAPONAS</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE TAPONAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.12020040523781 </north>
+			<south> 46.11990119187431 </south>
+			<east> 4.76792914453568 </east>
+			<west> 4.76708932429322 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.76716401343626,46.1200352892442,0 4.76708932429322,46.12002870564601,0 4.76709996989448,46.12004556344041,0 4.76714364890548,46.12011486903921,0 4.76716507645605,46.1201407462855,0 4.76719351426796,46.1201630916967,0 4.76722132319467,46.1201779709655,0 4.76724754867753,46.1201879209497,0 4.76728058054893,46.1201960536212,0 4.76731413222196,46.1202002150507,0 4.76734820368945,46.12020040523781,0 4.76738176215306,46.1201967303312,0 4.76741416319838,46.1201892904344,0 4.76743350895104,46.12018268426979,0 4.76747125074038,46.1201681356449,0 4.76772124357813,46.1200718302165,0 4.767834341867,46.12002827605901,0 4.76792914453568,46.11999176204449,0 4.76791188806825,46.1199184424286,0 4.76783970505533,46.11990119187431,0 4.7678689884398,46.1199337020205,0 4.76786162086163,46.1199462465986,0 4.76785176454026,46.11995792921551,0 4.76782992154859,46.1199754729779,0 4.76780289623137,46.1199889541459,0 4.76763862529835,46.1200523100843,0 4.76746859490438,46.12011782708471,0 4.76740219587323,46.1201434502568,0 4.76737512014457,46.1201513476787,0 4.76734610733528,46.1201554021789,0 4.76731656413428,46.1201550514302,0 4.76728779385303,46.12015054535851,0 4.76726083798191,46.1201420478952,0 4.7672371321885,46.1201298969798,0 4.76721759719144,46.1201145286393,0 4.76720290637592,46.1200967430366,0 4.76716401343626,46.1200352892442,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.10339">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69242000ZE0167</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TAPONAS</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE TAPONAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.12003735118671 </north>
+			<south> 46.11973224200581 </south>
+			<east> 4.76735642804056 </east>
+			<west> 4.76702621812211 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.76708458736273,46.1199097050107,0 4.76716401343626,46.1200352892442,0 4.76718778299817,46.12003735118671,0 4.76735642804056,46.11997708031431,0 4.76728543086712,46.11988802405509,0 4.76716125327111,46.11973224200581,0 4.76703625259217,46.11976012818531,0 4.76702856983519,46.11977898260899,0 4.76702621812211,46.1197984746295,0 4.76702943609617,46.1198179700335,0 4.76703819768513,46.1198366585838,0 4.76708458736273,46.1199097050107,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.10518">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69242000ZE0169</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TAPONAS</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE TAPONAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1199152102169 </north>
+			<south> 46.1196464650022 </south>
+			<east> 4.76783970505533 </east>
+			<west> 4.76735017231474 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.76753291467557,46.1196494452817,0 4.76735017231474,46.1196902102575,0 4.76747462376374,46.11984643820091,0 4.76752942509641,46.1199152102169,0 4.7676770697851,46.1198624715131,0 4.76783970505533,46.11990119187431,0 4.76763738979368,46.11967601103419,0 4.76761772248769,46.11966055475159,0 4.76759174451544,46.1196502407163,0 4.7675623503643,46.1196464650022,0 4.76753291467557,46.1196494452817,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.10795">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69242000ZE0171</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TAPONAS</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE TAPONAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.120141260876 </north>
+			<south> 46.1200035165433 </south>
+			<east> 4.76831529642825 </east>
+			<west> 4.76800845157476 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.76805765598317,46.120141260876,0 4.76831529642825,46.1200411420955,0 4.76820385825551,46.1200035165433,0 4.76810359621237,46.1200434484543,0 4.76800845157476,46.1200814090826,0 4.76805765598317,46.120141260876,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.10888">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69242000ZE0172</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TAPONAS</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE TAPONAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1200434484543 </north>
+			<south> 46.11935111975481 </south>
+			<east> 4.76833895959316 </east>
+			<west> 4.76585372192415 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.76660839393795,46.1195134159514,0 4.76593722150823,46.1197194928117,0 4.76585372192415,46.11974502078181,0 4.7659006498869,46.1198549885482,0 4.76594129060215,46.1197936483121,0 4.76594166450402,46.1197931921394,0 4.76639016380721,46.1196548909418,0 4.76655125042665,46.1196052772082,0 4.76663168155161,46.119729945438,0 4.76670496193999,46.1198457177542,0 4.76692380191764,46.11976746277481,0 4.76708932429322,46.12002870564601,0 4.76716401343626,46.1200352892442,0 4.76708458736273,46.1199097050107,0 4.76703819768513,46.1198366585838,0 4.76702943609617,46.1198179700335,0 4.76702621812211,46.1197984746295,0 4.76702856983519,46.11977898260899,0 4.76703625259217,46.11976012818531,0 4.76716125327111,46.11973224200581,0 4.76735017231474,46.1196902102575,0 4.76753291467557,46.1196494452817,0 4.7675623503643,46.1196464650022,0 4.76759174451544,46.1196502407163,0 4.76761772248769,46.11966055475159,0 4.76763738979368,46.11967601103419,0 4.76783970505533,46.11990119187431,0 4.76791188806825,46.1199184424286,0 4.76792914453568,46.11999176204449,0 4.76803110989277,46.119952434262,0 4.76810359621237,46.1200434484543,0 4.76820385825551,46.1200035165433,0 4.76831529642825,46.1200411420955,0 4.76833895959316,46.1200318564571,0 4.7671400486226,46.11935111975481,0 4.76660839393795,46.1195134159514,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.10965">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69242000ZB0173</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TAPONAS</SimpleData>
+					<SimpleData name="Adresse">AUX PERELLES</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE TAPONAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.13274017394491 </north>
+			<south> 46.13071840943221 </south>
+			<east> 4.7683642527111 </east>
+			<west> 4.76730793171597 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.76730793171597,46.1308715156555,0 4.76733540409891,46.1308637022347,0 4.76736427858831,46.130859199624,0 4.7673939048589,46.1308579278729,0 4.76742350889694,46.1308599890993,0 4.76745205191859,46.1308653094007,0 4.7674790130845,46.1308738068134,0 4.76750373627013,46.1308852213374,0 4.76752543586291,46.1308992949885,0 4.7675435765241,46.1309154956735,0 4.76755776399527,46.1309336493883,0 4.76756733054831,46.1309531360286,0 4.76818174159499,46.1326004329877,0 4.7681957889183,46.132642367648,0 4.76820686958085,46.1326847087859,0 4.7683642527111,46.13274017394491,0 4.76835546485773,46.13268455662809,0 4.76834215355848,46.1326292799648,0 4.76832420383824,46.1325747961007,0 4.76809405443303,46.13195760806731,0 4.7676422718356,46.1307377798369,0 4.76763102487534,46.13071840943221,0 4.76741862237994,46.13078467545,0 4.76730793171597,46.1308715156555,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.11158">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69242000ZB0176</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TAPONAS</SimpleData>
+					<SimpleData name="Adresse">AUX PERELLES</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE TAPONAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1328038761842 </north>
+			<south> 46.1326847087859 </south>
+			<east> 4.76836863705189 </east>
+			<west> 4.76820686958085 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.76821795636727,46.1327513690903,0 4.76836863705189,46.1328038761842,0 4.7683642527111,46.13274017394491,0 4.76820686958085,46.1326847087859,0 4.76821338125031,46.1327179337898,0 4.76821795636727,46.1327513690903,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.11874">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69242000ZB0185</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TAPONAS</SimpleData>
+					<SimpleData name="Adresse">VILLENEUVE</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE TAPONAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1336210550524 </north>
+			<south> 46.13152342257591 </south>
+			<east> 4.76537238450268 </east>
+			<west> 4.76350485855475 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.76350485855475,46.1315498810194,0 4.76367270074335,46.1319391742612,0 4.76369439146113,46.1319892772654,0 4.76390884925664,46.1321076324705,0 4.76394950445072,46.13213104997551,0 4.7640078526716,46.1321648210282,0 4.76401432277433,46.1321726467896,0 4.76407845965038,46.13224947200941,0 4.76411285658513,46.1323885480807,0 4.76417341207973,46.13263206068491,0 4.76423307831183,46.13287207429881,0 4.76424350054771,46.1329020862452,0 4.76427091148276,46.1329447144393,0 4.76430823685926,46.1329773708262,0 4.76437227298337,46.13301474625801,0 4.76442804772242,46.1330369379055,0 4.76484023647838,46.1331519487919,0 4.76502329012066,46.133199994036,0 4.76509486990552,46.1332261730567,0 4.7651487080402,46.133260644151,0 4.76518137771386,46.1333056223211,0 4.76522065575482,46.133503708978,0 4.76524697010177,46.1336129166608,0 4.76524785997812,46.13361641560729,0 4.76537238450268,46.1336210550524,0 4.76534906447125,46.13349216531051,0 4.76531737163385,46.1333244949357,0 4.76530619462576,46.1332790926248,0 4.76528083801991,46.1332399455111,0 4.76525239471125,46.1332055300802,0 4.76521144943334,46.1331771636117,0 4.76517155829604,46.1331533743779,0 4.76513319372257,46.133136767103,0 4.76507412997954,46.1331170588418,0 4.7648871628742,46.133068173792,0 4.76448464672381,46.1329558049987,0 4.76444370135227,46.1329395078105,0 4.76438250176375,46.1328976748566,0 4.76435997959494,46.1328539799478,0 4.76430463087959,46.1326233567932,0 4.76424856211296,46.1323864398154,0 4.76419933865145,46.1322093138441,0 4.76418529303827,46.1321753950519,0 4.76414954967725,46.1321193856035,0 4.76410455185408,46.1320777511696,0 4.76406063483432,46.1320455574094,0 4.76402189666198,46.1320253527294,0 4.76392166434361,46.1319823244606,0 4.76386835845767,46.1319522580367,0 4.76383893714562,46.1319276752294,0 4.76382039223257,46.1318988702715,0 4.76378860722855,46.13183298146911,0 4.76375191785697,46.1317434800986,0 4.76372618593301,46.1316522773185,0 4.76371317749757,46.1316062728188,0 4.76371167738374,46.1315837783094,0 4.76371343830015,46.13156600692621,0 4.76373538944384,46.13152342257591,0 4.76350485855475,46.1315498810194,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.12099">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69242000ZB0188</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TAPONAS</SimpleData>
+					<SimpleData name="Adresse">CHAMPAGNE</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE TAPONAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1360086553275 </north>
+			<south> 46.13569547564669 </south>
+			<east> 4.76568923931085 </east>
+			<west> 4.76152115081293 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.7656859244752,46.13569547564669,0 4.76560395901104,46.135700983358,0 4.76488437930908,46.1357536913578,0 4.76426277544844,46.13579919824421,0 4.76401322541838,46.1358109110112,0 4.76315506066995,46.1358732364924,0 4.7623382808586,46.1359292387567,0 4.76152115081293,46.13598244834811,0 4.76153300478581,46.1360086553275,0 4.76503277547186,46.13576723760029,0 4.76568923931085,46.1357219951306,0 4.7656859244752,46.13569547564669,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.12100">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69242000ZC0188</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TAPONAS</SimpleData>
+					<SimpleData name="Adresse">LES FARERES</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE TAPONAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1303515253208 </north>
+			<south> 46.13018188946891 </south>
+			<east> 4.77024135737763 </east>
+			<west> 4.77004373901531 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.77004373901531,46.1303515253208,0 4.77018859264398,46.13033998992171,0 4.77024135737763,46.13027287479859,0 4.77020176051195,46.13018188946891,0 4.77004373901531,46.1303515253208,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.12256">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69242000ZE0019</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TAPONAS</SimpleData>
+					<SimpleData name="Adresse">LES PRES DE BRANDON</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE TAPONAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.11129426540779 </north>
+			<south> 46.1101711833584 </south>
+			<east> 4.7616313759123 </east>
+			<west> 4.76054550322119 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.76134843733541,46.11129426540779,0 4.76161251627431,46.1111616357683,0 4.7616313759123,46.11115206574209,0 4.76112099714623,46.1105261536986,0 4.76083066479223,46.1101711833584,0 4.76056686084825,46.1102678685326,0 4.76054550322119,46.1103166581256,0 4.76134843733541,46.11129426540779,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.12314">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69242000ZB0190</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TAPONAS</SimpleData>
+					<SimpleData name="Adresse">VILLENEUVE</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE TAPONAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1316321521837 </north>
+			<south> 46.1313319933722 </south>
+			<east> 4.76503840886251 </east>
+			<west> 4.76277824925759 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.76373538944384,46.13152342257591,0 4.76390641422939,46.13150374264091,0 4.76495699449322,46.1314968761518,0 4.76494508670558,46.1313884352824,0 4.76503840886251,46.13138176064079,0 4.76493718289236,46.1313319933722,0 4.76429587757445,46.1313756457292,0 4.76418859960801,46.13138343728941,0 4.76354917494144,46.131461463404,0 4.76277824925759,46.1315998934636,0 4.76278900171384,46.1316321521837,0 4.76291691979034,46.1316175563998,0 4.76350485855475,46.1315498810194,0 4.76373538944384,46.13152342257591,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.12396">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69242000ZB0191</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TAPONAS</SimpleData>
+					<SimpleData name="Adresse">AUX PERELLES</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE TAPONAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1314235405872 </north>
+			<south> 46.1308715156555 </south>
+			<east> 4.76730793171597 </east>
+			<west> 4.76579292701877 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.76665539939712,46.1312745605746,0 4.76696347799339,46.13114186588669,0 4.76730793171597,46.1308715156555,0 4.76723167668511,46.13090125504121,0 4.76704816371589,46.13099571342009,0 4.76684849719991,46.13108339727099,0 4.76667215257575,46.1311470291684,0 4.7665741574781,46.1311775566847,0 4.76637568465561,46.13122991315979,0 4.76629051454952,46.1312483515178,0 4.76609455798495,46.13128229380949,0 4.76600424705018,46.1312939664857,0 4.76593790487683,46.131301663493,0 4.76579292701877,46.1313134655623,0 4.76579618120176,46.1313260249399,0 4.76582717206041,46.1314235405872,0 4.76591067748019,46.13140972210699,0 4.76665539939712,46.1312745605746,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.12530">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69242000ZB0193</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TAPONAS</SimpleData>
+					<SimpleData name="Adresse">VILLENEUVE</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">CCOM</SimpleData>
+					<SimpleData name="Denomination">COMMUNAUTE DE COMMUNES SAONE BEAUJOLAIS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1316522773185 </north>
+			<south> 46.1314959416147 </south>
+			<east> 4.76513074933067 </east>
+			<west> 4.76371167738374 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.76373538944384,46.13152342257591,0 4.76371343830015,46.13156600692621,0 4.76371167738374,46.1315837783094,0 4.76371317749757,46.1316062728188,0 4.76372618593301,46.1316522773185,0 4.76449017899724,46.13164482205509,0 4.76513074933067,46.1316386497214,0 4.76510983650343,46.1314959416147,0 4.76495699449322,46.1314968761518,0 4.76390641422939,46.13150374264091,0 4.76373538944384,46.13152342257591,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.12749">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69242000ZB0196</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TAPONAS</SimpleData>
+					<SimpleData name="Adresse">VILLENEUVE</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">CCOM</SimpleData>
+					<SimpleData name="Denomination">COMMUNAUTE DE COMMUNES SAONE BEAUJOLAIS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1333887771639 </north>
+			<south> 46.13287207429881 </south>
+			<east> 4.76442804772242 </east>
+			<west> 4.76357076603121 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.76423307831183,46.13287207429881,0 4.76424259845143,46.1329102967431,0 4.76424332548565,46.13292082378321,0 4.76424019382458,46.13293222141291,0 4.76423376121864,46.1329416887585,0 4.76422329701719,46.13295067831031,0 4.76393099568236,46.133143467946,0 4.7636813193971,46.1333081230736,0 4.76365992630079,46.1333197142292,0 4.76363982454547,46.1333271420492,0 4.76361770519122,46.1333322593477,0 4.76359317687082,46.13333498213051,0 4.76357076603121,46.1333350599582,0 4.76372169006403,46.1333629799474,0 4.76382370304377,46.1333887771639,0 4.76379763897616,46.133379994727,0 4.76378405687399,46.13336453328899,0 4.76378004853012,46.1333486529386,0 4.76378421845108,46.1333332760636,0 4.76426123873918,46.1330186330634,0 4.76427770006744,46.1330108113328,0 4.764293647047,46.1330071408679,0 4.76431345345343,46.1330066530033,0 4.76432987066163,46.1330095504283,0 4.76442804772242,46.1330369379055,0 4.76437227298337,46.13301474625801,0 4.76430823685926,46.1329773708262,0 4.76427091148276,46.1329447144393,0 4.76424350054771,46.1329020862452,0 4.76423307831183,46.13287207429881,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.13254">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69242000ZB0201</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TAPONAS</SimpleData>
+					<SimpleData name="Adresse">VILLENEUVE</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">CCOM</SimpleData>
+					<SimpleData name="Denomination">COMMUNAUTE DE COMMUNES SAONE BEAUJOLAIS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.13218056047031 </north>
+			<south> 46.13213104997551 </south>
+			<east> 4.76401432277433 </east>
+			<west> 4.76392465177386 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.76394950445072,46.13213104997551,0 4.76392465177386,46.1321518821957,0 4.76397454486547,46.13218056047031,0 4.76401432277433,46.1321726467896,0 4.7640078526716,46.1321648210282,0 4.76394950445072,46.13213104997551,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.13440">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69242000ZB0204</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TAPONAS</SimpleData>
+					<SimpleData name="Adresse">VILLENEUVE</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">CCOM</SimpleData>
+					<SimpleData name="Denomination">COMMUNAUTE DE COMMUNES SAONE BEAUJOLAIS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.13235588053411 </north>
+			<south> 46.1316175563998 </south>
+			<east> 4.76322315350714 </east>
+			<west> 4.76278900171384 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.76278900171384,46.1316321521837,0 4.76291820209559,46.131871267101,0 4.76294727070541,46.13192521883129,0 4.76296421277473,46.13195657080291,0 4.76300784029731,46.132092711652,0 4.76309609882284,46.13235588053411,0 4.76311116239577,46.13235294451901,0 4.76322315350714,46.1323304892897,0 4.76313795717261,46.1320739382222,0 4.76310357798181,46.13197566388039,0 4.76309915608315,46.13196303249399,0 4.76308000075489,46.1319111786671,0 4.76291691979034,46.1316175563998,0 4.76278900171384,46.1316321521837,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.13559">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69242000ZB0206</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TAPONAS</SimpleData>
+					<SimpleData name="Adresse">CHAMPAGNE</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">CCOM</SimpleData>
+					<SimpleData name="Denomination">COMMUNAUTE DE COMMUNES SAONE BEAUJOLAIS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1338855334149 </north>
+			<south> 46.1334295432235 </south>
+			<east> 4.76288870198209 </east>
+			<west> 4.75999852719709 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.76288054185062,46.1334295432235,0 4.76258374004173,46.13347837529631,0 4.76115454499841,46.1336060224616,0 4.76003297164431,46.1337677949562,0 4.75999852719709,46.133832999864,0 4.76003778356253,46.1338855334149,0 4.76009018425692,46.1337904167881,0 4.76073010844953,46.1336987120957,0 4.76104196367077,46.13365460538391,0 4.76115460385317,46.13364015851791,0 4.76126797810659,46.13362840228909,0 4.7623745586407,46.1335284588713,0 4.76263604942234,46.1334975591851,0 4.76267087078081,46.1334926052055,0 4.76279764741196,46.1334746046371,0 4.76288870198209,46.1334617521088,0 4.76288054185062,46.1334295432235,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.13561">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69242000ZH0206</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TAPONAS</SimpleData>
+					<SimpleData name="Adresse">LES VILLARDS</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE TAPONAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1143430413052 </north>
+			<south> 46.1141583491433 </south>
+			<east> 4.74886093299957 </east>
+			<west> 4.74819358129608 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.74821487698742,46.1141583491433,0 4.74819358129608,46.11418506787851,0 4.74854069587308,46.11426718070491,0 4.74886093299957,46.1143430413052,0 4.74885889338583,46.1143156010889,0 4.74821487698742,46.1141583491433,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.14015">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69242000ZB0212</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TAPONAS</SimpleData>
+					<SimpleData name="Adresse">CHAMPAGNE</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">CCOM</SimpleData>
+					<SimpleData name="Denomination">COMMUNAUTE DE COMMUNES SAONE BEAUJOLAIS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1334617521088 </north>
+			<south> 46.1333599537882 </south>
+			<east> 4.76339780833144 </east>
+			<west> 4.76288054185062 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.76288870198209,46.1334617521088,0 4.76290830389293,46.1334589258152,0 4.76318979049442,46.1334092498271,0 4.76330391476013,46.1333966692656,0 4.76333505880434,46.133394204103,0 4.76339780833144,46.13339557157181,0 4.7633887610496,46.1333599537882,0 4.76324234924931,46.1333676314982,0 4.76288054185062,46.1334295432235,0 4.76288870198209,46.1334617521088,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.14148">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69242000ZH0214</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TAPONAS</SimpleData>
+					<SimpleData name="Adresse">LES VILLARDS</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE TAPONAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1143759299509 </north>
+			<south> 46.11410609197669 </south>
+			<east> 4.74913455323728 </east>
+			<west> 4.74821487698742 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.74825685833479,46.11410609197669,0 4.74821487698742,46.1141583491433,0 4.74885889338583,46.1143156010889,0 4.74908810783828,46.1143759299509,0 4.74913455323728,46.1143215320373,0 4.74854611357166,46.11417702631941,0 4.74825685833479,46.11410609197669,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.14768">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69242000ZH0223</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TAPONAS</SimpleData>
+					<SimpleData name="Adresse">LES ILINS</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE TAPONAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.11856180785989 </north>
+			<south> 46.1169384657925 </south>
+			<east> 4.76301064404104 </east>
+			<west> 4.76265579575732 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.76291118179753,46.1184059948232,0 4.76300464846739,46.11856180785989,0 4.76301064404104,46.1183976048754,0 4.76300635351939,46.1183164272058,0 4.76295861655711,46.1180640682079,0 4.76269365540167,46.1169679617654,0 4.76265579575732,46.1169384657925,0 4.76272809000502,46.1173668031657,0 4.76282255677324,46.1178886504884,0 4.7628305782932,46.11793275093131,0 4.76291118179753,46.1184059948232,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.15768">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69242000ZE0024</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TAPONAS</SimpleData>
+					<SimpleData name="Adresse">LES PRES DE BRANDON</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE TAPONAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1114667802742 </north>
+			<south> 46.11074728671429 </south>
+			<east> 4.76825666166062 </east>
+			<west> 4.7661563689678 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.76621152153631,46.1113198527165,0 4.7661563689678,46.11133647334221,0 4.76623442760928,46.11144415512511,0 4.76632593865509,46.1114667802742,0 4.76635142397325,46.1114659333517,0 4.76652622802753,46.1114449286555,0 4.76664353578282,46.1113918523955,0 4.76754463680971,46.1111264353819,0 4.76771315466177,46.1110831890011,0 4.76785047159503,46.1110523177234,0 4.7680524974112,46.11101206176009,0 4.76825666166062,46.1109778969797,0 4.76810807628297,46.11074728671429,0 4.76682186443824,46.11113426484789,0 4.76621152153631,46.1113198527165,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.16330">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69242000ZE0025</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TAPONAS</SimpleData>
+					<SimpleData name="Adresse">LES PRES DE BRANDON</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE TAPONAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1113198527165 </north>
+			<south> 46.1105142798137 </south>
+			<east> 4.76810807628297 </east>
+			<west> 4.76602354867402 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.76602354867402,46.1110924647607,0 4.76621152153631,46.1113198527165,0 4.76682186443824,46.11113426484789,0 4.76810807628297,46.11074728671429,0 4.76795721344017,46.1105142798137,0 4.76695105348057,46.1108145720623,0 4.76602354867402,46.1110924647607,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.18748">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69242000ZC0298</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TAPONAS</SimpleData>
+					<SimpleData name="Adresse">LES FARERES</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE TAPONAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.12495473331199 </north>
+			<south> 46.1245754904113 </south>
+			<east> 4.76827743294314 </east>
+			<west> 4.7680791568504 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.7680791568504,46.12458144572949,0 4.76810456881965,46.1246545482559,0 4.76823328202366,46.12495473331199,0 4.76827743294314,46.12494602937,0 4.76810875841041,46.1245754904113,0 4.7680791568504,46.12458144572949,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.18984">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69242000ZE0030</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TAPONAS</SimpleData>
+					<SimpleData name="Adresse">LES PRES DE BRANDON</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE TAPONAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1086841015447 </north>
+			<south> 46.1075935793264 </south>
+			<east> 4.76548230296771 </east>
+			<west> 4.76374004788378 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.76403313774381,46.1086841015447,0 4.76548230296771,46.10785263958649,0 4.76516473711967,46.1075935793264,0 4.76374004788378,46.1084048412588,0 4.76384718481434,46.1085069386576,0 4.76403313774381,46.1086841015447,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.19451">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69242000ZE0031</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TAPONAS</SimpleData>
+					<SimpleData name="Adresse">LES PRES DE BRANDON</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE TAPONAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1084048412588 </north>
+			<south> 46.1066457108175 </south>
+			<east> 4.76516473711967 </east>
+			<west> 4.76265028659105 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.76265028659105,46.10738306677881,0 4.76374004788378,46.1084048412588,0 4.76516473711967,46.1075935793264,0 4.76480250869209,46.10730260681141,0 4.76477911261019,46.1072837853714,0 4.76436852181507,46.1069625789096,0 4.76395108255476,46.1066457108175,0 4.76327764653647,46.1070267281158,0 4.76265028659105,46.10738306677881,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.19915">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69242000ZB0032</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TAPONAS</SimpleData>
+					<SimpleData name="Adresse">LES PERELLES</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE TAPONAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1314379118202 </north>
+			<south> 46.13030503216751 </south>
+			<east> 4.77967333197926 </east>
+			<west> 4.7779792890874 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.77967333197926,46.13125034703459,0 4.77931206068347,46.13105208626,0 4.77849764623174,46.1303228346265,0 4.77835184355754,46.13030503216751,0 4.7779792890874,46.13048200219,0 4.77868233587262,46.13110491600009,0 4.77905600442232,46.1314379118202,0 4.77926049851831,46.13137580099931,0 4.77967333197926,46.13125034703459,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.19925">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69242000ZE0032</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TAPONAS</SimpleData>
+					<SimpleData name="Adresse">LES PRES DE BRANDON</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE TAPONAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.10738306677881 </north>
+			<south> 46.1056475593727 </south>
+			<east> 4.76395108255476 </east>
+			<west> 4.76163453067513 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.7627787179569,46.1056475593727,0 4.76253293523555,46.1058409764668,0 4.7623539684512,46.1059819248437,0 4.76163453067513,46.1064306596674,0 4.76193751681901,46.1067122934636,0 4.76265028659105,46.10738306677881,0 4.76327764653647,46.1070267281158,0 4.76395108255476,46.1066457108175,0 4.7635246468097,46.1063187129065,0 4.7636079942505,46.1062729226394,0 4.76342733712548,46.10614746793231,0 4.76320470278818,46.105985015228,0 4.76298840529975,46.1058182303254,0 4.7627787179569,46.1056475593727,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.20393">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69242000ZE0033</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TAPONAS</SimpleData>
+					<SimpleData name="Adresse">LES PRES DE BRANDON</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE TAPONAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1099982122121 </north>
+			<south> 46.1064998816267 </south>
+			<east> 4.76463939687471 </east>
+			<west> 4.75942239367949 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.75942239367949,46.1084271736625,0 4.75970538945585,46.1086830926486,0 4.76036418270131,46.1092739230716,0 4.76117542031891,46.1099982122121,0 4.7614572485292,46.1099265559182,0 4.76310794995879,46.10952956429671,0 4.76397987427252,46.1095294383046,0 4.76457118500968,46.1094612508678,0 4.76463939687471,46.1094400144707,0 4.76463937792326,46.109322561701,0 4.76164309646861,46.1064998816267,0 4.76138283883582,46.1066500163215,0 4.76130713959539,46.1069706738994,0 4.76129168111446,46.1070499062999,0 4.76100449905743,46.10747103199899,0 4.7604775393942,46.1078332765434,0 4.75997491533909,46.1081146174945,0 4.75974303847172,46.1082455733505,0 4.75942239367949,46.1084271736625,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.20870">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69242000ZC0034</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TAPONAS</SimpleData>
+					<SimpleData name="Adresse">LAYE</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE TAPONAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1305877235007 </north>
+			<south> 46.1209536910224 </south>
+			<east> 4.75349971885267 </east>
+			<west> 4.74999955964785 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.75003688311397,46.1209536910224,0 4.74999955964785,46.12096120179069,0 4.75024376444251,46.12142175310951,0 4.75041974229647,46.1217613997897,0 4.75072272022846,46.1221394397495,0 4.75092035641931,46.1223822857568,0 4.75159625853875,46.1234544232598,0 4.75179927952673,46.1237805004293,0 4.75194980925032,46.12405280421839,0 4.75213197745657,46.12439505509951,0 4.75228470244641,46.1246792139796,0 4.75222668535496,46.1250165244425,0 4.75217231128097,46.1257439660942,0 4.75211910398838,46.1263334910125,0 4.75207043588803,46.1269232160397,0 4.75203529855804,46.1273849215398,0 4.75186360725754,46.129226278998,0 4.75236676453,46.12965635010799,0 4.75287362437781,46.1300844704542,0 4.75347279990597,46.1305877235007,0 4.75349971885267,46.130574697884,0 4.75190111747582,46.1292163329065,0 4.75206955753966,46.1274760851561,0 4.75210968277173,46.1269717891822,0 4.75213912663444,46.12654277718151,0 4.75217040371444,46.1262320901202,0 4.75220738687469,46.1258282716695,0 4.75223995875337,46.12542425105279,0 4.75226811944752,46.12502002827391,0 4.75232450277974,46.1246640082363,0 4.75182357204168,46.1237583284433,0 4.75173073231549,46.1236051990587,0 4.75155499598147,46.1233304016002,0 4.75123374392481,46.1228224930208,0 4.75091647108249,46.1223132612507,0 4.75046317725179,46.1217505521118,0 4.75003688311397,46.1209536910224,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.20872">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69242000ZE0034</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TAPONAS</SimpleData>
+					<SimpleData name="Adresse">LES PRES DE BRANDON</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE TAPONAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.11026891895391 </north>
+			<south> 46.1084271736625 </south>
+			<east> 4.76117542031891 </east>
+			<west> 4.7592024890066 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.76117542031891,46.1099982122121,0 4.76036418270131,46.1092739230716,0 4.75970538945585,46.1086830926486,0 4.75942239367949,46.1084271736625,0 4.75926046839364,46.1085508292744,0 4.7592024890066,46.1086327919919,0 4.75964731906646,46.10919460677,0 4.75981818710943,46.1094146139272,0 4.7600672783121,46.1097357289011,0 4.76025705014022,46.1099797615642,0 4.760263696454,46.1099972223917,0 4.7604526734507,46.11026891895391,0 4.76095330392596,46.1100823620917,0 4.76117542031891,46.1099982122121,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.20874">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69242000ZH0034</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TAPONAS</SimpleData>
+					<SimpleData name="Adresse">PLANCHE D ARDIERES</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE TAPONAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1208802167505 </north>
+			<south> 46.1197723679963 </south>
+			<east> 4.75001155750259 </east>
+			<west> 4.74941347497803 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.75001155750259,46.1208784218032,0 4.75000022662435,46.1208602219849,0 4.74962112072648,46.12014144419831,0 4.74953406450746,46.1199865126994,0 4.74946401736322,46.11979628144739,0 4.74945522483601,46.1197723679963,0 4.74941347497803,46.1197750829613,0 4.74948941256424,46.1199794546794,0 4.74958060460629,46.12014630191,0 4.7497778958713,46.120512822457,0 4.74997107276859,46.1208802167505,0 4.75001155750259,46.1208784218032,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.21031">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69242000ZC0344</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TAPONAS</SimpleData>
+					<SimpleData name="Adresse">VILLENEUVE</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE TAPONAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1315998934636 </north>
+			<south> 46.1312706916855 </south>
+			<east> 4.76493718289236 </east>
+			<west> 4.76277824925759 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.76354917494144,46.131461463404,0 4.76418859960801,46.13138343728941,0 4.76429587757445,46.1313756457292,0 4.76493718289236,46.1313319933722,0 4.76485163335742,46.1313104448968,0 4.76455599454662,46.1312902696766,0 4.76429630281153,46.13127602031889,0 4.76421606837883,46.1312706916855,0 4.76359688709357,46.1314101924491,0 4.76277824925759,46.1315998934636,0 4.76354917494144,46.131461463404,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.21034">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69242000ZC0345</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TAPONAS</SimpleData>
+					<SimpleData name="Adresse">BESSON</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE TAPONAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1312579558567 </north>
+			<south> 46.1311546365898 </south>
+			<east> 4.76504142358989 </east>
+			<west> 4.76442744293619 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.76442744293619,46.1312166073399,0 4.76504142358989,46.1312579558567,0 4.76500713836584,46.1311546365898,0 4.76442744293619,46.1312166073399,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.21108">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69242000ZC0346</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TAPONAS</SimpleData>
+					<SimpleData name="Adresse">LES FARERES</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE TAPONAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1312257444224 </north>
+			<south> 46.1306915588243 </south>
+			<east> 4.76748117679828 </east>
+			<west> 4.76564511648634 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.76748117679828,46.1306915588243,0 4.76723905223258,46.1307802645333,0 4.76673085045727,46.1309662435233,0 4.76635972338803,46.131072086301,0 4.76606473897052,46.1311084696146,0 4.76564511648634,46.1311083297627,0 4.76565747362394,46.1311984791231,0 4.76566495782837,46.1312257444224,0 4.76600963775045,46.1312038113546,0 4.76636726144615,46.1311734794055,0 4.766550897912,46.1311351346599,0 4.76670465090389,46.131082032498,0 4.76681888315822,46.13102468119061,0 4.76748117679828,46.1306915588243,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.21297">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69242000ZC0035</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TAPONAS</SimpleData>
+					<SimpleData name="Adresse">FONTENAY</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE TAPONAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1313239042127 </north>
+			<south> 46.130574697884 </south>
+			<east> 4.75349971885267 </east>
+			<west> 4.74719844116764 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.75349971885267,46.130574697884,0 4.75347279990597,46.1305877235007,0 4.75346345648549,46.1306034500587,0 4.75138411082672,46.1308002793271,0 4.75096242895846,46.1308694716307,0 4.75037253724213,46.131087350322,0 4.74981985375407,46.13122493979251,0 4.74938313032409,46.13127760474811,0 4.74910288894786,46.1312891273436,0 4.74871151190298,46.1313053330861,0 4.74830311675148,46.1312468605456,0 4.74720156586162,46.1309790107969,0 4.74719844116764,46.1309988744548,0 4.74829286200162,46.1312665638011,0 4.74870458956112,46.1313239042127,0 4.74940212626365,46.1312923539394,0 4.74983117523191,46.1312427795115,0 4.75038871910752,46.1311032235794,0 4.75098084667016,46.1308863911807,0 4.75141234378692,46.1308162367865,0 4.75348026057955,46.13062255583461,0 4.75349971885267,46.130574697884,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.21301">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69242000ZE0035</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TAPONAS</SimpleData>
+					<SimpleData name="Adresse">LES PRES DE BRANDON</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE TAPONAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.11141427185891 </north>
+			<south> 46.1064306596674 </south>
+			<east> 4.76621152153631 </east>
+			<west> 4.75912690843227 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.76312069186212,46.1095634133432,0 4.76325903960461,46.1095646870518,0 4.76388335520578,46.109564444741,0 4.76398327487543,46.1095667650687,0 4.76407896511747,46.1095623956874,0 4.76448108779997,46.10953488867531,0 4.76467356570502,46.1095200070756,0 4.76592485874395,46.11105598999531,0 4.7661563689678,46.11133647334221,0 4.76621152153631,46.1113198527165,0 4.76602354867402,46.1110924647607,0 4.76567830776288,46.110666123288,0 4.76543495701483,46.1103676287738,0 4.76532948268624,46.1102409174368,0 4.76481092579709,46.1096074024779,0 4.7647132199099,46.1094926393908,0 4.76477683768725,46.1094533699885,0 4.76470829538975,46.10930716892901,0 4.76403313774381,46.1086841015447,0 4.76384718481434,46.1085069386576,0 4.76374004788378,46.1084048412588,0 4.76265028659105,46.10738306677881,0 4.76193751681901,46.1067122934636,0 4.76163453067513,46.1064306596674,0 4.76131087302574,46.1066268138311,0 4.76121168725149,46.1070267382419,0 4.76093101620573,46.10744497051001,0 4.76043798597221,46.1077911061544,0 4.75938775371327,46.1083887998171,0 4.75912690843227,46.1085372268464,0 4.7592024890066,46.1086327919919,0 4.75926046839364,46.1085508292744,0 4.75942239367949,46.1084271736625,0 4.75974303847172,46.1082455733505,0 4.75997491533909,46.1081146174945,0 4.7604775393942,46.1078332765434,0 4.76100449905743,46.10747103199899,0 4.76129168111446,46.1070499062999,0 4.76130713959539,46.1069706738994,0 4.76138283883582,46.1066500163215,0 4.76164309646861,46.1064998816267,0 4.76463937792326,46.109322561701,0 4.76463939687471,46.1094400144707,0 4.76457118500968,46.1094612508678,0 4.76397987427252,46.1095294383046,0 4.76310794995879,46.10952956429671,0 4.7614572485292,46.1099265559182,0 4.76117542031891,46.1099982122121,0 4.76095330392596,46.1100823620917,0 4.7604526734507,46.11026891895391,0 4.76050995417796,46.1103469329947,0 4.76061781721651,46.11047982650601,0 4.76070761672513,46.1105865191588,0 4.7611027607904,46.1110719983233,0 4.76126960511682,46.1112711693459,0 4.76112582650738,46.11135104154799,0 4.76116644701877,46.11141427185891,0 4.76134143362603,46.11129797693241,0 4.76134843733541,46.11129426540779,0 4.76054550322119,46.1103166581256,0 4.76056686084825,46.1102678685326,0 4.76083066479223,46.1101711833584,0 4.76104730253513,46.11008982086341,0 4.76122169308861,46.1100237050014,0 4.76132496374204,46.1099972429478,0 4.76267867072788,46.10967124822159,0 4.76312069186212,46.1095634133432,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.21303">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69242000ZH0035</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TAPONAS</SimpleData>
+					<SimpleData name="Adresse">PLANCHE D ARDIERES</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE TAPONAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1209385743252 </north>
+			<south> 46.1205272607778 </south>
+			<east> 4.75530942883339 </east>
+			<west> 4.75000022662435 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.75478586036145,46.1206332348631,0 4.75478758656479,46.1206386124464,0 4.75458176407656,46.1206830460302,0 4.75435669447944,46.12070075533439,0 4.75367882405451,46.1207232975176,0 4.75339197453389,46.12072898893279,0 4.7528161222332,46.120778412798,0 4.75229544894545,46.1208278828089,0 4.75159701948386,46.1209206249179,0 4.75151661206742,46.1209052923524,0 4.7514057556287,46.1208774592297,0 4.75102069486919,46.1207807177354,0 4.75074498761169,46.1207377724313,0 4.75039839288341,46.12077085842439,0 4.75000022662435,46.1208602219849,0 4.75001155750259,46.1208784218032,0 4.7504019876595,46.1207901682567,0 4.75074294642139,46.12075906065421,0 4.75097926903301,46.1207895530936,0 4.75160121892381,46.1209385743252,0 4.75221215699768,46.120856099547,0 4.75339825465528,46.12074312316591,0 4.75391805120127,46.1207311311678,0 4.7543485641891,46.12071790439511,0 4.75457568800077,46.1206996229354,0 4.75530942883339,46.1205407447035,0 4.75530187376816,46.1205272607778,0 4.75478586036145,46.1206332348631,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.21688">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69242000ZC0036</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TAPONAS</SimpleData>
+					<SimpleData name="Adresse">LAYE</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE TAPONAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1309967651354 </north>
+			<south> 46.13053974 </south>
+			<east> 4.75492478594564 </east>
+			<west> 4.7535363493757 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.7535363493757,46.1305534159034,0 4.75431617701797,46.1308270760736,0 4.75491688737996,46.1309967651354,0 4.75492478594564,46.1309804302852,0 4.75433042058374,46.1308106432419,0 4.75379910729812,46.13063141267201,0 4.75355288352316,46.13053974,0 4.7535363493757,46.1305534159034,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.21691">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69242000ZD0036</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TAPONAS</SimpleData>
+					<SimpleData name="Adresse">SERVE GODET</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE TAPONAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.130248867143 </north>
+			<south> 46.1254300258684 </south>
+			<east> 4.77217117845928 </east>
+			<west> 4.76901986588559 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.77179412337089,46.1256607773202,0 4.77116543994003,46.1260814018195,0 4.77110093662461,46.1262944361792,0 4.77082161536315,46.1263576994923,0 4.76901986588559,46.12674859250651,0 4.76903928813491,46.126880965075,0 4.76914669415459,46.1275044772039,0 4.76924066494717,46.1277954748554,0 4.76960059580904,46.1286210449353,0 4.76971210689298,46.1288853779697,0 4.76980476085593,46.1290992045457,0 4.76991818191677,46.12935441042019,0 4.77009310199615,46.1297570952151,0 4.77026390436388,46.13016056453691,0 4.77036002807833,46.130248867143,0 4.77027859514169,46.130065760529,0 4.7701654130641,46.1298019944666,0 4.77005635521111,46.1295375335155,0 4.7698557124088,46.1290843592608,0 4.76964464628941,46.1285930667915,0 4.76947300656932,46.12820753390609,0 4.76929546138207,46.12778741532139,0 4.76919185233402,46.1274787337497,0 4.76909875784471,46.1269214713663,0 4.7690758334245,46.1267769036609,0 4.77110436924844,46.1263325729312,0 4.77114931603379,46.126440858285,0 4.77142800280106,46.1270604357807,0 4.77151905724455,46.1272727547758,0 4.77163975579844,46.1275445987735,0 4.77176456691074,46.1278153877001,0 4.77179362865254,46.1278087192949,0 4.77165141011763,46.12748424919999,0 4.77115692801099,46.1263234665178,0 4.77122655828038,46.1261007145006,0 4.77217117845928,46.1254631307246,0 4.77213966818846,46.1254300258684,0 4.77179412337089,46.1256607773202,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.21692">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69242000ZE0036</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TAPONAS</SimpleData>
+					<SimpleData name="Adresse">LES PRES DES RIVES</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE TAPONAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1168275203547 </north>
+			<south> 46.11358235484181 </south>
+			<east> 4.76263695082617 </east>
+			<west> 4.76050962419513 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.76057561629868,46.11358235484181,0 4.76054367971973,46.1136526553609,0 4.76053472710729,46.1136723396652,0 4.76052626340693,46.11369111567389,0 4.76050962419513,46.113733617138,0 4.76059408689108,46.1137625711521,0 4.76066858126613,46.1138078024662,0 4.76074501541357,46.113885249153,0 4.76092962336334,46.11407675939121,0 4.76109331526755,46.11435100902889,0 4.76112990213628,46.1144620397177,0 4.76124913849522,46.1148119181058,0 4.76126677743702,46.1148530772188,0 4.76130252222746,46.1149418733239,0 4.76130588891543,46.1149499275022,0 4.76138301873956,46.1151176144008,0 4.76154728238665,46.11547814284901,0 4.76166259603202,46.1157338671883,0 4.76174269317268,46.1158526891974,0 4.76182177745215,46.11598837020039,0 4.76187073785405,46.11606516171119,0 4.76194433155496,46.1161830937386,0 4.76204909569463,46.11632792358479,0 4.7623591682785,46.11658242561671,0 4.76237990388839,46.1166030002509,0 4.76263695082617,46.1168275203547,0 4.76262417137833,46.11674413262331,0 4.76260145334494,46.1166255011853,0 4.76213320794522,46.116285275303,0 4.76193116033782,46.1160027052702,0 4.76194468287873,46.1158913474486,0 4.76229342650212,46.1155995075479,0 4.76227000924566,46.1155316871106,0 4.76190886751897,46.1158246200804,0 4.76181959900918,46.115811504043,0 4.76133722457686,46.114792266973,0 4.7611844343201,46.11434518192501,0 4.76118449585589,46.1143309497117,0 4.76100916534507,46.1140370650717,0 4.76072518219519,46.1137675634412,0 4.7606565297651,46.1137187287783,0 4.76064553170162,46.1137109730862,0 4.7606218460981,46.1136872013474,0 4.76059812496472,46.113654242888,0 4.76058248967096,46.11361899730941,0 4.76057561629868,46.11358235484181,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.21694">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69242000ZH0036</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TAPONAS</SimpleData>
+					<SimpleData name="Adresse">PLANCHE D ARDIERES</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE TAPONAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1204837493752 </north>
+			<south> 46.1202472878343 </south>
+			<east> 4.75735341779322 </east>
+			<west> 4.75557742884224 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.75557742884224,46.1204640936727,0 4.75558777185064,46.1204837493752,0 4.75642817685138,46.1203796889757,0 4.75735292119649,46.1202681920234,0 4.75735341779322,46.1202472878343,0 4.75711756869423,46.12027615818389,0 4.75557742884224,46.1204640936727,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.22086">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69242000ZC0037</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TAPONAS</SimpleData>
+					<SimpleData name="Adresse">LA PETITE RONCE</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE TAPONAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1313078728352 </north>
+			<south> 46.1278973693558 </south>
+			<east> 4.75786627380545 </east>
+			<west> 4.75491688737996 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.75492478594564,46.1309804302852,0 4.75491688737996,46.1309967651354,0 4.7560179192782,46.1313078728352,0 4.75616092733695,46.1312708938472,0 4.75643391930088,46.1309599796955,0 4.75667908611594,46.1304435928467,0 4.75691741333364,46.1300941228281,0 4.75765423226281,46.1292710895889,0 4.75780195055547,46.1290092180627,0 4.75786627380545,46.1283074691306,0 4.75782593678866,46.1278973693558,0 4.7577855797446,46.1279033083063,0 4.75782900281606,46.12829651702009,0 4.75776496302862,46.1289828593787,0 4.7576318360699,46.12924729720421,0 4.75730427133142,46.1296012123406,0 4.75689478102475,46.1300670013226,0 4.75662862463367,46.1304577039944,0 4.7563955849749,46.1309482329007,0 4.75613121667897,46.1312573923145,0 4.75600401454643,46.1312862906653,0 4.75578628372103,46.1312269679776,0 4.75492478594564,46.1309804302852,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.22090">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69242000ZE0037</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TAPONAS</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE TAPONAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.12092065835749 </north>
+			<south> 46.1195771193983 </south>
+			<east> 4.76955254804573 </east>
+			<west> 4.76787384357366 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.76799527707869,46.12070598919791,0 4.76787384357366,46.1208929768766,0 4.76794714097581,46.12092065835749,0 4.76796083485076,46.12089540526671,0 4.7680340246785,46.1207789741278,0 4.76807715335711,46.1207104787185,0 4.76817672250811,46.1205524740313,0 4.76821302720205,46.12049732533849,0 4.76831615962604,46.1204057377188,0 4.76856360196035,46.1201820191021,0 4.76867305728481,46.1200816857857,0 4.76889168170751,46.11988021263259,0 4.768977767143,46.1198465356902,0 4.76919482987998,46.11976145854641,0 4.76935533220493,46.1196977987613,0 4.76955254804573,46.119619875653,0 4.76950454107727,46.1195771193983,0 4.76943652450721,46.1196047505687,0 4.76905991584027,46.1197550040933,0 4.76903167540105,46.1197629200658,0 4.76886435279236,46.1198319998616,0 4.76883532392179,46.1198395677825,0 4.76850246089037,46.1201456819553,0 4.76818117118516,46.12044125663271,0 4.76815529550968,46.1204622859751,0 4.76799527707869,46.12070598919791,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.22093">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69242000ZH0037</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TAPONAS</SimpleData>
+					<SimpleData name="Adresse">LES ILINS</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE TAPONAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1197141660115 </north>
+			<south> 46.11658242561671 </south>
+			<east> 4.76237990388839 </east>
+			<west> 4.75961671656432 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.7623591682785,46.11658242561671,0 4.76170236614774,46.1168845408766,0 4.76108837482206,46.1171648213773,0 4.76030103176342,46.1175324534652,0 4.75961671656432,46.11850844524571,0 4.75968132316493,46.1191259627788,0 4.75973696108643,46.1197141660115,0 4.75976892544586,46.1197052038661,0 4.759656869341,46.1185165598042,0 4.76035051624337,46.1175407833601,0 4.76136370690422,46.1170711992315,0 4.76169667212869,46.1169210180252,0 4.76203961097768,46.116762844811,0 4.76237990388839,46.1166030002509,0 4.7623591682785,46.11658242561671,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.22178">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69242000ZC0372</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TAPONAS</SimpleData>
+					<SimpleData name="Adresse">2, IMP DU JARDIN</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE TAPONAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1219257627469 </north>
+			<south> 46.12170444376961 </south>
+			<east> 4.76647255871576 </east>
+			<west> 4.76626462468675 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.76626462468675,46.1219246606677,0 4.76628924046406,46.12192481814751,0 4.76641957809687,46.1219257627469,0 4.76643557126476,46.1218592214031,0 4.76644173102657,46.121833275088,0 4.76647255871576,46.12170444376961,0 4.76629191196188,46.1217059032049,0 4.76628388225157,46.1217059380532,0 4.76626462468675,46.1219246606677,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.22242">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69242000ZC0374</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TAPONAS</SimpleData>
+					<SimpleData name="Adresse">LAYE</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE TAPONAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.121016470086 </north>
+			<south> 46.12083342849969 </south>
+			<east> 4.75257781715169 </east>
+			<west> 4.75014780881691 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.75014780881691,46.1209349577269,0 4.75042646176372,46.120871215066,0 4.75057812504749,46.1208505021949,0 4.75073933008447,46.1208446838323,0 4.75091767149072,46.1208644513311,0 4.75123076957946,46.1209385244717,0 4.75137986616989,46.12097540547221,0 4.75146538282611,46.1209966040009,0 4.75163142306808,46.121016470086,0 4.751794587671,46.1210111604243,0 4.75203590640572,46.1209749210671,0 4.75230675142092,46.1209303893039,0 4.75257781715169,46.1208968421434,0 4.75231775037703,46.120921933011,0 4.75158336087878,46.1210081144221,0 4.75135431347985,46.12096616205189,0 4.75119628419184,46.1209253656069,0 4.75103984053482,46.1208814820774,0 4.75098256993843,46.12086462137119,0 4.7507391006849,46.12083342849969,0 4.75043377287541,46.1208608342569,0 4.75015797711189,46.1209207499128,0 4.75014780881691,46.1209349577269,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.22280">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69242000ZC0375</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TAPONAS</SimpleData>
+					<SimpleData name="Adresse">LAYE</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE TAPONAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1208497011188 </north>
+			<south> 46.1206045813225 </south>
+			<east> 4.75535423268094 </east>
+			<west> 4.75306424058553 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.75535423268094,46.1206132797786,0 4.75534009522159,46.1206045813225,0 4.7546128843302,46.1207692134417,0 4.75437176097233,46.12079122407079,0 4.75339261440882,46.1208179692261,0 4.75306424058553,46.1208497011188,0 4.75342437010244,46.1208267561083,0 4.75433808330533,46.1208033636341,0 4.75448146218212,46.12079502319909,0 4.75471892020241,46.1207596483982,0 4.75500721626708,46.1206979070657,0 4.75535423268094,46.1206132797786,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.22473">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69242000ZC0038</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TAPONAS</SimpleData>
+					<SimpleData name="Adresse">LAYE</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE TAPONAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1274727593518 </north>
+			<south> 46.1203039047983 </south>
+			<east> 4.75985637167481 </east>
+			<west> 4.75559611595617 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.75865369059662,46.1255916111955,0 4.75859729987558,46.1256631003775,0 4.75837002789356,46.1260494225038,0 4.75835479191993,46.1260752386501,0 4.75830875859503,46.1262315043487,0 4.75819614661212,46.12661442914181,0 4.75795608226051,46.12719613249409,0 4.75781274590847,46.1274571258586,0 4.75785016623608,46.1274727593518,0 4.75798812491949,46.1272137406914,0 4.75823385370156,46.1266228523721,0 4.75838930302796,46.12609713191469,0 4.75861611907946,46.1256925323731,0 4.75903716367499,46.125200706915,0 4.75925744634448,46.12486736337169,0 4.75934433273356,46.12469254003891,0 4.75967298641367,46.12395363720401,0 4.75985637167481,46.1236373472072,0 4.75984048493101,46.12361453522881,0 4.75964702038183,46.123317326514,0 4.75953722079562,46.1231489737875,0 4.75944525931814,46.12300772617189,0 4.7591185688265,46.12251424438301,0 4.75831680322015,46.12163360852491,0 4.75814388651797,46.12141534183261,0 4.75788137575385,46.1210040886194,0 4.75778110634821,46.1207932533338,0 4.75777709713593,46.1203888959886,0 4.75766375575332,46.1203118385024,0 4.7573442203813,46.1203039047983,0 4.75559611595617,46.12053000695649,0 4.75560199968471,46.1205479301914,0 4.75717072346348,46.1203464916955,0 4.75734280602107,46.12032446290851,0 4.7576547061475,46.120332604895,0 4.75775440480503,46.1204042892024,0 4.75775557333281,46.1207927479343,0 4.75783696441414,46.1209641541617,0 4.7578523725662,46.1209963412075,0 4.75811815797998,46.1214208743045,0 4.75828867791315,46.1216371065164,0 4.75880480813413,46.12220583780729,0 4.75909095336469,46.1225296240609,0 4.75924525746216,46.122752951583,0 4.75939558970015,46.1229776014568,0 4.75954194715529,46.1232034836717,0 4.75965209275758,46.12337858637039,0 4.75979836038408,46.1236056406001,0 4.75981960521397,46.12363800715151,0 4.75964173713575,46.12394457396541,0 4.75933674290988,46.1246295177617,0 4.75922108336633,46.1248523444767,0 4.75899548381746,46.1251895533044,0 4.75865369059662,46.1255916111955,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.22476">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69242000ZD0038</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TAPONAS</SimpleData>
+					<SimpleData name="Adresse">PRE NERON</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE TAPONAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1300570621665 </north>
+			<south> 46.1292096333535 </south>
+			<east> 4.78062040096013 </east>
+			<west> 4.77799886452832 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.78062040096013,46.1300295306232,0 4.78048097157142,46.1299685766991,0 4.77986812492536,46.1294188394045,0 4.77963631695738,46.1292096333535,0 4.77933300896202,46.1293204009157,0 4.77885339385389,46.1294994118346,0 4.77867777690847,46.1295649427805,0 4.77861224014208,46.1295893879591,0 4.77852468602447,46.1296220141843,0 4.77843598395615,46.1296551987493,0 4.77812878249494,46.1297698970746,0 4.77806004898133,46.12979565298761,0 4.77799886452832,46.1298184984348,0 4.77809532030655,46.1298886850874,0 4.77811237774984,46.1298353658061,0 4.77856193496479,46.1296761042341,0 4.77929239884226,46.12940642518631,0 4.77957015642526,46.129302723474,0 4.77966664876774,46.1293060750706,0 4.77993009132147,46.1295519847901,0 4.78017572620636,46.1297760154787,0 4.78042480075677,46.1299981902994,0 4.78055340998666,46.1300570621665,0 4.78062040096013,46.1300295306232,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.22477">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69242000ZE0038</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TAPONAS</SimpleData>
+					<SimpleData name="Adresse">LES PRES DES RIVES</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE TAPONAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.119619875653 </north>
+			<south> 46.1190290992873 </south>
+			<east> 4.7709212085905 </east>
+			<west> 4.76950454107727 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.76950454107727,46.1195771193983,0 4.76955254804573,46.119619875653,0 4.76988915316472,46.11948636689269,0 4.77010412430374,46.1194007801431,0 4.77037842926237,46.1192914796639,0 4.7709212085905,46.1190769307597,0 4.77087523920766,46.1190290992873,0 4.76957197992229,46.11955165890571,0 4.76950454107727,46.1195771193983,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.22479">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69242000ZH0038</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TAPONAS</SimpleData>
+					<SimpleData name="Adresse">LES ILINS</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE TAPONAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1187138638203 </north>
+			<south> 46.11555659136449 </south>
+			<east> 4.75875760589157 </east>
+			<west> 4.75422297331252 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.75875760589157,46.1156096662324,0 4.75873583098456,46.11555659136449,0 4.75757825937215,46.1157962741991,0 4.75607031130002,46.1161080181318,0 4.75543803485569,46.11650564305491,0 4.75461705197804,46.11702516494969,0 4.75445505032198,46.117342106793,0 4.75429722389508,46.1176600647052,0 4.75422297331252,46.1178129817939,0 4.75453748901343,46.1182965768792,0 4.75470484958911,46.1185524942399,0 4.75465591747718,46.1185614469926,0 4.75474808652364,46.1187138638203,0 4.75477577793467,46.118534734799,0 4.75430918814076,46.1178075063019,0 4.75444135114712,46.1175254329882,0 4.7546746390682,46.1170560699782,0 4.75486420518922,46.11694514462279,0 4.7559314195717,46.1162724746757,0 4.75611963685294,46.1161559835924,0 4.75690328065261,46.1159922688418,0 4.75741763553534,46.1158885618233,0 4.75875760589157,46.1156096662324,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.22718">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69242000ZC0386</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TAPONAS</SimpleData>
+					<SimpleData name="Adresse">65, IMP SAINT GENIS</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE TAPONAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1219783828011 </north>
+			<south> 46.12195862532261 </south>
+			<east> 4.76669527061853 </east>
+			<west> 4.76626207859393 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.76626207859393,46.1219783828011,0 4.76669527061853,46.1219756960679,0 4.7666925192548,46.12195862532261,0 4.76626207859393,46.1219783828011,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.22879">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69242000ZC0039</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TAPONAS</SimpleData>
+					<SimpleData name="Adresse">LAYE</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE TAPONAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1210081144221 </north>
+			<south> 46.12058927093841 </south>
+			<east> 4.75534009522159 </east>
+			<west> 4.75015089582628 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.75015797711189,46.1209207499128,0 4.75043377287541,46.1208608342569,0 4.7507391006849,46.12083342849969,0 4.75098256993843,46.12086462137119,0 4.75103984053482,46.1208814820774,0 4.75119628419184,46.1209253656069,0 4.75135431347985,46.12096616205189,0 4.75158336087878,46.1210081144221,0 4.75231775037703,46.120921933011,0 4.75257781715169,46.1208968421434,0 4.75306424058553,46.1208497011188,0 4.75339261440882,46.1208179692261,0 4.75437176097233,46.12079122407079,0 4.7546128843302,46.1207692134417,0 4.75534009522159,46.1206045813225,0 4.7553225082017,46.12058927093841,0 4.75461750464689,46.12074761505351,0 4.75435655916176,46.1207735348357,0 4.75339614479867,46.1207987295744,0 4.7523537277554,46.1208966081937,0 4.75158755646655,46.1209894050002,0 4.75138680950291,46.1209535011877,0 4.75100408170728,46.1208527605185,0 4.75074861342314,46.12081085413949,0 4.75044868301539,46.12083691571469,0 4.75015089582628,46.1208977108398,0 4.75015797711189,46.1209207499128,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.22881">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69242000ZD0039</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TAPONAS</SimpleData>
+					<SimpleData name="Adresse">PRE NERON</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE TAPONAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.13254246373521 </north>
+			<south> 46.13105577229749 </south>
+			<east> 4.78430912210333 </east>
+			<west> 4.78226111266007 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.78232206494803,46.13105577229749,0 4.78226111266007,46.13108176891091,0 4.78242252365225,46.13121308198291,0 4.78250770757306,46.13128299158021,0 4.78271837995242,46.13145910725811,0 4.78292574549233,46.13163707591969,0 4.7841851545045,46.13248657756161,0 4.78417103577139,46.13254246373521,0 4.78430912210333,46.1325059767486,0 4.78369732478165,46.1320902694193,0 4.78337334828816,46.13186819693031,0 4.78298519557876,46.1316047074493,0 4.78265683235485,46.1313351440098,0 4.78232206494803,46.13105577229749,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.22884">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69242000ZE0039</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TAPONAS</SimpleData>
+					<SimpleData name="Adresse">LES PRES DES RIVES</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE TAPONAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1151234138622 </north>
+			<south> 46.1132230509755 </south>
+			<east> 4.76727822283371 </east>
+			<west> 4.76295677897816 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.76725390588322,46.1132230509755,0 4.76722237737151,46.1132293063811,0 4.76713245359422,46.1132681759717,0 4.76662770229317,46.11348391711759,0 4.76615284063564,46.1136868511481,0 4.76445631902843,46.1144184019446,0 4.7641005712519,46.11457227829771,0 4.76305744073212,46.1150228975779,0 4.76295677897816,46.1150663440266,0 4.76296574265763,46.1151034943404,0 4.76297065620977,46.1151234138622,0 4.76308295917766,46.1150754631832,0 4.7640420973132,46.1146670412882,0 4.76408998959296,46.1146460310118,0 4.76470742108516,46.1143814425736,0 4.76714202621591,46.1133402642279,0 4.7671607677832,46.1133310554046,0 4.76721753145321,46.1133081042389,0 4.76724011672288,46.1133016277781,0 4.76727822283371,46.1132904961812,0 4.76725390588322,46.1132230509755,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.23369">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69242000ZC0040</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TAPONAS</SimpleData>
+					<SimpleData name="Adresse">FATRY</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE TAPONAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1236373472072 </north>
+			<south> 46.1227423990892 </south>
+			<east> 4.76064735813416 </east>
+			<west> 4.75984048493101 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.75984048493101,46.12361453522881,0 4.75985637167481,46.1236373472072,0 4.76040016306718,46.1229872499734,0 4.76064735813416,46.1227585091673,0 4.76063492454241,46.1227423990892,0 4.76061640052604,46.1227544856686,0 4.76038003892494,46.12296963782779,0 4.76008545771817,46.1233244016311,0 4.7600582581641,46.1233567985478,0 4.7599759084704,46.1234548115381,0 4.75984048493101,46.12361453522881,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.23739">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69242000ZC0041</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TAPONAS</SimpleData>
+					<SimpleData name="Adresse">LAYE</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE TAPONAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.130574697884 </north>
+			<south> 46.1209207499128 </south>
+			<east> 4.75355288352316 </east>
+			<west> 4.75003688311397 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.75191812089603,46.12379451926151,0 4.75189249954034,46.1237466365535,0 4.75101366124888,46.1223430170059,0 4.75066358117879,46.1219137331376,0 4.75050949890453,46.1217246180608,0 4.75011842028477,46.1209760327489,0 4.75014780881691,46.1209349577269,0 4.75015797711189,46.1209207499128,0 4.75003688311397,46.1209536910224,0 4.75046317725179,46.1217505521118,0 4.75091647108249,46.1223132612507,0 4.75123374392481,46.1228224930208,0 4.75155499598147,46.1233304016002,0 4.75173073231549,46.1236051990587,0 4.75182357204168,46.1237583284433,0 4.75232450277974,46.1246640082363,0 4.75226811944752,46.12502002827391,0 4.75223995875337,46.12542425105279,0 4.75220738687469,46.1258282716695,0 4.75217040371444,46.1262320901202,0 4.75213912663444,46.12654277718151,0 4.75210968277173,46.1269717891822,0 4.75206955753966,46.1274760851561,0 4.75190111747582,46.1292163329065,0 4.75349971885267,46.130574697884,0 4.7535363493757,46.1305534159034,0 4.75355288352316,46.13053974,0 4.75196655002418,46.12920451486,0 4.75206714046112,46.1281471510931,0 4.75213886406621,46.1273868362433,0 4.75217142367367,46.1269661527648,0 4.75223421365544,46.12619795930019,0 4.75230154496608,46.12543005593841,0 4.75231230253695,46.12528820826999,0 4.75233267175069,46.1250213738829,0 4.75238925310934,46.124667512454,0 4.75191812089603,46.12379451926151,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.24146">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69242000ZC0042</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TAPONAS</SimpleData>
+					<SimpleData name="Adresse">LAYE</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE TAPONAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1279033083063 </north>
+			<south> 46.1275427345798 </south>
+			<east> 4.75782593678866 </east>
+			<west> 4.75762389320106 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.75762389320106,46.1275427345798,0 4.7577855797446,46.1279033083063,0 4.75782593678866,46.1278973693558,0 4.75767756469072,46.1275601882091,0 4.75762389320106,46.1275427345798,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.25544">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69242000ZB0046</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TAPONAS</SimpleData>
+					<SimpleData name="Adresse">AUX PERELLES</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE TAPONAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.13057931910841 </north>
+			<south> 46.1304165447696 </south>
+			<east> 4.77021165440825 </east>
+			<west> 4.76836266805143 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.76935613779756,46.1305058152263,0 4.77021165440825,46.1304364571696,0 4.77002718045464,46.1304165447696,0 4.76966409340572,46.1304459827109,0 4.76901355866531,46.13049629090261,0 4.76836266805143,46.13054362853659,0 4.76837230443006,46.1305652757381,0 4.76837858663297,46.13057931910841,0 4.76899168821297,46.130533200592,0 4.76935613779756,46.1305058152263,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.25912">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69242000ZB0047</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TAPONAS</SimpleData>
+					<SimpleData name="Adresse">AUX PERELLES</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE TAPONAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1332176433802 </north>
+			<south> 46.1304400364941 </south>
+			<east> 4.77217277743769 </east>
+			<west> 4.77041814915142 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.77217277743769,46.1332169076095,0 4.77210211443946,46.1331349644687,0 4.77190155905502,46.1328700413951,0 4.77112996921592,46.1318235589187,0 4.77110530137528,46.1317898065904,0 4.77043848285904,46.1304400364941,0 4.77041814915142,46.1304643125161,0 4.77110550540661,46.13183628026209,0 4.7715510696434,46.1324392937715,0 4.77213717304127,46.1332176433802,0 4.77217277743769,46.1332169076095,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.25915">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69242000ZE0047</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TAPONAS</SimpleData>
+					<SimpleData name="Adresse">LES PRES DES RIVES</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE TAPONAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1158853480587 </north>
+			<south> 46.1156175704281 </south>
+			<east> 4.7634642899632 </east>
+			<west> 4.76313853724227 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.76313853724227,46.115680959999,0 4.76319548225636,46.1158853480587,0 4.7634642899632,46.11583487607641,0 4.76338076707475,46.1156175704281,0 4.76313853724227,46.115680959999,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.27031">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69242000ZB0050</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TAPONAS</SimpleData>
+					<SimpleData name="Adresse">LES PERELLES</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE TAPONAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1322439535023 </north>
+			<south> 46.13077045207561 </south>
+			<east> 4.77688490641046 </east>
+			<west> 4.77627311379817 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.77682627183015,46.1318782350396,0 4.77674961685632,46.1316793854937,0 4.77663566332021,46.1313648370738,0 4.77651772323492,46.1310511615667,0 4.77643250468631,46.1308318194188,0 4.77648186786246,46.130795919262,0 4.77627311379817,46.13077045207561,0 4.77636162281326,46.1308152742437,0 4.77653092804007,46.1312870325523,0 4.77678911662096,46.1319831192809,0 4.77674103568133,46.1320466514634,0 4.77631072855661,46.1322010106523,0 4.77634087943907,46.1322439535023,0 4.77645150524744,46.132203492187,0 4.77685430832106,46.1320559579085,0 4.77688490641046,46.1320446705378,0 4.77682627183015,46.1318782350396,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.27942">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69242000ZA0053</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TAPONAS</SimpleData>
+					<SimpleData name="Adresse">LES COMBARDES</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE TAPONAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.13445165797339 </north>
+			<south> 46.1339365210836 </south>
+			<east> 4.75556253882425 </east>
+			<west> 4.75261264292667 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.75556253882425,46.1339365210836,0 4.75261264292667,46.1344318100654,0 4.75261638611966,46.13445165797339,0 4.75554841871606,46.13396087840069,0 4.75556253882425,46.1339365210836,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.28208">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69242000ZA0054</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TAPONAS</SimpleData>
+					<SimpleData name="Adresse">BOIS BETTU</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE TAPONAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1353196634687 </north>
+			<south> 46.13400939662121 </south>
+			<east> 4.75556739529356 </east>
+			<west> 4.74794660442286 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.75155141848837,46.1347036241959,0 4.75406550509981,46.1342813877285,0 4.75556739529356,46.1340275978733,0 4.75555618935349,46.13400939662121,0 4.74856032043334,46.1351930471612,0 4.74794660442286,46.1352992310648,0 4.7479533445004,46.1353196634687,0 4.74865422841669,46.1351963749566,0 4.75155141848837,46.1347036241959,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.28485">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69242000ZA0055</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TAPONAS</SimpleData>
+					<SimpleData name="Adresse">CHAMP DE LA LIE</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE TAPONAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1396762449546 </north>
+			<south> 46.13317025382329 </south>
+			<east> 4.75933215479448 </east>
+			<west> 4.75433052532996 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.75435931457003,46.1363679369857,0 4.75435782111424,46.13628878767249,0 4.7544676165107,46.13614459922219,0 4.75467766304791,46.1358738432112,0 4.75482608431829,46.1356815901627,0 4.7548464872695,46.1356551543029,0 4.75496473429896,46.1354512077318,0 4.75510485622521,46.1351980143997,0 4.75514981652391,46.1351170662771,0 4.75539287639949,46.13463106929759,0 4.75554972026109,46.1344268857027,0 4.75561997659639,46.1343348278653,0 4.75565000690887,46.1342894181673,0 4.75568237086367,46.13424000925719,0 4.7557366556245,46.1341427940015,0 4.7557487095452,46.1341186487477,0 4.75933215479448,46.1331845454522,0 4.75931861151139,46.13317025382329,0 4.75911663693309,46.13322292185221,0 4.75850596868125,46.13338252842589,0 4.75828702928392,46.1334395108576,0 4.757734808519,46.1335836167182,0 4.75574958393913,46.13410143166431,0 4.75570910998784,46.1341119652301,0 4.7556248761015,46.13428143008011,0 4.75537205056881,46.1346280585846,0 4.75509148910353,46.1351851606913,0 4.7548085156937,46.13567510631219,0 4.75433124781141,46.1362843343402,0 4.75433052532996,46.1363711739168,0 4.75459047298204,46.136838589516,0 4.75506775867352,46.13859606534331,0 4.75511371188387,46.1394495883314,0 4.75512873469461,46.1396762449546,0 4.7551503105753,46.13967023705211,0 4.75510869437973,46.13887942652589,0 4.75509441093639,46.13860700241099,0 4.75461123626416,46.1368315134013,0 4.75435931457003,46.1363679369857,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.28765">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69242000ZA0056</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TAPONAS</SimpleData>
+					<SimpleData name="Adresse">CHAMP DE LA LIE</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE TAPONAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1380874009356 </north>
+			<south> 46.13317893271349 </south>
+			<east> 4.76192274384575 </east>
+			<west> 4.75606821717313 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.76054261837741,46.1348290393968,0 4.76068682723213,46.13502315874201,0 4.76110092145693,46.1355809435166,0 4.76122997469557,46.1357548510985,0 4.76126282991978,46.13580162890759,0 4.76137416823479,46.1360169735928,0 4.76166368392215,46.136644872477,0 4.76169810176949,46.1367281948213,0 4.76188531284847,46.1371678101637,0 4.75958200165701,46.13761982900429,0 4.75897502619739,46.1377344346373,0 4.75804159978097,46.1379439818196,0 4.75800714350503,46.13794829817969,0 4.75707435567251,46.13806469396619,0 4.75689460026938,46.1376504460304,0 4.75659729813008,46.1369639299199,0 4.75643045111205,46.1365520036596,0 4.75634780969339,46.1363825971878,0 4.75623704620098,46.13618056949581,0 4.75613112970866,46.1359801781031,0 4.75609375119969,46.1359052765928,0 4.75606821717313,46.1359130572551,0 4.75640494564255,46.13656068466189,0 4.75665745807147,46.1371635875554,0 4.75691847425008,46.1377648271905,0 4.75706212584988,46.1380874009356,0 4.75793338319102,46.1379795236701,0 4.75800523399457,46.1379695845072,0 4.75805799325126,46.1379622826862,0 4.75897929314853,46.1377584175285,0 4.76192274384575,46.13718353233239,0 4.76141890357608,46.136022134371,0 4.76128409925166,46.1357780606845,0 4.76030722333967,46.13445384926641,0 4.75935723837747,46.13317893271349,0 4.75933215479448,46.1331845454522,0 4.75949075329942,46.1333953766377,0 4.75985049237506,46.1338870849577,0 4.76002791445282,46.1341232039372,0 4.76024310500483,46.1344179139752,0 4.76037503677722,46.1345969118926,0 4.76054261837741,46.1348290393968,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.29063">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69242000ZA0057</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TAPONAS</SimpleData>
+					<SimpleData name="Adresse">LES COMBARDES</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE TAPONAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1331845454522 </north>
+			<south> 46.131409245831 </south>
+			<east> 4.75935723837747 </east>
+			<west> 4.7562037639188 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.75931861151139,46.13317025382329,0 4.75933215479448,46.1331845454522,0 4.75935723837747,46.13317893271349,0 4.75932271449393,46.1331325405317,0 4.75893267326295,46.1326126574187,0 4.75866858350386,46.1323480655797,0 4.75857298327077,46.13217048475699,0 4.75843025952315,46.13209100043781,0 4.75807020096823,46.1320537015412,0 4.75761299758041,46.1319765625197,0 4.75736377739056,46.131884764161,0 4.7564394055229,46.13147960480359,0 4.7562131585416,46.131409245831,0 4.7562037639188,46.1314233521367,0 4.75641968919493,46.1314909885063,0 4.75673836569717,46.1316319740508,0 4.75735180494477,46.13190332394069,0 4.75752238034235,46.1319666160881,0 4.75760445245887,46.1319969607719,0 4.75805286801998,46.1320747763074,0 4.75815634536571,46.132085784208,0 4.75842778368746,46.13211481754589,0 4.75855377416729,46.1321896070923,0 4.75864351496333,46.13235818149349,0 4.75878143031086,46.1324978174583,0 4.75887311132854,46.1325894409191,0 4.75890938611727,46.132625808215,0 4.75903185501964,46.13278874134809,0 4.75907300049131,46.1328436778673,0 4.75931861151139,46.13317025382329,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.29326">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69242000ZA0058</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TAPONAS</SimpleData>
+					<SimpleData name="Adresse">LES COMBARDES</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE TAPONAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1313718966507 </north>
+			<south> 46.130685126349 </south>
+			<east> 4.75594910258802 </east>
+			<west> 4.75348346469869 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.75594910258802,46.1313718966507,0 4.75593765514539,46.1313461332071,0 4.75571510738157,46.1312941806199,0 4.7542471374852,46.13085984764481,0 4.75375672695458,46.1307079069835,0 4.7534879596155,46.130685126349,0 4.75348346469869,46.1307025794579,0 4.75375127101494,46.13072771679221,0 4.7542744274499,46.13089086083049,0 4.75553250589616,46.1312598043991,0 4.75568250554363,46.1313077449825,0 4.75582492285291,46.1313413912465,0 4.75594910258802,46.1313718966507,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.29571">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69242000ZA0059</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TAPONAS</SimpleData>
+					<SimpleData name="Adresse">LES COMBARDES</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE TAPONAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1314055854516 </north>
+			<south> 46.130685126349 </south>
+			<east> 4.7534879596155 </east>
+			<west> 4.74726997479907 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.75348346469869,46.1307025794579,0 4.7534879596155,46.130685126349,0 4.75142153953542,46.1308811261638,0 4.75100088124932,46.1309539957212,0 4.75041808248136,46.13116275817421,0 4.74985095377249,46.1312942654908,0 4.74940231543076,46.1313633268729,0 4.74869928525008,46.13138919719561,0 4.7482897671064,46.1313320929541,0 4.74727911607968,46.1310750940369,0 4.74726997479907,46.1310931587873,0 4.74771147521123,46.1312067892687,0 4.74828721280613,46.13134951595279,0 4.74868788859031,46.1314055854516,0 4.7489388544307,46.1313982076899,0 4.74939430252215,46.13138425668851,0 4.74985559896116,46.1313180626942,0 4.74995633113068,46.131291830974,0 4.75042807164635,46.13118350064249,0 4.75101340602632,46.1309689345036,0 4.75140132387032,46.130905306756,0 4.75145815760157,46.1308959635034,0 4.75348346469869,46.1307025794579,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.29927">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69242000ZA0060</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TAPONAS</SimpleData>
+					<SimpleData name="Adresse">CHAMP DE LA LIE</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE TAPONAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1420231013865 </north>
+			<south> 46.1363711739168 </south>
+			<east> 4.75532796679723 </east>
+			<west> 4.75426026161593 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.75503794147242,46.1394342762532,0 4.75504971499056,46.13968088877801,0 4.75496589349881,46.140730700163,0 4.75509096370168,46.14128675712839,0 4.7551988418548,46.1417670597671,0 4.75524264873158,46.1419618367667,0 4.75515416341047,46.1420231013865,0 4.75525302776863,46.14201085511299,0 4.75524356485834,46.1420228907217,0 4.75532530468039,46.1420100083192,0 4.75532796679723,46.1420041125637,0 4.7553269879536,46.14198566314379,0 4.75524302612638,46.14159686338701,0 4.75506648624848,46.1408049855062,0 4.75504649178286,46.14071864620921,0 4.75512873469461,46.1396762449546,0 4.75511371188387,46.1394495883314,0 4.75506775867352,46.13859606534331,0 4.75459047298204,46.136838589516,0 4.75433052532996,46.1363711739168,0 4.75429358623339,46.13637480694759,0 4.75426026161593,46.1363780238494,0 4.75429935599488,46.1364458738859,0 4.75451323581814,46.1368583374128,0 4.75460219236529,46.1371605923274,0 4.75478597392421,46.1378391397132,0 4.75486012956317,46.1381079366021,0 4.75499608216732,46.13861554745679,0 4.75500527888497,46.13879374587111,0 4.75503794147242,46.1394342762532,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.30180">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69242000ZA0061</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TAPONAS</SimpleData>
+					<SimpleData name="Adresse">CHAMP DE LA LIE</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE TAPONAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1405802203202 </north>
+			<south> 46.1394801156169 </south>
+			<east> 4.76296924211394 </east>
+			<west> 4.75895531279715 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.75993030952027,46.1403522330441,0 4.76126896410428,46.13999794812209,0 4.76171277368244,46.1398816283183,0 4.76290790797287,46.13956170529511,0 4.76296924211394,46.1395954306305,0 4.76293016484003,46.1394801156169,0 4.76289211985043,46.1395260119654,0 4.75910944415073,46.1405335631582,0 4.75900435526225,46.1403029875788,0 4.75895531279715,46.1403171677146,0 4.75907452943521,46.1405802203202,0 4.75993030952027,46.1403522330441,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.31557">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69242000ZE0067</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TAPONAS</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE TAPONAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1216640066581 </north>
+			<south> 46.1209938511726 </south>
+			<east> 4.76776292911094 </east>
+			<west> 4.766974497162 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.76776292911094,46.12119347072191,0 4.767561820963,46.1209938511726,0 4.76728294459622,46.1211024051346,0 4.76724469585347,46.121117321862,0 4.76698396446168,46.1212182067753,0 4.766974497162,46.1212218669023,0 4.76705650007927,46.1212986825108,0 4.76726784392933,46.1214863442627,0 4.76747925589626,46.1216640066581,0 4.76753279336558,46.1216371425607,0 4.76770128425338,46.12150355554219,0 4.76776292911094,46.12119347072191,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.32276">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69242000ZE0007</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TAPONAS</SimpleData>
+					<SimpleData name="Adresse">LES PRES DES RIVES</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE TAPONAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.115680959999 </north>
+			<south> 46.1146670412882 </south>
+			<east> 4.76426662029575 </east>
+			<west> 4.76297065620977 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.76297065620977,46.1151234138622,0 4.76309233184434,46.1155165769206,0 4.76312169036487,46.11562015330779,0 4.76313853724227,46.115680959999,0 4.76338076707475,46.1156175704281,0 4.76404604178919,46.1154428543986,0 4.76426662029575,46.1153828617725,0 4.76411290354434,46.1148996760797,0 4.76407790712185,46.1147899726114,0 4.76407090106393,46.1147654019391,0 4.7640420973132,46.1146670412882,0 4.76308295917766,46.1150754631832,0 4.76297065620977,46.1151234138622,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.33531">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69242000ZE0075</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TAPONAS</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE TAPONAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1179502805786 </north>
+			<south> 46.11755493915371 </south>
+			<east> 4.76498057988442 </east>
+			<west> 4.76434281186863 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.76479349283202,46.11755493915371,0 4.76434906874842,46.1175979655439,0 4.76434281186863,46.1177740621452,0 4.76434437767226,46.1177945740719,0 4.76445588158999,46.1177901389756,0 4.76449259566235,46.1179491747401,0 4.76454314424262,46.1179502805786,0 4.76453771559262,46.117918389635,0 4.76484984551916,46.1178091451442,0 4.76492908139461,46.11777999123139,0 4.76492427340146,46.11777547233981,0 4.76489232065003,46.1177444441148,0 4.76498057988442,46.1177099257489,0 4.76492837113441,46.1176611981812,0 4.76481750074591,46.1176369812137,0 4.76479349283202,46.11755493915371,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.34860">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69242000ZE0081</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TAPONAS</SimpleData>
+					<SimpleData name="Adresse">LES PRES DE BRANDON</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE BELLEVILLE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1125117767828 </north>
+			<south> 46.1106966175115 </south>
+			<east> 4.75992724742093 </east>
+			<west> 4.75706765078156 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.75942181172668,46.1106966175115,0 4.75776600227668,46.1112191028154,0 4.75779400347182,46.1112483026315,0 4.75706765078156,46.1118160978323,0 4.75798533580737,46.1123906848514,0 4.75816909875512,46.1125117767828,0 4.75966367481084,46.1118306482356,0 4.75966613688334,46.111798364569,0 4.75958755624016,46.1117588704761,0 4.75976745818831,46.11165033805099,0 4.75992724742093,46.1115446391537,0 4.75988974152945,46.11143308194901,0 4.75942181172668,46.1106966175115,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.37260">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69242000ZE0094</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TAPONAS</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE TAPONAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1179474529531 </north>
+			<south> 46.1179280082382 </south>
+			<east> 4.7641645499482 </east>
+			<west> 4.76412494797738 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.76416291039274,46.1179474529531,0 4.7641645499482,46.11792995364,0 4.76412744456043,46.1179280082382,0 4.76412494797738,46.1179470520804,0 4.76416291039274,46.1179474529531,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.37604">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69242000ZE0096</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TAPONAS</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE TAPONAS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.11777781209499 </north>
+			<south> 46.1175979655439 </south>
+			<east> 4.76434906874842 </east>
+			<west> 4.76414787495455 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.76434906874842,46.1175979655439,0 4.76416129442719,46.11761097162751,0 4.76414787495455,46.11777781209499,0 4.76434281186863,46.1177740621452,0 4.76434906874842,46.1175979655439,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

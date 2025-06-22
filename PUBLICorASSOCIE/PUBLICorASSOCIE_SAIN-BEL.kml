@@ -1,0 +1,1288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>SAIN-BEL_PUBLICorASSOCIE</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_9">
+		<name>SAIN-BEL_PUBLICorASSOCIE</name>
+		<Schema name="SAIN-BEL_PUBLICorASSOCIE" id="SAIN-BEL_PUBLICorASSOCIE.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="PUBLICorASSOCIE">
+			<LineStyle>
+				<color>BFdb2105</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4Cdb2105</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.602">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">691710000U0052</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAIN-BEL</SimpleData>
+					<SimpleData name="Adresse">GDS CHAMPS</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">CCOM</SimpleData>
+					<SimpleData name="Denomination">COMMUNAUTE COMMUNES PAYS DE L ARBRESLE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8200769606149 </north>
+			<south> 45.8194618834921 </south>
+			<east> 4.59474877586288 </east>
+			<west> 4.59404210846788 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.59474877586288,45.81965999410829,0 4.5946684894078,45.8196320361908,0 4.59464789661465,45.81961926722891,0 4.59457669264287,45.8195801927525,0 4.59450085979661,45.8195458671047,0 4.59447600089808,45.81954594793221,0 4.59446473752231,45.8195395320554,0 4.5944455351033,45.8195347594279,0 4.59442533504975,45.819535585066,0 4.59425497463272,45.8194618834921,0 4.59404210846788,45.8197228418689,0 4.5944076083444,45.8200769606149,0 4.59448492960241,45.81998886364921,0 4.59462037393281,45.8198259103813,0 4.59474877586288,45.81965999410829,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.1758">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">691710000U1004</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAIN-BEL</SimpleData>
+					<SimpleData name="Adresse">LA BAYARDE</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SOCIETE NATIONALE SNCF</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8068392929938 </north>
+			<south> 45.8020855581513 </south>
+			<east> 4.59902714338328 </east>
+			<west> 4.59313712723168 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.59330298664962,45.8020855581513,0 4.59324821335519,45.8020974095404,0 4.59313712723168,45.8021213141005,0 4.59318884298895,45.8022132635209,0 4.59324822249369,45.8023030332029,0 4.593276775457,45.8023419896324,0 4.59414815577111,45.80338896966411,0 4.59453723668201,45.8038543467512,0 4.59472814738659,45.80407051370489,0 4.59499854240736,45.8043544588982,0 4.59513846867593,45.80446839851581,0 4.595182016221,45.80450029749611,0 4.59528748048553,45.8045714014837,0 4.5954138600218,45.8046487847072,0 4.59553412083587,45.8045990790718,0 4.59557854378875,45.8046300648567,0 4.59555931203371,45.8046909520613,0 4.59556013131851,45.80470147837021,0 4.59556788512228,45.8047246962397,0 4.59558330795772,45.8047459142961,0 4.59561873968122,45.8047821609958,0 4.59580598816462,45.80489362957999,0 4.59601340886504,45.8050123783341,0 4.59628183292475,45.80510747705759,0 4.59632552945249,45.8050687606304,0 4.59639205948975,45.8051026759202,0 4.59635557817498,45.8051370571726,0 4.59640313813029,45.8051607028224,0 4.59676471169879,45.805350675148,0 4.59676285973,45.80538015340169,0 4.59694665534761,45.805389892767,0 4.59730192788588,45.80556671263929,0 4.59767330500471,45.80578374380391,0 4.59775648682681,45.8058634471296,0 4.59793151025618,45.80607731192679,0 4.59802743667923,45.8061701646553,0 4.5983382019136,45.8064419120806,0 4.59850620366791,45.8066132735364,0 4.59866746967436,45.80678770237209,0 4.59871326548232,45.8068392929938,0 4.5988828181744,45.8068061787127,0 4.59900242842072,45.8067828683964,0 4.59902714338328,45.8067780149516,0 4.59887081968801,45.8065608246167,0 4.59872938819086,45.806493205446,0 4.59868338974213,45.806421262449,0 4.59857166288404,45.8063476382402,0 4.59842160026932,45.8062087173921,0 4.59829561310595,45.8060606288823,0 4.59824644110993,45.8060035917893,0 4.59819655729303,45.8059353063174,0 4.59815408001511,45.80586484442,0 4.59800200567181,45.805798726059,0 4.59775121443209,45.805636731836,0 4.59755716742436,45.8055397733902,0 4.59728041037815,45.8053437398426,0 4.59689912178924,45.8052024142584,0 4.59651232276815,45.8050441425985,0 4.59647899089116,45.8050315542106,0 4.59619917954946,45.8049033820849,0 4.59603091583622,45.80480272402459,0 4.5959509973264,45.8047644944409,0 4.5958210763531,45.8047027435332,0 4.59575297825827,45.8046145394247,0 4.59568760763307,45.80457169070879,0 4.59563012255649,45.8045788980527,0 4.59562309469392,45.80458971541399,0 4.5955820264598,45.8045589524321,0 4.59560143534829,45.8045309373299,0 4.59559007700427,45.8044899370611,0 4.5950527399113,45.8040729529876,0 4.59392926520271,45.8028680485917,0 4.59330298664962,45.8020855581513,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.1933">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">691710000U1032</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAIN-BEL</SimpleData>
+					<SimpleData name="Adresse">LA BAYARDE</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SOCIETE NATIONALE SNCF</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.80514684518149 </north>
+			<south> 45.8050687606304 </south>
+			<east> 4.59639205948975 </east>
+			<west> 4.59628183292475 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.59635557817498,45.8051370571726,0 4.59639205948975,45.8051026759202,0 4.59632552945249,45.8050687606304,0 4.59628183292475,45.80510747705759,0 4.59628296566343,45.8051154770427,0 4.59634491475109,45.80514684518149,0 4.59635557817498,45.8051370571726,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.2097">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">691710000U1062</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAIN-BEL</SimpleData>
+					<SimpleData name="Adresse">LE GD BELICHON</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SOCIETE NATIONALE SNCF</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8021213141005 </north>
+			<south> 45.799078706646 </south>
+			<east> 4.59330298664962 </east>
+			<west> 4.59161176670368 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.59161176670368,45.7991848408226,0 4.59170912113899,45.7993056893745,0 4.59179934060427,45.799429160353,0 4.59186084956765,45.7995215126027,0 4.59191356453888,45.7996125477683,0 4.59195847991656,45.7997054942608,0 4.59198815858725,45.79977911102439,0 4.59203681422436,45.8000777185147,0 4.59213310766321,45.8002733375898,0 4.59223719645821,45.80046686515301,0 4.59234869452488,45.80065830663009,0 4.59239206142031,45.8007287579857,0 4.59272134668035,45.8012874834955,0 4.59274792124393,45.8013561001174,0 4.5927666777136,45.8014259979253,0 4.59277734823348,45.8014968204329,0 4.59277897266411,45.8015174229349,0 4.59313712723168,45.8021213141005,0 4.59324821335519,45.8020974095404,0 4.59330298664962,45.8020855581513,0 4.59328421922464,45.8020465536783,0 4.59326060281315,45.8019823087146,0 4.59324506731268,45.8019169589492,0 4.59323749176724,45.80185077629441,0 4.59316412837179,45.8017806585307,0 4.59315496525869,45.8017576405441,0 4.59305691744279,45.8014701782964,0 4.59294445707154,45.80134819296411,0 4.59291050545239,45.8011622326596,0 4.59281210722187,45.8010500462456,0 4.59283169262368,45.8009343936039,0 4.59281631681297,45.8007629422035,0 4.59286646038367,45.8005772362872,0 4.59278754311087,45.8002877025622,0 4.5926938402164,45.80011501463229,0 4.59269468369954,45.7998406576045,0 4.59243433837776,45.79962717843691,0 4.59246653068034,45.7995334145103,0 4.59227569132022,45.7991580941392,0 4.59227098382756,45.7991511352935,0 4.5922291671285,45.7991522655749,0 4.59191208158038,45.7991590797132,0 4.59186971820161,45.799078706646,0 4.59172395153765,45.79913669409031,0 4.59161176670368,45.7991848408226,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.2154">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">691710000U1079</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAIN-BEL</SimpleData>
+					<SimpleData name="Adresse">LE MARTINET</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SOCIETE NATIONALE SNCF</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7991848408226 </north>
+			<south> 45.797302649573 </south>
+			<east> 4.59186971820161 </east>
+			<west> 4.59004939111532 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.59021909117512,45.7973270173428,0 4.5901858261918,45.7973478412035,0 4.59017011468916,45.7973298689633,0 4.59014589612517,45.797302649573,0 4.5901167567385,45.7973191821295,0 4.59009078325294,45.79733386873279,0 4.59012691756973,45.79737244887839,0 4.59014186108586,45.7973861087149,0 4.59004939111532,45.7974436133748,0 4.59055024092432,45.7980056018002,0 4.59062122587985,45.7980426098894,0 4.59086954566147,45.7984023516638,0 4.59136380706351,45.7988959784453,0 4.59161176670368,45.7991848408226,0 4.59172395153765,45.79913669409031,0 4.59186971820161,45.799078706646,0 4.59184083469279,45.7990237225823,0 4.5917108727112,45.7989063061914,0 4.59158184978005,45.79874996733911,0 4.59118096594165,45.7983241968874,0 4.59068054148746,45.7979069432599,0 4.5906361542112,45.7977740890664,0 4.5905378083437,45.79767676120011,0 4.59021909117512,45.7973270173428,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.4145">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">691710000U1450</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAIN-BEL</SimpleData>
+					<SimpleData name="Adresse">2, LE CALOIS</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SOCIETE NATIONALE SNCF</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.816666426847 </north>
+			<south> 45.8160541552707 </south>
+			<east> 4.60623251272976 </east>
+			<west> 4.60567871334048 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.60567871334048,45.8160541552707,0 4.60590368671928,45.81636231977309,0 4.60614055325548,45.816636449229,0 4.6061669294654,45.816666426847,0 4.60621457830712,45.8166483659592,0 4.60623251272976,45.8166405451434,0 4.6059271734783,45.8162708372042,0 4.60589022889472,45.8162716328666,0 4.60586318830253,45.81624094409669,0 4.60588190203895,45.8161624991716,0 4.60579656831734,45.816071753691,0 4.6057705714241,45.8160636570509,0 4.60567871334048,45.8160541552707,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.5086">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">691710000U1675</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAIN-BEL</SimpleData>
+					<SimpleData name="Adresse">GDS CHAMPS</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">CCOM</SimpleData>
+					<SimpleData name="Denomination">COMMUNAUTE COMMUNES PAYS DE L ARBRESLE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8218503765125 </north>
+			<south> 45.8215136276456 </south>
+			<east> 4.5980793366153 </east>
+			<west> 4.59769279229851 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.59801725639243,45.8215576230284,0 4.59789296025911,45.8215136276456,0 4.59796205587329,45.8217289020429,0 4.59769279229851,45.821843585232,0 4.5978811951217,45.8218503765125,0 4.5980793366153,45.8217485883369,0 4.59801725639243,45.8215576230284,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.5088">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">691710000U1676</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAIN-BEL</SimpleData>
+					<SimpleData name="Adresse">GDS CHAMPS</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">CCOM</SimpleData>
+					<SimpleData name="Denomination">COMMUNAUTE COMMUNES PAYS DE L ARBRESLE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8210269056246 </north>
+			<south> 45.8204626800235 </south>
+			<east> 4.59646637956151 </east>
+			<west> 4.59534007530611 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.59640074305404,45.8206771107325,0 4.5959490545023,45.82060837931039,0 4.59544979901289,45.8204626800235,0 4.59534007530611,45.8207221835231,0 4.59590521653485,45.8208743377084,0 4.59646637956151,45.8210269056246,0 4.59643747338793,45.8208692458332,0 4.59640074305404,45.8206771107325,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.5167">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">691710000U1697</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAIN-BEL</SimpleData>
+					<SimpleData name="Adresse">PRE BIGAUD</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SOCIETE NATIONALE SNCF</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8161146235571 </north>
+			<south> 45.8131420531957 </south>
+			<east> 4.60601908955918 </east>
+			<west> 4.60353222287512 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.60469357065656,45.8144180307601,0 4.60475272291257,45.8144988814151,0 4.60480434712053,45.81458218080201,0 4.60484869290278,45.8146676551795,0 4.6048698102126,45.814716171698,0 4.60514960831,45.815120561148,0 4.60520187435481,45.81520817449609,0 4.60533729202291,45.8154533048637,0 4.60542765665543,45.815686105949,0 4.60553811658667,45.8158569248562,0 4.60554699303907,45.8158786850851,0 4.60560557910361,45.8159222553623,0 4.60566971519768,45.8159617837057,0 4.60573912810034,45.8159967335852,0 4.60577070020104,45.8160105152758,0 4.6057865600181,45.81601551364709,0 4.60584760885601,45.8160286058948,0 4.6058623836611,45.81603172826541,0 4.60587754996635,45.8160350252012,0 4.6059058124765,45.81603687492141,0 4.60596721982942,45.81609328457261,0 4.60600570985834,45.8161146235571,0 4.60601908955918,45.81606093302809,0 4.60586801413245,45.8158754707883,0 4.60581720502749,45.8158114347393,0 4.60578631170327,45.8158431275986,0 4.60577570288509,45.81582823717,0 4.60568413171543,45.8157134421802,0 4.60565801009714,45.8155637608707,0 4.60564360926102,45.8154760595903,0 4.60529841457069,45.8149136316298,0 4.60506418271748,45.8146322577207,0 4.60493653500147,45.8144814976236,0 4.6048938456021,45.81436438598289,0 4.60487631877985,45.8143286080449,0 4.60483194864676,45.81425115005159,0 4.60478004000326,45.8141757806802,0 4.60474149525504,45.8141214773155,0 4.60453529477548,45.81388257619571,0 4.60434065241752,45.8136601730072,0 4.6039212926219,45.8132573141352,0 4.60389731719984,45.8132345073436,0 4.60377999926018,45.8131420531957,0 4.6036998957359,45.8131956103942,0 4.60366729354868,45.8132172393711,0 4.60353222287512,45.8133073340308,0 4.60361568581933,45.81337829278971,0 4.60386485283508,45.813522464456,0 4.60389863471801,45.81354143917459,0 4.60412852815235,45.8137846882933,0 4.60422878743755,45.8139194460869,0 4.60452021489985,45.8142101864643,0 4.60469357065656,45.8144180307601,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.5797">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">691710000U1827</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAIN-BEL</SimpleData>
+					<SimpleData name="Adresse">GDS CHAMPS</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">CCOM</SimpleData>
+					<SimpleData name="Denomination">COMMUNAUTE COMMUNES PAYS DE L ARBRESLE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8260500570159 </north>
+			<south> 45.8239707669569 </south>
+			<east> 4.59893450222569 </east>
+			<west> 4.59677172980231 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.59678216405695,45.8251969798941,0 4.59681242538505,45.8252098819952,0 4.59685455634705,45.825227840164,0 4.5968664233644,45.8252328062079,0 4.59713927044255,45.8253481970928,0 4.59740801235947,45.82546859911821,0 4.59767212884496,45.8255938395398,0 4.59819789048598,45.8258967728751,0 4.59820797835318,45.8259025745686,0 4.59831947160252,45.825962332645,0 4.59843559948786,45.8260175216373,0 4.59843872403241,45.82601864829009,0 4.59849851686384,45.8260369863439,0 4.59856137793631,45.8260500570159,0 4.59859190595434,45.8260498950809,0 4.5986489735122,45.8260453044042,0 4.59870471778542,45.8260350581749,0 4.59875798758665,45.8260194428948,0 4.59883724660567,45.8259804023445,0 4.59889123951172,45.8259274887876,0 4.59889729660992,45.8259186664749,0 4.59891772525705,45.82588117932981,0 4.59893012277698,45.8258421846745,0 4.59893450222569,45.8258021326647,0 4.59847674894302,45.824319976273,0 4.59817327965958,45.8242058326437,0 4.59756782347278,45.8239707669569,0 4.5968540248633,45.8248977502063,0 4.59677172980231,45.82500996712169,0 4.59678216405695,45.8251969798941,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.7503">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">691710000U2268</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAIN-BEL</SimpleData>
+					<SimpleData name="Adresse">LES RAGOTS</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">CCOM</SimpleData>
+					<SimpleData name="Denomination">COMMUNAUTE COMMUNES PAYS DE L ARBRESLE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8227339110076 </north>
+			<south> 45.8226188433734 </south>
+			<east> 4.6061075435495 </east>
+			<west> 4.60565832158365 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.60600081048418,45.8226188433734,0 4.60565832158365,45.8226781146632,0 4.60568686849119,45.8227339110076,0 4.6061075435495,45.8226521815675,0 4.60608075559462,45.8226391424783,0 4.6060422496767,45.8226262700418,0 4.60600081048418,45.8226188433734,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.7504">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">691710000U2269</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAIN-BEL</SimpleData>
+					<SimpleData name="Adresse">LES RAGOTS</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">CCOM</SimpleData>
+					<SimpleData name="Denomination">COMMUNAUTE COMMUNES PAYS DE L ARBRESLE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8226521815675 </north>
+			<south> 45.82209016620111 </south>
+			<east> 4.6066989597375 </east>
+			<west> 4.60600081048418 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.6061075435495,45.8226521815675,0 4.60612187923433,45.82264900543469,0 4.60613240571459,45.82260346157831,0 4.60626861524838,45.82224197376251,0 4.60636047270502,45.82219797498739,0 4.60666961204883,45.8222367193872,0 4.6066989597375,45.82215181827901,0 4.60618935282966,45.82209016620111,0 4.60600081048418,45.8226188433734,0 4.6060422496767,45.8226262700418,0 4.60608075559462,45.8226391424783,0 4.6061075435495,45.8226521815675,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.7526">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">691710000U2272</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAIN-BEL</SimpleData>
+					<SimpleData name="Adresse">LES RAGOTS</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">CCOM</SimpleData>
+					<SimpleData name="Denomination">COMMUNAUTE COMMUNES PAYS DE L ARBRESLE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8222442219434 </north>
+			<south> 45.82215181827901 </south>
+			<east> 4.60676643860575 </east>
+			<west> 4.60666961204883 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.60673102057439,45.8222442219434,0 4.60676643860575,45.8221598649174,0 4.6066989597375,45.82215181827901,0 4.60666961204883,45.8222367193872,0 4.60673102057439,45.8222442219434,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.7584">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">691710000U2292</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAIN-BEL</SimpleData>
+					<SimpleData name="Adresse">5692, RTE DES GRANDS CHAMPS</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">CCOM</SimpleData>
+					<SimpleData name="Denomination">COMMUNAUTE COMMUNES PAYS DE L ARBRESLE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8265543453871 </north>
+			<south> 45.82425266884709 </south>
+			<east> 4.60148007680687 </east>
+			<west> 4.59906235041346 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.60003681286592,45.82425266884709,0 4.59979466516835,45.82522765863541,0 4.59906235041346,45.8254703148322,0 4.59919957040039,45.825888897256,0 4.59928129929812,45.8260195988033,0 4.59934634755772,45.8261037013902,0 4.59941839529594,45.82618482264751,0 4.59949743992303,45.826262872531,0 4.599559459465,45.826318016138,0 4.59977780132187,45.8264771350532,0 4.59989701788653,45.8265543453871,0 4.60001261967356,45.82645795648019,0 4.60013451462374,45.8263653511878,0 4.60026205884212,45.82627653861359,0 4.60039539676755,45.8261920570972,0 4.60040805523961,45.82618431202749,0 4.60048293920425,45.8261232657461,0 4.60055140327546,45.82605852756199,0 4.60061307418481,45.8259905531157,0 4.6006491245564,45.8259453686136,0 4.60070400391376,45.82586533124861,0 4.6008502634316,45.8256223271449,0 4.60100431870136,45.8253816441403,0 4.60104900561283,45.82531445062771,0 4.60148007680687,45.8245688830374,0 4.60145923949027,45.82441903580489,0 4.60003681286592,45.82425266884709,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+				<innerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.5995438839977,45.8256427298374,0 4.59948226217585,45.8254145607695,0 4.59963486803757,45.8253681760274,0 4.60006307778719,45.82541651045631,0 4.60008463771545,45.8254980764241,0 4.59999587756248,45.8258315033272,0 4.599579985456,45.8257815530454,0 4.5995438839977,45.8256427298374,0 
+						</coordinates>
+					</LinearRing>
+				</innerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.7996">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">691710000U2414</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAIN-BEL</SimpleData>
+					<SimpleData name="Adresse">GDS CHAMPS</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">CCOM</SimpleData>
+					<SimpleData name="Denomination">COMMUNAUTE COMMUNES PAYS DE L ARBRESLE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8232855550287 </north>
+			<south> 45.8226010024796 </south>
+			<east> 4.59870746235021 </east>
+			<west> 4.59840919372099 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.59841032617987,45.8226356624572,0 4.59847716686655,45.822866370066,0 4.59855196058423,45.82309588425151,0 4.59856194281275,45.8231247446961,0 4.5985909474903,45.8232855550287,0 4.59866512406041,45.8232757683867,0 4.59870746235021,45.82325643494559,0 4.59853467434484,45.8226946978591,0 4.59867347628766,45.8226967859429,0 4.59865161945134,45.8226404428779,0 4.59863279853346,45.8226044120983,0 4.59840919372099,45.8226010024796,0 4.59841032617987,45.8226356624572,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.7997">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">691710000U2416</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAIN-BEL</SimpleData>
+					<SimpleData name="Adresse">GDS CHAMPS</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">CCOM</SimpleData>
+					<SimpleData name="Denomination">COMMUNAUTE COMMUNES PAYS DE L ARBRESLE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8239707976433 </north>
+			<south> 45.8225969461624 </south>
+			<east> 4.59880811009681 </east>
+			<west> 4.59817397625256 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.59844746113038,45.82346429871329,0 4.59860306304895,45.8239707976433,0 4.59880811009681,45.8239470891601,0 4.59880638489839,45.8239408989235,0 4.59862484093561,45.8233749626423,0 4.59873846785393,45.8233573219932,0 4.59870746235021,45.82325643494559,0 4.59866512406041,45.8232757683867,0 4.5985909474903,45.8232855550287,0 4.59856194281275,45.8231247446961,0 4.59855196058423,45.82309588425151,0 4.59847716686655,45.822866370066,0 4.59841032617987,45.8226356624572,0 4.59840919372099,45.8226010024796,0 4.59829719165438,45.8225990751615,0 4.59817397625256,45.8225969461624,0 4.59844746113038,45.82346429871329,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.7998">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">691710000U2417</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAIN-BEL</SimpleData>
+					<SimpleData name="Adresse">GDS CHAMPS</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">CCOM</SimpleData>
+					<SimpleData name="Denomination">COMMUNAUTE COMMUNES PAYS DE L ARBRESLE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8227151528278 </north>
+			<south> 45.8226044120983 </south>
+			<east> 4.59988074757061 </east>
+			<west> 4.59863279853346 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.59985685395336,45.8227151528278,0 4.59988074757061,45.822623936115,0 4.59950287025287,45.8226180307534,0 4.59929691974864,45.8226148231623,0 4.59907034794618,45.8226112767369,0 4.59863279853346,45.8226044120983,0 4.59865161945134,45.8226404428779,0 4.59867347628766,45.8226967859429,0 4.59985685395336,45.8227151528278,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.8028">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">691710000U2420</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAIN-BEL</SimpleData>
+					<SimpleData name="Adresse">GDS CHAMPS</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">CCOM</SimpleData>
+					<SimpleData name="Denomination">COMMUNAUTE COMMUNES PAYS DE L ARBRESLE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8254703148322 </north>
+			<south> 45.8239470891601 </south>
+			<east> 4.60009718336726 </east>
+			<west> 4.59860306304895 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.59880811009681,45.8239470891601,0 4.59860306304895,45.8239707976433,0 4.59906235041346,45.8254703148322,0 4.59979466516835,45.82522765863541,0 4.60003681286592,45.82425266884709,0 4.60009718336726,45.82400655938879,0 4.59887403733855,45.82416393911739,0 4.59880811009681,45.8239470891601,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.8029">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">691710000U2421</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAIN-BEL</SimpleData>
+					<SimpleData name="Adresse">GDS CHAMPS</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">CCOM</SimpleData>
+					<SimpleData name="Denomination">COMMUNAUTE COMMUNES PAYS DE L ARBRESLE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8227352615466 </north>
+			<south> 45.822623936115 </south>
+			<east> 4.60124976139623 </east>
+			<west> 4.59985685395336 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.60124976139623,45.8226424502622,0 4.60015163955723,45.822627663504,0 4.59988074757061,45.822623936115,0 4.59985685395336,45.8227151528278,0 4.60124047320431,45.8227352615466,0 4.60124976139623,45.8226424502622,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.8030">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">691710000U2424</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAIN-BEL</SimpleData>
+					<SimpleData name="Adresse">GDS CHAMPS</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">CCOM</SimpleData>
+					<SimpleData name="Denomination">COMMUNAUTE COMMUNES PAYS DE L ARBRESLE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.82441903580489 </north>
+			<south> 45.8222541282101 </south>
+			<east> 4.60145923949027 </east>
+			<west> 4.60003681286592 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.60009718336726,45.82400655938879,0 4.60003681286592,45.82425266884709,0 4.60145923949027,45.82441903580489,0 4.6014271491785,45.8242099035184,0 4.60132920070985,45.82404863037059,0 4.60135283169006,45.82372639358569,0 4.60124177444728,45.8231531568436,0 4.6012295056553,45.8230455198727,0 4.6012746279928,45.82270919802671,0 4.60131136154417,45.8223723646439,0 4.60132248841702,45.8222541282101,0 4.6012988354531,45.8223801980184,0 4.60126570477024,45.8225570202177,0 4.60124976139623,45.8226424502622,0 4.60124047320431,45.8227352615466,0 4.60120807375836,45.8229062189616,0 4.60120696385598,45.8230411559906,0 4.60121354179094,45.8231124863395,0 4.60024892970716,45.8230952668012,0 4.60023668283293,45.8233615900969,0 4.60023795075729,45.82398745186271,0 4.60010026607496,45.82400624550569,0 4.60009718336726,45.82400655938879,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.8721">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">691710000U2670</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAIN-BEL</SimpleData>
+					<SimpleData name="Adresse">5378, RTE DES GRANDS CHAMPS</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">CCOM</SimpleData>
+					<SimpleData name="Denomination">COMMUNAUTE COMMUNES PAYS DE L ARBRESLE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8215224341682 </north>
+			<south> 45.8212493100701 </south>
+			<east> 4.59340525119892 </east>
+			<west> 4.592767096093 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.59340525119892,45.8214143801784,0 4.59339483410169,45.8214149775089,0 4.59338440401056,45.8214151246846,0 4.59337396092579,45.82141482170559,0 4.59336324211712,45.8214138921441,0 4.59285254728806,45.82132265343301,0 4.59279710004797,45.8212493100701,0 4.592767096093,45.8212853999836,0 4.59278948737248,45.8213113838339,0 4.592911333934,45.82145368288071,0 4.59333056339025,45.8215224341682,0 4.59340525119892,45.8214143801784,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.8722">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">691710000U2672</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAIN-BEL</SimpleData>
+					<SimpleData name="Adresse">5378, RTE DES GRANDS CHAMPS</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">CCOM</SimpleData>
+					<SimpleData name="Denomination">COMMUNAUTE COMMUNES PAYS DE L ARBRESLE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8248893547884 </north>
+			<south> 45.8246126603387 </south>
+			<east> 4.59612427061897 </east>
+			<west> 4.59559422733237 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.59559422733237,45.8246126603387,0 4.59571294056811,45.8247530193709,0 4.59583180633552,45.8247916899255,0 4.59592180321621,45.8248210410532,0 4.5960781133373,45.8248893547884,0 4.59612427061897,45.82482826711341,0 4.59559422733237,45.8246126603387,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.8725">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">691710000U2679</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAIN-BEL</SimpleData>
+					<SimpleData name="Adresse">1, PL DE LA GARE</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">CCOM</SimpleData>
+					<SimpleData name="Denomination">COMMUNAUTE COMMUNES PAYS DE L ARBRESLE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.81209131073599 </north>
+			<south> 45.8107575879796 </south>
+			<east> 4.60265840162495 </east>
+			<west> 4.60133177377661 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.60246809201737,45.8120832021546,0 4.60248647513742,45.8120731238627,0 4.60250685997302,45.8120654489812,0 4.60252912562115,45.81206044942801,0 4.60253229719441,45.8120587831935,0 4.60246597276436,45.811894810792,0 4.60240962212379,45.8119457782507,0 4.60237937220767,45.8119153143943,0 4.60253060281504,45.8117741035212,0 4.60265840162495,45.811682041706,0 4.60264447779045,45.81167269219091,0 4.60255870654501,45.8116685056385,0 4.60242745104106,45.811490593709,0 4.60190412933353,45.8110902841459,0 4.60182620499142,45.81100582555499,0 4.60185532630744,45.8111172763269,0 4.60176210670668,45.8111626419699,0 4.60144436402138,45.81087830274759,0 4.60133177377661,45.8107575879796,0 4.60141304766044,45.8108820794582,0 4.601531056787,45.81104306756121,0 4.60166143709283,45.811199827006,0 4.60179711226659,45.81135705159529,0 4.60192909458892,45.8115112661326,0 4.60206304276301,45.8116666235103,0 4.60219372867845,45.8118204958866,0 4.60233511154624,45.811974576579,0 4.60244887893584,45.81209131073599,0 4.60246809201737,45.8120832021546,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.8748">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">691710000U2680</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAIN-BEL</SimpleData>
+					<SimpleData name="Adresse">1, PL DE LA GARE</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SOCIETE NATIONALE SNCF</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8133073340308 </north>
+			<south> 45.8100215122203 </south>
+			<east> 4.60377999926018 </east>
+			<west> 4.60068554779104 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.60082426737137,45.81005379181279,0 4.60068554779104,45.8100889936261,0 4.60075095352377,45.8101815564031,0 4.60077273512762,45.8102043048615,0 4.60079342157043,45.8102248171552,0 4.60081967957063,45.8102509247011,0 4.60090243970987,45.810355670646,0 4.60094907662513,45.8104183268238,0 4.60096407498404,45.8104247791393,0 4.60103922410756,45.8105868258295,0 4.60109275108716,45.8106738826241,0 4.60112758244912,45.8107291404811,0 4.60108765422332,45.8107868095774,0 4.6011860305704,45.8109325848223,0 4.60120911874428,45.810924871832,0 4.60128456140862,45.8110259384667,0 4.60135690226871,45.8111221854015,0 4.60140496617187,45.811189594751,0 4.60137501199376,45.8112003773983,0 4.60145405177697,45.8112744627008,0 4.60141749251589,45.8112839880362,0 4.60137967302002,45.8112589452828,0 4.60133946750812,45.8112360079142,0 4.60132038386315,45.8112263711556,0 4.60126720413083,45.8112046085251,0 4.60125253974317,45.8112096801597,0 4.60125911445715,45.8112187738039,0 4.60122837193242,45.81127343050429,0 4.60124119839772,45.8112760406843,0 4.60127429933099,45.8112849382429,0 4.60130566576771,45.8112962021501,0 4.60133492192755,45.81131019800771,0 4.60136153195204,45.8113262128773,0 4.60137801491297,45.81134831584429,0 4.60137895449277,45.8113540668427,0 4.60137957938193,45.81137117082011,0 4.6013759505328,45.8113881549975,0 4.60136843589136,45.81140438368239,0 4.60116409362985,45.8115129311436,0 4.60120318014803,45.8115638954643,0 4.60164413797597,45.81215298753219,0 4.60201954279084,45.8120938909899,0 4.60207852813522,45.8121603344998,0 4.60208867879832,45.8121550566078,0 4.60209958886493,45.8121493176008,0 4.6021443400555,45.8121291378928,0 4.60216861167848,45.8121488785368,0 4.60214358600326,45.8121608523899,0 4.60209262754842,45.8122201194516,0 4.60211141687564,45.8122329126294,0 4.60218773702023,45.8121954422854,0 4.60223091426703,45.81219203745371,0 4.6022536173068,45.81217991640779,0 4.60225691502719,45.8121781583234,0 4.60229371604355,45.812203575523,0 4.60225648691554,45.8122255399602,0 4.60224315015942,45.8122408605871,0 4.60219892884631,45.8122659865323,0 4.60273007245192,45.8127356260332,0 4.60353222287512,45.8133073340308,0 4.60366729354868,45.8132172393711,0 4.6036998957359,45.8131956103942,0 4.60377999926018,45.8131420531957,0 4.60355367509077,45.8129772016532,0 4.6035030649707,45.8129375701496,0 4.60339154577463,45.8128362967002,0 4.60334472254703,45.8128117427123,0 4.60332047453266,45.8128238859176,0 4.60321901184535,45.8127362498421,0 4.60321014534387,45.81272808952391,0 4.60310675050947,45.8126315640939,0 4.60308210582572,45.8126078659649,0 4.60286530672007,45.81239829438861,0 4.60282236744463,45.8123566622725,0 4.60275013401128,45.8122864442296,0 4.60257980725009,45.8121203455436,0 4.60251130920766,45.8121255509945,0 4.60246809201737,45.8120832021546,0 4.60244887893584,45.81209131073599,0 4.60233511154624,45.811974576579,0 4.60219372867845,45.8118204958866,0 4.60206304276301,45.8116666235103,0 4.60192909458892,45.8115112661326,0 4.60179711226659,45.81135705159529,0 4.60166143709283,45.811199827006,0 4.601531056787,45.81104306756121,0 4.60141304766044,45.8108820794582,0 4.60133177377661,45.8107575879796,0 4.60130000711658,45.8107236327306,0 4.6013690232404,45.8106919407744,0 4.60136145860018,45.8106797988808,0 4.60127637607315,45.8106682160675,0 4.60123167251054,45.8106189526646,0 4.60123923589438,45.8106088478923,0 4.60124552571992,45.81059479820911,0 4.60124818990496,45.8105800794075,0 4.6010411611391,45.8102139186093,0 4.60095379844081,45.8100215122203,0 4.60082426737137,45.81005379181279,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.8984">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">691710000U2759</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAIN-BEL</SimpleData>
+					<SimpleData name="Adresse">5378, RTE DES GRANDS CHAMPS</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">CCOM</SimpleData>
+					<SimpleData name="Denomination">COMMUNAUTE COMMUNES PAYS DE L ARBRESLE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.82482826711341 </north>
+			<south> 45.82375413997569 </south>
+			<east> 4.59675920016974 </east>
+			<west> 4.5952862383442 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.59607839651808,45.82375413997569,0 4.59589605531498,45.823983957318,0 4.59587426919806,45.82397453791259,0 4.59585315216916,45.8239971730765,0 4.59582843990285,45.8240202193129,0 4.59580163081498,45.8240420342296,0 4.59579671279506,45.8240457064277,0 4.5957725909267,45.82406243958349,0 4.59574157518044,45.82408134170279,0 4.59570871234947,45.8240987387662,0 4.59567425477507,45.8241144470714,0 4.59563833123187,45.8241284647976,0 4.59562583381457,45.8241328745564,0 4.5952862383442,45.8242483653995,0 4.59559422733237,45.8246126603387,0 4.59612427061897,45.82482826711341,0 4.59675920016974,45.824015708804,0 4.59607839651808,45.82375413997569,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.9060">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">691710000U2787</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAIN-BEL</SimpleData>
+					<SimpleData name="Adresse">5378, RTE DES GRANDS CHAMPS</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">CCOM</SimpleData>
+					<SimpleData name="Denomination">COMMUNAUTE COMMUNES PAYS DE L ARBRESLE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.82483890128061 </north>
+			<south> 45.824015708804 </south>
+			<east> 4.59681625885148 </east>
+			<west> 4.59612427061897 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.59675920016974,45.824015708804,0 4.59612427061897,45.82482826711341,0 4.59624490261909,45.82483890128061,0 4.59642707689615,45.82458990136761,0 4.59662101280968,45.824320019319,0 4.59681625885148,45.8240375990022,0 4.59675920016974,45.824015708804,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.9061">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">691710000U2788</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAIN-BEL</SimpleData>
+					<SimpleData name="Adresse">5378, RTE DES GRANDS CHAMPS</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">CCOM</SimpleData>
+					<SimpleData name="Denomination">COMMUNAUTE COMMUNES PAYS DE L ARBRESLE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8251969798941 </north>
+			<south> 45.8225660605512 </south>
+			<east> 4.59847674894302 </east>
+			<west> 4.5960781133373 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.59761927481499,45.822926516588,0 4.59758624255038,45.8229647222125,0 4.59752653671962,45.8230338380724,0 4.59742827495081,45.8231595213228,0 4.59731399269008,45.82330587642129,0 4.59698504377888,45.8237267309297,0 4.5969729931048,45.8237421227602,0 4.5968295095844,45.8239256378395,0 4.59675920016974,45.824015708804,0 4.59681625885148,45.8240375990022,0 4.59662101280968,45.824320019319,0 4.59642707689615,45.82458990136761,0 4.59624490261909,45.82483890128061,0 4.59612427061897,45.82482826711341,0 4.5960781133373,45.8248893547884,0 4.59678216405695,45.8251969798941,0 4.59677172980231,45.82500996712169,0 4.5968540248633,45.8248977502063,0 4.59756782347278,45.8239707669569,0 4.59817327965958,45.8242058326437,0 4.59847674894302,45.824319976273,0 4.59824082827812,45.82356665798041,0 4.59792522881392,45.8225660605512,0 4.59761927481499,45.822926516588,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.9193">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">691710000U2820</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAIN-BEL</SimpleData>
+					<SimpleData name="Adresse">GDES TERRES</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">CCOM</SimpleData>
+					<SimpleData name="Denomination">COMMUNAUTE COMMUNES PAYS DE L ARBRESLE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8176948766617 </north>
+			<south> 45.81749947015399 </south>
+			<east> 4.58838635921257 </east>
+			<west> 4.5882180826188 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.58835793758924,45.81749947015399,0 4.58826202220922,45.81755485974651,0 4.5882180826188,45.81760357374181,0 4.58827116979132,45.81763552144431,0 4.58838635921257,45.8176948766617,0 4.58835793758924,45.81749947015399,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.9537">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">691710000U2947</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAIN-BEL</SimpleData>
+					<SimpleData name="Adresse">5378, RTE DES GRANDS CHAMPS</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">CCOM</SimpleData>
+					<SimpleData name="Denomination">COMMUNAUTE COMMUNES PAYS DE L ARBRESLE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.824015708804 </north>
+			<south> 45.8236641430855 </south>
+			<east> 4.5968295095844 </east>
+			<west> 4.59607839651808 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.59614986825912,45.8236641430855,0 4.59607839651808,45.82375413997569,0 4.59675920016974,45.824015708804,0 4.5968295095844,45.8239256378395,0 4.59614986825912,45.8236641430855,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.9767">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">691710000U3002</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAIN-BEL</SimpleData>
+					<SimpleData name="Adresse">5378, RTE DES GRANDS CHAMPS</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">CCOM</SimpleData>
+					<SimpleData name="Denomination">COMMUNAUTE COMMUNES PAYS DE L ARBRESLE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8233690182081 </north>
+			<south> 45.82242857096869 </south>
+			<east> 4.59664077767074 </east>
+			<west> 4.59514758383464 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.59601418545583,45.8233690182081,0 4.59622349984774,45.82332363788869,0 4.59663806532969,45.8227940345365,0 4.59664018527143,45.8227871594316,0 4.59664077767074,45.82276310303,0 4.59663468446992,45.822739501427,0 4.59662206048765,45.8227172531078,0 4.59660344424505,45.8226971610637,0 4.59657962919491,45.8226799346136,0 4.59655128001692,45.8226662848968,0 4.59620783989857,45.8225326162416,0 4.59613031896692,45.8225024585794,0 4.59606039653167,45.8225925236441,0 4.59563447016723,45.8224306571046,0 4.59562912818566,45.82242857096869,0 4.59514758383464,45.8230345031456,0 4.59601418545583,45.8233690182081,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.9768">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">691710000U3004</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAIN-BEL</SimpleData>
+					<SimpleData name="Adresse">5378, RTE DES GRANDS CHAMPS</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">CCOM</SimpleData>
+					<SimpleData name="Denomination">COMMUNAUTE COMMUNES PAYS DE L ARBRESLE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8227940345365 </north>
+			<south> 45.82248715869019 </south>
+			<east> 4.59666439692208 </east>
+			<west> 4.59613031896692 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.59663806532969,45.8227940345365,0 4.59666427479853,45.8227604290431,0 4.59666439692208,45.82275574380571,0 4.5966637840527,45.82274791659779,0 4.5966624011704,45.8227401903448,0 4.59666025087964,45.82273265507751,0 4.59665732797242,45.8227251307344,0 4.59665363505321,45.8227177073462,0 4.59664930609999,45.82271056315339,0 4.59664420973939,45.822703609946,0 4.59663847734517,45.82269693593389,0 4.59663198275216,45.8226906329684,0 4.59662497829114,45.8226845173465,0 4.59661734300502,45.822678860981,0 4.59660920305913,45.8226735720204,0 4.59660042968408,45.8226686522852,0 4.59659128302261,45.82266418816469,0 4.59658684757585,45.82266226939101,0 4.59614224343966,45.82248715869019,0 4.59613031896692,45.8225024585794,0 4.59620783989857,45.8225326162416,0 4.59655128001692,45.8226662848968,0 4.59657962919491,45.8226799346136,0 4.59660344424505,45.8226971610637,0 4.59662206048765,45.8227172531078,0 4.59663468446992,45.822739501427,0 4.59664077767074,45.82276310303,0 4.59664018527143,45.8227871594316,0 4.59663806532969,45.8227940345365,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.10883">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">691710000U0346</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAIN-BEL</SimpleData>
+					<SimpleData name="Adresse">LE CALOIS</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SOCIETE NATIONALE SNCF</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8178185617944 </north>
+			<south> 45.8166483659592 </south>
+			<east> 4.60706657598802 </east>
+			<west> 4.6061669294654 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.60706657598802,45.8178185617944,0 4.60689880388956,45.8174978765733,0 4.60683553886972,45.8174087091724,0 4.60672724540526,45.81726389016811,0 4.60621457830712,45.8166483659592,0 4.6061669294654,45.816666426847,0 4.60635926248123,45.8168796731146,0 4.60654434434796,45.8170959944841,0 4.60672242466353,45.8173151172357,0 4.60675760305173,45.81735983064689,0 4.60706657598802,45.8178185617944,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.10900">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">691710000U0347</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAIN-BEL</SimpleData>
+					<SimpleData name="Adresse">LE CALOIS</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SOCIETE NATIONALE SNCF</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8186000957112 </north>
+			<south> 45.81601551364709 </south>
+			<east> 4.60762849783006 </east>
+			<west> 4.6057705714241 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.60745142058947,45.8186000957112,0 4.6075489411098,45.81856502203101,0 4.60762849783006,45.81853677897289,0 4.60762613325863,45.81853077809921,0 4.60754879540746,45.818347690624,0 4.60746351698614,45.818166157232,0 4.60737056868888,45.8179866243916,0 4.6072699505804,45.8178090920837,0 4.60716179672308,45.817633738516,0 4.60704719125925,45.81747567961681,0 4.60684029849262,45.81720049491469,0 4.6066262734553,45.81692802331549,0 4.60640512146083,45.81665844483959,0 4.6060249836635,45.8162236916055,0 4.60602441908165,45.8161644350845,0 4.60590195301829,45.8160857465098,0 4.60587754996635,45.8160350252012,0 4.6058623836611,45.81603172826541,0 4.60584760885601,45.8160286058948,0 4.6057865600181,45.81601551364709,0 4.6057705714241,45.8160636570509,0 4.60579656831734,45.816071753691,0 4.60588190203895,45.8161624991716,0 4.60586318830253,45.81624094409669,0 4.60589022889472,45.8162716328666,0 4.6059271734783,45.8162708372042,0 4.60623251272976,45.8166405451434,0 4.60621457830712,45.8166483659592,0 4.60672724540526,45.81726389016811,0 4.60683553886972,45.8174087091724,0 4.60689880388956,45.8174978765733,0 4.60706657598802,45.8178185617944,0 4.60714598604816,45.8179844171302,0 4.60723307229243,45.8181484518672,0 4.60732795305418,45.8183103040329,0 4.6073536361722,45.8183518199336,0 4.60740617122688,45.8184440219906,0 4.60745142058947,45.8186000957112,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.12503">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">691710000U0043</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAIN-BEL</SimpleData>
+					<SimpleData name="Adresse">GDS CHAMPS</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">CCOM</SimpleData>
+					<SimpleData name="Denomination">COMMUNAUTE COMMUNES PAYS DE L ARBRESLE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8207221835231 </north>
+			<south> 45.8202797269881 </south>
+			<east> 4.59550735797512 </east>
+			<west> 4.59510303713392 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.59550735797512,45.820328206611,0 4.5953687672861,45.8202797269881,0 4.59510303713392,45.8206191625009,0 4.59534007530611,45.8207221835231,0 4.59544979901289,45.8204626800235,0 4.59550735797512,45.820328206611,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.12651">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">691710000U0044</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAIN-BEL</SimpleData>
+					<SimpleData name="Adresse">GDS CHAMPS</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">CCOM</SimpleData>
+					<SimpleData name="Denomination">COMMUNAUTE COMMUNES PAYS DE L ARBRESLE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8206191625009 </north>
+			<south> 45.8199129988663 </south>
+			<east> 4.5953687672861 </east>
+			<west> 4.59462257372733 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.59514787686443,45.8200846091245,0 4.59510185491588,45.8200432878089,0 4.59503960234642,45.8199796788785,0 4.59498434604387,45.8199129988663,0 4.59475462648364,45.8201924803638,0 4.59462257372733,45.8203569170391,0 4.59510303713392,45.8206191625009,0 4.5953687672861,45.8202797269881,0 4.59533597014744,45.8202681213164,0 4.59527242686278,45.8202133573543,0 4.59514787686443,45.8200846091245,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.13161">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">691710000U0048</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAIN-BEL</SimpleData>
+					<SimpleData name="Adresse">GDS CHAMPS</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">CCOM</SimpleData>
+					<SimpleData name="Denomination">COMMUNAUTE COMMUNES PAYS DE L ARBRESLE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8201924803638 </north>
+			<south> 45.8197613451948 </south>
+			<east> 4.59498434604387 </east>
+			<west> 4.59458846922401 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.59498434604387,45.8199129988663,0 4.5949546278266,45.8198697359182,0 4.59482989459777,45.8197613451948,0 4.59458846922401,45.82002802196699,0 4.59473411689171,45.8201380090054,0 4.59475462648364,45.8201924803638,0 4.59498434604387,45.8199129988663,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.13296">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">691710000U0049</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAIN-BEL</SimpleData>
+					<SimpleData name="Adresse">GDS CHAMPS</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">CCOM</SimpleData>
+					<SimpleData name="Denomination">COMMUNAUTE COMMUNES PAYS DE L ARBRESLE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8201522521278 </north>
+			<south> 45.81965999410829 </south>
+			<east> 4.59482989459777 </east>
+			<west> 4.5944076083444 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.59474877586288,45.81965999410829,0 4.59462037393281,45.8198259103813,0 4.59448492960241,45.81998886364921,0 4.5944076083444,45.8200769606149,0 4.59448449631113,45.8201522521278,0 4.59458846922401,45.82002802196699,0 4.59482989459777,45.8197613451948,0 4.59477826354069,45.8197175810883,0 4.59474877586288,45.81965999410829,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.16966">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">691710000U0891</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAIN-BEL</SimpleData>
+					<SimpleData name="Adresse">ST FORTUNAT</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SOCIETE NATIONALE SNCF</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8100889936261 </north>
+			<south> 45.8067828683964 </south>
+			<east> 4.60095379844081 </east>
+			<west> 4.59871326548232 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.59978968247828,45.8071070362864,0 4.59946726747193,45.8070959330327,0 4.59923598715286,45.8071099276533,0 4.59900242842072,45.8067828683964,0 4.5988828181744,45.8068061787127,0 4.59871326548232,45.8068392929938,0 4.59876505306795,45.8069065605567,0 4.59880969952764,45.80697627098859,0 4.59882233382749,45.80699896920341,0 4.59888927362003,45.80710916445779,0 4.59899812267464,45.8073145979172,0 4.59906267232925,45.80741338835969,0 4.59914554617082,45.8075401103375,0 4.59923594791852,45.8076643838649,0 4.59924585497269,45.8076773933794,0 4.59975159216604,45.8084371529919,0 4.60000517351175,45.8089614452356,0 4.60000949138549,45.80896822917391,0 4.60006363016089,45.80905428699201,0 4.60010747365175,45.8091228374668,0 4.60020380374654,45.80927818964189,0 4.60048025564577,45.80973811874771,0 4.60054741594899,45.80981570554209,0 4.60055225413305,45.8098226622204,0 4.6005543418151,45.8098280366767,0 4.60058605982538,45.8099047749014,0 4.60062731000201,45.810008218108,0 4.6006529615778,45.8100445119221,0 4.60068554779104,45.8100889936261,0 4.60082426737137,45.81005379181279,0 4.60095379844081,45.8100215122203,0 4.60080770532502,45.8096335912574,0 4.60076747838913,45.809578770093,0 4.60047702388461,45.80916011098619,0 4.60045292471199,45.8091684686405,0 4.60027940067344,45.8088337155435,0 4.60010153479903,45.808491277944,0 4.59997003606934,45.8082422134893,0 4.5997459611239,45.8078738603548,0 4.59960613649936,45.8076529245095,0 4.59954731728137,45.8074096749185,0 4.59955191444313,45.8073994321515,0 4.59961727964707,45.80734851850341,0 4.59962761148874,45.8073406262989,0 4.59978272108234,45.807293484661,0 4.59983870458321,45.8071899242526,0 4.59978968247828,45.8071070362864,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

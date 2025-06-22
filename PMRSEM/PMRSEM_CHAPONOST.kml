@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>CHAPONOST_PMRSEM</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_6">
+		<name>CHAPONOST_PMRSEM</name>
+		<Schema name="CHAPONOST_PMRSEM" id="CHAPONOST_PMRSEM.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="PMRSEM">
+			<LineStyle>
+				<color>BF00faff</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C00faff</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.452">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">69043000AM0362</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHAPONOST</SimpleData>
+					<SimpleData name="Adresse">15, RUE MARIUS PAIRE</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SEM</SimpleData>
+					<SimpleData name="Denomination">SEM DE CONSTRUCTION DU DPT DE L AIN</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7091583416809 </north>
+			<south> 45.7089646435948 </south>
+			<east> 4.73928649958098 </east>
+			<west> 4.73911990468972 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.73928613844971,45.7089880134424,0 4.73928649958098,45.7089831440658,0 4.73918962476988,45.7089646435948,0 4.73917912637158,45.7089905657616,0 4.73916338441708,45.7090296290634,0 4.73914701975477,45.7090693324661,0 4.7391436561081,45.7090686638143,0 4.73911990468972,45.7091269456487,0 4.73913959523502,45.7091316857088,0 4.73927413848585,45.7091583416809,0 4.73928027219466,45.70909582820891,0 4.73927717120675,45.7090953356479,0 4.73927885403159,45.7090711708016,0 4.73928009989938,45.7090576410092,0 4.7392814396852,45.7090348325138,0 4.73928613844971,45.7089880134424,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.534">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">69043000AR0488</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHAPONOST</SimpleData>
+					<SimpleData name="Adresse">LE CAILLOU</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">MAXIME RICHARD</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7009425066452 </north>
+			<south> 45.7008148884564 </south>
+			<east> 4.76346221177667 </east>
+			<west> 4.76270351495387 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.76271085057362,45.7009425066452,0 4.76346221177667,45.7008422996932,0 4.76345259697442,45.7008148884564,0 4.7630509903568,45.7008702620507,0 4.76270351495387,45.7009180320347,0 4.76271085057362,45.7009425066452,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.564">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">69043000AL0516</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHAPONOST</SimpleData>
+					<SimpleData name="Adresse">14, AV ANDRE DEVIENNE</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SEM</SimpleData>
+					<SimpleData name="Denomination">SEM DE CONSTRUCTION DU DPT DE L AIN</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.71388891728261 </north>
+			<south> 45.7132354097756 </south>
+			<east> 4.7416529246971 </east>
+			<west> 4.74100353572087 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.74139827397225,45.71360195049459,0 4.74119663473235,45.71339249964021,0 4.74115795443975,45.71335229531421,0 4.74104550268675,45.7132354097756,0 4.74100353572087,45.7132419126899,0 4.74136198482761,45.7136172827856,0 4.74135425339557,45.7136208249268,0 4.74142220980971,45.71369246177741,0 4.74142991573583,45.7136881093912,0 4.74161379875796,45.71388891728261,0 4.74163899542737,45.7138765485204,0 4.7416529246971,45.7138697581106,0 4.74158556496303,45.7137966710413,0 4.74144958548332,45.7136553800687,0 4.74139827397225,45.71360195049459,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.568">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">69043000AR0518</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHAPONOST</SimpleData>
+					<SimpleData name="Adresse">LE CAILLOU</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">MAXIME RICHARD</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6995457844355 </north>
+			<south> 45.6994050812831 </south>
+			<east> 4.76415990312325 </east>
+			<west> 4.76412809131459 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.76414406764907,45.6994050812831,0 4.76412809131459,45.6994079434942,0 4.76414328436463,45.6995457844355,0 4.76415990312325,45.6995429121639,0 4.76415954212579,45.6995194993585,0 4.764151886699,45.6994648560631,0 4.76414773961479,45.6994234883414,0 4.76414406764907,45.6994050812831,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.569">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">69043000AR0519</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHAPONOST</SimpleData>
+					<SimpleData name="Adresse">LE CAILLOU</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">MAXIME RICHARD</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.699724807011 </north>
+			<south> 45.6995429121639 </south>
+			<east> 4.76416309342847 </east>
+			<west> 4.76414328436463 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.76414328436463,45.6995457844355,0 4.76416300429267,45.699724807011,0 4.76416309342847,45.69961473886219,0 4.76416003302541,45.69955101651921,0 4.76415990312325,45.6995429121639,0 4.76414328436463,45.6995457844355,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

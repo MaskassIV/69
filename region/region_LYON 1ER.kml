@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>LYON 1ER_region</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_2">
+		<name>LYON 1ER_region</name>
+		<Schema name="LYON 1ER_region" id="LYON 1ER_region.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="region">
+			<LineStyle>
+				<color>BF318006</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C318006</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_2.251">
+		<styleUrl>#region</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_2.schema">
+					<SimpleData name="Numero de Parcelle">69381000AP0164</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LYON 1ER</SimpleData>
+					<SimpleData name="Adresse">33, RUE DE LA MARTINIERE</SimpleData>
+					<SimpleData name="Groupe de personne">Region</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COLL</SimpleData>
+					<SimpleData name="Denomination">REGION RHONE ALPES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7684797442149 </north>
+			<south> 45.76823535847561 </south>
+			<east> 4.83180854917709 </east>
+			<west> 4.83116805751657 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>4.83176493673302,45.7684797442149,15 4.83180854917709,45.7683704979129,15 4.83173242591166,45.76827553590391,15 4.8315884904985,45.76823535847561,15 4.83131850182887,45.7682440653092,15 4.83127395127635,45.7682590200865,15 4.83121976137018,45.76831709619739,15 4.83116805751657,45.7683725198052,15 4.83132439564834,45.7684490661102,15 4.83138627531561,45.7684793169096,15 4.83176493673302,45.7684797442149,15</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_2.259">
+		<styleUrl>#region</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_2.schema">
+					<SimpleData name="Numero de Parcelle">69381000AH0026</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LYON 1ER</SimpleData>
+					<SimpleData name="Adresse">15, RUE DE FLESSELLES</SimpleData>
+					<SimpleData name="Groupe de personne">Region</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COLL</SimpleData>
+					<SimpleData name="Denomination">REGION RHONE ALPES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.77163470256151 </north>
+			<south> 45.7707616850827 </south>
+			<east> 4.82792306386059 </east>
+			<west> 4.82662006935238 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>4.82696959119926,45.7707616850827,15 4.82693820915816,45.7707974118483,15 4.82693349645838,45.7708028024752,15 4.82689045380038,45.7708517786488,15 4.82686279096756,45.7708832117317,15 4.82679233064597,45.7709632566788,15 4.82678293456392,45.77095935554459,15 4.82675735485898,45.7709486907743,15 4.82673739005704,45.7709404571226,15 4.82662006935238,45.7708917357622,15 4.82663317927401,45.7713116239768,15 4.82682653350137,45.7713086732483,15 4.82691152942747,45.7713451275176,15 4.82702498912217,45.771393821052,15 4.82757582854081,45.77162989749061,15 4.82757798508941,45.7716328349648,15 4.82757946269142,45.77163470256151,15 4.82776835271572,45.7715629166841,15 4.82774131338436,45.7715470515411,15 4.82776878726546,45.7715176929802,15 4.8278180050485,45.7714647432757,15 4.82775873496685,45.771439492303,15 4.82774947035562,45.7714356791898,15 4.8278657759981,45.7713019278861,15 4.82792306386059,45.7712361470775,15 4.82781045057757,45.7711858194108,15 4.82775557842431,45.7711612177703,15 4.82779680411495,45.7711156934712,15 4.82770697974417,45.7710772464122,15 4.82758660683834,45.7710257832232,15 4.82756088639517,45.7710147606198,15 4.82742954416835,45.7709585209529,15 4.82730368550523,45.7709046242885,15 4.8271569439119,45.7708419683425,15 4.82710654738728,45.77082035639059,15 4.82705497825358,45.7707983130427,15 4.8269975340153,45.7707737527018,15 4.82696959119926,45.7707616850827,15</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_2.268">
+		<styleUrl>#region</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_2.schema">
+					<SimpleData name="Numero de Parcelle">69381000AH0077</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LYON 1ER</SimpleData>
+					<SimpleData name="Adresse">18, RUE DE FLESSELLES</SimpleData>
+					<SimpleData name="Groupe de personne">Region</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COLL</SimpleData>
+					<SimpleData name="Denomination">REGION RHONE ALPES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.77096590922519 </north>
+			<south> 45.770758036172 </south>
+			<east> 4.82649416053659 </east>
+			<west> 4.82609996056327 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>4.82649416053659,45.77096087873811,15 4.82649249887504,45.7708989354182,15 4.8264884844356,45.770758036172,15 4.82612238672529,45.77076045001739,15 4.82611823950121,45.7707985279502,15 4.82611198889922,45.770854744601,15 4.82610786844048,45.770893632757,15 4.82609996056327,45.77096590922519,15 4.82630288659167,45.7709644257502,15 4.82631317785385,45.7709642591472,15 4.82649416053659,45.77096087873811,15</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

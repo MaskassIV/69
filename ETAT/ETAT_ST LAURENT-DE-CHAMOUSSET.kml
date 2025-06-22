@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>ST LAURENT-DE-CHAMOUSSET_ETAT</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_1">
+		<name>ST LAURENT-DE-CHAMOUSSET_ETAT</name>
+		<Schema name="ST LAURENT-DE-CHAMOUSSET_ETAT" id="ST LAURENT-DE-CHAMOUSSET_ETAT.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="ETAT">
+			<LineStyle>
+				<color>BF119ff7</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C119ff7</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.3004">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">692200000C0441</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ST LAURENT-DE-CHAMOUSSET</SimpleData>
+					<SimpleData name="Adresse">MALLUSSARD</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">MINISTERE ECOLOGIE DEVELOPPEMENT TRANSPORTS LOGEMENT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7266664317438 </north>
+			<south> 45.72616628311901 </south>
+			<east> 4.496029691511 </east>
+			<west> 4.49586212212655 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.49586212212655,45.7261880760741,0 4.49587277800022,45.726239721955,0 4.49588739506765,45.7262951880593,0 4.49591897997851,45.72638843636079,0 4.49596613211092,45.7265294826321,0 4.49600983016333,45.7266664317438,0 4.49601808812152,45.72663894244229,0 4.49602673141549,45.72658767090839,0 4.496029691511,45.72655448776361,0 4.49602907391697,45.7265411663633,0 4.496026102926,45.7265216617208,0 4.49601826736872,45.7264887119094,0 4.49599686137052,45.72639145576301,0 4.49597871190759,45.72628623069221,0 4.4959746267709,45.7262588151287,0 4.49597425843935,45.7262404467898,0 4.49598408271568,45.72616628311901,0 4.49586212212655,45.7261880760741,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.3047">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">692200000C0465</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ST LAURENT-DE-CHAMOUSSET</SimpleData>
+					<SimpleData name="Adresse">COQUARD</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">MINISTERE ECOLOGIE DEVELOPPEMENT TRANSPORTS LOGEMENT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.72965703280279 </north>
+			<south> 45.7293263437272 </south>
+			<east> 4.49897979145593 </east>
+			<west> 4.49874589153431 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.49875894587087,45.7293283500172,0 4.49874589153431,45.7293733758955,0 4.49885615567436,45.7294749442122,0 4.49887456504212,45.7294993772393,0 4.49889903845119,45.7295387704797,0 4.49894354697907,45.7296056373237,0 4.49897979145593,45.72965703280279,0 4.49893647982584,45.7295536737649,0 4.49892018836624,45.72951723395321,0 4.4989071172896,45.72949047833341,0 4.49888997394053,45.7294653079595,0 4.49886222402484,45.7294283900332,0 4.49883338469189,45.7293892349618,0 4.4988084394502,45.7293561525262,0 4.49878113954472,45.7293263437272,0 4.49875894587087,45.7293283500172,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>VINDRY-SUR-TURDINE_coproprietaire</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_7">
+		<name>VINDRY-SUR-TURDINE_coproprietaire</name>
+		<Schema name="VINDRY-SUR-TURDINE_coproprietaire" id="VINDRY-SUR-TURDINE_coproprietaire.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="coproprietaire">
+			<LineStyle>
+				<color>BF7c1404</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C7c1404</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_7.3">
+		<styleUrl>#coproprietaire</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_7.schema">
+					<SimpleData name="Numero de Parcelle">69157000AT0015</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">VINDRY-SUR-TURDINE</SimpleData>
+					<SimpleData name="Adresse">PRE VINCENT</SimpleData>
+					<SimpleData name="Groupe de personne">Coproprietaires</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">AUPM</SimpleData>
+					<SimpleData name="Denomination">LES COPROPRIETAIRES DE LACCES U3079</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8771836507868 </north>
+			<south> 45.8770570765645 </south>
+			<east> 4.48282777089149 </east>
+			<west> 4.48260603058471 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.48260603058471,45.8771735053093,0 4.48267026042966,45.8771836507868,0 4.48268702412486,45.87713092294489,0 4.4826924984469,45.87711391889901,0 4.48270611525665,45.8770976186339,0 4.48272131698784,45.8770875120696,0 4.48274148711621,45.8770799522191,0 4.4827637020952,45.8770765085365,0 4.48278731500843,45.8770770994415,0 4.48280898656439,45.87708221906369,0 4.48282777089149,45.8770902586403,0 4.48279942494421,45.87707189693969,0 4.48278975319775,45.877067070231,0 4.48277595181156,45.8770621175627,0 4.48275792335687,45.8770582110575,0 4.48273455372762,45.8770570765645,0 4.48271513582327,45.8770590425103,0 4.4826970795376,45.8770636925455,0 4.48268916277794,45.8770665884073,0 4.4826687124547,45.8770781147882,0 4.48265850877144,45.8770870750068,0 4.48265363416709,45.8770928130465,0 4.48263343495584,45.8771184763485,0 4.48261772483624,45.8771480436312,0 4.48260603058471,45.8771735053093,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_7.11">
+		<styleUrl>#coproprietaire</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_7.schema">
+					<SimpleData name="Numero de Parcelle">69157000AS0119</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">VINDRY-SUR-TURDINE</SimpleData>
+					<SimpleData name="Adresse">RUE EDMOND MICHELET</SimpleData>
+					<SimpleData name="Groupe de personne">Coproprietaires</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">AUPM</SimpleData>
+					<SimpleData name="Denomination">LES COPROPRIETAIRES DE LA COUR ET PASSAGE U2083</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8755726218677 </north>
+			<south> 45.8752758120975 </south>
+			<east> 4.4956900597006 </east>
+			<west> 4.49466429272605 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.49466429272605,45.8752758120975,0 4.49505515066808,45.8754531154311,0 4.49510281274932,45.875475181482,0 4.49511687143015,45.8755419140951,0 4.49512402212125,45.8755726218677,0 4.49547537392029,45.87557202683359,0 4.49549283930788,45.8755599071284,0 4.49549118362072,45.8755416457622,0 4.4956383197984,45.8755183534801,0 4.49560417474426,45.8753623617115,0 4.4956900597006,45.8753532094659,0 4.49568537098616,45.87533246640529,0 4.49553319710968,45.8753411447524,0 4.49541642553182,45.8753477333532,0 4.49533981076873,45.8753516290267,0 4.49524034193144,45.8753496124618,0 4.49515361912088,45.8753468868187,0 4.49506677672033,45.8753397494878,0 4.49500146234412,45.8753324174229,0 4.49489712345387,45.8753172253604,0 4.49484326618634,45.8753092012878,0 4.49475930263266,45.8752940998979,0 4.49466429272605,45.8752758120975,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

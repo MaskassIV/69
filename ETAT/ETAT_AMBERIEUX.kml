@@ -1,0 +1,1546 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>AMBERIEUX_ETAT</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_1">
+		<name>AMBERIEUX_ETAT</name>
+		<Schema name="AMBERIEUX_ETAT" id="AMBERIEUX_ETAT.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="ETAT">
+			<LineStyle>
+				<color>BF119ff7</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C119ff7</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.24">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69005000ZE0121</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">AMBERIEUX</SimpleData>
+					<SimpleData name="Adresse">LES RONTAIS</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.92829485682951 </north>
+			<south> 45.9281627789443 </south>
+			<east> 4.74810915201296 </east>
+			<west> 4.74739301456224 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.74739301456224,45.92829485682951,0 4.74810915201296,45.9282552412005,0 4.74810066800365,45.9281627789443,0 4.74739301456224,45.92829485682951,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.48">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69005000ZE0163</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">AMBERIEUX</SimpleData>
+					<SimpleData name="Adresse">PRE COUZON</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.92857071557351 </north>
+			<south> 45.9282650031838 </south>
+			<east> 4.74949124095426 </east>
+			<west> 4.74820020089237 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.74946399342025,45.92857071557351,0 4.74949124095426,45.9285670516654,0 4.74862998945274,45.9282966415396,0 4.74820020089237,45.9282650031838,0 4.74861985916727,45.9283109393158,0 4.74946399342025,45.92857071557351,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.419">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69005000ZB0104</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">AMBERIEUX</SimpleData>
+					<SimpleData name="Adresse">LES ILES</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">FRANCE DOMAINE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9334255644667 </north>
+			<south> 45.9330347223521 </south>
+			<east> 4.76141761503472 </east>
+			<west> 4.75988365602312 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.76036587875262,45.9331376693809,0 4.76042570770667,45.933163850096,0 4.76047707017615,45.93319169373151,0 4.7605172763818,45.9332178194277,0 4.76054267052784,45.933240933005,0 4.76056147305654,45.93326378885631,0 4.76056972607446,45.9332756399701,0 4.76057348013004,45.9332840482931,0 4.76057793729406,45.9332983003336,0 4.76057966197507,45.9333118743187,0 4.76057841717106,45.93333351088761,0 4.7605729166017,45.9333471972986,0 4.76056290024623,45.933360953975,0 4.76054579053006,45.9333749110941,0 4.760511240652,45.93339652544919,0 4.76047161283593,45.9334167776556,0 4.76046620008813,45.93342109524151,0 4.76046459759801,45.9334234620381,0 4.76046840830028,45.9334255644667,0 4.76058176217804,45.9334018232323,0 4.76064530074561,45.9333946195985,0 4.76141761503472,45.93331756742549,0 4.76137305611696,45.93329259066131,0 4.76135092034221,45.9332825770074,0 4.76130431879443,45.93327042219361,0 4.76117771531563,45.93323906638631,0 4.76100651256765,45.9332016492149,0 4.76059440190594,45.9331308711298,0 4.76040513972053,45.9330938241418,0 4.76027141348769,45.9330738371125,0 4.76014844834854,45.9330593570372,0 4.7599057700924,45.9330352097749,0 4.7598907805731,45.9330347223521,0 4.7598863022044,45.9330359629407,0 4.75988365602312,45.933037985676,0 4.75989067823911,45.9330436410369,0 4.75990531273547,45.93304917799411,0 4.75994059645719,45.9330545739042,0 4.76001590320931,45.9330642111107,0 4.76007962925705,45.9330709659794,0 4.76015681714946,45.9330829156932,0 4.76023411726409,45.9330983764036,0 4.76030552312526,45.93311924299149,0 4.76036587875262,45.9331376693809,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.448">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69005000ZH0106</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">AMBERIEUX</SimpleData>
+					<SimpleData name="Adresse">LES FIOUTES</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9253689111924 </north>
+			<south> 45.9246922095715 </south>
+			<east> 4.74617254024282 </east>
+			<west> 4.7452770569025 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.74574155677009,45.924895030538,0 4.7452770569025,45.9253149940991,0 4.7453377485764,45.9253689111924,0 4.74545252375327,45.9253048110975,0 4.74564844740247,45.9251703740799,0 4.74600145544801,45.92486931246989,0 4.74617254024282,45.9247453458383,0 4.74611380915619,45.9246922095715,0 4.74574155677009,45.924895030538,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.461">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69005000ZH0107</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">AMBERIEUX</SimpleData>
+					<SimpleData name="Adresse">LES FIOUTES</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9247786483336 </north>
+			<south> 45.9243370267419 </south>
+			<east> 4.74689659735172 </east>
+			<west> 4.74627962493654 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.74627962493654,45.9246015604013,0 4.74631006292882,45.9246456758447,0 4.74640165517891,45.9247786483336,0 4.74689659735172,45.9245295255204,0 4.74679839209714,45.9243874682567,0 4.74676349415202,45.9243370267419,0 4.74627962493654,45.9246015604013,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.503">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69005000ZH0110</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">AMBERIEUX</SimpleData>
+					<SimpleData name="Adresse">LES FIOUTES</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9247453458383 </north>
+			<south> 45.9246015604013 </south>
+			<east> 4.74631006292882 </east>
+			<west> 4.74611380915619 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.74611380915619,45.9246922095715,0 4.74617254024282,45.9247453458383,0 4.74631006292882,45.9246456758447,0 4.74627962493654,45.9246015604013,0 4.74611380915619,45.9246922095715,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.515">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69005000ZH0111</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">AMBERIEUX</SimpleData>
+					<SimpleData name="Adresse">LES FIOUTES</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9243874682567 </north>
+			<south> 45.9239414283231 </south>
+			<east> 4.74772031184161 </east>
+			<west> 4.74676349415202 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.74676349415202,45.9243370267419,0 4.74679839209714,45.9243874682567,0 4.74698372395159,45.92430588409361,0 4.74727238288709,45.9241982043706,0 4.74750526192538,45.9241264232971,0 4.74754863424693,45.9240859417807,0 4.74772031184161,45.9239889849615,0 4.7477144151425,45.9239414283231,0 4.74731852922137,45.924033561813,0 4.74676349415202,45.9243370267419,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.537">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69005000ZH0112</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">AMBERIEUX</SimpleData>
+					<SimpleData name="Adresse">LES FIOUTES</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9243880021911 </north>
+			<south> 45.9222363922058 </south>
+			<east> 4.74669973454883 </east>
+			<west> 4.7448118123267 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.74662578037683,45.9241374833724,0 4.74654556124814,45.92402126889319,0 4.74669973454883,45.9239380045149,0 4.74590915809701,45.92286899254881,0 4.74549083409686,45.9222363922058,0 4.74548815368208,45.922237334277,0 4.74546689705573,45.922242616182,0 4.74533522712614,45.92227022797051,0 4.7448118123267,45.9223574748998,0 4.74547187064134,45.92335293817441,0 4.74601677125108,45.9241633675027,0 4.7461687008259,45.9243880021911,0 4.74662578037683,45.9241374833724,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.566">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69005000ZH0114</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">AMBERIEUX</SimpleData>
+					<SimpleData name="Adresse">LES FIOUTES</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9244021925149 </north>
+			<south> 45.9223610317368 </south>
+			<east> 4.7461687008259 </east>
+			<west> 4.74476351463955 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.74476351463955,45.922364704956,0 4.74480502261592,45.9224487317406,0 4.74491804007197,45.9226879291656,0 4.7452609640232,45.9233279097596,0 4.74530088187514,45.92339836015451,0 4.74550673773214,45.92372430450849,0 4.74574923766334,45.9241068783204,0 4.74578798745999,45.9241567202621,0 4.74586969674667,45.9242303986108,0 4.7459460058337,45.9242639884508,0 4.74604167529341,45.924269087116,0 4.74604964201096,45.9242679733717,0 4.74614217596257,45.9244021925149,0 4.7461687008259,45.9243880021911,0 4.74601677125108,45.9241633675027,0 4.74547187064134,45.92335293817441,0 4.74544871281409,45.923359330259,0 4.74478559667865,45.9223610317368,0 4.74476351463955,45.922364704956,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.590">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69005000ZH0116</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">AMBERIEUX</SimpleData>
+					<SimpleData name="Adresse">LES FIOUTES</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.92442277774889 </north>
+			<south> 45.9241374833724 </south>
+			<east> 4.74664025419538 </east>
+			<west> 4.74614217596257 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.74664025419538,45.92415842666239,0 4.74662578037683,45.9241374833724,0 4.7461687008259,45.9243880021911,0 4.74614217596257,45.9244021925149,0 4.74615650925214,45.92442277774889,0 4.74664025419538,45.92415842666239,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.635">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69005000ZE0119</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">AMBERIEUX</SimpleData>
+					<SimpleData name="Adresse">LES RONTAIS</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9286938967302 </north>
+			<south> 45.92806648026791 </south>
+			<east> 4.74818609489564 </east>
+			<west> 4.74462500655694 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.74817725092914,45.92806648026791,0 4.74757347996144,45.9281611957486,0 4.74756984683623,45.9281443184572,0 4.74722023873328,45.928198897119,0 4.74622632278024,45.9283643911479,0 4.74524125514797,45.9285567612442,0 4.74515600135565,45.9285750997993,0 4.74504032639012,45.9285947181545,0 4.74462500655694,45.9286938967302,0 4.74518246178939,45.9285995513119,0 4.74739301456224,45.92829485682951,0 4.74810066800365,45.9281627789443,0 4.74818609489564,45.92814587661239,0 4.74817725092914,45.92806648026791,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.636">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69005000ZH0119</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">AMBERIEUX</SimpleData>
+					<SimpleData name="Adresse">LES CREUX</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.921030377777 </north>
+			<south> 45.92093879597941 </south>
+			<east> 4.74481415244076 </east>
+			<west> 4.7441856850944 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.74429713431207,45.921020738357,0 4.74442837479878,45.92100817626029,0 4.74481415244076,45.9209723229328,0 4.74480379867922,45.92093879597941,0 4.7441856850944,45.9209980475036,0 4.74419187078232,45.921030377777,0 4.74429713431207,45.921020738357,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.679">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69005000ZH0122</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">AMBERIEUX</SimpleData>
+					<SimpleData name="Adresse">LES CREUX</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9223169765658 </north>
+			<south> 45.9222923220157 </south>
+			<east> 4.74477960860911 </east>
+			<west> 4.74472978081568 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.74472978081568,45.92229794201,0 4.74473034811728,45.92229955454311,0 4.74473954681808,45.9223169765658,0 4.74477960860911,45.9223105040452,0 4.74477296703108,45.9222923220157,0 4.74472978081568,45.92229794201,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.701">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69005000ZE0123</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">AMBERIEUX</SimpleData>
+					<SimpleData name="Adresse">LES RONTAIS</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9282650031838 </north>
+			<south> 45.92814587661239 </south>
+			<east> 4.74820020089237 </east>
+			<west> 4.74810066800365 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.74810066800365,45.9281627789443,0 4.74810915201296,45.9282552412005,0 4.74820020089237,45.9282650031838,0 4.74818609489564,45.92814587661239,0 4.74810066800365,45.9281627789443,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.717">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69005000ZH0124</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">AMBERIEUX</SimpleData>
+					<SimpleData name="Adresse">LES CREUX</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9223105040452 </north>
+			<south> 45.921020738357 </south>
+			<east> 4.74505457099757 </east>
+			<west> 4.74419187078232 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.74505457099757,45.9222677123066,0 4.74429713431207,45.921020738357,0 4.74419187078232,45.921030377777,0 4.74419217151751,45.9210317242087,0 4.74432783021775,45.92135848257589,0 4.74443438145907,45.9216014730451,0 4.74448319103721,45.92172456833039,0 4.74458568492619,45.92196572975119,0 4.74469474429785,45.9222063394787,0 4.74472978081568,45.92229794201,0 4.74477296703108,45.9222923220157,0 4.74477960860911,45.9223105040452,0 4.74505457099757,45.9222677123066,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.748">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69005000ZH0126</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">AMBERIEUX</SimpleData>
+					<SimpleData name="Adresse">LES CREUX</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.92224749502221 </north>
+			<south> 45.9209723229328 </south>
+			<east> 4.74541121761919 </east>
+			<west> 4.74442837479878 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.74442837479878,45.92100817626029,0 4.74518570090204,45.92224749502221,0 4.74530897045632,45.92222766907,0 4.74540162556223,45.92220291106301,0 4.74541121761919,45.9222001509988,0 4.7452553135838,45.92193531489421,0 4.74505510278822,45.9215347041194,0 4.7448219077923,45.9209971530517,0 4.74481415244076,45.9209723229328,0 4.74442837479878,45.92100817626029,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.782">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69005000ZE0128</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">AMBERIEUX</SimpleData>
+					<SimpleData name="Adresse">PRE COUZON</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.92873279276141 </north>
+			<south> 45.9282650031838 </south>
+			<east> 4.74946399342025 </east>
+			<west> 4.74820020089237 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.74946399342025,45.92857071557351,0 4.74861985916727,45.9283109393158,0 4.74820020089237,45.9282650031838,0 4.74821817934187,45.9284166757451,0 4.74825531628007,45.92873279276141,0 4.74946399342025,45.92857071557351,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.784">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69005000ZH0128</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">AMBERIEUX</SimpleData>
+					<SimpleData name="Adresse">LES CREUX</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9209980475036 </north>
+			<south> 45.92070044003461 </south>
+			<east> 4.74480379867922 </east>
+			<west> 4.74407580432119 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.74407580432119,45.9207598819457,0 4.74418460259976,45.9209923897057,0 4.7441856850944,45.9209980475036,0 4.74480379867922,45.92093879597941,0 4.74472965790419,45.92070044003461,0 4.74407580432119,45.9207598819457,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.840">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69005000ZH0131</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">AMBERIEUX</SimpleData>
+					<SimpleData name="Adresse">LES CREUX</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9207598819457 </north>
+			<south> 45.9204837293766 </south>
+			<east> 4.74472965790419 </east>
+			<west> 4.7439747605568 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.7439747605568,45.92054400779551,0 4.74407580432119,45.9207598819457,0 4.74472965790419,45.92070044003461,0 4.74471859371423,45.9206648523934,0 4.74464200698666,45.9204837293766,0 4.7439747605568,45.92054400779551,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.864">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69005000ZH0134</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">AMBERIEUX</SimpleData>
+					<SimpleData name="Adresse">LES CREUX</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.92054400779551 </north>
+			<south> 45.9201924759093 </south>
+			<east> 4.74464200698666 </east>
+			<west> 4.74384740366485 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.74384740366485,45.9202510779465,0 4.74393074897607,45.92045011150951,0 4.7439747605568,45.92054400779551,0 4.74464200698666,45.9204837293766,0 4.74458775268666,45.9203557642239,0 4.74451079302069,45.9202606649311,0 4.74448191973877,45.9201924759093,0 4.74384740366485,45.9202510779465,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.873">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69005000ZE0135</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">AMBERIEUX</SimpleData>
+					<SimpleData name="Adresse">BOUTOLLARDES</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9274362869515 </north>
+			<south> 45.9267922285448 </south>
+			<east> 4.75289567147079 </east>
+			<west> 4.74906657701108 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.75029268692605,45.9267922285448,0 4.7501722779491,45.9268211127551,0 4.74914572036247,45.92706730142961,0 4.7491065901221,45.9270747518336,0 4.74906657701108,45.9271397714798,0 4.74915975837839,45.9274362869515,0 4.75012039604915,45.92730884133481,0 4.75055393436336,45.92725151379721,0 4.75074909141988,45.9272230937776,0 4.75077449506369,45.9272589093628,0 4.75113946856254,45.9272048023133,0 4.75214301500163,45.9270591112889,0 4.75254682604732,45.9269965619438,0 4.75283364596597,45.9269486139529,0 4.75289567147079,45.926894060421,0 4.75285670697805,45.92684179218049,0 4.75245725474864,45.9269114808523,0 4.75172554187131,45.9269599222711,0 4.75099730789535,45.926918864174,0 4.75029268692605,45.9267922285448,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.891">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69005000ZE0137</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">AMBERIEUX</SimpleData>
+					<SimpleData name="Adresse">BOUTOLLARDES</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.926894060421 </north>
+			<south> 45.9268337664153 </south>
+			<east> 4.75292806745448 </east>
+			<west> 4.75285670697805 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.75289567147079,45.926894060421,0 4.75292806745448,45.9268656363159,0 4.75290382068176,45.9268337664153,0 4.75285670697805,45.92684179218049,0 4.75289567147079,45.926894060421,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.892">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69005000ZH0137</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">AMBERIEUX</SimpleData>
+					<SimpleData name="Adresse">LES CREUX</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9202510779465 </north>
+			<south> 45.91933928735471 </south>
+			<east> 4.74448191973877 </east>
+			<west> 4.74353510658715 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.74353510658715,45.91939102791151,0 4.74363650401775,45.919654904909,0 4.74369099709795,45.9197782731591,0 4.74373736395874,45.919901766653,0 4.74378767735834,45.9200887895861,0 4.74383818927505,45.9202290624698,0 4.74384740366485,45.9202510779465,0 4.74448191973877,45.9201924759093,0 4.74436472837634,45.91991497217111,0 4.74419931174423,45.91952048881619,0 4.74412195152309,45.91933928735471,0 4.74353510658715,45.91939102791151,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.922">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69005000ZH0140</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">AMBERIEUX</SimpleData>
+					<SimpleData name="Adresse">LES CREUX</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.91939102791151 </north>
+			<south> 45.91902465756259 </south>
+			<east> 4.74464833441412 </east>
+			<west> 4.743434503196 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.74353510658715,45.91939102791151,0 4.74412195152309,45.91933928735471,0 4.74410746225836,45.9193055538989,0 4.74403991627996,45.919144917455,0 4.74409525723057,45.91913604785891,0 4.74464833441412,45.91902465756259,0 4.743434503196,45.91913182230419,0 4.74344930695244,45.9191673524165,0 4.74353510658715,45.91939102791151,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.943">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69005000ZE0143</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">AMBERIEUX</SimpleData>
+					<SimpleData name="Adresse">BOUTOLLARDES</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9275698333407 </north>
+			<south> 45.92554732363901 </south>
+			<east> 4.74915975837839 </east>
+			<west> 4.7468823382616 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.7491065901221,45.9270747518336,0 4.74886715683349,45.9270501709278,0 4.74863115967912,45.927011845562,0 4.74852344921746,45.92698946126421,0 4.74842710010538,45.92696717149559,0 4.74833715754488,45.9269271286561,0 4.7482570018411,45.9268416286213,0 4.74807470060857,45.9265145142417,0 4.74733452813096,45.92554732363901,0 4.7468823382616,45.9257854299187,0 4.74818265975248,45.9275698333407,0 4.74907615123117,45.92744541576861,0 4.74915975837839,45.9274362869515,0 4.74906657701108,45.9271397714798,0 4.7491065901221,45.9270747518336,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.944">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69005000ZH0143</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">AMBERIEUX</SimpleData>
+					<SimpleData name="Adresse">LES CREUX</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.91913182230419 </north>
+			<south> 45.9189205113437 </south>
+			<east> 4.74464833441412 </east>
+			<west> 4.7433910547834 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.7433910547834,45.9190271086135,0 4.743434503196,45.91913182230419,0 4.74464833441412,45.91902465756259,0 4.74459148030907,45.9189205113437,0 4.7433910547834,45.9190271086135,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.965">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69005000ZE0145</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">AMBERIEUX</SimpleData>
+					<SimpleData name="Adresse">BOUTOLLARDES</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9257854299187 </north>
+			<south> 45.9248061085594 </south>
+			<east> 4.74733452813096 </east>
+			<west> 4.74631931166628 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.74733452813096,45.92554732363901,0 4.74677510920207,45.9248173778535,0 4.74668827770073,45.9248061085594,0 4.7464118426807,45.9249616060274,0 4.74631931166628,45.9250107722046,0 4.7468823382616,45.9257854299187,0 4.74733452813096,45.92554732363901,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.967">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69005000ZH0145</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">AMBERIEUX</SimpleData>
+					<SimpleData name="Adresse">LES CREUX</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9190271086135 </north>
+			<south> 45.91858989392981 </south>
+			<east> 4.74459148030907 </east>
+			<west> 4.74325279873944 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.74325279873944,45.9186872389307,0 4.74329980946391,45.9188066694463,0 4.7433910547834,45.9190271086135,0 4.74459148030907,45.9189205113437,0 4.74442783114992,45.9186185042614,0 4.74440821296544,45.91858989392981,0 4.74411570052822,45.9186158414365,0 4.74350419798133,45.9186670614251,0 4.74325279873944,45.9186872389307,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.996">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69005000ZH0147</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">AMBERIEUX</SimpleData>
+					<SimpleData name="Adresse">LES CREUX</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9186872389307 </north>
+			<south> 45.9182028912486 </south>
+			<east> 4.74350419798133 </east>
+			<west> 4.74305048180464 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.74325279873944,45.9186872389307,0 4.74350419798133,45.9186670614251,0 4.7433287268683,45.9184031550577,0 4.74331614058372,45.9183887574965,0 4.74315056403842,45.918274396753,0 4.74305048180464,45.9182028912486,0 4.74315111028562,45.9184344448912,0 4.74325042080324,45.9186814209479,0 4.74325279873944,45.9186872389307,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.1111">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69005000ZE0160</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">AMBERIEUX</SimpleData>
+					<SimpleData name="Adresse">PRE COUZON</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9287528154991 </north>
+			<south> 45.927654258679 </south>
+			<east> 4.75195772394468 </east>
+			<west> 4.74817542377079 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.75111619423461,45.927654258679,0 4.75108376374754,45.9276613358505,0 4.75024451294922,45.9277704286861,0 4.74922762982505,45.9279072115897,0 4.74914720967971,45.9279191734571,0 4.74822385214668,45.9280422515539,0 4.74817542377079,45.9280495750875,0 4.74817725092914,45.92806648026791,0 4.75109431292033,45.92767648471381,0 4.75111901733854,45.927714652908,0 4.75117083787976,45.9277815845238,0 4.75156489548527,45.9282889816492,0 4.75179968313574,45.928597534064,0 4.75191590996055,45.9287455231738,0 4.75192195024736,45.9287528154991,0 4.75195772394468,45.9287493792545,0 4.75194756136469,45.9287342244783,0 4.75159444489922,45.9282846510928,0 4.75120712440764,45.927773997284,0 4.75111619423461,45.927654258679,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.1117">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69005000ZE0162</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">AMBERIEUX</SimpleData>
+					<SimpleData name="Adresse">PRE COUZON</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9285670516654 </north>
+			<south> 45.92767648471381 </south>
+			<east> 4.75156489548527 </east>
+			<west> 4.74817725092914 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.74817725092914,45.92806648026791,0 4.74818609489564,45.92814587661239,0 4.74820020089237,45.9282650031838,0 4.74862998945274,45.9282966415396,0 4.74949124095426,45.9285670516654,0 4.75156489548527,45.9282889816492,0 4.75117083787976,45.9277815845238,0 4.75111901733854,45.927714652908,0 4.75109431292033,45.92767648471381,0 4.74817725092914,45.92806648026791,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.1134">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69005000ZE0164</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">AMBERIEUX</SimpleData>
+					<SimpleData name="Adresse">PRE COUZON</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9288050694114 </north>
+			<south> 45.9282889816492 </south>
+			<east> 4.75192195024736 </east>
+			<west> 4.74949124095426 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.75156489548527,45.9282889816492,0 4.74949124095426,45.9285670516654,0 4.74950101974024,45.9285701430208,0 4.75032135270632,45.9287467848656,0 4.75078335185807,45.9288007949322,0 4.75136264957938,45.9288050694114,0 4.75192195024736,45.9287528154991,0 4.75191590996055,45.9287455231738,0 4.75179968313574,45.928597534064,0 4.75156489548527,45.9282889816492,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.1143">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69005000ZE0165</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">AMBERIEUX</SimpleData>
+					<SimpleData name="Adresse">PRE COUZON</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9288641854577 </north>
+			<south> 45.9285670516654 </south>
+			<east> 4.75195752976443 </east>
+			<west> 4.74946399342025 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.75192195024736,45.9287528154991,0 4.75136264957938,45.9288050694114,0 4.75078335185807,45.9288007949322,0 4.75032135270632,45.9287467848656,0 4.74950101974024,45.9285701430208,0 4.74949124095426,45.9285670516654,0 4.74946399342025,45.92857071557351,0 4.74984270907333,45.9286929402892,0 4.75058638450746,45.9288495990744,0 4.75144804081238,45.9288641854577,0 4.75195752976443,45.92879603927,0 4.75192195024736,45.9287528154991,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.1153">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69005000ZE0166</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">AMBERIEUX</SimpleData>
+					<SimpleData name="Adresse">PRE COUZON</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9287493792545 </north>
+			<south> 45.92734702777189 </south>
+			<east> 4.75383770829723 </east>
+			<west> 4.75111619423461 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.75195772394468,45.9287493792545,0 4.75284074060779,45.9285631251552,0 4.75366843408774,45.9281839778497,0 4.75383770829723,45.92809254339329,0 4.75379910325461,45.92804351245171,0 4.75331295108708,45.92742514088791,0 4.75328241983449,45.92738643295149,0 4.75315738559553,45.92734702777189,0 4.75297778772045,45.92737764280451,0 4.75227775119589,45.9274888270479,0 4.75207144177814,45.9275196742003,0 4.75126016961215,45.9276358172651,0 4.75115612132198,45.92765156903369,0 4.75111619423461,45.927654258679,0 4.75120712440764,45.927773997284,0 4.75159444489922,45.9282846510928,0 4.75194756136469,45.9287342244783,0 4.75195772394468,45.9287493792545,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.1160">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69005000ZE0167</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">AMBERIEUX</SimpleData>
+					<SimpleData name="Adresse">PRE COUZON</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9287968002002 </north>
+			<south> 45.9285631251552 </south>
+			<east> 4.75284074060779 </east>
+			<west> 4.75195772394468 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.75195772394468,45.9287493792545,0 4.75198740329095,45.9287937752391,0 4.75198982284691,45.9287968002002,0 4.75272560635837,45.9286158893311,0 4.75284074060779,45.9285631251552,0 4.75195772394468,45.9287493792545,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.1165">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69005000ZE0168</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">AMBERIEUX</SimpleData>
+					<SimpleData name="Adresse">PRE COUZON</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.92804351245171 </north>
+			<south> 45.92737184502899 </south>
+			<east> 4.75383666836252 </east>
+			<west> 4.75328241983449 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.75379910325461,45.92804351245171,0 4.75383666836252,45.9280233846081,0 4.75335088586614,45.9274004138273,0 4.75332867974975,45.92737184502899,0 4.75328241983449,45.92738643295149,0 4.75331295108708,45.92742514088791,0 4.75379910325461,45.92804351245171,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.1187">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69005000ZE0170</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">AMBERIEUX</SimpleData>
+					<SimpleData name="Adresse">BOUTOLLARDES</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9270124739289 </north>
+			<south> 45.92460051743689 </south>
+			<east> 4.75005048383975 </east>
+			<west> 4.74683048333452 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.74684086101815,45.9247296239166,0 4.74683048333452,45.9247931042932,0 4.74813906627593,45.92646443079079,0 4.74833305328679,45.9268140624627,0 4.74838842949689,45.9268874254763,0 4.74847549803144,45.92691418213191,0 4.74903917382936,45.9270124739289,0 4.74920855821506,45.92698130250779,0 4.75005048383975,45.9267820143575,0 4.75004396483997,45.9267799534857,0 4.74983271657663,45.9267162079443,0 4.74961894333482,45.9266501592092,0 4.74938008086076,45.9265459474867,0 4.74906149716263,45.9264024356967,0 4.74893092944742,45.9263349191391,0 4.74874559574943,45.9262295183096,0 4.74842908118483,45.9260453506279,0 4.74801972002469,45.9257335444882,0 4.74788313247964,45.9256145089012,0 4.74752956787036,45.9252305025107,0 4.74735431146225,45.92499091770051,0 4.74714165598119,45.9246748992509,0 4.74708805828555,45.92460051743689,0 4.74707377844789,45.92460605217231,0 4.74684086101815,45.9247296239166,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.1621">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69005000ZH0022</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">AMBERIEUX</SimpleData>
+					<SimpleData name="Adresse">LES CREUX</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9222677123066 </north>
+			<south> 45.92100817626029 </south>
+			<east> 4.74518570090204 </east>
+			<west> 4.74429713431207 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.74505457099757,45.9222677123066,0 4.74518570090204,45.92224749502221,0 4.74442837479878,45.92100817626029,0 4.74429713431207,45.921020738357,0 4.74505457099757,45.9222677123066,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.2706">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69005000ZE0038</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">AMBERIEUX</SimpleData>
+					<SimpleData name="Adresse">LES RONTAIS</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9281611957486 </north>
+			<south> 45.9280495750875 </south>
+			<east> 4.74817725092914 </east>
+			<west> 4.74756984683623 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.74817542377079,45.9280495750875,0 4.74809030407327,45.9280639506693,0 4.74756984683623,45.9281443184572,0 4.74757347996144,45.9281611957486,0 4.74817725092914,45.92806648026791,0 4.74817542377079,45.9280495750875,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.3321">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69005000ZH0058</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">AMBERIEUX</SimpleData>
+					<SimpleData name="Adresse">LES FIOUTES</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.924033561813 </north>
+			<south> 45.9238251025013 </south>
+			<east> 4.7477144151425 </east>
+			<west> 4.74731852922137 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.74731852922137,45.924033561813,0 4.7477144151425,45.9239414283231,0 4.74769975482593,45.9238251025013,0 4.74731852922137,45.924033561813,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.3347">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69005000ZE0059</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">AMBERIEUX</SimpleData>
+					<SimpleData name="Adresse">BOUTOLLARDES</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9270747518336 </north>
+			<south> 45.9247296239166 </south>
+			<east> 4.7491065901221 </east>
+			<west> 4.74668827770073 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.7491065901221,45.9270747518336,0 4.74903917382936,45.9270124739289,0 4.74847549803144,45.92691418213191,0 4.74838842949689,45.9268874254763,0 4.74833305328679,45.9268140624627,0 4.74813906627593,45.92646443079079,0 4.74683048333452,45.9247931042932,0 4.74684086101815,45.9247296239166,0 4.74681539101932,45.9247445186805,0 4.74668827770073,45.9248061085594,0 4.74677510920207,45.9248173778535,0 4.74733452813096,45.92554732363901,0 4.74807470060857,45.9265145142417,0 4.7482570018411,45.9268416286213,0 4.74833715754488,45.9269271286561,0 4.74842710010538,45.92696717149559,0 4.74852344921746,45.92698946126421,0 4.74863115967912,45.927011845562,0 4.74886715683349,45.9270501709278,0 4.7491065901221,45.9270747518336,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.3348">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69005000ZH0059</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">AMBERIEUX</SimpleData>
+					<SimpleData name="Adresse">LES FIOUTES</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9239889849615 </north>
+			<south> 45.9237317937496 </south>
+			<east> 4.74878500622596 </east>
+			<west> 4.7477144151425 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.7477144151425,45.9239414283231,0 4.74772031184161,45.9239889849615,0 4.74784761438703,45.9239497286452,0 4.74817835326011,45.9239114719109,0 4.74861720702778,45.9238312812179,0 4.74878500622596,45.923734202548,0 4.74878351007213,45.9237317937496,0 4.74869357678626,45.9237610160048,0 4.74838424638583,45.923835332225,0 4.7477144151425,45.9239414283231,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.3402">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69005000ZH0061</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">AMBERIEUX</SimpleData>
+					<SimpleData name="Adresse">LES FIOUTES</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9238312812179 </north>
+			<south> 45.923734202548 </south>
+			<east> 4.7488074314043 </east>
+			<west> 4.74861720702778 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.74861720702778,45.9238312812179,0 4.74870853047934,45.9238051900343,0 4.7488074314043,45.9237697943584,0 4.74878500622596,45.923734202548,0 4.74861720702778,45.9238312812179,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.3937">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69005000ZH0009</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">AMBERIEUX</SimpleData>
+					<SimpleData name="Adresse">LES FIOUTES</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.923359330259 </north>
+			<south> 45.9223574748998 </south>
+			<east> 4.74547187064134 </east>
+			<west> 4.74478559667865 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.74547187064134,45.92335293817441,0 4.7448118123267,45.9223574748998,0 4.74478559667865,45.9223610317368,0 4.74544871281409,45.923359330259,0 4.74547187064134,45.92335293817441,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.3946">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69005000ZH0090</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">AMBERIEUX</SimpleData>
+					<SimpleData name="Adresse">LES CREUX</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.91902465756259 </north>
+			<south> 45.9185786993577 </south>
+			<east> 4.74470810639334 </east>
+			<west> 4.74440821296544 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.74459148030907,45.9189205113437,0 4.74464833441412,45.91902465756259,0 4.74470810639334,45.9190171604621,0 4.74446244728958,45.9185786993577,0 4.74440821296544,45.91858989392981,0 4.74442783114992,45.9186185042614,0 4.74459148030907,45.9189205113437,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.3995">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69005000ZB0093</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">AMBERIEUX</SimpleData>
+					<SimpleData name="Adresse">LES ILES</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">FRANCE DOMAINE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9343553244871 </north>
+			<south> 45.9336977220267 </south>
+			<east> 4.75408726286685 </east>
+			<west> 4.75276686846519 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.75281710632811,45.9343114020176,0 4.75280515547134,45.9343212247979,0 4.75276686846519,45.9343553244871,0 4.75285766264928,45.9343283376779,0 4.75302298472049,45.9342865052879,0 4.75327243377766,45.9342312995315,0 4.75337545038492,45.93420709526769,0 4.75352095910304,45.9341754770327,0 4.75369184832495,45.93413418787381,0 4.75408726286685,45.9340414999206,0 4.75408599274221,45.9340340436763,0 4.7540589008028,45.93399402156439,0 4.75404826641809,45.93398436862831,0 4.75402126037496,45.9339673134087,0 4.7536787761034,45.933760053369,0 4.75363703019457,45.93373412929369,0 4.75359172343869,45.9336977220267,0 4.75350161793382,45.9337746884479,0 4.75335446010227,45.9338842440606,0 4.75305984125624,45.9341182211754,0 4.75293204414728,45.9342196400273,0 4.75281710632811,45.9343114020176,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

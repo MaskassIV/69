@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>VAULX EN VELIN_region</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_2">
+		<name>VAULX EN VELIN_region</name>
+		<Schema name="VAULX EN VELIN_region" id="VAULX EN VELIN_region.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="region">
+			<LineStyle>
+				<color>BF318006</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C318006</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_2.24">
+		<styleUrl>#region</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_2.schema">
+					<SimpleData name="Numero de Parcelle">69256000BD0354</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">VAULX EN VELIN</SimpleData>
+					<SimpleData name="Adresse">2, RUE HO CHI MINH</SimpleData>
+					<SimpleData name="Groupe de personne">Region</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COLL</SimpleData>
+					<SimpleData name="Denomination">REGION AUVERGNE-RHONE-ALPES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7796112825298 </north>
+			<south> 45.779315667566 </south>
+			<east> 4.92155356924891 </east>
+			<west> 4.92095041683582 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.92095041683582,45.7795037135471,0 4.92095245969527,45.7795032283886,0 4.92103024528191,45.7795226214151,0 4.92106548686947,45.7795735446234,0 4.92109215976354,45.7796112825298,0 4.92116161764187,45.7795874008229,0 4.92120845001304,45.7795718309875,0 4.92126138275471,45.7795539954397,0 4.92130841255942,45.7794589755179,0 4.9213104147099,45.77945732006311,0 4.92155356924891,45.77937526381109,0 4.92150927181406,45.779315667566,0 4.92095041683582,45.7795037135471,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_2.121">
+		<styleUrl>#region</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_2.schema">
+					<SimpleData name="Numero de Parcelle">69256000BD0337</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">VAULX EN VELIN</SimpleData>
+					<SimpleData name="Adresse">RUE ANATOLE FRANCE</SimpleData>
+					<SimpleData name="Groupe de personne">Region</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COLL</SimpleData>
+					<SimpleData name="Denomination">REGION AUVERGNE-RHONE-ALPES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.780864540295 </north>
+			<south> 45.7807308304158 </south>
+			<east> 4.92130050049966 </east>
+			<west> 4.91943036418318 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.91943036418318,45.7807308304158,0 4.91943293384574,45.78073438972411,0 4.91952345217637,45.780864540295,0 4.92088425226407,45.7807773379265,0 4.92130050049966,45.78074529982121,0 4.92052352152449,45.7807436651789,0 4.92027340837488,45.7807627846111,0 4.92023811763896,45.78076599741141,0 4.92020241901349,45.7807685866132,0 4.92016671099678,45.7807709057367,0 4.92013098733085,45.78077277473731,0 4.92009524801658,45.780774193615,0 4.92005962171484,45.7807751601803,0 4.92002371931744,45.7807755909792,0 4.91998806485245,45.780775747321,0 4.91995818131357,45.7807752649989,0 4.9199282946463,45.7807746926465,0 4.91989840172192,45.7807739402415,0 4.91986850254072,45.7807730077839,0 4.91983859710301,45.7807718952738,0 4.91980868540905,45.78077060271109,0 4.91977877058784,45.7807692201181,0 4.91974871772226,45.7807675696392,0 4.91971710216722,45.78076540528681,0 4.91968547722911,45.7807629708585,0 4.91965397156837,45.78076026416531,0 4.91962245026864,45.7807571073517,0 4.91959117690737,45.78075367608451,0 4.91955989416504,45.7807499747416,0 4.91952847025392,45.7807459154894,0 4.91949767400607,45.78074139517291,0 4.91946777838277,45.7807368595268,0 4.91943813382801,45.7807321394506,0 4.91943036418318,45.7807308304158,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_2.124">
+		<styleUrl>#region</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_2.schema">
+					<SimpleData name="Numero de Parcelle">69256000BD0347</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">VAULX EN VELIN</SimpleData>
+					<SimpleData name="Adresse">RUE HO CHI MINH</SimpleData>
+					<SimpleData name="Groupe de personne">Region</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COLL</SimpleData>
+					<SimpleData name="Denomination">REGION AUVERGNE-RHONE-ALPES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7808655078086 </north>
+			<south> 45.7807280629415 </south>
+			<east> 4.91952345217637 </east>
+			<west> 4.91941301739973 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.91941301739973,45.7807280629415,0 4.91950893859672,45.7808655078086,0 4.91952345217637,45.780864540295,0 4.91943293384574,45.78073438972411,0 4.91943036418318,45.7807308304158,0 4.91941301739973,45.7807280629415,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_2.125">
+		<styleUrl>#region</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_2.schema">
+					<SimpleData name="Numero de Parcelle">69256000BD0349</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">VAULX EN VELIN</SimpleData>
+					<SimpleData name="Adresse">2, RUE HO CHI MINH</SimpleData>
+					<SimpleData name="Groupe de personne">Region</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COLL</SimpleData>
+					<SimpleData name="Denomination">REGION AUVERGNE-RHONE-ALPES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.780775747321 </north>
+			<south> 45.77937526381109 </south>
+			<east> 4.92211311836589 </east>
+			<west> 4.91906767117896 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.92095041683582,45.7795037135471,0 4.92061741478959,45.7796156717439,0 4.92058933750847,45.77967082556339,0 4.92058284483905,45.7796729177453,0 4.9205165686118,45.7796957541022,0 4.92051020459417,45.77969784409,0 4.92043074326715,45.7796783891505,0 4.91931110371928,45.7800550406337,0 4.91928753108541,45.7801102075528,0 4.91925857751071,45.7801031337174,0 4.91924026776866,45.7800985810892,0 4.9192142446993,45.7801499164251,0 4.91919504176312,45.780190056454,0 4.91912632608132,45.78021311361991,0 4.91906767117896,45.78023302713181,0 4.9194117214164,45.78072781476131,0 4.91941301739973,45.7807280629415,0 4.91943036418318,45.7807308304158,0 4.91943813382801,45.7807321394506,0 4.91946777838277,45.7807368595268,0 4.91949767400607,45.78074139517291,0 4.91952847025392,45.7807459154894,0 4.91955989416504,45.7807499747416,0 4.91959117690737,45.78075367608451,0 4.91962245026864,45.7807571073517,0 4.91965397156837,45.78076026416531,0 4.91968547722911,45.7807629708585,0 4.91971710216722,45.78076540528681,0 4.91974871772226,45.7807675696392,0 4.91977877058784,45.7807692201181,0 4.91980868540905,45.78077060271109,0 4.91983859710301,45.7807718952738,0 4.91986850254072,45.7807730077839,0 4.91989840172192,45.7807739402415,0 4.9199282946463,45.7807746926465,0 4.91995818131357,45.7807752649989,0 4.91998806485245,45.780775747321,0 4.92002371931744,45.7807755909792,0 4.92005962171484,45.7807751601803,0 4.92009524801658,45.780774193615,0 4.92013098733085,45.78077277473731,0 4.92016671099678,45.7807709057367,0 4.92020241901349,45.7807685866132,0 4.92023811763896,45.78076599741141,0 4.92027340837488,45.7807627846111,0 4.92052352152449,45.7807436651789,0 4.92130050049966,45.78074529982121,0 4.92211311836589,45.78069452851209,0 4.92164623382145,45.77994818788251,0 4.92166797386061,45.7799033202621,0 4.92160218687987,45.77988840724511,0 4.92154179404099,45.779788010646,0 4.9216672627122,45.7795276269876,0 4.92155356924891,45.77937526381109,0 4.9213104147099,45.77945732006311,0 4.92130841255942,45.7794589755179,0 4.92126138275471,45.7795539954397,0 4.92120845001304,45.7795718309875,0 4.92116161764187,45.7795874008229,0 4.92109215976354,45.7796112825298,0 4.92106548686947,45.7795735446234,0 4.92103024528191,45.7795226214151,0 4.92095245969527,45.7795032283886,0 4.92095041683582,45.7795037135471,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_2.128">
+		<styleUrl>#region</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_2.schema">
+					<SimpleData name="Numero de Parcelle">69256000BD0351</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">VAULX EN VELIN</SimpleData>
+					<SimpleData name="Adresse">2, RUE HO CHI MINH</SimpleData>
+					<SimpleData name="Groupe de personne">Region</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COLL</SimpleData>
+					<SimpleData name="Denomination">REGION AUVERGNE-RHONE-ALPES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.78072781476131 </north>
+			<south> 45.7801551306912 </south>
+			<east> 4.9194117214164 </east>
+			<west> 4.91881674769627 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.91906767117896,45.78023302713181,0 4.9190135998601,45.7801551306912,0 4.91881674769627,45.7802213513147,0 4.91912609471295,45.78066592732849,0 4.91913479936365,45.7806682113116,0 4.91916597796719,45.78067632824419,0 4.91919740451638,45.7806841707244,0 4.91922894722326,45.7806916509179,0 4.91926048368303,45.78069895105789,0 4.91929031003845,45.7807051993721,0 4.91931947746165,45.7807110085095,0 4.91934902461471,45.7807166310289,0 4.91937869417766,45.7807220713072,0 4.91940822570236,45.7807272436994,0 4.9194117214164,45.78072781476131,0 4.91906767117896,45.78023302713181,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_2.129">
+		<styleUrl>#region</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_2.schema">
+					<SimpleData name="Numero de Parcelle">69256000BD0352</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">VAULX EN VELIN</SimpleData>
+					<SimpleData name="Adresse">2, RUE HO CHI MINH</SimpleData>
+					<SimpleData name="Groupe de personne">Region</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COLL</SimpleData>
+					<SimpleData name="Denomination">REGION AUVERGNE-RHONE-ALPES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.78023302713181 </north>
+			<south> 45.7800550406337 </south>
+			<east> 4.91931110371928 </east>
+			<west> 4.9190135998601 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.91931110371928,45.7800550406337,0 4.9190135998601,45.7801551306912,0 4.91906767117896,45.78023302713181,0 4.91912632608132,45.78021311361991,0 4.91919504176312,45.780190056454,0 4.9192142446993,45.7801499164251,0 4.91924026776866,45.7800985810892,0 4.91925857751071,45.7801031337174,0 4.91928753108541,45.7801102075528,0 4.91931110371928,45.7800550406337,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_2.130">
+		<styleUrl>#region</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_2.schema">
+					<SimpleData name="Numero de Parcelle">69256000BD0353</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">VAULX EN VELIN</SimpleData>
+					<SimpleData name="Adresse">2, RUE HO CHI MINH</SimpleData>
+					<SimpleData name="Groupe de personne">Region</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COLL</SimpleData>
+					<SimpleData name="Denomination">REGION AUVERGNE-RHONE-ALPES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.77969784409 </north>
+			<south> 45.7796156717439 </south>
+			<east> 4.92061741478959 </east>
+			<west> 4.92043074326715 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.92061741478959,45.7796156717439,0 4.9205618081462,45.7796343631803,0 4.92043074326715,45.7796783891505,0 4.92051020459417,45.77969784409,0 4.9205165686118,45.7796957541022,0 4.92058284483905,45.7796729177453,0 4.92058933750847,45.77967082556339,0 4.92061741478959,45.7796156717439,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

@@ -1,0 +1,1282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>DARDILLY_DEPT</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_3">
+		<name>DARDILLY_DEPT</name>
+		<Schema name="DARDILLY_DEPT" id="DARDILLY_DEPT.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="DEPT">
+			<LineStyle>
+				<color>BF63f16c</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C63f16c</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.51">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69072000BW0190</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">EN CARRET</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8254888859292 </north>
+			<south> 45.82474156145679 </south>
+			<east> 4.73675481817942 </east>
+			<west> 4.73655466655039 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.73675481817942,45.8247935162931,0 4.7366190696297,45.82474156145679,0 4.73655466655039,45.8253029729252,0 4.7366655149385,45.8254888859292,0 4.73675481817942,45.8247935162931,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.64">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69072000BW0207</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">LE ROUX</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8238387269915 </north>
+			<south> 45.8235606646381 </south>
+			<east> 4.73509780688008 </east>
+			<west> 4.73456922259398 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.7345782406387,45.8235606646381,0 4.73456922259398,45.8235729627246,0 4.73508155526962,45.8238387269915,0 4.73509780688008,45.8238024489424,0 4.7345782406387,45.8235606646381,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.65">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69072000BW0209</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">LE ROUX</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8235729627246 </north>
+			<south> 45.823475333382 </south>
+			<east> 4.7345782406387 </east>
+			<west> 4.73438695396499 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.73438695396499,45.823475333382,0 4.73456922259398,45.8235729627246,0 4.7345782406387,45.8235606646381,0 4.73438695396499,45.823475333382,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.80">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69072000AA0238</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">69, ROUTE NATIONALE 6</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8355111903488 </north>
+			<south> 45.8352209771759 </south>
+			<east> 4.74694053886318 </east>
+			<west> 4.74643669635603 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.74694053886318,45.83523066302361,0 4.74692618689168,45.8352209771759,0 4.74643669635603,45.8355111903488,0 4.74676916446692,45.8353285187816,0 4.74694053886318,45.83523066302361,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.132">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69072000BW0041</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">EN CARRET</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8259852651295 </north>
+			<south> 45.82491513541239 </south>
+			<east> 4.73726018954832 </east>
+			<west> 4.73694086356201 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.73694086356201,45.8259852651295,0 4.73706458680489,45.8259415691678,0 4.73717973535908,45.8258833234165,0 4.73726018954832,45.8249888525678,0 4.73706951680551,45.82491513541239,0 4.73694086356201,45.8259852651295,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.260">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69072000BW0042</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">EN CARRET</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8258833234165 </north>
+			<south> 45.8249888525678 </south>
+			<east> 4.73761320143279 </east>
+			<west> 4.73717973535908 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.73717973535908,45.8258833234165,0 4.73723936564614,45.8258540337601,0 4.73733278288845,45.82580530938721,0 4.73739661838867,45.8257704606241,0 4.73744240661398,45.8257516519024,0 4.73760034497831,45.8256980615401,0 4.73761320143279,45.82513654177511,0 4.73726018954832,45.8249888525678,0 4.73717973535908,45.8258833234165,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1795">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69072000BW0172</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">EN CARRET</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8251529804506 </north>
+			<south> 45.8245378988606 </south>
+			<east> 4.73652451657873 </east>
+			<west> 4.736103877664 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.73615711477183,45.8245378988606,0 4.736103877664,45.82476632644371,0 4.7361798144035,45.82481721993461,0 4.7363029499779,45.8249187280724,0 4.73636759651144,45.82497519929051,0 4.73646839649562,45.8251529804506,0 4.73646880678365,45.8251496415188,0 4.73652451657873,45.82470500559301,0 4.73633904453352,45.82462454201501,0 4.73622429180292,45.82457244402239,0 4.73619066013065,45.8245558476414,0 4.73615711477183,45.8245378988606,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1977">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69072000AA0185</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">LONGE NORD</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8331599621586 </north>
+			<south> 45.83231690521531 </south>
+			<east> 4.74870116712055 </east>
+			<west> 4.74738573161883 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.74738573161883,45.8330980062533,0 4.74751758682226,45.8331521705867,0 4.74753793441138,45.8331599621586,0 4.74798851631174,45.8330375181623,0 4.74803701630717,45.8330513590542,0 4.74804971596485,45.83304143480651,0 4.74817689047703,45.8329356142953,0 4.74851061851511,45.8326551004511,0 4.74856283834743,45.8326196145716,0 4.74858382384431,45.8326028066371,0 4.74860877976926,45.83257711024729,0 4.74864662422077,45.8325393249002,0 4.74867984358766,45.8324206371292,0 4.74869533940497,45.8323525735781,0 4.74870116712055,45.83231690521531,0 4.74867558242425,45.83236341781371,0 4.74865006614468,45.8324120910554,0 4.74863861339743,45.8324328946854,0 4.74862750421551,45.8324523419265,0 4.74860789993368,45.8324802072445,0 4.74857775134607,45.832516882646,0 4.74838736343097,45.8326812377346,0 4.74815650517428,45.8328818871089,0 4.74814462107587,45.83289314981391,0 4.74806750137593,45.8329317230231,0 4.74797471978759,45.8329802662652,0 4.74763814109146,45.8330610446674,0 4.7475674684499,45.8330794318905,0 4.7474756099059,45.8330879688233,0 4.74738573161883,45.8330980062533,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2122">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69072000BW0193</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">EN CARRET</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8261085324744 </north>
+			<south> 45.8247935162931 </south>
+			<east> 4.73706951680551 </east>
+			<west> 4.73658619516639 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.73658619516639,45.8261085324744,0 4.73694086356201,45.8259852651295,0 4.73706951680551,45.82491513541239,0 4.73675481817942,45.8247935162931,0 4.7366655149385,45.8254888859292,0 4.73688833375421,45.8258758263019,0 4.73681891374511,45.8259051762654,0 4.7365961573443,45.82599930342731,0 4.73658619516639,45.8261085324744,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2147">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69072000BW0195</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">LES PRES MICHOUX SUD</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.82534409254841 </north>
+			<south> 45.8250467403757 </south>
+			<east> 4.73880697035681 </east>
+			<west> 4.73806351663623 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.73806351663623,45.8252361656669,0 4.73823491709772,45.82530738563801,0 4.73853019918779,45.82534409254841,0 4.73879271130105,45.8252688947392,0 4.73880697035681,45.8250467403757,0 4.73870230648794,45.8251473398906,0 4.73853848103125,45.8252429955251,0 4.73834254809461,45.8252805089923,0 4.73806351663623,45.8252361656669,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2175">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69072000BW0197</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">LES PRES MICHOUX SUD</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8252688947392 </north>
+			<south> 45.8248548819348 </south>
+			<east> 4.73950937387189 </east>
+			<west> 4.73879271130105 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.73880697035681,45.8250467403757,0 4.73879271130105,45.8252688947392,0 4.73950937387189,45.824981609893,0 4.73916423277041,45.8248548819348,0 4.73900312106064,45.82488123191419,0 4.73880697035681,45.8250467403757,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2198">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69072000BW0199</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">LE ROUX</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8250112424811 </north>
+			<south> 45.82485075000411 </south>
+			<east> 4.73752023377726 </east>
+			<west> 4.73721674193697 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.7372383217457,45.82485075000411,0 4.73721674193697,45.8248814358805,0 4.73752023377726,45.8250112424811,0 4.7372383217457,45.82485075000411,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2249">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69072000BW0201</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">LE ROUX</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8248814358805 </north>
+			<south> 45.82410363931209 </south>
+			<east> 4.7372383217457 </east>
+			<west> 4.73573038773791 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.73576636976386,45.82410363931209,0 4.73573038773791,45.8241843554615,0 4.73620436590939,45.8244632241971,0 4.73630273642767,45.8245146733883,0 4.73635243191951,45.8245422815959,0 4.73638525136909,45.82455762942621,0 4.73649824393769,45.8246111053873,0 4.73653673780722,45.8246266361288,0 4.73667842071224,45.82467886007701,0 4.73682810174962,45.82473141119189,0 4.73697840297333,45.8247872851965,0 4.73711928859116,45.8248387102302,0 4.73721674193697,45.8248814358805,0 4.7372383217457,45.82485075000411,0 4.73657733725664,45.8244756834795,0 4.73641765794998,45.8244001375729,0 4.73583903072019,45.8241405323096,0 4.73576636976386,45.82410363931209,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2277">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69072000BW0203</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">LE ROUX</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8241680913337 </north>
+			<south> 45.8239384919065 </south>
+			<east> 4.73573493606208 </east>
+			<west> 4.73538280778096 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.73540612157012,45.8239384919065,0 4.73540528246726,45.8239404863606,0 4.73538280778096,45.8239919019246,0 4.73569857052753,45.8241680913337,0 4.73573493606208,45.8240872792293,0 4.73540612157012,45.8239384919065,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2303">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69072000BW0205</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">LE ROUX</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8239919019246 </north>
+			<south> 45.8238024489424 </south>
+			<east> 4.73540612157012 </east>
+			<west> 4.73508155526962 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.73509780688008,45.8238024489424,0 4.73508155526962,45.8238387269915,0 4.73538280778096,45.8239919019246,0 4.73540528246726,45.8239404863606,0 4.73540612157012,45.8239384919065,0 4.73509780688008,45.8238024489424,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2332">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69072000AA0208</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">ROUTE NATIONALE 6</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8351857118402 </north>
+			<south> 45.8346524481014 </south>
+			<east> 4.74773544063478 </east>
+			<west> 4.74700496155661 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.74773544063478,45.8346524481014,0 4.74746228072634,45.8347505288972,0 4.74732924666336,45.8348871534497,0 4.74732046776376,45.83489476517271,0 4.7471790254684,45.8350222422852,0 4.7471623833846,45.8350379018965,0 4.74706390180853,45.835130397165,0 4.74700496155661,45.8351857118402,0 4.74727295396994,45.8349894444723,0 4.74773544063478,45.8346524481014,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2342">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69072000AA0209</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">ROUTE NATIONALE 6</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.83523066302361 </north>
+			<south> 45.8351857118402 </south>
+			<east> 4.74700496155661 </east>
+			<west> 4.74692618689168 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.74700496155661,45.8351857118402,0 4.74698056666694,45.8351966274968,0 4.74692618689168,45.8352209771759,0 4.74694053886318,45.83523066302361,0 4.74696166603981,45.8352142135055,0 4.74700496155661,45.8351857118402,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2381">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69072000BW0211</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">LA BROCHETIERE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8228512839634 </north>
+			<south> 45.82268552753901 </south>
+			<east> 4.73247667823909 </east>
+			<west> 4.73202885022616 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.73202885022616,45.8228299616755,0 4.73203564370227,45.8228288666956,0 4.7320621963782,45.822825216867,0 4.73208876600056,45.8228221071967,0 4.73211562140042,45.8228198938443,0 4.73214249092353,45.8228181306226,0 4.73216951181097,45.8228170856388,0 4.73219655529871,45.822816760868,0 4.73222348697235,45.8228169782306,0 4.73225057283856,45.8228180038583,0 4.7322779416636,45.8228198357758,0 4.73232790491249,45.822827355808,0 4.73247667823909,45.8228512839634,0 4.73204389982534,45.82268552753901,0 4.73202885022616,45.8228299616755,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2405">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69072000BW0213</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">LA BROCHETIERE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8228625732956 </north>
+			<south> 45.8225349028306 </south>
+			<east> 4.73204389982534 </east>
+			<west> 4.7315545452053 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.7315545452053,45.8227202338604,0 4.73188751952598,45.8228625732956,0 4.73190666199593,45.8228567853862,0 4.73193195694161,45.82285000240201,0 4.73195752636001,45.8228437556267,0 4.73198324713631,45.8228382270903,0 4.73200924238683,45.8228332347625,0 4.73202885022616,45.8228299616755,0 4.73204389982534,45.82268552753901,0 4.73157578502096,45.8225349028306,0 4.7315545452053,45.8227202338604,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2435">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69072000AA0216</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">LONGE NORD</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.83563357392939 </north>
+			<south> 45.83530791228619 </south>
+			<east> 4.74738881636927 </east>
+			<west> 4.74685755218107 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.7473396876562,45.83533086273499,0 4.74725120954003,45.83530791228619,0 4.74689263650767,45.8355858340052,0 4.74685755218107,45.83563357392939,0 4.7470961942946,45.83551954558949,0 4.74727530204041,45.83542174984301,0 4.74729702132786,45.8354077230237,0 4.74738881636927,45.8353441537811,0 4.7473396876562,45.83533086273499,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2444">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69072000BW0216</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">LA BROCHETIERE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8209479361104 </north>
+			<south> 45.8204069557671 </south>
+			<east> 4.72838451914085 </east>
+			<west> 4.72793511219576 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.72838451914085,45.8207581516909,0 4.72794970093582,45.8204069557671,0 4.72793511219576,45.8204882426087,0 4.72797659481855,45.8205253474063,0 4.7280085455642,45.8205583647395,0 4.72805307520019,45.8206022682511,0 4.72815921633094,45.8207089988444,0 4.72825014721739,45.8208154217222,0 4.728348851806,45.8209479361104,0 4.72838451914085,45.8207581516909,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2468">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69072000BW0218</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">LA BROCHETIERE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8204882426087 </north>
+			<south> 45.8200204372006 </south>
+			<east> 4.72794970093582 </east>
+			<west> 4.72746277004215 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.72794970093582,45.8204069557671,0 4.72746277004215,45.8200204372006,0 4.72753179621275,45.8200897263396,0 4.72782171153055,45.8203841448815,0 4.72783877606476,45.8204025283871,0 4.72785812728593,45.8204198861218,0 4.72787613738063,45.8204355530334,0 4.72793511219576,45.8204882426087,0 4.72794970093582,45.8204069557671,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2565">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69072000BW0226</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">LA BROCHETIERE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8227202338604 </north>
+			<south> 45.821940897468 </south>
+			<east> 4.73157578502096 </east>
+			<west> 4.73017908999162 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.73018110223834,45.8221729399845,0 4.73017908999162,45.8221745020188,0 4.73090913351294,45.82256034557991,0 4.7315545452053,45.8227202338604,0 4.73157578502096,45.8225349028306,0 4.7315173014561,45.82245698772219,0 4.73094781027237,45.8221052557669,0 4.73044693791916,45.821940897468,0 4.73018110223834,45.8221729399845,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2578">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69072000BW0227</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">LA BROCHETIERE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8231832776335 </north>
+			<south> 45.8221745020188 </south>
+			<east> 4.7315545452053 </east>
+			<west> 4.72990398025862 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.72990398025862,45.8224148823833,0 4.73033275654758,45.82292585921789,0 4.73040853091706,45.8229964844428,0 4.73048948289683,45.8230514480385,0 4.73052323154867,45.8230759705075,0 4.73080410697685,45.8231714641132,0 4.73084518831547,45.82317921101091,0 4.73087668060657,45.8231810701368,0 4.73090738901169,45.8231825809867,0 4.73093832954221,45.8231832776335,0 4.73096937343081,45.82318316205069,0 4.73100026032096,45.8231821481587,0 4.73103112180042,45.823180324011,0 4.73106182910187,45.8231776915817,0 4.73109225345806,45.8231742528448,0 4.73112264957612,45.8231699138251,0 4.73115289151215,45.8231647665242,0 4.73118259296717,45.82315881686439,0 4.73121188270595,45.823152062872,0 4.73124088666958,45.82314441254569,0 4.73126948456196,45.82313613794229,0 4.73129753914533,45.8231269709541,0 4.73132518765567,45.8231171796894,0 4.73135216973692,45.82310667806971,0 4.73137847974074,45.8230952860407,0 4.73140425207974,45.8230831816832,0 4.73142923204586,45.8230704589739,0 4.73152247972096,45.8230245342112,0 4.7315545452053,45.8227202338604,0 4.73090913351294,45.82256034557991,0 4.73017908999162,45.8221745020188,0 4.72990398025862,45.8224148823833,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2583">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69072000AA0228</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">LONGE NORD</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.83425932583161 </north>
+			<south> 45.83422792284701 </south>
+			<east> 4.74798831303253 </east>
+			<west> 4.74775623512641 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.74798831303253,45.8342393413329,0 4.74796952520739,45.83422792284701,0 4.74795898999925,45.8342288965349,0 4.74794845479074,45.8342298702219,0 4.74793804267012,45.8342306618605,0 4.74792763054921,45.8342314534982,0 4.7479172127252,45.8342320650807,0 4.74790666896122,45.8342327686826,0 4.74789599070313,45.8342332942224,0 4.74788543553328,45.83423363771401,0 4.7478748803633,45.8342339812046,0 4.74786432519319,45.83423432469409,0 4.74785376432036,45.8342344881286,0 4.74784320059621,45.83423456153501,0 4.74783250522963,45.8342345469064,0 4.7478219386542,45.8342345302837,0 4.74781136352511,45.83423424357881,0 4.74780079124733,45.8342340469001,0 4.74779021611845,45.8342337601932,0 4.74777963813851,45.8342333834583,0 4.74776918324753,45.8342328246752,0 4.7477589830879,45.8342321718781,0 4.74775623512641,45.83425932583161,0 4.74798831303253,45.8342393413329,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2598">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69072000BW0229</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">LA BROCHETIERE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8221729399845 </north>
+			<south> 45.8207988798035 </south>
+			<east> 4.73044693791916 </east>
+			<west> 4.72840015743204 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.72894018735207,45.8214468820356,0 4.72941646592059,45.82173114736491,0 4.73000653717243,45.8220823013172,0 4.73018110223834,45.8221729399845,0 4.73044693791916,45.821940897468,0 4.72992704478709,45.8217408901825,0 4.7294066971217,45.82148513376251,0 4.72916995079461,45.8213545540891,0 4.72874629778292,45.8210434516904,0 4.72843642150194,45.8207988798035,0 4.72840015743204,45.8209984010086,0 4.72842616505526,45.8210267354566,0 4.72845727613784,45.8210576038286,0 4.72850050010329,45.8211050399187,0 4.72854948929161,45.8211473437814,0 4.72861810191004,45.82120745142321,0 4.72866340044927,45.8212429663667,0 4.72871104869999,45.82128357934881,0 4.72877867951268,45.8213328934478,0 4.72887182597936,45.8213989302745,0 4.72890569038552,45.8214230911439,0 4.72894018735207,45.8214468820356,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2625">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69072000AA0230</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">LONGE NORD</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8346524481014 </north>
+			<south> 45.8340870529188 </south>
+			<east> 4.74814240466437 </east>
+			<west> 4.74721268542761 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.74773544063478,45.8346524481014,0 4.74776853744114,45.83462743658229,0 4.74814240466437,45.8343608043194,0 4.74798831303253,45.8342393413329,0 4.74775623512641,45.83425932583161,0 4.7477589830879,45.8342321718781,0 4.74771029532514,45.83422463874049,0 4.74762812238937,45.8342135705138,0 4.74761864651612,45.8342113752867,0 4.74761263659927,45.8342087661443,0 4.74751336472547,45.8341622942193,0 4.74721268542761,45.8340870529188,0 4.74773544063478,45.8346524481014,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2629">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69072000BW0230</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">LA BROCHETIERE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8224148823833 </north>
+			<south> 45.8214468820356 </south>
+			<east> 4.73018110223834 </east>
+			<west> 4.72894018735207 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.72894018735207,45.8214468820356,0 4.72894479835378,45.8214501440497,0 4.72897374635614,45.82146951636,0 4.72900824902083,45.8214934872859,0 4.72915398489858,45.8216097887082,0 4.72924347440934,45.8216906528366,0 4.7293249009442,45.8217649751498,0 4.7294542562543,45.8218888227964,0 4.72949798450657,45.8219317472706,0 4.72965654259691,45.8221159451443,0 4.72990398025862,45.8224148823833,0 4.73017908999162,45.8221745020188,0 4.73018110223834,45.8221729399845,0 4.73000653717243,45.8220823013172,0 4.72941646592059,45.82173114736491,0 4.72894018735207,45.8214468820356,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2755">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69072000AA0243</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">LONGE NORD</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8329670682705 </north>
+			<south> 45.8326551004511 </south>
+			<east> 4.74853922600408 </east>
+			<west> 4.74817689047703 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.74817689047703,45.8329356142953,0 4.74818729297751,45.8329670682705,0 4.74853922600408,45.8326592511872,0 4.74851061851511,45.8326551004511,0 4.74817689047703,45.8329356142953,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2791">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69072000AA0247</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">75, ROUTE NATIONALE 6</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8360356509577 </north>
+			<south> 45.8356468866764 </south>
+			<east> 4.74618390183396 </east>
+			<west> 4.7454185929397 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.74618301797013,45.8356468866764,0 4.74581025818831,45.83583504309351,0 4.7454185929397,45.836032587582,0 4.74542435959767,45.8360356509577,0 4.74594544463163,45.835774407202,0 4.74618390183396,45.8356503857869,0 4.74618301797013,45.8356468866764,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3285">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69072000BY0029</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">LA BEFFE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8087951863441 </north>
+			<south> 45.80823965368661 </south>
+			<east> 4.7268994735224 </east>
+			<west> 4.72627626009964 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.7264778412559,45.8082621927726,0 4.72627626009964,45.80840983870321,0 4.72627970001111,45.8084127584309,0 4.72628352048843,45.8084154921979,0 4.72628746125343,45.8084179539137,0 4.7262938479211,45.80842037822771,0 4.72629997994074,45.8084228965058,0 4.72630612322024,45.8084257748937,0 4.72631188874974,45.8084289292695,0 4.72631739681645,45.8084320875821,0 4.726322529948,45.8084356119102,0 4.7263276715248,45.80843940632069,0 4.7263322981753,45.80844320860509,0 4.72633680172443,45.8084471929131,0 4.72634079879178,45.8084514551777,0 4.72634440966441,45.8084557233478,0 4.72634790025049,45.808460263569,0 4.72635087872484,45.808464901692,0 4.72635360255098,45.8084696337796,0 4.72635594299702,45.80847446180041,0 4.72635789724796,45.8084792957269,0 4.72635933938678,45.8084842275553,0 4.72636065279399,45.8084891613523,0 4.72636132535701,45.8084941950197,0 4.72636289904333,45.808499214907,0 4.72638832103019,45.8085461132002,0 4.72640333091916,45.80856894173021,0 4.72640584157293,45.8085709749593,0 4.72640822912483,45.808573190212,0 4.72641049075987,45.8085754974608,0 4.72641249493098,45.80857780864691,0 4.72641462783432,45.8085801178643,0 4.72641663482078,45.8085825190778,0 4.72641838715828,45.8085850142562,0 4.72642013386589,45.8085873293794,0 4.7264217574716,45.8085898265264,0 4.7264232551604,45.80859241566949,0 4.72642462411723,45.8085950067813,0 4.72642586434207,45.80859759986171,0 4.72642710456704,45.8086001929421,0 4.72642809014291,45.8086028799874,0 4.72642894698676,45.8086055690013,0 4.72642967509855,45.8086082599838,0 4.72643040321041,45.8086109509664,0 4.72643087385806,45.80861364588629,0 4.72643134450574,45.8086163408062,0 4.72643181233844,45.8086189456986,0 4.72643740077285,45.8086329112464,0 4.72643821333704,45.8086383030549,0 4.72643915181854,45.8086436028671,0 4.72644009030022,45.80864890267929,0 4.72644115751433,45.8086542005229,0 4.72644209318132,45.8086594103075,0 4.72644328912809,45.80866470618239,0 4.7264443563428,45.8086700040259,0 4.7264456810223,45.808675297932,0 4.72644687415468,45.80868050377931,0 4.72644819883468,45.8086857976853,0 4.72644952069985,45.80869100156389,0 4.72645097129761,45.8086962034738,0 4.72645229316329,45.80870140735231,0 4.72645387249395,45.8087066072934,0 4.72645532590761,45.8087118992307,0 4.72645703397124,45.80871709720309,0 4.72645861330279,45.8087222971441,0 4.72646019263464,45.8087274970852,0 4.72646189788411,45.8087326050299,0 4.72646373468143,45.80873780103351,0 4.72646451986097,45.80874643580161,0 4.72646632364012,45.80875469470989,0 4.7264683820697,45.80876285965311,0 4.72647095542993,45.80877101672151,0 4.72647391498851,45.8087791678837,0 4.72647712919793,45.8087872250808,0 4.72648072679087,45.8087951863441,0 4.7268994735224,45.8085081216419,0 4.72650869071865,45.80823965368661,0 4.7264778412559,45.8082621927726,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3414">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69072000BY0030</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">LA BEFFE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.80840983870321 </north>
+			<south> 45.80718120036099 </south>
+			<east> 4.7264778412559 </east>
+			<west> 4.72542968564372 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.72558603871881,45.80718120036099,0 4.72542968564372,45.8072470899531,0 4.72543768859054,45.8072600278635,0 4.72544549810464,45.80727089710719,0 4.72545453370465,45.8072839093036,0 4.72546921719694,45.8073004379957,0 4.72548274494903,45.8073170744218,0 4.72549215268571,45.8073296305747,0 4.72550130015477,45.8073421006345,0 4.72551304684332,45.8073511983541,0 4.72551605544499,45.8073526835671,0 4.72551906686032,45.8073542588075,0 4.72552195236007,45.807355926043,0 4.72552471194424,45.8073576852736,0 4.72552747434209,45.8073595345317,0 4.72552997928161,45.80736138772511,0 4.72553248984832,45.8073634209734,0 4.72553474295668,45.8073654581571,0 4.72553687014946,45.8073675873358,0 4.72553900015591,45.8073698065421,0 4.7255408755175,45.8073721197112,0 4.72554262214996,45.8073744348479,0 4.72554410851044,45.8073766638924,0 4.72554560049812,45.8073790729919,0 4.72554696657015,45.8073815740867,0 4.72554807518368,45.8073840791167,0 4.725549055068,45.8073865861144,0 4.7255497803073,45.807389187075,0 4.72555050273313,45.807391698008,0 4.72555082771684,45.8073938547339,0 4.72556123436781,45.8074054048366,0 4.7255620074385,45.8074095362655,0 4.72556291205225,45.8074137557541,0 4.7255635563938,45.80741788915059,0 4.72556433227841,45.807422110607,0 4.72556497662016,45.8074262440035,0 4.72556536350316,45.8074303813353,0 4.72556601065866,45.8074346047593,0 4.72556652908481,45.8074388301511,0 4.72556704469747,45.8074429655152,0 4.72556743439432,45.8074471928746,0 4.72556782127766,45.8074513302064,0 4.72556821097464,45.8074555575658,0 4.7255684691286,45.80745969686541,0 4.72556885882568,45.8074639242248,0 4.72556899106381,45.8074681555195,0 4.72556924640432,45.8074722047915,0 4.72556924991297,45.807476438054,0 4.72556937933758,45.8074805793212,0 4.72556938284624,45.8074848125836,0 4.72556938354132,45.80748895581849,0 4.72558556610679,45.8075328430319,0 4.72558539656559,45.80753978105621,0 4.72558599377526,45.8075465272192,0 4.72558671971479,45.80755327141449,0 4.72558808648948,45.8075599157437,0 4.72558971353759,45.807566646165,0 4.72559159241835,45.8075731925957,0 4.72559385748886,45.8075797331233,0 4.72559650593563,45.8075861777201,0 4.7255994118426,45.8075926183814,0 4.72560270112604,45.8075989631119,0 4.7256062422426,45.8076051238518,0 4.72561017236312,45.8076113687159,0 4.72561448304677,45.8076174276215,0 4.72561891964757,45.80762339453171,0 4.7256238655415,45.8076291735156,0 4.72562894016636,45.80763495053161,0 4.72563439535461,45.8076405415889,0 4.7256401023764,45.8076459486554,0 4.72564619277539,45.80765125979071,0 4.72565240346432,45.80765629887519,0 4.72571399690766,45.8077149840432,0 4.72571715114763,45.8077170074483,0 4.72572018509925,45.8077193029037,0 4.7257228356747,45.8077216942902,0 4.72572536033412,45.807724177672,0 4.72572775626366,45.8077266630217,0 4.72572990317476,45.8077294223897,0 4.72573166389572,45.8077321876612,0 4.7257332987006,45.80773504492821,0 4.72573467604538,45.8077379061308,0 4.7257357987439,45.8077408612968,0 4.72573666679612,45.8077439104261,0 4.72573727457426,45.80774687346349,0 4.72573762770602,45.8077499304643,0 4.72573772337749,45.80775299140079,0 4.72573756158863,45.8077560562731,0 4.72573701079535,45.8077590370215,0 4.72573633408569,45.8077621097653,0 4.7257353971017,45.8077650964173,0 4.72573407111315,45.8077679989454,0 4.72573311161805,45.8077702653771,0 4.72573075860142,45.8077732736756,0 4.72572916389657,45.8077758200292,0 4.72572782946587,45.8077784524746,0 4.72572675530937,45.8077811710118,0 4.72572568115275,45.807783889549,0 4.72572486445652,45.80778660415039,0 4.7257241793043,45.8077894068115,0 4.72572387752894,45.8077921135414,0 4.72572370729765,45.8077949083311,0 4.72572366579662,45.8077977011528,0 4.72572375302586,45.8078004920068,0 4.72572422644596,45.8078032769571,0 4.72572482859639,45.80780605993951,0 4.72572555666333,45.8078087509266,0 4.7257266737351,45.8078115260375,0 4.72572778517927,45.8078141210934,0 4.72572915408417,45.8078167122135,0 4.72573065171953,45.80781930136579,0 4.72573253273213,45.8078217945868,0 4.72573441374491,45.8078242878078,0 4.72574379982234,45.8078402669546,0 4.72575204140104,45.80785671394941,0 4.72576431936079,45.8078786836141,0 4.72576480685319,45.80788191870199,0 4.72576555180659,45.807885149854,0 4.72576642549056,45.8078883790382,0 4.72576755382168,45.8078915142589,0 4.72576919707491,45.80789464160799,0 4.72577083751439,45.8078976789295,0 4.72577286133165,45.8079006203197,0 4.72577513698228,45.8079033777189,0 4.72577767009418,45.8079061311823,0 4.72578045785344,45.8079087906821,0 4.72578337152954,45.8079113581864,0 4.72578653703909,45.80791374169969,0 4.72578995438208,45.8079159412219,0 4.72579362637247,45.8079180467806,0 4.72579729273519,45.8079199722841,0 4.7258012137453,45.807921803824,0 4.72580525504428,45.8079233633132,0 4.72580954817662,45.80792473881121,0 4.72581383849518,45.8079260242816,0 4.72581824910248,45.80792703770109,0 4.72582386049532,45.8079293838219,0 4.72582947751669,45.8079319099974,0 4.72583496862202,45.8079345281682,0 4.72584020789478,45.80793733032991,0 4.72584519533498,45.8079403164823,0 4.72585005404511,45.8079433046026,0 4.72585492119798,45.8079465628053,0 4.72585940497363,45.8079499169394,0 4.72586363410266,45.80795336503681,0 4.72586786604631,45.8079569031617,0 4.72587172024085,45.8079607172731,0 4.72587544570528,45.8079645333524,0 4.72587891089479,45.8079682633402,0 4.72588212706576,45.80797226734661,0 4.72588509140408,45.80797645534399,0 4.72588779828147,45.8079806472775,0 4.725890250512,45.8079849331746,0 4.72589270274291,45.8079892190716,0 4.72589464005132,45.8079935128408,0 4.72589696918049,45.8079979807609,0 4.72589974287942,45.8080001901201,0 4.72590251657856,45.8080023994792,0 4.72590529027793,45.8080046088383,0 4.72590831862486,45.8080067242336,0 4.72591109232467,45.8080089335926,0 4.72591386602471,45.8080111429514,0 4.72591663972497,45.8080133523103,0 4.72591941342545,45.808015561669,0 4.72592231585693,45.8080177690596,0 4.72592508955786,45.80801997841819,0 4.7259279919898,45.80802218580861,0 4.72593076569118,45.808024395167,0 4.72593366812358,45.80802660255729,0 4.7259364418254,45.8080288119156,0 4.72593921271324,45.8080309312464,0 4.72594198641551,45.8080331406045,0 4.725944760118,45.80803534996271,0 4.72594766255153,45.8080375573526,0 4.72595043625447,45.8080397667106,0 4.72595371925249,45.8080417881409,0 4.72598050098301,45.8080580417349,0 4.72605622247996,45.808103090211,0 4.72605856496708,45.8081038650305,0 4.72606065280673,45.8081047338139,0 4.72606274627528,45.8081057826524,0 4.72606484255832,45.80810692151831,0 4.72606681011048,45.8081080623525,0 4.72606852582959,45.80810938717831,0 4.72607024436321,45.8081108020315,0 4.72607170824938,45.8081123108488,0 4.72607304059019,45.8081137316068,0 4.72607424982895,45.8081153343881,0 4.72607520160577,45.80811694110589,0 4.72607628492809,45.808118635883,0 4.72607698487189,45.8081204265924,0 4.72607742453927,45.8081221312109,0 4.72607786702111,45.80812392585679,0 4.72607805204095,45.8081257244393,0 4.72607810832976,45.80812752499,0 4.72607803588755,45.8081293275091,0 4.72607770598327,45.80813113396461,0 4.72607826030959,45.8081323864771,0 4.72607238371278,45.8081339174579,0 4.72606832060798,45.808135780993,0 4.72606465495373,45.8081379987333,0 4.72606177012876,45.8081404747466,0 4.72605928556878,45.8081433949928,0 4.72605757902377,45.8081464834845,0 4.72605665049386,45.8081497402218,0 4.72605623970258,45.8081530791137,0 4.72605673002892,45.80815640422789,0 4.7260579871131,45.80815953747759,0 4.72605988503855,45.8081625708584,0 4.72606229225984,45.8081654163112,0 4.72606546061041,45.80816788984419,0 4.72606926135918,45.8081699934257,0 4.72607330549833,45.8081716429329,0 4.7260777217589,45.80817283639739,0 4.72608238140967,45.8081735757875,0 4.72608702698829,45.80817386503971,0 4.72609177878235,45.8081734321031,0 4.72609639058732,45.80817264102449,0 4.72610047058077,45.8081713176537,0 4.72610481647973,45.8081702604287,0 4.7261091736365,45.8081695633137,0 4.72611367359679,45.8081693143679,0 4.72611818200055,45.80816933550451,0 4.72612270166239,45.8081697167511,0 4.72612710666578,45.8081705501036,0 4.72613126546517,45.8081717475026,0 4.72613530116269,45.80817312692499,0 4.72613896473971,45.80817496238981,0 4.72614237648381,45.80817698184631,0 4.72614541329293,45.8081793673179,0 4.72614806672343,45.808181848722,0 4.72615021367323,45.8081846080821,0 4.72615185132772,45.8081875553705,0 4.72615323433461,45.8081905966232,0 4.72615384776916,45.8081937397136,0 4.72615407501022,45.80819688870899,0 4.72615378732654,45.8082000455778,0 4.72615374303239,45.8082027483723,0 4.72615389220451,45.8082075198317,0 4.72615416729331,45.80821219929521,0 4.72615470265919,45.80821696484961,0 4.72615562140432,45.8082216344713,0 4.72615679761211,45.8082263001563,0 4.72615823128263,45.8082309619046,0 4.72616004551805,45.8082354376927,0 4.72616199129964,45.80824000154,0 4.72616444637755,45.8082443774587,0 4.72616703018716,45.808248751409,0 4.72616999737652,45.8082530294265,0 4.72617309048307,45.8082572154481,0 4.72617656696948,45.8082613055369,0 4.72618029528987,45.8082652116338,0 4.72618427825886,45.8082690237662,0 4.72618851869113,45.8082728319617,0 4.72619300532817,45.8082762761101,0 4.7261976235118,45.8082798083174,0 4.72620261944621,45.8082830645367,0 4.72620760975189,45.8082861407008,0 4.72621865399231,45.8082933576112,0 4.72625320840636,45.8083151667379,0 4.72625593991436,45.80831602567541,0 4.72625841958901,45.8083170686048,0 4.72626077334704,45.80831820353021,0 4.7262630040032,45.8083195204791,0 4.72626523747423,45.8083209274554,0 4.72626708756571,45.8083224303648,0 4.72626907201829,45.8083241113606,0 4.72627054154507,45.8083258002304,0 4.72627188796999,45.8083276711237,0 4.7262731056635,45.8083295439855,0 4.72627393997739,45.80833151278029,0 4.72627477710612,45.8083335716027,0 4.72627522804039,45.8083356363305,0 4.72627542151168,45.8083377049952,0 4.72627535751995,45.808339777597,0 4.72627503325042,45.8083417641082,0 4.7262745830641,45.8083438426155,0 4.7262737438684,45.8083458370006,0 4.72627277312634,45.8083477433268,0 4.72627206547682,45.808349825771,0 4.7262692031682,45.80835302200989,0 4.72626699296129,45.8083564784889,0 4.72626491148567,45.8083599329994,0 4.72626321901924,45.8083634716319,0 4.72626204429367,45.8083670924181,0 4.72626112984586,45.8083707992948,0 4.72626073313906,45.80837458832519,0 4.72626059389541,45.80837837341849,0 4.72626084084659,45.8083821526065,0 4.72626159990953,45.80838583389301,0 4.72626249051896,45.8083896032386,0 4.72626389042555,45.8083931846552,0 4.7262658052589,45.8083967581978,0 4.7262678460094,45.8084002397444,0 4.7262702673256,45.8084035353304,0 4.726273200754,45.8084067330148,0 4.72627626009964,45.80840983870321,0 4.7264778412559,45.8082621927726,0 4.72617838786703,45.80798998513001,0 4.72579628240433,45.8074962057376,0 4.72558603871881,45.80718120036099,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3437">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69072000BY0301</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">LA BEFFE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8077198851422 </north>
+			<south> 45.8065831806735 </south>
+			<east> 4.72923227754955 </east>
+			<west> 4.72768884570762 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.7280491424476,45.8077198851422,0 4.72829374418592,45.8075520319961,0 4.72855789160778,45.8073709088469,0 4.72880179305227,45.80720135393591,0 4.72878523215157,45.8071907090043,0 4.72923227754955,45.80687861264051,0 4.728855473634,45.8066740689876,0 4.72893348519938,45.806598926238,0 4.72886769610896,45.8065831806735,0 4.72844337854882,45.8069013226243,0 4.72768884570762,45.8074625737207,0 4.7280491424476,45.8077198851422,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3686">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69072000BY0033</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">LA BEFFE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8066085123 </north>
+			<south> 45.8062056996137 </south>
+			<east> 4.72842395740871 </east>
+			<west> 4.72759688949877 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.72790258668425,45.8062056996137,0 4.72759688949877,45.8063347658453,0 4.72823098322341,45.8066085123,0 4.72842395740871,45.8064043400696,0 4.72790258668425,45.8062056996137,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3771">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69072000BY0034</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">LA BEFFE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8085081216419 </north>
+			<south> 45.8063347658453 </south>
+			<east> 4.72844337854882 </east>
+			<west> 4.72558603871881 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.72574214240497,45.80711558457101,0 4.72558603871881,45.80718120036099,0 4.72579628240433,45.8074962057376,0 4.72617838786703,45.80798998513001,0 4.7264778412559,45.8082621927726,0 4.72650869071865,45.80823965368661,0 4.7268994735224,45.8085081216419,0 4.7280491424476,45.8077198851422,0 4.72768884570762,45.8074625737207,0 4.72844337854882,45.8069013226243,0 4.72817446435402,45.80676961317661,0 4.72830566077541,45.8066407852166,0 4.72823098322341,45.8066085123,0 4.72759688949877,45.8063347658453,0 4.72574214240497,45.80711558457101,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3849">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69072000BY0035</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">LA BEFFE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8069013226243 </north>
+			<south> 45.8064043400696 </south>
+			<east> 4.72886769610896 </east>
+			<west> 4.72817446435402 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.72844337854882,45.8069013226243,0 4.72886769610896,45.8065831806735,0 4.72845680523705,45.8064168973709,0 4.72842395740871,45.8064043400696,0 4.72823098322341,45.8066085123,0 4.72830566077541,45.8066407852166,0 4.72817446435402,45.80676961317661,0 4.72844337854882,45.8069013226243,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.4437">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69072000BW0043</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">EN CARRET</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8256980615401 </north>
+			<south> 45.82513654177511 </south>
+			<east> 4.73833115340599 </east>
+			<west> 4.73760034497831 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.73760034497831,45.8256980615401,0 4.73833011661584,45.8254503039243,0 4.73833115340599,45.82541777235761,0 4.73819834700657,45.8253734301108,0 4.73806378699387,45.8253183962611,0 4.7376181598882,45.82513853710889,0 4.73761320143279,45.82513654177511,0 4.73760034497831,45.8256980615401,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6580">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69072000AC0091</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DARDILLY</SimpleData>
+					<SimpleData name="Adresse">54, ROUTE NATIONALE 6</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8339315467703 </north>
+			<south> 45.8338083036468 </south>
+			<east> 4.74975966523419 </east>
+			<west> 4.7496454107365 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.7496454107365,45.833915186808,0 4.74967079815657,45.8339315467703,0 4.74967534647728,45.833924630895,0 4.74967836929266,45.83391836915069,0 4.74968139496162,45.8339121974335,0 4.74968480700079,45.8339060197305,0 4.74968809310318,45.83389993404969,0 4.74969176557566,45.8338938423832,0 4.74969530925708,45.8338877527118,0 4.74969911622676,45.833881839104,0 4.74970304913156,45.8338758334738,0 4.74970711368001,45.8338699158752,0 4.7497114300994,45.8338638142321,0 4.74974919224577,45.8338193645189,0 4.74975966523419,45.8338083036468,0 4.7496989435061,45.8338601346099,0 4.74964955556292,45.83390773675701,0 4.7496454107365,45.833915186808,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

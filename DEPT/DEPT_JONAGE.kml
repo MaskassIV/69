@@ -1,0 +1,2338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>JONAGE_DEPT</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_3">
+		<name>JONAGE_DEPT</name>
+		<Schema name="JONAGE_DEPT" id="JONAGE_DEPT.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="DEPT">
+			<LineStyle>
+				<color>BF63f16c</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C63f16c</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.40">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69279000ZD0170</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">JONAGE</SimpleData>
+					<SimpleData name="Adresse">LES BRUYERES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7706856919354 </north>
+			<south> 45.770459980983 </south>
+			<east> 5.03955686639604 </east>
+			<west> 5.03922974476467 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.03928817602131,45.7706856919354,0 5.03955686639604,45.7706523693961,0 5.03949596034398,45.770459980983,0 5.03922974476467,45.7704940693665,0 5.03928817602131,45.7706856919354,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.191">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69279000ZL0088</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">JONAGE</SimpleData>
+					<SimpleData name="Adresse">LES BRUYERES SUD</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7733252805215 </north>
+			<south> 45.7724279336167 </south>
+			<east> 5.04040409717455 </east>
+			<west> 5.0398002200398 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.04012378733231,45.7724279336167,0 5.04012173581033,45.77242815087519,0 5.0398002200398,45.7724603579733,0 5.04010994131013,45.7733252805215,0 5.04040409717455,45.77331194359189,0 5.04034133777458,45.7731183279185,0 5.04012378733231,45.7724279336167,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.764">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69279000ZL0115</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">JONAGE</SimpleData>
+					<SimpleData name="Adresse">LES BRUYERES SUD</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7778262528159 </north>
+			<south> 45.7768840227518 </south>
+			<east> 5.04112138132908 </east>
+			<west> 5.04057341719719 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.04090146025098,45.7778095997368,0 5.04099259507314,45.7775550092183,0 5.04107279876276,45.7771753164525,0 5.04112138132908,45.7768840227518,0 5.04079910962922,45.77689994161939,0 5.04071024101852,45.7772646576166,0 5.04057341719719,45.7778262528159,0 5.0408457100961,45.7778128601942,0 5.04090146025098,45.7778095997368,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.817">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69279000ZL0118</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">JONAGE</SimpleData>
+					<SimpleData name="Adresse">LES BRUYERES SUD</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.77689994161939 </north>
+			<south> 45.77535741387731 </south>
+			<east> 5.04115678678211 </east>
+			<west> 5.04073463306912 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.04101901952053,45.77535741387731,0 5.04073463306912,45.7753706655786,0 5.04079910962922,45.77689994161939,0 5.04112138132908,45.7768840227518,0 5.04114479963553,45.77673740081639,0 5.04115678678211,45.77652180500189,0 5.04115346543514,45.7761566847429,0 5.04113625596142,45.7759278350772,0 5.04108803925803,45.7755879384977,0 5.04106503958487,45.7755159310763,0 5.04101901952053,45.77535741387731,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.909">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69279000ZL0121</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">JONAGE</SimpleData>
+					<SimpleData name="Adresse">LES BRUYERES SUD</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7752092094691 </north>
+			<south> 45.7748468983693 </south>
+			<east> 5.04097381374385 </east>
+			<west> 5.04058755825644 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.04087670849278,45.7748468983693,0 5.04058755825644,45.7748600557668,0 5.04062105495692,45.7749723188676,0 5.04069172371545,45.7752092094691,0 5.04097381374385,45.7751965398799,0 5.04088455077514,45.77487450083369,0 5.04087670849278,45.7748468983693,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.952">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69279000ZL0123</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">JONAGE</SimpleData>
+					<SimpleData name="Adresse">LES BRUYERES SUD</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7753706655786 </north>
+			<south> 45.7751965398799 </south>
+			<east> 5.04101901952053 </east>
+			<west> 5.04069172371545 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.04097381374385,45.7751965398799,0 5.04069172371545,45.7752092094691,0 5.04073463306912,45.7753706655786,0 5.04101901952053,45.77535741387731,0 5.040998629463,45.775286350104,0 5.04097381374385,45.7751965398799,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.980">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69279000ZL0125</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">JONAGE</SimpleData>
+					<SimpleData name="Adresse">LES BRUYERES SUD</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7748600557668 </north>
+			<south> 45.7743917723329 </south>
+			<east> 5.04087670849278 </east>
+			<west> 5.04044551858584 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.04074983375053,45.7743917723329,0 5.04044551858584,45.7744020509662,0 5.04058755825644,45.7748600557668,0 5.04087670849278,45.7748468983693,0 5.0407551043244,45.7744124852407,0 5.04074983375053,45.7743917723329,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1013">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69279000ZL0127</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">JONAGE</SimpleData>
+					<SimpleData name="Adresse">LES BRUYERES SUD</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.77404150027021 </north>
+			<south> 45.7737518569582 </south>
+			<east> 5.04063134642093 </east>
+			<west> 5.0402463035851 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.04054533673214,45.7737518569582,0 5.0402463035851,45.7737656427366,0 5.04024640664557,45.7737684333212,0 5.04033398411453,45.77404150027021,0 5.04063134642093,45.77402774450871,0 5.04054533673214,45.7737518569582,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1014">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69279000ZM0127</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">JONAGE</SimpleData>
+					<SimpleData name="Adresse">LE RONTAY</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7818456633683 </north>
+			<south> 45.7806910502044 </south>
+			<east> 5.04407220020997 </east>
+			<west> 5.04187216148255 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.04407220020997,45.7818456633683,0 5.04402896145874,45.7815887303019,0 5.04187216148255,45.7806910502044,0 5.04191359718427,45.78094477367641,0 5.04191954654399,45.7809803373166,0 5.04204896539277,45.7810230346116,0 5.04311613790077,45.78144158964249,0 5.04376119050681,45.7817248262159,0 5.04407220020997,45.7818456633683,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1052">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69279000ZL0129</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">JONAGE</SimpleData>
+					<SimpleData name="Adresse">LES BRUYERES SUD</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7737656427366 </north>
+			<south> 45.77359753626951 </south>
+			<east> 5.04054533673214 </east>
+			<west> 5.04019787080809 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.04049638525414,45.77359753626951,0 5.04019787080809,45.7736114026314,0 5.0402463035851,45.7737656427366,0 5.04054533673214,45.7737518569582,0 5.04051844863311,45.7736651468369,0 5.04049638525414,45.77359753626951,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1071">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69279000ZH0013</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">JONAGE</SimpleData>
+					<SimpleData name="Adresse">SOUS VIVIER</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7997553489906 </north>
+			<south> 45.79933682682981 </south>
+			<east> 5.05978557740555 </east>
+			<west> 5.05966234963068 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.05966234963068,45.7997310292297,0 5.05966922662474,45.7997358581148,0 5.05968774135643,45.7997488520328,0 5.05969699872554,45.7997553489906,0 5.05976466273811,45.7997463673187,0 5.05978557740555,45.79966833695951,0 5.05970753082309,45.79933682682981,0 5.05968757268703,45.7993472799708,0 5.05971871948159,45.7997196413778,0 5.05966234963068,45.7997310292297,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1072">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69279000ZO0013</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">JONAGE</SimpleData>
+					<SimpleData name="Adresse">LES COMBES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7664101924996 </north>
+			<south> 45.76598974304871 </south>
+			<east> 5.04613503008208 </east>
+			<west> 5.04583925653122 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.04583925653122,45.7664101924996,0 5.04586795439563,45.76640660931061,0 5.04594943759754,45.766396483798,0 5.04603016383393,45.76603920703101,0 5.04613503008208,45.76598974304871,0 5.04589797756746,45.7660147610897,0 5.04592973923852,45.76604526229551,0 5.04583925653122,45.7664101924996,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1104">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69279000ZL0131</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">JONAGE</SimpleData>
+					<SimpleData name="Adresse">LES BRUYERES SUD</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7736114026314 </north>
+			<south> 45.77331194359189 </south>
+			<east> 5.04049638525414 </east>
+			<west> 5.04010994131013 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.04040409717455,45.77331194359189,0 5.04010994131013,45.7733252805215,0 5.04018177247507,45.7735589074814,0 5.04019787080809,45.7736114026314,0 5.04049638525414,45.77359753626951,0 5.04040409717455,45.77331194359189,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1106">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69279000ZM0131</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">JONAGE</SimpleData>
+					<SimpleData name="Adresse">LE RONTAY</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.78189498284419 </north>
+			<south> 45.7815887303019 </south>
+			<east> 5.04421384109052 </east>
+			<west> 5.04402896145874 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.04421384109052,45.78189498284419,0 5.04417149351398,45.781641276522,0 5.04402896145874,45.7815887303019,0 5.04407220020997,45.7818456633683,0 5.04421384109052,45.78189498284419,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1213">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69279000ZM0137</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">JONAGE</SimpleData>
+					<SimpleData name="Adresse">LE RONTAY</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.78225351258 </north>
+			<south> 45.7820219906619 </south>
+			<east> 5.04601704699573 </east>
+			<west> 5.04549143455858 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.04601704699573,45.78225351258,0 5.04597158899993,45.7820898522849,0 5.04597069034686,45.7820864455712,0 5.04591488673867,45.78208142214489,0 5.04566630938716,45.7820508884284,0 5.04549143455858,45.7820219906619,0 5.04549291781727,45.7820272784432,0 5.04554644866594,45.7822212393103,0 5.04601704699573,45.78225351258,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1322">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69279000ZM0143</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">JONAGE</SimpleData>
+					<SimpleData name="Adresse">LE RONTAY</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7822867141386 </north>
+			<south> 45.7821077643753 </south>
+			<east> 5.04776199663508 </east>
+			<west> 5.04728338533069 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.04776199663508,45.7822867141386,0 5.04767101893377,45.7821177551725,0 5.04766645953351,45.7821093704689,0 5.04728338533069,45.7821077643753,0 5.04737462729136,45.7822804120854,0 5.04776199663508,45.7822867141386,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1372">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69279000ZM0147</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">JONAGE</SimpleData>
+					<SimpleData name="Adresse">LE RONTAY</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7797013147691 </north>
+			<south> 45.7790545542114 </south>
+			<east> 5.04034020491592 </east>
+			<west> 5.03970365679472 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.03970365679472,45.77959996204049,0 5.04010146784811,45.7797013147691,0 5.04010146683926,45.77969780170619,0 5.04010133717783,45.7796942909695,0 5.04010133616899,45.7796907779066,0 5.04010133516014,45.7796872648437,0 5.04010120549875,45.7796837541071,0 5.04010133314246,45.7796802387179,0 5.04010133213361,45.779676725655,0 5.04010133112477,45.779673212592,0 5.04010145876845,45.7796696972028,0 5.04010171506461,45.7796661794874,0 5.04010171405574,45.7796626664245,0 5.04010197035186,45.779659148709,0 5.04010209799546,45.77965563331981,0 5.04010222563905,45.7796521179306,0 5.04010248193508,45.7796486002152,0 5.04010273823108,45.7796450824997,0 5.04010299452705,45.77964156478419,0 5.04010325082299,45.77963804706879,0 5.04010363577133,45.779634527027,0 5.04010389539184,45.7796310993305,0 5.04010428034009,45.77962757928871,0 5.04010466528829,45.779624059247,0 5.04010505023644,45.7796205392052,0 5.04010543518454,45.7796170191635,0 5.04010582345725,45.7796135891406,0 5.04010634038229,45.7796101567915,0 5.0401068539826,45.7796066344234,0 5.04010723893049,45.7796031143817,0 5.0401078845077,45.7795996797063,0 5.04010839810782,45.77959615733819,0 5.04010891170787,45.77959263497019,0 5.04010955728485,45.7795892002948,0 5.04011019953708,45.7795856756004,0 5.04011071646159,45.7795822432513,0 5.04011135871367,45.77957871855689,0 5.04011212961796,45.7795751915363,0 5.04011277186987,45.779571666842,0 5.04011354609864,45.7795682298402,0 5.04011431700265,45.77956470281961,0 5.04011496257897,45.7795612681441,0 5.04011573680746,45.7795578311423,0 5.04011663636343,45.7795543017954,0 5.04011741059171,45.7795508647936,0 5.0401181848199,45.7795474277918,0 5.04011921635245,45.77954398613749,0 5.04011998725575,45.7795404591168,0 5.04012089013584,45.7795370197887,0 5.04012192166802,45.77953357813429,0 5.04012269589569,45.7795301411325,0 5.04012372742763,45.7795266994781,0 5.04012418551681,45.7795251598518,0 5.04012475895943,45.7795232578237,0 5.04012565851426,45.7795197284767,0 5.04012681869798,45.77951628449591,0 5.0401278502294,45.7795128428415,0 5.04012888508538,45.7795094912059,0 5.04013004526867,45.7795060472251,0 5.04013120877652,45.77950269326319,0 5.04013224030741,45.7794992516087,0 5.04013340381498,45.7794958976468,0 5.04013469264981,45.77949245133971,0 5.04013585615709,45.7794890973777,0 5.04013701633952,45.7794856533969,0 5.04013830849859,45.7794822971086,0 5.0401395940081,45.7794787607825,0 5.04014088616685,45.7794754044942,0 5.04014217500074,45.779471958187,0 5.04014346715917,45.7794686018987,0 5.04014488796949,45.77946524328401,0 5.04014630877963,45.7794618846693,0 5.04014760093758,45.7794585283809,0 5.04014902174738,45.77945516976621,0 5.04015044255702,45.7794518111514,0 5.04015186336648,45.77944845253661,0 5.04015340950303,45.7794450015766,0 5.04015495896412,45.7794416406355,0 5.04015637977304,45.77943828202061,0 5.04015792923376,45.7794349210795,0 5.04015948201902,45.77943165015711,0 5.04016103147937,45.7794282892159,0 5.04016270959146,45.7794249259483,0 5.04016426237616,45.779421655026,0 5.04016594048786,45.7794182917583,0 5.04016761859936,45.7794149284907,0 5.04016930003539,45.7794116552419,0 5.04017097814648,45.7794082919741,0 5.04017265958212,45.77940501872529,0 5.04017446966945,45.7794017431501,0 5.04017627975656,45.7793984675748,0 5.04034020491592,45.7790545542114,0 5.04004531273755,45.7790801544826,0 5.03985576566465,45.7794066049044,0 5.03985470087594,45.77940914636741,0 5.0398536327629,45.7794115978115,0 5.03985256797399,45.7794141392745,0 5.03985137120882,45.7794165930445,0 5.03985017444355,45.7794190468146,0 5.03984898100239,45.7794215906035,0 5.03984791288885,45.7794240420475,0 5.03984671612326,45.7794264958176,0 5.03984539070559,45.77942895191359,0 5.039844197264,45.7794314957025,0 5.0398430038223,45.77943403949129,0 5.03984167840429,45.7794364955873,0 5.03984048163815,45.7794389493572,0 5.03983902756791,45.7794414077791,0 5.03983782747734,45.7794437715302,0 5.03983650205887,45.77944622762611,0 5.03983504798826,45.7794486860479,0 5.03983371924535,45.7794510521249,0 5.03983239050232,45.77945341820179,0 5.03983093643134,45.7794558766236,0 5.03982948236023,45.7794583350454,0 5.039828028289,45.7794607934672,0 5.03982669954549,45.77946315954401,0 5.03982511349777,45.7794655302728,0 5.03982365942615,45.77946798869449,0 5.03982207337815,45.7794703594233,0 5.03982048733002,45.779472730152,0 5.03981902993383,45.7794750985548,0 5.03981744388543,45.7794774692834,0 5.03981586116107,45.779479930031,0 5.03981427511239,45.7794823007596,0 5.03981268906358,45.7794846714882,0 5.03981097103837,45.7794869545239,0 5.03980938498929,45.77948932525249,0 5.03980766696379,45.7794916082881,0 5.03980608091443,45.7794939790166,0 5.03980436288865,45.7794962620521,0 5.03980251953476,45.7794986374325,0 5.03980080483284,45.7795010104869,0 5.03979895815448,45.77950329584831,0 5.03979736878027,45.77950557655781,0 5.03979552210162,45.77950786191909,0 5.03979367542282,45.7795101472804,0 5.03979182874386,45.77951243264171,0 5.03979011071692,45.77951471567701,0 5.03978826403767,45.7795170010383,0 5.03978629203021,45.7795193787443,0 5.0397845706787,45.7795215717606,0 5.0397825953468,45.7795238594477,0 5.0397807453428,45.7795260547899,0 5.03977877001058,45.77952834247689,0 5.03977679135408,45.7795305401449,0 5.03977481269743,45.7795327378129,0 5.03977283736472,45.7795350254998,0 5.03977085870775,45.7795372231678,0 5.03976888005062,45.7795394208357,0 5.03976677274109,45.77954162082939,0 5.03976479408364,45.7795438184973,0 5.03976281542603,45.7795460161651,0 5.03976070479193,45.7795481261399,0 5.03975859748175,45.7795503261335,0 5.03975635819507,45.779552438434,0 5.03975424756047,45.7795545484087,0 5.03975214024979,45.7795567484022,0 5.03975002961487,45.7795588583767,0 5.03974779032752,45.77956097067711,0 5.03974555103999,45.7795630829775,0 5.03974331507635,45.7795652852967,0 5.03974120444076,45.7795673952711,0 5.03973896182867,45.77956941755239,0 5.03973672254046,45.7795715298526,0 5.03973435459977,45.7795736444786,0 5.03973211198717,45.7795756667598,0 5.03972987269844,45.77957777905981,0 5.03972763340955,45.7795798913598,0 5.03972526214412,45.7795819159667,0 5.03972289087852,45.7795839405736,0 5.03972051961275,45.7795859651804,0 5.0397181483468,45.77958798978721,0 5.03971577708067,45.7795900143939,0 5.03971340581438,45.77959203900051,0 5.03971090589555,45.779594065933,0 5.03970840265254,45.7795960028465,0 5.03970615671408,45.77959793510821,0 5.03970365679472,45.77959996204049,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1432">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69279000ZH0015</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">JONAGE</SimpleData>
+					<SimpleData name="Adresse">CHP GARIOT</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7925715964067 </north>
+			<south> 45.79206540233 </south>
+			<east> 5.05894210726879 </east>
+			<west> 5.05828444037689 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.05828444037689,45.7925715964067,0 5.05835169201375,45.7925552364224,0 5.05870332665067,45.7923746983734,0 5.05894210726879,45.79216171775159,0 5.05894146050861,45.792161639472,0 5.05886971607518,45.7921472745598,0 5.0587995393392,45.7921335115596,0 5.05867164581647,45.7920913453944,0 5.05859264525199,45.79206540233,0 5.05828444037689,45.7925715964067,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1479">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69279000ZM0152</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">JONAGE</SimpleData>
+					<SimpleData name="Adresse">LE RONTAY</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.78094477367641 </north>
+			<south> 45.7801821832025 </south>
+			<east> 5.04191359718427 </east>
+			<west> 5.04065787448133 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.04187216148255,45.7806910502044,0 5.04109698184907,45.7803661988022,0 5.04065787448133,45.7801821832025,0 5.04069258169134,45.78039333124629,0 5.04070039436829,45.7804410219014,0 5.04191359718427,45.78094477367641,0 5.04187216148255,45.7806910502044,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1511">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69279000ZM0154</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">JONAGE</SimpleData>
+					<SimpleData name="Adresse">LE RONTAY</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7788413813992 </north>
+			<south> 45.7778849385383 </south>
+			<east> 5.04090462992942 </east>
+			<west> 5.04036253732026 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.04036253732026,45.7783870252158,0 5.04043738003648,45.7788413813992,0 5.04074329383998,45.7782151139871,0 5.04090462992942,45.7778849385383,0 5.04081030847717,45.7778895272612,0 5.04055485150362,45.77790216489451,0 5.04036253732026,45.7783870252158,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1528">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69279000ZM0155</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">JONAGE</SimpleData>
+					<SimpleData name="Adresse">LE RONTAY</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7822061553312 </north>
+			<south> 45.7818234255513 </south>
+			<east> 5.04532509312587 </east>
+			<west> 5.04474766757405 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.04532509312587,45.7822061553312,0 5.04527086708517,45.7819864443337,0 5.0451737571973,45.7819715399516,0 5.04509000980012,45.7819350445268,0 5.04497079310879,45.7818828875764,0 5.04474766757405,45.7818234255513,0 5.04479279960216,45.7820966284244,0 5.04497236590748,45.7821444489443,0 5.04532509312587,45.7822061553312,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1544">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69279000ZD0156</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">JONAGE</SimpleData>
+					<SimpleData name="Adresse">LES BRUYERES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7680330585428 </north>
+			<south> 45.7669848320934 </south>
+			<east> 5.03864181830874 </east>
+			<west> 5.03770525707966 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.03815498627431,45.7669848320934,0 5.03770525707966,45.7671273549186,0 5.03819108092245,45.7680330585428,0 5.03864181830874,45.76797699141689,0 5.03859564281553,45.7678801803887,0 5.03856279379713,45.7678166378616,0 5.03850870754561,45.76771123211369,0 5.0383923973856,45.7674542670517,0 5.03831243808413,45.7672824902244,0 5.03827127610092,45.7671959475661,0 5.03815498627431,45.7669848320934,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1568">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69279000ZM0157</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">JONAGE</SimpleData>
+					<SimpleData name="Adresse">LE RONTAY</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7820966284244 </north>
+			<south> 45.7816992975823 </south>
+			<east> 5.04479279960216 </east>
+			<west> 5.04433997714127 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.04479279960216,45.7820966284244,0 5.04474766757405,45.7818234255513,0 5.04433997714127,45.7816992975823,0 5.04438209154301,45.7819536386357,0 5.04479279960216,45.7820966284244,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1598">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69279000ZD0159</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">JONAGE</SimpleData>
+					<SimpleData name="Adresse">LES BRUYERES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.770924997553 </north>
+			<south> 45.7707541168523 </south>
+			<east> 5.03963247955461 </east>
+			<west> 5.03931884141882 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.03935982372793,45.770924997553,0 5.03963247955461,45.7708909726128,0 5.03958906920561,45.7707541168523,0 5.03931884141882,45.7707876474108,0 5.03935982372793,45.770924997553,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1600">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69279000ZM0159</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">JONAGE</SimpleData>
+					<SimpleData name="Adresse">LE RONTAY</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7819536386357 </north>
+			<south> 45.781641276522 </south>
+			<east> 5.04438209154301 </east>
+			<west> 5.04417149351398 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.04438209154301,45.7819536386357,0 5.04433997714127,45.7816992975823,0 5.04417149351398,45.781641276522,0 5.04421384109052,45.78189498284419,0 5.04438209154301,45.7819536386357,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1642">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69279000ZD0161</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">JONAGE</SimpleData>
+					<SimpleData name="Adresse">LES BRUYERES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7694557189745 </north>
+			<south> 45.7682782818035 </south>
+			<east> 5.03917111877352 </east>
+			<west> 5.03835128688009 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.03878267708924,45.7682782818035,0 5.03835128688009,45.7683320181128,0 5.03851189705877,45.76863142058091,0 5.0385921292186,45.7688279640946,0 5.03853670688434,45.7688782388379,0 5.03850892970493,45.7689033323522,0 5.03842507682111,45.7690168157291,0 5.03843624296353,45.76903688170539,0 5.03853744485948,45.76921917417999,0 5.0385647400883,45.7692682243158,0 5.03885777871592,45.7693507551993,0 5.03890142505151,45.7694557189745,0 5.03917111877352,45.7694218386434,0 5.0389077997757,45.7685960706815,0 5.03886818112664,45.76845374145461,0 5.03878267708924,45.7682782818035,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1643">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69279000ZM0161</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">JONAGE</SimpleData>
+					<SimpleData name="Adresse">LE RONTAY</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7822212393103 </north>
+			<south> 45.7819864443337 </south>
+			<east> 5.04554644866594 </east>
+			<west> 5.04527086708517 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.04554644866594,45.7822212393103,0 5.04549291781727,45.7820272784432,0 5.04549143455858,45.7820219906619,0 5.04527086708517,45.7819864443337,0 5.04532509312587,45.7822061553312,0 5.04554644866594,45.7822212393103,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1666">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69279000ZD0163</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">JONAGE</SimpleData>
+					<SimpleData name="Adresse">LES BRUYERES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7683320181128 </north>
+			<south> 45.76797699141689 </south>
+			<east> 5.03878267708924 </east>
+			<west> 5.03819108092245 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.03864181830874,45.76797699141689,0 5.03819108092245,45.7680330585428,0 5.03835128688009,45.7683320181128,0 5.03878267708924,45.7682782818035,0 5.03864181830874,45.76797699141689,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1688">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69279000ZM0165</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">JONAGE</SimpleData>
+					<SimpleData name="Adresse">LE RONTAY</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7804919970209 </north>
+			<south> 45.78014312637661 </south>
+			<east> 5.04069258169134 </east>
+			<west> 5.03953123727958 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.04065787448133,45.7801821832025,0 5.04054623053699,45.78014312637661,0 5.03953123727958,45.7802265156468,0 5.03962987048152,45.7804919970209,0 5.03976714845974,45.78047915622249,0 5.03977609676972,45.7804739500251,0 5.0397997785177,45.7804598298794,0 5.03981006556226,45.7804525276593,0 5.03985512687515,45.780414240122,0 5.03987519429707,45.7803928889055,0 5.03990867797664,45.7803478745808,0 5.03993520663866,45.78029929275451,0 5.03995382320372,45.7802456293928,0 5.04001671229805,45.7802229634358,0 5.04011571861613,45.7802405402528,0 5.04024086473759,45.780268724022,0 5.04036290769146,45.7803000264588,0 5.04040069949362,45.78031240448381,0 5.04047417021894,45.7803426935283,0 5.04052960077052,45.7803655619965,0 5.04058515337119,45.7803882480728,0 5.04060595523753,45.7803972400684,0 5.04061380418448,45.7804006111932,0 5.04069258169134,45.78039333124629,0 5.04065787448133,45.7801821832025,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1699">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69279000ZD0166</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">JONAGE</SimpleData>
+					<SimpleData name="Adresse">LES BRUYERES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7697270735686 </north>
+			<south> 45.7694218386434 </south>
+			<east> 5.0392550624832 </east>
+			<west> 5.03890142505151 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.03899407441574,45.7697270735686,0 5.0392550624832,45.7696944313634,0 5.03917111877352,45.7694218386434,0 5.03890142505151,45.7694557189745,0 5.03899407441574,45.7697270735686,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1712">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69279000ZL0167</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">JONAGE</SimpleData>
+					<SimpleData name="Adresse">LES BRUYERES SUD</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7778748395889 </north>
+			<south> 45.7778321440132 </south>
+			<east> 5.04090217048169 </east>
+			<west> 5.04056156616779 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.04090010469233,45.7778321440132,0 5.04086952632902,45.7778337781058,0 5.04056827084941,45.7778472442263,0 5.04056290045406,45.7778691404786,0 5.04056156616779,45.7778748395889,0 5.04090217048169,45.7778566982164,0 5.04090010469233,45.7778321440132,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1727">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69279000ZD0168</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">JONAGE</SimpleData>
+					<SimpleData name="Adresse">LES BRUYERES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7704940693665 </north>
+			<south> 45.7696944313634 </south>
+			<east> 5.03949596034398 </east>
+			<west> 5.03899407441574 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.03922974476467,45.7704940693665,0 5.03949596034398,45.770459980983,0 5.03943070399353,45.7702543395121,0 5.0392550624832,45.7696944313634,0 5.03899407441574,45.7697270735686,0 5.03922974476467,45.7704940693665,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1743">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69279000ZM0169</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">JONAGE</SimpleData>
+					<SimpleData name="Adresse">LE RONTAY</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.78227424612449 </north>
+			<south> 45.78211095991439 </south>
+			<east> 5.04708395046889 </east>
+			<west> 5.0464964892111 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.04708395046889,45.78227424612449,0 5.04702744907987,45.7821218663003,0 5.04702672906032,45.78211980754119,0 5.04702080745949,45.7821198248942,0 5.04701476053678,45.7821199345998,0 5.04700883893593,45.7821199519522,0 5.04700292067111,45.782120059323,0 5.04699687041231,45.78212007900899,0 5.04699094881144,45.7821200963605,0 5.04698503054657,45.78212020373039,0 5.04697898028775,45.7821202234153,0 5.04697306202285,45.7821203307846,0 5.04696713708596,45.7821202581161,0 5.04696108682712,45.7821202778001,0 5.04695516856218,45.7821203851685,0 5.04694911496737,45.7821203148331,0 5.04694306804446,45.7821204245349,0 5.0469371431076,45.7821203518648,0 5.04693135016461,45.7821203668791,0 5.04692529990575,45.7821203865612,0 5.04691937830482,45.782120403909,0 5.04691345670389,45.7821204212564,0 5.04690740310913,45.78212035091889,0 5.04690148484408,45.7821204582843,0 5.04689555990726,45.7821203856121,0 5.04688950631253,45.7821203152736,0 5.0468835847116,45.7821203326194,0 5.04687766311066,45.782120349965,0 5.04687174150972,45.7821203673102,0 5.04686568791502,45.7821202969704,0 5.04685976297827,45.78212022429629,0 5.04685384137734,45.7821202416406,0 5.04684778778267,45.7821201712999,0 5.04684186284596,45.7821200986248,0 5.04683593790926,45.78212002594951,0 5.04682988431465,45.7821199556078,0 5.04682396271373,45.7821199729505,0 5.04681803777707,45.7821199002742,0 5.04681211284043,45.7821198275976,0 5.04680605924586,45.7821197572546,0 5.04680013097354,45.7821195945587,0 5.04679420937266,45.7821196118999,0 5.04678815244244,45.7821194515372,0 5.04678223084157,45.7821194688778,0 5.04677630256935,45.7821193061806,0 5.04677050629076,45.7821192311679,0 5.04676445269631,45.78211916082271,0 5.04675852442418,45.7821189981246,0 5.04675260282334,45.7821190154636,0 5.04674654589332,45.7821188550987,0 5.04674061762126,45.78211869239959,0 5.04673469268485,45.78211861971901,0 5.04672876441286,45.7821184570193,0 5.04672271081855,45.78211838667179,0 5.04671678254662,45.7821182239715,0 5.04671085761029,45.7821181512896,0 5.04670492933842,45.78211798858871,0 5.04669887240864,45.78211782822121,0 5.04669294747238,45.78211775553839,0 5.0466870192006,45.78211759283649,0 5.04668109426438,45.78211752015299,0 5.04667503399921,45.78211726976559,0 5.04666910572754,45.7821171070628,0 5.04666318079139,45.78211703437841,0 5.0466572491843,45.7821167816563,0 5.0466513242482,45.7821167089712,0 5.04664526398326,45.7821164585822,0 5.04663933571177,45.78211629587779,0 5.04663340744031,45.7821161331731,0 5.04662747916888,45.7821159704681,0 5.04662155089749,45.7821158077628,0 5.04661549063278,45.7821155573722,0 5.04660969101941,45.7821153923326,0 5.04660376274813,45.7821152296263,0 5.0465978311415,45.7821149769011,0 5.0465919028703,45.7821148141942,0 5.04658584260584,45.78211456380199,0 5.04657991099937,45.7821143110758,0 5.04657385407036,45.7821141507016,0 5.04656792246399,45.7821138979748,0 5.04656199419299,45.7821137352664,0 5.04655593392878,45.7821134848725,0 5.04655000232257,45.78211323214479,0 5.0465440740517,45.7821130694354,0 5.04653814244558,45.78211281670701,0 5.04653221083951,45.7821125639783,0 5.0465262792335,45.7821123112493,0 5.04652034762754,45.7821120585199,0 5.0465142873637,45.78211180812389,0 5.04650835575785,45.7821115553939,0 5.04650242415206,45.7821113026636,0 5.0464964892111,45.78211095991439,0 5.04654165143895,45.7822735444409,0 5.04708395046889,45.78227424612449,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1760">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69279000ZH0017</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">JONAGE</SimpleData>
+					<SimpleData name="Adresse">CHP GARIOT</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.79264239762631 </north>
+			<south> 45.79202419092469 </south>
+			<east> 5.05859264525199 </east>
+			<west> 5.05799309859024 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.05799309859024,45.79264239762631,0 5.05828444037689,45.7925715964067,0 5.05859264525199,45.79206540233,0 5.05846671916111,45.79202419092469,0 5.05843148611836,45.7921671593566,0 5.05843057746139,45.79217041879631,0 5.05842967551486,45.7921738582727,0 5.05842876685768,45.7921771177124,0 5.05842798688127,45.79218037480491,0 5.05842695289825,45.7921837266101,0 5.05842591555985,45.7921869883969,0 5.05842500690223,45.7921902478366,0 5.05842396956359,45.7921935096234,0 5.05842293222483,45.7921967714101,0 5.05842189488594,45.7922000331969,0 5.05842085754694,45.7922032949837,0 5.05841969152687,45.7922065591176,0 5.05841865418761,45.7922098209044,0 5.05841748816727,45.7922130850383,0 5.05841632550205,45.79221643919049,0 5.05841515612618,45.792219613306,0 5.05841386142445,45.792222879787,0 5.05841256672257,45.79222614626801,0 5.05841139734628,45.7922293203835,0 5.0584101026441,45.7922325868644,0 5.05840880458653,45.79223576332701,0 5.05840750652881,45.7922389397896,0 5.05840608314515,45.79224220861761,0 5.05840478508712,45.7922453850801,0 5.05840322966686,45.79224856623689,0 5.05840193496374,45.7922518327178,0 5.05840051157942,45.7922551015458,0 5.05839895615865,45.7922582827025,0 5.05839752941876,45.79226146151209,0 5.05839597064241,45.7922645526504,0 5.0583944152211,45.79226773380709,0 5.05839298848071,45.7922709126166,0 5.05839130102274,45.792274006102,0 5.05838974224569,45.79227709724021,0 5.05838819017888,45.7922803684152,0 5.05838650607556,45.7922835519188,0 5.05838481861684,45.7922866454041,0 5.05838313115793,45.7922897388893,0 5.05838144705403,45.792292922393,0 5.05837963091359,45.79229601822531,0 5.05837794345411,45.79229911171041,0 5.05837625599443,45.7923022051956,0 5.05837431452742,45.7923053933933,0 5.05837249838617,45.7923084892255,0 5.0583708109259,45.7923115827105,0 5.05836886610306,45.7923146808898,0 5.05836691792482,45.7923176890506,0 5.05836497310154,45.79232078722981,0 5.05836315695926,45.79232388306179,0 5.05836108009917,45.79232689356961,0 5.05835913527524,45.7923299917487,0 5.05835719045109,45.7923330899277,0 5.05835524227157,45.79233609808831,0 5.05835316541058,45.792339108596,0 5.05835108854936,45.7923421191036,0 5.05834901168792,45.79234512961121,0 5.05834693482625,45.7923481401187,0 5.05834473263822,45.79235124299171,0 5.05834265242095,45.7923541634808,0 5.0583404468773,45.7923571763353,0 5.05833824133341,45.7923601891898,0 5.05833616111546,45.79236310967871,0 5.05833382353466,45.7923660348618,0 5.05833162134518,45.79236913773449,0 5.05832928376388,45.7923720629174,0 5.05832707150855,45.7923748957349,0 5.05832473392677,45.79237782091771,0 5.05832239634474,45.7923807461005,0 5.05832005876246,45.7923836712833,0 5.05831772117994,45.792386596466,0 5.05831525491579,45.7923895239957,0 5.05831278529629,45.7923923615069,0 5.05831044771302,45.79239528668949,0 5.05830797809301,45.7923981242006,0 5.05830550847275,45.79240096171169,0 5.05830291352592,45.79240389158819,0 5.05830057258655,45.7924067267521,0 5.05829797428411,45.7924095666101,0 5.0582953759814,45.792412406468,0 5.05829290635986,45.7924152439788,0 5.05829017602013,45.79241799616521,0 5.05828758107167,45.7924209260413,0 5.05828497941285,45.7924236758805,0 5.05828237775376,45.7924264257197,0 5.05827965076799,45.7924292679243,0 5.0582769204269,45.7924320201103,0 5.05827419344058,45.7924348623148,0 5.0582715884254,45.7924375221353,0 5.05826872940201,45.79244027666821,0 5.05822371152752,45.7924692926413,0 5.05822155078059,45.7924700526864,0 5.05821939338855,45.7924709027499,0 5.05821710731487,45.7924717551603,0 5.05821494992269,45.7924726052238,0 5.05821279253045,45.7924734552872,0 5.05821063513814,45.7924743053505,0 5.05820860642734,45.7924751530669,0 5.0582064490349,45.7924760031302,0 5.05820429164239,45.79247685319339,0 5.05820226628632,45.7924777909281,0 5.05820024093018,45.7924787286627,0 5.05819808353747,45.7924795787258,0 5.05819605818119,45.7924805164604,0 5.05819390414325,45.7924814565418,0 5.05819187878684,45.7924823942763,0 5.05818998211194,45.7924833296639,0 5.05818796011029,45.7924843574167,0 5.05818580942696,45.7924853875164,0 5.05818378407026,45.79248632525071,0 5.05818175871349,45.79248726298501,0 5.05817986539314,45.79248828839081,0 5.05817797207273,45.7924893137966,0 5.05817595007063,45.7924903415492,0 5.05817392806845,45.7924913693018,0 5.05817203810269,45.79249248472581,0 5.05817001610037,45.79249351247831,0 5.05816812277959,45.7924945378839,0 5.05816610413198,45.79249565565479,0 5.05816421081105,45.7924966810603,0 5.05816232084491,45.7924977964842,0 5.05816055956033,45.7924989095612,0 5.05815867294889,45.79250011500351,0 5.05815678298252,45.7925012304273,0 5.05815489301607,45.7925023458511,0 5.05815300304955,45.7925034612748,0 5.0581512417646,45.7925045743517,0 5.05814935515276,45.7925057797938,0 5.05814759386766,45.7925068928706,0 5.05814570725567,45.79250809831261,0 5.05814407800691,45.79250929906091,0 5.05814232007641,45.792510502156,0 5.05814056214584,45.7925117052511,0 5.05813880421519,45.7925129083462,0 5.05813704628447,45.7925141114413,0 5.05813528835367,45.7925153145363,0 5.0581335337776,45.7925166076497,0 5.05813177584665,45.7925178107446,0 5.05813028198858,45.7925191891827,0 5.05812852405747,45.7925203922776,0 5.05812689816277,45.79252168304409,0 5.058125272268,45.7925229738105,0 5.05812364637315,45.792524264577,0 5.05812202047822,45.79252555534341,0 5.05812039458321,45.7925268461097,0 5.05811876868813,45.79252813687611,0 5.05811727147468,45.7925294252956,0 5.05811565228902,45.7925308960987,0 5.05811415507542,45.79253218451819,0 5.05811252918004,45.7925334752845,0 5.05811103532107,45.7925348537223,0 5.05810954146203,45.7925362321601,0 5.05810804760291,45.79253761059789,0 5.05810655038895,45.7925388990173,0 5.05810518521142,45.7925402751082,0 5.05810369135209,45.792541653546,0 5.05810220084744,45.79254312200211,0 5.05810083902445,45.7925445881114,0 5.0580993451649,45.79254596654911,0 5.05809797998701,45.79254734263999,0 5.05809648948206,45.792548811096,0 5.05809525298578,45.79255018484,0 5.05809389116244,45.79255165094931,0 5.05809252933902,45.79255311705851,0 5.05809116751553,45.7925545831677,0 5.05808992766426,45.7925558668933,0 5.05808856584063,45.7925573330024,0 5.05808733269871,45.7925587967648,0 5.05808610291146,45.7925603505456,0 5.05808487312413,45.7925619043263,0 5.05808363998201,45.7925633680886,0 5.05808240683982,45.792564831851,0 5.05808117369757,45.7925662956132,0 5.05807994390997,45.7925678493939,0 5.05807883944939,45.7925693108094,0 5.05807773834346,45.7925708622433,0 5.05807663723748,45.7925724136772,0 5.0580754040949,45.7925738774394,0 5.05807430298879,45.79257542887331,0 5.05807320188262,45.7925769803072,0 5.05799309859024,45.79264239762631,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1773">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69279000ZM0170</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">JONAGE</SimpleData>
+					<SimpleData name="Adresse">LE RONTAY</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7822735444409 </north>
+			<south> 45.7820864455712 </south>
+			<east> 5.04654165143895 </east>
+			<west> 5.04597069034686 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.04654165143895,45.7822735444409,0 5.0464964892111,45.78211095991439,0 5.04649403470477,45.782110734196,0 5.04648810643433,45.7821105714836,0 5.04648230348666,45.78211031641871,0 5.04647637188112,45.7821100636871,0 5.04647044361081,45.7821099009739,0 5.0464646406633,45.7821096459081,0 5.04645871239306,45.7821094831942,0 5.04645290944565,45.7821092281278,0 5.04644710649828,45.7821089730611,0 5.04644117822817,45.7821088103463,0 5.04643524662298,45.7821085576125,0 5.04642944701088,45.7821083925636,0 5.04642351207069,45.7821080498105,0 5.04641758046566,45.7821077970758,0 5.04641178085369,45.782107632026,0 5.04640584924876,45.78210737929059,0 5.04639992097894,45.7821072165736,0 5.04639411803203,45.7821069615042,0 5.04638818309221,45.7821066187492,0 5.04638238348045,45.78210645369791,0 5.04637632321786,45.7821062032945,0 5.04637039494825,45.782106040576,0 5.0463645886666,45.7821056954863,0 5.04635866039709,45.78210553276719,0 5.04635272879263,45.782105280029,0 5.04634692251117,45.7821049349385,0 5.04634099424179,45.78210477221841,0 5.04633506263749,45.7821045194794,0 5.04632925969116,45.7821042644066,0 5.04632332808697,45.78210401166691,0 5.04631739648283,45.78210375892689,0 5.04631159353667,45.78210350385319,0 5.04630566193264,45.78210325111261,0 5.04629985898658,45.7821029960384,0 5.04629392738266,45.7821027432971,0 5.04628812110184,45.78210239820351,0 5.04628232149082,45.78210223314709,0 5.0462763865522,45.78210189038621,0 5.04627058694128,45.7821017253291,0 5.04626465200278,45.78210138256761,0 5.0462587203992,45.7821011298246,0 5.04625291745358,45.7821008747479,0 5.0462469858501,45.78210062200419,0 5.04624105424668,45.7821003692602,0 5.04623525130123,45.7821001141826,0 5.04622931636313,45.78209977141919,0 5.04622351341779,45.78209951634099,0 5.04621758181459,45.7820992635958,0 5.04621165021145,45.7820990108502,0 5.04620584393153,45.78209866575239,0 5.0461999123285,45.7820984130062,0 5.04619410938344,45.78209815792649,0 5.0461880457879,45.7820978174942,0 5.04618211418505,45.7820975647471,0 5.04617631124016,45.7820973096665,0 5.04617037630273,45.7820969669,0 5.04616457335796,45.7820967118188,0 5.04615863842066,45.78209636905179,0 5.04615271015275,45.7820962063218,0 5.0461469038735,45.78209586122099,0 5.04614096893641,45.78209551845299,0 5.04613516599192,45.7820952633702,0 5.04612935971288,45.78209491826851,0 5.04612355676851,45.7820946631851,0 5.04611762183169,45.78209432041591,0 5.04611168689495,45.7820939776464,0 5.04610588395076,45.7820937225621,0 5.04609995234872,45.7820934698107,0 5.04609414940465,45.7820932147259,0 5.04608821446816,45.7820928719551,0 5.04608240818966,45.7820925268509,0 5.04607647658786,45.7820922740983,0 5.04607054165159,45.7820919313266,0 5.04606473870781,45.7820916762402,0 5.04605880377167,45.7820913334679,0 5.04605299415903,45.7820908983435,0 5.04604706255753,45.7820906455893,0 5.04604125627952,45.782090300483,0 5.04603532467815,45.7820900477282,0 5.04602926108447,45.7820897072873,0 5.04602345480667,45.7820893621801,0 5.04601752320547,45.7820891094244,0 5.04601171692781,45.78208876431649,0 5.04600578199232,45.78208842154151,0 5.0459999757148,45.78208807643299,0 5.04599404077945,45.7820877336573,0 5.04598823783647,45.782087478567,0 5.04598230290126,45.7820871357907,0 5.04597649662402,45.7820867906811,0 5.04597069034686,45.7820864455712,0 5.04597158899993,45.7820898522849,0 5.04601704699573,45.78225351258,0 5.04630462472995,45.7822733394488,0 5.04654165143895,45.7822735444409,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1796">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69279000ZD0172</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">JONAGE</SimpleData>
+					<SimpleData name="Adresse">LES BRUYERES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7707876474108 </north>
+			<south> 45.7706523693961 </south>
+			<east> 5.03958906920561 </east>
+			<west> 5.03928817602131 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.03931884141882,45.7707876474108,0 5.03958906920561,45.7707541168523,0 5.03955686639604,45.7706523693961,0 5.03928817602131,45.7706856919354,0 5.03931884141882,45.7707876474108,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1832">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69279000ZM0174</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">JONAGE</SimpleData>
+					<SimpleData name="Adresse">LE RONTAY</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7822804120854 </north>
+			<south> 45.7821042863291 </south>
+			<east> 5.04737462729136 </east>
+			<west> 5.04702744907987 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.04737462729136,45.7822804120854,0 5.04728338533069,45.7821077643753,0 5.04728145399689,45.7821042863291,0 5.04716846901768,45.7821057057995,0 5.04710254527711,45.7821194228942,0 5.04702744907987,45.7821218663003,0 5.04708395046889,45.78227424612449,0 5.04737462729136,45.7822804120854,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1843">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69279000ZD0175</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">JONAGE</SimpleData>
+					<SimpleData name="Adresse">LES BRUYERES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7712573025133 </north>
+			<south> 45.77113826574639 </south>
+			<east> 5.03973768886795 </east>
+			<west> 5.03943794882499 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.03946425302163,45.7712573025133,0 5.03973768886795,45.7712234434028,0 5.03971073113337,45.77113826574639,0 5.03943794882499,45.7711723832205,0 5.03946425302163,45.7712573025133,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1875">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69279000ZD0177</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">JONAGE</SimpleData>
+					<SimpleData name="Adresse">LES BRUYERES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7711723832205 </north>
+			<south> 45.7708909726128 </south>
+			<east> 5.03971073113337 </east>
+			<west> 5.03935982372793 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.03943794882499,45.7711723832205,0 5.03971073113337,45.77113826574639,0 5.03963247955461,45.7708909726128,0 5.03935982372793,45.770924997553,0 5.03943794882499,45.7711723832205,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1900">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69279000ZD0179</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">JONAGE</SimpleData>
+					<SimpleData name="Adresse">LES BRUYERES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7724603579733 </north>
+			<south> 45.7721066208528 </south>
+			<east> 5.04012378733231 </east>
+			<west> 5.0396902113356 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.04012173581033,45.77242815087519,0 5.04012378733231,45.7724279336167,0 5.04010060377704,45.7723613341202,0 5.04001924285594,45.7721066208528,0 5.0396902113356,45.7721130208409,0 5.03978876157017,45.7724254343638,0 5.0398002200398,45.7724603579733,0 5.04012173581033,45.77242815087519,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1930">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69279000ZD0181</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">JONAGE</SimpleData>
+					<SimpleData name="Adresse">LES BRUYERES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7721130208409 </north>
+			<south> 45.7712234434028 </south>
+			<east> 5.04001924285594 </east>
+			<west> 5.03946425302163 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.0396902113356,45.7721130208409,0 5.04001924285594,45.7721066208528,0 5.03973768886795,45.7712234434028,0 5.03946425302163,45.7712573025133,0 5.03946814246898,45.7712720051437,0 5.0396902113356,45.7721130208409,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1931">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69279000ZM0181</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">JONAGE</SimpleData>
+					<SimpleData name="Adresse">LE RONTAY</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7819864443337 </north>
+			<south> 45.7819350445268 </south>
+			<east> 5.04527086708517 </east>
+			<west> 5.04509000980012 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.04509000980012,45.7819350445268,0 5.0451737571973,45.7819715399516,0 5.04527086708517,45.7819864443337,0 5.04526664136029,45.7819696761291,0 5.04509000980012,45.7819350445268,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2313">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69279000ZM0206</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">JONAGE</SimpleData>
+					<SimpleData name="Adresse">LE RONTAY</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7790801544826 </north>
+			<south> 45.7783870252158 </south>
+			<east> 5.04043738003648 </east>
+			<west> 5.04004531273755 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.04021173255022,45.7787166490575,0 5.04004531273755,45.7790801544826,0 5.04034020491592,45.7790545542114,0 5.04043738003648,45.7788413813992,0 5.04036253732026,45.7783870252158,0 5.04021173255022,45.7787166490575,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2339">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69279000ZD0208</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">JONAGE</SimpleData>
+					<SimpleData name="Adresse">LES BRUYERES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.768343586662 </north>
+			<south> 45.7680330585428 </south>
+			<east> 5.03835128688009 </east>
+			<west> 5.03808114859951 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.03825942720197,45.768343586662,0 5.03835128688009,45.7683320181128,0 5.03819108092245,45.7680330585428,0 5.03808114859951,45.768046665002,0 5.03815575006245,45.76817088707831,0 5.03818071079052,45.768212502921,0 5.03825942720197,45.768343586662,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2534">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69279000ZM0223</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">JONAGE</SimpleData>
+					<SimpleData name="Adresse">LES COMBES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.77790216489451 </north>
+			<south> 45.7778566982164 </south>
+			<east> 5.04090462992942 </east>
+			<west> 5.04055485150362 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.04055485150362,45.77790216489451,0 5.04081030847717,45.7778895272612,0 5.04090462992942,45.7778849385383,0 5.04090217048169,45.7778566982164,0 5.04056156616779,45.7778748395889,0 5.04055485150362,45.77790216489451,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2567">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69279000ZM0226</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">JONAGE</SimpleData>
+					<SimpleData name="Adresse">LE RONTAY</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7802265156468 </north>
+			<south> 45.77959996204049 </south>
+			<east> 5.04054623053699 </east>
+			<west> 5.03936250118431 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.03955150458099,45.7796527064374,0 5.03936250118431,45.7797778195961,0 5.03949532095411,45.7801359148718,0 5.03953123727958,45.7802265156468,0 5.04054623053699,45.78014312637661,0 5.04054218241824,45.780141578167,0 5.04053839160691,45.78014002530381,0 5.04053447546759,45.780138564786,0 5.04053081331027,45.78013700959571,0 5.04052689384599,45.7801354590589,0 5.04052309971014,45.7801338161762,0 5.04051931222524,45.7801323533312,0 5.04051538943626,45.780130712775,0 5.04051159530108,45.780129069892,0 5.04050780116613,45.7801274270088,0 5.0405040070314,45.7801257841255,0 5.04050034155046,45.7801241389154,0 5.04049654741618,45.7801224960318,0 5.04049274995681,45.7801207631293,0 5.04048895582299,45.7801191202455,0 5.04048528701763,45.780117385016,0 5.0404816182125,45.7801156497863,0 5.04047794940761,45.7801139145566,0 5.04047428060294,45.7801121793267,0 5.04047048314498,45.7801104464234,0 5.04046681101551,45.7801086211744,0 5.0404632675398,45.7801067935986,0 5.04045959873607,45.7801050583683,0 5.04045605526082,45.7801032307922,0 5.0404522544788,45.78010140786951,0 5.04044871100403,45.7800995802932,0 5.0404451675295,45.7800977527168,0 5.0404416240552,45.7800959251403,0 5.04043807725591,45.7800940075449,0 5.04043453045687,45.7800920899493,0 5.04043098698329,45.7800902623725,0 5.04042744018473,45.7800883447767,0 5.04042401871469,45.7800863348352,0 5.04042047191663,45.7800844172392,0 5.04041705044709,45.7800824072975,0 5.04041350697471,45.7800805797202,0 5.04041008550566,45.7800785697783,0 5.04040666403686,45.7800765598363,0 5.04040324256831,45.7800745498943,0 5.04039995307861,45.7800726276444,0 5.04039639963195,45.78007053000981,0 5.04039323547101,45.78006851541419,0 5.04038993933173,45.7800664131262,0 5.04038651786441,45.7800644031837,0 5.04038322505076,45.7800623909144,0 5.04037980025882,45.7800602909527,0 5.04037662944882,45.7800580963189,0 5.04037333331079,45.7800559940304,0 5.04037004049813,45.78005398176081,0 5.04036686968888,45.7800517871267,0 5.0403635735516,45.7800496848379,0 5.04036027408948,45.7800474925302,0 5.040357103281,45.7800452978959,0 5.04035393579785,45.7800431932803,0 5.04035076498987,45.7800409986457,0 5.04034759418214,45.7800388040111,0 5.04034442337465,45.7800366093763,0 5.04034138122078,45.780034412415,0 5.04033833906715,45.7800322154535,0 5.04033503628202,45.7800299331262,0 5.04033199080384,45.7800276461457,0 5.04032894532591,45.7800253591651,0 5.0403260318266,45.7800231598768,0 5.04032285769584,45.7800208752226,0 5.04031981221867,45.7800185882417,0 5.04031689207003,45.78001620891539,0 5.04031397524667,45.7800139196079,0 5.04031105842355,45.78001163030029,0 5.04030801294737,45.7800093433192,0 5.04030509279973,45.7800069639925,0 5.04030217265235,45.7800045846658,0 5.0402993811585,45.78000220301259,0 5.04029633568332,45.7799999160311,0 5.04029354086497,45.7799974443588,0 5.04029074937186,45.7799950627053,0 5.04028795787898,45.77999268105171,0 5.04028503440812,45.7799902117057,0 5.04028223959077,45.7799877400331,0 5.04027944809863,45.7799853583793,0 5.04027678525997,45.779982974399,0 5.04027386511507,45.7799805950716,0 5.04027119895193,45.7799781210723,0 5.04026852946409,45.77997555705399,0 5.04026599527959,45.77997317074699,0 5.04026332911717,45.7799706967475,0 5.04026065963005,45.779968132729,0 5.04025799346811,45.77996565872941,0 5.04025545263468,45.7799630923843,0 5.04025278314829,45.77996052836571,0 5.04025304941092,45.7799572807065,0 5.04025331234859,45.77995394302841,0 5.04025344995799,45.7799506976956,0 5.0402534555893,45.7799473646704,0 5.04025359319867,45.7799441193377,0 5.04025359882997,45.7799407863125,0 5.04025347913305,45.7799375456326,0 5.04025348476436,45.7799342126075,0 5.04025336506746,45.7799309719276,0 5.04025311339255,45.7799276435553,0 5.04025286504259,45.7799244052019,0 5.04025261336774,45.7799210768296,0 5.04025223303984,45.77991775078381,0 5.04025198468997,45.7799145124304,0 5.04025160436214,45.7799111863846,0 5.04025097337806,45.77990804502941,0 5.04025059637525,45.7799048090024,0 5.04025008739453,45.779901485283,0 5.04024932443269,45.7798982562354,0 5.04024881545211,45.779894932516,0 5.04024818114346,45.7798917011419,0 5.04024728952885,45.7798884744207,0 5.04024652656735,45.7798852453731,0 5.04024576028105,45.7798819263066,0 5.04024499731973,45.7798786972589,0 5.04024397705253,45.7798754728642,0 5.04024308543842,45.7798722461429,0 5.04024206517145,45.7798690217482,0 5.04024091625163,45.7798657996798,0 5.04023989930979,45.7798626653039,0 5.04023875371511,45.7798595332544,0 5.04023747614273,45.7798563135124,0 5.04023633054833,45.7798531814629,0 5.04023505630111,45.77985005173979,0 5.04023365340113,45.7798469243431,0 5.04023237582934,45.7798437046011,0 5.04023097292967,45.7798405772043,0 5.04022944137725,45.779837452134,0 5.040227909825,45.7798343270637,0 5.04022650692582,45.7798311996669,0 5.04022497537392,45.7798280745965,0 5.0402231898413,45.7798250441978,0 5.04022152963689,45.7798219214538,0 5.04021987275751,45.77981888872869,0 5.04021808722547,45.7798158583299,0 5.04021630169362,45.7798128279311,0 5.04021451616197,45.77980979753229,0 5.04021247332486,45.7798067717863,0 5.04021055914079,45.7798037437138,0 5.04020864828177,45.7798008056602,0 5.04020673409811,45.7797977775876,0 5.04020456593389,45.7797948441868,0 5.0402025264227,45.77979190845941,0 5.04020035825893,45.7797889750584,0 5.04019806144261,45.7797860439838,0 5.04019589660412,45.7797832006016,0 5.04019372844104,45.7797802672005,0 5.04019143162544,45.7797773361258,0 5.04018901280692,45.7797745874151,0 5.04018671931659,45.7797717463591,0 5.04018429717376,45.7797689076295,0 5.04018174637844,45.7797660712261,0 5.04017932756089,45.7797633225153,0 5.04017690541881,45.7797604837855,0 5.0401743612738,45.77975782741971,0 5.04017168515156,45.7797550833614,0 5.04016900902959,45.779752339303,0 5.04016633623264,45.7797496852635,0 5.04016366011119,45.779746941205,0 5.04016073000938,45.779744291818,0 5.04015806053797,45.7797417277971,0 5.04015525908938,45.7797390760836,0 5.0401523289884,45.7797364266965,0 5.04014927355976,45.7797338696544,0 5.04014647876146,45.7797313979785,0 5.04014342665809,45.7797289309551,0 5.04014049988293,45.7797263715865,0 5.04013731580276,45.7797238168704,0 5.04013426370022,45.7797213498469,0 5.04013108294533,45.7797188851495,0 5.04012803416804,45.7797165081446,0 5.04012472808577,45.7797141357923,0 5.04012154733172,45.7797116710947,0 5.04011824125003,45.7797092987421,0 5.04011506382122,45.7797069240633,0 5.04011163241216,45.77970464405571,0 5.04010820100338,45.779702364048,0 5.04010489824747,45.779700081714,0 5.04010146683926,45.77969780170619,0 5.04010146784811,45.7797013147691,0 5.03970365679472,45.77959996204049,0 5.03955150458099,45.7796527064374,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2945">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69279000AP0026</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">JONAGE</SimpleData>
+					<SimpleData name="Adresse">SOUS VIVIER</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.79978044798621 </north>
+			<south> 45.7997310292297 </south>
+			<east> 5.05968774135643 </east>
+			<west> 5.05948505023843 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.05948505023843,45.79976660317049,0 5.05949297023944,45.7997717733529,0 5.05949825247926,45.79977528015309,0 5.05950353136226,45.7997786969347,0 5.05950630118129,45.79978044798621,0 5.05968774135643,45.7997488520328,0 5.05966922662474,45.7997358581148,0 5.05966234963068,45.7997310292297,0 5.05948505023843,45.79976660317049,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2975">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69279000ZD0262</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">JONAGE</SimpleData>
+					<SimpleData name="Adresse">LES BRUYERES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.768046665002 </north>
+			<south> 45.7671273549186 </south>
+			<east> 5.03819108092245 </east>
+			<west> 5.03755551390433 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.03808114859951,45.768046665002,0 5.03819108092245,45.7680330585428,0 5.03770525707966,45.7671273549186,0 5.03755551390433,45.7671747390059,0 5.037615113737,45.7672866213271,0 5.03765115702965,45.767349565928,0 5.03775000383093,45.7675135254415,0 5.03778547230327,45.76757134589351,0 5.03781081171494,45.767612774808,0 5.03788899442571,45.7677399049428,0 5.03793734664301,45.76781550837049,0 5.03800809517112,45.76792601807031,0 5.03808114859951,45.768046665002,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2984">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69279000ZD0263</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">JONAGE</SimpleData>
+					<SimpleData name="Adresse">LES BRUYERES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7688782388379 </north>
+			<south> 45.7683320181128 </south>
+			<east> 5.0385921292186 </east>
+			<west> 5.03825942720197 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.03853670688434,45.7688782388379,0 5.0385921292186,45.7688279640946,0 5.03851189705877,45.76863142058091,0 5.03835128688009,45.7683320181128,0 5.03825942720197,45.768343586662,0 5.03833592654958,45.7684703866305,0 5.03840711601557,45.7685962916384,0 5.03848913916862,45.7687437098484,0 5.03851240954064,45.7688022910096,0 5.03853670688434,45.7688782388379,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3166">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69279000AP0028</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">JONAGE</SimpleData>
+					<SimpleData name="Adresse">SOUS VIVIER</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7998610002552 </north>
+			<south> 45.7997325027745 </south>
+			<east> 5.05960468632881 </east>
+			<west> 5.05849114122645 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.05902689690363,45.799775322534,0 5.05890939301482,45.7997635938373,0 5.0585990185694,45.7997325027745,0 5.05849114122645,45.7997371727159,0 5.05854420510652,45.7997476450208,0 5.05856119549246,45.7997508482412,0 5.05858191478142,45.7997538933676,0 5.0586037957154,45.7997570073823,0 5.05880349634438,45.7997799382979,0 5.05950573277546,45.7998515312091,0 5.05959894088752,45.7998610002552,0 5.05960468632881,45.79982513378581,0 5.05958720903491,45.79981923721619,0 5.05955688760794,45.7998073595244,0 5.05953589964212,45.7997971131054,0 5.05952276118296,45.79979014647661,0 5.05950630118129,45.79978044798621,0 5.05950353136226,45.7997786969347,0 5.05949825247926,45.79977528015309,0 5.05949297023944,45.7997717733529,0 5.05948505023843,45.79976660317049,0 5.05944242529377,45.79977359644091,0 5.05943652194838,45.7997741545558,0 5.05922894569369,45.79979559755401,0 5.05902689690363,45.799775322534,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3690">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69279000ZO0033</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">JONAGE</SimpleData>
+					<SimpleData name="Adresse">LA FOUILLOUSE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7662090622285 </north>
+			<south> 45.7657570375912 </south>
+			<east> 5.05239859223243 </east>
+			<west> 5.05229994387542 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.05239859223243,45.7662090622285,0 5.05235036455017,45.7657596332891,0 5.05231296789333,45.7657577014167,0 5.05229994387542,45.7657570375912,0 5.05232216510259,45.7659637256024,0 5.0523460708421,45.76618803850899,0 5.05234782875265,45.7662076438128,0 5.05236676942773,45.7662081999811,0 5.05239859223243,45.7662090622285,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.4623">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69279000ZO0046</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">JONAGE</SimpleData>
+					<SimpleData name="Adresse">LA FOUILLOUSE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7666191155552 </north>
+			<south> 45.7662326246192 </south>
+			<east> 5.04070451071497 </east>
+			<west> 5.03940762385997 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.03999492765777,45.7665678353581,0 5.0400035709203,45.7665648865955,0 5.04001361240537,45.76656146215021,0 5.04002365388919,45.76655803770389,0 5.04003369537177,45.7665546132568,0 5.04004373685311,45.7665511888088,0 5.04005365303501,45.7665478567049,0 5.04006369119008,45.7665443422363,0 5.04007373266769,45.7665409177856,0 5.04008377082022,45.7665374033152,0 5.04009368367339,45.766533981189,0 5.0401037218234,45.7665304667168,0 5.04011375997212,45.7665269522437,0 5.04012367282156,45.7665235301149,0 5.04013371096776,45.76652001564,0 5.04014349186889,45.7665165058169,0 5.04015353001256,45.7665129913403,0 5.04016343953307,45.7665094791891,0 5.04017347767418,45.7665059647108,0 5.04018338719217,45.7665024525578,0 5.04019342200673,45.7664988480588,0 5.04020333152217,45.7664953359042,0 5.04021324103635,45.7664918237486,0 5.04022327584704,45.766488219247,0 5.04023318535867,45.76648470708971,0 5.04024309154496,45.7664811049127,0 5.04025300105406,45.76647759275371,0 5.04026303918369,45.76647407826741,0 5.04027294536613,45.7664704760878,0 5.04028285154727,45.7664668739073,0 5.04029275772713,45.7664632717259,0 5.04030266390569,45.7664596695437,0 5.04031257008296,45.7664560673607,0 5.04032247625894,45.7664524651767,0 5.0403322538119,45.76644886531841,0 5.04034215666106,45.76644517311401,0 5.04035193421145,45.76644157325401,0 5.04036184038226,45.76643797106661,0 5.04037174322749,45.76643427885949,0 5.04038164939571,45.7664306766703,0 5.04039142361663,45.7664269867881,0 5.04040132645792,45.7664232945785,0 5.04041123262224,45.7664196923867,0 5.04042100683924,45.7664160025019,0 5.04043090967658,45.7664123102896,0 5.0404408125126,45.7664086180765,0 5.04045058672567,45.7664049281892,0 5.04046048955905,45.7664012359743,0 5.04047026709396,45.7663976361041,0 5.04048003797865,45.7663938561953,0 5.04048994080808,45.7663901639779,0 5.04049971501461,45.7663864740863,0 5.04050948589532,45.766382694175,0 5.04051926009922,45.7663790042818,0 5.04052903097727,45.7663752243688,0 5.04053880185398,45.766371444455,0 5.04054857605394,45.7663677545592,0 5.040558346928,45.76636397464371,0 5.04056811780072,45.7663601947274,0 5.0405780172936,45.7663564124834,0 5.04058778816364,45.7663526325653,0 5.04059755903234,45.7663488526465,0 5.04060720127822,45.76634507505361,0 5.04061697214426,45.76634129513301,0 5.04062674300896,45.7663375152116,0 5.0406365105476,45.76633364527061,0 5.04064628140961,45.7663298653475,0 5.04065604894554,45.76632599540471,0 5.04066569118344,45.7663222178069,0 5.04067546204143,45.7663184378812,0 5.04068523289809,45.7663146579548,0 5.04069487180721,45.7663107903356,0 5.04070451071497,45.76630692271561,0 5.04070356843181,45.7662326246192,0 5.03940762385997,45.7666059294004,0 5.03956513434659,45.7666191155552,0 5.03999492765777,45.7665678353581,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.4693">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69279000ZO0047</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">JONAGE</SimpleData>
+					<SimpleData name="Adresse">LA FOUILLOUSE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7667321473252 </north>
+			<south> 45.7665678353581 </south>
+			<east> 5.03999492765777 </east>
+			<west> 5.03904790969364 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.03969014126468,45.7666618045787,0 5.03982226628328,45.7666253655179,0 5.03999492765777,45.7665678353581,0 5.03956513434659,45.7666191155552,0 5.03935616564356,45.7666449631364,0 5.03904790969364,45.7667321473252,0 5.03969014126468,45.7666618045787,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.4809">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69279000ZO0049</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">JONAGE</SimpleData>
+					<SimpleData name="Adresse">LA FOUILLOUSE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.76630692271561 </north>
+			<south> 45.7660950285604 </south>
+			<east> 5.041174058159 </east>
+			<west> 5.04070356843181 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.04070451071497,45.76630692271561,0 5.0407849361579,45.7662751110534,0 5.041174058159,45.7660950285604,0 5.04070356843181,45.7662326246192,0 5.04070451071497,45.76630692271561,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.4851">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69279000ZO0005</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">JONAGE</SimpleData>
+					<SimpleData name="Adresse">LES BRELLES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7694218386434 </north>
+			<south> 45.76845374145461 </south>
+			<east> 5.03925708386711 </east>
+			<west> 5.03886818112664 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.03920096964726,45.769418056185,0 5.03920777270771,45.7693896484196,0 5.03922105370521,45.7693623846546,0 5.03923107627405,45.7693479710007,0 5.03925708386711,45.7693167839288,0 5.03918197570487,45.7690778111031,0 5.0390806217229,45.7687414869598,0 5.03907140946198,45.7687394915895,0 5.03903909327149,45.7687113405648,0 5.03901867391877,45.7686846859864,0 5.03900893769961,45.7686719806903,0 5.0389394614803,45.76858207663619,0 5.0389214837421,45.7685588009083,0 5.03886818112664,45.76845374145461,0 5.0389077997757,45.7685960706815,0 5.03917111877352,45.7694218386434,0 5.03920096964726,45.769418056185,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.5035">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69279000ZM0054</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">JONAGE</SimpleData>
+					<SimpleData name="Adresse">LE RONTAY</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.78069159514 </north>
+			<south> 45.78039333124629 </south>
+			<east> 5.04074170809991 </east>
+			<west> 5.03962987048152 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.04074170809991,45.78069159514,0 5.04070039436829,45.7804410219014,0 5.04069258169134,45.78039333124629,0 5.04061380418448,45.7804006111932,0 5.03976714845974,45.78047915622249,0 5.03962987048152,45.7804919970209,0 5.03965016370784,45.78054648827761,0 5.03972177259458,45.78059608837331,0 5.0397437303188,45.7805980334691,0 5.03974716680885,45.7805830182293,0 5.0404781363223,45.78064871030659,0 5.04074170809991,45.78069159514,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.5169">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69279000ZO0057</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">JONAGE</SimpleData>
+					<SimpleData name="Adresse">LES COMBES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7687582019353 </north>
+			<south> 45.767810503623 </south>
+			<east> 5.03946821118037 </east>
+			<west> 5.03856279379713 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.03862808122931,45.767810503623,0 5.03856279379713,45.7678166378616,0 5.03859564281553,45.7678801803887,0 5.03864181830874,45.76797699141689,0 5.03878267708924,45.7682782818035,0 5.03886818112664,45.76845374145461,0 5.0389214837421,45.7685588009083,0 5.0389394614803,45.76858207663619,0 5.03900893769961,45.7686719806903,0 5.03901867391877,45.7686846859864,0 5.03903909327149,45.7687113405648,0 5.03907140946198,45.7687394915895,0 5.0390806217229,45.7687414869598,0 5.03915756541512,45.7687582019353,0 5.03927808286119,45.76874539395719,0 5.03941267612735,45.7687303496325,0 5.03946821118037,45.7687215087153,0 5.03909043693294,45.7686307826942,0 5.0387692590834,45.7679600052794,0 5.03870408442705,45.7679692002416,0 5.03862808122931,45.767810503623,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.5264">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69279000ZI0059</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">JONAGE</SimpleData>
+					<SimpleData name="Adresse">LES BRELLES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.78877859829581 </north>
+			<south> 45.7880714396535 </south>
+			<east> 5.06022698930461 </east>
+			<west> 5.05969014230976 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.0602126941753,45.788130885667,0 5.05980771898002,45.7880714396535,0 5.05969014230976,45.7887199971724,0 5.06008221455137,45.78877859829581,0 5.06022698930461,45.7884588748676,0 5.0602126941753,45.788130885667,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.5517">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69279000ZI0063</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">JONAGE</SimpleData>
+					<SimpleData name="Adresse">LES BRELLES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.789254231979 </north>
+			<south> 45.7887199971724 </south>
+			<east> 5.06008221455137 </east>
+			<west> 5.05955369100847 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.06008221455137,45.78877859829581,0 5.05969014230976,45.7887199971724,0 5.05955369100847,45.78920432355691,0 5.05988904471466,45.789254231979,0 5.05998182741468,45.7890111248568,0 5.06008221455137,45.78877859829581,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.5804">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69279000ZI0069</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">JONAGE</SimpleData>
+					<SimpleData name="Adresse">LES BRELLES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7895458025949 </north>
+			<south> 45.78920432355691 </south>
+			<east> 5.05988904471466 </east>
+			<west> 5.05945099930876 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.05988904471466,45.789254231979,0 5.05955369100847,45.78920432355691,0 5.05945099930876,45.7894959838854,0 5.05978635133545,45.7895458025949,0 5.05982054433347,45.7894199677759,0 5.05988904471466,45.789254231979,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.5896">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69279000ZI0071</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">JONAGE</SimpleData>
+					<SimpleData name="Adresse">LES BRELLES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7920750928208 </north>
+			<south> 45.7899097167836 </south>
+			<east> 5.05966012885106 </east>
+			<west> 5.05843986132626 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.05966012885106,45.78996607594231,0 5.05928332632637,45.7899097167836,0 5.05843986132626,45.79192892621349,0 5.05874497752155,45.79204812060469,0 5.05897493276392,45.7920750928208,0 5.05900724395491,45.7920679274825,0 5.05898485811622,45.79205464381791,0 5.05916281772319,45.79157811845059,0 5.05937109545815,45.7909858276505,0 5.05966012885106,45.78996607594231,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.5934">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69279000ZM0072</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">JONAGE</SimpleData>
+					<SimpleData name="Adresse">LE RONTAY</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7823137338081 </north>
+			<south> 45.7821177551725 </south>
+			<east> 5.04944284060599 </east>
+			<west> 5.04767101893377 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.04935040013742,45.7821396010192,0 5.04767101893377,45.7821177551725,0 5.04776199663508,45.7822867141386,0 5.04940938878226,45.7823137338081,0 5.04944284060599,45.78227844567299,0 5.04935040013742,45.7821396010192,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6112">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69279000ZI0077</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">JONAGE</SimpleData>
+					<SimpleData name="Adresse">LES BRELLES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.788130885667 </north>
+			<south> 45.7865368750618 </south>
+			<east> 5.0602126941753 </east>
+			<west> 5.05977636821063 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.05980564681097,45.78807111715999,0 5.05980771898002,45.7880714396535,0 5.0602126941753,45.788130885667,0 5.06019018086349,45.787706841467,0 5.06014565205925,45.7866028277871,0 5.05977636821063,45.7865368750618,0 5.0597827336247,45.7865798169233,0 5.05980707320034,45.78675601875229,0 5.05982420748994,45.7869323521084,0 5.05983749189054,45.7871090259816,0 5.05984576162612,45.78728588147569,0 5.05984964321125,45.7874624567563,0 5.05984373581104,45.78763894049119,0 5.05983281357497,45.7878156058476,0 5.05981647029796,45.7879919197605,0 5.05980564681097,45.78807111715999,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6135">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69279000ZK0078</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">JONAGE</SimpleData>
+					<SimpleData name="Adresse">LE CERISIER</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7827114031711 </north>
+			<south> 45.7821639403546 </south>
+			<east> 5.05514209265274 </east>
+			<west> 5.05295968871371 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.05301615015543,45.7821639403546,0 5.05295968871371,45.7825257356669,0 5.05301230711135,45.78256972788569,0 5.0533617597608,45.7825741784462,0 5.0540389193203,45.7826214857149,0 5.05495977557273,45.78269245563909,0 5.05509656517764,45.7827114031711,0 5.05514209265274,45.7824782590017,0 5.05439447350531,45.7823503590862,0 5.05437918135653,45.78234766489879,0 5.05436388920923,45.7823449707093,0 5.05434846840529,45.7823422788603,0 5.05433317626098,45.7823395846667,0 5.05431788746614,45.7823369804895,0 5.05430259532479,45.78233428629179,0 5.05428730653285,45.7823316821104,0 5.05427201774236,45.782329077927,0 5.05425672895331,45.7823264737415,0 5.0542411828495,45.7823238742388,0 5.05422589406334,45.7823212700491,0 5.05421060862643,45.7823187558759,0 5.05419519118504,45.7823161540244,0 5.05417978044061,45.7823137322078,0 5.0541643663498,45.7823112203706,0 5.05414920957653,45.7823087038468,0 5.05413379548852,45.7823061920054,0 5.05411838474955,45.7823037701804,0 5.05410297066432,45.7823012583348,0 5.05408755992808,45.7822988365057,0 5.05407227785124,45.78229641233219,0 5.05405673845966,45.782293992841,0 5.05404132772748,45.78229157100549,0 5.05402591699664,45.78228914916791,0 5.05401050961463,45.7822868173467,0 5.05399510223392,45.7822844855233,0 5.05397969150709,45.7822820636794,0 5.05396428412901,45.7822797318519,0 5.05394887675222,45.7822774000223,0 5.05393334406609,45.782275160551,0 5.05391793669188,45.7822728287172,0 5.05390253266628,45.78227058689971,0 5.05388712529465,45.7822682550617,0 5.05387159261359,45.782266015582,0 5.053856063281,45.7822638661186,0 5.05384078791837,45.7822616219508,0 5.05382538724619,45.7822594701413,0 5.05380972591213,45.782257232995,0 5.05379432524238,45.7822550811812,0 5.05377892457383,45.7822529293654,0 5.05376339524853,45.7822507798893,0 5.05374799458238,45.7822486280692,0 5.05373233660155,45.7822464809307,0 5.05371680727987,45.7822443314482,0 5.0537014099643,45.7822422696403,0 5.05368601264987,45.78224020783021,0 5.05367035467384,45.78223806068311,0 5.05365495736175,45.78223599886879,0 5.05363943473975,45.7822340294127,0 5.05362390877203,45.7822319699359,0 5.05360838280546,45.782229910457,0 5.05359273152893,45.7822279433361,0 5.05357720891142,45.78222597387141,0 5.05356181829964,45.7822240920814,0 5.05354629568431,45.7822221226124,0 5.05353077307009,45.7822201531413,0 5.05351525380364,45.7822182736866,0 5.05349960253372,45.7822163065528,0 5.05348408326941,45.7822144270938,0 5.05346856400615,45.7822125476326,0 5.05345291608608,45.78221067051081,0 5.05343739682493,45.7822087910454,0 5.05342187756484,45.7822069115778,0 5.05340623299444,45.7822051244681,0 5.05339071373644,45.7822032449962,0 5.05337519782593,45.78220145554079,0 5.05335955325857,45.7821996684245,0 5.05334403735008,45.7821978789648,0 5.05332852478894,45.78219617952139,0 5.05331288022459,45.78219439239871,0 5.05329737101169,45.7821927829695,0 5.0532815944452,45.78219090816529,0 5.05326608188794,45.78218920871329,0 5.05325044067381,45.7821875116005,0 5.05323480280684,45.782185904504,0 5.05321941891025,45.7821842027043,0 5.0532036523873,45.78218259794479,0 5.05318801117696,45.7821809008233,0 5.05317250197149,45.7821792913769,0 5.05315686410911,45.7821776842697,0 5.05314122624765,45.7821760771602,0 5.0531255883871,45.7821744700486,0 5.05310995387345,45.7821729529533,0 5.05309431936066,45.7821714358558,0 5.05307868150278,45.7821698287377,0 5.05306317564952,45.7821683092949,0 5.05304754448523,45.78216688220949,0 5.05303191332174,45.7821654551219,0 5.05301615015543,45.7821639403546,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6170">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69279000ZI0079</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">JONAGE</SimpleData>
+					<SimpleData name="Adresse">LES BRELLES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7898791893791 </north>
+			<south> 45.7894959838854 </south>
+			<east> 5.05978635133545 </east>
+			<west> 5.05931810021792 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.05978635133545,45.7895458025949,0 5.05945099930876,45.7894959838854,0 5.05931810021792,45.78982359664951,0 5.05968753411724,45.7898791893791,0 5.05978635133545,45.7895458025949,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6207">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69279000ZN0008</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">JONAGE</SimpleData>
+					<SimpleData name="Adresse">LES BRELLES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7863343356194 </north>
+			<south> 45.782432387021 </south>
+			<east> 5.06006971475029 </east>
+			<west> 5.05852820990509 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.0589150959802,45.7831098419096,0 5.05882247529819,45.7834400521769,0 5.0585481067508,45.7836920563132,0 5.05863323429859,45.7837065373686,0 5.05852820990509,45.7838456446548,0 5.05862390706958,45.7837740870602,0 5.05876030439399,45.7837133169586,0 5.05889875443453,45.7836489060473,0 5.05904983640399,45.78358489500351,0 5.0591205593622,45.7836239600407,0 5.05917645492774,45.7836969853969,0 5.05925922039866,45.783872571395,0 5.05925923705615,45.7839144580999,0 5.05979234593788,45.7862851711959,0 5.06006971475029,45.7863343356194,0 5.06001230064319,45.7860722612252,0 5.05954889017414,45.7839550219764,0 5.05954524389737,45.78390212172791,0 5.05954538482827,45.7838851841911,0 5.05953111421875,45.7836958271187,0 5.0595303946443,45.7835971130156,0 5.05961426104734,45.7835018093221,0 5.05964421436801,45.7835040550292,0 5.05969999186221,45.78356699337601,0 5.05977420195717,45.7836926509346,0 5.05981139623588,45.78385798866,0 5.0598283487697,45.78393280557751,0 5.05989053043167,45.78393959741619,0 5.05995051024714,45.7839391329705,0 5.05994399866792,45.7839198847326,0 5.05967516722461,45.78311533702259,0 5.05957231995388,45.7830986579826,0 5.05942381647148,45.7830384029415,0 5.05938783323525,45.78297456271901,0 5.05939997650842,45.7828237280087,0 5.05949181189099,45.78256235233611,0 5.05914365755478,45.78303135533379,0 5.05904004535524,45.7830148699335,0 5.05947475054973,45.7824397051128,0 5.05945619580276,45.782432387021,0 5.05945545741749,45.78243330129439,0 5.05938540020283,45.78252601077719,0 5.0589150959802,45.7831098419096,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6262">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69279000ZI0081</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">JONAGE</SimpleData>
+					<SimpleData name="Adresse">LES BRELLES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.78996607594231 </north>
+			<south> 45.78982359664951 </south>
+			<east> 5.05968753411724 </east>
+			<west> 5.05928332632637 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.05968753411724,45.7898791893791,0 5.05931810021792,45.78982359664951,0 5.05928332632637,45.7899097167836,0 5.05966012885106,45.78996607594231,0 5.05968753411724,45.7898791893791,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6324">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69279000ZI0083</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">JONAGE</SimpleData>
+					<SimpleData name="Adresse">LES BRELLES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7866028277871 </north>
+			<south> 45.786275044696 </south>
+			<east> 5.06014565205925 </east>
+			<west> 5.0597351874774 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.05977636821063,45.7865368750618,0 5.06014565205925,45.7866028277871,0 5.06013977927267,45.7863487303038,0 5.06013944806874,45.7863467545989,0 5.06011015774491,45.7863416143421,0 5.06006971475029,45.7863343356194,0 5.05979234593788,45.7862851711959,0 5.0597351874774,45.786275044696,0 5.05973550188123,45.7862765703104,0 5.05977636821063,45.7865368750618,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6618">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69279000ZL0092</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">JONAGE</SimpleData>
+					<SimpleData name="Adresse">LES BRUYERES SUD</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7778472442263 </north>
+			<south> 45.7778095997368 </south>
+			<east> 5.04090146025098 </east>
+			<west> 5.04056827084941 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.04090146025098,45.7778095997368,0 5.0408457100961,45.7778128601942,0 5.04057341719719,45.7778262528159,0 5.04056827084941,45.7778472442263,0 5.04086952632902,45.7778337781058,0 5.04090010469233,45.7778321440132,0 5.04090146025098,45.7778095997368,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6672">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69279000ZL0094</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">JONAGE</SimpleData>
+					<SimpleData name="Adresse">LES BRUYERES SUD</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7744020509662 </north>
+			<south> 45.77402774450871 </south>
+			<east> 5.04074983375053 </east>
+			<west> 5.04033292277589 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.04063134642093,45.77402774450871,0 5.04033398411453,45.77404150027021,0 5.04033292277589,45.77404413175591,0 5.04044551858584,45.7744020509662,0 5.04074983375053,45.7743917723329,0 5.04074604245427,45.7743762572478,0 5.04068727580045,45.7742071610532,0 5.04063134642093,45.77402774450871,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

@@ -1,0 +1,1942 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>GENAS_DEPT</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_3">
+		<name>GENAS_DEPT</name>
+		<Schema name="GENAS_DEPT" id="GENAS_DEPT.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="DEPT">
+			<LineStyle>
+				<color>BF63f16c</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C63f16c</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.84">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69277000AR0024</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GENAS</SimpleData>
+					<SimpleData name="Adresse">DORMONT</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7247688103699 </north>
+			<south> 45.7246300907406 </south>
+			<east> 5.02616728323184 </east>
+			<west> 5.02587351631383 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.02587351631383,45.724750670407,0 5.02616728323184,45.7247688103699,0 5.02589160512773,45.7246300907406,0 5.02587351631383,45.724750670407,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.254">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69277000AR0036</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GENAS</SimpleData>
+					<SimpleData name="Adresse">LA GDE PLAINE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7270273244563 </north>
+			<south> 45.72644157105259 </south>
+			<east> 5.02888156186571 </east>
+			<west> 5.02863154985222 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.02863154985222,45.7269868945716,0 5.02863740615745,45.7270273244563,0 5.02864719071194,45.72702408569471,0 5.02880094403669,45.7269555611948,0 5.02885795455352,45.72690391099471,0 5.02886903088318,45.7267816553813,0 5.02888156186571,45.7266359531972,0 5.02879257041679,45.7264434360035,0 5.02879108723206,45.72644157105259,0 5.0288399454018,45.7267250691877,0 5.02868269005986,45.72696453551639,0 5.02863154985222,45.7269868945716,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.256">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69277000AR0038</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GENAS</SimpleData>
+					<SimpleData name="Adresse">LA GDE PLAINE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7273739195759 </north>
+			<south> 45.7271082027451 </south>
+			<east> 5.02917436265312 </east>
+			<west> 5.02867150492901 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.02917436265312,45.7273739195759,0 5.02911700442012,45.7271847965745,0 5.02903657493536,45.7271240002098,0 5.0289333599505,45.7271082027451,0 5.02872962253288,45.7271149324767,0 5.02867150492901,45.7271329132072,0 5.02881289789738,45.72720071963009,0 5.02917436265312,45.7273739195759,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.312">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69277000AR0037</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GENAS</SimpleData>
+					<SimpleData name="Adresse">LA GDE PLAINE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.72710882093029 </north>
+			<south> 45.7269868945716 </south>
+			<east> 5.02863740615745 </east>
+			<west> 5.02835345491344 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.02835345491344,45.72710882093029,0 5.02863740615745,45.7270273244563,0 5.02863154985222,45.7269868945716,0 5.02835345491344,45.72710882093029,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.370">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69277000ZD0100</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GENAS</SimpleData>
+					<SimpleData name="Adresse">LES TACHES EST</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7484524203167 </north>
+			<south> 45.7479699308917 </south>
+			<east> 5.03513487553509 </east>
+			<west> 5.0339755495783 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.03397817234026,45.7479699308917,0 5.0339755495783,45.7480350150042,0 5.03419256850095,45.74812487215219,0 5.03456841357077,45.748282575077,0 5.0348392942397,45.748395510191,0 5.0349741337625,45.7484373956039,0 5.03513487553509,45.7484524203167,0 5.0349572351982,45.7483942826272,0 5.03478140261395,45.74832233000301,0 5.03443950430221,45.74816059232249,0 5.03441498280599,45.7481480634032,0 5.03397817234026,45.7479699308917,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.425">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69277000ZD0102</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GENAS</SimpleData>
+					<SimpleData name="Adresse">LES TACHES EST</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7474150716734 </north>
+			<south> 45.7467796884978 </south>
+			<east> 5.03274361684498 </east>
+			<west> 5.03187077777859 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.03274361684498,45.74733615017,0 5.03187154090052,45.7467796884978,0 5.03187077777859,45.7468639257467,0 5.03191277938372,45.746886499249,0 5.03217039869917,45.7470520151864,0 5.03274291686676,45.7474150716734,0 5.03274361684498,45.74733615017,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.474">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69277000ZD0104</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GENAS</SimpleData>
+					<SimpleData name="Adresse">LES TACHES EST</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7510430961175 </north>
+			<south> 45.74849974811521 </south>
+			<east> 5.03935324480765 </east>
+			<west> 5.0350788648638 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.03935324480765,45.7509648940349,0 5.03932286388306,45.7509470673724,0 5.03680781319184,45.7494936115565,0 5.03598100337847,45.7490049125234,0 5.0352865253456,45.7485874135989,0 5.03519933076245,45.7485361111597,0 5.03522196524824,45.7485078683156,0 5.03510290784979,45.74849974811521,0 5.0350788648638,45.748524683442,0 5.03508232202538,45.7485347098645,0 5.03509349732035,45.7485446870722,0 5.03566836428636,45.7488902117018,0 5.03639563796714,45.749324591433,0 5.0381826287818,45.7503692884312,0 5.03934750947358,45.7510430961175,0 5.03935324480765,45.7509648940349,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.530">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69277000ZD0106</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GENAS</SimpleData>
+					<SimpleData name="Adresse">LES TACHES EST</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7468639257467 </north>
+			<south> 45.7466231152063 </south>
+			<east> 5.03187154090052 </east>
+			<west> 5.03162682002709 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.03187154090052,45.7467796884978,0 5.03162750457557,45.7466231152063,0 5.03162682002709,45.7467059998515,0 5.03187077777859,45.7468639257467,0 5.03187154090052,45.7467796884978,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.566">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69277000ZD0108</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GENAS</SimpleData>
+					<SimpleData name="Adresse">LES TACHES EST</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7433096132592 </north>
+			<south> 45.74284313291681 </south>
+			<east> 5.0251811212643 </east>
+			<west> 5.02435842643731 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.02517378818797,45.74322885457439,0 5.02477319024098,45.74302940931689,0 5.02448223712176,45.74289050842809,0 5.02449696942529,45.74284313291681,0 5.02435842643731,45.74285057473881,0 5.02435896062192,45.74291082757519,0 5.02450132158002,45.7429760104474,0 5.02506102081662,45.7432480849385,0 5.0251811212643,45.7433096132592,0 5.02517378818797,45.74322885457439,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.644">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69277000ZD0110</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GENAS</SimpleData>
+					<SimpleData name="Adresse">LES TACHES EST</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.74550199419671 </north>
+			<south> 45.745223701102 </south>
+			<east> 5.02920935540029 </east>
+			<west> 5.02881925592613 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.02881925592613,45.74529916966361,0 5.02891963985547,45.7453525815421,0 5.02920650037339,45.74550199419671,0 5.02920935540029,45.7454290692922,0 5.0288233046637,45.745223701102,0 5.02881925592613,45.74529916966361,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.691">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69277000ZD0112</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GENAS</SimpleData>
+					<SimpleData name="Adresse">LES TACHES EST</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.74529916966361 </north>
+			<south> 45.7446793308883 </south>
+			<east> 5.0288233046637 </east>
+			<west> 5.02776313590219 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.02776313590219,45.7446793308883,0 5.02776436402962,45.7447583977037,0 5.02782820397207,45.7447941817777,0 5.02881925592613,45.74529916966361,0 5.0288233046637,45.745223701102,0 5.02881124797376,45.74521770262069,0 5.02879918798225,45.7452116141189,0 5.02878738513898,45.7452055209892,0 5.02877532515277,45.7451994324849,0 5.02876339374196,45.745193341666,0 5.02875133706514,45.7451873431782,0 5.02873940565959,45.7451812523568,0 5.02872747756073,45.74517525155321,0 5.02871554946445,45.7451692507483,0 5.02870361476274,45.745163069904,0 5.02869168667168,45.74515706909661,0 5.02867962670657,45.7451509805821,0 5.02866769531677,45.7451448897531,0 5.02865576723353,45.7451388889419,0 5.02864383254505,45.7451327080913,0 5.02863177259053,45.7451266195717,0 5.02861984451513,45.74512061875669,0 5.02860791313847,45.7451145279214,0 5.02859598176444,45.74510843708481,0 5.02858417566178,45.7451022539148,0 5.02857211902426,45.7450962554079,0 5.02856018765811,45.7450901645675,0 5.0285482562946,45.7450840737259,0 5.02853632493371,45.745077982883,0 5.02852439027173,45.7450718020198,0 5.02851246221982,45.7450658011935,0 5.02850040229436,45.7450597126598,0 5.02848859951645,45.7450536194989,0 5.02847653959627,45.7450475309627,0 5.02846473351997,45.7450413477802,0 5.0284526736051,45.7450352592415,0 5.02844087083767,45.7450291660755,0 5.02842893950046,45.7450230752213,0 5.02841700816589,45.7450169843658,0 5.02840494495806,45.7450108058029,0 5.02839314220112,45.745004712632,0 5.02838121087444,45.7449986217727,0 5.02836928285387,45.7449926209313,0 5.02835735153243,45.7449865300695,0 5.02834528833792,45.74498035150021,0 5.02833348559405,45.7449742583231,0 5.02832155428052,45.7449681674575,0 5.02830975154187,45.7449620742779,0 5.02829782023359,45.7449559834098,0 5.02828588892793,45.74494989254039,0 5.0282739510183,45.7449436216317,0 5.02826201971795,45.74493753075989,0 5.0282502169924,45.74493143757401,0 5.02823828569728,45.7449253466996,0 5.02822622583266,45.7449192581367,0 5.02821441981174,45.74491307492801,0 5.02820248522135,45.7449068940308,0 5.0281906825089,45.7449008008388,0 5.02817862265487,45.7448947122708,0 5.02816681994765,45.7448886190762,0 5.02815501063682,45.7448823458422,0 5.0281430793628,45.7448762549578,0 5.0281311480914,45.7448701640721,0 5.02811934209161,45.74486398085349,0 5.02810728225346,45.74485789227789,0 5.02809547625896,45.7448517090568,0 5.02808354169511,45.744845528147,0 5.02807161043691,45.7448394372551,0 5.02805980775328,45.7448333440493,0 5.02804787319739,45.7448271631358,0 5.028036070519,45.7448210699275,0 5.02802426454033,45.744814886699,0 5.02801233329526,45.7448087958008,0 5.02800052732186,45.74480261256971,0 5.02798859608207,45.744796521669,0 5.02797678681113,45.7447902484164,0 5.02796485557661,45.7447841575131,0 5.02795292104196,45.74477797658961,0 5.02794111838453,45.7447718833714,0 5.02792918385518,45.7447657024453,0 5.02791724932849,45.744759521518,0 5.02790544337625,45.744753338277,0 5.02789364072932,45.7447472450539,0 5.02788183478234,45.7447410618104,0 5.02786990026627,45.7447348808781,0 5.02785796575286,45.7447286999445,0 5.02784615981383,45.7447225166973,0 5.02783422530575,45.7447163357612,0 5.02782242267457,45.74471024253061,0 5.02781048817179,45.744704061592,0 5.02779867894082,45.74469778832081,0 5.02778687631751,45.74469169508651,0 5.02777494182271,45.74468551414409,0 5.02776313590219,45.7446793308883,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.742">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69277000ZD0114</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GENAS</SimpleData>
+					<SimpleData name="Adresse">LES TACHES EST</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7447583977037 </north>
+			<south> 45.7439777507054 </south>
+			<east> 5.02776436402962 </east>
+			<west> 5.02653833541827 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.02653833541827,45.7439777507054,0 5.02654294750962,45.74405792769829,0 5.02663277071148,45.7441041449055,0 5.02776436402962,45.7447583977037,0 5.02776313590219,45.7446793308883,0 5.02757661440725,45.74456792512881,0 5.027138775601,45.74431475020929,0 5.02653833541827,45.7439777507054,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.784">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69277000ZD0116</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GENAS</SimpleData>
+					<SimpleData name="Adresse">LES TACHES EST</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7459890106254 </north>
+			<south> 45.7456011719661 </south>
+			<east> 5.03023059852537 </east>
+			<west> 5.02956421659981 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.02956678325147,45.7456011719661,0 5.02956421659981,45.7456854415933,0 5.02986418854428,45.74583443648461,0 5.03022946881346,45.7459890106254,0 5.03023059852537,45.74591818854071,0 5.02994707193412,45.7457931296644,0 5.02994274964283,45.7457910455927,0 5.0299385526199,45.745788869187,0 5.0299342270232,45.7457866950959,0 5.0299299047329,45.74578461102369,0 5.02992558244292,45.7457825269513,0 5.02992138542131,45.745780350545,0 5.02991705982596,45.7457781764533,0 5.02991273753697,45.7457760923804,0 5.02990841194229,45.7457739182883,0 5.02990408634795,45.74577174419601,0 5.02989989263401,45.745769657808,0 5.02989556704034,45.7457674837154,0 5.02989137002105,45.745765307308,0 5.02988691585402,45.74576313552971,0 5.02988272214138,45.7457610491411,0 5.02987839654906,45.7457588750478,0 5.0298741995311,45.7457566986398,0 5.02986974867138,45.7457546168799,0 5.02986555496004,45.7457525304906,0 5.02986122936906,45.7457503563967,0 5.02985703235242,45.745748179988,0 5.02985271006804,45.74574609591279,0 5.02984838447807,45.7457439218184,0 5.02984405888844,45.7457417477239,0 5.02983986517904,45.74573966133361,0 5.02983553959007,45.7457374872387,0 5.02983134257543,45.7457353108291,0 5.02982688841317,45.7457331390485,0 5.02982282327904,45.745731050343,0 5.02981849769142,45.7457288762475,0 5.0298143006781,45.7457266998372,0 5.0298098465172,45.7457245280559,0 5.02980564950455,45.74572235164539,0 5.02980145249223,45.7457201752346,0 5.02979713021214,45.7457180911573,0 5.02979293320048,45.7457159147463,0 5.02978847904129,45.7457137429641,0 5.0297842820303,45.74571156655271,0 5.02977995975152,45.7457094824748,0 5.02977576274119,45.7457073060631,0 5.02977143715728,45.7457051319658,0 5.02976711487949,45.74570304788729,0 5.02976291787015,45.7457008714751,0 5.02975859559302,45.7456987873963,0 5.02975439858434,45.7456966109839,0 5.02974994442822,45.7456944392002,0 5.02974574742022,45.7456922627874,0 5.02974155041254,45.7456900863745,0 5.02973722813705,45.7456880022948,0 5.02973303113003,45.7456858258816,0 5.02972870554949,45.7456836517826,0 5.02972437996928,45.7456814776835,0 5.02972018626896,45.7456793912888,0 5.02971585738373,45.7456771271703,0 5.02971166037838,45.7456749507562,0 5.0297073381052,45.74567286667551,0 5.02970301252667,45.7456706925755,0 5.02969881552232,45.74566851616099,0 5.02969461851829,45.74566633974631,0 5.02969016436696,45.74566416796021,0 5.0296859673636,45.7456619915452,0 5.02968189893439,45.7456598128157,0 5.02967757666352,45.7456577287338,0 5.02967337966115,45.7456555523183,0 5.02966905077969,45.745653288198,0 5.02966472520421,45.7456511140966,0 5.02966053150845,45.7456490276997,0 5.02965633450741,45.7456468512835,0 5.02965200893293,45.7456446771816,0 5.02964768335878,45.7456425030796,0 5.02964348635874,45.745640326663,0 5.02963916078528,45.7456381525606,0 5.0296349637859,45.7456359761437,0 5.02963063821311,45.74563380204089,0 5.0296264412144,45.7456316256237,0 5.02962211564229,45.7456294515207,0 5.02961792194978,45.7456273651221,0 5.02961372164654,45.7456250986854,0 5.02960926750171,45.7456229268962,0 5.02960507050467,45.7456207504782,0 5.02960087350796,45.74561857406,0 5.02959667651158,45.74561639764169,0 5.02959235094182,45.74561422353749,0 5.02958802867789,45.7456121394522,0 5.02958382837703,45.7456098730143,0 5.02957963138198,45.7456076965954,0 5.02957530581358,45.7456055224905,0 5.02957098024552,45.7456033483855,0 5.02956678325147,45.7456011719661,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.815">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69277000ZD0118</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GENAS</SimpleData>
+					<SimpleData name="Adresse">LA GDE SEIGLIERE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7458934427145 </north>
+			<south> 45.7458199125647 </south>
+			<east> 5.02970400560263 </east>
+			<west> 5.02958369097307 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.02970400560263,45.7458448865923,0 5.02964519187859,45.7458199125647,0 5.02958463513698,45.745838567892,0 5.02958369097307,45.7458934427145,0 5.02970400560263,45.7458448865923,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1632">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69277000AB0161</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GENAS</SimpleData>
+					<SimpleData name="Adresse">LES GDES TERRES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.734442666881 </north>
+			<south> 45.7343147943245 </south>
+			<east> 4.98930600730649 </east>
+			<west> 4.98882946768752 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.98930600730649,45.734336833508,0 4.98928900679045,45.7343147943245,0 4.98910642105571,45.73434891254911,0 4.98882946768752,45.734398657293,0 4.98885716301988,45.734442666881,0 4.9888616363414,45.7344418673448,0 4.98900514029874,45.734408348981,0 4.98929008766564,45.7343412579789,0 4.98930600730649,45.734336833508,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1639">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69277000AR0161</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GENAS</SimpleData>
+					<SimpleData name="Adresse">DORMONT</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7273821621005 </north>
+			<south> 45.7272023589247 </south>
+			<east> 5.02206436473393 </east>
+			<west> 5.0219685621288 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.02206436473393,45.7272023589247,0 5.02202322486828,45.7272028266861,0 5.02198758695257,45.72732912507769,0 5.02197140986439,45.7273756253866,0 5.0219685621288,45.7273821621005,0 5.02197602741377,45.7273682462216,0 5.02201681453684,45.7272913084044,0 5.02206436473393,45.7272023589247,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1707">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69277000AN0167</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GENAS</SimpleData>
+					<SimpleData name="Adresse">RUE DE L INDUSTRIE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.74191600221751 </north>
+			<south> 45.74136744013649 </south>
+			<east> 5.02326913285876 </east>
+			<west> 5.02255771217463 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.02255771217463,45.7419090540763,0 5.02259218725165,45.74191600221751,0 5.02279351141175,45.74188752890549,0 5.02303233182125,45.7417868602633,0 5.0231600685903,45.7416599899163,0 5.02326913285876,45.74136744013649,0 5.02307351708024,45.7413971630831,0 5.02308947400102,45.7416292788344,0 5.02255771217463,45.7419090540763,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1709">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69277000AV0167</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GENAS</SimpleData>
+					<SimpleData name="Adresse">79, RUE DE LA REPUBLIQUE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7320347493621 </north>
+			<south> 45.7291720125743 </south>
+			<east> 5.01314801341175 </east>
+			<west> 5.01113789464056 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.01314801341175,45.7315694070694,0 5.01305317819647,45.7312504230394,0 5.01234727611032,45.7307766056083,0 5.01225897914301,45.73048867128391,0 5.01215389633927,45.7301600510762,0 5.01208537377264,45.730093805805,0 5.01194532440009,45.729956504559,0 5.01166290504051,45.7296781597263,0 5.01144006417791,45.729453518519,0 5.01123771312418,45.7292511208817,0 5.0111580494677,45.7291720125743,0 5.01113789464056,45.7291766058256,0 5.01120249399439,45.7293083181877,0 5.01124869418743,45.72936559413571,0 5.0112689112934,45.7293627112347,0 5.01130289570803,45.729398856655,0 5.01142126841179,45.72952375436991,0 5.01156648641466,45.7296759169216,0 5.01165725154739,45.72977023017831,0 5.01169408014193,45.7298527148664,0 5.01174894784861,45.7299749622904,0 5.01178289070494,45.7300523640134,0 5.01180521097299,45.7301072735173,0 5.01183357350796,45.7301727043768,0 5.0118845689244,45.7303405102144,0 5.0119209508199,45.7304637180439,0 5.01194287047918,45.7305429557205,0 5.01196227587947,45.7306202565545,0 5.0119707109906,45.73067532377991,0 5.01195486706404,45.73075244304599,0 5.01197308369278,45.7307511270564,0 5.0120097336414,45.7309311692656,0 5.01203877896484,45.7310718930625,0 5.0121105873692,45.7314298422062,0 5.0121134122009,45.731443843945,0 5.01214944001355,45.73162443770509,0 5.01215245314734,45.73163654444549,0 5.01221948759747,45.7319622407851,0 5.01222550661809,45.7319897872774,0 5.01223486066965,45.7320347493621,0 5.01227790035008,45.73202983750559,0 5.01250107812031,45.7320054057574,0 5.01266112254706,45.7318508571609,0 5.01291746276212,45.7316032498176,0 5.01314801341175,45.7315694070694,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1724">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69277000AV0168</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GENAS</SimpleData>
+					<SimpleData name="Adresse">79, RUE DE LA REPUBLIQUE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.73210699357921 </north>
+			<south> 45.7304232400393 </south>
+			<east> 5.01221948759747 </east>
+			<west> 5.00996834714012 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.01011287646011,45.73088754226789,0 5.01028072059376,45.73122333216089,0 5.01029515920499,45.73125253014731,0 5.01040979176612,45.7314867601571,0 5.01091497743521,45.73139334650179,0 5.01122724720777,45.731332377696,0 5.01136337494847,45.7316446811811,0 5.01148549300116,45.7319289500468,0 5.01156348715246,45.73210699357921,0 5.01196268737365,45.732063027618,0 5.01211910730045,45.7319113369256,0 5.01221948759747,45.7319622407851,0 5.01215245314734,45.73163654444549,0 5.01214944001355,45.73162443770509,0 5.0121134122009,45.731443843945,0 5.0121105873692,45.7314298422062,0 5.01203877896484,45.7310718930625,0 5.0120097336414,45.7309311692656,0 5.01197308369278,45.7307511270564,0 5.01195486706404,45.73075244304599,0 5.0119707109906,45.73067532377991,0 5.01168601135261,45.73072679492661,0 5.01142214529873,45.7307746508023,0 5.01123903145852,45.73080773379711,0 5.01095267253259,45.7308595929843,0 5.01073795873908,45.73042699563771,0 5.01073640730478,45.7304232400393,0 5.01062019856033,45.7304498140195,0 5.00996834714012,45.7305986273443,0 5.01011287646011,45.73088754226789,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1965">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69277000AA0184</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GENAS</SimpleData>
+					<SimpleData name="Adresse">LES GDES TERRES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7323509469862 </north>
+			<south> 45.7309701147806 </south>
+			<east> 4.98006835310801 </east>
+			<west> 4.97814569137058 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.97997627259747,45.7321846574691,0 4.98006835310801,45.7321626827428,0 4.97977503475927,45.7317696939584,0 4.97966438418296,45.7316214787808,0 4.97962547164542,45.7315692869182,0 4.9791780198024,45.7309701147806,0 4.97814569137058,45.73122883028499,0 4.97816882758003,45.7313290402659,0 4.97821720644522,45.7315451867249,0 4.9782898675573,45.7318755750364,0 4.97842786652184,45.7319182817886,0 4.97858717598521,45.7319706128915,0 4.97875898453401,45.73203434431039,0 4.97887196390322,45.7320859569362,0 4.97900107450854,45.7321570131302,0 4.97910571291012,45.73221994150479,0 4.97919960285029,45.7322916158116,0 4.97927311415007,45.7323509469862,0 4.97997627259747,45.7321846574691,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1978">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69277000AA0185</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GENAS</SimpleData>
+					<SimpleData name="Adresse">LES GDES TERRES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7323920362335 </north>
+			<south> 45.7318755750364 </south>
+			<east> 4.97927311415007 </east>
+			<west> 4.9782898675573 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.9782898675573,45.7318755750364,0 4.97832117648771,45.7320136540611,0 4.97838322653076,45.73203310267069,0 4.97844062325181,45.7320519122978,0 4.97852367828512,45.7320796395788,0 4.97859278617229,45.7321058100547,0 4.97867823603587,45.732139350196,0 4.97873935497801,45.73216512034661,0 4.97880462707575,45.7322027077261,0 4.97887651948488,45.7322419803968,0 4.97894896231054,45.7322894403677,0 4.9790199139295,45.732334764625,0 4.97910246478506,45.7323915051379,0 4.9791029983003,45.7323920362335,0 4.97927311415007,45.7323509469862,0 4.97919960285029,45.7322916158116,0 4.97910571291012,45.73221994150479,0 4.97900107450854,45.7321570131302,0 4.97887196390322,45.7320859569362,0 4.97875898453401,45.73203434431039,0 4.97858717598521,45.7319706128915,0 4.97842786652184,45.7319182817886,0 4.9782898675573,45.7318755750364,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2020">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69277000AA0188</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GENAS</SimpleData>
+					<SimpleData name="Adresse">LES GDES TERRES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7328621509312 </north>
+			<south> 45.7323509469862 </south>
+			<east> 4.97965490311913 </east>
+			<west> 4.9791029983003 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.97927311415007,45.7323509469862,0 4.9791029983003,45.7323920362335,0 4.97917184655439,45.732450458492,0 4.97923744301227,45.7325114599596,0 4.97929242190677,45.73257408904301,0 4.97934621897421,45.73264322439721,0 4.97940562249723,45.73272883545759,0 4.97946957366173,45.7328157177933,0 4.97950300703035,45.7328621509312,0 4.97965490311913,45.7328258849038,0 4.97958661616291,45.73273646657151,0 4.9795248312254,45.7326526088814,0 4.97946392088734,45.73257161826839,0 4.97941955020005,45.73251069461641,0 4.97934154218724,45.7324155918346,0 4.97930618860056,45.7323801817667,0 4.97927311415007,45.7323509469862,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2039">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69277000AA0189</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GENAS</SimpleData>
+					<SimpleData name="Adresse">LES GDES TERRES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7328258849038 </north>
+			<south> 45.7321846574691 </south>
+			<east> 4.9802148216861 </east>
+			<west> 4.97927311415007 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.97997627259747,45.7321846574691,0 4.97927311415007,45.7323509469862,0 4.97930618860056,45.7323801817667,0 4.97934154218724,45.7324155918346,0 4.97941955020005,45.73251069461641,0 4.97946392088734,45.73257161826839,0 4.9795248312254,45.7326526088814,0 4.97958661616291,45.73273646657151,0 4.97965490311913,45.7328258849038,0 4.98002495176885,45.732735794495,0 4.98016585994555,45.73270161237661,0 4.9802148216861,45.7326895827868,0 4.97997627259747,45.7321846574691,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2086">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69277000AA0191</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GENAS</SimpleData>
+					<SimpleData name="Adresse">LES GDES TERRES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.733349498141 </north>
+			<south> 45.732735794495 </south>
+			<east> 4.98031191491654 </east>
+			<west> 4.97931939279398 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.98020241162143,45.73324089208171,0 4.98031191491654,45.7332168996803,0 4.9802662306517,45.73314807262901,0 4.9802086798117,45.7330639607548,0 4.98016285308523,45.73298396661689,0 4.98009478940835,45.7328613062269,0 4.98002495176885,45.732735794495,0 4.97965490311913,45.7328258849038,0 4.97950300703035,45.7328621509312,0 4.97931939279398,45.73290708058409,0 4.97941568406626,45.733002673063,0 4.9794538471843,45.7330410963924,0 4.97954698803232,45.7331528678721,0 4.97962875470235,45.7332523183112,0 4.97970645288934,45.733349498141,0 4.97977076037874,45.73333494734189,0 4.97998005929758,45.7332888452464,0 4.98020241162143,45.73324089208171,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2140">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69277000AA0195</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GENAS</SimpleData>
+					<SimpleData name="Adresse">LES GDES TERRES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7350775331401 </north>
+			<south> 45.73324089208171 </south>
+			<east> 4.98105119611145 </east>
+			<west> 4.97998005929758 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.98020241162143,45.73324089208171,0 4.97998005929758,45.7332888452464,0 4.98019934535968,45.7337801470945,0 4.98078864418369,45.7350775331401,0 4.98105119611145,45.7350168918428,0 4.980995392377,45.7348990607806,0 4.98089270082484,45.7346896345062,0 4.98077944682472,45.7344582347823,0 4.98069976261099,45.73428776779371,0 4.98066936511928,45.7342220051457,0 4.98054326054853,45.7339585834155,0 4.98037018296901,45.73359392945301,0 4.98020241162143,45.73324089208171,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2152">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69277000AA0196</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GENAS</SimpleData>
+					<SimpleData name="Adresse">LES GDES TERRES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7350168918428 </north>
+			<south> 45.73428776779371 </south>
+			<east> 4.98158453026621 </east>
+			<west> 4.98069976261099 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.98069976261099,45.73428776779371,0 4.98077944682472,45.7344582347823,0 4.98089270082484,45.7346896345062,0 4.980995392377,45.7348990607806,0 4.98105119611145,45.7350168918428,0 4.98147633821487,45.7349275402011,0 4.98158453026621,45.7349063620467,0 4.98151286283234,45.73476944348899,0 4.98149122389594,45.7347650497401,0 4.98144751470356,45.7347514056486,0 4.98134235865494,45.7347173130691,0 4.98123081939912,45.73467738748629,0 4.98112500328309,45.7346320466753,0 4.98103551045532,45.7345899319355,0 4.98096977740842,45.73455037217,0 4.98091481086486,45.7345133254983,0 4.98089365858357,45.7344937901395,0 4.98081779051943,45.7344118920003,0 4.98074596623182,45.7343351472351,0 4.98069976261099,45.73428776779371,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2241">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69277000AA0201</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GENAS</SimpleData>
+					<SimpleData name="Adresse">LES GDES TERRES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7349063620467 </north>
+			<south> 45.73476944348899 </south>
+			<east> 4.98164713616524 </east>
+			<west> 4.98151286283234 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.98151286283234,45.73476944348899,0 4.98158453026621,45.7349063620467,0 4.98164713616524,45.7348945424209,0 4.98163566943788,45.7348724949389,0 4.98162848413252,45.7348550562075,0 4.98162453789195,45.7348346780741,0 4.98162318744087,45.7348077687629,0 4.98162326395362,45.7347811946775,0 4.98151286283234,45.73476944348899,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2323">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69277000AV0207</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GENAS</SimpleData>
+					<SimpleData name="Adresse">RUE DE LA REPUBLIQUE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7295614940861 </north>
+			<south> 45.729361013583 </south>
+			<east> 5.01017610152844 </east>
+			<west> 5.00938171364775 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.00939609616594,45.7295614940861,0 5.00968923889068,45.7294982580858,0 5.00971120001846,45.7294938130497,0 5.00994465145658,45.7294444316232,0 5.01017610152844,45.7293966167196,0 5.01016459035365,45.7293665558265,0 5.01016220230984,45.729361013583,0 5.00938171364775,45.7295231971405,0 5.00939609616594,45.7295614940861,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2576">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69277000AT0227</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GENAS</SimpleData>
+					<SimpleData name="Adresse">5, RUE DE LA FRATERNITE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7282776544557 </north>
+			<south> 45.7281158071422 </south>
+			<east> 5.01612305556877 </east>
+			<west> 5.01544346985002 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.01612305556877,45.7281286730103,0 5.0161222005677,45.7281158071422,0 5.01605663703176,45.72812724868,0 5.01601049241834,45.72813510006679,0 5.01598517733252,45.7281392460203,0 5.01596871465383,45.7281427832575,0 5.01582056029692,45.7281748883424,0 5.01544385223994,45.7282563892043,0 5.01544346985002,45.7282776544557,0 5.01570913473592,45.72821957791651,0 5.01599840055253,45.7281562144332,0 5.01612305556877,45.7281286730103,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2760">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69277000AA0244</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GENAS</SimpleData>
+					<SimpleData name="Adresse">LES GDES TERRES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7351021490536 </north>
+			<south> 45.7332888452464 </south>
+			<east> 4.98078864418369 </east>
+			<west> 4.97977076037874 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.98078864418369,45.7350775331401,0 4.98019934535968,45.7337801470945,0 4.97998005929758,45.7332888452464,0 4.97977076037874,45.73333494734189,0 4.98035327511293,45.7347557699846,0 4.98060497581802,45.73507445466029,0 4.98068469091789,45.7351021490536,0 4.98078864418369,45.7350775331401,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2780">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69277000AA0246</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GENAS</SimpleData>
+					<SimpleData name="Adresse">LES GDES TERRES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7348282730235 </north>
+			<south> 45.7348099167455 </south>
+			<east> 4.98201847664454 </east>
+			<west> 4.98196839786886 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.98201340398938,45.7348099167455,0 4.98197466940227,45.7348166328976,0 4.98196839786886,45.7348282730235,0 4.98201847664454,45.73481865511859,0 4.98201340398938,45.7348099167455,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2798">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69277000AA0248</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GENAS</SimpleData>
+					<SimpleData name="Adresse">LES GDES TERRES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.73481865511859 </north>
+			<south> 45.73474109952929 </south>
+			<east> 4.98246925055349 </east>
+			<west> 4.98201340398938 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.98211780521339,45.7347798870855,0 4.98210294499835,45.7347815895896,0 4.98204088744115,45.7348051098546,0 4.98201340398938,45.7348099167455,0 4.98201847664454,45.73481865511859,0 4.98218108276386,45.7347903944713,0 4.98231111171332,45.7347683812751,0 4.98246925055349,45.73474109952929,0 4.98211780521339,45.7347798870855,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3172">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69277000ZO0028</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GENAS</SimpleData>
+					<SimpleData name="Adresse">RATABIZET</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7309076889403 </north>
+			<south> 45.7300581009737 </south>
+			<east> 4.97895465322079 </east>
+			<west> 4.97773296972512 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.97773296972512,45.73026603319141,0 4.97802345734192,45.7309076889403,0 4.97895465322079,45.7306768722374,0 4.97884625089508,45.7305374444198,0 4.97875100345273,45.7304133689133,0 4.97863604531026,45.7302596436751,0 4.97852601805322,45.7301142990231,0 4.97848439189599,45.7300581009737,0 4.97773296972512,45.73026603319141,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3281">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69277000AR0029</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GENAS</SimpleData>
+					<SimpleData name="Adresse">DORMONT</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7257413816904 </north>
+			<south> 45.7254926775834 </south>
+			<east> 5.02804845787987 </east>
+			<west> 5.02768519111087 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.02769032466604,45.7257413816904,0 5.0279080501463,45.72573395169519,0 5.02804845787987,45.7257259307186,0 5.02778588110884,45.7255519393287,0 5.02774908799394,45.7255306221159,0 5.02768519111087,45.7254926775834,0 5.02769032466604,45.7257413816904,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3290">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69277000ZO0029</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GENAS</SimpleData>
+					<SimpleData name="Adresse">RATABIZET</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.73026603319141 </north>
+			<south> 45.72865042250851 </south>
+			<east> 4.97848439189599 </east>
+			<west> 4.97705110204478 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.97773296972512,45.73026603319141,0 4.97848439189599,45.7300581009737,0 4.97837031951745,45.7299111157201,0 4.97825691912887,45.7297613261843,0 4.97812113812901,45.72957914127399,0 4.97801441076933,45.72943608026999,0 4.97797244483354,45.7293775460135,0 4.97785567565277,45.7292270045366,0 4.97774909429741,45.7290843911315,0 4.97764682631469,45.7289472867326,0 4.97752375368354,45.72878946922741,0 4.97744782958729,45.72868766305529,0 4.97741923085556,45.72865042250851,0 4.97705110204478,45.72875398261429,0 4.97773296972512,45.73026603319141,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3416">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69277000ZO0030</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GENAS</SimpleData>
+					<SimpleData name="Adresse">RATABIZET</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.72875398261429 </north>
+			<south> 45.72815391926579 </south>
+			<east> 4.97741923085556 </east>
+			<west> 4.97681312781729 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.97741923085556,45.72865042250851,0 4.97736898436585,45.7285796927712,0 4.97727932263855,45.7284641655552,0 4.97721950321538,45.7283846860614,0 4.97712971013524,45.7282654678892,0 4.97704430739695,45.72815391926579,0 4.97681312781729,45.7282278733756,0 4.97705110204478,45.72875398261429,0 4.97741923085556,45.72865042250851,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3514">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69277000ZO0031</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GENAS</SimpleData>
+					<SimpleData name="Adresse">RATABIZET</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7282278733756 </north>
+			<south> 45.72775973201879 </south>
+			<east> 4.97704430739695 </east>
+			<west> 4.97662027603201 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.97704430739695,45.72815391926579,0 4.97693813168639,45.72800814537,0 4.97680007105161,45.7278195134836,0 4.9767572913637,45.72775973201879,0 4.97662027603201,45.7278053716322,0 4.97681312781729,45.7282278733756,0 4.97704430739695,45.72815391926579,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3591">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69277000ZO0032</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GENAS</SimpleData>
+					<SimpleData name="Adresse">RATABIZET</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7278053716322 </north>
+			<south> 45.7265874816198 </south>
+			<east> 4.9767572913637 </east>
+			<west> 4.97608391707652 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.9767572913637,45.72775973201879,0 4.9767469243297,45.7277467625923,0 4.97670997988979,45.7276811138597,0 4.97660237840265,45.7274594298577,0 4.97658669557112,45.7274272771756,0 4.9764998136547,45.7272490972208,0 4.97638592182781,45.72702049734819,0 4.97635184427771,45.7269486730218,0 4.97631609485369,45.72685525954619,0 4.97629461416146,45.72679402357199,0 4.9762853103809,45.7267676140106,0 4.97627044704415,45.72672959192689,0 4.97624298913695,45.7265874816198,0 4.97608391707652,45.7266348584798,0 4.97619533983617,45.7268807966658,0 4.97630974862976,45.72712389002581,0 4.97662027603201,45.7278053716322,0 4.9767572913637,45.72775973201879,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3689">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69277000ZO0033</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GENAS</SimpleData>
+					<SimpleData name="Adresse">RATABIZET</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.726651164443 </north>
+			<south> 45.72591966209281 </south>
+			<east> 4.97624298913695 </east>
+			<west> 4.97575281112477 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.97624298913695,45.7265874816198,0 4.97622714675466,45.72650047487131,0 4.97612605647254,45.7262089568423,0 4.97603173446815,45.72591966209281,0 4.97575281112477,45.7260069718151,0 4.97603755632732,45.726651164443,0 4.97608391707652,45.7266348584798,0 4.97624298913695,45.7265874816198,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3773">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69277000ZO0034</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GENAS</SimpleData>
+					<SimpleData name="Adresse">RATABIZET</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7260069718151 </north>
+			<south> 45.7254971515089 </south>
+			<east> 4.97603173446815 </east>
+			<west> 4.9755746055195 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.97603173446815,45.72591966209281,0 4.97603043308119,45.72591923452271,0 4.97588043735352,45.7254971515089,0 4.97557740743537,45.7255972239318,0 4.9755746055195,45.7255979936553,0 4.97575281112477,45.7260069718151,0 4.97603173446815,45.72591966209281,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3823">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69277000AT0347</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GENAS</SimpleData>
+					<SimpleData name="Adresse">11, RUE DE LA FRATERNITE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7281166741816 </north>
+			<south> 45.7280848921412 </south>
+			<east> 5.02094307398311 </east>
+			<west> 5.02076634934945 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.02094307398311,45.7281166741816,0 5.02093521720434,45.7281128516024,0 5.02091496220825,45.7281041168471,0 5.02088933514051,45.7280961990252,0 5.02085746917124,45.7280900144555,0 5.02080962866866,45.72808663844999,0 5.02076634934945,45.7280848921412,0 5.02077414864206,45.72811177577671,0 5.02094307398311,45.7281166741816,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.4230">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69277000AM0004</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GENAS</SimpleData>
+					<SimpleData name="Adresse">LA GDE SEIGLIERE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7452103091341 </north>
+			<south> 45.744982253071 </south>
+			<east> 5.02188484539722 </east>
+			<west> 5.02176904416584 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.02180068303093,45.7452103091341,0 5.02188484539722,45.744982253071,0 5.02176904416584,45.74498901357849,0 5.0217820721977,45.74507786741961,0 5.02180068303093,45.7452103091341,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.4233">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69277000ZI0004</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GENAS</SimpleData>
+					<SimpleData name="Adresse">DORMONT</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7259623600027 </north>
+			<south> 45.72561742320641 </south>
+			<east> 5.02868064528916 </east>
+			<west> 5.02832826143832 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.02868064528916,45.7259623600027,0 5.02861705909449,45.72561742320641,0 5.02832826143832,45.7256647771752,0 5.02836534877061,45.725694105887,0 5.02850309344106,45.725813322956,0 5.02868064528916,45.7259623600027,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.5166">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69277000BK0057</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GENAS</SimpleData>
+					<SimpleData name="Adresse">RATABIZET</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.72405656536989 </north>
+			<south> 45.72339740050041 </south>
+			<east> 4.97533339199234 </east>
+			<west> 4.97469136278611 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.97533339199234,45.7239400329756,0 4.97499468164381,45.72339740050041,0 4.97469136278611,45.723496304766,0 4.97492884420621,45.72405656536989,0 4.97533339199234,45.7239400329756,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.5210">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69277000BK0058</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GENAS</SimpleData>
+					<SimpleData name="Adresse">RATABIZET</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.723496304766 </north>
+			<south> 45.7229558437165 </south>
+			<east> 4.97499468164381 </east>
+			<west> 4.97448530528997 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.97499468164381,45.72339740050041,0 4.97472930577701,45.7229670692089,0 4.97472221749582,45.7229558437165,0 4.97448530528997,45.72304160377681,0 4.97469136278611,45.723496304766,0 4.97499468164381,45.72339740050041,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6048">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69277000ZD0075</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GENAS</SimpleData>
+					<SimpleData name="Adresse">LA GDE SEIGLIERE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7432387955493 </north>
+			<south> 45.742688277091 </south>
+			<east> 5.02370625728764 </east>
+			<west> 5.0228185173472 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.0228185173472,45.7432387955493,0 5.02288160908387,45.7432015422325,0 5.02298400040207,45.7429901829967,0 5.02298769969496,45.7429682275907,0 5.02336614755806,45.7427349799089,0 5.02370625728764,45.742740766326,0 5.02368196157995,45.7427202141386,0 5.02350402499685,45.742688277091,0 5.02337737316152,45.7426901896834,0 5.02323152463086,45.7427264962149,0 5.02301674171866,45.7428688905901,0 5.02293222741041,45.7429781406141,0 5.0228185173472,45.7432387955493,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6133">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69277000ZD0078</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GENAS</SimpleData>
+					<SimpleData name="Adresse">LA GDE SEIGLIERE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7523445236145 </north>
+			<south> 45.7522442272866 </south>
+			<east> 5.01966357921766 </east>
+			<west> 5.01910237082559 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.01959009574678,45.7522597248085,0 5.01910237082559,45.7522442272866,0 5.01918675734567,45.7523281105492,0 5.01966357921766,45.7523445236145,0 5.01959009574678,45.7522597248085,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6216">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69277000AL0080</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GENAS</SimpleData>
+					<SimpleData name="Adresse">LA GDE SEIGLIERE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7510506045981 </north>
+			<south> 45.750766084262 </south>
+			<east> 5.01932731850517 </east>
+			<west> 5.01913642650438 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.01916044097235,45.750766084262,0 5.01913642650438,45.75092937573579,0 5.01914800242301,45.75103843339021,0 5.01920274621315,45.7510506045981,0 5.01932731850517,45.75077291464179,0 5.01916044097235,45.750766084262,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6224">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69277000ZD0080</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GENAS</SimpleData>
+					<SimpleData name="Adresse">LA GDE SEIGLIERE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.752400839631 </north>
+			<south> 45.7522597248085 </south>
+			<east> 5.02101680557128 </east>
+			<west> 5.01959009574678 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.02101680557128,45.7523047864605,0 5.02080000080846,45.7522980424733,0 5.01959009574678,45.7522597248085,0 5.01966357921766,45.7523445236145,0 5.01986551367004,45.7523527972297,0 5.02025030514163,45.7523719371034,0 5.02079398037824,45.752400839631,0 5.02101026171818,45.7524002966738,0 5.02101680557128,45.7523047864605,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6287">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69277000ZD0082</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GENAS</SimpleData>
+					<SimpleData name="Adresse">LA GDE SEIGLIERE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.75134791966289 </north>
+			<south> 45.7512991028284 </south>
+			<east> 5.0396906365384 </east>
+			<west> 5.03961134139211 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.03967143160251,45.75134791966289,0 5.0396906365384,45.7513453203246,0 5.03961134139211,45.7512991028284,0 5.03967143160251,45.75134791966289,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6490">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69277000ZD0088</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GENAS</SimpleData>
+					<SimpleData name="Adresse">LES TACHES EST</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.74621439332319 </north>
+			<south> 45.74591818854071 </south>
+			<east> 5.03073055266826 </east>
+			<west> 5.03022946881346 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.03022946881346,45.7459890106254,0 5.03072935785737,45.74621439332319,0 5.03073055266826,45.7461418585559,0 5.03023059852537,45.74591818854071,0 5.03022946881346,45.7459890106254,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6541">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69277000AM0009</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GENAS</SimpleData>
+					<SimpleData name="Adresse">LA GDE SEIGLIERE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7438356223609 </north>
+			<south> 45.74318570123119 </south>
+			<east> 5.02254447376423 </east>
+			<west> 5.02219258473601 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.02232337006136,45.7438305743467,0 5.02254447376423,45.74318570123119,0 5.02250797682046,45.7431868062983,0 5.02219258473601,45.7438356223609,0 5.02232337006136,45.7438305743467,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6556">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69277000ZD0090</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GENAS</SimpleData>
+					<SimpleData name="Adresse">LES TACHES EST</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.74405792769829 </north>
+			<south> 45.74322885457439 </south>
+			<east> 5.02654294750962 </east>
+			<west> 5.02517378818797 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.02653833541827,45.7439777507054,0 5.02635743346645,45.7438791232352,0 5.02546041016513,45.74338638769949,0 5.02517378818797,45.74322885457439,0 5.0251811212643,45.7433096132592,0 5.02523896461102,45.7433468576183,0 5.02654294750962,45.74405792769829,0 5.02653833541827,45.7439777507054,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6617">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69277000ZD0092</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GENAS</SimpleData>
+					<SimpleData name="Adresse">LES TACHES EST</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7456854415933 </north>
+			<south> 45.7454290692922 </south>
+			<east> 5.02956678325147 </east>
+			<west> 5.02920650037339 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.02920650037339,45.74550199419671,0 5.02952620960164,45.7456664885721,0 5.02956421659981,45.7456854415933,0 5.02956678325147,45.7456011719661,0 5.02920935540029,45.7454290692922,0 5.02920650037339,45.74550199419671,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6670">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69277000ZA0094</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GENAS</SimpleData>
+					<SimpleData name="Adresse">LES TACHES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7513645396774 </north>
+			<south> 45.7509648940349 </south>
+			<east> 5.03999086899847 </east>
+			<west> 5.03934750947358 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.03935324480765,45.7509648940349,0 5.03934750947358,45.7510430961175,0 5.03968376307564,45.7512427547476,0 5.03989799389166,45.7513645396774,0 5.03999086899847,45.751360337386,0 5.03992478144303,45.7513128903099,0 5.03935324480765,45.7509648940349,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6671">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69277000ZD0094</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GENAS</SimpleData>
+					<SimpleData name="Adresse">LES TACHES EST</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7463682194595 </north>
+			<south> 45.7462494391713 </south>
+			<east> 5.03105197008151 </east>
+			<west> 5.0309535199701 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.03095412827216,45.7462494391713,0 5.0309535199701,45.7463169189824,0 5.03105099976068,45.7463682194595,0 5.03105197008151,45.74629658951,0 5.03095412827216,45.7462494391713,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6734">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69277000ZD0096</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GENAS</SimpleData>
+					<SimpleData name="Adresse">LES TACHES EST</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7463169189824 </north>
+			<south> 45.7461418585559 </south>
+			<east> 5.03095412827216 </east>
+			<west> 5.03072935785737 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.03073055266826,45.7461418585559,0 5.03072935785737,45.74621439332319,0 5.03089915527407,45.7462870012116,0 5.0309535199701,45.7463169189824,0 5.03095412827216,45.7462494391713,0 5.03073055266826,45.7461418585559,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6782">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69277000ZD0098</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GENAS</SimpleData>
+					<SimpleData name="Adresse">LES TACHES EST</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7480350150042 </north>
+			<south> 45.74733615017 </south>
+			<east> 5.03397817234026 </east>
+			<west> 5.03274291686676 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.03274361684498,45.74733615017,0 5.03274291686676,45.7474150716734,0 5.0330321747064,45.747601093786,0 5.03328752085163,45.74773611161951,0 5.033478336063,45.74782022716839,0 5.03375366071319,45.7479386695428,0 5.0339755495783,45.7480350150042,0 5.03397817234026,45.7479699308917,0 5.03367394213562,45.7478457048687,0 5.03334711139692,45.74769116877241,0 5.03303656330147,45.7475210248243,0 5.03274361684498,45.74733615017,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

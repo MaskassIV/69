@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>SAINT ROMAIN EN GAL_HLM</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_5">
+		<name>SAINT ROMAIN EN GAL_HLM</name>
+		<Schema name="SAINT ROMAIN EN GAL_HLM" id="SAINT ROMAIN EN GAL_HLM.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="HLM">
+			<LineStyle>
+				<color>BFe451f5</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4Ce451f5</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.1480">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69235000AK0180</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT ROMAIN EN GAL</SimpleData>
+					<SimpleData name="Adresse">1, RUE DE   L EGLISE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.5360417543213 </north>
+			<south> 45.53591043952831 </south>
+			<east> 4.85841393583048 </east>
+			<west> 4.85824968734004 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.85836594542983,45.53591043952831,0 4.85832118339648,45.5359324370115,0 4.85824968734004,45.5359674867932,0 4.85827984280988,45.5360030167828,0 4.85832217267203,45.535984932649,0 4.85837200990956,45.5360417543213,0 4.85841393583048,45.53601926330481,0 4.85836251911376,45.5359535506472,0 4.85838618482464,45.5359407292061,0 4.85836594542983,45.53591043952831,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2444">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69235000AI0279</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT ROMAIN EN GAL</SimpleData>
+					<SimpleData name="Adresse">1951, RTE DEPARTEMENTALE 386</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.5376059706834 </north>
+			<south> 45.5375467496938 </south>
+			<east> 4.85211462185748 </east>
+			<west> 4.85198716326246 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.85211462185748,45.5376059706834,0 4.85208995895413,45.5375467496938,0 4.85198716326246,45.5375658282561,0 4.85211462185748,45.5376059706834,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2969">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69235000AM0345</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT ROMAIN EN GAL</SimpleData>
+					<SimpleData name="Adresse">LE TRYE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.527916247901 </north>
+			<south> 45.5276578127488 </south>
+			<east> 4.86804817310443 </east>
+			<west> 4.86795018539445 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.8680059375809,45.527916247901,0 4.86804817310443,45.52791086171749,0 4.86797993797253,45.5276578127488,0 4.86795018539445,45.527699020197,0 4.8680059375809,45.527916247901,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.3012">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69235000AI0351</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT ROMAIN EN GAL</SimpleData>
+					<SimpleData name="Adresse">1943, RTE DEPARTEMENTALE 386</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.5380881941622 </north>
+			<south> 45.5375446908365 </south>
+			<east> 4.85221447009813 </east>
+			<west> 4.8510477985732 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.85105882802321,45.5380189678608,0 4.8511584962013,45.5380520933171,0 4.85116731212323,45.5380551005638,0 4.85118234592713,45.5380600770037,0 4.851695196763,45.5380881941622,0 4.85185459217235,45.5380867377079,0 4.8518236361884,45.5379810532248,0 4.8518275523205,45.53787182153761,0 4.85221447009813,45.5378479689695,0 4.85215005601995,45.5376922157977,0 4.85211462185748,45.5376059706834,0 4.85198716326246,45.5375658282561,0 4.85191980970953,45.5375446908365,0 4.85187991234421,45.53755894938951,0 4.85173045040495,45.5376122136479,0 4.85164577077484,45.5376019000631,0 4.85165844764329,45.5377321152065,0 4.85107659646019,45.5377601688137,0 4.8510477985732,45.5378727828016,0 4.85105882802321,45.5380189678608,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.3160">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69235000AK0373</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT ROMAIN EN GAL</SimpleData>
+					<SimpleData name="Adresse">6, RTE DE RIVE DE GIER</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.5357900506171 </north>
+			<south> 45.5356317997951 </south>
+			<east> 4.85858666093081 </east>
+			<west> 4.85838321875575 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.85838321875575,45.5357067710989,0 4.85845624280374,45.5357900506171,0 4.85854443743752,45.535752292486,0 4.85853535913269,45.53574145389121,0 4.85852815858487,45.53573310624681,0 4.8585428802485,45.5357249363459,0 4.85858666093081,45.5357004329896,0 4.85849400550059,45.5356317997951,0 4.85843023646694,45.5356794220209,0 4.85838321875575,45.5357067710989,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.3164">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69235000AK0374</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT ROMAIN EN GAL</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.5358574276796 </north>
+			<south> 45.535752292486 </south>
+			<east> 4.85860882215889 </east>
+			<west> 4.85845624280374 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.85849012064953,45.5358295722105,0 4.85850250686382,45.5358435086049,0 4.85853252595642,45.5358290507961,0 4.85855949411297,45.5358574276796,0 4.85860882215889,45.5358340034738,0 4.85858774318017,45.53579778297049,0 4.85854443743752,45.535752292486,0 4.85845624280374,45.5357900506171,0 4.85849012064953,45.5358295722105,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.3254">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69235000AM0390</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT ROMAIN EN GAL</SimpleData>
+					<SimpleData name="Adresse">LE TRYE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.5279331518083 </north>
+			<south> 45.5275444447751 </south>
+			<east> 4.86803957107124 </east>
+			<west> 4.86711760107501 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.86803469607335,45.52755620132341,0 4.86749149828356,45.52762522222879,0 4.86727374966991,45.5275444447751,0 4.86717744844507,45.5276720567021,0 4.86714630157902,45.52771373746659,0 4.86711760107501,45.5277519548124,0 4.86736071582733,45.5278439301774,0 4.86741309744225,45.5278354031679,0 4.86750317124966,45.5278616478241,0 4.86757152568413,45.52790888007859,0 4.86783440439382,45.5279331518083,0 4.8680059375809,45.527916247901,0 4.86795018539445,45.527699020197,0 4.86797993797253,45.5276578127488,0 4.86803957107124,45.5275753956994,0 4.86803469607335,45.52755620132341,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.5096">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69235000AK0099</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT ROMAIN EN GAL</SimpleData>
+					<SimpleData name="Adresse">1, RUE DE   L EGLISE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.5359674867932 </north>
+			<south> 45.53586231008 </south>
+			<east> 4.85832118339648 </east>
+			<west> 4.85818896811261 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.85832118339648,45.5359324370115,0 4.85826436423843,45.53586231008,0 4.85818896811261,45.53589571296941,0 4.85824968734004,45.5359674867932,0 4.85832118339648,45.5359324370115,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>FONTAINES-SAINT-MARTIN_HLM</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_5">
+		<name>FONTAINES-SAINT-MARTIN_HLM</name>
+		<Schema name="FONTAINES-SAINT-MARTIN_HLM" id="FONTAINES-SAINT-MARTIN_HLM.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="HLM">
+			<LineStyle>
+				<color>BFe451f5</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4Ce451f5</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.190">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69087000AH0534</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">FONTAINES-SAINT-MARTIN</SimpleData>
+					<SimpleData name="Adresse">LES MOLLIERES</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8396044654636 </north>
+			<south> 45.839311671202 </south>
+			<east> 4.84514212767725 </east>
+			<west> 4.84473880748339 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.84489611816942,45.8393252809478,0 4.84473880748339,45.8394498100878,0 4.84474209970647,45.8394519180887,0 4.84474447227416,45.8394535006669,0 4.84474684183238,45.8394549932205,0 4.8447425800164,45.83945857570001,0 4.84481712396931,45.8395065384775,0 4.84490139063056,45.8395523607812,0 4.84493572264615,45.8395847670033,0 4.84496499048268,45.8396044654636,0 4.84514212767725,45.839463939301,0 4.8451286847914,45.83944731510851,0 4.84511030301297,45.83943329365751,0 4.84491318942797,45.839311671202,0 4.84489611816942,45.8393252809478,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.3302">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69087000AD0398</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">FONTAINES-SAINT-MARTIN</SimpleData>
+					<SimpleData name="Adresse">4, PL JEAN MOULIN</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">IMMOBILIERE RHONE ALPES SA DHLM</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8450343916958 </north>
+			<south> 45.8443489939516 </south>
+			<east> 4.85568760338795 </east>
+			<west> 4.85445747438216 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.85448239421666,45.8445986779495,0 4.85448227145684,45.8445988601128,0 4.85448215777434,45.8445993123491,0 4.85445747438216,45.844654842856,0 4.85448157682598,45.8446625538351,0 4.8545504897092,45.8446843913599,0 4.85467125369627,45.8447227618262,0 4.85487773836314,45.8447883681822,0 4.85487700483599,45.844789551189,0 4.85485319223348,45.8448326372757,0 4.85509308623679,45.8449105752482,0 4.85512813924942,45.8449219794438,0 4.85542745356652,45.8450192075377,0 4.85546817582541,45.8450343916958,0 4.85559622849854,45.8450020234364,0 4.85563193701325,45.844994591238,0 4.85563219161005,45.8449944969817,0 4.85563810651175,45.84499025641301,0 4.85568760338795,45.844955935782,0 4.85559221998483,45.8447985219713,0 4.85530292168941,45.84460051714299,0 4.85532005214827,45.8445618642566,0 4.85545153826304,45.8445166492416,0 4.85548677655098,45.844433922921,0 4.85506930751565,45.8443489939516,0 4.85506068557179,45.8443647183459,0 4.8550290827747,45.8444022577414,0 4.85498910286321,45.84443597143419,0 4.85494199459582,45.84446466794751,0 4.854888896089,45.8444876980658,0 4.85483107730478,45.84450450048421,0 4.85477019767215,45.844514597579,0 4.8547077968932,45.8445177839175,0 4.85464554651,45.8445139419798,0 4.85464269148255,45.84451335833631,0 4.85452101296922,45.8445781375934,0 4.85448239421666,45.8445986779495,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.3774">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69087000AH0481</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">FONTAINES-SAINT-MARTIN</SimpleData>
+					<SimpleData name="Adresse">LES MOLLIERES</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8395847670033 </north>
+			<south> 45.8395065384775 </south>
+			<east> 4.84493572264615 </east>
+			<west> 4.84481712396931 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.84493572264615,45.8395847670033,0 4.84490139063056,45.8395523607812,0 4.84481712396931,45.8395065384775,0 4.84488985945634,45.8395582237691,0 4.84493572264615,45.8395847670033,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.4046">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69087000AH0527</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">FONTAINES-SAINT-MARTIN</SimpleData>
+					<SimpleData name="Adresse">LES MOLLIERES</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8391632054411 </north>
+			<south> 45.83886251245111 </south>
+			<east> 4.84458203235116 </east>
+			<west> 4.84425301135126 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.8444034985462,45.8388756614834,0 4.84425301135126,45.8389999884522,0 4.84425893065196,45.839003584825,0 4.84432422830456,45.839060255885,0 4.84431038539351,45.8390702098786,0 4.84439622769333,45.8391632054411,0 4.84453921939625,45.8390498095336,0 4.84458203235116,45.83901596324521,0 4.84458079853217,45.8389983289449,0 4.84458137090394,45.8389807552219,0 4.84458117409501,45.838967157304,0 4.84457840733368,45.8389537815027,0 4.84443840774132,45.83886752524641,0 4.84441994084062,45.83886251245111,0 4.8444034985462,45.8388756614834,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.4158">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69087000AH0550</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">FONTAINES-SAINT-MARTIN</SimpleData>
+					<SimpleData name="Adresse">LES MOLLIERES</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8393131831916 </north>
+			<south> 45.8392643317449 </south>
+			<east> 4.84505644235987 </east>
+			<west> 4.84498928990722 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.84503209976879,45.8392643317449,0 4.84498928990722,45.8392982682286,0 4.84501362949159,45.8393131831916,0 4.84505644235987,45.8392793367232,0 4.84503209976879,45.8392643317449,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.4162">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69087000AH0551</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">FONTAINES-SAINT-MARTIN</SimpleData>
+					<SimpleData name="Adresse">LES MOLLIERES</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8393281902778 </north>
+			<south> 45.8392793367232 </south>
+			<east> 4.84508065315472 </east>
+			<west> 4.84501362949159 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.84505644235987,45.8392793367232,0 4.84501362949159,45.8393131831916,0 4.84503784329979,45.8393281902778,0 4.84508065315472,45.8392942537756,0 4.84505644235987,45.8392793367232,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.4166">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69087000AH0552</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">FONTAINES-SAINT-MARTIN</SimpleData>
+					<SimpleData name="Adresse">LES MOLLIERES</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8393431052303 </north>
+			<south> 45.8392942537756 </south>
+			<east> 4.84510486697283 </east>
+			<west> 4.84503784329979 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.84508065315472,45.8392942537756,0 4.84503784329979,45.8393281902778,0 4.84506218291049,45.8393431052303,0 4.84510486697283,45.8393092608475,0 4.84508065315472,45.8392942537756,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>
