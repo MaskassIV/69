@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>SAINT-NIZIER-D AZERGUES_DEPT</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_3">
+		<name>SAINT-NIZIER-D AZERGUES_DEPT</name>
+		<Schema name="SAINT-NIZIER-D AZERGUES_DEPT" id="SAINT-NIZIER-D AZERGUES_DEPT.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="DEPT">
+			<LineStyle>
+				<color>BF63f16c</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C63f16c</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.212">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69229000AT0104</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT-NIZIER-D AZERGUES</SimpleData>
+					<SimpleData name="Adresse">LE GRAVIER</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0718361282561 </north>
+			<south> 46.0715400940837 </south>
+			<east> 4.49058083876474 </east>
+			<west> 4.49023170822038 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.49055026112553,46.0715882891193,0 4.49039277095254,46.0715546025823,0 4.4903248296244,46.0715400940837,0 4.49032348728671,46.0715430838667,0 4.49028660715262,46.0716289500796,0 4.49025584571553,46.07171617693691,0 4.49023170822038,46.0718043074811,0 4.49031010331354,46.0718177780501,0 4.49031789378567,46.0717996626859,0 4.49050379917598,46.0718361282561,0 4.49058083876474,46.0716374231217,0 4.49057425121655,46.0716283230449,0 4.49055026112553,46.0715882891193,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.499">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69229000AT0105</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT-NIZIER-D AZERGUES</SimpleData>
+					<SimpleData name="Adresse">LE GRAVIER</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0722020751531 </north>
+			<south> 46.0717996626859 </south>
+			<east> 4.49050379917598 </east>
+			<west> 4.49020036102722 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.49023170822038,46.0718043074811,0 4.49023006814039,46.07181063358199,0 4.49022448416579,46.0718433104948,0 4.49020996554213,46.0719521197009,0 4.49020179756755,46.07206129580261,0 4.49020036102722,46.0721705636044,0 4.49020121557236,46.0722020751531,0 4.49020767856176,46.0722018101205,0 4.4902877286538,46.07196136553179,0 4.49045331773261,46.0719644137567,0 4.49050379917598,46.0718361282561,0 4.49031789378567,46.0717996626859,0 4.49031010331354,46.0718177780501,0 4.49023170822038,46.0718043074811,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1541">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69229000AT0156</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT-NIZIER-D AZERGUES</SimpleData>
+					<SimpleData name="Adresse">LE GRAVIER</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0780433202697 </north>
+			<south> 46.07786547491819 </south>
+			<east> 4.48685143580511 </east>
+			<west> 4.48662892550476 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.4867812276242,46.07786547491819,0 4.48662892550476,46.0780145468622,0 4.4867012717087,46.0780433202697,0 4.48680882641895,46.0779336526743,0 4.48685143580511,46.0778869809847,0 4.4867812276242,46.07786547491819,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1627">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69229000AT0160</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT-NIZIER-D AZERGUES</SimpleData>
+					<SimpleData name="Adresse">LES SAUVAGES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.07683744953519 </north>
+			<south> 46.0765782108271 </south>
+			<east> 4.47371104059898 </east>
+			<west> 4.47344403707558 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.47371104059898,46.0767790658587,0 4.47353159264437,46.0765782108271,0 4.47344403707558,46.0766044760738,0 4.47352781841404,46.07674632057309,0 4.47357762774475,46.07683744953519,0 4.47371104059898,46.0767790658587,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1753">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69229000AN0017</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT-NIZIER-D AZERGUES</SimpleData>
+					<SimpleData name="Adresse">LA BLANCHERIE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1087949395076 </north>
+			<south> 46.1066615585546 </south>
+			<east> 4.46850182482718 </east>
+			<west> 4.46769690705646 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.46772141442847,46.1087949395076,0 4.46832767981322,46.1080345204049,0 4.46836202191066,46.1079629252524,0 4.46836527130403,46.10795369664479,0 4.4684012175149,46.1078452443656,0 4.46843079204553,46.1077357937255,0 4.46845356214796,46.1076140022064,0 4.46847707836174,46.1074571659533,0 4.46849397610853,46.1072997848645,0 4.4684964609758,46.1072716526057,0 4.46850182482718,46.1071623350209,0 4.46850071183213,46.1070529210979,0 4.46847269132177,46.1066684381487,0 4.46841967786857,46.1066615585546,0 4.46844070624636,46.1067797212879,0 4.4684562391807,46.1069054304615,0 4.46846530499362,46.1070314034262,0 4.46846789882578,46.1071574601168,0 4.46846588171757,46.1071885584509,0 4.46844904435546,46.1073917815649,0 4.46842572275758,46.10759463823289,0 4.46841629709253,46.10765375238619,0 4.46839371725333,46.1077632926688,0 4.46836464114376,46.1078720163349,0 4.46835102822027,46.1079149730436,0 4.46832917484868,46.1079645209848,0 4.46830106486854,46.1080125286912,0 4.46826707696477,46.1080586310019,0 4.46769690705646,46.108779134847,0 4.46772141442847,46.1087949395076,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2091">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69229000AT0191</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT-NIZIER-D AZERGUES</SimpleData>
+					<SimpleData name="Adresse">LE GRAVIER</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0781049963572 </north>
+			<south> 46.0780145468622 </south>
+			<east> 4.4867012717087 </east>
+			<west> 4.486597570335 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.48662892550476,46.0780145468622,0 4.486612474803,46.0780331356819,0 4.48660177245492,46.0780537206696,0 4.486597570335,46.0780753913252,0 4.48659837499098,46.0780907818914,0 4.48660607854697,46.07809329283161,0 4.48664082020533,46.0781049963572,0 4.4867012717087,46.0780433202697,0 4.48662892550476,46.0780145468622,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2678">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69229000AP0235</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT-NIZIER-D AZERGUES</SimpleData>
+					<SimpleData name="Adresse">LE BRIE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0870872206858 </north>
+			<south> 46.0868931212725 </south>
+			<east> 4.48028636123907 </east>
+			<west> 4.4797788915283 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.4797788915283,46.0870633881939,0 4.47980917484665,46.0870872206858,0 4.4801785286935,46.0869503681551,0 4.48018709610604,46.08694647367301,0 4.48024687306812,46.08691678307289,0 4.48028636123907,46.0868931212725,0 4.48023460669014,46.0869082968715,0 4.4800318088127,46.08697191611811,0 4.47992785859161,46.0870099283168,0 4.4797788915283,46.0870633881939,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3990">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69229000AS0366</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT-NIZIER-D AZERGUES</SimpleData>
+					<SimpleData name="Adresse">LA COLLONGE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.07959794716891 </north>
+			<south> 46.0794109799031 </south>
+			<east> 4.4847347485063 </east>
+			<west> 4.48448145723658 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.48448145723658,46.07953594294591,0 4.48460232900277,46.07959794716891,0 4.48460571329416,46.0795076578314,0 4.48461410938164,46.0794926872509,0 4.48462839301259,46.07948007137951,0 4.48464703601585,46.07947073086181,0 4.48466670627642,46.0794658801442,0 4.4847347485063,46.0794550825707,0 4.4847325213774,46.0794109799031,0 4.48471855378744,46.0794113428224,0 4.48457931862418,46.0794791824437,0 4.48448145723658,46.07953594294591,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.4907">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69229000AN0051</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT-NIZIER-D AZERGUES</SimpleData>
+					<SimpleData name="Adresse">LA SALETTE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1078920591633 </north>
+			<south> 46.10760060477279 </south>
+			<east> 4.46826624712738 </east>
+			<west> 4.46772020259288 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.46826624712738,46.1076062479826,0 4.46819423137241,46.10760060477279,0 4.46819117104971,46.107607219061,0 4.46817220173413,46.1076387167787,0 4.46814735456821,46.1076683090984,0 4.46807327267504,46.1077306911945,0 4.46806056195782,46.1077395918356,0 4.46799830702059,46.1077793948729,0 4.46793194543158,46.10781573846829,0 4.4678617288598,46.10784834916711,0 4.46772020259288,46.1078920591633,0 4.46782317930726,46.1078739756365,0 4.46813130966073,46.1078091972935,0 4.46815056469101,46.1078029139351,0 4.46816634831697,46.1077927126366,0 4.4681768820488,46.10777987730511,0 4.46817944868562,46.1077741700474,0 4.46826624712738,46.1076062479826,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

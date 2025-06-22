@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>QUINCIE EN BEAUJOLAIS_HLM</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_5">
+		<name>QUINCIE EN BEAUJOLAIS_HLM</name>
+		<Schema name="QUINCIE EN BEAUJOLAIS_HLM" id="QUINCIE EN BEAUJOLAIS_HLM.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="HLM">
+			<LineStyle>
+				<color>BFe451f5</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4Ce451f5</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.168">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69162000AH0043</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">QUINCIE EN BEAUJOLAIS</SimpleData>
+					<SimpleData name="Adresse">244, RUE DES MAISONS NEUVES</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1204362394176 </north>
+			<south> 46.1203047209559 </south>
+			<east> 4.61579406885091 </east>
+			<west> 4.61524586319272 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.6153376567253,46.1203047209559,0 4.61532846193812,46.1203047617077,0 4.61529609352855,46.1203535885642,0 4.61524586319272,46.12042923949171,0 4.61524936674882,46.12042945985029,0 4.61543865052801,46.1204312701723,0 4.61574770492708,46.1204362394176,0 4.61579406885091,46.1203260572944,0 4.61539186918312,46.120307192065,0 4.6153376567253,46.1203047209559,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2260">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69162000AH0254</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">QUINCIE EN BEAUJOLAIS</SimpleData>
+					<SimpleData name="Adresse">56, RUE DE LA FORGE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1206302259261 </north>
+			<south> 46.1202285705504 </south>
+			<east> 4.61620986929105 </east>
+			<west> 4.61524936674882 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.61608190740467,46.12061792293611,0 4.61608792495655,46.1206023456395,0 4.61620986929105,46.120270151445,0 4.61618247497533,46.12026792944529,0 4.61614888216541,46.1202663360794,0 4.61611386522465,46.12026476297541,0 4.61597038100166,46.12025680779289,0 4.61582769746686,46.1202496516434,0 4.61563972945697,46.1202397171639,0 4.61542931876742,46.1202285705504,0 4.61537443156992,46.1202471848955,0 4.6153376567253,46.1203047209559,0 4.61539186918312,46.120307192065,0 4.61579406885091,46.1203260572944,0 4.61574770492708,46.1204362394176,0 4.61543865052801,46.1204312701723,0 4.61524936674882,46.12042945985029,0 4.61532801633149,46.1206021714921,0 4.61536886711592,46.1205995187257,0 4.61543639415556,46.120605493154,0 4.61563903930021,46.1206299902286,0 4.6156731104462,46.1206302259261,0 4.61594608354937,46.1206282324786,0 4.61603972713135,46.1206150106864,0 4.61608190740467,46.12061792293611,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2987">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69162000AE0348</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">QUINCIE EN BEAUJOLAIS</SimpleData>
+					<SimpleData name="Adresse">60, LOT DES JACQUETS</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1210439088361 </north>
+			<south> 46.1207318082462 </south>
+			<east> 4.6170437237388 </east>
+			<west> 4.61637853617584 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.61698680532346,46.1208574086412,0 4.61697637098862,46.120854945283,0 4.61675722851721,46.12074530131729,0 4.61639546484245,46.1207318082462,0 4.61637853617584,46.1209574886885,0 4.61644229816646,46.1209587425401,0 4.61654528946223,46.1209638511296,0 4.61659803648821,46.1209693147718,0 4.61676122968978,46.1210439088361,0 4.61703168584065,46.1209827741658,0 4.6170437237388,46.12098251264931,0 4.61698680532346,46.1208574086412,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

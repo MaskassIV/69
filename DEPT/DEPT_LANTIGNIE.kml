@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>LANTIGNIE_DEPT</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_3">
+		<name>LANTIGNIE_DEPT</name>
+		<Schema name="LANTIGNIE_DEPT" id="LANTIGNIE_DEPT.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="DEPT">
+			<LineStyle>
+				<color>BF63f16c</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C63f16c</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.317">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">691090000A0001</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LANTIGNIE</SimpleData>
+					<SimpleData name="Adresse">MURETTE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.18261156944481 </north>
+			<south> 46.18155709806549 </south>
+			<east> 4.61246626496037 </east>
+			<west> 4.61131143016665 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.61206479435472,46.18155709806549,0 4.61168857258434,46.1816343970709,0 4.61153666714665,46.1820336573191,0 4.61131143016665,46.18261156944481,0 4.61185060554894,46.1823562399446,0 4.61246626496037,46.18205632033341,0 4.61211864576072,46.18200838175989,0 4.61206479435472,46.18155709806549,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1061">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">691090000D0013</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LANTIGNIE</SimpleData>
+					<SimpleData name="Adresse">LE CHAPITAL</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.144346379683 </north>
+			<south> 46.1427511803248 </south>
+			<east> 4.60435395952361 </east>
+			<west> 4.6019627435823 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.60206317008947,46.14432524657409,0 4.60221099437452,46.14419130305651,0 4.60218664949788,46.1441740833465,0 4.6023515216176,46.14402936129551,0 4.60252212867631,46.1438858190212,0 4.6026080376136,46.1438281347655,0 4.60292176237028,46.1436336659491,0 4.60334160429073,46.1433725797004,0 4.60366647116003,46.1431738083707,0 4.60381112921962,46.14308250919059,0 4.60400012670488,46.1429787848573,0 4.60421615844996,46.14287792079789,0 4.60435395952361,46.14281806116689,0 4.60430017491544,46.1427511803248,0 4.60419486680171,46.14279671061499,0 4.60393038123407,46.142919965095,0 4.60387650505462,46.1429474758664,0 4.60352397602307,46.143144026406,0 4.60328476439692,46.1432897996112,0 4.60303153290518,46.1434436060117,0 4.60273876466657,46.1436279621166,0 4.60244658615987,46.143814831,0 4.60219805538282,46.1440144133779,0 4.6019627435823,46.1442052523624,0 4.60203994482174,46.144346379683,0 4.60206317008947,46.14432524657409,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3333">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">691090000C0295</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LANTIGNIE</SimpleData>
+					<SimpleData name="Adresse">LE CHAPITAL</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1473406650553 </north>
+			<south> 46.1451831165269 </south>
+			<east> 4.60138757969821 </east>
+			<west> 4.59995280494875 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.60128261290164,46.14539157078429,0 4.60138757969821,46.1451831165269,0 4.60127559037396,46.14522639645009,0 4.60119465136935,46.145276894274,0 4.60110295220284,46.1453494300425,0 4.60107426862824,46.1453789260631,0 4.60101546753775,46.1454864845157,0 4.60098352053518,46.14553737243649,0 4.60094695418808,46.1455809399432,0 4.60094468684813,46.1456053801116,0 4.6009011112981,46.1456707525872,0 4.60086506493603,46.14574547598751,0 4.60082196453926,46.1458271438955,0 4.6007929307387,46.1458890689652,0 4.6007732430354,46.1459559961453,0 4.60074587619008,46.1459951107085,0 4.60071450825185,46.146083638471,0 4.60065267075625,46.1462337512144,0 4.60061091569526,46.14631269805641,0 4.60055326971759,46.1464243830503,0 4.60051850976397,46.1464854880519,0 4.60050274408403,46.14652696096569,0 4.60053005289087,46.1465435988752,0 4.6003921018154,46.1467454016571,0 4.60028819172841,46.146883677659,0 4.60025235122975,46.1469255234159,0 4.59995280494875,46.1472961362354,0 4.60007176571697,46.1473406650553,0 4.60018459997064,46.14719730986451,0 4.60038691631034,46.1469408304343,0 4.60040620580483,46.14696685827941,0 4.60057565920013,46.1467255224443,0 4.6006811461738,46.1465747046032,0 4.60075257445475,46.1464379667741,0 4.6008013938164,46.1463391055405,0 4.6008844787898,46.1461755434506,0 4.6010521043937,46.1458450660583,0 4.6012113073337,46.1455368636484,0 4.60128261290164,46.14539157078429,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3776">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">691090000D0340</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LANTIGNIE</SimpleData>
+					<SimpleData name="Adresse">AUX VIERRES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.13729224059979 </north>
+			<south> 46.1344531049733 </south>
+			<east> 4.62080337731579 </east>
+			<west> 4.61666126145056 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.6167270574031,46.13729224059979,0 4.61698652101854,46.1371191295291,0 4.61734810010649,46.1368764725309,0 4.61767089019348,46.13665418172759,0 4.61803277154044,46.1364044028067,0 4.61845330704928,46.1361139769141,0 4.61860718068183,46.1360071253372,0 4.61872576275754,46.1359205013925,0 4.61878846124715,46.1359026749865,0 4.61910676029071,46.135682245294,0 4.61946592043468,46.1354372739914,0 4.61980972915586,46.1352034186558,0 4.62007542768184,46.1350227356789,0 4.62017057185973,46.1349586011654,0 4.6204272135958,46.1347784068075,0 4.62080337731579,46.1345217498721,0 4.62073488881962,46.1344531049733,0 4.62038296210232,46.134688159886,0 4.62024123004208,46.1347847531717,0 4.62005789471986,46.1349071587255,0 4.61971952995401,46.135136613965,0 4.61935550560191,46.1353878701477,0 4.61899553764908,46.1356405984356,0 4.61872554895179,46.1358253929813,0 4.61865682851316,46.1358718566342,0 4.61849555830461,46.1359826866069,0 4.61818591214723,46.1361935341282,0 4.61783283549652,46.136434271447,0 4.61754462752713,46.1366297704499,0 4.61742756643957,46.1367109673899,0 4.61704455851431,46.136969421408,0 4.61675649565036,46.1371656367998,0 4.61666126145056,46.13722697751909,0 4.6167270574031,46.13729224059979,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+				<innerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.61876878698497,46.1358813391801,0 4.6187759294658,46.1358906944778,0 4.61874979017698,46.1359049374814,0 4.61873862512795,46.1358953693149,0 4.61876878698497,46.1358813391801,0 
+						</coordinates>
+					</LinearRing>
+				</innerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3781">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">691090000D0341</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LANTIGNIE</SimpleData>
+					<SimpleData name="Adresse">AUX VIERRES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1359049374814 </north>
+			<south> 46.1358813391801 </south>
+			<east> 4.6187759294658 </east>
+			<west> 4.61873862512795 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.61876878698497,46.1358813391801,0 4.61873862512795,46.1358953693149,0 4.61874979017698,46.1359049374814,0 4.6187759294658,46.1358906944778,0 4.61876878698497,46.1358813391801,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.4011">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">691090000D0369</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LANTIGNIE</SimpleData>
+					<SimpleData name="Adresse">LE CHAPITAL</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.14398592351169 </north>
+			<south> 46.14281806116689 </south>
+			<east> 4.60437674386564 </east>
+			<west> 4.60245546933663 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.60437674386564,46.1428439489184,0 4.60435543688484,46.1428198416451,0 4.60435395952361,46.14281806116689,0 4.60421615844996,46.14287792079789,0 4.60400012670488,46.1429787848573,0 4.60381112921962,46.14308250919059,0 4.60366647116003,46.1431738083707,0 4.60334160429073,46.1433725797004,0 4.60292176237028,46.1436336659491,0 4.6026080376136,46.1438281347655,0 4.60252212867631,46.1438858190212,0 4.60245546933663,46.14398592351169,0 4.6025148117579,46.14393699038219,0 4.60259840584389,46.1438754659026,0 4.60268159139108,46.1438221432432,0 4.60269418275592,46.1438140396595,0 4.60302993576477,46.1436062900276,0 4.60330980533961,46.1434284199397,0 4.60375269979802,46.14315818012041,0 4.60392810527699,46.1430593313254,0 4.60418829685988,46.1429310036721,0 4.60437674386564,46.1428439489184,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.4031">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">691090000D0370</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LANTIGNIE</SimpleData>
+					<SimpleData name="Adresse">APPAGNIE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1428439489184 </north>
+			<south> 46.1412157108324 </south>
+			<east> 4.60834190276062 </east>
+			<west> 4.60435395952361 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.60484857670343,46.14264643056409,0 4.60513817201342,46.1425267820099,0 4.60541373490891,46.1424147165608,0 4.60562904966782,46.14232493815859,0 4.6056663235133,46.1423101805967,0 4.6057020615505,46.1422960752053,0 4.60580728535204,46.1422521658892,0 4.60603047575249,46.14216146475491,0 4.60626316018411,46.1420675666168,0 4.60673831203263,46.141877649001,0 4.60702600351566,46.1417640569584,0 4.60737007528297,46.14162453749829,0 4.60749211290288,46.1415752547931,0 4.6078784293414,46.1414227065608,0 4.60834190276062,46.1412370004297,0 4.60833156109722,46.1412157108324,0 4.60810326916436,46.1413045073486,0 4.60778149510751,46.14142660064941,0 4.60745014559499,46.1415536021067,0 4.60706004697329,46.1417098050607,0 4.60664294542032,46.141868730365,0 4.60623961478134,46.1420334038014,0 4.60587081709319,46.1421827264189,0 4.60555694628975,46.1423095651637,0 4.60521438776545,46.14245239010491,0 4.60474898914807,46.14264828797289,0 4.60451377715904,46.1427489736877,0 4.60435395952361,46.14281806116689,0 4.60435543688484,46.1428198416451,0 4.60437674386564,46.1428439489184,0 4.60442264153199,46.14282276525019,0 4.60484857670343,46.14264643056409,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.4037">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">691090000D0371</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LANTIGNIE</SimpleData>
+					<SimpleData name="Adresse">APPAGNIE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1390610087328 </north>
+			<south> 46.1376436895211 </south>
+			<east> 4.61595183161322 </east>
+			<west> 4.61342094346642 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.61595183161322,46.137664174487,0 4.61591663546368,46.1376436895211,0 4.61577545521251,46.13772874049389,0 4.61554984438935,46.13786371889829,0 4.6155187770559,46.1378822644087,0 4.61537292797292,46.1379672011396,0 4.61507258376844,46.1381471044043,0 4.61467280161414,46.13838219093931,0 4.61460606432187,46.13842141844071,0 4.61444956876428,46.1385056946891,0 4.61426452061198,46.1386059582343,0 4.61400140825363,46.13874804139981,0 4.6138205820147,46.138846532916,0 4.61364400193576,46.138930823203,0 4.61342094346642,46.1390339671237,0 4.61344480100883,46.1390610087328,0 4.61383071419795,46.1388738595423,0 4.6140677391505,46.1387566459082,0 4.6144459238718,46.1385491590629,0 4.61469011515117,46.1384069835724,0 4.614992687527,46.1382278602836,0 4.61534314498616,46.13802058448541,0 4.61564605427434,46.1378442466946,0 4.61595183161322,46.137664174487,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.4946">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">691090000D0052</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LANTIGNIE</SimpleData>
+					<SimpleData name="Adresse">APPAGNIE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1406983489357 </north>
+			<south> 46.1405135761862 </south>
+			<east> 4.6098972383622 </east>
+			<west> 4.60943220344085 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.6098972383622,46.1405382886954,0 4.60988057653161,46.1405135761862,0 4.6096421911593,46.1405805424893,0 4.60943220344085,46.140643863456,0 4.60948342612564,46.1406983489357,0 4.60962530210652,46.1406452701236,0 4.6098972383622,46.1405382886954,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.5274">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">691090000A0591</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LANTIGNIE</SimpleData>
+					<SimpleData name="Adresse">MURETTE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1819631152696 </north>
+			<south> 46.1810471376076 </south>
+			<east> 4.61341331070733 </east>
+			<west> 4.61266204377927 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.61266793352823,46.1813079725718,0 4.61266339236862,46.181739999553,0 4.61266204377927,46.1819631152696,0 4.61318673765337,46.1817096059155,0 4.61341331070733,46.1816010112946,0 4.61330262027597,46.1810471376076,0 4.61266793352823,46.1813079725718,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.5287">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">691090000A0593</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LANTIGNIE</SimpleData>
+					<SimpleData name="Adresse">MURETTE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.18205632033341 </north>
+			<south> 46.1813079725718 </south>
+			<east> 4.61266793352823 </east>
+			<west> 4.61206479435472 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.61266793352823,46.1813079725718,0 4.61227952980029,46.181469208949,0 4.61206479435472,46.18155709806549,0 4.61211864576072,46.18200838175989,0 4.61246626496037,46.18205632033341,0 4.61266204377927,46.1819631152696,0 4.61266339236862,46.181739999553,0 4.61266793352823,46.1813079725718,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.5506">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">691090000D0063</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LANTIGNIE</SimpleData>
+					<SimpleData name="Adresse">APPAGNIE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.14281806116689 </north>
+			<south> 46.13722697751909 </south>
+			<east> 4.6167270574031 </east>
+			<west> 4.60430017491544 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.60435395952361,46.14281806116689,0 4.60451377715904,46.1427489736877,0 4.60474898914807,46.14264828797289,0 4.60521438776545,46.14245239010491,0 4.60555694628975,46.1423095651637,0 4.60587081709319,46.1421827264189,0 4.60623961478134,46.1420334038014,0 4.60664294542032,46.141868730365,0 4.60706004697329,46.1417098050607,0 4.60745014559499,46.1415536021067,0 4.60778149510751,46.14142660064941,0 4.60810326916436,46.1413045073486,0 4.60833156109722,46.1412157108324,0 4.60880727434272,46.1410321711834,0 4.60900472026504,46.1409564196403,0 4.6092750493302,46.1408563977023,0 4.60948011938892,46.1407844101875,0 4.60967583477901,46.1407115641316,0 4.61004469938944,46.14056520013769,0 4.61041333484061,46.14041109236521,0 4.61085847944628,46.14022833762019,0 4.61112024044399,46.1401235690653,0 4.6111934870318,46.1400984820006,0 4.61166430176135,46.13990761405811,0 4.61193724528235,46.139795479493,0 4.612252326631,46.13967112739261,0 4.61254518071027,46.1395488012649,0 4.61261327967365,46.13952054391951,0 4.61296143274512,46.1393665383518,0 4.61309828506932,46.1393058707066,0 4.61328246618706,46.13922444555769,0 4.61349885463173,46.13912355830371,0 4.61379736361156,46.1389822343431,0 4.61406950144493,46.138847408948,0 4.61450549938793,46.1386100084559,0 4.61466151392528,46.1385225866079,0 4.61486583592187,46.1384080878802,0 4.61506029083117,46.1382973317901,0 4.6153014636002,46.1381539369234,0 4.61544833345949,46.1380684453689,0 4.61552960048971,46.1380210847297,0 4.61587576758379,46.13781341792929,0 4.61606481840031,46.1376996746467,0 4.61614731315293,46.1376500443893,0 4.61630872903002,46.1375526358988,0 4.6167270574031,46.13729224059979,0 4.61666126145056,46.13722697751909,0 4.61653882701569,46.1373061784371,0 4.61623973534966,46.1374887691007,0 4.61595183161322,46.137664174487,0 4.61564605427434,46.1378442466946,0 4.61534314498616,46.13802058448541,0 4.614992687527,46.1382278602836,0 4.61469011515117,46.1384069835724,0 4.6144459238718,46.1385491590629,0 4.6140677391505,46.1387566459082,0 4.61383071419795,46.1388738595423,0 4.61344480100883,46.1390610087328,0 4.61339569071898,46.13908287225539,0 4.61304028022836,46.1392411253788,0 4.61297964852046,46.1392677457919,0 4.61285876817178,46.13932080094339,0 4.61249734942546,46.1394775164287,0 4.61222689845572,46.1395906077407,0 4.61211999065222,46.1396341867888,0 4.61162927455162,46.1398311033977,0 4.61137031498704,46.1399341221335,0 4.61106087850991,46.1400566803824,0 4.6107843768967,46.14016688177421,0 4.61042640133625,46.1403176872824,0 4.6100131418575,46.1404876490809,0 4.6098972383622,46.1405382886954,0 4.60962530210652,46.1406452701236,0 4.60948342612564,46.1406983489357,0 4.60938136707015,46.1407351015745,0 4.60894837035203,46.14089498132299,0 4.60877195949762,46.14095899626189,0 4.60829648493172,46.1411373985498,0 4.60781902441088,46.14132330250779,0 4.60749657535472,46.1414489171738,0 4.60711351966232,46.1415978152565,0 4.60669642929159,46.1417615141842,0 4.60612534202339,46.1419850323966,0 4.605722609155,46.1421480742973,0 4.60539269846227,46.1422802731824,0 4.60505362568226,46.14242710139609,0 4.60464054164514,46.1426041560046,0 4.60430017491544,46.1427511803248,0 4.60435395952361,46.14281806116689,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.5831">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">691090000A0007</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LANTIGNIE</SimpleData>
+					<SimpleData name="Adresse">MURETTE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1816010112946 </north>
+			<south> 46.1810235288069 </south>
+			<east> 4.61403297284711 </east>
+			<west> 4.61330262027597 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.61330262027597,46.1810471376076,0 4.61341331070733,46.1816010112946,0 4.61394991632927,46.18134273579561,0 4.61403297284711,46.1810235288069,0 4.61356341411686,46.1810352395007,0 4.61330262027597,46.1810471376076,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

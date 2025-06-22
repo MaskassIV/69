@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>BEAUJEU_HLM</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_5">
+		<name>BEAUJEU_HLM</name>
+		<Schema name="BEAUJEU_HLM" id="BEAUJEU_HLM.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="HLM">
+			<LineStyle>
+				<color>BFe451f5</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4Ce451f5</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.1029">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69018000AD0144</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">BEAUJEU</SimpleData>
+					<SimpleData name="Adresse">23, RUE DE LA REPUBLIQUE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.15595184617419 </north>
+			<south> 46.155807989912 </south>
+			<east> 4.58513046474919 </east>
+			<west> 4.58473133046021 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.58473924009405,46.15581166872211,0 4.58473133046021,46.1559192287094,0 4.58490833131989,46.1559358537626,0 4.58494379519186,46.1559386914911,0 4.58505424455125,46.1559485890665,0 4.58509192382522,46.15595184617419,0 4.58513046474919,46.1559445534343,0 4.58511377668748,46.15590524695591,0 4.58507358592704,46.15582402706671,0 4.58499743464722,46.1558169834881,0 4.58491902379618,46.155807989912,0 4.58491619234998,46.15581316321839,0 4.58473924009405,46.15581166872211,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2838">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69018000AD0326</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">BEAUJEU</SimpleData>
+					<SimpleData name="Adresse">QUARTIER DES PENITENTS</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1597022966647 </north>
+			<south> 46.1594944760577 </south>
+			<east> 4.58086705350246 </east>
+			<west> 4.58040664478503 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.58040664478503,46.159557098733,0 4.58078787098853,46.1597022966647,0 4.58081871337481,46.15967511774689,0 4.5808531590404,46.15961555475469,0 4.58086705350246,46.15954898230131,0 4.58086172416234,46.1594944760577,0 4.58085484983028,46.1594988048393,0 4.58060571821103,46.1595027212778,0 4.58050630932923,46.1595118499079,0 4.58047619968025,46.1595194740844,0 4.58045341543287,46.15952942815411,0 4.58040664478503,46.159557098733,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2847">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69018000AD0327</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">BEAUJEU</SimpleData>
+					<SimpleData name="Adresse">99, IMP DU BASSIN</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.16014199070919 </north>
+			<south> 46.159557098733 </south>
+			<east> 4.58078787098853 </east>
+			<west> 4.57987068446459 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.58015415610361,46.16014199070919,0 4.58077876310402,46.15971007905,0 4.58078787098853,46.1597022966647,0 4.58040664478503,46.159557098733,0 4.58004375288535,46.1598099192628,0 4.57987068446459,46.1599392298166,0 4.58015415610361,46.16014199070919,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2870">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69018000AD0330</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">BEAUJEU</SimpleData>
+					<SimpleData name="Adresse">15, PL DE LA FONTAINE CLEMENTINE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1566919990598 </north>
+			<south> 46.1565389606342 </south>
+			<east> 4.58485668809372 </east>
+			<west> 4.58464084824091 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.58480899261999,46.1566919990598,0 4.5848203259506,46.1566670726055,0 4.58485668809372,46.1565843344076,0 4.58477270136393,46.1565618184167,0 4.58468092850665,46.1565389606342,0 4.58464084824091,46.1566500315965,0 4.58480899261999,46.1566919990598,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.3332">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69018000AD0400</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">BEAUJEU</SimpleData>
+					<SimpleData name="Adresse">73, RUE DE MONTFAVIER</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.15709319603649 </north>
+			<south> 46.1567308388123 </south>
+			<east> 4.5859873630235 </east>
+			<west> 4.5855022482498 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.5855022482498,46.1568487698756,0 4.58551659337749,46.1568563154254,0 4.5855451426838,46.15688446817029,0 4.58565600507256,46.156993793154,0 4.58571459017927,46.15708358266691,0 4.58571629369811,46.15709319603649,0 4.5859873630235,46.1569653002898,0 4.58579459838588,46.1567711050596,0 4.58574988697391,46.1567308388123,0 4.5855022482498,46.1568487698756,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

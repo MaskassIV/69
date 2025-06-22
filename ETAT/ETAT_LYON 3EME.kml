@@ -1,0 +1,1420 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>LYON 3EME_ETAT</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_1">
+		<name>LYON 3EME_ETAT</name>
+		<Schema name="LYON 3EME_ETAT" id="LYON 3EME_ETAT.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="ETAT">
+			<LineStyle>
+				<color>BF119ff7</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C119ff7</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.19">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69383000EL0110</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LYON 3EME</SimpleData>
+					<SimpleData name="Adresse">37, RUE MAURICE FLANDIN</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7584482159802 </north>
+			<south> 45.75801860345611 </south>
+			<east> 4.86383740511765 </east>
+			<west> 4.86286402632849 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.86338975339735,45.7581004008672,0 4.86286402632849,45.7581366480273,0 4.86289249300105,45.7582634522799,0 4.86289536448704,45.75827610527279,0 4.86292673315178,45.7584164627485,0 4.86298931352305,45.7584482159802,0 4.86383740511765,45.75836277555959,0 4.86381191224033,45.758247902199,0 4.86379689664144,45.7581804147348,0 4.86376107059351,45.75801860345611,0 4.86356233952379,45.7580400821977,0 4.86356884781047,45.7580880741381,0 4.86338975339735,45.7581004008672,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.38">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69383000EM0141</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LYON 3EME</SimpleData>
+					<SimpleData name="Adresse">BD VIVIER MERLE</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.758604179949 </north>
+			<south> 45.75855996571829 </south>
+			<east> 4.85875298578911 </east>
+			<west> 4.85872199507879 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.85873425786458,45.7586031791993,0 4.8587445860906,45.758604179949,0 4.85875298578911,45.7585631480158,0 4.85872199507879,45.75855996571829,0 4.85872260338846,45.7585627479812,0 4.85872308005953,45.7585654423396,0 4.85872343114793,45.7585682288415,0 4.85872390781909,45.7585709232,0 4.85872438751827,45.7585737075823,0 4.85872499280024,45.7585763998213,0 4.85872547249952,45.7585791842036,0 4.85872607778161,45.7585818764426,0 4.85872694028521,45.7585845644426,0 4.85872793139964,45.758587250323,0 4.85872879390342,45.758589938323,0 4.85872991060081,45.75859253206,0 4.85873103032628,45.758595215821,0 4.85873215005186,45.75859789958191,0 4.85873313813879,45.7586004954384,0 4.85873425786458,45.7586031791993,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.301">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69383000EM0104</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LYON 3EME</SimpleData>
+					<SimpleData name="Adresse">53, BD VIVIER MERLE</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7585212706649 </north>
+			<south> 45.7581676545729 </south>
+			<east> 4.85941660884311 </east>
+			<west> 4.85935284845321 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.85935367976448,45.7585212706649,0 4.85941660884311,45.7581733589616,0 4.85940008924328,45.75817191990301,0 4.85935284845321,45.7581676545729,0 4.85935367976448,45.7585212706649,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.302">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69383000AZ0106</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LYON 3EME</SimpleData>
+					<SimpleData name="Adresse">26, RUE JEANNE HACHETTE</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT MINISTERE DE LA DEFENSE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7507578110076 </north>
+			<south> 45.75028277408821 </south>
+			<east> 4.86442597671317 </east>
+			<west> 4.86256865532325 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.86442597671317,45.75050895931099,0 4.86442317408117,45.7505021600292,0 4.86438975920819,45.7504231772046,0 4.86438779797923,45.7504184357115,0 4.86438545097609,45.7504137005962,0 4.86438323560158,45.7504090533787,0 4.86438050586152,45.75040441466481,0 4.86437777915864,45.7503998659747,0 4.86437466971855,45.7503954136859,0 4.8643714316875,45.750390963523,0 4.86436793951081,45.7503866076356,0 4.86436445037137,45.7503823417718,0 4.86436071012303,45.75037826020711,0 4.86435658106431,45.7503740949964,0 4.86435245807958,45.7503701098329,0 4.86434807791265,45.750366128921,0 4.8643437038197,45.7503623280564,0 4.86433907558126,45.7503586214672,0 4.86433406156933,45.7503549212554,0 4.86432918525937,45.7503514889886,0 4.86432405176731,45.7503480609734,0 4.86431866412982,45.7503447272334,0 4.86431328560285,45.7503416635642,0 4.86430777848515,45.7503386020207,0 4.86430189166727,45.75033572690191,0 4.86429613647793,45.75033293968059,0 4.86429025269785,45.7503301545848,0 4.86428829346234,45.7503292862353,0 4.86428412084546,45.7503276438116,0 4.86427786343889,45.75032522518759,0 4.86427161210598,45.75032298661059,0 4.86426523218227,45.7503207501591,0 4.86425886136868,45.7503187837783,0 4.86425249359206,45.7503169074209,0 4.86424574307855,45.7503151274642,0 4.86423900167496,45.75031361757821,0 4.86423226027174,45.7503121076919,0 4.86422539938705,45.750310870002,0 4.86421854153913,45.75030972233541,0 4.86421156117313,45.7503087568416,0 4.86420471243509,45.7503078792453,0 4.86419761562403,45.7503072759712,0 4.86419051881312,45.7503066726967,0 4.86418343111159,45.7503063394928,0 4.86406422504094,45.7503044368246,0 4.86391941413707,45.7503025068726,0 4.86370355407977,45.75029976932921,0 4.86355810327978,45.7502979395629,0 4.86334212377205,45.750295473524,0 4.8631967985518,45.7502935511433,0 4.8629805558259,45.75029090861369,0 4.86283485699324,45.7502893522347,0 4.86283488545557,45.7502863793269,0 4.86262943534006,45.7502832876213,0 4.8625787248725,45.75028277408821,0 4.86256865532325,45.75073610200441,0 4.86264794707543,45.7507371342862,0 4.86370731190227,45.7507507972824,0 4.86442189097737,45.7507578110076,0 4.86442597671317,45.75050895931099,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+				<innerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.86270650411838,45.7506612256235,0 4.86270692605099,45.75064320388069,0 4.86274579120651,45.7506434626533,0 4.86274637670105,45.7506112065374,0 4.86282861679136,45.7506119197671,0 4.86282676075109,45.7506942779438,0 4.86270577180368,45.7506929437207,0 4.86270650411838,45.7506612256235,0 
+						</coordinates>
+					</LinearRing>
+				</innerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.4105">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69383000BX0012</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LYON 3EME</SimpleData>
+					<SimpleData name="Adresse">122, BD PINEL</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR USID DE LYON CELLULE DOMAINE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7398551000271 </north>
+			<south> 45.73968776731411 </south>
+			<east> 4.89195131417325 </east>
+			<west> 4.89179372084998 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.89186339246356,45.7398551000271,0 4.89195131417325,45.73983056561029,0 4.89194820843164,45.7398225110112,0 4.89194497720617,45.7398145485923,0 4.89194174598164,45.73980658617329,0 4.89193851475804,45.73979862375419,0 4.89193540902008,45.7397905691548,0 4.89193256349547,45.7397826002634,0 4.89193022915344,45.73977453271979,0 4.89192840599379,45.7397663665237,0 4.8919273049326,45.7397567470171,0 4.89192696910357,45.7397469345207,0 4.8919272761027,45.7397371112374,0 4.89192796571747,45.7397271914593,0 4.89192904102867,45.7397172652092,0 4.8919301225015,45.7397075190048,0 4.89193106924641,45.7396975949119,0 4.89193163337552,45.73968776731411,0 4.89179372084998,45.73972503037021,0 4.89186339246356,45.7398551000271,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.4111">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69383000DV0111</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LYON 3EME</SimpleData>
+					<SimpleData name="Adresse">140, RUE ANTOINE CHARIAL</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7567487213716 </north>
+			<south> 45.7566076043746 </south>
+			<east> 4.87390479457094 </east>
+			<west> 4.87354458239726 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.87354458239726,45.7566641063655,0 4.87356319687049,45.7567159500973,0 4.87357470352506,45.756747915433,0 4.87357498820535,45.7567487213716,0 4.87390479457094,45.7566881166732,0 4.8738774160284,45.7566093062736,0 4.8738768436079,45.7566076043746,0 4.87380558271175,45.7566197773972,0 4.87364271324947,45.75664743378839,0 4.87356326116322,45.75666091369919,0 4.87354458239726,45.7566641063655,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.4130">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69383000BX0020</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LYON 3EME</SimpleData>
+					<SimpleData name="Adresse">73, AV ROCKEFELLER</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR USID DE LYON CELLULE DOMAINE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7401786336456 </north>
+			<south> 45.73976547743539 </south>
+			<east> 4.89042742956299 </east>
+			<west> 4.88997409039615 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.89042742956299,45.740112118459,0 4.89024680035689,45.73976547743539,0 4.88999876873206,45.7398478201722,0 4.89001034081998,45.7398702349013,0 4.88997409039615,45.7398822820318,0 4.89003246401828,45.7399717383648,0 4.89003830323765,45.7399807380102,0 4.89013252703026,45.7401254395486,0 4.89016714916654,45.7401786336456,0 4.89042742956299,45.740112118459,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.4143">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69383000BX0028</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LYON 3EME</SimpleData>
+					<SimpleData name="Adresse">104, BD PINEL</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR USID DE LYON CELLULE DOMAINE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7417137163852 </north>
+			<south> 45.74140455447071 </south>
+			<east> 4.89330133904513 </east>
+			<west> 4.89274960222598 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.89281524554839,45.7416485435877,0 4.89284479931383,45.7417038937281,0 4.89284989549643,45.7417137163852,0 4.89287896288151,45.7417060224355,0 4.89291658896816,45.741696563449,0 4.89295371617543,45.7416875631983,0 4.89303379228907,45.7416667626781,0 4.89309773634875,45.74164821459941,0 4.89330133904513,45.7415944442115,0 4.89320015370168,45.74140455447071,0 4.89318103477563,45.7414097395241,0 4.89316420543143,45.7414141655337,0 4.89316203824926,45.7414147423698,0 4.89286676211334,45.741492480144,0 4.89281806156699,45.7415053677158,0 4.89274960222598,45.7415235410614,0 4.89280598094195,45.7416296933678,0 4.89281524554839,45.7416485435877,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.4148">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69383000BX0003</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LYON 3EME</SimpleData>
+					<SimpleData name="Adresse">75, CRS EUGENIE</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR USID DE LYON CELLULE DOMAINE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7418266687952 </north>
+			<south> 45.74056605785231 </south>
+			<east> 4.89053539368432 </east>
+			<west> 4.88842705766218 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.88915828193444,45.7408165159693,0 4.88916007023042,45.7408199088383,0 4.88910588712417,45.7408342377814,0 4.88911235746312,45.74084664973219,0 4.88906213224902,45.7408601016691,0 4.88910455792327,45.7409383862107,0 4.88893817875612,45.7409822477074,0 4.88895780750025,45.7410220921007,0 4.88896407542927,45.7410323456623,0 4.88874233256144,45.7411200098546,0 4.88842705766218,45.7413430008263,0 4.88850190302621,45.7414928922895,0 4.88850604306937,45.7415011098028,0 4.88852427219126,45.741537644956,0 4.88852869706109,45.7415466683685,0 4.88860561301299,45.741700668521,0 4.88888323080235,45.7417196175926,0 4.88888330707807,45.7417180850478,0 4.88891818122252,45.74146619287271,0 4.88909189956056,45.7414224786889,0 4.88912114897582,45.7414389226398,0 4.88911719308109,45.7414699745597,0 4.88910161608215,45.7415863416218,0 4.88908035014012,45.7417319881453,0 4.88908014837596,45.7417336128673,0 4.88982665488308,45.7417858668393,0 4.89016669864063,45.7418095312078,0 4.89021119706341,45.7418129286632,0 4.89034517893978,45.7418223020953,0 4.89040204786171,45.7418263027492,0 4.89040707750535,45.7418266687952,0 4.8904354321654,45.7416777505015,0 4.89053539368432,45.7411513000061,0 4.89050261759158,45.7410881668473,0 4.89047895824134,45.7410433461086,0 4.89045898578912,45.7410047687683,0 4.89043531727402,45.7409596779517,0 4.89040476166796,45.7409012814913,0 4.89039003260401,45.740891890463,0 4.89031392844449,45.7408407430129,0 4.8899968574661,45.7406309603727,0 4.88990304583588,45.74056605785231,0 4.88954664109227,45.740658142575,0 4.88937828536944,45.7407005966722,0 4.88932884099106,45.74071430587009,0 4.88934655238831,45.7407469763637,0 4.88935615829549,45.7407645600819,0 4.88930872786938,45.7407769744787,0 4.88922266739516,45.7407995840399,0 4.88921157426233,45.7408024721497,0 4.88915828193444,45.7408165159693,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.4174">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69383000BX0001</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LYON 3EME</SimpleData>
+					<SimpleData name="Adresse">77, CRS EUGENIE</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR USID DE LYON CELLULE DOMAINE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7413430008263 </north>
+			<south> 45.7406820716385 </south>
+			<east> 4.88916007023042 </east>
+			<west> 4.88842485600738 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.88877972637623,45.7406820716385,0 4.88859544235891,45.74070263305281,0 4.88852110666637,45.740710723834,0 4.88848763080813,45.7409282740423,0 4.88847497416282,45.7410134262985,0 4.88842485600738,45.74133880419859,0 4.88842705766218,45.7413430008263,0 4.88874233256144,45.7411200098546,0 4.88896407542927,45.7410323456623,0 4.88895780750025,45.7410220921007,0 4.88893817875612,45.7409822477074,0 4.88910455792327,45.7409383862107,0 4.88906213224902,45.7408601016691,0 4.88911235746312,45.74084664973219,0 4.88910588712417,45.7408342377814,0 4.88916007023042,45.7408199088383,0 4.88915828193444,45.7408165159693,0 4.88912493488696,45.7407516805915,0 4.88906552361549,45.7407673581571,0 4.88903941714379,45.7407073555436,0 4.88880571442158,45.7407310871992,0 4.88880252358315,45.74072429498879,0 4.88878379627478,45.7406920017318,0 4.88877972637623,45.7406820716385,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.4177">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69383000BX0010</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LYON 3EME</SimpleData>
+					<SimpleData name="Adresse">108, BD PINEL</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR USID DE LYON CELLULE DOMAINE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7412374377141 </north>
+			<south> 45.7411589415257 </south>
+			<east> 4.89309876957551 </east>
+			<west> 4.89300115179655 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.89301407273499,45.7412374377141,0 4.89309876957551,45.74121259627369,0 4.89307017437634,45.7411589415257,0 4.89303409459141,45.7411684646828,0 4.89302841415656,45.741160363262,0 4.89300432118912,45.7411668027682,0 4.8930256243258,45.7412066183924,0 4.89300115179655,45.7412132444195,0 4.89301407273499,45.7412374377141,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.4194">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69383000BX0011</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LYON 3EME</SimpleData>
+					<SimpleData name="Adresse">120, BD PINEL</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR USID DE LYON CELLULE DOMAINE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7399056258484 </north>
+			<south> 45.73983056561029 </south>
+			<east> 4.89198322790635 </east>
+			<west> 4.89186339246356 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.89198322790635,45.7398797512656,0 4.89198147335959,45.7398773486935,0 4.89197997902593,45.7398750318296,0 4.89197835304538,45.73987262710009,0 4.89197673014606,45.7398703123934,0 4.89197510416579,45.7398679076639,0 4.89197348126675,45.73986559295721,0 4.89197185836784,45.7398632782505,0 4.89197036095388,45.7398608713635,0 4.89196778879687,45.7398571313921,0 4.89196547069089,45.7398532970829,0 4.89196315258523,45.7398494627737,0 4.89196070591404,45.7398456306218,0 4.89195839089009,45.7398418863354,0 4.89195594730061,45.7398381442063,0 4.89195362919625,45.73983430989691,0 4.89195131417325,45.73983056561029,0 4.89186339246356,45.7398551000271,0 4.89189059232401,45.7399056258484,0 4.89198322790635,45.7398797512656,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.4195">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69383000AR0111</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LYON 3EME</SimpleData>
+					<SimpleData name="Adresse">15, RUE DOCTEUR BOUCHUT</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.76064377216961 </north>
+			<south> 45.75973579993799 </south>
+			<east> 4.85521334897176 </east>
+			<west> 4.8542964389074 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.85486817568584,45.759923173876,0 4.85442198308769,45.7598835823806,0 4.8542964389074,45.7605754307333,0 4.85505386551718,45.76064377216961,0 4.85521334897176,45.7597633807426,0 4.85490229322714,45.75973579993799,0 4.85486817568584,45.759923173876,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.4197">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69383000AR0114</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LYON 3EME</SimpleData>
+					<SimpleData name="Adresse">15, RUE DOCTEUR BOUCHUT</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.759923173876 </north>
+			<south> 45.7596012920206 </south>
+			<east> 4.85523560436126 </east>
+			<west> 4.85442198308769 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.85442437454335,45.7598704823767,0 4.85442198308769,45.7598835823806,0 4.85486817568584,45.759923173876,0 4.85490229322714,45.75973579993799,0 4.85521334897176,45.7597633807426,0 4.85523560436126,45.7596405144276,0 4.85498043526759,45.7596178693656,0 4.85479444480657,45.7596012920206,0 4.85473969017528,45.759898444826,0 4.85442437454335,45.7598704823767,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.4232">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69383000AH0155</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LYON 3EME</SimpleData>
+					<SimpleData name="Adresse">185, RUE DE CREQUI</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT MINISTERE DE LA JUSTICE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7617561504557 </north>
+			<south> 45.7604239917576 </south>
+			<east> 4.84880123660046 </east>
+			<west> 4.84750571024362 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.84771314496843,45.7605882604537,0 4.84768812282067,45.7607212585671,0 4.84766764538559,45.7608323844359,0 4.84763378671501,45.7610051596334,0 4.84761388894046,45.7611143844515,0 4.84758996969218,45.7612457431496,0 4.84756450390838,45.7613770371007,0 4.84753585669373,45.7615286496967,0 4.84751730690361,45.76162046822681,0 4.84750571024362,45.7616777647825,0 4.84766827507002,45.7616902342852,0 4.84783185988581,45.7617024166245,0 4.84799118230169,45.761714128121,0 4.84809347779218,45.7617214594389,0 4.84823447627595,45.7617316693535,0 4.84830477809291,45.76173664236989,0 4.848375208541,45.76174161323479,0 4.84857091604135,45.7617561504557,0 4.84858734776493,45.7616703112908,0 4.84860390203226,45.7615842899676,0 4.84862303924332,45.7614793108646,0 4.84864879841459,45.76133378020529,0 4.84867523455316,45.7611931024147,0 4.84869650890353,45.7610827739301,0 4.84870930638299,45.761011406077,0 4.84872551356703,45.76092656137751,0 4.84874063844984,45.7608439862535,0 4.84877069979278,45.7606924401916,0 4.84880123660046,45.76052818595719,0 4.84875993390166,45.76049373427481,0 4.8485583325765,45.76047983449159,0 4.84833762398996,45.7604640857021,0 4.84823688923512,45.7604571794365,0 4.84806433202923,45.76044595541741,0 4.84791497083152,45.7604357022088,0 4.84774458516949,45.7604239917576,0 4.84771314496843,45.7605882604537,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.4240">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69383000BX0017</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LYON 3EME</SimpleData>
+					<SimpleData name="Adresse">79, AV ROCKEFELLER</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR USID DE LYON CELLULE DOMAINE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7399515025659 </north>
+			<south> 45.7395020224028 </south>
+			<east> 4.89124947659582 </east>
+			<west> 4.89082223630068 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.8910538438499,45.739527388374,0 4.89104101269985,45.7395020224028,0 4.89082223630068,45.739574598627,0 4.89085742460127,45.7396255311566,0 4.89089144970122,45.7396913454892,0 4.89091608575065,45.73973840161779,0 4.89094082732582,45.73973213182299,0 4.89105664611806,45.7399515025659,0 4.89124947659582,45.7399026003697,0 4.89124328149894,45.7398907243666,0 4.89121573886989,45.73983768206049,0 4.8910538438499,45.739527388374,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.4247">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69383000BX0018</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LYON 3EME</SimpleData>
+					<SimpleData name="Adresse">77, AV ROCKEFELLER</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR USID DE LYON CELLULE DOMAINE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7399959572052 </north>
+			<south> 45.739574598627 </south>
+			<east> 4.89105664611806 </east>
+			<west> 4.89068689919901 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.89105664611806,45.7399515025659,0 4.89094082732582,45.73973213182299,0 4.89091608575065,45.73973840161779,0 4.89089144970122,45.7396913454892,0 4.89085742460127,45.7396255311566,0 4.89082223630068,45.739574598627,0 4.89068689919901,45.739619473469,0 4.89072862256741,45.739699750834,0 4.8907626383224,45.7397652951369,0 4.89088193005972,45.7399959572052,0 4.89105664611806,45.7399515025659,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.4257">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69383000BX0019</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LYON 3EME</SimpleData>
+					<SimpleData name="Adresse">75, AV ROCKEFELLER</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR USID DE LYON CELLULE DOMAINE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.740112118459 </north>
+			<south> 45.739619473469 </south>
+			<east> 4.89088193005972 </east>
+			<west> 4.89024680035689 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.89088193005972,45.7399959572052,0 4.8907626383224,45.7397652951369,0 4.89072862256741,45.739699750834,0 4.89068689919901,45.739619473469,0 4.89024680035689,45.73976547743539,0 4.89042742956299,45.740112118459,0 4.89088193005972,45.7399959572052,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.4258">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69383000AZ0195</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LYON 3EME</SimpleData>
+					<SimpleData name="Adresse">9001, RUE JEANNE HACHETTE</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.75273255287189 </north>
+			<south> 45.75108495329041 </south>
+			<east> 4.86364372826053 </east>
+			<west> 4.86169215574346 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.86321781673141,45.75108495329041,0 4.86320578360639,45.75108677343099,0 4.86237252404704,45.7512387106852,0 4.86232291948648,45.75110685107251,0 4.86228316057044,45.75111444333379,0 4.86220437539267,45.75111700537579,0 4.86216444899647,45.7511119900209,0 4.86216401165305,45.7511104659871,0 4.8619242162246,45.7511229824065,0 4.86183776394464,45.7511271119611,0 4.86177226022536,45.75113053531241,0 4.86170172923028,45.7511336813233,0 4.8616955628175,45.7511339632693,0 4.86169372123006,45.75149564015071,0 4.86169220549518,45.7519472053579,0 4.86169215574346,45.75194954809919,0 4.86169730068633,45.7519647757191,0 4.8617032899826,45.75198215117229,0 4.86170928534757,45.7519997066728,0 4.86171489493034,45.7520172685417,0 4.86172063311205,45.75203482828741,0 4.86172598551116,45.75205239440159,0 4.86173146954163,45.7520700484164,0 4.86173681891506,45.7520875245064,0 4.8617420457614,45.7521051827665,0 4.8617471440155,45.7521228431495,0 4.86175211367723,45.7521405056551,0 4.86175708334213,45.7521581681605,0 4.86176192744707,45.7521759228125,0 4.86176676548998,45.7521934974167,0 4.86177122078118,45.7522111684135,0 4.86177580770365,45.7522289273108,0 4.86177924152557,45.7522430122167,0 4.86180235116349,45.752245332915,0 4.86179181462741,45.7522954077765,0 4.8617927408671,45.7522999862515,0 4.86179668179106,45.75231766573929,0 4.86180049715411,45.75233543737379,0 4.8618043125196,45.7523532090081,0 4.86180800232405,45.75237107278921,0 4.86181169213088,45.7523889365701,0 4.86181499311871,45.7524067166962,0 4.86181842573761,45.7524245847229,0 4.86182172672974,45.75244236484879,0 4.86182490216031,45.7524602371215,0 4.86182782343281,45.7524782036639,0 4.86183086723826,45.75249598803569,0 4.8618336568854,45.7525138666773,0 4.86183644956706,45.75253183534261,0 4.86183898202467,45.7525497182301,0 4.86184151448392,45.7525676011177,0 4.8618440469448,45.7525854840051,0 4.86184619361725,45.75260337326171,0 4.8618464902361,45.7526045393248,0 4.86211053206963,45.7526317056963,0 4.86212610906684,45.7525593894033,0 4.86235511173508,45.7525662366208,0 4.86241007894672,45.7527273717736,0 4.86244231549356,45.75272179526651,0 4.86244386354312,45.7527257329513,0 4.86267707137284,45.7526015426643,0 4.86270355418594,45.7526772176768,0 4.86272356145071,45.75273255287189,0 4.86285602566257,45.752669564995,0 4.86278702558488,45.752546402787,0 4.86364372826053,45.7523145401078,0 4.86330040941951,45.751798324955,0 4.86341365376986,45.7517606944799,0 4.86343253251022,45.75169859184479,0 4.86337482630369,45.7516509054513,0 4.86325150728384,45.7516530330868,0 4.86321781673141,45.75108495329041,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.4262">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69383000AZ0199</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LYON 3EME</SimpleData>
+					<SimpleData name="Adresse">128, AV FELIX FAURE</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7530300898393 </north>
+			<south> 45.7525593894033 </south>
+			<east> 4.86244386354312 </east>
+			<west> 4.8618464902361 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.86244386354312,45.7527257329513,0 4.86244231549356,45.75272179526651,0 4.86241007894672,45.7527273717736,0 4.86235511173508,45.7525662366208,0 4.86212610906684,45.7525593894033,0 4.86211053206963,45.7526317056963,0 4.8618464902361,45.7526045393248,0 4.86184847192054,45.752621350419,0 4.86185049303176,45.7526393318224,0 4.86185251111156,45.752657223202,0 4.8618544005958,45.7526751167047,0 4.86185616451711,45.7526931023541,0 4.86185792843956,45.7527110880036,0 4.86185956376617,45.7527290757761,0 4.86186094189979,45.7527470677948,0 4.86186232003431,45.7527650598134,0 4.86186356653984,45.7527829639314,0 4.86186481304619,45.7528008680493,0 4.86186580539171,45.7528188664372,0 4.86186679773789,45.7528368648251,0 4.86186766148743,45.7528548653361,0 4.86186839664021,45.7528728679702,0 4.86186887459874,45.7528908748504,0 4.86186947812221,45.7529087895838,0 4.8618699560814,45.7529267964641,0 4.86187004824844,45.7529448097136,0 4.86187124853044,45.7530300898393,0 4.86244386354312,45.7527257329513,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.4266">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69383000BX0002</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LYON 3EME</SimpleData>
+					<SimpleData name="Adresse">20, AV ESQUIROL</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR USID DE LYON CELLULE DOMAINE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7417319881453 </north>
+			<south> 45.7414224786889 </south>
+			<east> 4.88912114897582 </east>
+			<west> 4.88888330707807 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.88888330707807,45.7417180850478,0 4.88908035014012,45.7417319881453,0 4.88910161608215,45.7415863416218,0 4.88911719308109,45.7414699745597,0 4.88912114897582,45.7414389226398,0 4.88909189956056,45.7414224786889,0 4.88891818122252,45.74146619287271,0 4.88888330707807,45.7417180850478,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.4267">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69383000AZ0200</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LYON 3EME</SimpleData>
+					<SimpleData name="Adresse">128, AV FELIX FAURE</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7522954077765 </north>
+			<south> 45.7522430122167 </south>
+			<east> 4.86180235116349 </east>
+			<west> 4.86177924152557 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.86179181462741,45.7522954077765,0 4.86180235116349,45.752245332915,0 4.86177924152557,45.7522430122167,0 4.8617802660332,45.75224668833101,0 4.86178446414119,45.75226436357319,0 4.86178866528448,45.7522821288391,0 4.86179181462741,45.7522954077765,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.4268">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69383000AZ0201</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LYON 3EME</SimpleData>
+					<SimpleData name="Adresse">128, AV FELIX FAURE</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7519472053579 </north>
+			<south> 45.7511339632693 </south>
+			<east> 4.8616955628175 </east>
+			<west> 4.86128862566052 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.86169220549518,45.7519472053579,0 4.86169372123006,45.75149564015071,0 4.8616955628175,45.7511339632693,0 4.86128862566052,45.7511424819298,0 4.8613097806885,45.75117464942,0 4.86131507475497,45.7511828488335,0 4.86132566289261,45.7511992476599,0 4.86133599688138,45.751215740754,0 4.86134632784448,45.7512321438235,0 4.86135640162658,45.7512485511369,0 4.86136661007201,45.7512651363746,0 4.86137681852357,45.75128172161131,0 4.86138664120022,45.7512983132148,0 4.8613965955084,45.7513149927186,0 4.8614064181969,45.7513315843204,0 4.86141598673567,45.7513482701902,0 4.86142555528021,45.7513649560592,0 4.86143499523666,45.75138164405,0 4.86144443823082,45.75139842206381,0 4.86145362707483,45.7514152943459,0 4.86146268429844,45.751432078726,0 4.86147174455959,45.7514489531293,0 4.86148080482628,45.7514658275318,0 4.86148960184612,45.7514825261313,0 4.86149840796758,45.75149949480151,0 4.86150721409445,45.75151646347101,0 4.86151563444406,45.7515334385079,0 4.86152418339311,45.7515504114215,0 4.86153260678526,45.751567476481,0 4.86154090158828,45.7515845436625,0 4.86154893314329,45.7516014350413,0 4.86155710239424,45.7516185943682,0 4.86156501142912,45.7516356679162,0 4.86157292350112,45.75165283148741,0 4.8615807069835,45.7516699971809,0 4.86158836187614,45.7516871649965,0 4.86159588817892,45.7517043349345,0 4.86160341448638,45.751721504872,0 4.86161081523611,45.7517387669555,0 4.8616253595599,45.7517732953668,0 4.8616322489765,45.751790655964,0 4.86163913839743,45.7518080165608,0 4.86164615641758,45.7518253750343,0 4.86165278865734,45.751842739876,0 4.86165954646385,45.7518600125706,0 4.86166605314935,45.75187746955811,0 4.8616724282115,45.7518948386443,0 4.86167893490517,45.7519122956311,0 4.8616851874451,45.7519298468871,0 4.86169220549518,45.7519472053579,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.4270">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69383000AZ0203</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LYON 3EME</SimpleData>
+					<SimpleData name="Adresse">18, RUE JEANNE HACHETTE</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7512387106852 </north>
+			<south> 45.7509174788258 </south>
+			<east> 4.8632093997947 </east>
+			<west> 4.86114119018101 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.86128862566052,45.7511424819298,0 4.8616955628175,45.7511339632693,0 4.86170172923028,45.7511336813233,0 4.86177226022536,45.75113053531241,0 4.86183776394464,45.7511271119611,0 4.8619242162246,45.7511229824065,0 4.86216401165305,45.7511104659871,0 4.86216444899647,45.7511119900209,0 4.86220437539267,45.75111700537579,0 4.86228316057044,45.75111444333379,0 4.86232291948648,45.75110685107251,0 4.86237252404704,45.7512387106852,0 4.86320578360639,45.75108677343099,0 4.86320563376926,45.75108614538941,0 4.8632093997947,45.7509421451036,0 4.86114119018101,45.7509174788258,0 4.86128862566052,45.7511424819298,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.4273">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69383000BX0021</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LYON 3EME</SimpleData>
+					<SimpleData name="Adresse">71, AV ROCKEFELLER</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR USID DE LYON CELLULE DOMAINE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7405145711091 </north>
+			<south> 45.7398822820318 </south>
+			<east> 4.89025376446476 </east>
+			<west> 4.88935000975404 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.89016714916654,45.7401786336456,0 4.89013252703026,45.7401254395486,0 4.89003830323765,45.7399807380102,0 4.89003246401828,45.7399717383648,0 4.88997409039615,45.7398822820318,0 4.88935000975404,45.7400878430484,0 4.88936365957133,45.74010707041499,0 4.88941394546344,45.74018198043499,0 4.88943888484095,45.7402191235881,0 4.88945297888514,45.74024005491711,0 4.88962726769035,45.7404991608948,0 4.88963757119324,45.7405145711091,0 4.89025376446476,45.7403114827302,0 4.89016714916654,45.7401786336456,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.4278">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69383000AC0022</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LYON 3EME</SimpleData>
+					<SimpleData name="Adresse">147, RUE VENDOME</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SAS</SimpleData>
+					<SimpleData name="Denomination">STE IMMO CHAMPS ELYSEES DE GRENOBLE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7635202992845 </north>
+			<south> 45.7632941347057 </south>
+			<east> 4.84640485932612 </east>
+			<west> 4.84610456871318 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.84614683816678,45.7632941347057,0 4.84610456871318,45.7635042473715,0 4.84612494435252,45.76351706461989,0 4.84626269996875,45.763518683089,0 4.84640058421573,45.7635202992845,0 4.84640242760969,45.7634291147353,0 4.84640485932612,45.7633170235059,0 4.846318896126,45.76330942327769,0 4.84631128034402,45.7633087372749,0 4.84629346731273,45.7633071373016,0 4.84614683816678,45.7632941347057,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.4280">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69383000DR0223</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LYON 3EME</SimpleData>
+					<SimpleData name="Adresse">190, RUE PAUL BERT</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.75702714444779 </north>
+			<south> 45.7562267543817 </south>
+			<east> 4.86084356127445 </east>
+			<west> 4.86069784474542 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.86069784474542,45.75702558530771,0 4.86077971156329,45.7570263964206,0 4.86084356127445,45.75702714444779,0 4.86082675032499,45.756436177085,0 4.86082634612178,45.7563286355834,0 4.86082626149498,45.7562267634618,0 4.86081043396587,45.7562267543817,0 4.86080699238327,45.7562353681799,0 4.86079087824635,45.7562765275722,0 4.86077541317471,45.7563178564008,0 4.86076123716585,45.756359254033,0 4.86074874210166,45.75640089415159,0 4.86073869658865,45.7564426740026,0 4.86073249061251,45.7564761937869,0 4.86072782486766,45.7565095980857,0 4.86072432869478,45.75654334338379,0 4.86072160718465,45.756577165975,0 4.86071926542715,45.75661080215329,0 4.86071692972902,45.75664461837921,0 4.86071446542182,45.7566784367269,0 4.86071161226159,45.7567121714161,0 4.86070485669471,45.7568745959359,0 4.86069784474542,45.75702558530771,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.4301">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69383000AZ0280</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LYON 3EME</SimpleData>
+					<SimpleData name="Adresse">1, RUE GENERAL MOUTON DUVERNET</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">FRANCE DOMAINE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7507168380979 </north>
+			<south> 45.7499932799906 </south>
+			<east> 4.86118520349414 </east>
+			<west> 4.86066100692549 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.86116582773963,45.7507168380979,0 4.86117220937408,45.75051280563499,0 4.86117451449671,45.7504589935178,0 4.86117997195379,45.7502351600678,0 4.86117980477922,45.7501767049154,0 4.86118520349414,45.7500275436364,0 4.86118324233172,45.7499960501661,0 4.86097860736799,45.74999420305281,0 4.86085441735479,45.7499932799906,0 4.86084863986785,45.7499936455484,0 4.86084273379018,45.7499940132277,0 4.86083682468148,45.749994290883,0 4.86083104416339,45.74999456641599,0 4.86082514111642,45.7499950241182,0 4.86081936362911,45.7499953896745,0 4.86081359523443,45.7499960253018,0 4.86080782987051,45.7499967509527,0 4.8608027104907,45.7499975560177,0 4.86079760020337,45.7499986311539,0 4.86079274406633,45.7499996120224,0 4.86078763680947,45.7500007771819,0 4.86078266117394,45.7500020302432,0 4.86077768856903,45.75000337332809,0 4.86077284455457,45.7500047142909,0 4.86076813519222,45.7500062331793,0 4.86076138959416,45.7500084161832,0 4.86075478167869,45.7500108671363,0 4.86074804517192,45.75001332021071,0 4.86074157796914,45.75001612913649,0 4.86073511076571,45.7500189380618,0 4.86072903539535,45.750021920669,0 4.86072296608584,45.75002508332349,0 4.86071715698789,45.75002833175801,0 4.86071060665209,45.7500324931607,0 4.86070406237675,45.7500368346107,0 4.86069804155565,45.75004143764469,0 4.86069202679497,45.75004622072599,0 4.86068627527625,45.7500511796111,0 4.86068104418114,45.75005631005669,0 4.86067594167589,45.7500614383802,0 4.8606713595944,45.7500667382644,0 4.86066740834362,45.75007166744451,0 4.86066519675091,45.75007476644461,0 4.86066100692549,45.75008789627751,0 4.8606624811599,45.7501011128031,0 4.86068493732484,45.7501757737661,0 4.86069116986736,45.7501965680541,0 4.86074767904385,45.7503846105047,0 4.86077465824635,45.7504751398883,0 4.86083769420038,45.75068505262241,0 4.86084887050463,45.75069982045509,0 4.86086490604453,45.7507136974391,0 4.86086723586175,45.7507141093633,0 4.86093973162769,45.7507120123297,0 4.86101717627432,45.7507155082308,0 4.86116582773963,45.7507168380979,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.4312">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69383000BX0029</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LYON 3EME</SimpleData>
+					<SimpleData name="Adresse">104, BD PINEL</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR USID DE LYON CELLULE DOMAINE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7415235410614 </north>
+			<south> 45.7413972761275 </south>
+			<east> 4.89286676211334 </east>
+			<west> 4.89269818512156 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.89274960222598,45.7415235410614,0 4.89281806156699,45.7415053677158,0 4.89286676211334,45.741492480144,0 4.89284594333251,45.7414555387463,0 4.89281281660018,45.7413972761275,0 4.89269818512156,45.7414270335037,0 4.89272418007331,45.7414761381863,0 4.89274960222598,45.7415235410614,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.4330">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69383000BX0031</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LYON 3EME</SimpleData>
+					<SimpleData name="Adresse">106, BD PINEL</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR USID DE LYON CELLULE DOMAINE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7414270335037 </north>
+			<south> 45.74121259627369 </south>
+			<east> 4.89314966673672 </east>
+			<west> 4.89264799312996 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.89269818512156,45.7414270335037,0 4.89281281660018,45.7413972761275,0 4.89292732246877,45.7413676108161,0 4.89311269304899,45.74131865057599,0 4.89314966673672,45.7413089322367,0 4.89309876957551,45.74121259627369,0 4.89301407273499,45.7412374377141,0 4.89295257102865,45.7412521616135,0 4.89264799312996,45.7413324870032,0 4.89269818512156,45.7414270335037,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.4332">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69383000AK0032</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LYON 3EME</SimpleData>
+					<SimpleData name="Adresse">33, RUE MONCEY</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7580933926061 </north>
+			<south> 45.757587646073 </south>
+			<east> 4.84574318606531 </east>
+			<west> 4.84510092792762 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.84517492258859,45.7580557834779,0 4.84567841782571,45.7580933926061,0 4.84567900074221,45.7580915815981,0 4.8456822340345,45.758092069128,0 4.84568559293023,45.7580924645289,0 4.84568894581257,45.7580926798812,0 4.84569228967479,45.7580926251607,0 4.84569575914037,45.7580924783112,0 4.84569909698911,45.758092243542,0 4.84570242882435,45.7580918287242,0 4.8457054974259,45.7580912380672,0 4.84570868862398,45.7580904652569,0 4.84571187681522,45.7580896024222,0 4.84571493338952,45.758088651668,0 4.84571772673006,45.7580875250744,0 4.84572064567379,45.75808630635189,0 4.84572329837695,45.7580848217659,0 4.8457259480732,45.7580832471556,0 4.84572834054918,45.7580816767546,0 4.84573072701147,45.7580799263051,0 4.84573285324672,45.75807809004059,0 4.84573459064491,45.75807617006589,0 4.84573645364622,45.7580741579623,0 4.84573657624269,45.7580739758091,0 4.84573805642054,45.7580720600437,0 4.84573939896788,45.75806987631029,0 4.84574061290509,45.7580676946816,0 4.84574143800535,45.7580654293427,0 4.84574226310554,45.75806316400369,0 4.84574282797884,45.7580608128499,0 4.84574313563209,45.7580584659055,0 4.84574318606531,45.7580561231705,0 4.84574310788854,45.7580537825402,0 4.8457427724918,45.7580514461193,0 4.84574217987513,45.7580491139077,0 4.84574145864852,45.7580467838009,0 4.84574035459886,45.7580445500324,0 4.84573925054929,45.75804231626379,0 4.84573789228667,45.75804017672889,0 4.84573627680425,45.75803804140331,0 4.84573441011561,45.7580360903356,0 4.84573254643389,45.758034229292,0 4.84573042553241,45.75803237245779,0 4.8457281790279,45.7580306077525,0 4.84572994949929,45.7580296780446,0 4.84554302812968,45.7578578141994,0 4.84554871333914,45.75785465867389,0 4.84553769300539,45.75784448055619,0 4.84547118526004,45.75778341814079,0 4.84546016194845,45.7577731499913,0 4.84545433911402,45.757776037544,0 4.84526767367109,45.757604079012,0 4.84526526617271,45.7576051992819,0 4.84526352812428,45.75760324610221,0 4.84526153285806,45.7576012971308,0 4.845259414995,45.7575995303121,0 4.84525691130522,45.7575977698057,0 4.84525454524248,45.75759627726791,0 4.84525192196198,45.75759478893829,0 4.84524917608462,45.7575934827613,0 4.84524630460442,45.7575922687126,0 4.84524330752137,45.7575911467922,0 4.8452403194563,45.7575902949445,0 4.8452372027824,45.7575894452009,0 4.84523396351155,45.7575887776097,0 4.84523072724672,45.7575882000428,0 4.84522724278189,45.7575878967567,0 4.84522388993197,45.7575876813906,0 4.84522054309391,45.757587646073,0 4.8452173278707,45.7575876986754,0 4.84521399005038,45.7575879334304,0 4.84521091846562,45.7575884340498,0 4.84520950977919,45.7575886372432,0 4.84520758966293,45.7575889388773,0 4.84520439548091,45.7575896216491,0 4.8452012043047,45.7575903944452,0 4.84519815075499,45.7575914352098,0 4.84519522881999,45.7575925638945,0 4.8451924384997,45.75759378049931,0 4.84518965419102,45.75759517715261,0 4.84518713010598,45.7575966596219,0 4.84518460902666,45.7575982321154,0 4.84518247978579,45.7575999783453,0 4.84518035054479,45.7576017245751,0 4.84517835592433,45.7576036487493,0 4.84517649291856,45.7576056608436,0 4.84517501573958,45.7576076666258,0 4.84517367318116,45.7576098503525,0 4.84517245923163,45.7576120319751,0 4.84517150249999,45.7576142093896,0 4.84517068038895,45.7576165647485,0 4.84517011249001,45.7576188258751,0 4.84516993342389,45.7576211707139,0 4.84516975435775,45.7576235155526,0 4.84516717315996,45.7576232875606,0 4.84510092792762,45.7579901595125,0 4.84510350613651,45.7579902974817,0 4.84510319545073,45.75799255440009,0 4.84510288476492,45.7579948113185,0 4.84510270268897,45.7579970661329,0 4.84510265222865,45.7579994088677,0 4.84510285598237,45.7580016573702,0 4.8451030597361,45.7580039058727,0 4.84510326649561,45.75800624439951,0 4.8451037274692,45.7580084886941,0 4.84510431705274,45.7580107308847,0 4.8451052924661,45.7580129667634,0 4.84510613626385,45.75801511472191,0 4.8451071086716,45.7580172605763,0 4.84510820968936,45.7580194043268,0 4.84510943931715,45.75802154597329,0 4.84511092315917,45.75802359338751,0 4.84511240700129,45.7580256408018,0 4.8451140164477,45.75802759608781,0 4.84511575450419,45.7580295492698,0 4.84511748955502,45.7580314124275,0 4.8451196074301,45.7580331792489,0 4.84512172530531,45.75803494607041,0 4.84512265563299,45.758035831585,0 4.84512384318065,45.75803671289171,0 4.84512608365453,45.7580382975606,0 4.84512845273851,45.7580398801254,0 4.84513082182264,45.7580414626901,0 4.84513356771945,45.7580427688701,0 4.84513605940222,45.7580441692822,0 4.84513880229348,45.7580453854377,0 4.84514154518487,45.75804660159321,0 4.84514441368054,45.75804772562031,0 4.84514727917052,45.7580487596231,0 4.84515026725893,45.7580496114733,0 4.84515325534744,45.7580504633234,0 4.8451562404302,45.7580512251492,0 4.84515935412305,45.75805198487091,0 4.84516271601845,45.7580524703116,0 4.84516582069388,45.75805295996031,0 4.84516905397939,45.7580534475049,0 4.84517228125321,45.7580537550009,0 4.8451755055212,45.7580539724725,0 4.84517492258859,45.7580557834779,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.4373">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69383000EM0395</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LYON 3EME</SimpleData>
+					<SimpleData name="Adresse">53, BD VIVIER MERLE</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7587259877668 </north>
+			<south> 45.7581188063367 </south>
+			<east> 4.85935367976448 </east>
+			<west> 4.85872120955544 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.85935367976448,45.7585212706649,0 4.85935284845321,45.7581676545729,0 4.8588026379987,45.7581188063367,0 4.85872367532157,45.758521926885,0 4.85872311099575,45.7585242781038,0 4.85872280389107,45.7585266250836,0 4.85872237120372,45.7585290642068,0 4.85872206409898,45.7585314111866,0 4.8587218886328,45.7585338460709,0 4.85872158152801,45.7585361930507,0 4.85872140606179,45.7585386279349,0 4.85872135617822,45.7585409706758,0 4.85872130932261,45.7585434034405,0 4.85872125943903,45.7585457461814,0 4.85872120955544,45.7585480889222,0 4.85872128828251,45.7585504295435,0 4.85872137003754,45.7585528601888,0 4.85872158040325,45.7585552887146,0 4.85872178774101,45.7585576272164,0 4.85872199507879,45.75855996571829,0 4.85875298578911,45.7585631480158,0 4.8587445860906,45.758604179949,0 4.85873425786458,45.7586031791993,0 4.85874030129441,45.7586145189759,0 4.85874736452931,45.7586255717244,0 4.85874844186412,45.7586269951506,0 4.85875102316476,45.75862722283181,0 4.8591074592977,45.7586612508468,0 4.85909944427012,45.7587060595702,0 4.85931668712348,45.7587259877668,0 4.85933025551966,45.75865118296969,0 4.85935367976448,45.7585212706649,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.4379">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69383000BX0004</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LYON 3EME</SimpleData>
+					<SimpleData name="Adresse">108, BD PINEL</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR USID DE LYON CELLULE DOMAINE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7419656071416 </north>
+			<south> 45.739360788845 </south>
+			<east> 4.89307017437634 </east>
+			<west> 4.88877972637623 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.89307017437634,45.7411589415257,0 4.89279880211011,45.74064610880161,0 4.8927733803187,45.74059870594009,0 4.89274966402192,45.7406048688481,0 4.89272768457247,45.7405640737128,0 4.89270447899723,45.7405550955004,0 4.89268462448914,45.7405162463285,0 4.8926712780921,45.7404908891743,0 4.89264158733494,45.7404352710819,0 4.89262756423752,45.7404089344616,0 4.89260759051533,45.74037035750339,0 4.89261506764436,45.740352036918,0 4.89259533875681,45.74031309555,0 4.89261747823908,45.7403059683204,0 4.89259297521975,45.7402590904496,0 4.89209972846003,45.7399798507909,0 4.89208881096625,45.7399728280344,0 4.89207751702062,45.7399660818181,0 4.89206596286427,45.73995924989291,0 4.8920546689242,45.7399525036743,0 4.89204362595666,45.7399455730939,0 4.89203295944655,45.7399383659713,0 4.89202317749577,45.739930693631,0 4.89201415770046,45.73992273827641,0 4.89201229307186,45.7399208779997,0 4.89201042536223,45.7399189277001,0 4.89200868621875,45.73991697524291,0 4.8920069470754,45.73991502278581,0 4.89200520793218,45.7399130703286,0 4.89200347187021,45.7399112078943,0 4.89200160416122,45.7399092575945,0 4.89199986501836,45.73990730513729,0 4.89198322790635,45.7398797512656,0 4.89189059232401,45.7399056258484,0 4.89186339246356,45.7398551000271,0 4.89179372084998,45.73972503037021,0 4.89174865239154,45.7396410263656,0 4.89173779641,45.7396207615793,0 4.89161217196757,45.7394344332468,0 4.89156166977299,45.739360788845,0 4.8910538438499,45.739527388374,0 4.89121573886989,45.73983768206049,0 4.89124328149894,45.7398907243666,0 4.89124947659582,45.7399026003697,0 4.89105664611806,45.7399515025659,0 4.89088193005972,45.7399959572052,0 4.89042742956299,45.740112118459,0 4.89016714916654,45.7401786336456,0 4.89025376446476,45.7403114827302,0 4.88963757119324,45.7405145711091,0 4.88962726769035,45.7404991608948,0 4.88912276180265,45.7406278645209,0 4.88908437361667,45.7406376052346,0 4.88908679371979,45.7406481934813,0 4.88898721643957,45.7406592295697,0 4.88885572722307,45.7406737726409,0 4.88877972637623,45.7406820716385,0 4.88878379627478,45.7406920017318,0 4.88880252358315,45.74072429498879,0 4.88880571442158,45.7407310871992,0 4.88903941714379,45.7407073555436,0 4.88906552361549,45.7407673581571,0 4.88912493488696,45.7407516805915,0 4.88915828193444,45.7408165159693,0 4.88921157426233,45.7408024721497,0 4.88922266739516,45.7407995840399,0 4.88930872786938,45.7407769744787,0 4.88935615829549,45.7407645600819,0 4.88934655238831,45.7407469763637,0 4.88932884099106,45.74071430587009,0 4.88937828536944,45.7407005966722,0 4.88954664109227,45.740658142575,0 4.88990304583588,45.74056605785231,0 4.8899968574661,45.7406309603727,0 4.89031392844449,45.7408407430129,0 4.89039003260401,45.740891890463,0 4.89040476166796,45.7409012814913,0 4.89043531727402,45.7409596779517,0 4.89045898578912,45.7410047687683,0 4.89047895824134,45.7410433461086,0 4.89050261759158,45.7410881668473,0 4.89053539368432,45.7411513000061,0 4.8904354321654,45.7416777505015,0 4.89040707750535,45.7418266687952,0 4.89240736411352,45.7419656071416,0 4.89230958562454,45.74177746095031,0 4.89263211388703,45.7416953039437,0 4.89266832881973,45.7416859588025,0 4.89277647775916,45.7416584720797,0 4.89281524554839,45.7416485435877,0 4.89280598094195,45.7416296933678,0 4.89274960222598,45.7415235410614,0 4.89272418007331,45.7414761381863,0 4.89269818512156,45.7414270335037,0 4.89264799312996,45.7413324870032,0 4.89295257102865,45.7412521616135,0 4.89301407273499,45.7412374377141,0 4.89300115179655,45.7412132444195,0 4.8930256243258,45.7412066183924,0 4.89300432118912,45.7411668027682,0 4.89302841415656,45.741160363262,0 4.89303409459141,45.7411684646828,0 4.89307017437634,45.7411589415257,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.4427">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69383000BX0005</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LYON 3EME</SimpleData>
+					<SimpleData name="Adresse">50, AV ESQUIROL</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR USID DE LYON CELLULE DOMAINE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7420096707874 </north>
+			<south> 45.7416584720797 </south>
+			<east> 4.89300732803935 </east>
+			<west> 4.89230958562454 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.89240736411352,45.7419656071416,0 4.89294942092522,45.7420054186467,0 4.89300732803935,45.7420096707874,0 4.89298294017378,45.7419624307465,0 4.89297482425345,45.7419470741642,0 4.89293923303639,45.7418769630965,0 4.89289623053968,45.7417932850954,0 4.8928920774914,45.7417847076517,0 4.89286942995549,45.7417432031503,0 4.89286697080711,45.7417390109261,0 4.89282307556659,45.7417494758852,0 4.89280500909482,45.7417140195429,0 4.89277647775916,45.7416584720797,0 4.89266832881973,45.7416859588025,0 4.89263211388703,45.7416953039437,0 4.89230958562454,45.74177746095031,0 4.89240736411352,45.7419656071416,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.4442">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69383000DV0059</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LYON 3EME</SimpleData>
+					<SimpleData name="Adresse">333, RUE PAUL BERT</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7568770240751 </north>
+			<south> 45.7560836586322 </south>
+			<east> 4.87446075457092 </east>
+			<west> 4.87334480880959 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.87387370049267,45.7562151132468,0 4.8738923029132,45.7562665968291,0 4.87392171111706,45.75634834594611,0 4.87388448854568,45.7563549093043,0 4.87386083584323,45.75637079505449,0 4.87379331395188,45.7563831761739,0 4.87375877861495,45.7562868301146,0 4.87373744895958,45.756227014922,0 4.87372664944006,45.7561969294139,0 4.87368613608555,45.7560836586322,0 4.87353132307946,45.75609460739161,0 4.8734596961211,45.7560997604999,0 4.87334480880959,45.75610797406861,0 4.87337977490272,45.7562056641974,0 4.87338446440632,45.7562187371324,0 4.8733891478087,45.7562316300202,0 4.87346459653742,45.7564416907783,0 4.87346545972436,45.7564443786652,0 4.87350111199756,45.7565433184056,0 4.87352695975711,45.7566149483808,0 4.87353833776405,45.7566469158565,0 4.87354458239726,45.7566641063655,0 4.87356326116322,45.75666091369919,0 4.87364271324947,45.75664743378839,0 4.87380558271175,45.7566197773972,0 4.8738768436079,45.7566076043746,0 4.8738774160284,45.7566093062736,0 4.87390479457094,45.7566881166732,0 4.87390593941537,45.7566915204711,0 4.87393638884439,45.7566863306869,0 4.87403707952039,45.7566692549361,0 4.87411489850254,45.7568770240751,0 4.87446075457092,45.7568343460468,0 4.8743651006603,45.7565674245511,0 4.87418478478128,45.7565890664825,0 4.87417343388958,45.7565579092834,0 4.87414408015537,45.7564777806535,0 4.87410518188569,45.756370428062,0 4.87410553717165,45.75636952141619,0 4.87410576079971,45.7563685268839,0 4.87410598442776,45.7563675323516,0 4.8741062111087,45.7563666278428,0 4.87410630613176,45.75636563544761,0 4.87410666141766,45.7563647288018,0 4.87410714836143,45.75636391004241,0 4.87410813446055,45.7563626326175,0 4.87410913887705,45.7563618953335,0 4.87410976663735,45.7563614345309,0 4.87411077105382,45.7563606972469,0 4.87411190407522,45.7563599578257,0 4.87412724202973,45.7563569106526,0 4.87417912896773,45.7563464104848,0 4.87427856075058,45.7563263829782,0 4.87427131799202,45.75630632671971,0 4.8742615130474,45.7562790170297,0 4.87423480127234,45.7562046993431,0 4.87422016890116,45.7561640488167,0 4.87417894448416,45.75617022840651,0 4.8740254253711,45.7561927759119,0 4.87401262291535,45.7561947000511,0 4.87387370049267,45.7562151132468,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.4447">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69383000BX0006</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LYON 3EME</SimpleData>
+					<SimpleData name="Adresse">98, BD PINEL</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR USID DE LYON CELLULE DOMAINE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7420431423877 </north>
+			<south> 45.7415944442115 </south>
+			<east> 4.89351759482332 </east>
+			<west> 4.89277647775916 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.89277647775916,45.7416584720797,0 4.89280500909482,45.7417140195429,0 4.89282307556659,45.7417494758852,0 4.89286697080711,45.7417390109261,0 4.89286942995549,45.7417432031503,0 4.8928920774914,45.7417847076517,0 4.89289623053968,45.7417932850954,0 4.89293923303639,45.7418769630965,0 4.89297482425345,45.7419470741642,0 4.89298294017378,45.7419624307465,0 4.89300732803935,45.7420096707874,0 4.89347082391301,45.7420431423877,0 4.89351759482332,45.7420002020085,0 4.89330133904513,45.7415944442115,0 4.89309773634875,45.74164821459941,0 4.89303379228907,45.7416667626781,0 4.89295371617543,45.7416875631983,0 4.89291658896816,45.741696563449,0 4.89287896288151,45.7417060224355,0 4.89284989549643,45.7417137163852,0 4.89284479931383,45.7417038937281,0 4.89281524554839,45.7416485435877,0 4.89277647775916,45.7416584720797,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.4457">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69383000AZ0067</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LYON 3EME</SimpleData>
+					<SimpleData name="Adresse">18, RUE JEANNE HACHETTE</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT MINISTERE DE LA DEFENSE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7506942779438 </north>
+			<south> 45.7506112065374 </south>
+			<east> 4.86282861679136 </east>
+			<west> 4.86270577180368 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.86270650411838,45.7506612256235,0 4.86270577180368,45.7506929437207,0 4.86282676075109,45.7506942779438,0 4.86282861679136,45.7506119197671,0 4.86274637670105,45.7506112065374,0 4.86274579120651,45.7506434626533,0 4.86270692605099,45.75064320388069,0 4.86270650411838,45.7506612256235,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.4462">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69383000AY0076</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LYON 3EME</SimpleData>
+					<SimpleData name="Adresse">3, RUE RACHAIS</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">UNIVERSITE LUMIERE LYON 2</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7520519268252 </north>
+			<south> 45.7515470759537 </south>
+			<east> 4.8550081813805 </east>
+			<west> 4.85423811616793 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.85428076375098,45.7518132319272,0 4.85430911583449,45.7518529385907,0 4.85426875950137,45.75193097541521,0 4.85426163750361,45.7519449638591,0 4.85447436457223,45.7519960505679,0 4.85460566028538,45.7520283896515,0 4.8546590767093,45.75204048179459,0 4.85471350077454,45.7520519268252,0 4.85471358274319,45.7520467012049,0 4.85471535669661,45.75182734267089,0 4.85483348862722,45.7518278317568,0 4.85484836357065,45.75179182785779,0 4.8550081813805,45.7517922616365,0 4.85490648656203,45.75164513267521,0 4.85483873418905,45.7515470759537,0 4.85476165485391,45.751573654391,0 4.85471383197883,45.7515902038066,0 4.85463687507631,45.7516165999959,0 4.85458205493837,45.7516355162706,0 4.85453346340819,45.7516521683224,0 4.85446986681894,45.75167411122501,0 4.85437408907622,45.75170712187919,0 4.85423811616793,45.751753944105,0 4.85428076375098,45.7518132319272,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.4464">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69383000AZ0077</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LYON 3EME</SimpleData>
+					<SimpleData name="Adresse">9002, RUE JEANNE HACHETTE</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">FRANCE DOMAINE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.75073610200441 </north>
+			<south> 45.7499960501661 </south>
+			<east> 4.8625861165112 </east>
+			<west> 4.86116582773963 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.8625787248725,45.75028277408821,0 4.8625861165112,45.7500134212326,0 4.86118324233172,45.7499960501661,0 4.86118520349414,45.7500275436364,0 4.86117980477922,45.7501767049154,0 4.86117997195379,45.7502351600678,0 4.86117451449671,45.7504589935178,0 4.86117220937408,45.75051280563499,0 4.86116582773963,45.7507168380979,0 4.86256865532325,45.75073610200441,0 4.8625787248725,45.75028277408821,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.4466">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69383000AY0078</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LYON 3EME</SimpleData>
+					<SimpleData name="Adresse">3, RUE RACHAIS</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">UNIVERSITE LUMIERE LYON 2</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7520573596262 </north>
+			<south> 45.75182734267089 </south>
+			<east> 4.85483348862722 </east>
+			<west> 4.85471350077454 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.85483348862722,45.7518278317568,0 4.85471535669661,45.75182734267089,0 4.85471358274319,45.7520467012049,0 4.85471350077454,45.7520519268252,0 4.85473915909329,45.7520573596262,0 4.85483348862722,45.7518278317568,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.4478">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69383000AR0085</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LYON 3EME</SimpleData>
+					<SimpleData name="Adresse">165, RUE GARIBALDI</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7598835823806 </north>
+			<south> 45.7595691269824 </south>
+			<east> 4.85447848173399 </east>
+			<west> 4.85437721509281 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.85437721509281,45.75988017502939,0 4.85442198308769,45.7598835823806,0 4.85442437454335,45.7598704823767,0 4.85447848173399,45.75957316025,0 4.85443343561343,45.7595691269824,0 4.85437721509281,45.75988017502939,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.4489">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69383000AR0092</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LYON 3EME</SimpleData>
+					<SimpleData name="Adresse">165, RUE GARIBALDI</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7606966510636 </north>
+			<south> 45.75933117555749 </south>
+			<east> 4.85499697727903 </east>
+			<west> 4.85233331290128 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.85267754797743,45.75933136487389,0 4.85267510433611,45.7593314050133,0 4.85267150619862,45.7593315541901,0 4.85266791107926,45.7593317933908,0 4.85266547347419,45.75933201357811,0 4.85266085548942,45.7593324497274,0 4.85265943773154,45.75933238294169,0 4.85265354871025,45.7593332903368,0 4.85264765968877,45.7593341977316,0 4.8526417767033,45.7593352851743,0 4.8526358967357,45.7593364626407,0 4.85263015141673,45.7593378180423,0 4.85262454074637,45.7593393513793,0 4.85261906472455,45.7593410626515,0 4.85261359172045,45.7593428639476,0 4.85261066682625,45.7593439028005,0 4.85260838197757,45.7593448410666,0 4.8526031782704,45.75934699823329,0 4.85259797758085,45.759349245424,0 4.85259316574717,45.7593515763009,0 4.85258823435438,45.7593541793623,0 4.85258356018665,45.7593567781986,0 4.85257889205449,45.7593595570827,0 4.85257775868357,45.7593602962876,0 4.85257461579619,45.7593625096774,0 4.85257034255542,45.7593655522959,0 4.85256619490899,45.7593685027778,0 4.85256231354164,45.7593717191068,0 4.8525586954354,45.7593751112588,0 4.85255508034669,45.7593785934348,0 4.85255172248316,45.75938207138581,0 4.85254875649362,45.7593857230474,0 4.85254579352164,45.759389464733,0 4.85254308777496,45.7593932021937,0 4.85254051365872,45.7593970275659,0 4.8525381997858,45.75940093873729,0 4.85253627476912,45.7594049335953,0 4.85253434975216,45.7594089284533,0 4.85253268799658,45.7594130991346,0 4.85253128044863,45.75941717556681,0 4.85253013314423,45.75942133779829,0 4.85252924306552,45.7594254958049,0 4.85233331290128,45.760505904326,0 4.85240658950116,45.76053055203939,0 4.85427567006836,45.7606966510636,0 4.85427961194428,45.76066839319479,0 4.8542964389074,45.7605754307333,0 4.85442198308769,45.7598835823806,0 4.85437721509281,45.75988017502939,0 4.85443343561343,45.7595691269824,0 4.85447848173399,45.75957316025,0 4.85479444480657,45.7596012920206,0 4.85498043526759,45.7596178693656,0 4.85499697727903,45.7595356302373,0 4.8527016317526,45.7593319600797,0 4.85269556884646,45.7593315192287,0 4.85268964058948,45.7593312563129,0 4.8526835897562,45.75933117555749,0 4.8526824322419,45.7593311945709,0 4.85267754797743,45.75933136487389,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

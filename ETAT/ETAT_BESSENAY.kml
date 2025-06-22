@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>BESSENAY_ETAT</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_1">
+		<name>BESSENAY_ETAT</name>
+		<Schema name="BESSENAY_ETAT" id="BESSENAY_ETAT.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="ETAT">
+			<LineStyle>
+				<color>BF119ff7</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C119ff7</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.2593">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">690210000D0367</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">BESSENAY</SimpleData>
+					<SimpleData name="Adresse">LE RATON</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7732650439049 </north>
+			<south> 45.7716486606795 </south>
+			<east> 4.56883843041862 </east>
+			<west> 4.56863546996032 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.56863546996032,45.7716614481518,0 4.5686721840512,45.7721159545407,0 4.56871699880657,45.7725701681683,0 4.56873019676242,45.77269049388111,0 4.56880687334665,45.7732650439049,0 4.56882603785161,45.7732645972872,0 4.56883843041862,45.773247762628,0 4.56882711529876,45.7727948845276,0 4.56880428473304,45.7727931304577,0 4.56875139196108,45.7725893244843,0 4.5687914142855,45.7725846249115,0 4.56874233891415,45.772139026882,0 4.56871953554312,45.7716486606795,0 4.56863546996032,45.7716614481518,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.3970">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">690210000C0913</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">BESSENAY</SimpleData>
+					<SimpleData name="Adresse">LA BREVENNE</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.77729567421251 </north>
+			<south> 45.77704894239069 </south>
+			<east> 4.57164404763611 </east>
+			<west> 4.57104225283002 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.57124093717582,45.7770793639817,0 4.57104225283002,45.7771988571287,0 4.57124301516499,45.77723388960591,0 4.57164404763611,45.77729567421251,0 4.57158969145986,45.7772626562967,0 4.57148416517615,45.7771954952132,0 4.57138469978796,45.7771241966213,0 4.57129117175158,45.77704894239069,0 4.57128674277422,45.7770516160051,0 4.57124093717582,45.7770793639817,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>LIMAS_DEPT</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_3">
+		<name>LIMAS_DEPT</name>
+		<Schema name="LIMAS_DEPT" id="LIMAS_DEPT.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="DEPT">
+			<LineStyle>
+				<color>BF63f16c</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C63f16c</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.22">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69115000AM0132</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LIMAS</SimpleData>
+					<SimpleData name="Adresse">19, RUE DE L ECOSSAIS</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9789892728746 </north>
+			<south> 45.9788199056555 </south>
+			<east> 4.73055401519171 </east>
+			<west> 4.73023194327751 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.73025363502452,45.9788199056555,0 4.73023194327751,45.9788285236117,0 4.73029247708725,45.9789376652979,0 4.73033594976954,45.97893970316451,0 4.73033983352364,45.9789892728746,0 4.73055401519171,45.9789722190994,0 4.73038870851575,45.97894123883489,0 4.73033596324458,45.97891547389221,0 4.73028920862482,45.9788788989558,0 4.73025363502452,45.9788199056555,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.111">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69115000AB0340</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LIMAS</SimpleData>
+					<SimpleData name="Adresse">22, RUE DU FOREST</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.978301485207 </north>
+			<south> 45.9782472122491 </south>
+			<east> 4.70224605978024 </east>
+			<west> 4.70064811009386 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.70064811009386,45.978301485207,0 4.70219680873641,45.97826713753791,0 4.70224605978024,45.9782472122491,0 4.70223212212811,45.97824769197211,0 4.70189281493825,45.97825008984431,0 4.70129616610556,45.9782568035896,0 4.70100543107719,45.9782590995446,0 4.70076094951319,45.97826151071,0 4.70064811009386,45.978301485207,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1177">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69115000AM0135</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LIMAS</SimpleData>
+					<SimpleData name="Adresse">17, RUE DE L ECOSSAIS</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9788285236117 </north>
+			<south> 45.9787670532231 </south>
+			<east> 4.73025363502452 </east>
+			<west> 4.73020068482614 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.73025363502452,45.9788199056555,0 4.73022290544223,45.9787670532231,0 4.73020068482614,45.9787711757104,0 4.73023194327751,45.9788285236117,0 4.73025363502452,45.9788199056555,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1195">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69115000AM0136</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LIMAS</SimpleData>
+					<SimpleData name="Adresse">15, RUE DE L ECOSSAIS</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9787711757104 </north>
+			<south> 45.9786479966216 </south>
+			<east> 4.73022290544223 </east>
+			<west> 4.73013247122501 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.73016283545359,45.9786479966216,0 4.73013247122501,45.9786519733068,0 4.73020068482614,45.9787711757104,0 4.73022290544223,45.9787670532231,0 4.73016283545359,45.9786479966216,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1247">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69115000AM0139</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LIMAS</SimpleData>
+					<SimpleData name="Adresse">19, AV EDOUARD HERRIOT</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9786519733068 </north>
+			<south> 45.9785425945964 </south>
+			<east> 4.73016283545359 </east>
+			<west> 4.73007000214195 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.73010513278506,45.9785425945964,0 4.73007000214195,45.9785470043714,0 4.73013247122501,45.9786519733068,0 4.73016283545359,45.9786479966216,0 4.73010513278506,45.9785425945964,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2762">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69115000AI0244</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LIMAS</SimpleData>
+					<SimpleData name="Adresse">1460, RTE D ANSE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.96582112783511 </north>
+			<south> 45.96508461835121 </south>
+			<east> 4.71614123524405 </east>
+			<west> 4.71590301009409 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.7160225708325,45.96508461835121,0 4.71601802415848,45.965116932519,0 4.71594996092444,45.96516678239329,0 4.71593849905023,45.9651927162911,0 4.71592435415259,45.9652195915584,0 4.71591434601126,45.96524658426609,0 4.71590948219951,45.9652687252649,0 4.7159048653581,45.9652905022381,0 4.71590301009409,45.96531385862519,0 4.71590913087284,45.9653403366633,0 4.71591795718263,45.9653583070647,0 4.71592972188228,45.9653793853982,0 4.71594317332368,45.9653965651321,0 4.71595784561604,45.9654114745971,0 4.71597297819363,45.965424575673,0 4.71599202023068,45.96543878840791,0 4.71601716080542,45.965453899478,0 4.71611262023841,45.9657359945772,0 4.71611547721511,45.96575306467291,0 4.71614123524405,45.96582112783511,0 4.71610628355513,45.9656155762504,0 4.71607617331674,45.9654161661395,0 4.71604668339886,45.9652449386988,0 4.7160225708325,45.96508461835121,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2997">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69115000AB0265</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LIMAS</SimpleData>
+					<SimpleData name="Adresse">EN FOREST</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9801177017411 </north>
+			<south> 45.978140630498 </south>
+			<east> 4.70228419611863 </east>
+			<west> 4.69824885131039 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.69975955310284,45.97886659568019,0 4.69988333463841,45.97875836482839,0 4.69990746605413,45.9787365658952,0 4.69994280371286,45.9787053215092,0 4.7001136057992,45.97855513240469,0 4.70024019186046,45.97844154489841,0 4.70048989107233,45.9783570926908,0 4.70051060153081,45.9783500264269,0 4.70064811009386,45.978301485207,0 4.70076094951319,45.97826151071,0 4.70100543107719,45.9782590995446,0 4.70129616610556,45.9782568035896,0 4.70189281493825,45.97825008984431,0 4.70223212212811,45.97824769197211,0 4.70224605978024,45.9782472122491,0 4.70226284106905,45.9782467798481,0 4.70227806185024,45.9781791785455,0 4.70228419611863,45.9781435986795,0 4.70206157697304,45.9781469449936,0 4.70184424654117,45.97815003124721,0 4.70161777850683,45.9781542451633,0 4.70146774953047,45.9781571299892,0 4.70128772023317,45.97815073776,0 4.70122848989105,45.9781487453609,0 4.70109130822853,45.97814513176849,0 4.70094725211976,45.978140630498,0 4.70085545219389,45.9781423696442,0 4.70060006348988,45.97815133927399,0 4.70041344790113,45.9781575643167,0 4.70037454217704,45.9781527443108,0 4.70035720266793,45.9781518337622,0 4.70034357770224,45.9781582531868,0 4.70030145988335,45.9782041908731,0 4.70021547497351,45.97830636045471,0 4.700107521967,45.9784334489264,0 4.70003562323894,45.9785148708913,0 4.69998340245072,45.97856834587271,0 4.69993704217014,45.97861497759309,0 4.69985354342222,45.97869729413091,0 4.69978840114373,45.9787590692907,0 4.6996923777627,45.9788458069965,0 4.69962715854518,45.9789009180241,0 4.69956172945114,45.9789534201287,0 4.69939799408529,45.9790731486826,0 4.69929323966152,45.97914911857341,0 4.69905965483535,45.97932051414561,0 4.69888128377844,45.9794474869757,0 4.69872259540647,45.9795592126242,0 4.69860208367416,45.97964793795949,0 4.69843637525198,45.9797708471079,0 4.69830170654527,45.9798655489216,0 4.69827758375305,45.9798918508703,0 4.6982596343573,45.9799172496035,0 4.69825224749719,45.979937446009,0 4.69824885131039,45.9799613655117,0 4.69825007202689,45.97998836823029,0 4.69825884917982,45.9800174193112,0 4.69826960495584,45.9800394152524,0 4.69828634948592,45.98005870934891,0 4.69831879845784,45.9800845231811,0 4.69834561127957,45.98009934291071,0 4.69838868256298,45.9801177017411,0 4.69832501790476,45.9799427496644,0 4.69853684956019,45.97978636338521,0 4.69863785859835,45.9797103603388,0 4.69872333222908,45.979616576222,0 4.69889984779152,45.9794922435242,0 4.69915921414978,45.9793064105245,0 4.69925122688365,45.9792403595325,0 4.69943324951137,45.9791103589834,0 4.69967766792178,45.9789300632038,0 4.69975955310284,45.97886659568019,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3189">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69115000AL0281</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LIMAS</SimpleData>
+					<SimpleData name="Adresse">16, AV DE LA LIBERATION</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9778415992394 </north>
+			<south> 45.9777520594677 </south>
+			<east> 4.70807461608622 </east>
+			<west> 4.70795509571188 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.70807461608622,45.9778193406498,0 4.70805133261296,45.97778924807989,0 4.70798943729304,45.9777763108365,0 4.70795509571188,45.9777520594677,0 4.70797087165539,45.9777900113397,0 4.70799624315578,45.9778415992394,0 4.70807461608622,45.9778193406498,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3214">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69115000AL0283</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LIMAS</SimpleData>
+					<SimpleData name="Adresse">16, AV DE LA LIBERATION</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.97792519540519 </north>
+			<south> 45.9778193406498 </south>
+			<east> 4.70807461608622 </east>
+			<west> 4.70799624315578 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.70807461608622,45.9778193406498,0 4.70799624315578,45.9778415992394,0 4.70806717818381,45.97792519540519,0 4.708063723054,45.9778846258038,0 4.70805600699847,45.9778607834831,0 4.70806543369021,45.9778398350486,0 4.70807461608622,45.9778193406498,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3735">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69115000AB0336</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LIMAS</SimpleData>
+					<SimpleData name="Adresse">22, RUE DU FOREST</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.98042803526581 </north>
+			<south> 45.9782467798481 </south>
+			<east> 4.70226284106905 </east>
+			<west> 4.69995981037579 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.70048989107233,45.9783570926908,0 4.70024182206885,45.97844413245561,0 4.69995981037579,45.9787121817488,0 4.70026136138697,45.9788341129732,0 4.70070418439481,45.9788912330069,0 4.70058344092811,45.97936537413621,0 4.7004359070212,45.9793487649262,0 4.70021366265352,45.9804058323736,0 4.70036059695115,45.98042803526581,0 4.70043429401252,45.9804256677035,0 4.70062458035029,45.98042091881,0 4.7006267700791,45.9804207057859,0 4.70067706821781,45.980192072973,0 4.70090302399722,45.98021281819,0 4.70171958028648,45.9800597710727,0 4.70172525712163,45.9800469858728,0 4.70188869068229,45.9800638048406,0 4.70189082410452,45.9800534147086,0 4.70191527867745,45.9799543302793,0 4.70194090076884,45.9798345121567,0 4.70194485533624,45.9798161684779,0 4.70197617613327,45.97966338908451,0 4.7020113566277,45.9794892050375,0 4.70204565138827,45.97931980800801,0 4.70207181769724,45.97918836261339,0 4.70210608767528,45.9790265318268,0 4.70212835772589,45.9789153206984,0 4.70214014308208,45.9788577688479,0 4.7021732164112,45.97868649865219,0 4.70219542387657,45.97857745013109,0 4.70221866535564,45.9784642428327,0 4.70225418888567,45.9782928457038,0 4.70226284106905,45.9782467798481,0 4.70224605978024,45.9782472122491,0 4.70219680873641,45.97826713753791,0 4.70064811009386,45.978301485207,0 4.70051060153081,45.9783500264269,0 4.70048989107233,45.9783570926908,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3756">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69115000AB0339</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LIMAS</SimpleData>
+					<SimpleData name="Adresse">22, RUE DU FOREST</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9787121817488 </north>
+			<south> 45.9783570926908 </south>
+			<east> 4.70048989107233 </east>
+			<west> 4.69994280371286 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.69994280371286,45.9787053215092,0 4.69995981037579,45.9787121817488,0 4.70024182206885,45.97844413245561,0 4.70048989107233,45.9783570926908,0 4.70024019186046,45.97844154489841,0 4.7001136057992,45.97855513240469,0 4.69994280371286,45.9787053215092,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

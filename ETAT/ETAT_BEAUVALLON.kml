@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>BEAUVALLON_ETAT</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_1">
+		<name>BEAUVALLON_ETAT</name>
+		<Schema name="BEAUVALLON_ETAT" id="BEAUVALLON_ETAT.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="ETAT">
+			<LineStyle>
+				<color>BF119ff7</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C119ff7</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.3953">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">691790000D0903</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">BEAUVALLON</SimpleData>
+					<SimpleData name="Adresse">273, RUE CENTRALE</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SCI</SimpleData>
+					<SimpleData name="Denomination">SCI LA CHAPELLERIE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.5856199247532 </north>
+			<south> 45.5853039066251 </south>
+			<east> 4.69722910674395 </east>
+			<west> 4.69694786975563 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.69694786975563,45.5854572051464,0 4.6969617265594,45.5854614994385,0 4.69695625830752,45.5854923853602,0 4.69710420686191,45.5855400503079,0 4.69707405627916,45.58559013307111,0 4.69715898822082,45.5856199247532,0 4.69720209306779,45.5855320879047,0 4.69717398371944,45.58552314507651,0 4.69720759731186,45.5854772432285,0 4.69722347554984,45.58545538713751,0 4.69718873080287,45.585443392077,0 4.69722910674395,45.5853879309667,0 4.69716218164377,45.5853639021333,0 4.69711834617446,45.5853482613938,0 4.69708309692644,45.58533654412209,0 4.69709220448228,45.585323977219,0 4.69703155784211,45.5853039066251,0 4.6970236620834,45.5853183466702,0 4.69699462270043,45.5853712047612,0 4.69697676723387,45.58540389886801,0 4.69694786975563,45.5854572051464,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

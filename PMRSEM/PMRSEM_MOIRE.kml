@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>MOIRE_PMRSEM</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_6">
+		<name>MOIRE_PMRSEM</name>
+		<Schema name="MOIRE_PMRSEM" id="MOIRE_PMRSEM.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="PMRSEM">
+			<LineStyle>
+				<color>BF00faff</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C00faff</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.573">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">691340000U0529</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">MOIRE</SimpleData>
+					<SimpleData name="Adresse">LES GARENNES</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">AGRI SUD EST SA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.915767472895 </north>
+			<south> 45.9155470742786 </south>
+			<east> 4.5956765861398 </east>
+			<west> 4.59487169604348 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.59487169604348,45.915767472895,0 4.59538027981635,45.9157643539155,0 4.59564910261634,45.9157387656914,0 4.59567220033186,45.9157342967468,0 4.5956765861398,45.9155470742786,0 4.59547874586613,45.91556409570341,0 4.59534488404644,45.9155758011357,0 4.59500806122075,45.9155792001467,0 4.59493344448374,45.915578090666,0 4.5949089213286,45.91564031291761,0 4.59488829117267,45.9157032908813,0 4.59487180157991,45.9157666607982,0 4.59487169604348,45.915767472895,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.576">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">691340000U0530</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">MOIRE</SimpleData>
+					<SimpleData name="Adresse">LES GARENNES</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">AGRI SUD EST SA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9155792001467 </north>
+			<south> 45.9154045165061 </south>
+			<east> 4.59577736678778 </east>
+			<west> 4.59493344448374 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.59493344448374,45.915578090666,0 4.59500806122075,45.9155792001467,0 4.59534488404644,45.9155758011357,0 4.59547874586613,45.91556409570341,0 4.5956765861398,45.9155470742786,0 4.59569902829735,45.9155333376062,0 4.59571045458284,45.9155268716778,0 4.59572802392039,45.9155141944853,0 4.59574231645199,45.9154997621642,0 4.59577736678778,45.9154045165061,0 4.59569482624477,45.91541495791081,0 4.5956132719912,45.915428267507,0 4.59553257242221,45.9154443570854,0 4.59546822798902,45.9154593152401,0 4.59493344448374,45.915578090666,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

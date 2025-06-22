@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>LYON 1ER_DEPT</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_3">
+		<name>LYON 1ER_DEPT</name>
+		<Schema name="LYON 1ER_DEPT" id="LYON 1ER_DEPT.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="DEPT">
+			<LineStyle>
+				<color>BF63f16c</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C63f16c</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6865">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69381000AE0209</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LYON 1ER</SimpleData>
+					<SimpleData name="Adresse">80, BD DE LA CROIX-ROUSSE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7736604121537 </north>
+			<south> 45.772648502539 </south>
+			<east> 4.82534273620114 </east>
+			<west> 4.82378040847447 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.82512959989366,45.772648502539,0 4.8248812503019,45.7727089957756,0 4.82469791487743,45.7728361718031,0 4.82430479663466,45.7731082446006,0 4.82423007239353,45.77316070440439,0 4.82417898356505,45.7731961184969,0 4.82408586909263,45.773260765185,0 4.82397777539612,45.7733356520663,0 4.82392424111444,45.7733749787116,0 4.82390086269785,45.7733920201609,0 4.82378885177108,45.7734691319328,0 4.82378040847447,45.7735525858925,0 4.82393847942826,45.77356453221029,0 4.82421915147562,45.7735862054592,0 4.82421839957568,45.7735907212645,0 4.82435002377987,45.77360084281271,0 4.82435077566918,45.7735963270065,0 4.82487832589129,45.7736375152121,0 4.82487769971794,45.7736419389161,0 4.82500803769406,45.7736520805058,0 4.82500866088322,45.7736475667763,0 4.82517229691478,45.7736604121537,0 4.82526370626535,45.7736532587048,0 4.82527331849123,45.77359356495199,0 4.8252845540444,45.7735245674178,0 4.82529756610487,45.77344311106889,0 4.82531914173722,45.7733091837654,0 4.82532062155454,45.7732994319413,0 4.82534273620114,45.77316234335729,0 4.82534106184319,45.77289350261,0 4.82531005832444,45.77289400423191,0 4.82512959989366,45.772648502539,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6870">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69381000AK0037</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LYON 1ER</SimpleData>
+					<SimpleData name="Adresse">20, RUE NEYRET</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7712787402966 </north>
+			<south> 45.7709528242084 </south>
+			<east> 4.83153344579501 </east>
+			<west> 4.8310101662957 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.83130802272785,45.7709528242084,0 4.83117606666707,45.7709636132107,0 4.83117600699168,45.7709618127169,0 4.83104238750629,45.7709728987821,0 4.83104858320165,45.7710394523292,0 4.83104961128575,45.77105105507501,0 4.8310101662957,45.77105313646211,0 4.8310128177689,45.77117586308821,0 4.8310135264462,45.77121278156491,0 4.83101647379492,45.7712395755176,0 4.83105720533015,45.7712374732488,0 4.83106191947391,45.7712787402966,0 4.83125132824302,45.7712654876086,0 4.8312514867234,45.7712663857674,0 4.83134445591022,45.77125983250821,0 4.83134429742835,45.7712589343496,0 4.83153344579501,45.7712455953399,0 4.83152077142358,45.7710457486813,0 4.8313994780938,45.7710481681775,0 4.83138597081182,45.7710483874527,0 4.83130918419964,45.771049994257,0 4.83130661138388,45.7710500360218,0 4.83130680135109,45.7710324686784,0 4.83130802272785,45.7709528242084,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

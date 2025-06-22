@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>CHEVINAY_DEPT</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_3">
+		<name>CHEVINAY_DEPT</name>
+		<Schema name="CHEVINAY_DEPT" id="CHEVINAY_DEPT.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="DEPT">
+			<LineStyle>
+				<color>BF63f16c</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C63f16c</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.387">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69057000AD0101</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHEVINAY</SimpleData>
+					<SimpleData name="Adresse">CROIX DE CRECY</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7698234588299 </north>
+			<south> 45.7696499352765 </south>
+			<east> 4.59889050166727 </east>
+			<west> 4.59827475193223 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.59879022434993,45.7698234588299,0 4.59889050166727,45.76965072956219,0 4.59868597674752,45.7696499352765,0 4.59845047424934,45.76965048021171,0 4.59827475193223,45.7696532400433,0 4.59835833431494,45.7696997015117,0 4.59839866148207,45.7697190350364,0 4.59844235012333,45.7697344480235,0 4.5984446865871,45.7697351354577,0 4.59859652921504,45.7697744149285,0 4.5987336344582,45.76980696785931,0 4.5987854149449,45.76982181570749,0 4.59879022434993,45.7698234588299,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2808">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69057000AE0249</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHEVINAY</SimpleData>
+					<SimpleData name="Adresse">PLAINET</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.76835072587669 </north>
+			<south> 45.7682410498596 </south>
+			<east> 4.61124313584996 </east>
+			<west> 4.61075699673528 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.61075699673528,45.7683249164764,0 4.61076673672647,45.76833234308721,0 4.61079133875139,45.76835072587669,0 4.6110306610717,45.7682650767047,0 4.6110584609121,45.76826071672541,0 4.61110481671258,45.7682571725488,0 4.61115168969241,45.7682581243488,0 4.61119779606713,45.76826368052771,0 4.61124235874451,45.7682736720502,0 4.61124313584996,45.7682650144577,0 4.61123776176218,45.76825725532849,0 4.61123239292472,45.76825408957361,0 4.61115531007967,45.7682410498596,0 4.61108335714731,45.7682450496836,0 4.61099137274481,45.7682594230941,0 4.61075699673528,45.7683249164764,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2906">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69057000AE0256</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHEVINAY</SimpleData>
+					<SimpleData name="Adresse">LE BOUTAN</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7684839842853 </north>
+			<south> 45.7683745774456 </south>
+			<east> 4.61142142635628 </east>
+			<west> 4.6108797889271 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.6108797889271,45.7684402510792,0 4.61103391584569,45.7684296738635,0 4.61118856252039,45.7684236824629,0 4.61119743622708,45.76842346566049,0 4.61129086220429,45.7684629319455,0 4.61132403626438,45.7684839842853,0 4.61136580568204,45.7684555567745,0 4.61138769582664,45.76841624481251,0 4.61142142635628,45.7683990104259,0 4.61139288345773,45.76838671859349,0 4.61136162858845,45.7683785185347,0 4.61132856749027,45.7683745774456,0 4.61130347697642,45.76837475568199,0 4.61123829204458,45.7683813609639,0 4.6108797889271,45.7684402510792,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.4388">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69057000AD0422</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHEVINAY</SimpleData>
+					<SimpleData name="Adresse">CROIX DE CRECY</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.76987877244779 </north>
+			<south> 45.7696273589675 </south>
+			<east> 4.59775629239812 </east>
+			<west> 4.59710406989066 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.59775629239812,45.7696332935669,0 4.59761985869774,45.7696283806238,0 4.59755844001081,45.7696273589675,0 4.5974716856249,45.76964921286821,0 4.59710406989066,45.7697408823628,0 4.59716790069505,45.76987877244779,0 4.59729867749883,45.7698304461827,0 4.59749497797864,45.7697559730981,0 4.59752048072313,45.76974777611209,0 4.5975240515753,45.7697466447391,0 4.59755287047325,45.76973741004661,0 4.59765067767381,45.76970612262411,0 4.59775629239812,45.7696332935669,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

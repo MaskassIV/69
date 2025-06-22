@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>SAINT-CLEMENT-LES-PLACES_HLM</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_5">
+		<name>SAINT-CLEMENT-LES-PLACES_HLM</name>
+		<Schema name="SAINT-CLEMENT-LES-PLACES_HLM" id="SAINT-CLEMENT-LES-PLACES_HLM.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="HLM">
+			<LineStyle>
+				<color>BFe451f5</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4Ce451f5</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.1799">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69187000AD0205</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT-CLEMENT-LES-PLACES</SimpleData>
+					<SimpleData name="Adresse">108, CHE DU LAVOIR</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7530388050583 </north>
+			<south> 45.75270469012399 </south>
+			<east> 4.42462286285185 </east>
+			<west> 4.42425401849437 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.4244903016134,45.75270469012399,0 4.42441220311619,45.7527094591676,0 4.42433976816432,45.7527143367596,0 4.42429389319879,45.7527164471809,0 4.42426714820057,45.7527320056535,0 4.42425401849437,45.7527417181858,0 4.42427680449141,45.7528071767693,0 4.42429828918597,45.7528670678476,0 4.4243077852183,45.7528910849358,0 4.42432710181709,45.7529417268524,0 4.42435225405206,45.7530091369371,0 4.42435895182,45.7530294066953,0 4.42436356826938,45.7530388050583,0 4.4243794674987,45.7530367129318,0 4.4244387956605,45.7530224541276,0 4.42456750552838,45.75298966652001,0 4.42462286285185,45.7529760882173,0 4.42461966708445,45.7529718956009,0 4.42461065652661,45.7529517451342,0 4.42459437834888,45.7529191676425,0 4.42457875253351,45.7528869421626,0 4.42453554960274,45.7527980548224,0 4.42450373959158,45.7527318996933,0 4.4244903016134,45.75270469012399,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.1804">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69187000AD0206</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT-CLEMENT-LES-PLACES</SimpleData>
+					<SimpleData name="Adresse">160, CHE DU LAVOIR</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7533021760215 </north>
+			<south> 45.7530059217585 </south>
+			<east> 4.42485578367745 </east>
+			<west> 4.42437350256385 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.42463533936106,45.7530059217585,0 4.42452921523557,45.7530314892883,0 4.42441422602521,45.75305752893299,0 4.42437391956397,45.75306605362571,0 4.42437350256385,45.7530698415578,0 4.4243767748865,45.7530770053087,0 4.42437991527854,45.7530890341532,0 4.42439513995216,45.75311568079119,0 4.42441631099233,45.7531434231529,0 4.42444003574777,45.7531704127505,0 4.4244643929799,45.7531919905469,0 4.42448457527489,45.7532063259269,0 4.42451031810365,45.7532217618974,0 4.42452324338767,45.7532290739144,0 4.42456085112261,45.7532456209027,0 4.42459178126344,45.75325765898669,0 4.42461904063224,45.7532670415246,0 4.42463552765586,45.75327277746069,0 4.424666364026,45.7532861676612,0 4.42468668991656,45.7532960880819,0 4.42470382930473,45.7533021760215,0 4.42472371328328,45.7532999434483,0 4.42485578367745,45.7532926910951,0 4.42485375399697,45.7532439023298,0 4.42484626074423,45.7531279051676,0 4.42484463302057,45.7531046893531,0 4.42475668883337,45.7531118345989,0 4.42470840589759,45.7530854254812,0 4.42466680524759,45.75306370529901,0 4.42466119465474,45.7530556704576,0 4.42465541697289,45.7530411531563,0 4.42464050511554,45.75301666412431,0 4.42463533936106,45.7530059217585,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2753">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69187000AD0315</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT-CLEMENT-LES-PLACES</SimpleData>
+					<SimpleData name="Adresse">38, ALL DES SOURCES</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">IMMOBILIERE RHONE ALPES SA DHLM</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7516295491366 </north>
+			<south> 45.7511731711818 </south>
+			<east> 4.42366662497531 </east>
+			<west> 4.42284403516316 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.42284403516316,45.7513197608111,0 4.42286458950642,45.75134859198419,0 4.42295451329638,45.7514784096874,0 4.42302091681231,45.75157411986199,0 4.42306055324045,45.7516295491366,0 4.42314380024643,45.75159994859921,0 4.42323725707233,45.7515671570007,0 4.4233388891238,45.7515321006273,0 4.42340646531868,45.7515084617225,0 4.42351000773857,45.751472660574,0 4.42358764417512,45.7514450218513,0 4.42362699504294,45.75138445281689,0 4.42366662497531,45.7513197373267,0 4.42350726671024,45.75128131035149,0 4.42340775700049,45.7512588796214,0 4.42333205042077,45.7512415522101,0 4.42331455150034,45.7512364593079,0 4.42327677113231,45.7511731711818,0 4.42298507789177,45.7512714185352,0 4.42284403516316,45.7513197608111,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

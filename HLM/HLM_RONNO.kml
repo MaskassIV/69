@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>RONNO_HLM</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_5">
+		<name>RONNO_HLM</name>
+		<Schema name="RONNO_HLM" id="RONNO_HLM.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="HLM">
+			<LineStyle>
+				<color>BFe451f5</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4Ce451f5</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.4319">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">691690000D0592</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">RONNO</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.984926991113 </north>
+			<south> 45.98462837777419 </south>
+			<east> 4.38293138403575 </east>
+			<west> 4.38255896716918 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.38293138403575,45.9848603653908,0 4.38289263169149,45.9848349003999,0 4.3826498541512,45.98462837777419,0 4.38263053473207,45.98464104232231,0 4.38255896716918,45.9846875779396,0 4.38256319737871,45.98469139901249,0 4.38274756220596,45.9848561252157,0 4.38282983113629,45.984926991113,0 4.38291232680514,45.9848886076944,0 4.38293138403575,45.9848603653908,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.4320">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">691690000D0593</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">RONNO</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9848603653908 </north>
+			<south> 45.9845365052236 </south>
+			<east> 4.38304232127069 </east>
+			<west> 4.3826498541512 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.38279069347085,45.9845365052236,0 4.38274849270762,45.98456403936581,0 4.38266218087342,45.98462021167909,0 4.3826498541512,45.98462837777419,0 4.38289263169149,45.9848349003999,0 4.38293138403575,45.9848603653908,0 4.38304232127069,45.9846941953602,0 4.38297844486124,45.98467146889659,0 4.38292291133275,45.9846517026733,0 4.3829077237161,45.984638558784,0 4.38286294714888,45.9845995678195,0 4.38279069347085,45.9845365052236,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

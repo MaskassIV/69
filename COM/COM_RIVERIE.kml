@@ -1,0 +1,1678 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>RIVERIE_COM</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_4">
+		<name>RIVERIE_COM</name>
+		<Schema name="RIVERIE_COM" id="RIVERIE_COM.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="COM">
+			<LineStyle>
+				<color>BFe6c645</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4Ce6c645</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.305">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691660000U0176</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">RIVERIE</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE RIVERIE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.5994383470351 </north>
+			<south> 45.5992251959622 </south>
+			<east> 4.5882459428525 </east>
+			<west> 4.5878820105001 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.58820915991335,45.5992251959622,0 4.58811670930782,45.59925847484831,0 4.5878820105001,45.5993737406029,0 4.58798201326881,45.5994383470351,0 4.58817046074807,45.5992985157218,0 4.5882459428525,45.5992596221269,0 4.58820915991335,45.5992251959622,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.2132">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691660000U0277</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">RIVERIE</SimpleData>
+					<SimpleData name="Adresse">LES ROCHES</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">CCOM</SimpleData>
+					<SimpleData name="Denomination">COMMUNAUTE DE COMMUNE DU PAYS MORNANTAIS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.59719083900279 </north>
+			<south> 45.5957446575558 </south>
+			<east> 4.58876289770336 </east>
+			<west> 4.58684739929811 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.58735695845223,45.59719083900279,0 4.58747605491944,45.59710251458711,0 4.58754968212508,45.5967929094743,0 4.58778186130878,45.59663931178999,0 4.58787144166723,45.5966313821771,0 4.58808553050561,45.5966434903627,0 4.58810225647632,45.5966451455628,0 4.58818958370794,45.5966615653125,0 4.5884769198366,45.5964853012177,0 4.58841691637789,45.5964374230377,0 4.58842614661166,45.5964326993094,0 4.58876289770336,45.5962527643436,0 4.58872628540442,45.5962018539053,0 4.58833307317475,45.5958128291344,0 4.58832032146314,45.5958021112514,0 4.58825593358322,45.5957578975594,0 4.58823682320125,45.5957446575558,0 4.58783765851468,45.596092544443,0 4.58766863371097,45.5962427288819,0 4.58742510258049,45.59645683073591,0 4.58719365609889,45.5966584224643,0 4.58684739929811,45.59696367835479,0 4.58686689644641,45.5969724999111,0 4.58730027231667,45.597164709356,0 4.58735695845223,45.59719083900279,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.3360">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691660000U0106</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">RIVERIE</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE RIVERIE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.5999899535656 </north>
+			<south> 45.5999204884867 </south>
+			<east> 4.58862856253141 </east>
+			<west> 4.5883713859962 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.5883713859962,45.5999656789787,0 4.58847010614362,45.5999899535656,0 4.58851049376832,45.5999800162909,0 4.58862856253141,45.59997654734481,0 4.58861848757788,45.5999204884867,0 4.5884351359913,45.5999247893675,0 4.58843473909654,45.5999288479412,0 4.58840424709532,45.5999214428373,0 4.5883713859962,45.5999656789787,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.3503">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691660000U0107</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">RIVERIE</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE RIVERIE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.5999656789787 </north>
+			<south> 45.5997920793586 </south>
+			<east> 4.5884351359913 </east>
+			<west> 4.58828189225917 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.5884351359913,45.5999247893675,0 4.5884303055519,45.59980101688989,0 4.5883361310221,45.5997920793586,0 4.58828189225917,45.59990966086291,0 4.5883713859962,45.5999656789787,0 4.58840424709532,45.5999214428373,0 4.58843473909654,45.5999288479412,0 4.5884351359913,45.5999247893675,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.7682">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691660000U0014</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">RIVERIE</SimpleData>
+					<SimpleData name="Adresse">LE VERSIEU</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE RIVERIE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.5986601545317 </north>
+			<south> 45.5979216208495 </south>
+			<east> 4.585131179012 </east>
+			<west> 4.58414475615615 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.58512814948857,45.59804691765379,0 4.58502718802214,45.5979575541736,0 4.58493750554283,45.5979216208495,0 4.58471979755447,45.59797602621071,0 4.58450276641211,45.598031682531,0 4.58438166221813,45.59806347063991,0 4.58433994730634,45.59808081053701,0 4.58430933333515,45.59809601259341,0 4.5842802917799,45.5981123633475,0 4.5842523096475,45.5981298700266,0 4.58425016803007,45.59813125118169,0 4.58423092692261,45.59814485196101,0 4.58421312484341,45.5981594231912,0 4.58419714396415,45.598174869424,0 4.58418793923154,45.5981849963886,0 4.58417567239301,45.5982002101716,0 4.58416547553475,45.5982160252575,0 4.58415695876642,45.598232267007,0 4.58415064022963,45.5982491082538,0 4.58414830170849,45.5982570669874,0 4.58414550165807,45.5982668335387,0 4.58414475615615,45.5982766612169,0 4.58414478446208,45.5982776515425,0 4.58414836072843,45.5983129970487,0 4.58415410568704,45.5983344418672,0 4.58416189748262,45.5983556777234,0 4.58417172582419,45.5983763444983,0 4.58417321890652,45.5983792055747,0 4.5841862152945,45.5984029800298,0 4.5842008634886,45.59842619082149,0 4.58421741998827,45.5984488343363,0 4.58423601047088,45.5984708187371,0 4.58424104863098,45.59847651198389,0 4.58427315502628,45.5985090238287,0 4.58430690553595,45.59854070191211,0 4.58431190767997,45.5985451347413,0 4.58435406649319,45.5985792162098,0 4.58439786428832,45.5986122838499,0 4.58441620267237,45.59862544532051,0 4.58447133796336,45.5986601545317,0 4.58508431677375,45.5980933789545,0 4.585131179012,45.5980496669974,0 4.58512814948857,45.59804691765379,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.7955">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691660000U0141</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">RIVERIE</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE RIVERIE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6009965358288 </north>
+			<south> 45.599325971135 </south>
+			<east> 4.58768563314554 </east>
+			<west> 4.58688257534087 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.58718215933508,45.5994109991323,0 4.58711919186972,45.5993851381313,0 4.58711117069921,45.5993828195413,0 4.58693276073223,45.59933111732491,0 4.58688257534087,45.599325971135,0 4.58704646672086,45.5995696286582,0 4.58705124361055,45.5995751453401,0 4.58706064208607,45.5995941967624,0 4.58717268724005,45.5998866809195,0 4.58730651815833,45.6002274931391,0 4.58742854616656,45.60048317936999,0 4.58744645395947,45.60055741115631,0 4.58750697544462,45.6008158568013,0 4.58757668910524,45.6009965358288,0 4.58768563314554,45.6009745530468,0 4.58768008959643,45.6009557174493,0 4.58766151827902,45.6008896910591,0 4.58762977164335,45.6007175728221,0 4.58760233772786,45.6005661088744,0 4.58755119494455,45.60058133138391,0 4.58754252181404,45.6005607386366,0 4.58753927798622,45.6005505169048,0 4.58753793217538,45.6005393677233,0 4.58753851532702,45.6005283714465,0 4.58753893292276,45.6005250331122,0 4.58754297684795,45.6005004780947,0 4.58754108380721,45.6004836624827,0 4.58753727470221,45.60046714411361,0 4.58753155469232,45.6004511030463,0 4.58752565812356,45.6004378565152,0 4.58735885203463,45.6001687520781,0 4.58731594912789,45.6000505606019,0 4.58725498576854,45.5998796652232,0 4.58718779802613,45.5994510889635,0 4.58718215933508,45.5994109991323,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.10253">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691660000U0166</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">RIVERIE</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE RIVERIE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.5997730352865 </north>
+			<south> 45.59966226589269 </south>
+			<east> 4.58853445540333 </east>
+			<west> 4.58842333127356 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.5884323293083,45.59975523479989,0 4.58843463573337,45.5997730352865,0 4.58853445540333,45.5997640599428,0 4.58850395249173,45.59966226589269,0 4.58842333127356,45.59966511578671,0 4.5884323293083,45.59975523479989,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.10559">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691660000U0017</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">RIVERIE</SimpleData>
+					<SimpleData name="Adresse">LE VERSIEU</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE RIVERIE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.5976442550424 </north>
+			<south> 45.59719032441329 </south>
+			<east> 4.58676256603914 </east>
+			<west> 4.58606552034231 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.58676256603914,45.5974511410821,0 4.58653173276662,45.59719032441329,0 4.58606552034231,45.5974197232018,0 4.58629976872769,45.5976205988284,0 4.58632751682925,45.5976442550424,0 4.58676256603914,45.5974511410821,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.11035">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691660000U0174</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">RIVERIE</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE RIVERIE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.5996721325314 </north>
+			<south> 45.59937260344789 </south>
+			<east> 4.58857958582344 </east>
+			<west> 4.58789680649784 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.58789680649784,45.5995722171861,0 4.58797849626931,45.5996111431815,0 4.58804974067745,45.59963031202961,0 4.5882070843528,45.5996721325314,0 4.58836859106726,45.59966669946179,0 4.58842333127356,45.59966511578671,0 4.58850395249173,45.59966226589269,0 4.58857958582344,45.5996510201911,0 4.58846057924779,45.5995053531104,0 4.58839836706093,45.5994297657395,0 4.58837427362127,45.5994441562935,0 4.5882750977303,45.59937260344789,0 4.58809770824725,45.5995132695235,0 4.58804632523603,45.59947976998519,0 4.58789680649784,45.5995722171861,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.11092">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691660000U0175</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">RIVERIE</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE RIVERIE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.5995132695235 </north>
+			<south> 45.5992985157218 </south>
+			<east> 4.5882750977303 </east>
+			<west> 4.58798201326881 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.58804632523603,45.59947976998519,0 4.58809770824725,45.5995132695235,0 4.5882750977303,45.59937260344789,0 4.58817046074807,45.5992985157218,0 4.58798201326881,45.5994383470351,0 4.58804632523603,45.59947976998519,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.11312">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691660000U0178</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">RIVERIE</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE RIVERIE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.5995722171861 </north>
+			<south> 45.5993161872878 </south>
+			<east> 4.58804632523603 </east>
+			<west> 4.5875695561862 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.5875695561862,45.5994172400903,0 4.58788379564219,45.5995659161286,0 4.58789680649784,45.5995722171861,0 4.58804632523603,45.59947976998519,0 4.58798201326881,45.5994383470351,0 4.5878820105001,45.5993737406029,0 4.5878246782131,45.5993161872878,0 4.58757154115183,45.59941487035721,0 4.5875695561862,45.5994172400903,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.12104">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691660000U0188</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">RIVERIE</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE RIVERIE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.5991506344793 </north>
+			<south> 45.5989928653902 </south>
+			<east> 4.58845127633777 </east>
+			<west> 4.58806403013764 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.58808979996055,45.5990716077089,0 4.58806403013764,45.5990767450752,0 4.58808372426454,45.59912375161601,0 4.58813763436635,45.59911560497951,0 4.58814913895986,45.5991499377859,0 4.5881508268536,45.5991506344793,0 4.58816244862357,45.5991487591182,0 4.58845127633777,45.5991001876895,0 4.58840406455462,45.5989928653902,0 4.58831973946216,45.599005224458,0 4.58811099146745,45.5990365430236,0 4.58812093048993,45.5990654939817,0 4.58808979996055,45.5990716077089,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.12887">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691660000U0198</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">RIVERIE</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE RIVERIE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.5986828745488 </north>
+			<south> 45.5983636418635 </south>
+			<east> 4.58915318772104 </east>
+			<west> 4.58878599776947 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.58915318772104,45.5986561541691,0 4.58903059988006,45.5985466547689,0 4.58900690509645,45.5985212306765,0 4.58890658665334,45.5984097953285,0 4.58885201879796,45.5983636418635,0 4.58878599776947,45.5984013214416,0 4.58891048531017,45.5985099836636,0 4.58909788623043,45.5986828745488,0 4.58915318772104,45.5986561541691,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.14483">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691660000U0022</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">RIVERIE</SimpleData>
+					<SimpleData name="Adresse">LE VERSIEU</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE RIVERIE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.5981847834134 </north>
+			<south> 45.5976315946895 </south>
+			<east> 4.58469625695922 </east>
+			<west> 4.58326825806886 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.5844925989166,45.5977972042257,0 4.58418418148185,45.5976315946895,0 4.5841270707994,45.59763546136279,0 4.58362814766127,45.5977532687027,0 4.58360265768371,45.597759211701,0 4.58356018539979,45.59776800571839,0 4.58351741802428,45.5977754528869,0 4.5833580330728,45.5978549733659,0 4.58329311873169,45.59788209639181,0 4.58326825806886,45.5979010899986,0 4.5832836656637,45.5980003057686,0 4.58337433939378,45.5980305522957,0 4.58342847816989,45.59812922276819,0 4.58370424242349,45.5981847834134,0 4.58407261360676,45.59807782122741,0 4.58412738099272,45.598108662945,0 4.58414125627914,45.59809585828981,0 4.58415819921958,45.59808265016009,0 4.58417670943474,45.5980704106761,0 4.58418464495491,45.59806525521161,0 4.5842077412059,45.5980518703346,0 4.58423202255813,45.5980395495494,0 4.58425749158565,45.59802838288491,0 4.58428857520251,45.5980161463998,0 4.58432287787026,45.5980043148885,0 4.58435772954516,45.5979937365546,0 4.58469625695922,45.5979065568655,0 4.5844925989166,45.5977972042257,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.14975">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691660000U0227</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">RIVERIE</SimpleData>
+					<SimpleData name="Adresse">LE CHATEL</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE RIVERIE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.59868598937481 </north>
+			<south> 45.5985083618646 </south>
+			<east> 4.58734205485895 </east>
+			<west> 4.58715165425204 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.58724573580967,45.5985083618646,0 4.58715165425204,45.5986101130812,0 4.58716167909688,45.598651041671,0 4.58718705712436,45.59868598937481,0 4.58725452268719,45.59867630087021,0 4.58734205485895,45.5986370576882,0 4.58724573580967,45.5985083618646,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.15030">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691660000U0228</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">RIVERIE</SimpleData>
+					<SimpleData name="Adresse">LE CHATEL</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE RIVERIE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.5988474085423 </north>
+			<south> 45.5986329736181 </south>
+			<east> 4.58763287597527 </east>
+			<west> 4.58715100682178 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.58725452268719,45.59867630087021,0 4.58718705712436,45.59868598937481,0 4.58715100682178,45.5986905510857,0 4.58726853242813,45.5988474085423,0 4.58752345054732,45.5987348308381,0 4.58763287597527,45.5987029340022,0 4.58758673634677,45.5986329736181,0 4.58725452268719,45.59867630087021,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.15088">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691660000U0229</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">RIVERIE</SimpleData>
+					<SimpleData name="Adresse">LE CHATEL</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE RIVERIE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.5989132019103 </north>
+			<south> 45.5986194762952 </south>
+			<east> 4.58726853242813 </east>
+			<west> 4.58694766714039 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.58699777720636,45.5987653965404,0 4.58701979236607,45.5988352472445,0 4.58709939050489,45.5989132019103,0 4.58726853242813,45.5988474085423,0 4.58715100682178,45.5986905510857,0 4.58718705712436,45.59868598937481,0 4.58716167909688,45.598651041671,0 4.58713647520593,45.598649055632,0 4.58694766714039,45.5986194762952,0 4.58694868862105,45.59862378504599,0 4.58699777720636,45.5987653965404,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.15822">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691660000U0240</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">RIVERIE</SimpleData>
+					<SimpleData name="Adresse">LA GD COMBE</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE RIVERIE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.59865589694879 </north>
+			<south> 45.5972874256051 </south>
+			<east> 4.59076051347041 </east>
+			<west> 4.58955994613214 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.59076051347041,45.597296131661,0 4.59074542178204,45.5972977861782,0 4.59071469441173,45.5973000221089,0 4.59068366920538,45.5973008211877,0 4.59065260524128,45.59730026981641,0 4.59063988562918,45.5972996391204,0 4.5906047840298,45.5972969832575,0 4.59056990017101,45.5972929733144,0 4.59053548538014,45.5972874256051,0 4.5898900690289,45.5977409369836,0 4.58956733026511,45.5979220282211,0 4.58955994613214,45.59792402397061,0 4.58958857112815,45.59795135971379,0 4.58964638068443,45.5980479039484,0 4.58981971873828,45.59841931768791,0 4.58983964474284,45.59845200016709,0 4.58983977815662,45.59845217841309,0 4.5898553927401,45.5984732132578,0 4.58987265390957,45.5984935042964,0 4.58989168733242,45.5985129596855,0 4.59006989242922,45.59865589694879,0 4.59012672466496,45.5986288842441,0 4.59029820311569,45.5985463009498,0 4.59046849064718,45.59846247330491,0 4.59045457148577,45.5984424052925,0 4.59043455304232,45.59841098514829,0 4.59041656593064,45.598378815748,0 4.59040036656815,45.5983463508668,0 4.59039871908256,45.598342591392,0 4.59038780726445,45.5983155457643,0 4.59037893451342,45.59828802097201,0 4.59037211116018,45.59826037713331,0 4.59036879535318,45.5982387181169,0 4.59036489662814,45.5982012157289,0 4.59036291904574,45.5981635961088,0 4.59036312426473,45.59812603568869,0 4.59036512753705,45.59808853990909,0 4.59036931101906,45.59805101329991,0 4.59037554904199,45.5980135477039,0 4.59038372368763,45.597976505052,0 4.59039804294727,45.5979345119454,0 4.59043888205516,45.5978464803565,0 4.59059535297803,45.59753164847681,0 4.59064467780285,45.5974263842573,0 4.59076051347041,45.597296131661,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.15870">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691660000U0241</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">RIVERIE</SimpleData>
+					<SimpleData name="Adresse">LA GD COMBE</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE RIVERIE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.5989167214718 </north>
+			<south> 45.59792402397061 </south>
+			<east> 4.59027001984681 </east>
+			<west> 4.58909660544606 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.59006989242922,45.59865589694879,0 4.58989168733242,45.5985129596855,0 4.58987265390957,45.5984935042964,0 4.5898553927401,45.5984732132578,0 4.58983977815662,45.59845217841309,0 4.58983964474284,45.59845200016709,0 4.58981971873828,45.59841931768791,0 4.58964638068443,45.5980479039484,0 4.58958857112815,45.59795135971379,0 4.58955994613214,45.59792402397061,0 4.58949448822311,45.5979365676128,0 4.58949187764645,45.5979394866189,0 4.5891395473825,45.59820727799939,0 4.58909660544606,45.5982399482313,0 4.58921458146272,45.5982825937025,0 4.58973539358908,45.5986910678568,0 4.58980367314964,45.5987410800582,0 4.59004218900532,45.5989066720632,0 4.59005761692962,45.5989167214718,0 4.59006369284986,45.5989138435263,0 4.59027001984681,45.5988160868427,0 4.59006989242922,45.59865589694879,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.15920">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691660000U0242</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">RIVERIE</SimpleData>
+					<SimpleData name="Adresse">LA GD COMBE</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE RIVERIE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.5996460913438 </north>
+			<south> 45.5983171735065 </south>
+			<east> 4.59018716200187 </east>
+			<west> 4.58901176205003 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.58901176205003,45.5984579357491,0 4.58909839454331,45.5985439856471,0 4.58942826521454,45.59884852082221,0 4.58960877777621,45.5991211212238,0 4.58957959250397,45.59928004984391,0 4.58951406827362,45.5993708617525,0 4.58947322927227,45.5994187235531,0 4.58965270491821,45.5994895907709,0 4.59008200664931,45.5996460913438,0 4.59015984654382,45.5994479264314,0 4.59018709591273,45.59935126061139,0 4.59018716200187,45.5992462427241,0 4.59010171858541,45.5990273294676,0 4.59001665020404,45.5989243257869,0 4.58995523210621,45.59888988819111,0 4.58991861105911,45.5988611344437,0 4.58967240079163,45.598668811279,0 4.58942467390182,45.59847722956421,0 4.5892213465211,45.5983171735065,0 4.58901176205003,45.5984579357491,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.16260">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691660000U0025</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">RIVERIE</SimpleData>
+					<SimpleData name="Adresse">LE VERSIEU</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE RIVERIE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.5999895212618 </north>
+			<south> 45.59931409961321 </south>
+			<east> 4.58598778125304 </east>
+			<west> 4.58535020924915 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.58535020924915,45.599562028276,0 4.58570734595569,45.59977072000149,0 4.58580748120693,45.5998848627221,0 4.58586587133551,45.5999839225135,0 4.58588399412354,45.5999895212618,0 4.58592789252623,45.59988703773299,0 4.58594795809859,45.5998394701917,0 4.58594916848373,45.5998369312789,0 4.58595915387586,45.5998137336034,0 4.58596720259881,45.5997901129066,0 4.58597306587997,45.5997663428947,0 4.5859762421472,45.5997517974949,0 4.58598310913184,45.5997137829161,0 4.58598636614247,45.5996886086007,0 4.58598778125304,45.5996618390722,0 4.58598770138699,45.59965904815541,0 4.58598589160778,45.59962719034559,0 4.58598190155507,45.5995953632806,0 4.5859574561063,45.5995078036692,0 4.58594110098097,45.5994832661701,0 4.58568776902142,45.5993600253252,0 4.58563585764693,45.5993349082862,0 4.58559138282585,45.59931409961321,0 4.58535020924915,45.599562028276,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.17114">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691660000U0264</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">RIVERIE</SimpleData>
+					<SimpleData name="Adresse">LES ROCHES</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">CCOM</SimpleData>
+					<SimpleData name="Denomination">COMMUNAUTE DE COMMUNE DU PAYS MORNANTAIS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.59748500247241 </north>
+			<south> 45.5964853012177 </south>
+			<east> 4.58874290163427 </east>
+			<west> 4.58735598663212 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.58735695845223,45.59719083900279,0 4.58735598663212,45.5971927441034,0 4.58736851292676,45.5972045460716,0 4.58766265074351,45.59748500247241,0 4.58781874508593,45.5973714773324,0 4.58823568894481,45.5970706241372,0 4.58869828054206,45.5967376915108,0 4.58874290163427,45.5967054480318,0 4.58868259578185,45.59664703654281,0 4.58857114605942,45.5965589051601,0 4.5884769198366,45.5964853012177,0 4.58818958370794,45.5966615653125,0 4.58810225647632,45.5966451455628,0 4.58808553050561,45.5966434903627,0 4.58787144166723,45.5966313821771,0 4.58778186130878,45.59663931178999,0 4.58754968212508,45.5967929094743,0 4.58747605491944,45.59710251458711,0 4.58735695845223,45.59719083900279,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.17724">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691660000U0276</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">RIVERIE</SimpleData>
+					<SimpleData name="Adresse">LES ROCHES</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">CCOM</SimpleData>
+					<SimpleData name="Denomination">COMMUNAUTE DE COMMUNE DU PAYS MORNANTAIS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.5962018539053 </north>
+			<south> 45.595415110837 </south>
+			<east> 4.58905608178076 </east>
+			<west> 4.58823682320125 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.58872628540442,45.5962018539053,0 4.58881826720378,45.59618821544869,0 4.58901108978973,45.5961611734025,0 4.58905608178076,45.5961553138727,0 4.58902303531383,45.5960095137094,0 4.58897009510185,45.595930553346,0 4.5888558330974,45.5957577099553,0 4.58867650282175,45.5955034653937,0 4.58862792950316,45.59544254645009,0 4.58860635957248,45.595415110837,0 4.58844531936036,45.5955572579022,0 4.58828584045017,45.5957001932706,0 4.58823682320125,45.5957446575558,0 4.58825593358322,45.5957578975594,0 4.58832032146314,45.5958021112514,0 4.58833307317475,45.5958128291344,0 4.58872628540442,45.5962018539053,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.18041">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691660000U0282</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">RIVERIE</SimpleData>
+					<SimpleData name="Adresse">LES ROCHES</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE RIVERIE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.5974511410821 </north>
+			<south> 45.59696367835479 </south>
+			<east> 4.58735695845223 </east>
+			<west> 4.58653173276662 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.58735695845223,45.59719083900279,0 4.58730027231667,45.597164709356,0 4.58686689644641,45.5969724999111,0 4.58684739929811,45.59696367835479,0 4.58680811486299,45.5969986378107,0 4.58676738617016,45.5970324467726,0 4.58672496703787,45.59706546897569,0 4.586698458765,45.5970851170673,0 4.58666096835202,45.5971110445695,0 4.58661864579943,45.5971384812829,0 4.58657500724321,45.5971647656884,0 4.58653173276662,45.59719032441329,0 4.58676256603914,45.5974511410821,0 4.58735598663212,45.5971927441034,0 4.58735695845223,45.59719083900279,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.20435">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691660000U0330</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">RIVERIE</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE RIVERIE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6022958171391 </north>
+			<south> 45.601682379105 </south>
+			<east> 4.58908253145918 </east>
+			<west> 4.58882322668146 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.58897235803416,45.6016884385104,0 4.58898092960458,45.6017681158852,0 4.58898752329952,45.6018325099838,0 4.58901664038028,45.6021185985593,0 4.58899636074818,45.6021496876312,0 4.58882322668146,45.6022421093663,0 4.58882758923818,45.6022958171391,0 4.58894065121225,45.60223837906189,0 4.58898333966607,45.6022191323359,0 4.58908253145918,45.6021612595978,0 4.58908020339311,45.60212481576009,0 4.58903787809473,45.601682379105,0 4.58901727788644,45.60168438139531,0 4.58897235803416,45.6016884385104,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.20525">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691660000U0332</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">RIVERIE</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE RIVERIE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.5985956624496 </north>
+			<south> 45.5984262808842 </south>
+			<east> 4.58837121835805 </east>
+			<west> 4.58816642782578 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.58816642782578,45.5985309406001,0 4.58823910460369,45.5985956624496,0 4.58834881440111,45.5985199888414,0 4.5883503275873,45.5985190668118,0 4.58835798048446,45.59851301438001,0 4.58836419684066,45.5985060815761,0 4.58836847140099,45.5984985457338,0 4.58837080932638,45.59849058691229,0 4.58837121835805,45.5984824752003,0 4.58836944715944,45.5984743942792,0 4.58836589079847,45.5984666988334,0 4.58836042360714,45.5984594807034,0 4.58833343491228,45.59844446057721,0 4.58830058215831,45.5984262808842,0 4.58822867970079,45.59848259677221,0 4.58816642782578,45.5985309406001,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.20633">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691660000U0335</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">RIVERIE</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE RIVERIE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.5990716077089 </north>
+			<south> 45.5989967473878 </south>
+			<east> 4.58812093048993 </east>
+			<west> 4.58806119432482 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.58811099146745,45.5990365430236,0 4.58809727755719,45.5989967473878,0 4.58806119432482,45.5990046422938,0 4.58808760091365,45.59906650500081,0 4.58808979996055,45.5990716077089,0 4.58812093048993,45.5990654939817,0 4.58811099146745,45.5990365430236,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.21974">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691660000U0368</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">RIVERIE</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE RIVERIE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.5999247893675 </north>
+			<south> 45.5997853125181 </south>
+			<east> 4.58861848757788 </east>
+			<west> 4.5884303055519 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.5884351359913,45.5999247893675,0 4.58861848757788,45.5999204884867,0 4.58861756388578,45.5997853125181,0 4.5884303055519,45.59980101688989,0 4.5884351359913,45.5999247893675,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.22154">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691660000U0371</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">RIVERIE</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE RIVERIE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6004893308416 </north>
+			<south> 45.59993283303029 </south>
+			<east> 4.59000275187622 </east>
+			<west> 4.58911070742529 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.58979731498335,45.59993283303029,0 4.58965890512328,45.6000412473885,0 4.58959646423521,45.60009643969521,0 4.58950025482345,45.6001821011766,0 4.58949565579887,45.6001827966339,0 4.58938653864488,45.6001583996623,0 4.58937840012062,45.60017436628449,0 4.58929113404414,45.6001737080519,0 4.58921518002637,45.6001737905739,0 4.58913905387069,45.600172344355,0 4.58911388019426,45.6001714391128,0 4.58911294005178,45.6001923477035,0 4.58911070742529,45.6003561192026,0 4.58926578513706,45.6003769849078,0 4.58935144013552,45.60038856391539,0 4.58941429881255,45.60039713256761,0 4.58941893742823,45.6004022908439,0 4.58944232252323,45.6004124080264,0 4.58955159338285,45.6004600398059,0 4.58962030706401,45.6004893308416,0 4.58963008961875,45.60047253037119,0 4.58970837480035,45.6003345235853,0 4.58978459721772,45.6001961856344,0 4.58982403367598,45.6002022930789,0 4.58988106155714,45.6002357120377,0 4.589935077037,45.600302768171,0 4.58996064142385,45.60042462634771,0 4.59000275187622,45.6003450431625,0 4.58997793226101,45.6002670366096,0 4.58996436473361,45.60022345633179,0 4.58993699773515,45.6002087121152,0 4.58992070786202,45.60019993579271,0 4.58990663444888,45.6001923890599,0 4.58984314231057,45.6001572601702,0 4.58980938253016,45.60013882351671,0 4.58980463976514,45.6001389806225,0 4.58982911701663,45.600120081035,0 4.58988006927361,45.6000803622177,0 4.58988710161828,45.6000750389816,0 4.58993682292349,45.60003713885821,0 4.58994674049279,45.6000295231817,0 4.5899468661624,45.6000294313392,0 4.58992175356928,45.6000127638654,0 4.5899186161104,45.6000107366992,0 4.58987235217756,45.5999813086426,0 4.58979731498335,45.59993283303029,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.22628">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691660000U0384</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">RIVERIE</SimpleData>
+					<SimpleData name="Adresse">LE VERSIEU</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE RIVERIE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.59838261362321 </north>
+			<south> 45.59783193189771 </south>
+			<east> 4.58656812288533 </east>
+			<west> 4.58571493596138 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.58571493596138,45.5978969722719,0 4.58578476956205,45.59838261362321,0 4.58656812288533,45.5981836882612,0 4.58597134135126,45.59783193189771,0 4.58571493596138,45.5978969722719,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.22696">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691660000U0386</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">RIVERIE</SimpleData>
+					<SimpleData name="Adresse">LE VERSIEU</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE RIVERIE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.5981836882612 </north>
+			<south> 45.5971927441034 </south>
+			<east> 4.58803363499531 </east>
+			<west> 4.58570841255646 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.58571493596138,45.5978969722719,0 4.58597134135126,45.59783193189771,0 4.58656812288533,45.5981836882612,0 4.58701263687305,45.59805663829781,0 4.58728930606675,45.5980182386754,0 4.58756541804653,45.59797831511201,0 4.58770454336011,45.5979576174511,0 4.58803363499531,45.5979084786043,0 4.58800170439553,45.59786425675521,0 4.58785164330899,45.597664447656,0 4.58766265074351,45.59748500247241,0 4.58736851292676,45.5972045460716,0 4.58735598663212,45.5971927441034,0 4.58676256603914,45.5974511410821,0 4.58632751682925,45.5976442550424,0 4.58629976872769,45.5976205988284,0 4.58626370991217,45.597633806709,0 4.58570841255646,45.59784833860549,0 4.58571493596138,45.5978969722719,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.22815">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691660000U0389</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">RIVERIE</SimpleData>
+					<SimpleData name="Adresse">LA GD COMBE</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE RIVERIE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.59994485941861 </north>
+			<south> 45.599584690818 </south>
+			<east> 4.59046963282677 </east>
+			<west> 4.590125218802 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.59030997863208,45.59994485941861,0 4.59031536339099,45.59993577667909,0 4.59035361007751,45.5998691274256,0 4.59043789957096,45.5997168948379,0 4.59044095084837,45.5997114477297,0 4.59046731231011,45.59966433069371,0 4.59046963282677,45.59966024490861,0 4.59017583106056,45.599584690818,0 4.5901371352693,45.5996759343763,0 4.59012568092945,45.5997328378994,0 4.590125218802,45.599743562287,0 4.5901268061191,45.5997541676334,0 4.59012976287727,45.5997633125624,0 4.59013561866754,45.5997751184844,0 4.590143382739,45.5997863570304,0 4.59015253175285,45.5997966753351,0 4.59030997863208,45.59994485941861,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.22929">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691660000U0390</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">RIVERIE</SimpleData>
+					<SimpleData name="Adresse">LA GD COMBE</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE RIVERIE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.5996789331176 </north>
+			<south> 45.5994721887733 </south>
+			<east> 4.59092285202118 </east>
+			<west> 4.59017583106056 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.59017583106056,45.599584690818,0 4.59046963282677,45.59966024490861,0 4.59047292251568,45.599654163966,0 4.59050934746306,45.5995866397575,0 4.59069532213312,45.5996693021467,0 4.59090588816929,45.5996789331176,0 4.59092285202118,45.5995770986943,0 4.59022110173755,45.5994721887733,0 4.59017583106056,45.599584690818,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.22966">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691660000U0391</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">RIVERIE</SimpleData>
+					<SimpleData name="Adresse">LA GD COMBE</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE RIVERIE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.5995770986943 </north>
+			<south> 45.5993548971218 </south>
+			<east> 4.5909537018377 </east>
+			<west> 4.59022110173755 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.59022110173755,45.5994721887733,0 4.59092285202118,45.5995770986943,0 4.59094303017351,45.599453152627,0 4.5909537018377,45.5993868932153,0 4.59024840070593,45.5993548971218,0 4.59024711241788,45.5993770715731,0 4.59024389261546,45.5993990031366,0 4.59023848996093,45.5994208754977,0 4.59023519600334,45.5994312796615,0 4.59022110173755,45.5994721887733,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.23001">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691660000U0392</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">RIVERIE</SimpleData>
+					<SimpleData name="Adresse">LA GD COMBE</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE RIVERIE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.5993868932153 </north>
+			<south> 45.59919767328729 </south>
+			<east> 4.59095877954269 </east>
+			<west> 4.59022801542547 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.59024840070593,45.5993548971218,0 4.5909537018377,45.5993868932153,0 4.59095877954269,45.5993581803953,0 4.59092761342452,45.59919767328729,0 4.59022801542547,45.5992480968813,0 4.59023626766776,45.5992763509909,0 4.59024233707348,45.5993045458977,0 4.5902466238909,45.5993332163389,0 4.59024840070593,45.5993548971218,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.23029">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691660000U0393</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">RIVERIE</SimpleData>
+					<SimpleData name="Adresse">LA GD COMBE</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE RIVERIE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.5992480968813 </north>
+			<south> 45.5990136786519 </south>
+			<east> 4.59092761342452 </east>
+			<west> 4.59018402079413 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.59022801542547,45.5992480968813,0 4.59092761342452,45.59919767328729,0 4.59090137683624,45.5990703308052,0 4.59085048265408,45.5990136786519,0 4.59018402079413,45.599123347052,0 4.59022801542547,45.5992480968813,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.23060">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691660000U0394</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">RIVERIE</SimpleData>
+					<SimpleData name="Adresse">LA GD COMBE</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE RIVERIE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.599123347052 </north>
+			<south> 45.5988514421577 </south>
+			<east> 4.59085048265408 </east>
+			<west> 4.59013479057846 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.59018402079413,45.599123347052,0 4.59085048265408,45.5990136786519,0 4.59070597701128,45.5988514421577,0 4.59013479057846,45.59900839835989,0 4.59018402079413,45.599123347052,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.23094">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691660000U0395</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">RIVERIE</SimpleData>
+					<SimpleData name="Adresse">LA GD COMBE</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE RIVERIE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.59900839835989 </north>
+			<south> 45.59868162371159 </south>
+			<east> 4.59070597701128 </east>
+			<west> 4.59006369284986 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.59027001984681,45.5988160868427,0 4.59006369284986,45.5989138435263,0 4.59013479057846,45.59900839835989,0 4.59070597701128,45.5988514421577,0 4.59055625087887,45.59868162371159,0 4.59049039060548,45.59871146628699,0 4.59047393521442,45.5987192645353,0 4.59027001984681,45.5988160868427,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.23190">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691660000U0398</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">RIVERIE</SimpleData>
+					<SimpleData name="Adresse">LA GD COMBE</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE RIVERIE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.5999656593265 </north>
+			<south> 45.5989138435263 </south>
+			<east> 4.59030997863208 </east>
+			<west> 4.59005761692962 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.59005761692962,45.5989167214718,0 4.5901271084929,45.5990089573018,0 4.59021744721584,45.59924644498619,0 4.59024291600955,45.5993515521633,0 4.59023242083441,45.5994195202541,0 4.59008992554664,45.5997521672008,0 4.5901256050535,45.5998151592964,0 4.59026200943171,45.5999186079424,0 4.59029761674699,45.5999656593265,0 4.59030997863208,45.59994485941861,0 4.59015253175285,45.5997966753351,0 4.590143382739,45.5997863570304,0 4.59013561866754,45.5997751184844,0 4.59012976287727,45.5997633125624,0 4.5901268061191,45.5997541676334,0 4.590125218802,45.599743562287,0 4.59012568092945,45.5997328378994,0 4.5901371352693,45.5996759343763,0 4.59017583106056,45.599584690818,0 4.59022110173755,45.5994721887733,0 4.59023519600334,45.5994312796615,0 4.59023848996093,45.5994208754977,0 4.59024389261546,45.5993990031366,0 4.59024711241788,45.5993770715731,0 4.59024840070593,45.5993548971218,0 4.5902466238909,45.5993332163389,0 4.59024233707348,45.5993045458977,0 4.59023626766776,45.5992763509909,0 4.59022801542547,45.5992480968813,0 4.59018402079413,45.599123347052,0 4.59013479057846,45.59900839835989,0 4.59006369284986,45.5989138435263,0 4.59005761692962,45.5989167214718,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.23212">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691660000U0399</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">RIVERIE</SimpleData>
+					<SimpleData name="Adresse">LA GD COMBE</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE RIVERIE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.5988160868427 </north>
+			<south> 45.5968700315514 </south>
+			<east> 4.59329396096005 </east>
+			<west> 4.59006989242922 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.59081509238964,45.59856294853661,0 4.59079605862553,45.5985434933037,0 4.59076639544856,45.5985113089733,0 4.59073837370015,45.5984782007595,0 4.59070732026753,45.5984333367721,0 4.59069431073992,45.5984092029527,0 4.59069086163773,45.59840078553091,0 4.59068205590368,45.5983756015281,0 4.59067503532071,45.5983500320128,0 4.59067019238334,45.5983243416321,0 4.59066726542413,45.5982983539551,0 4.59066726775773,45.5982850241542,0 4.59066885885837,45.598264466603,0 4.59067250192942,45.5982438800301,0 4.59067820730409,45.5982236245532,0 4.59069977358384,45.5981748640231,0 4.59070756286472,45.59816016316249,0 4.59072091916989,45.5981382683487,0 4.59073621727116,45.5981169765306,0 4.59084500667488,45.5979915069495,0 4.59088461427084,45.59794105013071,0 4.59092668078786,45.59788686580809,0 4.59098247452188,45.5978192475794,0 4.59100224816409,45.597797442081,0 4.59103662353272,45.5977613797173,0 4.59107256625017,45.5977262858952,0 4.59111032764012,45.5976919769258,0 4.59117455041489,45.5976409015588,0 4.59121693213998,45.59761112055,0 4.59121743478805,45.5976107531743,0 4.59124604535296,45.5975928755732,0 4.59127609763044,45.597576058358,0 4.5913072094659,45.5975603970008,0 4.5913784206823,45.5975293073524,0 4.59142695330751,45.5975126789312,0 4.59148841811553,45.59749514696071,0 4.59155290235445,45.59748000400929,0 4.59160904380786,45.59746921218951,0 4.59166560876018,45.59745976533811,0 4.59172916880607,45.59745265123951,0 4.59208907905581,45.5974136019834,0 4.59244927891804,45.5973757183264,0 4.59280978135136,45.59733945041259,0 4.59284525039817,45.59732363684691,0 4.59293514587352,45.5972820140433,0 4.59302398160795,45.5972392353183,0 4.59308185967852,45.597190680485,0 4.59318745335679,45.5970837173563,0 4.59329396096005,45.5969416154179,0 4.59328988095369,45.5969246507364,0 4.59308919359735,45.5968700315514,0 4.59291925540766,45.5968898213743,0 4.59284912978961,45.5968961284846,0 4.59272024427267,45.59691137366099,0 4.59227155303415,45.59698158389381,0 4.59196484677299,45.5969968237754,0 4.59141831738205,45.5971002087514,0 4.59108122000913,45.5971696456501,0 4.59096186360726,45.59723978430861,0 4.59079677254864,45.5972899446359,0 4.59076051347041,45.597296131661,0 4.59064467780285,45.5974263842573,0 4.59059535297803,45.59753164847681,0 4.59043888205516,45.5978464803565,0 4.59039804294727,45.5979345119454,0 4.59038372368763,45.597976505052,0 4.59037554904199,45.5980135477039,0 4.59036931101906,45.59805101329991,0 4.59036512753705,45.59808853990909,0 4.59036312426473,45.59812603568869,0 4.59036291904574,45.5981635961088,0 4.59036489662814,45.5982012157289,0 4.59036879535318,45.5982387181169,0 4.59037211116018,45.59826037713331,0 4.59037893451342,45.59828802097201,0 4.59038780726445,45.5983155457643,0 4.59039871908256,45.598342591392,0 4.59040036656815,45.5983463508668,0 4.59041656593064,45.598378815748,0 4.59043455304232,45.59841098514829,0 4.59045457148577,45.5984424052925,0 4.59046849064718,45.59846247330491,0 4.59029820311569,45.5985463009498,0 4.59012672466496,45.5986288842441,0 4.59006989242922,45.59865589694879,0 4.59027001984681,45.5988160868427,0 4.59047393521442,45.5987192645353,0 4.59049039060548,45.59871146628699,0 4.59055625087887,45.59868162371159,0 4.59066073097522,45.5986339422257,0 4.59069390331549,45.59861852210331,0 4.59081509238964,45.59856294853661,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.23414">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691660000U0400</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">RIVERIE</SimpleData>
+					<SimpleData name="Adresse">LA GD COMBE</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE RIVERIE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.60032869496861 </north>
+			<south> 45.59993577667909 </south>
+			<east> 4.59063724123798 </east>
+			<west> 4.59028856783104 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.59029761674699,45.5999656593265,0 4.59028856783104,45.59998118856091,0 4.59029802060275,45.60012281879769,0 4.59035213017665,45.6002467951232,0 4.59047909399007,45.6003252486026,0 4.59049651408206,45.60032869496861,0 4.59053728684594,45.6002964151463,0 4.59058517123751,45.6003196955334,0 4.59059499504403,45.600317755284,0 4.59063724123798,45.6002786996358,0 4.59058801724196,45.6002892129717,0 4.5905752964887,45.60026174260219,0 4.59047255929731,45.6002808483996,0 4.5904569312517,45.6002727833224,0 4.59037563331808,45.6001939543028,0 4.59034346134288,45.6001011908976,0 4.59031536339099,45.59993577667909,0 4.59030997863208,45.59994485941861,0 4.59029761674699,45.5999656593265,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.23471">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691660000U0402</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">RIVERIE</SimpleData>
+					<SimpleData name="Adresse">LA GD COMBE</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE RIVERIE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.5996693021467 </north>
+			<south> 45.5995866397575 </south>
+			<east> 4.59069532213312 </east>
+			<west> 4.59047292251568 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.59069532213312,45.5996693021467,0 4.59050934746306,45.5995866397575,0 4.59047292251568,45.599654163966,0 4.59069339319236,45.599669149296,0 4.59069532213312,45.5996693021467,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.24184">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691660000U0420</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">RIVERIE</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE RIVERIE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.59965470525899 </north>
+			<south> 45.5994172400903 </south>
+			<east> 4.58788379564219 </east>
+			<west> 4.58750853706301 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.58750853706301,45.59948628130051,0 4.58781474617912,45.59965470525899,0 4.58788379564219,45.5995659161286,0 4.5875695561862,45.5994172400903,0 4.58750853706301,45.59948628130051,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.24707">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691660000U0438</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">RIVERIE</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE RIVERIE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6011818310116 </north>
+			<south> 45.6009390995363 </south>
+			<east> 4.58821433384781 </east>
+			<west> 4.58771139359526 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.58816178910047,45.6009390995363,0 4.58775428017708,45.6010552738215,0 4.58771139359526,45.60106758780359,0 4.58774687152384,45.6011818310116,0 4.58775615419012,45.601178907927,0 4.58786732829076,45.6011451849167,0 4.58799033193968,45.6011078722702,0 4.5881157542062,45.6010698948747,0 4.58821433384781,45.6010399519861,0 4.58816178910047,45.6009390995363,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.24915">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691660000U0443</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">RIVERIE</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE RIVERIE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6010399519861 </north>
+			<south> 45.6009108852801 </south>
+			<east> 4.58832257043395 </east>
+			<west> 4.58816178910047 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.58816178910047,45.6009390995363,0 4.58821433384781,45.6010399519861,0 4.58832257043395,45.60100672032831,0 4.58825913496126,45.6009108852801,0 4.58816178910047,45.6009390995363,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.25555">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691660000U0046</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">RIVERIE</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE RIVERIE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.602189186053 </north>
+			<south> 45.6021284100003 </south>
+			<east> 4.58934983076609 </east>
+			<west> 4.58924578331589 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.58931665204661,45.6021284100003,0 4.58924578331589,45.6021493159607,0 4.58926141328537,45.6021798076201,0 4.58934983076609,45.602189186053,0 4.58931665204661,45.6021284100003,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.26022">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691660000U0473</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">RIVERIE</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE RIVERIE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6005121742767 </north>
+			<south> 45.6003144120217 </south>
+			<east> 4.58861038904987 </east>
+			<west> 4.58848501698173 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.58861038904987,45.6005108051732,0 4.58853098424039,45.6003144120217,0 4.58848501698173,45.6003221764548,0 4.58853282208106,45.60035167337549,0 4.58856571191987,45.6004292960379,0 4.58859658695033,45.6004992915428,0 4.58860272996621,45.6005121742767,0 4.58861038904987,45.6005108051732,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.26061">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691660000U0475</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">RIVERIE</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE RIVERIE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6006625539486 </north>
+			<south> 45.6005108051732 </south>
+			<east> 4.58869416011705 </east>
+			<west> 4.58860272996621 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.58861038904987,45.6005108051732,0 4.58860272996621,45.6005121742767,0 4.58864240790275,45.60059384407779,0 4.58866872166011,45.6006300391866,0 4.58869416011705,45.6006625539486,0 4.58863277177769,45.6005396704029,0 4.58861038904987,45.6005108051732,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.26781">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691660000U0496</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">RIVERIE</SimpleData>
+					<SimpleData name="Adresse">LES ROCHES</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">CCOM</SimpleData>
+					<SimpleData name="Denomination">COMMUNAUTE DE COMMUNE DU PAYS MORNANTAIS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.5971680860306 </north>
+			<south> 45.5967054480318 </south>
+			<east> 4.58918865429597 </east>
+			<west> 4.58869828054206 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.58874290163427,45.5967054480318,0 4.58869828054206,45.5967376915108,0 4.58875453313236,45.5967621153267,0 4.58916581776226,45.5971680860306,0 4.58918865429597,45.5971456971843,0 4.58918295903172,45.59713947304381,0 4.58907539034603,45.5970346250894,0 4.58877393465215,45.596736262519,0 4.58874290163427,45.5967054480318,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.27440">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691660000U0512</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">RIVERIE</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE RIVERIE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6000309292059 </north>
+			<south> 45.5998770838081 </south>
+			<east> 4.59018235789126 </east>
+			<west> 4.5899186161104 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.5899186161104,45.6000107366992,0 4.58992175356928,45.6000127638654,0 4.5899468661624,45.6000294313392,0 4.58994713299825,45.6000297878311,0 4.58994921861241,45.6000309292059,0 4.58995177591172,45.60003062285671,0 4.58995327619857,45.6000292506579,0 4.59018235789126,45.5999105473964,0 4.59014123857968,45.5998770838081,0 4.5899186161104,45.6000107366992,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

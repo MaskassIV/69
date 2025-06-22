@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>CHESSY_PMRSEM</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_6">
+		<name>CHESSY_PMRSEM</name>
+		<Schema name="CHESSY_PMRSEM" id="CHESSY_PMRSEM.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="PMRSEM">
+			<LineStyle>
+				<color>BF00faff</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C00faff</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.168">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">69056000AK0135</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHESSY</SimpleData>
+					<SimpleData name="Adresse">42, RTE DU BREUIL</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SEM</SimpleData>
+					<SimpleData name="Denomination">SEM DE CONSTRUCTION DU DPT DE L AIN</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8888607394842 </north>
+			<south> 45.888562928592 </south>
+			<east> 4.61440318669844 </east>
+			<west> 4.61355672346612 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.6141398617887,45.888711151528,0 4.61440318669844,45.88858625015399,0 4.61440276176368,45.888562928592,0 4.61387524037173,45.8887080840706,0 4.61371694983833,45.8887244842024,0 4.61355672346612,45.888758475009,0 4.61360460043724,45.8888607394842,0 4.6136167691105,45.88885786376691,0 4.61394408628636,45.88878203791571,0 4.6141398617887,45.888711151528,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.257">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">69056000AC0188</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHESSY</SimpleData>
+					<SimpleData name="Adresse">5391, RUE JACQUES COEUR</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SEM</SimpleData>
+					<SimpleData name="Denomination">SEM DE CONSTRUCTION DU DPT DE L AIN</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8933641845791 </north>
+			<south> 45.89315583905261 </south>
+			<east> 4.62387570106324 </east>
+			<west> 4.6236852357666 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.6236852357666,45.8931752463573,0 4.62374342759285,45.8933641845791,0 4.62385386760233,45.8933475571072,0 4.62387222453057,45.8933401780712,0 4.62387570106324,45.89333121137989,0 4.62387443988922,45.8933278068976,0 4.62385363222038,45.8933308077847,0 4.62384128266396,45.8932925259841,0 4.62386131406675,45.8932894461795,0 4.62384499579715,45.89315583905261,0 4.6236852357666,45.8931752463573,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.259">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">69056000AC0189</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHESSY</SimpleData>
+					<SimpleData name="Adresse">5392, RUE JACQUES COEUR</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SEM</SimpleData>
+					<SimpleData name="Denomination">SEM DE CONSTRUCTION DU DPT DE L AIN</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8933759264815 </north>
+			<south> 45.8931752463573 </south>
+			<east> 4.62374342759285 </east>
+			<west> 4.62360696472221 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.62360696472221,45.8931848367517,0 4.62366586459609,45.8933759264815,0 4.62374342759285,45.8933641845791,0 4.6236852357666,45.8931752463573,0 4.62360696472221,45.8931848367517,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.261">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">69056000AC0190</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHESSY</SimpleData>
+					<SimpleData name="Adresse">5393, RUE JACQUES COEUR</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SEM</SimpleData>
+					<SimpleData name="Denomination">SEM DE CONSTRUCTION DU DPT DE L AIN</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.89338520095819 </north>
+			<south> 45.8931848367517 </south>
+			<east> 4.62366586459609 </east>
+			<west> 4.62349861873096 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.62349861873096,45.893198101392,0 4.62355321275524,45.8933743917338,0 4.62358339283807,45.8933699052959,0 4.62360332051504,45.89338520095819,0 4.62366586459609,45.8933759264815,0 4.62360696472221,45.8931848367517,0 4.62349861873096,45.893198101392,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.263">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">69056000AC0191</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHESSY</SimpleData>
+					<SimpleData name="Adresse">5394, RUE JACQUES COEUR</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SEM</SimpleData>
+					<SimpleData name="Denomination">SEM DE CONSTRUCTION DU DPT DE L AIN</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8934084952008 </north>
+			<south> 45.893198101392 </south>
+			<east> 4.62355321275524 </east>
+			<west> 4.62338808612485 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.62338808612485,45.8932115774591,0 4.6234488337357,45.8934084952008,0 4.62351124628417,45.8933991326306,0 4.62352046460046,45.89337927531129,0 4.62355321275524,45.8933743917338,0 4.62349861873096,45.893198101392,0 4.62338808612485,45.8932115774591,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.264">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">69056000AC0192</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHESSY</SimpleData>
+					<SimpleData name="Adresse">5412, RUE JACQUES COEUR</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SEM</SimpleData>
+					<SimpleData name="Denomination">SEM DE CONSTRUCTION DU DPT DE L AIN</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8934175524733 </north>
+			<south> 45.8932115774591 </south>
+			<east> 4.6234488337357 </east>
+			<west> 4.62328102140826 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.62328102140826,45.8932245532883,0 4.62333733958653,45.8934068535466,0 4.62336893267299,45.893402166743,0 4.62338886295324,45.8934175524733,0 4.6234488337357,45.8934084952008,0 4.62338808612485,45.8932115774591,0 4.62328102140826,45.8932245532883,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.277">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">69056000AC0203</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHESSY</SimpleData>
+					<SimpleData name="Adresse">5409, RUE JACQUES COEUR</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SEM</SimpleData>
+					<SimpleData name="Denomination">SEM DE CONSTRUCTION DU DPT DE L AIN</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8937021350072 </north>
+			<south> 45.893484002554 </south>
+			<east> 4.62334580245397 </east>
+			<west> 4.6231955619676 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.6231955619676,45.8935157099747,0 4.62325316251207,45.8937021350072,0 4.62334580245397,45.8936854933824,0 4.6232836303685,45.893484002554,0 4.62322674328683,45.8934926551938,0 4.62322702619454,45.8935110250617,0 4.6231955619676,45.8935157099747,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.279">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">69056000AC0204</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHESSY</SimpleData>
+					<SimpleData name="Adresse">5410, RUE JACQUES COEUR</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SEM</SimpleData>
+					<SimpleData name="Denomination">SEM DE CONSTRUCTION DU DPT DE L AIN</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8936854933824 </north>
+			<south> 45.89347543806461 </south>
+			<east> 4.62343870285976 </east>
+			<west> 4.6232836303685 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.6232836303685,45.893484002554,0 4.62334580245397,45.8936854933824,0 4.62343870285976,45.8936689380096,0 4.62338279739142,45.8934875325498,0 4.62335120690829,45.8934923093875,0 4.6233406490172,45.89347543806461,0 4.6232836303685,45.893484002554,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.283">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">69056000AC0206</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHESSY</SimpleData>
+					<SimpleData name="Adresse">5401, RUE JACQUES COEUR</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SEM</SimpleData>
+					<SimpleData name="Denomination">SEM DE CONSTRUCTION DU DPT DE L AIN</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8936522962328 </north>
+			<south> 45.89344655983659 </south>
+			<east> 4.62363822522199 </east>
+			<west> 4.62347073935709 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.62347073935709,45.89345591686481,0 4.62353134268989,45.8936522962328,0 4.62363822522199,45.89363310808171,0 4.62357889458779,45.89345805667531,0 4.62355282708141,45.8934620337169,0 4.62353276515419,45.89344655983659,0 4.62347073935709,45.89345591686481,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.284">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">69056000AC0207</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHESSY</SimpleData>
+					<SimpleData name="Adresse">5395, RUE JACQUES COEUR</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SEM</SimpleData>
+					<SimpleData name="Denomination">SEM DE CONSTRUCTION DU DPT DE L AIN</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.89363310808171 </north>
+			<south> 45.8933957785594 </south>
+			<east> 4.62396708702301 </east>
+			<west> 4.62357889458779 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.62390383638419,45.8934061944607,0 4.62389146733673,45.89339790568761,0 4.6238702506164,45.8933957785594,0 4.62387539343947,45.8934127276062,0 4.62388939152051,45.89341063513061,0 4.62390163872261,45.8934498190799,0 4.62386439643472,45.8934553977806,0 4.62384700909346,45.8933993548095,0 4.62362484211033,45.8934327181769,0 4.623615750105,45.89345248362301,0 4.62357889458779,45.89345805667531,0 4.62363822522199,45.89363310808171,0 4.62396708702301,45.8935741640811,0 4.62390383638419,45.8934061944607,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

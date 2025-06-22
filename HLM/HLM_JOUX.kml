@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>JOUX_HLM</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_5">
+		<name>JOUX_HLM</name>
+		<Schema name="JOUX_HLM" id="JOUX_HLM.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="HLM">
+			<LineStyle>
+				<color>BFe451f5</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4Ce451f5</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.1397">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69102000AB0174</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">JOUX</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">IMMOBILIERE RHONE ALPES SA DHLM</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.888289009454 </north>
+			<south> 45.8879912611253 </south>
+			<east> 4.37012708441372 </east>
+			<west> 4.36974937834248 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.36975153072478,45.888289009454,0 4.3698053328208,45.8882639506059,0 4.36984679424183,45.8882457058984,0 4.36985871452574,45.88823754588329,0 4.36987526203031,45.8882235657836,0 4.36988932183972,45.8882080847556,0 4.36991149644776,45.8881714307082,0 4.36992525930953,45.88813361769959,0 4.36992537481658,45.8881330759232,0 4.36992992291199,45.888118880956,0 4.36993757872658,45.88810518870991,0 4.36994010138309,45.88810290657351,0 4.36994835873818,45.8880978530665,0 4.36995833691172,45.88809457996381,0 4.36996927351521,45.8880935468168,0 4.36997251463974,45.8880942280462,0 4.36998913613362,45.8880987999692,0 4.37000439086436,45.8881054598957,0 4.37001573215392,45.8881051423429,0 4.37012708441372,45.8881020817868,0 4.37009350728795,45.8879912611253,0 4.36989095475906,45.88804541155859,0 4.36985277773976,45.8880556909643,0 4.369838984535,45.8881130479582,0 4.36982672869663,45.8881648024303,0 4.36982358903719,45.8881733964353,0 4.36981712853037,45.88818329155379,0 4.36980792918924,45.8881919589755,0 4.36979022050718,45.8882007294913,0 4.36977053537996,45.88820781275629,0 4.36974937834248,45.88821275234311,0 4.36975153072478,45.888289009454,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.1407">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69102000AB0175</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">JOUX</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">IMMOBILIERE RHONE ALPES SA DHLM</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8888844636498 </north>
+			<south> 45.8878153719614 </south>
+			<east> 4.37059543450432 </east>
+			<west> 4.36968184091039 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.36975153072478,45.888289009454,0 4.36974433340234,45.8883938396803,0 4.36973738734373,45.88844129686169,0 4.36971294320643,45.8885527304865,0 4.36968513783198,45.8886638445733,0 4.36968184091039,45.88867649330469,0 4.36968575003045,45.8886988715837,0 4.36969300016553,45.8887207590741,0 4.36969506161469,45.8887258676799,0 4.36970592325425,45.8887425778387,0 4.36972267992379,45.8887577755751,0 4.36974198166536,45.888771591534,0 4.36976343274007,45.8887836702572,0 4.36978690197972,45.88879392327,0 4.36981186918631,45.8888021767478,0 4.36982938668504,45.8888064676527,0 4.37022933029649,45.88885872117839,0 4.37040906427148,45.8888826610185,0 4.3704238116319,45.8888844636498,0 4.37046575422926,45.88884405743471,0 4.37045404303269,45.8888398763741,0 4.37042930895791,45.8888306295201,0 4.37042657679411,45.8888296719456,0 4.37033874738383,45.8887984940023,0 4.37033581666912,45.8884003618541,0 4.37058901785969,45.8883758577621,0 4.37059396785348,45.8883467074676,0 4.37059543450432,45.88831750933711,0 4.37059469097163,45.8882979747205,0 4.37059378805785,45.88828240479981,0 4.37058979755102,45.88826714249689,0 4.37058259723849,45.8882524594815,0 4.37056237865492,45.8882328907602,0 4.37052221631693,45.8882151849245,0 4.37048185880831,45.8882000031994,0 4.37047291170894,45.88818768298441,0 4.37046889264783,45.8881608929843,0 4.37046809234453,45.88813388384249,0 4.37046860632173,45.8881234303265,0 4.37045776160741,45.8881022168943,0 4.37041156190831,45.8880439658757,0 4.37040569088871,45.8880153070026,0 4.37040290745413,45.8879863405164,0 4.37040284703353,45.887983909553,0 4.37039054112443,45.8879713598555,0 4.37032911940343,45.8879285139223,0 4.37026754660193,45.8878173121194,0 4.37026414523565,45.8878153719614,0 4.3701301460211,45.88798136053009,0 4.37009350728795,45.8879912611253,0 4.37012708441372,45.8881020817868,0 4.37001573215392,45.8881051423429,0 4.37000439086436,45.8881054598957,0 4.36998913613362,45.8880987999692,0 4.36997251463974,45.8880942280462,0 4.36996927351521,45.8880935468168,0 4.36995833691172,45.88809457996381,0 4.36994835873818,45.8880978530665,0 4.36994010138309,45.88810290657351,0 4.36993757872658,45.88810518870991,0 4.36992992291199,45.888118880956,0 4.36992537481658,45.8881330759232,0 4.36992525930953,45.88813361769959,0 4.36991149644776,45.8881714307082,0 4.36988932183972,45.8882080847556,0 4.36987526203031,45.8882235657836,0 4.36985871452574,45.88823754588329,0 4.36984679424183,45.8882457058984,0 4.3698053328208,45.8882639506059,0 4.36975153072478,45.888289009454,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.4433">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69102000AB0064</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">JOUX</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">IMMOBILIERE RHONE ALPES SA DHLM</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.88734074916241 </north>
+			<south> 45.8871394121318 </south>
+			<east> 4.37167529418495 </east>
+			<west> 4.37137722944107 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.37140737120403,45.88734074916241,0 4.37146913727301,45.8873092885019,0 4.37153413122789,45.8872676115494,0 4.37153805406142,45.88726459188779,0 4.37156614732114,45.8872429962537,0 4.37159516906434,45.8872535417786,0 4.37160670335597,45.887240252675,0 4.37162266217444,45.8872441118931,0 4.37164805043969,45.887212281892,0 4.37167529418495,45.88717727717461,0 4.37155970166187,45.8871394121318,0 4.37155242323374,45.88714751602049,0 4.37153900267183,45.8871420048701,0 4.37145789654264,45.887215129077,0 4.37144288790861,45.8872287304983,0 4.37141333929895,45.88725403633061,0 4.37137722944107,45.8872955429867,0 4.37140737120403,45.88734074916241,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

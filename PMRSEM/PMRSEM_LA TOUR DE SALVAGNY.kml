@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>LA TOUR DE SALVAGNY_PMRSEM</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_6">
+		<name>LA TOUR DE SALVAGNY_PMRSEM</name>
+		<Schema name="LA TOUR DE SALVAGNY_PMRSEM" id="LA TOUR DE SALVAGNY_PMRSEM.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="PMRSEM">
+			<LineStyle>
+				<color>BF00faff</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C00faff</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.469">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">69250000AH0373</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LA TOUR DE SALVAGNY</SimpleData>
+					<SimpleData name="Adresse">2, RUE DES GRAVELINES</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SAS</SimpleData>
+					<SimpleData name="Denomination">GANOVA CONSTRUCTION</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8171567892995 </north>
+			<south> 45.8168697336876 </south>
+			<east> 4.70440062668936 </east>
+			<west> 4.70400041824645 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.70400950964342,45.8169391914045,0 4.70400041824645,45.8169409498709,0 4.70408784622321,45.8171567892995,0 4.70421603857325,45.8171325171145,0 4.70424957725387,45.81712570598589,0 4.70428228504307,45.8171170159177,0 4.70431390443246,45.8171064507973,0 4.70433955761195,45.81709039138239,0 4.70436283485945,45.8170724763547,0 4.70438323506213,45.81705316363029,0 4.70440062668936,45.8170323651262,0 4.70439633120056,45.8169891963376,0 4.70436250085265,45.8168697336876,0 4.70400950964342,45.8169391914045,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.470">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">69250000AH0374</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LA TOUR DE SALVAGNY</SimpleData>
+					<SimpleData name="Adresse">2, RUE DES GRAVELINES</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SAS</SimpleData>
+					<SimpleData name="Denomination">GANOVA CONSTRUCTION</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8172262836944 </north>
+			<south> 45.8169409498709 </south>
+			<east> 4.70408784622321 </east>
+			<west> 4.70364985853291 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.70400041824645,45.8169409498709,0 4.70364985853291,45.81700991940429,0 4.70372042693682,45.8172262836944,0 4.70408784622321,45.8171567892995,0 4.70400041824645,45.8169409498709,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

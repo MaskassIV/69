@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>SAINT ETIENNE DES OULLIERES_PUBLICorASSOCIE</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_9">
+		<name>SAINT ETIENNE DES OULLIERES_PUBLICorASSOCIE</name>
+		<Schema name="SAINT ETIENNE DES OULLIERES_PUBLICorASSOCIE" id="SAINT ETIENNE DES OULLIERES_PUBLICorASSOCIE.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="PUBLICorASSOCIE">
+			<LineStyle>
+				<color>BFdb2105</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4Cdb2105</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.1874">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">691970000E1025</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT ETIENNE DES OULLIERES</SimpleData>
+					<SimpleData name="Adresse">100, RTE DE LA CASERNE</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SDIS</SimpleData>
+					<SimpleData name="Denomination">SERVICE DEPARTEMENTAL-METROPOLITAIN DINCENDIE ET DE SECOURS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.07573744894871 </north>
+			<south> 46.07542392718539 </south>
+			<east> 4.64574830860731 </east>
+			<west> 4.64531634957093 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.64531634957093,46.0754832642607,0 4.64569435207544,46.07573744894871,0 4.64574830860731,46.07571550007921,0 4.64565661974322,46.07542392718539,0 4.64541921494349,46.0754652897468,0 4.64531634957093,46.0754832642607,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

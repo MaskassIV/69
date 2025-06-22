@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>SOUCIEU EN JARREST_PMRSEM</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_6">
+		<name>SOUCIEU EN JARREST_PMRSEM</name>
+		<Schema name="SOUCIEU EN JARREST_PMRSEM" id="SOUCIEU EN JARREST_PMRSEM.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="PMRSEM">
+			<LineStyle>
+				<color>BF00faff</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C00faff</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.708">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">69176000AB0684</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SOUCIEU EN JARREST</SimpleData>
+					<SimpleData name="Adresse">LA FLETTE</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SEM</SimpleData>
+					<SimpleData name="Denomination">SEM DE CONSTRUCTION DU DPT DE L AIN</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.67632702667179 </north>
+			<south> 45.6758230535799 </south>
+			<east> 4.70126834981247 </east>
+			<west> 4.69985987848093 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.69985987848093,45.6761269806599,0 4.69996714035274,45.67632702667179,0 4.70004241358428,45.6763096779934,0 4.70093817248543,45.6761035849716,0 4.70126834981247,45.6760274431316,0 4.70120185696846,45.67590406190051,0 4.70126463774046,45.6758899634481,0 4.70123405758093,45.6758230535799,0 4.70109725291268,45.6758533116926,0 4.70091999488242,45.6758925570441,0 4.70086945422939,45.6759035882331,0 4.70056572385212,45.6759706829225,0 4.70022600374454,45.6760457057879,0 4.69991563242339,45.6761141599261,0 4.69985987848093,45.6761269806599,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

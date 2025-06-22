@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>BRUSSIEU_HLM</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_5">
+		<name>BRUSSIEU_HLM</name>
+		<Schema name="BRUSSIEU_HLM" id="BRUSSIEU_HLM.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="HLM">
+			<LineStyle>
+				<color>BFe451f5</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4Ce451f5</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.1155">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">690310000B1533</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">BRUSSIEU</SimpleData>
+					<SimpleData name="Adresse">6, RUE JACQUES COEUR</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.746559982424 </north>
+			<south> 45.74596293549989 </south>
+			<east> 4.5266410690173 </east>
+			<west> 4.52515272057049 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.52518985608836,45.7460243503041,0 4.52515272057049,45.7460305266863,0 4.52517857506442,45.7462682203473,0 4.52562316510844,45.7462963413359,0 4.52559067976929,45.7464616909188,0 4.52558971872148,45.7464688191022,0 4.52564965043766,45.7464822386698,0 4.52575076341637,45.7465055486475,0 4.52581590359737,45.7465212393638,0 4.52585205477937,45.74653065743409,0 4.5259393642439,45.7465572162461,0 4.52594793100475,45.746559982424,0 4.52597353306405,45.746555402902,0 4.52602182163007,45.7465291708295,0 4.52604885560504,45.7465252023723,0 4.52603750922296,45.7464869879689,0 4.52620956061321,45.7464657457965,0 4.52621188477054,45.7464800347732,0 4.52624828303784,45.7464704455296,0 4.52626009966142,45.746493072199,0 4.52640368555714,45.7464612269833,0 4.52649070979405,45.7464308677633,0 4.52660695039568,45.74637309327899,0 4.5266315935591,45.7463570882534,0 4.5266410690173,45.7463508355154,0 4.52624871090414,45.7461085561275,0 4.52624270430612,45.7461099884068,0 4.5262060093158,45.7461181406177,0 4.52599336777479,45.7460669789379,0 4.52561548139319,45.7459759919074,0 4.52556199230764,45.74596293549989,0 4.52518985608836,45.7460243503041,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.1156">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">690310000B1535</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">BRUSSIEU</SimpleData>
+					<SimpleData name="Adresse">6, RUE JACQUES COEUR</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7463508355154 </north>
+			<south> 45.7460407681451 </south>
+			<east> 4.52680894737577 </east>
+			<west> 4.52621113345611 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.52653177551014,45.7460452813756,0 4.52623049137842,45.746082323427,0 4.52621113345611,45.7460847469935,0 4.52624871090414,45.7461085561275,0 4.5266410690173,45.7463508355154,0 4.52665610562788,45.7463409949314,0 4.52674007204739,45.7462884307034,0 4.52680894737577,45.74622976614091,0 4.52666688352291,45.74611640550459,0 4.52657243014006,45.7460407681451,0 4.52653177551014,45.7460452813756,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.3713">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">690310000B0468</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">BRUSSIEU</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7467414225588 </north>
+			<south> 45.7461733886808 </south>
+			<east> 4.52453831390253 </east>
+			<west> 4.52377301197805 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.52377301197805,45.7463513482255,0 4.52386852556245,45.7464282344773,0 4.52389654407034,45.7464506424413,0 4.52392511468399,45.7464790773302,0 4.52401834275346,45.7465710352956,0 4.52409454055687,45.7466471916854,0 4.52417370121587,45.7467234881129,0 4.5241847022789,45.7467352280788,0 4.52419284893678,45.7467414225588,0 4.52429426888969,45.7466545795037,0 4.52440222894522,45.74656233407689,0 4.52453831390253,45.74644971376649,0 4.52446832864023,45.7464029251298,0 4.52440968314125,45.7463661605705,0 4.52432631140917,45.7463144190687,0 4.52422059281453,45.7462500101159,0 4.52414505372467,45.7462023956978,0 4.52409884348536,45.7461733886808,0 4.52377301197805,45.7463513482255,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.4977">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">690310000A0888</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">BRUSSIEU</SimpleData>
+					<SimpleData name="Adresse">LA GIRAUDIERE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7487592000689 </north>
+			<south> 45.7476134010357 </south>
+			<east> 4.54231658329686 </east>
+			<west> 4.54085939478944 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.5409008987932,45.7481358159833,0 4.54091872570038,45.74815691802679,0 4.54102299808693,45.7482747405163,0 4.54108628404248,45.7483482701773,0 4.5411528810871,45.7484205836989,0 4.54120947387768,45.74848474783959,0 4.54126287750783,45.7485452628359,0 4.5413246396052,45.7486102569337,0 4.54135767996667,45.748646372129,0 4.54141617403777,45.7487141128252,0 4.54147209258535,45.7487494649527,0 4.54149127533418,45.7487592000689,0 4.54175115849522,45.7486259524687,0 4.54187634496983,45.7485618252327,0 4.54231658329686,45.748336134368,0 4.54221382677564,45.7481159773616,0 4.542184481861,45.7480878277502,0 4.54211275504859,45.7480161253695,0 4.54205648368654,45.7479588923601,0 4.54200585262208,45.7479055451036,0 4.54197071705614,45.747868107759,0 4.54191122610299,45.74778768168609,0 4.54186774954578,45.7477279319321,0 4.54185508134434,45.7477072999001,0 4.54181868031657,45.74762448656989,0 4.54179946023499,45.7476134010357,0 4.54137167294727,45.7478287422892,0 4.54127425364288,45.74787825906191,0 4.5412384054508,45.74789829331049,0 4.5410282995895,45.748008072876,0 4.540971198856,45.7480364133195,0 4.5408971646791,45.7480757029565,0 4.54085939478944,45.7480960335367,0 4.5409008987932,45.7481358159833,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

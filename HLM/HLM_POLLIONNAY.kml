@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>POLLIONNAY_HLM</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_5">
+		<name>POLLIONNAY_HLM</name>
+		<Schema name="POLLIONNAY_HLM" id="POLLIONNAY_HLM.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="HLM">
+			<LineStyle>
+				<color>BFe451f5</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4Ce451f5</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.3835">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69154000AI0494</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">POLLIONNAY</SimpleData>
+					<SimpleData name="Adresse">37, RTE DE LA CROIX DU BAN</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7648378663517 </north>
+			<south> 45.76450328335 </south>
+			<east> 4.66040443416178 </east>
+			<west> 4.65996487987567 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.66040443416178,45.7647402892581,0 4.66039957074986,45.7647326149288,0 4.66035500396445,45.76466274705499,0 4.66035014597653,45.7646552527815,0 4.66028178234405,45.7645471857038,0 4.6602538247021,45.76450328335,0 4.6599715029768,45.7645982275637,0 4.65997112519458,45.7645985033293,0 4.65997087874883,45.764598867231,0 4.65997062959855,45.7645991411037,0 4.6599703831528,45.7645995050054,0 4.65997013670704,45.7645998689071,0 4.65996975892481,45.7646001446727,0 4.65996951247904,45.7646005085744,0 4.65996926603328,45.7646008724761,0 4.65996914821946,45.7646012344849,0 4.65996890177369,45.7646015983866,0 4.65996865532792,45.7646019622882,0 4.65996840888214,45.7646023261899,0 4.65996816243636,45.7646026900916,0 4.65996804462253,45.7646030521004,0 4.65996779817674,45.7646034160021,0 4.65996755173095,45.7646037799038,0 4.65996743391712,45.7646041419126,0 4.65996718476679,45.7646044157853,0 4.65996706695295,45.76460477779409,0 4.65996682050715,45.7646051416958,0 4.65996670269331,45.76460550370461,0 4.65996658487946,45.7646058657134,0 4.65996633843365,45.764606229615,0 4.65996622332433,45.76460668165281,0 4.65996610551048,45.7646070436616,0 4.65996598769663,45.7646074056704,0 4.65996599851474,45.76460776578629,0 4.65996588070088,45.7646081277951,0 4.65996576288702,45.76460848980389,0 4.65996564507316,45.7646088518127,0 4.6599655272593,45.7646092138215,0 4.65996540944544,45.7646095758303,0 4.65996542296807,45.7646100259752,0 4.65996530515421,45.76461038798389,0 4.65996518734034,45.7646107499927,0 4.65996519815845,45.7646111101087,0 4.65996508034458,45.7646114721174,0 4.65996509116268,45.7646118322333,0 4.65996497605334,45.7646122842711,0 4.65996498687144,45.764612644387,0 4.65996499768955,45.7646130045029,0 4.65996487987567,45.7646133665117,0 4.6599648933983,45.7646138166566,0 4.65996490421641,45.7646141767725,0 4.65996491503451,45.76461453688841,0 4.65996492585261,45.7646148970043,0 4.65996493667071,45.7646152571202,0 4.65996495019334,45.7646157072651,0 4.65996496101145,45.764616067381,0 4.65996497182955,45.7646164274969,0 4.65996498264766,45.7646167876128,0 4.65996499617029,45.7646172377577,0 4.65996513562038,45.7646175959807,0 4.65996514643848,45.7646179560967,0 4.65996528588858,45.76461831431969,0 4.65996542533867,45.7646186725427,0 4.65996543886131,45.7646191226876,0 4.65996557831141,45.76461948091061,0 4.65996558912952,45.7646198410265,0 4.65996572857962,45.7646201992495,0 4.65996586802972,45.7646205574725,0 4.65996600747983,45.7646209156956,0 4.65996602100247,45.7646213658405,0 4.65996616045258,45.7646217240635,0 4.65996629990269,45.7646220822865,0 4.6599664393528,45.76462244050949,0 4.65996657880291,45.7646227987325,0 4.65996671825303,45.76462315695551,0 4.65996685770314,45.7646235151786,0 4.65996712578526,45.76462387150869,0 4.65996726523539,45.7646242297317,0 4.65996740468551,45.76462458795469,0 4.65996754413564,45.7646249461778,0 4.65996781221777,45.7646253025079,0 4.6599679516679,45.7646256607309,0 4.65996821975004,45.764626017061,0 4.65996835920017,45.764626375284,0 4.65996862728231,45.76462673161419,0 4.65996876673245,45.7646270898372,0 4.6599690348146,45.7646274461673,0 4.65996930019222,45.7646277124685,0 4.65996943964237,45.7646280706915,0 4.65996983635654,45.76462842512869,0 4.65997010173417,45.7646286914299,0 4.65997036981633,45.76462904776,0 4.6599706378985,45.76462940409011,0 4.65997090598068,45.7646297604202,0 4.65997117135832,45.76463002672141,0 4.6599714394405,45.7646303830515,0 4.66011459790152,45.7648378663517,0 4.66040443416178,45.7647402892581,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.4070">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69154000AI0531</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">POLLIONNAY</SimpleData>
+					<SimpleData name="Adresse">37, RTE DE LA CROIX DU BAN</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7648622114145 </north>
+			<south> 45.7647402892581 </south>
+			<east> 4.66042010215905 </east>
+			<west> 4.66011459790152 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.66042010215905,45.76476491761889,0 4.66040443416178,45.7647402892581,0 4.66011459790152,45.7648378663517,0 4.66013115811073,45.7648622114145,0 4.66042010215905,45.76476491761889,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.4559">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69154000AI0688</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">POLLIONNAY</SimpleData>
+					<SimpleData name="Adresse">249, RUE DES ECOLES</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7639170955671 </north>
+			<south> 45.7633094573235 </south>
+			<east> 4.66209964587692 </east>
+			<west> 4.66081856260439 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.6608789958631,45.763313098254,0 4.66081856260439,45.7634003640246,0 4.66089057250219,45.76343280936101,0 4.66186384883497,45.7639170955671,0 4.66195803637224,45.7637883505951,0 4.6619784236207,45.7637602189543,0 4.66203578846992,45.7637806299907,0 4.66208805154626,45.7637084353531,0 4.66204798947658,45.7636942543573,0 4.66203829621049,45.7636928660098,0 4.66202883988835,45.7636950769231,0 4.66202204010374,45.7637000408277,0 4.66205120526471,45.76365998082319,0 4.66209964587692,45.76359333669799,0 4.66200819034968,45.76356045808101,0 4.66188326332757,45.7637325287398,0 4.66178793735425,45.7638020251386,0 4.66174940128449,45.76378295784011,0 4.66171228652645,45.7638197122553,0 4.66145208978702,45.7636915941692,0 4.661490224342,45.7636416747743,0 4.6609158546025,45.76335344677261,0 4.6609110453617,45.76334757304491,0 4.66088158883219,45.7633094573235,0 4.6608789958631,45.763313098254,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.4561">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69154000AI0689</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">POLLIONNAY</SimpleData>
+					<SimpleData name="Adresse">249, RUE DES ECOLES</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7638197122553 </north>
+			<south> 45.7634328274312 </south>
+			<east> 4.66200819034968 </east>
+			<west> 4.66145208978702 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.66200819034968,45.76356045808101,0 4.66165381052002,45.7634328274312,0 4.66154822218571,45.7635675945503,0 4.661490224342,45.7636416747743,0 4.66145208978702,45.7636915941692,0 4.66171228652645,45.7638197122553,0 4.66174940128449,45.76378295784011,0 4.66178793735425,45.7638020251386,0 4.66188326332757,45.7637325287398,0 4.66200819034968,45.76356045808101,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.4581">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69154000AI0696</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">POLLIONNAY</SimpleData>
+					<SimpleData name="Adresse">249, RUE DES ECOLES</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7637892767006 </north>
+			<south> 45.7628437865232 </south>
+			<east> 4.66298263648889 </east>
+			<west> 4.66120440433427 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.66123125563867,45.7628437865232,0 4.66120440433427,45.76287948893339,0 4.66126725696717,45.762902701725,0 4.66188111038895,45.7631303603568,0 4.66173634381432,45.7633230787005,0 4.6620289242792,45.7634326151386,0 4.66197406035711,45.7635081806167,0 4.66203067753737,45.7635294132869,0 4.66200819034968,45.76356045808101,0 4.66209964587692,45.76359333669799,0 4.66214931850542,45.7635248730201,0 4.6621598092388,45.76351427045339,0 4.66217543566675,45.7635075552374,0 4.66219364957721,45.76350557553869,0 4.66221150604071,45.7635088250962,0 4.6623715049392,45.76356582263921,0 4.66248727714611,45.76360707926121,0 4.66260330678515,45.7636483319727,0 4.66273481420205,45.7636950307579,0 4.6627607869696,45.76372851379101,0 4.66272147920791,45.7637436843537,0 4.66275695314414,45.7637892767006,0 4.66276140372107,45.7637874997889,0 4.66298263648889,45.76370263611,0 4.66280676494842,45.7636399288542,0 4.6626908665136,45.7635987644848,0 4.66257509417213,45.7635575080717,0 4.66239649796492,45.7634940297297,0 4.66225835268583,45.7634448163828,0 4.66224474776388,45.7634374510851,0 4.66223593867539,45.76342695277469,0 4.66223352042347,45.76341500925631,0 4.66223767038029,45.7634032391555,0 4.66234085607228,45.7632613913333,0 4.66234505882452,45.76325565506151,0 4.66123125563867,45.7628437865232,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.4584">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69154000AI0697</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">POLLIONNAY</SimpleData>
+					<SimpleData name="Adresse">249, RUE DES ECOLES</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.76356045808101 </north>
+			<south> 45.7633230787005 </south>
+			<east> 4.66203067753737 </east>
+			<west> 4.66165381052002 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.66173634381432,45.7633230787005,0 4.66173188644327,45.7633289087684,0 4.66165381052002,45.7634328274312,0 4.66200819034968,45.76356045808101,0 4.66203067753737,45.7635294132869,0 4.66197406035711,45.7635081806167,0 4.6620289242792,45.7634326151386,0 4.66173634381432,45.7633230787005,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

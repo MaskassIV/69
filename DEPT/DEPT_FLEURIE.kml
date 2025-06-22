@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>FLEURIE_DEPT</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_3">
+		<name>FLEURIE_DEPT</name>
+		<Schema name="FLEURIE_DEPT" id="FLEURIE_DEPT.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="DEPT">
+			<LineStyle>
+				<color>BF63f16c</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C63f16c</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1208">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69084000AK0137</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">FLEURIE</SimpleData>
+					<SimpleData name="Adresse">CERCILLON</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1983258681225 </north>
+			<south> 46.1976082340088 </south>
+			<east> 4.6716826668134 </east>
+			<west> 4.67056382040646 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.6716826668134,46.1978048792288,0 4.67133772874075,46.1977053808234,0 4.67099818154937,46.1976082340088,0 4.67056382040646,46.1980303733457,0 4.67142928086386,46.1983258681225,0 4.67143978210958,46.1982916678395,0 4.67148464489829,46.19817202777161,0 4.67160085843757,46.1979762215156,0 4.67167052619441,46.1978278450752,0 4.6716826668134,46.1978048792288,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2733">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69084000AM0240</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">FLEURIE</SimpleData>
+					<SimpleData name="Adresse">COTE DES LABOURONS</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.2025777789644 </north>
+			<south> 46.19662896511189 </south>
+			<east> 4.67180468869738 </east>
+			<west> 4.66611601442995 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.6670616181359,46.2012252560676,0 4.66755299904287,46.2010896130047,0 4.66776225869169,46.20158525267669,0 4.6679641434884,46.2020643375257,0 4.66826760805907,46.2025777789644,0 4.66835258212139,46.202548250719,0 4.66918447998651,46.2023104200947,0 4.66952393957208,46.20220365896489,0 4.66987037501094,46.20207896079689,0 4.67001632683331,46.2020243073224,0 4.67013397208587,46.2019516954698,0 4.67026397436221,46.2018716964929,0 4.67035774993261,46.20177349530941,0 4.67049668172374,46.2016417556322,0 4.67093959434182,46.2013162249996,0 4.67112849575126,46.2011344826842,0 4.67115995935443,46.2010900668151,0 4.67180468869738,46.20046226852491,0 4.67160295389081,46.2003633670626,0 4.67117559481757,46.2000753953692,0 4.67111030303298,46.2000525769288,0 4.67050740842631,46.1998611240553,0 4.67019080897316,46.19970013922631,0 4.67002205635236,46.19962777108551,0 4.66989668805337,46.199599979904,0 4.6698336508114,46.1995787488661,0 4.66976942236305,46.1995098890596,0 4.66962131648888,46.1993743493214,0 4.66910612167637,46.19891887158481,0 4.66873708189621,46.1984963732889,0 4.66846958458691,46.1981796553302,0 4.6682041220707,46.19792118121669,0 4.66778041403019,46.1975047060693,0 4.66746204446902,46.1971909838135,0 4.66741266323632,46.19715378922341,0 4.66695380775839,46.1969289518301,0 4.66656880031136,46.19679940337699,0 4.66645931927721,46.1967307547767,0 4.66627630033355,46.19663661368019,0 4.66611601442995,46.19662896511189,0 4.66615145697144,46.19750499152559,0 4.66620605450284,46.1993868012374,0 4.66620616713818,46.19943318481261,0 4.66630073519041,46.1994676461436,0 4.66628955135624,46.1996160626339,0 4.66621249809032,46.199833536133,0 4.6662216392089,46.20001479992409,0 4.66623344176425,46.2002878944727,0 4.66636959439107,46.2004229832323,0 4.66692022702057,46.20095640323909,0 4.6670616181359,46.2012252560676,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+				<innerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.66767280541557,46.19993245808331,0 4.66695678621861,46.1991811592511,0 4.6669970831095,46.199179757826,0 4.66711696979275,46.1992107849394,0 4.66737165441671,46.19935368170781,0 4.6676764825283,46.1995459205055,0 4.66802678070004,46.19980864552329,0 4.66836820585991,46.1999885466637,0 4.66853394924511,46.2000941966595,0 4.66873326962541,46.2002460991593,0 4.66820666488127,46.2005069190127,0 4.66767280541557,46.19993245808331,0 
+						</coordinates>
+					</LinearRing>
+				</innerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3090">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69084000AE0274</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">FLEURIE</SimpleData>
+					<SimpleData name="Adresse">LES MARRANS</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1796855226045 </north>
+			<south> 46.179507945156 </south>
+			<east> 4.69342369204455 </east>
+			<west> 4.69316159523128 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.69342053976006,46.1796855226045,0 4.69342369204455,46.1795650531233,0 4.69334147207224,46.17956042362731,0 4.69333933305387,46.179507945156,0 4.69316789327266,46.1795155431329,0 4.69317963981459,46.1795810285811,0 4.69316159523128,46.1796181356932,0 4.69317309377825,46.1796503893055,0 4.69327708422951,46.1796755906403,0 4.69342053976006,46.1796855226045,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3114">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69084000AE0276</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">FLEURIE</SimpleData>
+					<SimpleData name="Adresse">CHAMPAGNE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1798845793844 </north>
+			<south> 46.1796731038332 </south>
+			<east> 4.69342646683748 </east>
+			<west> 4.69318403850164 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.69326914418426,46.1798845793844,0 4.69342646683748,46.1798564756947,0 4.69341996439029,46.17970048266351,0 4.69336548612882,46.17969985323501,0 4.69318403850164,46.1796731038332,0 4.69326914418426,46.1798845793844,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3346">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69084000AE0296</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">FLEURIE</SimpleData>
+					<SimpleData name="Adresse">LES MARRANS</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1795650531233 </north>
+			<south> 46.17950414413951 </south>
+			<east> 4.69342518253045 </east>
+			<west> 4.69333933305387 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.69342369204455,46.1795650531233,0 4.69342518253045,46.17950414413951,0 4.69333933305387,46.179507945156,0 4.69334147207224,46.17956042362731,0 4.69342369204455,46.1795650531233,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3736">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69084000AK0336</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">FLEURIE</SimpleData>
+					<SimpleData name="Adresse">CERCILLON</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.2011022739217 </north>
+			<south> 46.1952487007895 </south>
+			<east> 4.67280060236344 </east>
+			<west> 4.66614550269689 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.66756963703042,46.1952487007895,0 4.66743298574585,46.19530159374381,0 4.66720846285998,46.195386488497,0 4.66704209497313,46.1954644954993,0 4.66684255499782,46.1955648752298,0 4.66674363620287,46.1956302740469,0 4.66669569453185,46.1956830364337,0 4.6665567304251,46.1958476470681,0 4.66641801924366,46.1960462096087,0 4.66614550269689,46.1964256088249,0 4.66626866524222,46.1965689040584,0 4.66632054569725,46.1966115566723,0 4.66648587881141,46.1967127120654,0 4.66659668742164,46.1967780987163,0 4.66668488755695,46.196812292743,0 4.6669247449195,46.1968945214561,0 4.66700850737482,46.1969277895476,0 4.66724127591943,46.1970370520088,0 4.667401081297,46.1971141488286,0 4.66746650935391,46.1971586738269,0 4.66754711870703,46.1972332391248,0 4.66771532251398,46.1973945164066,0 4.66798135902556,46.1976549646858,0 4.66821617554902,46.1978867783466,0 4.66839206458578,46.198053255954,0 4.66875441979763,46.198465135265,0 4.66892517694518,46.1986546548731,0 4.66912507012626,46.1988894112305,0 4.66925279962034,46.1990075973189,0 4.66952438167867,46.1992409402164,0 4.66984382894421,46.19953815863489,0 4.6698722435719,46.1995597180296,0 4.66990464879836,46.19957176161629,0 4.66998144639358,46.1995890976994,0 4.67008770223705,46.1996239246627,0 4.67026145229972,46.1997027942942,0 4.67041682859002,46.19977887127799,0 4.67052617670033,46.1998342780971,0 4.67070854557015,46.19989797899131,0 4.67103661945047,46.19999700677869,0 4.67117597879132,46.2000369304697,0 4.67124000774942,46.20007363798599,0 4.67138582388465,46.20017642441319,0 4.67154880783888,46.20029345930409,0 4.67165337402528,46.2003536189327,0 4.67175699079995,46.2003996516689,0 4.6718190461761,46.2004311639133,0 4.67184739828202,46.2004548853951,0 4.6718944090108,46.20052048458091,0 4.67203021853625,46.2007459105554,0 4.67207643317867,46.20080665767739,0 4.67214794535757,46.20088027282191,0 4.6722265548196,46.2009399129892,0 4.67234518777413,46.2010104031441,0 4.67244114078741,46.20105177436821,0 4.67252477779188,46.2010848602362,0 4.67257390732199,46.2010965670032,0 4.67270638947394,46.2011022739217,0 4.67280060236344,46.20109935672319,0 4.67271623881989,46.20096594538461,0 4.67265027678986,46.20084469274619,0 4.67261898995189,46.2007503108215,0 4.67253923311736,46.20052126886911,0 4.67242190971436,46.2001960458243,0 4.67238135177581,46.2001038717859,0 4.67232607452764,46.2000096625171,0 4.67221112262996,46.1998471582505,0 4.67205855866634,46.19962522135729,0 4.67199468792975,46.1995426670877,0 4.67193257791314,46.199475308476,0 4.67176123881573,46.1993096699242,0 4.67166229272985,46.19919980002601,0 4.67158382046713,46.1991105249422,0 4.67155290320673,46.1990536958968,0 4.6715371620925,46.19900538037881,0 4.67149542696426,46.1988149585899,0 4.6714554221619,46.198694044256,0 4.67141169596843,46.1985574226233,0 4.67140316159013,46.1984646874277,0 4.67141252301791,46.19838033573179,0 4.67142928086386,46.1983258681225,0 4.67056382040646,46.1980303733457,0 4.67099818154937,46.1976082340088,0 4.67133772874075,46.1977053808234,0 4.6716826668134,46.1978048792288,0 4.67181091265449,46.1975613396231,0 4.67187526409273,46.19743006416559,0 4.67192796260184,46.1973249898398,0 4.6720410679435,46.1971209424717,0 4.67216934492108,46.1968487601413,0 4.67222789416665,46.1967144173893,0 4.67181941949325,46.1963686168357,0 4.67181249830858,46.1963713305981,0 4.67063334317732,46.1970173419208,0 4.66981695701188,46.19657349839449,0 4.66954474010585,46.1964211372281,0 4.66931331474524,46.19628790150641,0 4.6690651297215,46.19614518397481,0 4.66849039001189,46.1958074868805,0 4.66756963703042,46.1952487007895,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.4511">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69084000AL0440</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">FLEURIE</SimpleData>
+					<SimpleData name="Adresse">MONTGENAS</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1960665578256 </north>
+			<south> 46.19543817813971 </south>
+			<east> 4.69308256836462 </east>
+			<west> 4.69209762065835 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.69247825077434,46.1960665578256,0 4.69249524495794,46.1960540554461,0 4.69250498943078,46.1960503976885,0 4.69253517562301,46.1960324749089,0 4.69287662871479,46.1958249158675,0 4.69287713894481,46.1958246380629,0 4.69308256836462,46.1957022374657,0 4.69307193433829,46.1955972852134,0 4.69305131501489,46.1955259873568,0 4.69299633389288,46.19543817813971,0 4.69281859839727,46.1954997298955,0 4.69271815992616,46.19552752552509,0 4.69245016329603,46.1956524781295,0 4.69209762065835,46.1958705588759,0 4.69247825077434,46.1960665578256,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.4845">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69084000AM0005</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">FLEURIE</SimpleData>
+					<SimpleData name="Adresse">COTE DES LABOURONS</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.2005069190127 </north>
+			<south> 46.199179757826 </south>
+			<east> 4.66873326962541 </east>
+			<west> 4.66695678621861 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.66767280541557,46.19993245808331,0 4.66820666488127,46.2005069190127,0 4.66873326962541,46.2002460991593,0 4.66853394924511,46.2000941966595,0 4.66836820585991,46.1999885466637,0 4.66802678070004,46.19980864552329,0 4.6676764825283,46.1995459205055,0 4.66737165441671,46.19935368170781,0 4.66711696979275,46.1992107849394,0 4.6669970831095,46.199179757826,0 4.66695678621861,46.1991811592511,0 4.66767280541557,46.19993245808331,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

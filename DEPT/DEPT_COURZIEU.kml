@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>COURZIEU_DEPT</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_3">
+		<name>COURZIEU_DEPT</name>
+		<Schema name="COURZIEU_DEPT" id="COURZIEU_DEPT.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="DEPT">
+			<LineStyle>
+				<color>BF63f16c</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C63f16c</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1384">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69067000AX0148</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">COURZIEU</SimpleData>
+					<SimpleData name="Adresse">BOIS DE LA VERRIERE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7220946344745 </north>
+			<south> 45.7220590734257 </south>
+			<east> 4.55597000652673 </east>
+			<west> 4.55591621805195 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.55596340107183,45.7220686482088,0 4.5559588883216,45.7220590734257,0 4.55591621805195,45.7220689392435,0 4.55592296976187,45.7220849678845,0 4.55592735650455,45.7220946344745,0 4.55597000652673,45.7220840484032,0 4.55596340107183,45.7220686482088,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3720">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69067000AD0334</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">COURZIEU</SimpleData>
+					<SimpleData name="Adresse">LA GIRAUDIERE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7505214653634 </north>
+			<south> 45.7503735068924 </south>
+			<east> 4.54772136413431 </east>
+			<west> 4.54761729068768 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.54761729068768,45.7505161587717,0 4.54762438649622,45.7505214653634,0 4.54763369643556,45.75050935881231,0 4.54768045036998,45.7504423384822,0 4.54772136413431,45.7503735068924,0 4.54762228351257,45.75051527966109,0 4.54761903062737,45.7505139733083,0 4.54761729068768,45.7505161587717,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3770">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69067000AP0034</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">COURZIEU</SimpleData>
+					<SimpleData name="Adresse">LE GRAVET</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7418195760075 </north>
+			<south> 45.7403537630006 </south>
+			<east> 4.5959761065232 </east>
+			<west> 4.59353275572224 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.59353275572224,45.74079588052451,0 4.59360820352217,45.7408741633453,0 4.59446347177275,45.7418195760075,0 4.59456671870164,45.7417956892829,0 4.59466203374629,45.7417777690009,0 4.59481710252857,45.74175774257741,0 4.59497089188415,45.7417335008814,0 4.59500377872694,45.7417275415962,0 4.59513302325015,45.7416996839147,0 4.59523557480193,45.7416740050651,0 4.59531711696473,45.74165132538031,0 4.59560172370964,45.74157353337799,0 4.59576257472506,45.74152658380831,0 4.59591360398126,45.7414780617417,0 4.5959761065232,45.74145087748839,0 4.59593829154487,45.7414108824965,0 4.59469067461843,45.7403537630006,0 4.5938481800301,45.74067613645649,0 4.59353275572224,45.74079588052451,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3845">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69067000AP0035</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">COURZIEU</SimpleData>
+					<SimpleData name="Adresse">LE GRAVET</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7426111211457 </north>
+			<south> 45.74145087748839 </south>
+			<east> 4.59645812005795 </east>
+			<west> 4.59523557480193 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.5959761065232,45.74145087748839,0 4.59591360398126,45.7414780617417,0 4.59576257472506,45.74152658380831,0 4.59560172370964,45.74157353337799,0 4.59531711696473,45.74165132538031,0 4.59523557480193,45.7416740050651,0 4.59524676793059,45.7416963634958,0 4.59571528574483,45.7426111211457,0 4.59586860622009,45.7425438327859,0 4.5961674403099,45.74241513023451,0 4.59615175381654,45.7421347030022,0 4.59641358048134,45.7420430908812,0 4.59645812005795,45.74203084162771,0 4.59625736385202,45.7417471801359,0 4.59599641351122,45.7414725664471,0 4.5959761065232,45.74145087748839,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3936">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69067000AR0036</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">COURZIEU</SimpleData>
+					<SimpleData name="Adresse">CHATELAR</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7257015200822 </north>
+			<south> 45.7249890762106 </south>
+			<east> 4.6002128660144 </east>
+			<west> 4.59946864796322 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.59995644579448,45.7257015200822,0 4.6002128660144,45.7255948434904,0 4.60015614478722,45.7255411580369,0 4.60010475213608,45.7254849651057,0 4.60010249656601,45.7254825653094,0 4.59995099780789,45.7253132278182,0 4.59989148226089,45.72525183612569,0 4.59985091271401,45.7252141333766,0 4.59979646938524,45.7251724844233,0 4.59973723009078,45.72513396579039,0 4.5996737220212,45.72509902032471,0 4.59966889303928,45.7250965669725,0 4.59946864796322,45.7249890762106,0 4.59980855759459,45.72542585190561,0 4.59985807371668,45.7254972028816,0 4.59991080762846,45.725599761472,0 4.59995644579448,45.7257015200822,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.5126">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69067000AR0056</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">COURZIEU</SimpleData>
+					<SimpleData name="Adresse">CHATELAR</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7317282636288 </north>
+			<south> 45.7303146968116 </south>
+			<east> 4.59959917035331 </east>
+			<west> 4.59905343876231 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.59905343876231,45.73151357718199,0 4.59914281238693,45.7315710332818,0 4.59923632963423,45.7316250079818,0 4.5993339931029,45.73167559130191,0 4.59943539888324,45.7317221584913,0 4.59944946540091,45.7317282636288,0 4.59944596349132,45.73165166613951,0 4.59943143640019,45.7315051528008,0 4.59946687988038,45.731241023313,0 4.59948183371317,45.7311577692131,0 4.59953496923558,45.7310339835583,0 4.59954756663917,45.7309893116353,0 4.59952423917393,45.7306363991357,0 4.59952477305362,45.730543712435,0 4.59959917035331,45.7303146968116,0 4.59925773292674,45.7310088250176,0 4.59921795706444,45.73109207092781,0 4.59915690727681,45.731231280105,0 4.59910194100745,45.7313718440304,0 4.59905343876231,45.73151357718199,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

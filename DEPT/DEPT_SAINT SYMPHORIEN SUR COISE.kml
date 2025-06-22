@@ -1,0 +1,1150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>SAINT SYMPHORIEN SUR COISE_DEPT</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_3">
+		<name>SAINT SYMPHORIEN SUR COISE_DEPT</name>
+		<Schema name="SAINT SYMPHORIEN SUR COISE_DEPT" id="SAINT SYMPHORIEN SUR COISE_DEPT.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="DEPT">
+			<LineStyle>
+				<color>BF63f16c</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C63f16c</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1487">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69238000AH0153</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT SYMPHORIEN SUR COISE</SimpleData>
+					<SimpleData name="Adresse">LA BRUNE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6324861212585 </north>
+			<south> 45.6322128875651 </south>
+			<east> 4.45055430259302 </east>
+			<west> 4.45017481425089 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.45026158004707,45.6322128875651,0 4.45017481425089,45.63235567508659,0 4.45026998555027,45.63239173484501,0 4.45020216465793,45.63245889533949,0 4.45022803900377,45.6324861212585,0 4.45038335119283,45.6324068455023,0 4.45041263378593,45.6323877349625,0 4.45055430259302,45.632248292445,0 4.45041272164997,45.6322979408057,0 4.45028841938469,45.6322279424994,0 4.45026158004707,45.6322128875651,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2005">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69238000AH0187</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT SYMPHORIEN SUR COISE</SimpleData>
+					<SimpleData name="Adresse">GRANGE DE L EGLISE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6314109617013 </north>
+			<south> 45.63126384358 </south>
+			<east> 4.42635513231801 </east>
+			<west> 4.42477723098472 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.42635513231801,45.6313818316312,0 4.42613800375069,45.6313499092668,0 4.4259343454384,45.6313176356843,0 4.42582302025218,45.6313066175482,0 4.42567899041381,45.6312917806783,0 4.42561481942081,45.63128736997171,0 4.42536258216762,45.631272912717,0 4.42522426762578,45.6312656582078,0 4.42508997210441,45.631264927211,0 4.42497392489688,45.63126495568109,0 4.42477723098472,45.63126384358,0 4.42481283200838,45.6312754612476,0 4.42486643628334,45.6312882919648,0 4.42531195197242,45.63139063545971,0 4.42575497316694,45.6314109617013,0 4.42620269393463,45.63138943755101,0 4.42635052634667,45.6313824303855,0 4.42635513231801,45.6313818316312,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2040">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69238000AB0189</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT SYMPHORIEN SUR COISE</SimpleData>
+					<SimpleData name="Adresse">ALL GRANGE DES PRES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6399247491021 </north>
+			<south> 45.63860330636139 </south>
+			<east> 4.46297689893924 </east>
+			<west> 4.46288465855899 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.46289281298396,45.6395159376806,0 4.4628960141216,45.63965171188611,0 4.46291259880138,45.6399247491021,0 4.46295356791222,45.6399057535781,0 4.46295370547423,45.6398866583198,0 4.46294554318854,45.6397137523536,0 4.46293385687645,45.639431735189,0 4.46292841228635,45.6393179656482,0 4.46294376596931,45.6391312445068,0 4.46296295299288,45.6389243893717,0 4.46296919318392,45.6388446920993,0 4.46297689893924,45.6387086860706,0 4.46295652595621,45.63860330636139,0 4.46295044934475,45.6386551718748,0 4.46293532309181,45.63878244812499,0 4.4629370683524,45.638829078349,0 4.46293356071018,45.6388615468117,0 4.46291414185031,45.63898671732979,0 4.46291282285554,45.6389951103819,0 4.46291015171345,45.63902036288909,0 4.46289898940456,45.6391227300797,0 4.46289640917624,45.6391903112652,0 4.46288465855899,45.639377345823,0 4.46289281298396,45.6395159376806,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2225">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69238000AE0200</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT SYMPHORIEN SUR COISE</SimpleData>
+					<SimpleData name="Adresse">GRANGE TRYE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6316091752225 </north>
+			<south> 45.6313826508415 </south>
+			<east> 4.46201712231193 </east>
+			<west> 4.46145330024079 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.46201712231193,45.6313913410268,0 4.4619266955404,45.63138450011469,0 4.46179865887007,45.6313826508415,0 4.46177600878894,45.6313853767648,0 4.46161095825689,45.6314354342802,0 4.46145330024079,45.63151754819609,0 4.4614698447772,45.6315558804937,0 4.46150172499972,45.6315672647872,0 4.4614766340294,45.6315845225623,0 4.46155482206775,45.6316091752225,0 4.46173569589081,45.6315311727292,0 4.46188572975769,45.6314666297614,0 4.46195539833437,45.6314311403648,0 4.46201712231193,45.6313913410268,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2574">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69238000AH0227</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT SYMPHORIEN SUR COISE</SimpleData>
+					<SimpleData name="Adresse">CLERIMBERT</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6304281203107 </north>
+			<south> 45.6296854996096 </south>
+			<east> 4.44756028130531 </east>
+			<west> 4.44702496151671 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.44703298825484,45.6296880982907,0 4.44702496151671,45.6296854996096,0 4.44704308981555,45.62971606809201,0 4.44705907084623,45.6297430616584,0 4.44714794991413,45.6298677369266,0 4.4471492825674,45.6298696111148,0 4.44720496084375,45.6299518432396,0 4.44721350537615,45.6299644322568,0 4.44721724434536,45.6299699680869,0 4.4472788739327,45.6300588783781,0 4.44734303837201,45.6301514486258,0 4.44736633535145,45.6301833015328,0 4.44741241137846,45.630246833869,0 4.44741414314546,45.6302492432999,0 4.44750862039061,45.6303915887447,0 4.4475517800481,45.63042210536981,0 4.44755910518536,45.630427324871,0 4.44756028130531,45.6304281203107,0 4.44753878048725,45.6304060612184,0 4.44752664971149,45.63039378854239,0 4.44747734109111,45.6303048099605,0 4.44744436324148,45.6302611031948,0 4.44743176178051,45.6302406408182,0 4.44735415303464,45.6301150102345,0 4.44732664273245,45.63007420520069,0 4.4473331499804,45.6300628636185,0 4.44732429935273,45.6300483872208,0 4.44731651533051,45.63003542817791,0 4.44720870008403,45.6298591201951,0 4.44720552852706,45.6298556485198,0 4.44715738546651,45.6298014191917,0 4.44706904611513,45.62970231491939,0 4.44705718268761,45.62969535248321,0 4.44703298825484,45.6296880982907,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2861">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69238000AB0252</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT SYMPHORIEN SUR COISE</SimpleData>
+					<SimpleData name="Adresse">ALL GRANGE DES PRES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.63878244812499 </north>
+			<south> 45.63838705064601 </south>
+			<east> 4.46295652595621 </east>
+			<west> 4.46281202492446 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.46281202492446,45.63838705064601,0 4.4628362376938,45.6384385224807,0 4.46290655359353,45.6385536103828,0 4.46292353686462,45.6386375990379,0 4.46293532309181,45.63878244812499,0 4.46295044934475,45.6386551718748,0 4.46295652595621,45.63860330636139,0 4.46294178419385,45.63853613045569,0 4.46281202492446,45.63838705064601,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3003">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69238000AB0266</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT SYMPHORIEN SUR COISE</SimpleData>
+					<SimpleData name="Adresse">CHALET</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6371411344371 </north>
+			<south> 45.6366956251682 </south>
+			<east> 4.45659348488602 </east>
+			<west> 4.45641424162309 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.45659348488602,45.6366975042695,0 4.45655774440029,45.6366956251682,0 4.45651412771722,45.636833626347,0 4.45641424162309,45.6371411344371,0 4.45652115638741,45.6370618460552,0 4.4565316195408,45.63700569122571,0 4.45655023841551,45.6369130452422,0 4.45656420420062,45.6368387423407,0 4.45659348488602,45.6366975042695,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3112">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69238000AB0276</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT SYMPHORIEN SUR COISE</SimpleData>
+					<SimpleData name="Adresse">LAYAT</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6328772075029 </north>
+			<south> 45.6326032462724 </south>
+			<east> 4.45156503709076 </east>
+			<west> 4.45114339240823 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.451476080893,45.6328772075029,0 4.45149133591522,45.6328518831079,0 4.45156503709076,45.63272502410939,0 4.45149776017364,45.6327002238172,0 4.45135430299888,45.63264398319289,0 4.45124475831317,45.6326032462724,0 4.45114339240823,45.6327374867095,0 4.451476080893,45.6328772075029,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3247">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69238000AB0287</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT SYMPHORIEN SUR COISE</SimpleData>
+					<SimpleData name="Adresse">LAYAT</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6334420758218 </north>
+			<south> 45.6329219269351 </south>
+			<east> 4.452531042183 </east>
+			<west> 4.45117903475104 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.4519104729021,45.6334146855566,0 4.4519674136541,45.63342223676269,0 4.4521190339775,45.6334420758218,0 4.45221362631313,45.6333041392319,0 4.45221708983105,45.6332991410599,0 4.45243667212964,45.6333453918645,0 4.45250813973364,45.6333586094276,0 4.452531042183,45.6333605654179,0 4.45228265959312,45.6332538937498,0 4.45187108228575,45.6331020438048,0 4.4515544134516,45.63301525483821,0 4.45130624468339,45.6329509080267,0 4.45117903475104,45.6329219269351,0 4.45129516133301,45.6329590665835,0 4.45141663559333,45.6329945160081,0 4.4516742065701,45.6330698190804,0 4.45173092997524,45.6331572593054,0 4.45178650289271,45.6331959000647,0 4.45181605138106,45.63321632349439,0 4.45186113499746,45.6332514970033,0 4.45181063648231,45.6334015633929,0 4.4519104729021,45.6334146855566,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3496">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69238000AB0309</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT SYMPHORIEN SUR COISE</SimpleData>
+					<SimpleData name="Adresse">GRANGE DES PAUVRES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6395428205303 </north>
+			<south> 45.63942674862929 </south>
+			<east> 4.45189115811791 </east>
+			<west> 4.45178365850444 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.45181588207838,45.6395428205303,0 4.45189115811791,45.63942674862929,0 4.45178365850444,45.6395233321832,0 4.45181588207838,45.6395428205303,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3530">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69238000AB0311</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT SYMPHORIEN SUR COISE</SimpleData>
+					<SimpleData name="Adresse">GRANGE DES PAUVRES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6396260468353 </north>
+			<south> 45.6384959529501 </south>
+			<east> 4.45350952829743 </east>
+			<west> 4.45190197376164 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.4534751261427,45.638531609924,0 4.45350952829743,45.6385264823619,0 4.45350936903562,45.6384959529501,0 4.45346503390288,45.63850418087451,0 4.45318453234168,45.638549322043,0 4.45299832917599,45.6385918942438,0 4.45298325204916,45.6385995641377,0 4.45274293240681,45.6387229007987,0 4.45267337946459,45.6387584728923,0 4.4525102136647,45.6388815337248,0 4.45229321630713,45.63905221190951,0 4.45227982871663,45.6390606704758,0 4.45207867490195,45.63931661387709,0 4.45192224821925,45.639535234111,0 4.45194231270424,45.63955127673951,0 4.45190197376164,45.6396140308467,0 4.45192000683131,45.6396260468353,0 4.45210829879168,45.6393593720122,0 4.45215853039691,45.6392919870274,0 4.45218978335294,45.6392499745507,0 4.45223295305642,45.63919727090101,0 4.452429121553,45.6389960599741,0 4.45248926650683,45.63893953463199,0 4.45250279739266,45.6389267511518,0 4.4527471950446,45.6387728309195,0 4.45275300687638,45.638769243435,0 4.45277946603453,45.638750078681,0 4.453054080882,45.63862242647109,0 4.45324952025811,45.6385648744743,0 4.45338743607644,45.6385413883839,0 4.4534751261427,45.638531609924,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3541">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69238000AB0313</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT SYMPHORIEN SUR COISE</SimpleData>
+					<SimpleData name="Adresse">GRANGE DES PAUVRES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6385264823619 </north>
+			<south> 45.63846466836651 </south>
+			<east> 4.45386752407342 </east>
+			<west> 4.45350936903562 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.45386752407342,45.63846466836651,0 4.4535766614947,45.638486798079,0 4.45350936903562,45.6384959529501,0 4.45350952829743,45.6385264823619,0 4.45386480865575,45.63848839010001,0 4.45386752407342,45.63846466836651,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3709">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69238000AH0332</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT SYMPHORIEN SUR COISE</SimpleData>
+					<SimpleData name="Adresse">GRANGE DE L EGLISE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.631470818336 </north>
+			<south> 45.63143400249991 </south>
+			<east> 4.43223466614866 </east>
+			<west> 4.43079633160808 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.43167467773996,45.6314340670684,0 4.43155939783514,45.63143400249991,0 4.43127446332067,45.631436005573,0 4.43108012978887,45.6314368558397,0 4.43079633160808,45.63143812274939,0 4.43099707113262,45.6314516916277,0 4.4311775303369,45.63146038448169,0 4.43131328884794,45.6314680244512,0 4.43141294977742,45.6314697289424,0 4.43166715505023,45.631470818336,0 4.43192757402954,45.63146894608251,0 4.43213467346582,45.6314603666209,0 4.43223466614866,45.6314550412623,0 4.4321597074381,45.6314554548366,0 4.43200981857266,45.63144745531541,0 4.43174055757468,45.6314350302008,0 4.43167467773996,45.6314340670684,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3843">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69238000AE0035</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT SYMPHORIEN SUR COISE</SimpleData>
+					<SimpleData name="Adresse">LA RIVIERE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6266427731869 </north>
+			<south> 45.62630141583849 </south>
+			<east> 4.46567931238752 </east>
+			<west> 4.46473570287493 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.46564292334924,45.6266427731869,0 4.46567708316392,45.6265123666461,0 4.46567931238752,45.6264801849454,0 4.46567653371966,45.62646734205919,0 4.46567465120697,45.6264592608653,0 4.4656592348745,45.6264345140773,0 4.46564355063304,45.626419047316,0 4.46561346803977,45.62639305053079,0 4.46559514663287,45.62638464306279,0 4.46559449790059,45.6263843813216,0 4.46556112050401,45.6263745487993,0 4.46542992458839,45.6263595956851,0 4.46533958419798,45.6263557285895,0 4.4651700646725,45.626347758792,0 4.46504354072753,45.62633472579401,0 4.46475885296686,45.62630141583849,0 4.46475167144964,45.6263405068005,0 4.46483510907146,45.62635031835049,0 4.4647945084167,45.6264459538893,0 4.46473570287493,45.6265861376077,0 4.46480883711062,45.6265897788548,0 4.46526960146806,45.626607106424,0 4.46545568968162,45.62662512754509,0 4.46564292334924,45.6266427731869,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3965">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69238000AE0363</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT SYMPHORIEN SUR COISE</SimpleData>
+					<SimpleData name="Adresse">VILLE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.62955020675981 </north>
+			<south> 45.62894651170199 </south>
+			<east> 4.45755730066924 </east>
+			<west> 4.45602618905596 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.45617314333274,45.6294797735142,0 4.45630322492166,45.6294033376442,0 4.45663837430047,45.6292414792017,0 4.45684529656459,45.629143603656,0 4.4568798810153,45.62913099737289,0 4.4569640618442,45.6291006369327,0 4.45711461439136,45.629070497802,0 4.45736723551855,45.62902147431209,0 4.4574990208401,45.6289708631407,0 4.45752754066463,45.62895707431661,0 4.45755730066924,45.62894651170199,0 4.45749655074128,45.62895504398599,0 4.45734572548808,45.6289845567224,0 4.45707475940004,45.6290291344054,0 4.45698564413466,45.6290475803956,0 4.45696844593676,45.6290525764196,0 4.4569104824943,45.62906944819689,0 4.45680397713869,45.6291100045693,0 4.45673826822416,45.6291349921615,0 4.45665307624338,45.629175722801,0 4.4565533862974,45.6292362748308,0 4.45649306861295,45.6292661459786,0 4.45635650611813,45.62933041733711,0 4.45622616915622,45.6293971297382,0 4.45611390673217,45.6294628876062,0 4.45606816972831,45.6294956320071,0 4.45602618905596,45.6295345421556,0 4.45606844895164,45.62955020675981,0 4.45608839822372,45.6295326564796,0 4.45615217749727,45.6294928337984,0 4.45617314333274,45.6294797735142,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3973">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69238000AE0364</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT SYMPHORIEN SUR COISE</SimpleData>
+					<SimpleData name="Adresse">VILLE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.62888591306131 </north>
+			<south> 45.62840230861049 </south>
+			<east> 4.45893371376066 </east>
+			<west> 4.45767308429226 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.45892959070582,45.62840230861049,0 4.45870163449409,45.62842750940369,0 4.45863533426444,45.6284348533711,0 4.45836702163729,45.6284776886135,0 4.45826051509386,45.6284986125963,0 4.45817751044115,45.62851995245019,0 4.45810274408304,45.62854703961389,0 4.45801483754831,45.6285918593302,0 4.45800031504297,45.6286009637608,0 4.4579840268208,45.62861126189,0 4.45792173725521,45.628653948363,0 4.45788302183329,45.6286851615388,0 4.45776216251044,45.6287850764077,0 4.45770558161022,45.6288447107767,0 4.45767308429226,45.6288829583337,0 4.45768137753686,45.62888591306131,0 4.45784203995731,45.6288009735392,0 4.45790865081692,45.62874688314711,0 4.45796890902009,45.62870017015051,0 4.45803772410568,45.6286566785958,0 4.45813319465331,45.62861149066169,0 4.45816108437146,45.6285981601544,0 4.45820694906448,45.6285800935509,0 4.45836996740625,45.62852619458259,0 4.45842445974389,45.6285189137427,0 4.45872234149285,45.6284729031063,0 4.45893371376066,45.6284418830351,0 4.45892959070582,45.62840230861049,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3995">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69238000AE0367</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT SYMPHORIEN SUR COISE</SimpleData>
+					<SimpleData name="Adresse">GRANGE BATIE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.62744611608261 </north>
+			<south> 45.627117341859 </south>
+			<east> 4.46395286993542 </east>
+			<west> 4.46345798685984 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.46366607507175,45.6273104760196,0 4.46371862812058,45.62727845036749,0 4.4638692482246,45.62717832191101,0 4.46388297568574,45.62716832641501,0 4.46395286993542,45.627117341859,0 4.46380178102786,45.6271851437496,0 4.46371856232771,45.6272225218197,0 4.46359883776763,45.6273017137672,0 4.46348276850721,45.627417243678,0 4.46345798685984,45.62744611608261,0 4.46358068231447,45.627367606158,0 4.46366607507175,45.6273104760196,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.4087">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69238000AH0378</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT SYMPHORIEN SUR COISE</SimpleData>
+					<SimpleData name="Adresse">GRANGE DE L EGLISE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6314519894923 </north>
+			<south> 45.6314230748647 </south>
+			<east> 4.43034267370276 </east>
+			<west> 4.42977613077789 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.42979066071846,45.6314230748647,0 4.42977613077789,45.6314519894923,0 4.42998568685443,45.63144905673229,0 4.43029603083785,45.6314467339856,0 4.43034267370276,45.6314384858331,0 4.43020657922508,45.63143274028381,0 4.4299616567502,45.6314232438667,0 4.42979066071846,45.6314230748647,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.4590">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69238000AE0454</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT SYMPHORIEN SUR COISE</SimpleData>
+					<SimpleData name="Adresse">LA RIVIERE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6267203046264 </north>
+			<south> 45.6265861376077 </south>
+			<east> 4.46480883711062 </east>
+			<west> 4.46465478800834 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.46480883711062,45.6265897788548,0 4.46473570287493,45.6265861376077,0 4.46468963373645,45.6266740087659,0 4.46465478800834,45.6267203046264,0 4.46473009552807,45.6266993303127,0 4.46480871355414,45.6265899605901,0 4.46480883711062,45.6265897788548,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.4594">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69238000AE0455</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT SYMPHORIEN SUR COISE</SimpleData>
+					<SimpleData name="Adresse">LA RIVIERE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.62705165905339 </north>
+			<south> 45.6269059058064 </south>
+			<east> 4.46438641105929 </east>
+			<west> 4.46405543965777 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.46438641105929,45.6269059058064,0 4.46428021005022,45.6269479064256,0 4.46419379101618,45.6269807332631,0 4.46405543965777,45.6270496306517,0 4.4640933603551,45.62705165905339,0 4.46438641105929,45.6269059058064,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.4686">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69238000AD0047</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT SYMPHORIEN SUR COISE</SimpleData>
+					<SimpleData name="Adresse">209, AV EMMANUEL CLEMENT</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6370884438242 </north>
+			<south> 45.6368778620876 </south>
+			<east> 4.46200232591573 </east>
+			<west> 4.46164432759293 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.46175098560129,45.6368778620876,0 4.4617063745045,45.6369436474431,0 4.46164432759293,45.63703469686621,0 4.46181288331913,45.6370730363156,0 4.46194411551502,45.6370884438242,0 4.46199112679544,45.6370844107517,0 4.46200232591573,45.637041755306,0 4.46185132477816,45.6369388827978,0 4.46175098560129,45.6368778620876,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.4697">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69238000AC0471</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT SYMPHORIEN SUR COISE</SimpleData>
+					<SimpleData name="Adresse">PONT GUERAUD</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6329832895087 </north>
+			<south> 45.6327985899994 </south>
+			<east> 4.4519546268948 </east>
+			<west> 4.45167446710137 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.45175477898486,45.6327985899994,0 4.45173587796119,45.632826843488,0 4.45167965179707,45.6329151102485,0 4.45167446710137,45.632923012629,0 4.4517843703228,45.6329578003451,0 4.451875030245,45.6329832895087,0 4.4519546268948,45.6328952615116,0 4.45189834934819,45.6328640151157,0 4.45179323973966,45.63281619656659,0 4.45175477898486,45.6327985899994,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.5787">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69238000AC0688</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT SYMPHORIEN SUR COISE</SimpleData>
+					<SimpleData name="Adresse">TANNERIES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6357715793184 </north>
+			<south> 45.6354178089998 </south>
+			<east> 4.45636949916482 </east>
+			<west> 4.45597980078035 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.45636949916482,45.6357715793184,0 4.45631051213641,45.63566678834221,0 4.45628761741755,45.6356261057597,0 4.45621372941927,45.63549655999741,0 4.45614878318694,45.6354727229491,0 4.45609165803579,45.6354533779081,0 4.45597980078035,45.6354178089998,0 4.4560757248375,45.63547727071081,0 4.45620759195297,45.63559516872709,0 4.45623864924971,45.6356240374718,0 4.45625544828108,45.63563796005479,0 4.45633617760115,45.6357347242673,0 4.45636949916482,45.6357715793184,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.5792">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69238000AC0689</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT SYMPHORIEN SUR COISE</SimpleData>
+					<SimpleData name="Adresse">TANNERIES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6363936744148 </north>
+			<south> 45.6358357853395 </south>
+			<east> 4.45676411795971 </east>
+			<west> 4.45632647102215 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.45639108679695,45.6358357853395,0 4.45641051388175,45.6359252370596,0 4.45645191136652,45.6361032069479,0 4.45632647102215,45.6361712068858,0 4.456336801653,45.6361783683428,0 4.45647770050921,45.6362441826433,0 4.45649824118594,45.6362295066838,0 4.45663399675978,45.6363242976975,0 4.45665804048364,45.63633542456,0 4.45665270889483,45.63634260857139,0 4.45670019397815,45.6363761280026,0 4.45673621794649,45.6363936744148,0 4.45676411795971,45.6362683053214,0 4.45675006720594,45.6361685168372,0 4.45671966382273,45.6361303632332,0 4.45659822166738,45.6359793676645,0 4.45659027794134,45.6359409233495,0 4.45655377034072,45.63591473707109,0 4.45652647383493,45.6358970776593,0 4.45651145148888,45.6358921384588,0 4.4564949056433,45.6358878494159,0 4.45646104105978,45.6358840546835,0 4.45639108679695,45.6358357853395,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.5813">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69238000AC0693</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT SYMPHORIEN SUR COISE</SimpleData>
+					<SimpleData name="Adresse">RTE DE COISE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6298278451955 </north>
+			<south> 45.6295735137171 </south>
+			<east> 4.45483043299461 </east>
+			<west> 4.45456952756035 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.45465727774831,45.6297500245758,0 4.45471336267225,45.6296811216821,0 4.45471908357598,45.6296741128557,0 4.45474670338588,45.62964556600511,0 4.45478413090145,45.6296141003966,0 4.45483043299461,45.6295735137171,0 4.454815168133,45.629583708084,0 4.45469190829688,45.6296658180707,0 4.45458006026133,45.6297425567432,0 4.45456952756035,45.6297814200955,0 4.45459410981779,45.6298278451955,0 4.45461067354358,45.62980844761599,0 4.45465727774831,45.6297500245758,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.5844">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69238000AC0070</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT SYMPHORIEN SUR COISE</SimpleData>
+					<SimpleData name="Adresse">PONT GUERAUD</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.632923012629 </north>
+			<south> 45.63272502410939 </south>
+			<east> 4.45175477898486 </east>
+			<west> 4.451476080893 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.45159201284984,45.6327256668631,0 4.45156503709076,45.63272502410939,0 4.45149133591522,45.6328518831079,0 4.451476080893,45.6328772075029,0 4.4515791557928,45.6329012758944,0 4.4516610143034,45.6329191333115,0 4.45167446710137,45.632923012629,0 4.45167965179707,45.6329151102485,0 4.45173587796119,45.632826843488,0 4.45175477898486,45.6327985899994,0 4.45159201284984,45.6327256668631,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.5868">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69238000AC0703</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT SYMPHORIEN SUR COISE</SimpleData>
+					<SimpleData name="Adresse">RUE DE LA DOUE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6330370164168 </north>
+			<south> 45.6328952615116 </south>
+			<east> 4.45213259664714 </east>
+			<west> 4.451875030245 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.45203177410731,45.6330370164168,0 4.45213259664714,45.63299473674991,0 4.45206788668837,45.63296504025271,0 4.45204203865371,45.63294375857619,0 4.4519546268948,45.6328952615116,0 4.451875030245,45.6329832895087,0 4.45195230674353,45.63300264684079,0 4.45203177410731,45.6330370164168,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.5872">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69238000AC0705</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT SYMPHORIEN SUR COISE</SimpleData>
+					<SimpleData name="Adresse">RUE DE CHAZELLES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6327256668631 </north>
+			<south> 45.6325496573113 </south>
+			<east> 4.45172668756551 </east>
+			<west> 4.45149776017364 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.45152720010996,45.6326773282985,0 4.45149776017364,45.6327002238172,0 4.45156503709076,45.63272502410939,0 4.45159201284984,45.6327256668631,0 4.45171874331668,45.632560026999,0 4.45172147459498,45.63255647930011,0 4.45172668756551,45.6325496573113,0 4.45171718772658,45.6325545532076,0 4.45163644918632,45.6325990051555,0 4.45152720010996,45.6326773282985,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.5885">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69238000AC0709</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT SYMPHORIEN SUR COISE</SimpleData>
+					<SimpleData name="Adresse">BD DU 11 NOVEMBRE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.63059020343271 </north>
+			<south> 45.6305413343535 </south>
+			<east> 4.45653622614214 </east>
+			<west> 4.45626754696607 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.45653622614214,45.6305413343535,0 4.45629223825054,45.6305430509847,0 4.45626754696607,45.63059020343271,0 4.45648900784888,45.6305519425142,0 4.4565277181798,45.63054486687729,0 4.45653622614214,45.6305413343535,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6140">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69238000AC0781</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT SYMPHORIEN SUR COISE</SimpleData>
+					<SimpleData name="Adresse">RUE DE LA DOUE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6328550546359 </north>
+			<south> 45.6324260420398 </south>
+			<east> 4.45264807560922 </east>
+			<west> 4.45188787306217 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.45236245083839,45.6328550546359,0 4.45238585565236,45.6328370101262,0 4.45249370245965,45.6327542010723,0 4.45250527531297,45.6327451354444,0 4.45264807560922,45.6326343157449,0 4.45256605154351,45.63257097923731,0 4.45248314822927,45.6325083745268,0 4.45248236407274,45.63250784426791,0 4.4524177767843,45.6324583324783,0 4.45239356581814,45.6324260420398,0 4.45237423218417,45.6324573633743,0 4.45231595925488,45.6325164763873,0 4.45228180985306,45.6325506907981,0 4.45220856907764,45.63261179817151,0 4.45217944265848,45.6325976738298,0 4.45208685940308,45.6325526660097,0 4.45198422717764,45.632501393277,0 4.45195157691355,45.6324850627613,0 4.45188787306217,45.6324545426212,0 4.45196928934009,45.6325094215063,0 4.45198141889813,45.63253628398649,0 4.45200705252843,45.6325983670916,0 4.45201949307161,45.6326272970108,0 4.45201983853593,45.63263557837249,0 4.45199956558353,45.6326555637894,0 4.45198487965099,45.6326634086438,0 4.45196449900363,45.63267438911861,0 4.45195230240433,45.6326890466587,0 4.45195010009255,45.632698081397,0 4.45197159322726,45.6327246429469,0 4.45199623657857,45.6327440488521,0 4.45204506898938,45.6327459405753,0 4.45208956170294,45.63274878890451,0 4.45215583352721,45.6327744123857,0 4.45234092807101,45.6328469565077,0 4.45236245083839,45.6328550546359,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6182">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69238000AC0794</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT SYMPHORIEN SUR COISE</SimpleData>
+					<SimpleData name="Adresse">PONT GUERAUD</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.63299473674991 </north>
+			<south> 45.6324642197287 </south>
+			<east> 4.45234153476175 </east>
+			<west> 4.45159201284984 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.45213259664714,45.63299473674991,0 4.45225927664949,45.6329202409276,0 4.45234153476175,45.6328700949358,0 4.45212643567577,45.6327891117726,0 4.45208104959941,45.6327717748008,0 4.45197774282353,45.6327682442822,0 4.4519071922539,45.6326969237682,0 4.45190687984535,45.6326899028653,0 4.45190775929194,45.6326891710134,0 4.45193927922122,45.6326623758304,0 4.45197720481782,45.6326301842615,0 4.45197726826324,45.6326081179469,0 4.45196813664026,45.6325878814676,0 4.45195437033224,45.6325573475094,0 4.45194142831102,45.63252887437,0 4.4519180698596,45.6325144053563,0 4.45191663696897,45.6325136132733,0 4.45183587801356,45.6324642197287,0 4.45183020927457,45.6324683457051,0 4.45173824017433,45.6325349180403,0 4.45172905036442,45.6325467448081,0 4.45172668756551,45.6325496573113,0 4.45172147459498,45.63255647930011,0 4.45171874331668,45.632560026999,0 4.45159201284984,45.6327256668631,0 4.45175477898486,45.6327985899994,0 4.45179323973966,45.63281619656659,0 4.45189834934819,45.6328640151157,0 4.4519546268948,45.6328952615116,0 4.45204203865371,45.63294375857619,0 4.45206788668837,45.63296504025271,0 4.45213259664714,45.63299473674991,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6186">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69238000AC0796</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT SYMPHORIEN SUR COISE</SimpleData>
+					<SimpleData name="Adresse">PONT GUERAUD</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6328700949358 </north>
+			<south> 45.63244050389319 </south>
+			<east> 4.45236245083839 </east>
+			<west> 4.45183587801356 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.45183587801356,45.6324642197287,0 4.45191663696897,45.6325136132733,0 4.4519180698596,45.6325144053563,0 4.45194142831102,45.63252887437,0 4.45195437033224,45.6325573475094,0 4.45196813664026,45.6325878814676,0 4.45197726826324,45.6326081179469,0 4.45197720481782,45.6326301842615,0 4.45193927922122,45.6326623758304,0 4.45190775929194,45.6326891710134,0 4.45190687984535,45.6326899028653,0 4.4519071922539,45.6326969237682,0 4.45197774282353,45.6327682442822,0 4.45208104959941,45.6327717748008,0 4.45212643567577,45.6327891117726,0 4.45234153476175,45.6328700949358,0 4.45235793473218,45.6328590757008,0 4.45235818667618,45.6328588923229,0 4.45236245083839,45.6328550546359,0 4.45234092807101,45.6328469565077,0 4.45215583352721,45.6327744123857,0 4.45208956170294,45.63274878890451,0 4.45204506898938,45.6327459405753,0 4.45199623657857,45.6327440488521,0 4.45197159322726,45.6327246429469,0 4.45195010009255,45.632698081397,0 4.45195230240433,45.6326890466587,0 4.45196449900363,45.63267438911861,0 4.45198487965099,45.6326634086438,0 4.45199956558353,45.6326555637894,0 4.45201983853593,45.63263557837249,0 4.45201949307161,45.6326272970108,0 4.45200705252843,45.6325983670916,0 4.45198141889813,45.63253628398649,0 4.45196928934009,45.6325094215063,0 4.45188787306217,45.6324545426212,0 4.45186606643629,45.63244050389319,0 4.45186127950515,45.63244398805239,0 4.45184530939111,45.6324567128711,0 4.45183587801356,45.6324642197287,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6438">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69238000AC0866</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT SYMPHORIEN SUR COISE</SimpleData>
+					<SimpleData name="Adresse">TANNERIES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6362329337378 </north>
+			<south> 45.63549655999741 </south>
+			<east> 4.4568014009706 </east>
+			<west> 4.45621372941927 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.45669205988049,45.63582765725471,0 4.45666507216271,45.6357875681,0 4.45658046118183,45.63571409070121,0 4.45645283428441,45.6356061352678,0 4.45640801521875,45.6355860907502,0 4.45624735024649,45.63551062517811,0 4.45621372941927,45.63549655999741,0 4.45628761741755,45.6356261057597,0 4.45631051213641,45.63566678834221,0 4.45636949916482,45.6357715793184,0 4.45638054430914,45.6357863869105,0 4.45646252442256,45.63585746679319,0 4.45646436379068,45.63585906413059,0 4.45647535738643,45.6358670275651,0 4.45654444333116,45.6358773914163,0 4.45658653816955,45.63590611722469,0 4.45660276197181,45.6359225689776,0 4.45662284825747,45.63595896480759,0 4.45664182120129,45.6359823158547,0 4.45666257149903,45.6360097868102,0 4.45673878601889,45.63611057197569,0 4.4567733218706,45.63615452620481,0 4.45678339020592,45.6361712377348,0 4.45678773583388,45.6362095484855,0 4.45679014828832,45.6362329337378,0 4.4568014009706,45.63619216950021,0 4.45677974124841,45.6361545331775,0 4.45676685273839,45.6361282213692,0 4.45674552882783,45.6360838259408,0 4.45672884366077,45.6360449543978,0 4.45669506469887,45.6359663159607,0 4.45669801746986,45.6359077365488,0 4.45669681790248,45.63587677027391,0 4.45669205988049,45.63582765725471,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6441">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69238000AC0868</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT SYMPHORIEN SUR COISE</SimpleData>
+					<SimpleData name="Adresse">TANNERIES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6364370640647 </north>
+			<south> 45.63619216950021 </south>
+			<east> 4.45691490897712 </east>
+			<west> 4.45677188816738 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.4568014009706,45.63619216950021,0 4.45679014828832,45.6362329337378,0 4.45679078905779,45.6362426522888,0 4.45679266637469,45.63627009732,0 4.45678820764687,45.6362958230963,0 4.45677188816738,45.636407532796,0 4.45682419442317,45.6364291014067,0 4.45689090705711,45.6364370640647,0 4.45689879343043,45.63638058229981,0 4.45691490897712,45.6362611297676,0 4.45691414312424,45.6362417760542,0 4.45690665329686,45.63620107429711,0 4.4568014009706,45.63619216950021,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

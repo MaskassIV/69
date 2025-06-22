@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>BLACE_PUBLICorASSOCIE</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_9">
+		<name>BLACE_PUBLICorASSOCIE</name>
+		<Schema name="BLACE_PUBLICorASSOCIE" id="BLACE_PUBLICorASSOCIE.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="PUBLICorASSOCIE">
+			<LineStyle>
+				<color>BFdb2105</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4Cdb2105</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.6190">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">690230000B1923</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">BLACE</SimpleData>
+					<SimpleData name="Adresse">452, AV DE LA MAIRIE</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COAG</SimpleData>
+					<SimpleData name="Denomination">COMMUNAUTE DAGGLOMERATION VILLEFRANCHE BEAUJOLAIS SAONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0323399543782 </north>
+			<south> 46.0320486858168 </south>
+			<east> 4.65155757729884 </east>
+			<west> 4.65101344447643 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.65119935996467,46.0323399543782,0 4.65153480618763,46.0323271414026,0 4.65155757729884,46.0323275301787,0 4.65113656062235,46.0320486858168,0 4.6511079619881,46.0320695480217,0 4.65101344447643,46.0321388366502,0 4.65120224597436,46.0322638041617,0 4.65119807537615,46.0322928670835,0 4.65119935996467,46.0323399543782,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.6863">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">690230000B2081</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">BLACE</SimpleData>
+					<SimpleData name="Adresse">LE FOND DE BLACE</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SDIS</SimpleData>
+					<SimpleData name="Denomination">SERVICE DEPARTEMENTAL-METROPOLITAIN DINCENDIE ET DE SECOURS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0333350509462 </north>
+			<south> 46.0327995749276 </south>
+			<east> 4.65734909457535 </east>
+			<west> 4.65670426216679 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.65708177897657,46.033219832561,0 4.65728284485836,46.0332233780482,0 4.65730914931749,46.0329977309166,0 4.65734909457535,46.0328728516733,0 4.65729421061417,46.03286248556621,0 4.65729042756788,46.03285281342531,0 4.65723131606213,46.032843770063,0 4.65725579199859,46.0328320635289,0 4.65712171163498,46.0328070030401,0 4.65709662079127,46.0328025961856,0 4.65709552528267,46.03280486392531,0 4.6567240989023,46.0327995749276,0 4.65672137586187,46.0328594205277,0 4.65670426216679,46.0328708392051,0 4.65671943962184,46.0330956096862,0 4.6567267736042,46.0331630542297,0 4.6567245955541,46.03321523600069,0 4.65676676425475,46.03321561043721,0 4.65676835920581,46.03326854768481,0 4.656790795061,46.0333350509462,0 4.65708017695973,46.03332974014251,0 4.65708177897657,46.033219832561,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.13635">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">690230000A0510</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">BLACE</SimpleData>
+					<SimpleData name="Adresse">GRAMMON</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COAG</SimpleData>
+					<SimpleData name="Denomination">COMMUNAUTE DAGGLOMERATION VILLEFRANCHE BEAUJOLAIS SAONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0399711479545 </north>
+			<south> 46.03975226309089 </south>
+			<east> 4.67567479014601 </east>
+			<west> 4.67513031528805 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.67534236766364,46.0397577821071,0 4.67533694359783,46.0397580424025,0 4.67525237162254,46.0397754145935,0 4.67513031528805,46.0397935207383,0 4.67514180571794,46.0399711479545,0 4.67519531482788,46.0399699970055,0 4.67533645904227,46.0399671006576,0 4.67564341920509,46.03996877881319,0 4.67564535024106,46.0399302906313,0 4.67566978882175,46.0398197745166,0 4.67567479014601,46.0397716935941,0 4.67542937010904,46.03975226309089,0 4.67534236766364,46.0397577821071,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.14186">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">690230000B0551</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">BLACE</SimpleData>
+					<SimpleData name="Adresse">LE SAVIGNY</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COAG</SimpleData>
+					<SimpleData name="Denomination">COMMUNAUTE DAGGLOMERATION VILLEFRANCHE BEAUJOLAIS SAONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.032883948679 </north>
+			<south> 46.0320621989093 </south>
+			<east> 4.64214443093177 </east>
+			<west> 4.64038818847872 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.64152239847313,46.0327533224157,0 4.64211395538825,46.0326949463345,0 4.64212331745059,46.0325537632334,0 4.64214215678582,46.03233588449659,0 4.64214443093177,46.0323081104124,0 4.64202025585229,46.0322680273595,0 4.64195838041492,46.0322355982742,0 4.64190572094818,46.0321870034482,0 4.64186207457454,46.0320894608533,0 4.64108931051147,46.03232834482881,0 4.64093330333674,46.0320621989093,0 4.64063867326358,46.0322381344553,0 4.64057571428173,46.0322647152404,0 4.64053078028498,46.03227131009721,0 4.64044148756528,46.0323644723408,0 4.64048971894669,46.0326851390638,0 4.64038818847872,46.032883948679,0 4.64096574286161,46.03281560351031,0 4.64152239847313,46.0327533224157,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.15003">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">690230000A0625</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">BLACE</SimpleData>
+					<SimpleData name="Adresse">LA TALLEBARDE</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COAG</SimpleData>
+					<SimpleData name="Denomination">COMMUNAUTE DAGGLOMERATION VILLEFRANCHE BEAUJOLAIS SAONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.05424452271841 </north>
+			<south> 46.0527374344517 </south>
+			<east> 4.65570651428061 </east>
+			<west> 4.65385348183498 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.65446745760555,46.05424452271841,0 4.65463064713773,46.05398859781481,0 4.65499040273651,46.0541643863289,0 4.65521359564672,46.05380040283381,0 4.65542051407785,46.05346313669001,0 4.6555669021458,46.0532165525688,0 4.65565663874087,46.053064827333,0 4.65570651428061,46.05297267917241,0 4.655587579642,46.0528679542672,0 4.65553338446985,46.05282956554571,0 4.65547336767809,46.052804051573,0 4.65540162097454,46.0527885263188,0 4.65532570480174,46.05277630436539,0 4.65520317551257,46.05278845089141,0 4.65493475502526,46.0528402853015,0 4.65486549630564,46.0528472406181,0 4.65479135950863,46.0528425581252,0 4.65471918244507,46.0528299209257,0 4.65463543945637,46.05281123769689,0 4.6545392463508,46.0527829185601,0 4.65443425748723,46.0527374344517,0 4.65421598874398,46.053183397312,0 4.65396837226051,46.0536988705647,0 4.65385348183498,46.0539477852531,0 4.65446745760555,46.05424452271841,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.15113">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">690230000A0637</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">BLACE</SimpleData>
+					<SimpleData name="Adresse">CHAMBON</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COAG</SimpleData>
+					<SimpleData name="Denomination">COMMUNAUTE DAGGLOMERATION VILLEFRANCHE BEAUJOLAIS SAONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0506575748548 </north>
+			<south> 46.0500130289092 </south>
+			<east> 4.64810336120357 </east>
+			<west> 4.64725716642599 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.6475557418414,46.0500130289092,0 4.64740517479577,46.0500779043824,0 4.64725716642599,46.0501418417923,0 4.64728990819553,46.0502416126017,0 4.6473928645915,46.05037071646059,0 4.64745286854294,46.0504305509824,0 4.64763009484519,46.050538670356,0 4.64770342740452,46.0505857014581,0 4.64778410199544,46.0506575748548,0 4.64810336120357,46.0503384149718,0 4.64777278751338,46.0501463291123,0 4.6475557418414,46.0500130289092,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

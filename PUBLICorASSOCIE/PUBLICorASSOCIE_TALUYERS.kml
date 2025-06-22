@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>TALUYERS_PUBLICorASSOCIE</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_9">
+		<name>TALUYERS_PUBLICorASSOCIE</name>
+		<Schema name="TALUYERS_PUBLICorASSOCIE" id="TALUYERS_PUBLICorASSOCIE.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="PUBLICorASSOCIE">
+			<LineStyle>
+				<color>BFdb2105</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4Cdb2105</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.7472">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">692410000A2257</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TALUYERS</SimpleData>
+					<SimpleData name="Adresse">LA RONZE</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SDIS</SimpleData>
+					<SimpleData name="Denomination">SERVICE DEPARTEMENTAL-METROPOLITAIN DINCENDIE ET DE SECOURS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.63758993216331 </north>
+			<south> 45.6373998186134 </south>
+			<east> 4.73444284172124 </east>
+			<west> 4.73434206839355 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.73438143869133,45.6373998186134,0 4.73434206839355,45.63758993216331,0 4.73435291479496,45.6375877834814,0 4.73436182490267,45.63758530435851,0 4.7343703387294,45.6375824710626,0 4.73437857897091,45.6375791015633,0 4.7343864229312,45.6375753778913,0 4.73439387061018,45.63757130004661,0 4.73440092200781,45.6375668680292,0 4.73440757994336,45.6375621718655,0 4.73441371326319,45.63755712350711,0 4.73441931914799,45.6375516329277,0 4.73442440887514,45.6375460602327,0 4.73442897680607,45.6375402253696,0 4.73443276345301,45.6375340422675,0 4.73443616509632,45.6375278650986,0 4.73443878827534,45.6375214297173,0 4.7344407697826,45.6375150042249,0 4.73444210397962,45.6375084085686,0 4.73444279368597,45.6375017327749,0 4.73444284172124,45.6374950668701,0 4.73444260907053,45.6374917378733,0 4.73444049380417,45.63748159258569,0 4.73443689637932,45.6374692183952,0 4.73443202125383,45.637457044035,0 4.73442600240125,45.63744524757981,0 4.73441883418352,45.6374336489768,0 4.73441039672521,45.6374225202825,0 4.73440586139127,45.637417095919,0 4.73440309589479,45.63741488679301,0 4.73438903148267,45.6374044753018,0 4.73438143869133,45.6373998186134,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.7500">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">692410000A2260</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TALUYERS</SimpleData>
+					<SimpleData name="Adresse">LA RONZE</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SDIS</SimpleData>
+					<SimpleData name="Denomination">SERVICE DEPARTEMENTAL-METROPOLITAIN DINCENDIE ET DE SECOURS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6376599907526 </north>
+			<south> 45.63730721540139 </south>
+			<east> 4.73438143869133 </east>
+			<west> 4.73403328600026 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.73405485323778,45.63730721540139,0 4.73403328600026,45.6376599907526,0 4.73431018213299,45.63759672842,0 4.73434206839355,45.63758993216331,0 4.73438143869133,45.6373998186134,0 4.73437383744352,45.6373948918454,0 4.73435776480669,45.6373859524151,0 4.7343408220296,45.6373779270896,0 4.7343231374457,45.6373708138909,0 4.7343049620839,45.63736442881059,0 4.73428591658024,45.6373589578341,0 4.73426199439368,45.6373535620024,0 4.73414975078147,45.6373240373645,0 4.73405485323778,45.63730721540139,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.8372">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">692410000A2545</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TALUYERS</SimpleData>
+					<SimpleData name="Adresse">LA RONZE</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SDIS</SimpleData>
+					<SimpleData name="Denomination">SERVICE DEPARTEMENTAL-METROPOLITAIN DINCENDIE ET DE SECOURS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6376892519133 </north>
+			<south> 45.63725628392691 </south>
+			<east> 4.73405485323778 </east>
+			<west> 4.73359918735425 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.73390542041984,45.6376892519133,0 4.73403328600026,45.6376599907526,0 4.73405485323778,45.63730721540139,0 4.73402425492248,45.6373018323143,0 4.73389647189211,45.6372721865716,0 4.73384127752359,45.63725628392691,0 4.73359918735425,45.6376356942937,0 4.73390542041984,45.6376892519133,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

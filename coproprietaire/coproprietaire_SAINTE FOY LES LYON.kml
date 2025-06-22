@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>SAINTE FOY LES LYON_coproprietaire</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_7">
+		<name>SAINTE FOY LES LYON_coproprietaire</name>
+		<Schema name="SAINTE FOY LES LYON_coproprietaire" id="SAINTE FOY LES LYON_coproprietaire.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="coproprietaire">
+			<LineStyle>
+				<color>BF7c1404</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C7c1404</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_7.25">
+		<styleUrl>#coproprietaire</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_7.schema">
+					<SimpleData name="Numero de Parcelle">69202000AX0273</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINTE FOY LES LYON</SimpleData>
+					<SimpleData name="Adresse">RTE DE CHAPONOST</SimpleData>
+					<SimpleData name="Groupe de personne">Coproprietaires</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SYCO</SimpleData>
+					<SimpleData name="Denomination">LES COPROPRIETAIRES DES PARCELLES AX 273 AX 274</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7243541622316 </north>
+			<south> 45.72401463969079 </south>
+			<east> 4.7771470407148 </east>
+			<west> 4.7768412525819 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.77691480934587,45.72423469568011,0 4.77692488622374,45.7242481376186,0 4.77700520922218,45.7243465804831,0 4.77706675845921,45.7243210206394,0 4.77713627111196,45.7243511795243,0 4.7771470407148,45.7243541622316,0 4.77712196903178,45.724322311924,0 4.77710093856558,45.724296162473,0 4.77707755608822,45.72428085867579,0 4.77705568999323,45.7242647203245,0 4.7770353287078,45.7242473873166,0 4.77701686940591,45.7242292136771,0 4.77700005501879,45.7242102034599,0 4.77698565096232,45.724190164456,0 4.77697310135632,45.7241718075736,0 4.77696207969841,45.7241529762453,0 4.77695258598732,45.7241336704715,0 4.77694449747399,45.7241140723306,0 4.77693794269064,45.7240941797965,0 4.77693499882836,45.7240826069851,0 4.77689033413862,45.72402530505949,0 4.7768412525819,45.72401463969079,0 4.77684276683872,45.724029747827,0 4.7768446609112,45.7240446698331,0 4.77684707201157,45.7240596737604,0 4.77684986582109,45.72407458158341,0 4.77685304523287,45.7240894833279,0 4.77685661024721,45.72410437899381,0 4.77686068939809,45.724119266555,0 4.77686501983287,45.724133970012,0 4.77686987886906,45.7241491154935,0 4.77687549464617,45.7241637986885,0 4.77688187584327,45.7241782896744,0 4.77688889681995,45.7241926805031,0 4.7768968117515,45.7242068770963,0 4.77690536646363,45.724220973532,0 4.77691480934587,45.72423469568011,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_7.26">
+		<styleUrl>#coproprietaire</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_7.schema">
+					<SimpleData name="Numero de Parcelle">69202000AX0274</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINTE FOY LES LYON</SimpleData>
+					<SimpleData name="Adresse">RTE DE CHAPONOST</SimpleData>
+					<SimpleData name="Groupe de personne">Coproprietaires</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SYCO</SimpleData>
+					<SimpleData name="Denomination">LES COPROPRIETAIRES DES PARCELLES AX 273 AX 274</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7240826069851 </north>
+			<south> 45.72402530505949 </south>
+			<east> 4.77693499882836 </east>
+			<west> 4.77689033413862 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.77689033413862,45.72402530505949,0 4.77693499882836,45.7240826069851,0 4.77693292452866,45.7240740828955,0 4.77692957441288,45.7240538696274,0 4.7769277609151,45.7240334519927,0 4.77689033413862,45.72402530505949,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

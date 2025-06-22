@@ -1,0 +1,655 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>SAIN-BEL_DEPT</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_3">
+		<name>SAIN-BEL_DEPT</name>
+		<Schema name="SAIN-BEL_DEPT" id="SAIN-BEL_DEPT.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="DEPT">
+			<LineStyle>
+				<color>BF63f16c</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C63f16c</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.604">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">691710000U1093</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAIN-BEL</SimpleData>
+					<SimpleData name="Adresse">5574, RTE DE BEAULIEU</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.81358173100989 </north>
+			<south> 45.8125352047126 </south>
+			<east> 4.60309220115369 </east>
+			<west> 4.60163904114986 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.60309220115369,45.8135277634549,0 4.60281671953163,45.8133466756874,0 4.60254704970799,45.8131616318752,0 4.60231450749467,45.8129954250768,0 4.6022508832224,45.8129467007556,0 4.60177320557025,45.8125352047126,0 4.60163904114986,45.812603307735,0 4.60189983292526,45.8127533532303,0 4.60220272318149,45.8129692706301,0 4.60300219065107,45.81358173100989,0 4.60309220115369,45.8135277634549,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.914">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">691710000U1213</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAIN-BEL</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8099737518887 </north>
+			<south> 45.809826838304 </south>
+			<east> 4.60058605982538 </east>
+			<west> 4.60038580382621 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.60058605982538,45.8099047749014,0 4.6005543418151,45.8098280366767,0 4.60054992814064,45.809826838304,0 4.60050070551748,45.80989265497101,0 4.6004857621624,45.8098880932358,0 4.60045834499623,45.80987974535869,0 4.60044990125195,45.8098772530999,0 4.60042569828023,45.80991758619821,0 4.60038580382621,45.8099497654453,0 4.60042191704326,45.8099737518887,0 4.60047591370847,45.80994821784551,0 4.60058605982538,45.8099047749014,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1481">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">691710000U1527</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAIN-BEL</SimpleData>
+					<SimpleData name="Adresse">CHANTE MERLE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8112883917393 </north>
+			<south> 45.80864974819211 </south>
+			<east> 4.60503301826123 </east>
+			<west> 4.60190074443307 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.60193164836002,45.8107647496637,0 4.60190074443307,45.8108004946546,0 4.6023391890827,45.8112274979785,0 4.6023836199917,45.8112495644176,0 4.60246636849458,45.81127387907409,0 4.60255746390998,45.8112840246439,0 4.6026495507874,45.8112883917393,0 4.60274173051326,45.811287083182,0 4.60275484919388,45.8112864466088,0 4.60289267181943,45.8112690883985,0 4.60295812013923,45.8112520370752,0 4.60297731783219,45.81123897490159,0 4.60307720568311,45.8111172262836,0 4.60373599336701,45.81067824751371,0 4.60422581828955,45.8102667045744,0 4.60449200902894,45.8099999242707,0 4.60461399475238,45.8098366091773,0 4.60503301826123,45.8086779668548,0 4.60502228116359,45.80864974819211,0 4.60453543728375,45.8097969250479,0 4.60449942671436,45.8098651677121,0 4.60445601250301,45.8099312638909,0 4.60441340627592,45.8099852795041,0 4.60430828020429,45.8100994480566,0 4.60392034432355,45.8104271320228,0 4.60382303570097,45.8105001181955,0 4.60311610012144,45.8109840944684,0 4.6030549058729,45.8110190089416,0 4.60298868603878,45.8110494012873,0 4.60291846010892,45.8110748967517,0 4.60284498748118,45.8110950342082,0 4.60277339956716,45.8111091103297,0 4.60269078035346,45.8111158673911,0 4.6026073501579,45.8111168715766,0 4.60252427029972,45.8111121964682,0 4.60244218190251,45.8111017428997,0 4.60241240657728,45.8110964912531,0 4.6023597826034,45.81108057563939,0 4.60231087199397,45.8110594734468,0 4.60226659162929,45.8110337120735,0 4.60223313869701,45.8110082473624,0 4.60193164836002,45.8107647496637,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1499">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">691710000U1533</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAIN-BEL</SimpleData>
+					<SimpleData name="Adresse">LE BUTH</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.807210961093 </north>
+			<south> 45.8065246522053 </south>
+			<east> 4.60345266484792 </east>
+			<west> 4.60295408596193 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.60342153254407,45.8065246522053,0 4.60320661470947,45.8067028860589,0 4.60317173752055,45.80671256825519,0 4.60311573983084,45.80679766675169,0 4.60306689020766,45.8068850054727,0 4.60302582188671,45.8069742151658,0 4.60299915584706,45.8070449366141,0 4.60298373856162,45.8070861362914,0 4.60296579820583,45.8071335864568,0 4.60295587847343,45.8071822737478,0 4.60295408596193,45.8072048161013,0 4.60297730496769,45.8072061076279,0 4.60306682348513,45.807210961093,0 4.60309013461245,45.8071045304283,0 4.60327942885922,45.8071259803574,0 4.60331862602063,45.8070388686973,0 4.60345266484792,45.8067452359454,0 4.60342153254407,45.8065246522053,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2111">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">691710000U1928</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAIN-BEL</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8104539540932 </north>
+			<south> 45.81043959208479 </south>
+			<east> 4.59683077468891 </east>
+			<west> 4.59679699365698 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.59682095738911,45.81043959208479,0 4.59679699365698,45.8104482172302,0 4.59683077468891,45.8104539540932,0 4.59682095738911,45.81043959208479,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2474">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">691710000U2184</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAIN-BEL</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8103509097482 </north>
+			<south> 45.8101942852456 </south>
+			<east> 4.59710932494267 </east>
+			<west> 4.5965963784005 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.59700937046996,45.8101942852456,0 4.5966448129803,45.81032535587119,0 4.5965963784005,45.8103428834565,0 4.5966020198184,45.8103509097482,0 4.59665153927185,45.8103441749143,0 4.59670178833582,45.81034040196621,0 4.59672958068823,45.8103394684948,0 4.59693648393745,45.8103415858302,0 4.59705340679136,45.810349749259,0 4.5970732793876,45.8103421726742,0 4.59710932494267,45.810328242708,0 4.59700937046996,45.8101942852456,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3313">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">691710000U2922</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAIN-BEL</SimpleData>
+					<SimpleData name="Adresse">MONT ROGNON</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8112131931685 </north>
+			<south> 45.8106406317242 </south>
+			<east> 4.59528252587377 </east>
+			<west> 4.59348465416238 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.59512582893205,45.8106419786442,0 4.59505079871652,45.8106439393816,0 4.59492362821145,45.81066447001979,0 4.5945084467404,45.8107509448752,0 4.5940945435895,45.81083712993441,0 4.59409002217224,45.8108277366966,0 4.59401180017787,45.8108440625246,0 4.59385394508673,45.8108769140721,0 4.59374166209466,45.8109001153472,0 4.59360286972102,45.8109285543387,0 4.5935338571085,45.8109426782884,0 4.5935059583261,45.81097117309499,0 4.59349141233271,45.810998218487,0 4.59348476118149,45.8110265935265,0 4.59348465416238,45.8110407356189,0 4.5935628289728,45.8111566297749,0 4.59360103939468,45.8112131931685,0 4.5935962631437,45.8112038935759,0 4.59359291605719,45.8111950241475,0 4.59359085380014,45.811186046516,0 4.59358981628799,45.81117687428551,0 4.59359006880132,45.8111677739135,0 4.59359148259686,45.8111587472173,0 4.59359393153002,45.8111498860449,0 4.59359754954012,45.8111413686402,0 4.59360233142947,45.811133014942,0 4.5936080249097,45.8111250086457,0 4.59361463257916,45.81111743978219,0 4.59362215443763,45.8111103083511,0 4.59363059568222,45.8111037944138,0 4.59364100444349,45.8110985136469,0 4.59365104516612,45.811093868546,0 4.5937984650671,45.81106089440361,0 4.59394588739117,45.8110280100995,0 4.5940934356825,45.8109950337544,0 4.59424085765508,45.8109621490653,0 4.59438840559427,45.8109291723349,0 4.59453595595734,45.8108962854424,0 4.59468350354431,45.81086330832651,0 4.59483092481381,45.8108304228671,0 4.59497834590772,45.8107975372153,0 4.59516210836216,45.81075648217129,0 4.59528252587377,45.8107295618317,0 4.59526077754003,45.8107078926821,0 4.59520066932533,45.8106512789688,0 4.59518928542465,45.8106406317242,0 4.59512582893205,45.8106419786442,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3629">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">691710000U0325</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAIN-BEL</SimpleData>
+					<SimpleData name="Adresse">PRE BIGAUD</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.812554261261 </north>
+			<south> 45.8123474352393 </south>
+			<east> 4.60211791238496 </east>
+			<west> 4.6017721414749 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.602025611821,45.8123474352393,0 4.60179732223126,45.8124474969922,0 4.6017721414749,45.8124585722843,0 4.60187744132709,45.812554261261,0 4.60189601615004,45.8125463419712,0 4.60204691889757,45.8124825045073,0 4.60202371257148,45.8124550929733,0 4.60205719641229,45.8124416481157,0 4.60208127000479,45.8124678764576,0 4.60211791238496,45.8124523152074,0 4.602025611821,45.8123474352393,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3640">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">691710000U0326</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAIN-BEL</SimpleData>
+					<SimpleData name="Adresse">PRE BIGAUD</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8124825045073 </north>
+			<south> 45.8124416481157 </south>
+			<east> 4.60208127000479 </east>
+			<west> 4.60202371257148 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.60208127000479,45.8124678764576,0 4.60205719641229,45.8124416481157,0 4.60202371257148,45.8124550929733,0 4.60204691889757,45.8124825045073,0 4.60208127000479,45.8124678764576,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3648">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">691710000U0327</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAIN-BEL</SimpleData>
+					<SimpleData name="Adresse">PRE BIGAUD</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8129649062252 </north>
+			<south> 45.8122659865323 </south>
+			<east> 4.60273007245192 </east>
+			<west> 4.60187744132709 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.60204691889757,45.8124825045073,0 4.60189601615004,45.8125463419712,0 4.60187744132709,45.812554261261,0 4.60233255530515,45.8129649062252,0 4.60273007245192,45.8127356260332,0 4.60219892884631,45.8122659865323,0 4.602025611821,45.8123474352393,0 4.60211791238496,45.8124523152074,0 4.60208127000479,45.8124678764576,0 4.60204691889757,45.8124825045073,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3659">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">691710000U0328</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAIN-BEL</SimpleData>
+					<SimpleData name="Adresse">PRE BIGAUD</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8137720180249 </north>
+			<south> 45.8127356260332 </south>
+			<east> 4.60389863471801 </east>
+			<west> 4.60233255530515 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.60353222287512,45.8133073340308,0 4.60273007245192,45.8127356260332,0 4.60233255530515,45.8129649062252,0 4.60301563615591,45.81343707163519,0 4.60354314351286,45.8137720180249,0 4.60389863471801,45.81354143917459,0 4.60386485283508,45.813522464456,0 4.60361568581933,45.81337829278971,0 4.60353222287512,45.8133073340308,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3669">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">691710000U0329</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAIN-BEL</SimpleData>
+					<SimpleData name="Adresse">PRE BIGAUD</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8142101864643 </north>
+			<south> 45.81354143917459 </south>
+			<east> 4.60452021489985 </east>
+			<west> 4.60354314351286 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.60354314351286,45.8137720180249,0 4.60375248348303,45.8139018944408,0 4.60378911633912,45.81392145917229,0 4.60419217985597,45.8140913649771,0 4.60424118842298,45.81413345077839,0 4.60428466023859,45.8141179719289,0 4.60452021489985,45.8142101864643,0 4.60422878743755,45.8139194460869,0 4.60412852815235,45.8137846882933,0 4.60389863471801,45.81354143917459,0 4.60354314351286,45.8137720180249,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3694">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">691710000U0330</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAIN-BEL</SimpleData>
+					<SimpleData name="Adresse">PRE BIGAUD</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8144180307601 </north>
+			<south> 45.8141179719289 </south>
+			<east> 4.60469357065656 </east>
+			<west> 4.60424118842298 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.60424118842298,45.81413345077839,0 4.60438240831209,45.8142549269076,0 4.60459843510073,45.8143532731762,0 4.60469357065656,45.8144180307601,0 4.60452021489985,45.8142101864643,0 4.60428466023859,45.8141179719289,0 4.60424118842298,45.81413345077839,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.5016">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">691710000U0536</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAIN-BEL</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8106796077371 </north>
+			<south> 45.8105090718803 </south>
+			<east> 4.59762279398324 </east>
+			<west> 4.59741796039009 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.59751591703234,45.8106796077371,0 4.59756353212167,45.8106293067857,0 4.59755905332225,45.8106258575303,0 4.59762279398324,45.8105586658821,0 4.59757589475182,45.8105090718803,0 4.5974578855423,45.8105568562696,0 4.59749450242945,45.81058047624081,0 4.59745666564811,45.8106126253071,0 4.59742484580165,45.8106435183482,0 4.59741796039009,45.8106503708327,0 4.59743142913232,45.8106573856602,0 4.59743831714793,45.8106506232056,0 4.59751591703234,45.8106796077371,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.5904">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">691710000U0712</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAIN-BEL</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.80991758619821 </north>
+			<south> 45.8098508869468 </south>
+			<east> 4.60044990125195 </east>
+			<west> 4.60034652696457 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.60043694727418,45.8098702313326,0 4.60037199041493,45.8098508869468,0 4.60034652696457,45.8099010552588,0 4.60042569828023,45.80991758619821,0 4.60044990125195,45.8098772530999,0 4.60043694727418,45.8098702313326,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.5908">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">691710000U0713</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAIN-BEL</SimpleData>
+					<SimpleData name="Adresse">2, IMP DE LA CHAPELLE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.80989265497101 </north>
+			<south> 45.80981011154801 </south>
+			<east> 4.60054992814064 </east>
+			<west> 4.60043694727418 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.60054992814064,45.809826838304,0 4.60049728242546,45.80981011154801,0 4.6004791102247,45.8098318953131,0 4.60046873278745,45.8098293404012,0 4.60043694727418,45.8098702313326,0 4.60044990125195,45.8098772530999,0 4.60045834499623,45.80987974535869,0 4.6004857621624,45.8098880932358,0 4.60050070551748,45.80989265497101,0 4.60054992814064,45.809826838304,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.5909">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">691710000U0714</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAIN-BEL</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8100804002507 </north>
+			<south> 45.80927818964189 </south>
+			<east> 4.6005543418151 </east>
+			<west> 4.60015017365845 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.60018622657639,45.8100804002507,0 4.60024758338066,45.8100510692286,0 4.6002735845089,45.81003277723349,0 4.60030463953411,45.81000666778429,0 4.60030795457823,45.8100099532935,0 4.60038580382621,45.8099497654453,0 4.60042569828023,45.80991758619821,0 4.60034652696457,45.8099010552588,0 4.60037199041493,45.8098508869468,0 4.60043694727418,45.8098702313326,0 4.60046873278745,45.8098293404012,0 4.6004791102247,45.8098318953131,0 4.60049728242546,45.80981011154801,0 4.60054992814064,45.809826838304,0 4.6005543418151,45.8098280366767,0 4.60055225413305,45.8098226622204,0 4.60054741594899,45.80981570554209,0 4.60048025564577,45.80973811874771,0 4.60020380374654,45.80927818964189,0 4.60016807891801,45.8092853610041,0 4.60019333592441,45.80955691694499,0 4.60015017365845,45.8095607711501,0 4.60016217288105,45.80967705841881,0 4.60025712655693,45.809678234427,0 4.60024139824042,45.80985544010691,0 4.60018547505618,45.8100678014454,0 4.60018622657639,45.8100804002507,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.5913">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">691710000U0715</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAIN-BEL</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8095607711501 </north>
+			<south> 45.8089614452356 </south>
+			<east> 4.60020380374654 </east>
+			<west> 4.60000517351175 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.60020380374654,45.80927818964189,0 4.60010747365175,45.8091228374668,0 4.60006363016089,45.80905428699201,0 4.60000949138549,45.80896822917391,0 4.60000517351175,45.8089614452356,0 4.60008590442543,45.8092096080171,0 4.60013921305366,45.8094536560503,0 4.60015017365845,45.8095607711501,0 4.60019333592441,45.80955691694499,0 4.60016807891801,45.8092853610041,0 4.60020380374654,45.80927818964189,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6690">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">691710000U0947</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAIN-BEL</SimpleData>
+					<SimpleData name="Adresse">LE BUTH</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.80810560073271 </north>
+			<south> 45.80681523701001 </south>
+			<east> 4.60292514162532 </east>
+			<west> 4.60258231614296 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.60281077131365,45.80681523701001,0 4.60276677040915,45.8070430122097,0 4.60273511273829,45.80712812520729,0 4.60263658234811,45.8072964192734,0 4.60268009884494,45.8074690014903,0 4.60267975102876,45.8074925140718,0 4.60267746436496,45.8075157839754,0 4.60266561646738,45.8075779186828,0 4.6026454982005,45.80763908998571,0 4.60261773491725,45.8076986585286,0 4.60258231614296,45.8077562641839,0 4.602599868213,45.80801045599,0 4.60258265820254,45.8080875279599,0 4.60268634215652,45.80810560073271,0 4.60273702924135,45.80788628707081,0 4.60271648463749,45.80788396677929,0 4.60272971941975,45.8077897483099,0 4.60275109456966,45.8077896249819,0 4.60286481944501,45.807097732239,0 4.60288152500917,45.8069988710214,0 4.60290623805792,45.8069007967812,0 4.60292514162532,45.806842164566,0 4.60281077131365,45.80681523701001,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

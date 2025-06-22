@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>CHARENTAY_HLM</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_5">
+		<name>CHARENTAY_HLM</name>
+		<Schema name="CHARENTAY_HLM" id="CHARENTAY_HLM.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="HLM">
+			<LineStyle>
+				<color>BFe451f5</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4Ce451f5</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.4273">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">690450000A0578</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHARENTAY</SimpleData>
+					<SimpleData name="Adresse">95, ALL DE LA BIBLIOTHEQUE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0894364721265 </north>
+			<south> 46.0887732366829 </south>
+			<east> 4.67746851662168 </east>
+			<west> 4.67669783470281 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.67703391815523,46.0894364721265,0 4.67705833156845,46.08938810438011,0 4.67718239678238,46.08914389422241,0 4.67742068934421,46.0890583186712,0 4.67746851662168,46.0889416023837,0 4.67745304215128,46.08893930920901,0 4.67738087018706,46.0889285770522,0 4.67737963932146,46.0889349000979,0 4.67729115590597,46.0889241388026,0 4.67730687041984,46.0888537425366,0 4.67724607101836,46.0888466250954,0 4.67725421299661,46.088816511672,0 4.67713709074528,46.0888004992198,0 4.67713567274306,46.0888049335736,0 4.67710315748084,46.0887999199372,0 4.6769340595246,46.0887732366829,0 4.67679583110531,46.0890453972036,0 4.67669783470281,46.0893506489547,0 4.67703391815523,46.0894364721265,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.5004">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">690450000A0912</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHARENTAY</SimpleData>
+					<SimpleData name="Adresse">76, RTE DE BELLEVILLE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.089158437848 </north>
+			<south> 46.0886191724823 </south>
+			<east> 4.68027522292187 </east>
+			<west> 4.67970548262656 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.6802572101702,46.0886951634984,0 4.68019306022012,46.0886927808548,0 4.68002977271718,46.08868682217769,0 4.67998162013174,46.0886191724823,0 4.67994756033556,46.0886271525131,0 4.6799245509718,46.08863244698841,0 4.67977995637226,46.08866629206049,0 4.67978457036087,46.08867748242369,0 4.67979142802876,46.0886943139401,0 4.67981425850473,46.08875089978291,0 4.67970548262656,46.0887707941487,0 4.67972370732045,46.08881222646959,0 4.67984042860233,46.0890775541545,0 4.67993466658984,46.0891113760986,0 4.680059341949,46.089158437848,0 4.68012302946885,46.0890821968763,0 4.68015942923946,46.0890237433095,0 4.68019718320476,46.088937618385,0 4.6802717268558,46.0887211587161,0 4.68027522292187,46.08869579745541,0 4.6802572101702,46.0886951634984,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

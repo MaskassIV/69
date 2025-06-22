@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>COGNY_DEPT</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_3">
+		<name>COGNY_DEPT</name>
+		<Schema name="COGNY_DEPT" id="COGNY_DEPT.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="DEPT">
+			<LineStyle>
+				<color>BF63f16c</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C63f16c</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.5300">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690610000A0595</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">COGNY</SimpleData>
+					<SimpleData name="Adresse">LAPALUD</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9991710107034 </north>
+			<south> 45.99895669747231 </south>
+			<east> 4.6262087543393 </east>
+			<west> 4.6257282794352 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.6257282794352,45.9990799619869,0 4.62585451936445,45.9991710107034,0 4.62605999276557,45.99907439052181,0 4.62615518467477,45.99902880057159,0 4.62617514827309,45.9990133825213,0 4.6261903123405,45.9989929895381,0 4.62620098699396,45.9989737418185,0 4.6262087543393,45.99895669747231,0 4.62612558175334,45.9990022950775,0 4.62604256183602,45.99901807781361,0 4.62589913536044,45.9990451754058,0 4.62579927770824,45.9990640818077,0 4.6257282794352,45.9990799619869,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.5450">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690610000D0062</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">COGNY</SimpleData>
+					<SimpleData name="Adresse">BOIS CHATEAU</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9946918146749 </north>
+			<south> 45.99346626295531 </south>
+			<east> 4.57218584759858 </east>
+			<west> 4.57075747256976 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.5718521323087,45.99346626295531,0 4.57171571666015,45.9935220159625,0 4.57163760892504,45.9935516509684,0 4.57123517439266,45.99370413326581,0 4.57082338226574,45.9935334031382,0 4.57075747256976,45.9939768165545,0 4.57078386836831,45.99398707843991,0 4.57097736831059,45.9940432988711,0 4.57112553403085,45.9940867277783,0 4.57121311859821,45.99411289333639,0 4.57123275072559,45.9941261310822,0 4.57139441198616,45.9942303478525,0 4.57147947466034,45.9942813166381,0 4.57150056317976,45.994300298427,0 4.57152492030282,45.9943341859993,0 4.57157791531376,45.994402532208,0 4.57158600381869,45.9944233155494,0 4.57160748807632,45.994496872475,0 4.57162832017399,45.9945792650187,0 4.57162477277171,45.9945817460473,0 4.57187744766229,45.9946918146749,0 4.5719858311386,45.9945503464009,0 4.57205055991735,45.99446397445081,0 4.57213843737034,45.9943465683106,0 4.57218584759858,45.9942917799828,0 4.5718521323087,45.99346626295531,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.5579">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690610000A0646</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">COGNY</SimpleData>
+					<SimpleData name="Adresse">LAPALUD</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9987682924087 </north>
+			<south> 45.9985273146956 </south>
+			<east> 4.62637376183182 </east>
+			<west> 4.62609551311753 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.62609551311753,45.99871513853169,0 4.62621378338334,45.9987682924087,0 4.62621337972408,45.9987283979346,0 4.62621982914083,45.99869299856749,0 4.62623546802511,45.9986449477839,0 4.62624847607591,45.9986172001387,0 4.62627730141182,45.998586793578,0 4.62630156380159,45.99856816139819,0 4.62633851653036,45.9985460144984,0 4.62636089561565,45.99853362405761,0 4.62637376183182,45.9985273146956,0 4.62630039394247,45.998541698104,0 4.62614437462441,45.9986061750274,0 4.62609551311753,45.99871513853169,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.5588">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690610000A0648</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">COGNY</SimpleData>
+					<SimpleData name="Adresse">LAPALUD</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9990451754058 </north>
+			<south> 45.99871513853169 </south>
+			<east> 4.626218099241 </east>
+			<west> 4.62589913536044 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.62589913536044,45.9990451754058,0 4.62604256183602,45.99901807781361,0 4.62612558175334,45.9990022950775,0 4.6262087543393,45.99895669747231,0 4.62621347841641,45.998946001595,0 4.626218099241,45.9989143212796,0 4.62621378338334,45.9987682924087,0 4.62609551311753,45.99871513853169,0 4.62609011568578,45.9987511532685,0 4.62609790859083,45.9988093156136,0 4.62610677661569,45.9988557536437,0 4.62611034907824,45.9988760578049,0 4.62612943424396,45.9989271227948,0 4.62613511765193,45.9989445144676,0 4.62613343655888,45.9989575985058,0 4.62612295400582,45.9989658551258,0 4.62610580725417,45.9989760087706,0 4.62604165163966,45.9989960241392,0 4.62595481184278,45.9990224897016,0 4.62589913536044,45.9990451754058,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

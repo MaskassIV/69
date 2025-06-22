@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>LYON 5EME_PMRSEM</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_6">
+		<name>LYON 5EME_PMRSEM</name>
+		<Schema name="LYON 5EME_PMRSEM" id="LYON 5EME_PMRSEM.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="PMRSEM">
+			<LineStyle>
+				<color>BF00faff</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C00faff</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.829">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">69385000AR0001</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LYON 5EME</SimpleData>
+					<SimpleData name="Adresse">1, RUE SOEUR BOUVIER</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SEM</SimpleData>
+					<SimpleData name="Denomination">SEM DE CONSTRUCTION DU DPT DE L AIN</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.75363803245499 </north>
+			<south> 45.7528254880261 </south>
+			<east> 4.81389424072524 </east>
+			<west> 4.81226314151084 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.81380218877126,45.7528340725202,0 4.81379830436675,45.7528254880261,0 4.8136069510239,45.7528678370652,0 4.81359532826445,45.7528704559345,0 4.81352967140994,45.75288502264939,0 4.81352091484932,45.7528848031706,0 4.81341386947417,45.7529085021853,0 4.81337052540335,45.7529168553045,0 4.81291828911541,45.7530040203985,0 4.8128959170921,45.7530084332975,0 4.81226314151084,45.75313038345179,0 4.81249496874894,45.7535609877072,0 4.8125211540401,45.753606143581,0 4.81253776878329,45.75363803245499,0 4.81279406536808,45.7535749155156,0 4.81347910219893,45.7534064552937,0 4.81354726532242,45.75338590352541,0 4.81358777914373,45.7533736326638,0 4.81366878008999,45.75354824179649,0 4.81371173724663,45.7535437679131,0 4.81383258110109,45.7533602380927,0 4.81387977537877,45.7532300447423,0 4.8138812036388,45.75321083631039,0 4.81388301769749,45.75319162167341,0 4.8138845716006,45.7531723211481,0 4.81388612550262,45.7531530206227,0 4.81388768531285,45.7531339001475,0 4.81388911356765,45.7531146917156,0 4.81389028166749,45.7530953973954,0 4.81389132412155,45.7530761951686,0 4.81389184907769,45.7530647475073,0 4.81389224543406,45.7530533019144,0 4.81389264179025,45.7530418563215,0 4.81389290954678,45.753030412797,0 4.81389330885734,45.7530190572291,0 4.81389357661362,45.7530076137046,0 4.81389384436978,45.7529961701801,0 4.81389424072524,45.7529847245872,0 4.81388661373563,45.7528895504676,0 4.81383592668162,45.7528780257576,0 4.81380218877126,45.7528340725202,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>SOUZY_HLM</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_5">
+		<name>SOUZY_HLM</name>
+		<Schema name="SOUZY_HLM" id="SOUZY_HLM.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="HLM">
+			<LineStyle>
+				<color>BFe451f5</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4Ce451f5</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.4062">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">691780000A0530</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SOUZY</SimpleData>
+					<SimpleData name="Adresse">40, ALL PLEIN SOLEIL</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">IMMOBILIERE RHONE ALPES SA DHLM</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.70528186378731 </north>
+			<south> 45.7046403740625 </south>
+			<east> 4.44770513193006 </east>
+			<west> 4.44691274133241 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.44695889878141,45.7051075178186,0 4.44725573354752,45.7051970118771,0 4.44754229284229,45.70528186378731,0 4.44763453564677,45.7051963792198,0 4.44763469133608,45.70519250448131,0 4.44762169647033,45.70518222403199,0 4.44764050632323,45.7051592863431,0 4.44770513193006,45.70513350846589,0 4.44766634689749,45.7050857326019,0 4.44757893818304,45.70497769831001,0 4.44755666821349,45.70494700248319,0 4.44748929712385,45.7048629378547,0 4.44744742976146,45.70481033807599,0 4.44739723143401,45.7047488389227,0 4.44730827000745,45.7046403740625,0 4.44694115783311,45.704797836539,0 4.44694169751787,45.7048430415701,0 4.44691274133241,45.7048466556688,0 4.44692672749345,45.7049292445932,0 4.44694062185302,45.7050083222126,0 4.44695889878141,45.7051075178186,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>SAINTE-FOY-L ARGENTIERE_HLM</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_5">
+		<name>SAINTE-FOY-L ARGENTIERE_HLM</name>
+		<Schema name="SAINTE-FOY-L ARGENTIERE_HLM" id="SAINTE-FOY-L ARGENTIERE_HLM.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="HLM">
+			<LineStyle>
+				<color>BFe451f5</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4Ce451f5</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.1143">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">692010000U1527</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINTE-FOY-L ARGENTIERE</SimpleData>
+					<SimpleData name="Adresse">88, IMP DU MEUNIER</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7073356054605 </north>
+			<south> 45.7071247541442 </south>
+			<east> 4.47511159982878 </east>
+			<west> 4.47483606804695 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.47483606804695,45.7072803379937,0 4.47493485364878,45.7073356054605,0 4.47494872510447,45.7073255168353,0 4.47495564148477,45.7073293891383,0 4.47498038315894,45.7073075399421,0 4.47503803198757,45.7072567096393,0 4.47511159982878,45.70719063019389,0 4.47510819869128,45.7071884231076,0 4.47501137448461,45.7071247541442,0 4.47493929104988,45.7071886525524,0 4.47491304576793,45.7072119624478,0 4.47487863730914,45.7072424942531,0 4.47485591329002,45.7072628759921,0 4.47483606804695,45.7072803379937,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.1158">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">692010000U1537</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINTE-FOY-L ARGENTIERE</SimpleData>
+					<SimpleData name="Adresse">56, IMP DU MEUNIER</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7071081023869 </north>
+			<south> 45.70696274914349 </south>
+			<east> 4.47470336519721 </east>
+			<west> 4.47447929842182 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.47454262613087,45.7071081023869,0 4.47454400847818,45.7071069134635,0 4.47459336501466,45.7071018544775,0 4.47461475712091,45.7070845524059,0 4.47466793831692,45.7070397249975,0 4.47470336519721,45.70700881967241,0 4.47470262943763,45.7069860430413,0 4.47467803606953,45.7069797001205,0 4.47462344848584,45.70697176827859,0 4.47457506510635,45.70696510619111,0 4.47455559141382,45.70696274914349,0 4.47455400553585,45.7069900593665,0 4.47449649224412,45.70704115783801,0 4.47450653825413,45.7070467004389,0 4.47447929842182,45.70707128414449,0 4.47454262613087,45.7071081023869,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.1185">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">692010000U1560</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINTE-FOY-L ARGENTIERE</SimpleData>
+					<SimpleData name="Adresse">43, PL DU CENTRE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">IMMOBILIERE RHONE ALPES SA DHLM</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7091963815137 </north>
+			<south> 45.7089026706644 </south>
+			<east> 4.46931898955469 </east>
+			<west> 4.46895902148202 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.46917477660804,45.7089026706644,0 4.46908856175404,45.7089236987798,0 4.46904489155557,45.7089348055657,0 4.46895902148202,45.70895429799571,0 4.46907716361273,45.7091963815137,0 4.46916287442432,45.7091757202399,0 4.46918062720574,45.70917134584981,0 4.46920693988235,45.70916496851391,0 4.46927364143903,45.7091497786995,0 4.46931898955469,45.70913892014219,0 4.46926300361546,45.70902031505949,0 4.46921465201801,45.7089180921646,0 4.4691854005002,45.70892513826631,0 4.46917477660804,45.7089026706644,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.4109">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">692010000U0539</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINTE-FOY-L ARGENTIERE</SimpleData>
+					<SimpleData name="Adresse">272, RTE D AVEIZE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.70647702126829 </north>
+			<south> 45.7053645749663 </south>
+			<east> 4.47334063753724 </east>
+			<west> 4.47225499121896 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.47229507522534,45.7053645749663,0 4.47225499121896,45.70537023233109,0 4.47231194915563,45.7055832105221,0 4.47236449924326,45.70578994179099,0 4.47241871066046,45.7059962910793,0 4.47243264197616,45.7060512283453,0 4.47247428898724,45.7062056846719,0 4.47248493412893,45.7062482360116,0 4.47254527123613,45.70647702126829,0 4.47258810601203,45.70645394546959,0 4.47280075264841,45.7063439900391,0 4.47288660058968,45.7062997272427,0 4.4729265533897,45.7062649806314,0 4.47295982018141,45.7062350047384,0 4.47305325519335,45.7061715490242,0 4.4730720313581,45.7061622070954,0 4.47308987686873,45.7061758437071,0 4.47323614165526,45.7060833269896,0 4.47327301384892,45.7060439371855,0 4.47334063753724,45.7059766757221,0 4.47320283937905,45.7057692580794,0 4.47318116381295,45.7057372984561,0 4.47316788114819,45.7057163970726,0 4.47310897427501,45.7056282737591,0 4.47308459454109,45.7055913058728,0 4.47307774370949,45.7055802274652,0 4.47306413076166,45.7055614018654,0 4.47299813269217,45.7055931566105,0 4.4729347611466,45.70562217505831,0 4.47282976380052,45.70567137152799,0 4.47280016585336,45.7056846375536,0 4.47268658816062,45.7056143407517,0 4.47233550788896,45.7053913361459,0 4.47230960474047,45.7053743822587,0 4.47229507522534,45.7053645749663,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.4659">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">692010000U0724</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINTE-FOY-L ARGENTIERE</SimpleData>
+					<SimpleData name="Adresse">136, IMP DES HAIES</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7054319699099 </north>
+			<south> 45.70444916136541 </south>
+			<east> 4.47289708615999 </east>
+			<west> 4.471318808777 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.47172761775784,45.7052753486982,0 4.47173769135879,45.7053061091511,0 4.47178281704381,45.7054319699099,0 4.47188797334512,45.7054177172547,0 4.47184482677866,45.70528894863101,0 4.47221187181486,45.70532945620899,0 4.4722447639653,45.7053337098187,0 4.47225499121896,45.70537023233109,0 4.47229507522534,45.7053645749663,0 4.47230607353187,45.7053624498563,0 4.47247870714105,45.70533821851849,0 4.47262136264032,45.7053178011205,0 4.47284163740162,45.70528691232271,0 4.47285137224513,45.70528561425071,0 4.47289708615999,45.7052789824432,0 4.47288264960964,45.7052581861759,0 4.47279822212979,45.70515778729259,0 4.472660693398,45.7049941367371,0 4.4726483331021,45.7049788972894,0 4.4724820079053,45.7047813083939,0 4.47245756128683,45.7047514563305,0 4.47241227898141,45.70469701879481,0 4.47227485228102,45.70453228569991,0 4.47220554062963,45.70444916136541,0 4.47206210295939,45.7044884118976,0 4.47196563864555,45.7045152502492,0 4.47193031291875,45.7045257988805,0 4.47160338743102,45.7046160801109,0 4.47134013396813,45.7046886870272,0 4.471318808777,45.7046940090633,0 4.47137220066681,45.70476824531939,0 4.47142455033842,45.70484195477629,0 4.47146423051191,45.7048984472637,0 4.4715119272796,45.7049663632697,0 4.4715377287613,45.7050036731679,0 4.4716472371562,45.7051578739938,0 4.47172761775784,45.7052753486982,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.5093">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">692010000U0988</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINTE-FOY-L ARGENTIERE</SimpleData>
+					<SimpleData name="Adresse">LES SOUCHES</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7056846375536 </north>
+			<south> 45.70528691232271 </south>
+			<east> 4.47301946284574 </east>
+			<west> 4.47229507522534 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.47229507522534,45.7053645749663,0 4.47230960474047,45.7053743822587,0 4.47233550788896,45.7053913361459,0 4.47268658816062,45.7056143407517,0 4.47280016585336,45.7056846375536,0 4.47282976380052,45.70567137152799,0 4.4729347611466,45.70562217505831,0 4.47289903510815,45.70558391441271,0 4.47287538862759,45.7055599962108,0 4.47301028752277,45.705494467469,0 4.47301946284574,45.7054914654766,0 4.4730149672429,45.70547711396659,0 4.4730066295735,45.7054681264677,0 4.47297756978091,45.7054340117273,0 4.47288928445761,45.7053335732684,0 4.47288175808165,45.7053357431198,0 4.47284163740162,45.70528691232271,0 4.47262136264032,45.7053178011205,0 4.47247870714105,45.70533821851849,0 4.47230607353187,45.7053624498563,0 4.47229507522534,45.7053645749663,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.5101">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">692010000U0990</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINTE-FOY-L ARGENTIERE</SimpleData>
+					<SimpleData name="Adresse">LES SOUCHES</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7053357431198 </north>
+			<south> 45.70528561425071 </south>
+			<east> 4.47288928445761 </east>
+			<west> 4.47284163740162 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.47288175808165,45.7053357431198,0 4.47288928445761,45.7053335732684,0 4.47285137224513,45.70528561425071,0 4.47284163740162,45.70528691232271,0 4.47288175808165,45.7053357431198,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

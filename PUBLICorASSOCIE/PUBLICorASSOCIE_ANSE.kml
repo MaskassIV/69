@@ -1,0 +1,1492 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>ANSE_PUBLICorASSOCIE</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_9">
+		<name>ANSE_PUBLICorASSOCIE</name>
+		<Schema name="ANSE_PUBLICorASSOCIE" id="ANSE_PUBLICorASSOCIE.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="PUBLICorASSOCIE">
+			<LineStyle>
+				<color>BFdb2105</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4Cdb2105</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.1764">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69009000AC0101</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ANSE</SimpleData>
+					<SimpleData name="Adresse">247, VOIE ASA PAULINI</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPLS</SimpleData>
+					<SimpleData name="Denomination">EHPAD MICHEL LAMY</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9302949602577 </north>
+			<south> 45.93006730609271 </south>
+			<east> 4.71228311723091 </east>
+			<west> 4.71181408126419 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.71184273402125,45.9302949602577,0 4.71228311723091,45.9302400185834,0 4.71223863885997,45.93006730609271,0 4.71181408126419,45.9301205670479,0 4.71184273402125,45.9302949602577,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.2822">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69009000AK0119</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ANSE</SimpleData>
+					<SimpleData name="Adresse">5001, AV JEAN VACHER</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SOCIETE NATIONALE SNCF</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.93810079432859 </north>
+			<south> 45.936816521646 </south>
+			<east> 4.72367631052514 </east>
+			<west> 4.72152450630468 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.72367631052514,45.9368910486568,0 4.72363198678592,45.93684011329721,0 4.72360788270214,45.936816521646,0 4.72352941707646,45.93685851887589,0 4.72342231399905,45.9369177053768,0 4.7233252607736,45.9368194752261,0 4.72302392485972,45.9369711496091,0 4.72296373791344,45.9370032305366,0 4.72293239351334,45.93702055102501,0 4.72282822294677,45.9370744681964,0 4.72275743355292,45.93711427637629,0 4.72273574909099,45.9371267660608,0 4.72263084711744,45.93719033174581,0 4.72254223541936,45.9372423004382,0 4.72241129505036,45.93731950268051,0 4.72223753722103,45.93741870321449,0 4.72219736091088,45.9374260699958,0 4.72217242564279,45.9374171722185,0 4.72199246801803,45.9375451992738,0 4.72200399116455,45.9375710543463,0 4.72185351377084,45.93766755814709,0 4.72165470152905,45.9377954211891,0 4.72158041878803,45.9378432980472,0 4.72154431918362,45.9379232896082,0 4.7215996363227,45.93798729890379,0 4.72152450630468,45.93803699002489,0 4.72161105841895,45.93810079432859,0 4.72168113961092,45.9380547827955,0 4.72175764081415,45.93808613432471,0 4.72198720868941,45.9379551009676,0 4.72228325782524,45.93778684685731,0 4.72252855594643,45.9376470162251,0 4.72262709216354,45.9375903929329,0 4.72294351469329,45.93740912690829,0 4.72308415121022,45.9373282636357,0 4.72312701807411,45.9373037421278,0 4.723450785996,45.9371180393839,0 4.72353020282162,45.93703216328,0 4.72348929417431,45.93699135384009,0 4.72357571721042,45.9369437411194,0 4.72367631052514,45.9368910486568,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.4603">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69009000ZD0155</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ANSE</SimpleData>
+					<SimpleData name="Adresse">BLANCHERIE</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPLS</SimpleData>
+					<SimpleData name="Denomination">EHPAD MICHEL LAMY</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9329208206658 </north>
+			<south> 45.93252395124311 </south>
+			<east> 4.72212400681811 </east>
+			<west> 4.72058005347281 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.72208038307638,45.93252395124311,0 4.72058005347281,45.932705931197,0 4.72062814301201,45.9328569689651,0 4.72119720371883,45.9329208206658,0 4.72195547749271,45.9328145288114,0 4.72212400681811,45.9327921483114,0 4.72208038307638,45.93252395124311,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.5516">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69009000AL0177</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ANSE</SimpleData>
+					<SimpleData name="Adresse">LES CONDAMINES SUD</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SOCIETE NATIONALE SNCF</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.94217449991019 </north>
+			<south> 45.94091941127749 </south>
+			<east> 4.71844739982983 </east>
+			<west> 4.71747428596196 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.71747428596196,45.94217449991019,0 4.71750944404286,45.9421302820905,0 4.71765135782004,45.9419531210319,0 4.71787839989998,45.94166577219259,0 4.71812390045654,45.9413576965898,0 4.71833513643466,45.9410935547413,0 4.71844739982983,45.94093863991549,0 4.71843840824343,45.94091941127749,0 4.71838649951102,45.9409853205733,0 4.71822046337641,45.9411877984487,0 4.71814079974874,45.9412827714872,0 4.71808003144143,45.9413543995213,0 4.71800708304749,45.9414453073999,0 4.71798555892219,45.941471304287,0 4.71790720480726,45.9415751742571,0 4.71785104504807,45.9416497045276,0 4.71777852804994,45.941746190075,0 4.71768376555928,45.941874537935,0 4.71760626307676,45.94197677348231,0 4.71751240291737,45.9420968209975,0 4.71747428596196,45.94217449991019,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.5626">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69009000ZB0179</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ANSE</SimpleData>
+					<SimpleData name="Adresse">BEL AIR</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SOCIETE NATIONALE SNCF</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9616649634782 </north>
+			<south> 45.9536879763998 </south>
+			<east> 4.716625033114 </east>
+			<west> 4.71540425495126 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.71616086372936,45.9616608323363,0 4.71637377850595,45.9616631887922,0 4.716625033114,45.9616649634782,0 4.71660780144595,45.96149751340501,0 4.71648018368235,45.96024584657239,0 4.71638468831383,45.958943163048,0 4.71631159023303,45.9580398730026,0 4.7162165737716,45.9569387600566,0 4.71613332098304,45.9558793515356,0 4.7161635194657,45.9558248513649,0 4.71600952435419,45.95446360809981,0 4.71595226393071,45.95395215493739,0 4.71594496615917,45.9538878651346,0 4.71593625397443,45.9538610661186,0 4.71591852636954,45.95383917751199,0 4.71589212571356,45.953816609747,0 4.71585385611255,45.9537902587958,0 4.71581308085019,45.9537663777196,0 4.71576553206037,45.9537530474872,0 4.7157261428625,45.9537404942576,0 4.71569012062785,45.95374067999501,0 4.71568499202339,45.9536879763998,0 4.71555225591357,45.953688367021,0 4.71556153751593,45.9537127255286,0 4.71556169715961,45.9537344301069,0 4.71540425495126,45.9537334836696,0 4.71540751485769,45.95376766106541,0 4.71550376035806,45.9537648513482,0 4.71554076747924,45.9541693376357,0 4.71554353369964,45.9542000998315,0 4.71558383777205,45.9546523635958,0 4.71562409513109,45.95507823739699,0 4.71563812872738,45.9552343871364,0 4.71564012911851,45.9552571446615,0 4.71565995645792,45.95547490489961,0 4.71566805351988,45.9555648527054,0 4.71571337060033,45.9560701820841,0 4.71571827776505,45.9561240599546,0 4.71573879867386,45.9563557706075,0 4.7157730229871,45.9567454374076,0 4.71577425751131,45.9567601902629,0 4.71582365301224,45.9573548978471,0 4.71582674500268,45.9573919600398,0 4.71585020750898,45.9576392983699,0 4.71586971110971,45.95784661531891,0 4.71593422193358,45.95852846218419,0 4.71599170501163,45.9591836646168,0 4.71602164810052,45.9595145802245,0 4.71604312002263,45.95975186081299,0 4.71605626921094,45.9599127076072,0 4.71607749397382,45.9602746495677,0 4.71610020086687,45.9605971181625,0 4.71614532044531,45.9613610429936,0 4.71616086372936,45.9616608323363,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.5896">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69009000AA0186</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ANSE</SimpleData>
+					<SimpleData name="Adresse">7, RUE SAINT CYPRIEN</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPLS</SimpleData>
+					<SimpleData name="Denomination">EHPAD MICHEL LAMY</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.93469051992369 </north>
+			<south> 45.9340920987006 </south>
+			<east> 4.72153835222395 </east>
+			<west> 4.72104824074853 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.72120093980833,45.9346888511695,0 4.72122408426276,45.9346363481809,0 4.72123500712033,45.9346099714568,0 4.72125167353695,45.9345732393028,0 4.72128955730036,45.9344843036698,0 4.72126301086657,45.93447750185,0 4.72126889226059,45.9344715577866,0 4.72127306292741,45.9344687021501,0 4.72128004404374,45.9344649030529,0 4.7212862791315,45.9344620160111,0 4.72129064071065,45.9344611390245,0 4.72129604012679,45.934460426391,0 4.72130014646599,45.9344596433576,0 4.72137704303483,45.9343633588984,0 4.72140862003937,45.9343245984647,0 4.72144739635983,45.9342766313531,0 4.72147939128976,45.9342388553174,0 4.72153835222395,45.934167613053,0 4.72153407710262,45.9341629944225,0 4.72153056206871,45.9341579138739,0 4.72152482546512,45.9341519664188,0 4.72151952618926,45.9341434903305,0 4.7215143724294,45.9341314092008,0 4.7215098778667,45.93411976839491,0 4.72150677163936,45.93410711568851,0 4.72150514057105,45.9340920987006,0 4.72131951131964,45.9341168099803,0 4.72131361833994,45.9341182506894,0 4.7213107407706,45.9341211767269,0 4.72130849145038,45.9341235527829,0 4.72115523218442,45.9343249403633,0 4.72109098721628,45.9344088726863,0 4.72107428872642,45.93443218477361,0 4.72106954922189,45.9344416242141,0 4.72104993797419,45.93448326494821,0 4.72108991438611,45.9344902228214,0 4.72105380818558,45.9345740873876,0 4.72104824074853,45.93461074076259,0 4.72104985974329,45.9346171111548,0 4.72107175855176,45.9346900055201,0 4.72107939082906,45.93469051992369,0 4.72120093980833,45.9346888511695,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.5973">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69009000AK0188</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ANSE</SimpleData>
+					<SimpleData name="Adresse">LA BORDIERE SUD</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SOCIETE NATIONALE SNCF</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9368910486568 </north>
+			<south> 45.9357384209589 </south>
+			<east> 4.72558084147378 </east>
+			<west> 4.72360788270214 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.72367631052514,45.9368910486568,0 4.72425915152513,45.93657709914719,0 4.72433145369177,45.9366516568037,0 4.72558084147378,45.9359807684873,0 4.72550997830612,45.93589448047121,0 4.72555929939508,45.93586589647081,0 4.72545824272813,45.9358088915181,0 4.72543180786329,45.9358221747413,0 4.72540595412486,45.9358045548195,0 4.72539778793245,45.9357993651656,0 4.72537249826964,45.9357832678384,0 4.72536094348392,45.9357770490026,0 4.72533913831189,45.93576504179201,0 4.7253332276636,45.93576179929829,0 4.72528925000324,45.9357384209589,0 4.72438202519942,45.9362464684599,0 4.72441023130571,45.9363722277407,0 4.72440922785192,45.9363772869951,0 4.7244015260713,45.9363828086118,0 4.72439264046624,45.9363876277026,0 4.72417815997948,45.9365053759745,0 4.72360788270214,45.936816521646,0 4.72363198678592,45.93684011329721,0 4.72367631052514,45.9368910486568,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.7506">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69009000AA0227</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ANSE</SimpleData>
+					<SimpleData name="Adresse">10, IMP MESSIMIEUX</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPLS</SimpleData>
+					<SimpleData name="Denomination">EHPAD MICHEL LAMY</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9344399618638 </north>
+			<south> 45.9342373233594 </south>
+			<east> 4.72032882150688 </east>
+			<west> 4.72008171670325 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.72008171670325,45.9342373233594,0 4.72009176254202,45.9343399412513,0 4.72010096956063,45.9343991578428,0 4.72010676173494,45.9344399618638,0 4.72016712891567,45.9344343604692,0 4.72016303768887,45.93441082415639,0 4.72024388065152,45.93440365044511,0 4.72032882150688,45.93439542359409,0 4.72032165136016,45.9343849042719,0 4.72025538289479,45.9342759355311,0 4.72008171670325,45.9342373233594,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.7638">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69009000AA0230</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ANSE</SimpleData>
+					<SimpleData name="Adresse">IMP MESSIMIEUX</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPLS</SimpleData>
+					<SimpleData name="Denomination">EHPAD MICHEL LAMY</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9343824914068 </north>
+			<south> 45.9339939616148 </south>
+			<east> 4.72009176254202 </east>
+			<west> 4.71947272814994 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.71948480623336,45.9341955961104,0 4.71949879972213,45.9341435027717,0 4.71956707935981,45.9341391325087,0 4.71957530366713,45.9341916988416,0 4.71955676048416,45.9341931515668,0 4.71956686470966,45.93425631766539,0 4.71958580061203,45.93425503911169,0 4.71959237571842,45.9343085312139,0 4.71948881297686,45.9343156894442,0 4.71949686396755,45.934379247033,0 4.719587661662,45.9343725530062,0 4.71969404340095,45.9343647213481,0 4.71977066503047,45.93435878305051,0 4.71978121582975,45.9343824914068,0 4.71981405568717,45.93438001070881,0 4.71981214708146,45.9343602241778,0 4.71999464549206,45.9343468218162,0 4.72009176254202,45.9343399412513,0 4.72008171670325,45.9342373233594,0 4.72006860609522,45.9342308574368,0 4.7200641908221,45.9342258806005,0 4.72005133320574,45.9341861747617,0 4.72003720446683,45.93413883223981,0 4.72000599578574,45.9340364459786,0 4.71999995577778,45.9340207754314,0 4.71999394162644,45.934014201626,0 4.71997446303702,45.9339939616148,0 4.71953748962598,45.9340306867954,0 4.71953252018627,45.9340451736177,0 4.71951120039745,45.9340982790048,0 4.71951048244681,45.9341000913281,0 4.71949980567553,45.93412610385251,0 4.71948847557465,45.9341559993414,0 4.71947272814994,45.9341932576781,0 4.71948480623336,45.9341955961104,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+				<innerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.71987238769691,45.9341769154879,0 4.71987913372187,45.93422346954009,0 4.71976773151453,45.934231737966,0 4.7197599365131,45.9341846594282,0 4.71987238769691,45.9341769154879,0 
+						</coordinates>
+					</LinearRing>
+				</innerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.7645">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69009000AL0230</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ANSE</SimpleData>
+					<SimpleData name="Adresse">LES CONDAMINES SUD</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SOCIETE NATIONALE SNCF</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.943117073572 </north>
+			<south> 45.9421164080946 </south>
+			<east> 4.71711854004774 </east>
+			<west> 4.71645653606871 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.71711854004774,45.9421228837073,0 4.71704074576702,45.9421164080946,0 4.71692923092222,45.9422955390545,0 4.7168467361065,45.9424323468206,0 4.7167772097255,45.9425420266864,0 4.71673075116101,45.9426213630726,0 4.71663454580004,45.9427863906005,0 4.71645653606871,45.9431063191988,0 4.71649573266886,45.943117073572,0 4.71679997560174,45.9426055413476,0 4.71690144597282,45.9424603393841,0 4.71711854004774,45.9421228837073,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.7669">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69009000AA0231</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ANSE</SimpleData>
+					<SimpleData name="Adresse">IMP MESSIMIEUX</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPLS</SimpleData>
+					<SimpleData name="Denomination">EHPAD MICHEL LAMY</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.934231737966 </north>
+			<south> 45.9341769154879 </south>
+			<east> 4.71987913372187 </east>
+			<west> 4.7197599365131 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.71987238769691,45.9341769154879,0 4.7197599365131,45.9341846594282,0 4.71976773151453,45.934231737966,0 4.71987913372187,45.93422346954009,0 4.71987238769691,45.9341769154879,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.7693">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69009000AA0232</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ANSE</SimpleData>
+					<SimpleData name="Adresse">IMP MESSIMIEUX</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPLS</SimpleData>
+					<SimpleData name="Denomination">EHPAD MICHEL LAMY</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9343156894442 </north>
+			<south> 45.9341391325087 </south>
+			<east> 4.71959237571842 </east>
+			<west> 4.71947698228977 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.71948480623336,45.9341955961104,0 4.7194777618267,45.934222183927,0 4.71947730192511,45.9342239923285,0 4.71947698228977,45.934226158881,0 4.71948881297686,45.9343156894442,0 4.71959237571842,45.9343085312139,0 4.71958580061203,45.93425503911169,0 4.71956686470966,45.93425631766539,0 4.71955676048416,45.9341931515668,0 4.71957530366713,45.9341916988416,0 4.71956707935981,45.9341391325087,0 4.71949879972213,45.9341435027717,0 4.71948480623336,45.9341955961104,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.7700">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69009000AL0232</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ANSE</SimpleData>
+					<SimpleData name="Adresse">LES CONDAMINES SUD</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SOCIETE NATIONALE SNCF</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9432135666386 </north>
+			<south> 45.9407885354218 </south>
+			<east> 4.71843840824343 </east>
+			<west> 4.71649573266886 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.71711854004774,45.9421228837073,0 4.71690144597282,45.9424603393841,0 4.71679997560174,45.9426055413476,0 4.71649573266886,45.943117073572,0 4.71654066626615,45.9431296323943,0 4.71687986680023,45.9432135666386,0 4.7169822941192,45.9430203424852,0 4.71706201484206,45.9428732186037,0 4.71712400301923,45.9427577983539,0 4.71718378606511,45.9426503377372,0 4.7172074567501,45.9426020610112,0 4.71725519376674,45.9425182014898,0 4.71729801030311,45.9424463059307,0 4.71733826547586,45.9423750797175,0 4.71737804085699,45.9423050316871,0 4.71738918041582,45.9422854974607,0 4.71740749586399,45.9422600898147,0 4.71743442062834,45.9422250940974,0 4.71747428596196,45.94217449991019,0 4.71751240291737,45.9420968209975,0 4.71760626307676,45.94197677348231,0 4.71768376555928,45.941874537935,0 4.71777852804994,45.941746190075,0 4.71785104504807,45.9416497045276,0 4.71790720480726,45.9415751742571,0 4.71798555892219,45.941471304287,0 4.71800708304749,45.9414453073999,0 4.71808003144143,45.9413543995213,0 4.71814079974874,45.9412827714872,0 4.71822046337641,45.9411877984487,0 4.71838649951102,45.9409853205733,0 4.71843840824343,45.94091941127749,0 4.71836439563985,45.9408768509297,0 4.71835024289556,45.94087013039991,0 4.71833976791325,45.9408654256468,0 4.71831177388497,45.9408536911917,0 4.71827579319433,45.9408383851057,0 4.71825905964268,45.940831703752,0 4.71813609851644,45.9407885354218,0 4.71806740639385,45.9408751454117,0 4.7180081840048,45.9409425166242,0 4.71758540804195,45.94147773869491,0 4.71711854004774,45.9421228837073,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.9433">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69009000AK0290</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ANSE</SimpleData>
+					<SimpleData name="Adresse">LE BOURG NORD</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SOCIETE NATIONALE SNCF</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9408768509297 </north>
+			<south> 45.93799322136599 </south>
+			<east> 4.72166313144972 </east>
+			<west> 4.71822467427468 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.72152450630468,45.93803699002489,0 4.72144218108854,45.9379969000146,0 4.72138203649209,45.93799322136599,0 4.72118977328866,45.93813656615719,0 4.72109855131958,45.9382042456761,0 4.72100224365946,45.93827443437401,0 4.72107199101021,45.9383168777058,0 4.72015713785883,45.93900902045771,0 4.71984014678622,45.939271891054,0 4.71980216903672,45.939250491011,0 4.71967331479351,45.93936170495009,0 4.71971076798557,45.9393828427967,0 4.71888194954655,45.940135725865,0 4.71834182348775,45.94069543120509,0 4.71832706361934,45.9407313232874,0 4.71824223170929,45.940693700893,0 4.71822467427468,45.9407102702596,0 4.71823184218077,45.940724842932,0 4.71830960509955,45.9407676166274,0 4.71828428612028,45.9408002463539,0 4.71825905964268,45.940831703752,0 4.71827579319433,45.9408383851057,0 4.71831177388497,45.9408536911917,0 4.71833976791325,45.9408654256468,0 4.71835024289556,45.94087013039991,0 4.71836439563985,45.9408768509297,0 4.7184188573544,45.9408182886645,0 4.71849330678176,45.94084174737381,0 4.71854409640398,45.9408558377206,0 4.71876738446737,45.9406346557994,0 4.71879669230076,45.9406057483394,0 4.71891242260114,45.9404916724196,0 4.71904233219034,45.9403645008787,0 4.71910151377688,45.9403041552248,0 4.71915913572895,45.9402476161982,0 4.7191969481117,45.9402099326462,0 4.71923590213109,45.9401716012418,0 4.71931476386707,45.9400965451716,0 4.7193583711195,45.9400501267376,0 4.7193706291834,45.94003751074249,0 4.71942907235693,45.9399783470442,0 4.71943106953918,45.9399761550028,0 4.71944761373481,45.9399602313302,0 4.71953754365476,45.9398758197127,0 4.71960853648853,45.9398092595661,0 4.7196453133926,45.939775644769,0 4.71973469308198,45.9396943037489,0 4.71980034198266,45.93963439984491,0 4.71988369349324,45.93956260773319,0 4.71999262642069,45.9394666480811,0 4.72005764363616,45.9394072039741,0 4.72008763187682,45.9393794567356,0 4.72015095791675,45.9393278744249,0 4.72028212505835,45.93921221130291,0 4.7203478715053,45.9391596013035,0 4.72035520072251,45.93915039274199,0 4.72042985810218,45.9390854876814,0 4.72053315151147,45.9389991607111,0 4.72058282441601,45.93895273962129,0 4.72059953919085,45.93893816423691,0 4.72066180945197,45.93888587711339,0 4.72070066374548,45.9388526807193,0 4.72073510014464,45.9388227039646,0 4.72074680243423,45.938812978524,0 4.72076166313544,45.93880104335759,0 4.720778829613,45.93878853270161,0 4.7208614753506,45.9387272888315,0 4.72094944760625,45.9386629915588,0 4.72096446257408,45.9386518646543,0 4.7211429786775,45.9385229605439,0 4.72118325781214,45.9384940656961,0 4.72127147332494,45.93842931410829,0 4.72129319482898,45.9384138518214,0 4.72130053260452,45.9384090565279,0 4.72133337571626,45.93838594918969,0 4.721387099281,45.93835351713629,0 4.7215466757595,45.93825066068891,0 4.72166313144972,45.9381766522138,0 4.72161105841895,45.93810079432859,0 4.72152450630468,45.93803699002489,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.9595">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69009000ZC0297</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ANSE</SimpleData>
+					<SimpleData name="Adresse">SAINT ROMAIN</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SOCIETE NATIONALE SNCF</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9439128878988 </north>
+			<south> 45.9432135666386 </south>
+			<east> 4.71687986680023 </east>
+			<west> 4.71648115572713 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.71648115572713,45.9439128878988,0 4.71659699847467,45.9437440499195,0 4.71665670799008,45.9436548750525,0 4.71671642005636,45.9435575036912,0 4.7167565982896,45.94349204339191,0 4.71677736342288,45.9434540788884,0 4.7167974662677,45.9433948677745,0 4.7168335961135,45.9433279376604,0 4.71687986680023,45.9432135666386,0 4.71679027029542,45.9433752514859,0 4.71662277681212,45.9436639464531,0 4.71648115572713,45.9439128878988,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.11071">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69009000ZC0353</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ANSE</SimpleData>
+					<SimpleData name="Adresse">5001, PLACE DE LA GARE</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SOCIETE NATIONALE SNCF</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.944648621224 </north>
+			<south> 45.9439193836259 </south>
+			<east> 4.71613598973761 </east>
+			<west> 4.71569759222857 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.71613598973761,45.9439193836259,0 4.71605161990949,45.9439257069573,0 4.71573270234186,45.94436035905,0 4.71579560555011,45.9443736365244,0 4.71576451202966,45.944469672777,0 4.71570436472778,45.9446153280018,0 4.71569759222857,45.9446300221019,0 4.71580158982403,45.944648621224,0 4.71590126345301,45.9443999564424,0 4.71592271935611,45.9444048552147,0 4.71613598973761,45.9439193836259,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.11359">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69009000ZC0367</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ANSE</SimpleData>
+					<SimpleData name="Adresse">LES CONDAMINES NORD</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SOCIETE NATIONALE SNCF</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9434352561921 </north>
+			<south> 45.9431063191988 </south>
+			<east> 4.71649573266886 </east>
+			<west> 4.71628433421173 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.71628433421173,45.9434345359662,0 4.71630217363545,45.9434352561921,0 4.71649573266886,45.943117073572,0 4.71645653606871,45.9431063191988,0 4.71637909415759,45.94325205700379,0 4.71635704957944,45.9432945443636,0 4.71628433421173,45.9434345359662,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.11376">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69009000ZC0368</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ANSE</SimpleData>
+					<SimpleData name="Adresse">LES CONDAMINES NORD</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SOCIETE NATIONALE SNCF</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9439257069573 </north>
+			<south> 45.943117073572 </south>
+			<east> 4.71654066626615 </east>
+			<west> 4.71605161990949 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.71654066626615,45.9431296323943,0 4.71649573266886,45.943117073572,0 4.71630217363545,45.9434352561921,0 4.71628433421173,45.9434345359662,0 4.7162038839552,45.9436080609904,0 4.71605161990949,45.9439257069573,0 4.71613598973761,45.9439193836259,0 4.71624486501126,45.9436926462457,0 4.71633253351672,45.9435104550166,0 4.71637385675165,45.9434320073344,0 4.71654066626615,45.9431296323943,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.11481">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69009000ZC0372</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ANSE</SimpleData>
+					<SimpleData name="Adresse">470, AV DE LOSSBURG</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SOCIETE NATIONALE SNCF</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.946144406879 </north>
+			<south> 45.945732280032 </south>
+			<east> 4.71588447079813 </east>
+			<west> 4.71570258906858 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.71573727924676,45.946144406879,0 4.71574852439487,45.9460826281517,0 4.71579491644728,45.9460797631311,0 4.71588447079813,45.9457838747158,0 4.71570520261399,45.945732280032,0 4.71571805999227,45.94601652787029,0 4.71570258906858,45.9461374569291,0 4.71573727924676,45.946144406879,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.11485">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69009000AD0373</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ANSE</SimpleData>
+					<SimpleData name="Adresse">EN GEMILLEUX</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SDIS</SimpleData>
+					<SimpleData name="Denomination">SERVICE DEPARTEMENTAL-METROPOLITAIN DINCENDIE ET DE SECOURS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9267358786311 </north>
+			<south> 45.9265735864942 </south>
+			<east> 4.71076403152162 </east>
+			<west> 4.71056718528002 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.71064835619449,45.9267358786311,0 4.71076403152162,45.92671188210579,0 4.71070694813329,45.9265735864942,0 4.71056718528002,45.92659497484441,0 4.71064835619449,45.9267358786311,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.11499">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69009000AD0374</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ANSE</SimpleData>
+					<SimpleData name="Adresse">EN GEMILLEUX</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SDIS</SimpleData>
+					<SimpleData name="Denomination">SERVICE DEPARTEMENTAL-METROPOLITAIN DINCENDIE ET DE SECOURS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.92659497484441 </north>
+			<south> 45.9262841991846 </south>
+			<east> 4.71070694813329 </east>
+			<west> 4.7103959263972 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.71049380985082,45.92646818426851,0 4.71056718528002,45.92659497484441,0 4.71070694813329,45.9265735864942,0 4.71058722220172,45.9262841991846,0 4.7103959263972,45.92631276150511,0 4.71049380985082,45.92646818426851,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.11515">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69009000ZC0374</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ANSE</SimpleData>
+					<SimpleData name="Adresse">470, AV DE LOSSBURG</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SOCIETE NATIONALE SNCF</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.94615797207021 </north>
+			<south> 45.9460791252133 </south>
+			<east> 4.71581917014441 </east>
+			<west> 4.71573727924676 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.71573727924676,45.946144406879,0 4.71580497070897,45.94615797207021,0 4.71581917014441,45.9460791252133,0 4.71579491644728,45.9460797631311,0 4.71574852439487,45.9460826281517,0 4.71573727924676,45.946144406879,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.11549">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69009000AD0377</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ANSE</SimpleData>
+					<SimpleData name="Adresse">EN GEMILLEUX</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SDIS</SimpleData>
+					<SimpleData name="Denomination">SERVICE DEPARTEMENTAL-METROPOLITAIN DINCENDIE ET DE SECOURS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.92631276150511 </north>
+			<south> 45.92624400866841 </south>
+			<east> 4.71058722220172 </east>
+			<west> 4.71035998981815 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.7103959263972,45.92631276150511,0 4.71058722220172,45.9262841991846,0 4.71057061527847,45.92624400866841,0 4.71035998981815,45.926256920731,0 4.7103959263972,45.92631276150511,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.11568">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69009000AD0378</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ANSE</SimpleData>
+					<SimpleData name="Adresse">89, ALL AQUAZERGUES</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SDIS</SimpleData>
+					<SimpleData name="Denomination">SERVICE DEPARTEMENTAL-METROPOLITAIN DINCENDIE ET DE SECOURS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9268551454359 </north>
+			<south> 45.92646818426851 </south>
+			<east> 4.71064835619449 </east>
+			<west> 4.71000374322302 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.71049380985082,45.92646818426851,0 4.71000374322302,45.9266846460342,0 4.7100755058726,45.9268551454359,0 4.71064835619449,45.9267358786311,0 4.71056718528002,45.92659497484441,0 4.71049380985082,45.92646818426851,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.11588">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69009000ZC0379</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ANSE</SimpleData>
+					<SimpleData name="Adresse">SAINT ROMAIN</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SOCIETE NATIONALE SNCF</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.94483768893491 </north>
+			<south> 45.9439656032763 </south>
+			<east> 4.71643205843302 </east>
+			<west> 4.71615248861728 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.71643205843302,45.9439656032763,0 4.71636903230649,45.9441306677215,0 4.71630640417314,45.9443126593538,0 4.71624965022339,45.944480150574,0 4.71622067837611,45.94455723997189,0 4.71623632427294,45.9445869961956,0 4.71619450612456,45.94471174757891,0 4.71615248861728,45.944830106958,0 4.71619894690457,45.94483768893491,0 4.71621326882061,45.9447918059785,0 4.71623682910905,45.9447026391267,0 4.71626872429602,45.9446033480365,0 4.71630116362347,45.9444925196526,0 4.71633416109514,45.94437060411471,0 4.71635272456112,45.9442992569136,0 4.71639189644576,45.9441227550274,0 4.71643205843302,45.9439656032763,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.11635">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69009000AD0381</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ANSE</SimpleData>
+					<SimpleData name="Adresse">89, ALL AQUAZERGUES</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SDIS</SimpleData>
+					<SimpleData name="Denomination">SERVICE DEPARTEMENTAL-METROPOLITAIN DINCENDIE ET DE SECOURS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9266846460342 </north>
+			<south> 45.926256920731 </south>
+			<east> 4.71049380985082 </east>
+			<west> 4.70985604727357 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.71049380985082,45.92646818426851,0 4.7103959263972,45.92631276150511,0 4.71035998981815,45.926256920731,0 4.71017873886635,45.9262681273779,0 4.71010217402528,45.9262838761503,0 4.71002713767263,45.9262989712742,0 4.70989131764612,45.9263267842678,0 4.70985604727357,45.9263339825463,0 4.71000374322302,45.9266846460342,0 4.71049380985082,45.92646818426851,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.11918">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69009000AI0398</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ANSE</SimpleData>
+					<SimpleData name="Adresse">BRIANNE NORD</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPLS</SimpleData>
+					<SimpleData name="Denomination">EHPAD MICHEL LAMY</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9378634434306 </north>
+			<south> 45.9368118984745 </south>
+			<east> 4.71128673785769 </east>
+			<west> 4.71112340505684 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.71118124785644,45.9368121946776,0 4.71112340505684,45.9368118984745,0 4.71115030802944,45.936934077494,0 4.71117324659394,45.93703668110731,0 4.71117763660209,45.9370657975379,0 4.71118079337568,45.9370843043077,0 4.71118384513328,45.9371160530182,0 4.7111844522177,45.93719377461539,0 4.71118803430573,45.9372841511534,0 4.71118977385925,45.93734014865241,0 4.71118872414496,45.93737700333089,0 4.71118573776955,45.9374263170152,0 4.71117781300652,45.9376117117223,0 4.71116399237308,45.9376114703683,0 4.71116199637559,45.9376885107659,0 4.71116290568541,45.93771362666399,0 4.71118310516279,45.93777375846,0 4.71121455039157,45.9378634434306,0 4.71128673785769,45.9378517234423,0 4.71128280044761,45.93784133481849,0 4.71126651866059,45.9377909614679,0 4.71124550737931,45.9377421007655,0 4.71123091555917,45.9377087251644,0 4.7112354594703,45.93755995017251,0 4.71124113212168,45.937459976282,0 4.71124368595423,45.93735518575339,0 4.71124473791469,45.93729347160171,0 4.71124573075953,45.93723401010481,0 4.71124387089039,45.93717414139711,0 4.7112415935426,45.9371091449885,0 4.71123945502637,45.937090172469,0 4.71123794731088,45.9370748832973,0 4.71122014804286,45.9369964309196,0 4.71120156382758,45.9369134868889,0 4.71118665371422,45.9368366120834,0 4.71118124785644,45.9368121946776,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.11938">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69009000AI0399</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ANSE</SimpleData>
+					<SimpleData name="Adresse">5016, RUE PASTEUR</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPLS</SimpleData>
+					<SimpleData name="Denomination">EHPAD MICHEL LAMY</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9378634434306 </north>
+			<south> 45.9368110751937 </south>
+			<east> 4.71121455039157 </east>
+			<west> 4.71045581435817 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.71096937171593,45.9368110751937,0 4.71074817498425,45.9369712322017,0 4.71069058027121,45.93701218427369,0 4.7106289548514,45.93696907148429,0 4.71057519685468,45.9369340361379,0 4.71049325612287,45.9368769091893,0 4.71045581435817,45.93687675460411,0 4.71045986371375,45.93701963513169,0 4.71046180571214,45.9370904911876,0 4.71046218354554,45.9370985017426,0 4.71046318993026,45.93713091187711,0 4.71046350302797,45.93714099502999,0 4.71046443393523,45.93717097440431,0 4.71046474747261,45.93717691431181,0 4.71046923193674,45.9373171762208,0 4.71054265476234,45.9373161564037,0 4.71054976819882,45.9375868005257,0 4.71055945241317,45.9376034972988,0 4.71056192894811,45.93774144773081,0 4.71077572222225,45.93773767524461,0 4.71087698627781,45.9377352435191,0 4.71099589528205,45.9377813630706,0 4.71121455039157,45.9378634434306,0 4.71118310516279,45.93777375846,0 4.71116290568541,45.93771362666399,0 4.71116199637559,45.9376885107659,0 4.71116399237308,45.9376114703683,0 4.71117781300652,45.9376117117223,0 4.71118573776955,45.9374263170152,0 4.71118872414496,45.93737700333089,0 4.71118977385925,45.93734014865241,0 4.71118803430573,45.9372841511534,0 4.7111844522177,45.93719377461539,0 4.71118384513328,45.9371160530182,0 4.71118079337568,45.9370843043077,0 4.71117763660209,45.9370657975379,0 4.71117324659394,45.93703668110731,0 4.71115030802944,45.936934077494,0 4.71112340505684,45.9368118984745,0 4.71096937171593,45.9368110751937,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.12095">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69009000ZC0405</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ANSE</SimpleData>
+					<SimpleData name="Adresse">5001, PL DES CONDAMINES</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SNCF RESEAU</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.94768845576411 </north>
+			<south> 45.9475333375645 </south>
+			<east> 4.71549187380242 </east>
+			<west> 4.71544218449942 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.71544218449942,45.94768845576411,0 4.71547809640217,45.9476724193045,0 4.71548996293717,45.9475601016254,0 4.71549187380242,45.9475426890487,0 4.71544923176753,45.9475333375645,0 4.71544218449942,45.94768845576411,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.12106">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69009000ZC0406</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ANSE</SimpleData>
+					<SimpleData name="Adresse">5001, PL DES CONDAMINES</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SOCIETE NATIONALE SNCF</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9498036691833 </north>
+			<south> 45.9431296323943 </south>
+			<east> 4.71687986680023 </east>
+			<west> 4.7149023318403 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.71648115572713,45.9439128878988,0 4.71662277681212,45.9436639464531,0 4.71679027029542,45.9433752514859,0 4.71687986680023,45.9432135666386,0 4.71654066626615,45.9431296323943,0 4.71637385675165,45.9434320073344,0 4.71633253351672,45.9435104550166,0 4.71624486501126,45.9436926462457,0 4.71613598973761,45.9439193836259,0 4.71592271935611,45.9444048552147,0 4.71590126345301,45.9443999564424,0 4.71580158982403,45.944648621224,0 4.71569759222857,45.9446300221019,0 4.71564432106828,45.9447477412498,0 4.7156826602407,45.94475580680211,0 4.71566065658959,45.9447996444465,0 4.71568287613186,45.9450155669573,0 4.71557448893405,45.94529958118251,0 4.71555068660669,45.9453478595231,0 4.71535977564271,45.9460541140948,0 4.71530754946293,45.9462925117198,0 4.7152293263765,45.9466911784975,0 4.71521405704661,45.946768870563,0 4.71518092653236,45.9470317481005,0 4.71517941974647,45.9470414084819,0 4.71515636615407,45.94718839266899,0 4.71512790282705,45.9473565353337,0 4.71500647168625,45.94735459253219,0 4.71494749833479,45.94735566630499,0 4.71502363850725,45.9479805026487,0 4.71499133198752,45.9479754978956,0 4.71497006328455,45.9482959308025,0 4.71495868032255,45.94843210976811,0 4.71495042429845,45.9485069933985,0 4.71493035945802,45.9486877987475,0 4.71491349130879,45.94882198919711,0 4.71490822566621,45.94890997780711,0 4.7149023318403,45.9489860866267,0 4.71490789013845,45.94908580053931,0 4.71491706974228,45.9492188757433,0 4.71493891310598,45.949397875168,0 4.7149538473561,45.9495291518352,0 4.71497501381152,45.9497486031757,0 4.71499067393461,45.9498036691833,0 4.7152272989075,45.94979765155,0 4.71527801486736,45.9497967028132,0 4.71543997155145,45.9497895645545,0 4.71543691983452,45.9497330465156,0 4.7154298510276,45.9496346164951,0 4.71542798285986,45.9496078037923,0 4.71542036725714,45.9494918183061,0 4.7154139297304,45.9493970716091,0 4.71540406159485,45.9492585125604,0 4.71540107313249,45.94911282373921,0 4.71539637659945,45.948933024076,0 4.71539351771517,45.94875833058091,0 4.71539314723089,45.9485972000204,0 4.71539770671803,45.94840780266291,0 4.7153998557782,45.9482405091183,0 4.71541327104311,45.94797063462239,0 4.71543021012163,45.9476936812108,0 4.71544218449942,45.94768845576411,0 4.71544923176753,45.9475333375645,0 4.71549187380242,45.9475426890487,0 4.715503330616,45.947433800258,0 4.71552373465576,45.9473054106794,0 4.71554017121732,45.94719887830439,0 4.71557059703312,45.94703574971731,0 4.71562205436342,45.9467726842933,0 4.71565830163793,45.94657262857811,0 4.71571053262157,45.9462929783936,0 4.71573727924676,45.946144406879,0 4.71570258906858,45.9461374569291,0 4.71571805999227,45.94601652787029,0 4.71570520261399,45.945732280032,0 4.71582503418756,45.9453763059546,0 4.71582039155281,45.9453267474747,0 4.71595600244369,45.9449344157103,0 4.71600052578107,45.94480530002129,0 4.71615248861728,45.944830106958,0 4.71619450612456,45.94471174757891,0 4.71623632427294,45.9445869961956,0 4.71622067837611,45.94455723997189,0 4.71624965022339,45.944480150574,0 4.71630640417314,45.9443126593538,0 4.71636903230649,45.9441306677215,0 4.71643205843302,45.9439656032763,0 4.71648115572713,45.9439128878988,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.12117">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69009000ZC0407</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ANSE</SimpleData>
+					<SimpleData name="Adresse">SAINT ROMAIN</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SNCF RESEAU</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.94821622395781 </north>
+			<south> 45.9475426890487 </south>
+			<east> 4.71557078923943 </east>
+			<west> 4.71541809841133 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.71544218449942,45.94768845576411,0 4.71541809841133,45.94821267103781,0 4.71551646919454,45.94821622395781,0 4.71553032317379,45.9480309190191,0 4.715544275842,45.9478031893604,0 4.71555063216944,45.9476839296959,0 4.71557078923943,45.9475600473789,0 4.71549187380242,45.9475426890487,0 4.71548996293717,45.9475601016254,0 4.71547809640217,45.9476724193045,0 4.71544218449942,45.94768845576411,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.12127">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69009000ZC0408</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ANSE</SimpleData>
+					<SimpleData name="Adresse">SAINT ROMAIN</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SOCIETE NATIONALE SNCF</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9492585125604 </north>
+			<south> 45.94768845576411 </south>
+			<east> 4.71551646919454 </east>
+			<west> 4.71539314723089 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.71540406159485,45.9492585125604,0 4.71543744078483,45.9492564754482,0 4.71546523543779,45.9489673781202,0 4.71548350771964,45.9486586095973,0 4.7155000923437,45.94843660457039,0 4.71551646919454,45.94821622395781,0 4.71541809841133,45.94821267103781,0 4.71544218449942,45.94768845576411,0 4.71543021012163,45.9476936812108,0 4.71541327104311,45.94797063462239,0 4.7153998557782,45.9482405091183,0 4.71539770671803,45.94840780266291,0 4.71539314723089,45.9485972000204,0 4.71539351771517,45.94875833058091,0 4.71539637659945,45.948933024076,0 4.71540107313249,45.94911282373921,0 4.71540406159485,45.9492585125604,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.12141">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69009000ZC0409</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ANSE</SimpleData>
+					<SimpleData name="Adresse">SAINT ROMAIN</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SOCIETE NATIONALE SNCF</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9475600473789 </north>
+			<south> 45.946144406879 </south>
+			<east> 4.71580497070897 </east>
+			<west> 4.71549187380242 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.71549187380242,45.9475426890487,0 4.71557078923943,45.9475600473789,0 4.71558865684629,45.94743728060831,0 4.7156303203571,45.9471623842643,0 4.71566049381924,45.94696215041329,0 4.71569952185698,45.94671872860199,0 4.71574440481693,45.9464643194752,0 4.71580497070897,45.94615797207021,0 4.71573727924676,45.946144406879,0 4.71571053262157,45.9462929783936,0 4.71565830163793,45.94657262857811,0 4.71562205436342,45.9467726842933,0 4.71557059703312,45.94703574971731,0 4.71554017121732,45.94719887830439,0 4.71552373465576,45.9473054106794,0 4.715503330616,45.947433800258,0 4.71549187380242,45.9475426890487,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.15251">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69009000AR0651</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ANSE</SimpleData>
+					<SimpleData name="Adresse">BELLE VUE</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SDIS</SimpleData>
+					<SimpleData name="Denomination">SERVICE DEPARTEMENTAL-METROPOLITAIN DINCENDIE ET DE SECOURS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.93222468112799 </north>
+			<south> 45.93143540853319 </south>
+			<east> 4.68733632948783 </east>
+			<west> 4.68655464472568 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.68677653157032,45.93143540853319,0 4.68655464472568,45.9314691598491,0 4.68661469643485,45.9317526151185,0 4.68666706533078,45.93203807636019,0 4.68670740426811,45.9322046446127,0 4.68676507164598,45.93222468112799,0 4.68694274206845,45.93216744998021,0 4.68713507596029,45.9321043254995,0 4.68733632948783,45.9320289983086,0 4.68733206032689,45.9319654726673,0 4.68732562027028,45.9319659289869,0 4.68727146917224,45.9319637642199,0 4.68722364841468,45.93196177523859,0 4.6871851800729,45.9319574851014,0 4.68714782881795,45.93195173717649,0 4.68710890888763,45.93193691557659,0 4.68707033193071,45.93192064773229,0 4.6870332067619,45.9319012057844,0 4.68699815588539,45.93187362661211,0 4.68695669367369,45.93183479422191,0 4.68691465148272,45.9317896655764,0 4.68685815026062,45.9316980963134,0 4.68682591336904,45.9316275118298,0 4.68679442150683,45.93154331568721,0 4.68677653157032,45.93143540853319,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.16637">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69009000AO0084</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ANSE</SimpleData>
+					<SimpleData name="Adresse">LA FONTAINE NORD</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SOCIETE NATIONALE SNCF</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.953688367021 </north>
+			<south> 45.9497895645545 </south>
+			<east> 4.71592406693365 </east>
+			<west> 4.71499067393461 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.71555225591357,45.953688367021,0 4.71568499202339,45.9536879763998,0 4.71574278805641,45.9536861996271,0 4.71592406693365,45.9535942817911,0 4.71590643262233,45.9534883559562,0 4.71588292311794,45.95334721153321,0 4.71584808122484,45.953153187351,0 4.71583671802212,45.95308274430621,0 4.71582321154819,45.9529683793283,0 4.7158107854107,45.9528513859271,0 4.71578704103647,45.9526778196588,0 4.71575797446426,45.9524701973316,0 4.71574382283494,45.9523682718623,0 4.71571310434903,45.9521241960022,0 4.71570100946965,45.9520302556307,0 4.71567954974014,45.9518553937309,0 4.71566264080756,45.9517105464065,0 4.71565322260514,45.9516362008356,0 4.71563927086867,45.9515116646251,0 4.71563409754436,45.9514658070693,0 4.71562895548706,45.951387793859,0 4.71562423134019,45.9513231948235,0 4.71560680278764,45.951024875183,0 4.71560540587389,45.9509966142096,0 4.71559826749869,45.9508172118384,0 4.71559692737903,45.9507368892361,0 4.7155966470793,45.95071545669789,0 4.71559716992313,45.9504213684823,0 4.71559726009565,45.9503911034163,0 4.71559733562325,45.95019042512349,0 4.71559630492851,45.9500495704327,0 4.71559518254319,45.9498394528916,0 4.71559609767954,45.94980251010131,0 4.71548313731389,45.9497908017827,0 4.71543997155145,45.9497895645545,0 4.71527801486736,45.9497967028132,0 4.7152272989075,45.94979765155,0 4.71499067393461,45.9498036691833,0 4.71520438662087,45.9511059128464,0 4.71524202218357,45.9513068302685,0 4.71526472065778,45.951471765697,0 4.71528011401266,45.9515804276811,0 4.71528566242342,45.9516590652355,0 4.71530454019656,45.95210345733081,0 4.71534370779685,45.9530043796447,0 4.7153512423269,45.9531218975669,0 4.71535855679821,45.9533111149628,0 4.71542445245767,45.95334551402031,0 4.71545690787308,45.9533634865975,0 4.71548000301971,45.95337115284839,0 4.71549376025616,45.95337337624809,0 4.71551323486961,45.9536420316902,0 4.71554905201535,45.95365599018979,0 4.71555225591357,45.953688367021,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.16684">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69009000AB0085</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ANSE</SimpleData>
+					<SimpleData name="Adresse">12, PL DES FRERES FOURNET</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPLS</SimpleData>
+					<SimpleData name="Denomination">EHPAD MICHEL LAMY</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.93490700450969 </north>
+			<south> 45.93296399069899 </south>
+			<east> 4.72155159486655 </east>
+			<west> 4.71931685889719 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.72115995635479,45.93296399069899,0 4.7210906946518,45.9329781945887,0 4.72076509263264,45.9330343971086,0 4.72039437461856,45.93310092223761,0 4.72035127584796,45.9331096839033,0 4.72027362975314,45.9331199615884,0 4.72022501919854,45.9331258346744,0 4.72018729408926,45.93312893019841,0 4.72016283026421,45.9331309233939,0 4.71997348081995,45.9331438898091,0 4.71975104764426,45.9331515041676,0 4.71935204849165,45.9338174253784,0 4.71934692706105,45.933822907439,0 4.71934643928859,45.93382795880611,0 4.71931685889719,45.9339307285238,0 4.71931886452079,45.9339329498136,0 4.7193229682659,45.9339362200694,0 4.7193840662506,45.93396645609101,0 4.71946909048898,45.93380790072629,0 4.71994467967376,45.9337677065391,0 4.71997169072331,45.9338514219276,0 4.71999496210296,45.9339228544801,0 4.72001723479279,45.9339912398084,0 4.72003114141729,45.93399012770121,0 4.72008404754112,45.9341548732846,0 4.72009205446539,45.9341797912035,0 4.72009373770735,45.9341840890059,0 4.72010388242824,45.9342154595118,0 4.72032988339245,45.9342640844374,0 4.72034745143814,45.9343140767548,0 4.72041757351735,45.9343025623862,0 4.72046690865503,45.9344438536676,0 4.7203973109467,45.9344556303033,0 4.72040501501745,45.93447911167709,0 4.72044205869747,45.93457816657899,0 4.72044430057236,45.93458795019279,0 4.72044870903176,45.9346133731577,0 4.72052356641146,45.9346046689895,0 4.7205292267169,45.9346040424965,0 4.72054591032967,45.9346753049112,0 4.72051941233048,45.93467831988221,0 4.72052653946855,45.934712258218,0 4.72063031836931,45.93469960144989,0 4.72067965404752,45.93490700450969,0 4.72113009041878,45.9348547582146,0 4.72107939082906,45.93469051992369,0 4.72107175855176,45.9346900055201,0 4.72104985974329,45.9346171111548,0 4.72104824074853,45.93461074076259,0 4.72105380818558,45.9345740873876,0 4.72108991438611,45.9344902228214,0 4.72104993797419,45.93448326494821,0 4.72106954922189,45.9344416242141,0 4.72107428872642,45.93443218477361,0 4.72109098721628,45.9344088726863,0 4.72115523218442,45.9343249403633,0 4.72130849145038,45.9341235527829,0 4.7213107407706,45.9341211767269,0 4.72131361833994,45.9341182506894,0 4.72131951131964,45.9341168099803,0 4.72150514057105,45.9340920987006,0 4.72146591759267,45.93398118794899,0 4.72146310038028,45.93396952162199,0 4.72146578022415,45.9339520071383,0 4.72147632739727,45.9339301396369,0 4.72149916617426,45.93388439653501,0 4.72151531086056,45.9338516353841,0 4.72152893090616,45.9338165708047,0 4.72153955883091,45.933789027615,0 4.72154740649517,45.9337551317072,0 4.72155036365092,45.933734100245,0 4.72155159486655,45.9337032773384,0 4.72154848105468,45.9336697283503,0 4.72153974002611,45.9336295997496,0 4.72153039124898,45.9335989378169,0 4.72149971580999,45.9335260870004,0 4.72146389074503,45.9334536748079,0 4.72144251594903,45.93340581219479,0 4.72141722635609,45.9333359418213,0 4.7213911036092,45.9332641926342,0 4.72137726804877,45.933242786161,0 4.72135361957068,45.9332047758284,0 4.7213297729087,45.93317694649289,0 4.72130207526294,45.93314980623249,0 4.72128724771109,45.933137962332,0 4.72128032508785,45.93313536552429,0 4.72126775638428,45.9331338453857,0 4.72125137605523,45.9331342747144,0 4.72123456927534,45.93313344953869,0 4.72122052505978,45.9331301504275,0 4.72120448043284,45.9331206668685,0 4.72119054200809,45.9331083590768,0 4.72118214314789,45.9330956968043,0 4.72117647628023,45.9330837135379,0 4.72117625052246,45.9330682248162,0 4.72117813169279,45.93305819835521,0 4.721183841729,45.9330509058407,0 4.72115995635479,45.93296399069899,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+				<innerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.72100119481361,45.9344931935477,0 4.72100271887751,45.9345047894832,0 4.72093489945303,45.93451563869579,0 4.72094566241968,45.9345543855261,0 4.72060275757186,45.93459833077809,0 4.72058757418924,45.93455857028879,0 4.72050244255063,45.9345689619275,0 4.72046952199033,45.93446966420949,0 4.72054527922558,45.93445671302051,0 4.72055094609717,45.9344686963185,0 4.72059168719125,45.93446294277589,0 4.72084845823142,45.93442625221709,0 4.72089448652862,45.9344203280827,0 4.72089270724974,45.9344088260984,0 4.72097266908011,45.9343982425807,0 4.72100119481361,45.9344931935477,0 
+						</coordinates>
+					</LinearRing>
+				</innerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.16746">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69009000AB0086</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ANSE</SimpleData>
+					<SimpleData name="Adresse">IMP MESSIMIEUX</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPLS</SimpleData>
+					<SimpleData name="Denomination">EHPAD MICHEL LAMY</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.93448605905651 </north>
+			<south> 45.9337677065391 </south>
+			<east> 4.72040501501745 </east>
+			<west> 4.7193840662506 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.7193840662506,45.93396645609101,0 4.71950586410437,45.9340265738058,0 4.71951154989439,45.93403090086049,0 4.71953252018627,45.9340451736177,0 4.71953748962598,45.9340306867954,0 4.71997446303702,45.9339939616148,0 4.71999394162644,45.934014201626,0 4.71999995577778,45.9340207754314,0 4.72000599578574,45.9340364459786,0 4.72003720446683,45.93413883223981,0 4.72005133320574,45.9341861747617,0 4.7200641908221,45.9342258806005,0 4.72006860609522,45.9342308574368,0 4.72008171670325,45.9342373233594,0 4.72025538289479,45.9342759355311,0 4.72032165136016,45.9343849042719,0 4.72032882150688,45.93439542359409,0 4.72033500754478,45.93441163232939,0 4.72034446483648,45.9344375189584,0 4.72036276212461,45.93448605905651,0 4.72038407930045,45.9344824923982,0 4.72040501501745,45.93447911167709,0 4.7203973109467,45.9344556303033,0 4.72034745143814,45.9343140767548,0 4.72032988339245,45.9342640844374,0 4.72010388242824,45.9342154595118,0 4.72009373770735,45.9341840890059,0 4.72009205446539,45.9341797912035,0 4.72008404754112,45.9341548732846,0 4.72003114141729,45.93399012770121,0 4.72001723479279,45.9339912398084,0 4.71999496210296,45.9339228544801,0 4.71997169072331,45.9338514219276,0 4.71994467967376,45.9337677065391,0 4.71946909048898,45.93380790072629,0 4.7193840662506,45.93396645609101,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.16810">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69009000AB0087</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ANSE</SimpleData>
+					<SimpleData name="Adresse">12, PL DES FRERES FOURNET</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPLS</SimpleData>
+					<SimpleData name="Denomination">EHPAD MICHEL LAMY</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9344556303033 </north>
+			<south> 45.9343025623862 </south>
+			<east> 4.72046690865503 </east>
+			<west> 4.72034745143814 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.72034745143814,45.9343140767548,0 4.7203973109467,45.9344556303033,0 4.72046690865503,45.9344438536676,0 4.72041757351735,45.9343025623862,0 4.72034745143814,45.9343140767548,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.16861">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69009000AB0088</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ANSE</SimpleData>
+					<SimpleData name="Adresse">12, PL DES FRERES FOURNET</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPLS</SimpleData>
+					<SimpleData name="Denomination">EHPAD MICHEL LAMY</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9346853128645 </north>
+			<south> 45.9346040424965 </south>
+			<east> 4.72054591032967 </east>
+			<west> 4.72044870903176 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.72044870903176,45.9346133731577,0 4.72046231557907,45.9346853128645,0 4.72051941233048,45.93467831988221,0 4.72054591032967,45.9346753049112,0 4.7205292267169,45.9346040424965,0 4.72052356641146,45.9346046689895,0 4.72044870903176,45.9346133731577,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.16920">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69009000AB0089</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ANSE</SimpleData>
+					<SimpleData name="Adresse">12, PL DES FRERES FOURNET</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPLS</SimpleData>
+					<SimpleData name="Denomination">EHPAD MICHEL LAMY</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9349232526716 </north>
+			<south> 45.9348156191699 </south>
+			<east> 4.72057851966994 </east>
+			<west> 4.72049536811844 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.72055287458397,45.9348156191699,0 4.72049536811844,45.9348218978315,0 4.72052331872463,45.9349232526716,0 4.72057851966994,45.9349175494792,0 4.72055287458397,45.9348156191699,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.17027">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69009000AB0090</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ANSE</SimpleData>
+					<SimpleData name="Adresse">12, PL DES FRERES FOURNET</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPLS</SimpleData>
+					<SimpleData name="Denomination">EHPAD MICHEL LAMY</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9349175494792 </north>
+			<south> 45.93469960144989 </south>
+			<east> 4.72067965404752 </east>
+			<west> 4.72052653946855 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.72052653946855,45.934712258218,0 4.72055287458397,45.9348156191699,0 4.72057851966994,45.9349175494792,0 4.72067965404752,45.93490700450969,0 4.72063031836931,45.93469960144989,0 4.72052653946855,45.934712258218,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.17094">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69009000AB0091</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ANSE</SimpleData>
+					<SimpleData name="Adresse">IMP MESSIMIEUX</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPLS</SimpleData>
+					<SimpleData name="Denomination">EHPAD MICHEL LAMY</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.93459833077809 </north>
+			<south> 45.9343982425807 </south>
+			<east> 4.72100271887751 </east>
+			<west> 4.72046952199033 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.72100119481361,45.9344931935477,0 4.72097266908011,45.9343982425807,0 4.72089270724974,45.9344088260984,0 4.72089448652862,45.9344203280827,0 4.72084845823142,45.93442625221709,0 4.72059168719125,45.93446294277589,0 4.72055094609717,45.9344686963185,0 4.72054527922558,45.93445671302051,0 4.72046952199033,45.93446966420949,0 4.72050244255063,45.9345689619275,0 4.72058757418924,45.93455857028879,0 4.72060275757186,45.93459833077809,0 4.72094566241968,45.9345543855261,0 4.72093489945303,45.93451563869579,0 4.72100271887751,45.9345047894832,0 4.72100119481361,45.9344931935477,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.17158">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69009000AB0092</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ANSE</SimpleData>
+					<SimpleData name="Adresse">LE BOURG SUD</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPLS</SimpleData>
+					<SimpleData name="Denomination">EHPAD MICHEL LAMY</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9340920987006 </north>
+			<south> 45.9329536315189 </south>
+			<east> 4.72159570882809 </east>
+			<west> 4.72115995635479 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.72120739384114,45.9329536315189,0 4.72119306985983,45.9329579025974,0 4.72115995635479,45.93296399069899,0 4.721183841729,45.9330509058407,0 4.72117813169279,45.93305819835521,0 4.72117625052246,45.9330682248162,0 4.72117647628023,45.9330837135379,0 4.72118214314789,45.9330956968043,0 4.72119054200809,45.9331083590768,0 4.72120448043284,45.9331206668685,0 4.72122052505978,45.9331301504275,0 4.72123456927534,45.93313344953869,0 4.72125137605523,45.9331342747144,0 4.72126775638428,45.9331338453857,0 4.72128032508785,45.93313536552429,0 4.72128724771109,45.933137962332,0 4.72130207526294,45.93314980623249,0 4.7213297729087,45.93317694649289,0 4.72135361957068,45.9332047758284,0 4.72137726804877,45.933242786161,0 4.7213911036092,45.9332641926342,0 4.72141722635609,45.9333359418213,0 4.72144251594903,45.93340581219479,0 4.72146389074503,45.9334536748079,0 4.72149971580999,45.9335260870004,0 4.72153039124898,45.9335989378169,0 4.72153974002611,45.9336295997496,0 4.72154848105468,45.9336697283503,0 4.72155159486655,45.9337032773384,0 4.72155036365092,45.933734100245,0 4.72154740649517,45.9337551317072,0 4.72153955883091,45.933789027615,0 4.72152893090616,45.9338165708047,0 4.72151531086056,45.9338516353841,0 4.72149916617426,45.93388439653501,0 4.72147632739727,45.9339301396369,0 4.72146578022415,45.9339520071383,0 4.72146310038028,45.93396952162199,0 4.72146591759267,45.93398118794899,0 4.72150514057105,45.9340920987006,0 4.72155360874881,45.93408577688841,0 4.72151906669914,45.93400073529011,0 4.72151394835198,45.9339773947865,0 4.72151394155003,45.9339647849945,0 4.72151434753604,45.9339571228095,0 4.7215161695935,45.9339452057576,0 4.72152102917144,45.9339313510063,0 4.72154018886958,45.93389593192951,0 4.72156571943083,45.933841320931,0 4.72158152362979,45.9337976663976,0 4.72159014260431,45.9337636686801,0 4.72159241804494,45.9337414766702,0 4.72159461993417,45.93371280069,0 4.72159570882809,45.9336898160976,0 4.72159473372684,45.93367100616121,0 4.72158884364768,45.9336436242224,0 4.72157836096332,45.93360559375,0 4.72156934095026,45.93358132183649,0 4.72155914324125,45.9335606706685,0 4.72153781896268,45.93351442857531,0 4.72151822587893,45.9334740147331,0 4.72150067509109,45.9334369925011,0 4.72148805255441,45.9334007059218,0 4.72147934615062,45.93336994414179,0 4.7214524480036,45.9332857770108,0 4.72142999569746,45.933232346408,0 4.72141602548006,45.9332107618466,0 4.72140378359855,45.93319491551259,0 4.72137834324353,45.9331615260511,0 4.72135640981169,45.9331370902999,0 4.72133161857509,45.9331162107777,0 4.72130721442681,45.9330953253615,0 4.72128932934014,45.93308064571421,0 4.72123107468472,45.9330422611059,0 4.72120739384114,45.9329536315189,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.17224">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69009000AB0093</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ANSE</SimpleData>
+					<SimpleData name="Adresse">LE BOURG SUD</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPLS</SimpleData>
+					<SimpleData name="Denomination">EHPAD MICHEL LAMY</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.93408577688841 </north>
+			<south> 45.9327921483114 </south>
+			<east> 4.72212400681811 </east>
+			<west> 4.72119720371883 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.72120739384114,45.9329536315189,0 4.72123107468472,45.9330422611059,0 4.72128932934014,45.93308064571421,0 4.72130721442681,45.9330953253615,0 4.72133161857509,45.9331162107777,0 4.72135640981169,45.9331370902999,0 4.72137834324353,45.9331615260511,0 4.72140378359855,45.93319491551259,0 4.72141602548006,45.9332107618466,0 4.72142999569746,45.933232346408,0 4.7214524480036,45.9332857770108,0 4.72147934615062,45.93336994414179,0 4.72148805255441,45.9334007059218,0 4.72150067509109,45.9334369925011,0 4.72151822587893,45.9334740147331,0 4.72153781896268,45.93351442857531,0 4.72155914324125,45.9335606706685,0 4.72156934095026,45.93358132183649,0 4.72157836096332,45.93360559375,0 4.72158884364768,45.9336436242224,0 4.72159473372684,45.93367100616121,0 4.72159570882809,45.9336898160976,0 4.72159461993417,45.93371280069,0 4.72159241804494,45.9337414766702,0 4.72159014260431,45.9337636686801,0 4.72158152362979,45.9337976663976,0 4.72156571943083,45.933841320931,0 4.72154018886958,45.93389593192951,0 4.72152102917144,45.9339313510063,0 4.7215161695935,45.9339452057576,0 4.72151434753604,45.9339571228095,0 4.72151394155003,45.9339647849945,0 4.72151394835198,45.9339773947865,0 4.72151906669914,45.93400073529011,0 4.72155360874881,45.93408577688841,0 4.72195000648699,45.9340311969233,0 4.7219551090936,45.9340086015961,0 4.72200691309992,45.9336588793344,0 4.72202559338076,45.9335214173682,0 4.72203964884162,45.9333887995316,0 4.72206816222626,45.93321903266241,0 4.72208905744726,45.9330492015904,0 4.72210741822848,45.9329180494161,0 4.72212400681811,45.9327921483114,0 4.72195547749271,45.9328145288114,0 4.72119720371883,45.9329208206658,0 4.72120739384114,45.9329536315189,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

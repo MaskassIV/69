@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>DEUX-GROSNES_PUBLICorASSOCIE</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_9">
+		<name>DEUX-GROSNES_PUBLICorASSOCIE</name>
+		<Schema name="DEUX-GROSNES_PUBLICorASSOCIE" id="DEUX-GROSNES_PUBLICorASSOCIE.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="PUBLICorASSOCIE">
+			<LineStyle>
+				<color>BFdb2105</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4Cdb2105</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.9323">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69135000AB0288</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DEUX-GROSNES</SimpleData>
+					<SimpleData name="Adresse">115, RUE DES LOGES</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">AUPM</SimpleData>
+					<SimpleData name="Denomination">SERVICE DEPARTEMENTAL DINCENDIE ET DE SECOURS DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.219623372927 </north>
+			<south> 46.2192998367489 </south>
+			<east> 4.51814221261008 </east>
+			<west> 4.51709222652851 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.51768340092892,46.2192998367489,0 4.51760645856625,46.21934670637239,0 4.51750023766314,46.21940927758539,0 4.51743601611782,46.2194469708913,0 4.51736966437653,46.2194827111509,0 4.51730132460966,46.2195169467881,0 4.51729556020327,46.2195196355632,0 4.51728222799165,46.2195254874932,0 4.51719048380794,46.2195673305136,0 4.51715271948798,46.2195858471983,0 4.51711721245795,46.21960622512371,0 4.51709222652851,46.2196223197278,0 4.51714156160635,46.219623372927,0 4.51719122348819,46.2196221701251,0 4.51722748592123,46.2196197050002,0 4.51735606805256,46.2196149275667,0 4.51776869555,46.2196014065434,0 4.51790606008922,46.2195951603237,0 4.51805446944715,46.2195848036779,0 4.51809779359836,46.21949064808031,0 4.51814221261008,46.2193938659696,0 4.51768340092892,46.2192998367489,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

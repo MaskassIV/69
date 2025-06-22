@@ -1,0 +1,3367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>PROPIERES_COM</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_4">
+		<name>PROPIERES_COM</name>
+		<Schema name="PROPIERES_COM" id="PROPIERES_COM.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="COM">
+			<LineStyle>
+				<color>BFe6c645</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4Ce6c645</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.44">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69161000AB0104</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">PROPIERES</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE PROPIERES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1898151613741 </north>
+			<south> 46.1892553797605 </south>
+			<east> 4.43882016696519 </east>
+			<west> 4.43794331581114 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.43798334497293,46.1898151613741,0 4.43882016696519,46.1895285290654,0 4.43866970533767,46.1892553797605,0 4.43803763685381,46.1894574634956,0 4.43794331581114,46.18976730368,0 4.43798334497293,46.1898151613741,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.51">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69161000AH0105</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">PROPIERES</SimpleData>
+					<SimpleData name="Adresse">LE MORT</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE PROPIERES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1946162881498 </north>
+			<south> 46.1944610459661 </south>
+			<east> 4.45017359187674 </east>
+			<west> 4.44985958409261 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.45016071368672,46.1944610459661,0 4.44985958409261,46.1945841306668,0 4.44994395556277,46.1946162881498,0 4.45010567948722,46.1945230812108,0 4.45017359187674,46.1944723197761,0 4.45016071368672,46.1944610459661,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.497">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69161000AC0262</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">PROPIERES</SimpleData>
+					<SimpleData name="Adresse">LE HAUT DE RUERE</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE PROPIERES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1944507680622 </north>
+			<south> 46.1941017879832 </south>
+			<east> 4.43606524571857 </east>
+			<west> 4.43569722090425 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.43589729130434,46.1941026032448,0 4.4358910046366,46.1941052044151,0 4.43569722090425,46.194213115762,0 4.43577049371139,46.1944507680622,0 4.43606524571857,46.1944098492672,0 4.43597193257521,46.1941201234947,0 4.43592723986637,46.19412699240031,0 4.43592704180474,46.1941194295866,0 4.43592595036359,46.1941124184359,0 4.43592035665721,46.1941068150976,0 4.43591192487252,46.1941017879832,0 4.43589729130434,46.1941026032448,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.532">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69161000AC0284</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">PROPIERES</SimpleData>
+					<SimpleData name="Adresse">LE HAUT DE RUERE</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE PROPIERES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.19427166683471 </north>
+			<south> 46.1941954593033 </south>
+			<east> 4.43419252147863 </east>
+			<west> 4.43408278369994 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.43408278369994,46.19423069932029,0 4.43413365613661,46.19427166683471,0 4.43419252147863,46.1942364300622,0 4.43414190832454,46.1941954593033,0 4.43408278369994,46.19423069932029,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.991">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69161000AL0061</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">PROPIERES</SimpleData>
+					<SimpleData name="Adresse">LE PAQUIER</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE PROPIERES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.19165501799461 </north>
+			<south> 46.1916127302184 </south>
+			<east> 4.44290326316045 </east>
+			<west> 4.44284184526316 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.44284184526316,46.19164079147339,0 4.44284231605755,46.1916537546334,0 4.44289889151079,46.19165501799461,0 4.44290326316045,46.1916141637722,0 4.44284590516757,46.1916127302184,0 4.44284184526316,46.19164079147339,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.2887">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69161000AB0103</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">PROPIERES</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE PROPIERES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1895285290654 </north>
+			<south> 46.18910466563641 </south>
+			<east> 4.43920458071723 </east>
+			<west> 4.43866970533767 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.43882016696519,46.1895285290654,0 4.43920458071723,46.1893326386665,0 4.43918505716087,46.18929037591721,0 4.43909965309848,46.18910466563641,0 4.43866970533767,46.1892553797605,0 4.43882016696519,46.1895285290654,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.3156">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69161000AB0105</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">PROPIERES</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE PROPIERES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1894574634956 </north>
+			<south> 46.1890792583717 </south>
+			<east> 4.43909965309848 </east>
+			<west> 4.43803763685381 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.43866970533767,46.1892553797605,0 4.43909965309848,46.18910466563641,0 4.43909328048025,46.1890792583717,0 4.43870813143817,46.1892124736169,0 4.43804613263634,46.189430337021,0 4.43803763685381,46.1894574634956,0 4.43866970533767,46.1892553797605,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.3326">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69161000AH0106</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">PROPIERES</SimpleData>
+					<SimpleData name="Adresse">LE MORT</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE PROPIERES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1947049545281 </north>
+			<south> 46.1944807365937 </south>
+			<east> 4.45020051934516 </east>
+			<west> 4.44995976671393 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.45013824359805,46.1947049545281,0 4.45020051934516,46.1945195298729,0 4.45017744583701,46.1944807365937,0 4.45011731571982,46.194526625401,0 4.45005243485925,46.1945694225419,0 4.44998330994004,46.19460867122839,0 4.44995976671393,46.19462076981191,0 4.45009105823956,46.19467637576471,0 4.45013824359805,46.1947049545281,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.3359">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691610000B0106</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">PROPIERES</SimpleData>
+					<SimpleData name="Adresse">EN RAVIRIEUX</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE PROPIERES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.2006125836188 </north>
+			<south> 46.1994287774968 </south>
+			<east> 4.47024830907742 </east>
+			<west> 4.46742998405515 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.46934380552226,46.2003927713474,0 4.46949558700794,46.2005824659104,0 4.46952064931078,46.2006125836188,0 4.4699559584972,46.2002793942871,0 4.47008075715847,46.2001834838799,0 4.47024830907742,46.20005189557389,0 4.4699927707588,46.20001728260411,0 4.46991611639588,46.2000076460405,0 4.46974107495385,46.1999856815698,0 4.46861523138157,46.1995980032396,0 4.46838674995898,46.19952746197499,0 4.46815503784662,46.1994621856811,0 4.46807065412216,46.1994399486787,0 4.46801510145482,46.1994287774968,0 4.46756998229306,46.199749386964,0 4.46756323568627,46.1997541573652,0 4.4675426044715,46.19976838355411,0 4.46742998405515,46.1998493634859,0 4.46777657195976,46.2001601136367,0 4.46764597602619,46.2002382636409,0 4.46766401287814,46.200282162138,0 4.46794758479599,46.2002786816448,0 4.46814317627839,46.2002446339799,0 4.46818087551685,46.2002381129212,0 4.46831308089548,46.2002152407522,0 4.4684438816067,46.2001931971439,0 4.46856976695733,46.2002103946739,0 4.46914961936123,46.20015012652799,0 4.46934380552226,46.2003927713474,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.3979">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69161000AM0110</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">PROPIERES</SimpleData>
+					<SimpleData name="Adresse">LES CORREUX</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE PROPIERES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1779932618175 </north>
+			<south> 46.1775202400612 </south>
+			<east> 4.44434020507406 </east>
+			<west> 4.44353525131517 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.44353525131517,46.17765044138071,0 4.44361037908603,46.1778743758541,0 4.44361870372627,46.1779000282939,0 4.44366303591901,46.17790955232131,0 4.44384600199324,46.17795000836309,0 4.4440311851337,46.1779860228318,0 4.44407104914933,46.1779932618175,0 4.44414087510828,46.17788772077919,0 4.44417606851292,46.1778505276747,0 4.4442183792365,46.1778177472991,0 4.44426531390598,46.1777882405018,0 4.44431636357492,46.17776237399881,0 4.44434020507406,46.1777519839097,0 4.44430557912009,46.1775202400612,0 4.44385072416178,46.1776221170483,0 4.44382204373715,46.1776259938653,0 4.44372584802337,46.1776360420515,0 4.44362875850844,46.1776416883947,0 4.44353525131517,46.17765044138071,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.4128">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691610000B0111</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">PROPIERES</SimpleData>
+					<SimpleData name="Adresse">EN RAVIRIEUX</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE PROPIERES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.2012169658429 </north>
+			<south> 46.20044171902699 </south>
+			<east> 4.46795467943465 </east>
+			<west> 4.46732803620029 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.46795467943465,46.2012169658429,0 4.46749416010294,46.2005024891756,0 4.46745050883735,46.20044171902699,0 4.46735021315005,46.2005858547097,0 4.46732803620029,46.2006101879571,0 4.46737542581132,46.200718553706,0 4.46743285493651,46.20085308852741,0 4.46749235266186,46.20099705333299,0 4.46752453340901,46.201075083651,0 4.46795467943465,46.2012169658429,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.4348">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69161000AB0113</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">PROPIERES</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE PROPIERES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.189605318389 </north>
+			<south> 46.1893093830405 </south>
+			<east> 4.43797003362037 </east>
+			<west> 4.43779683123206 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.43779683123206,46.1893093830405,0 4.43780699740214,46.189375631151,0 4.4378761736903,46.189605318389,0 4.43792054326573,46.1894675907055,0 4.43797003362037,46.1893125060639,0 4.43795329650331,46.1893121773913,0 4.43779683123206,46.1893093830405,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.4793">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69161000AH0116</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">PROPIERES</SimpleData>
+					<SimpleData name="Adresse">LA BARBETTE</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE PROPIERES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.19548970307421 </north>
+			<south> 46.19378227675681 </south>
+			<east> 4.44928515051789 </east>
+			<west> 4.4465392027808 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.44881714573463,46.1953750281055,0 4.44881770117348,46.19536169162399,0 4.44890018344174,46.195145658848,0 4.44889459163505,46.19507638118339,0 4.44882186721252,46.19462608961119,0 4.44882947950268,46.19460987123131,0 4.44889336108215,46.1945733919839,0 4.44922024686732,46.1943991857187,0 4.4492451306066,46.1943838279135,0 4.44926526375126,46.19436537843539,0 4.44927975781333,46.19434456912129,0 4.44928515051789,46.1943327020528,0 4.4492832924135,46.19431147074021,0 4.44903383042785,46.19409300406981,0 4.44888959788553,46.1939598370051,0 4.44875884794407,46.19378227675681,0 4.44870252352194,46.1938544148723,0 4.44864068959917,46.19392419144349,0 4.44857321175943,46.1939914280466,0 4.44850034452665,46.1940559413017,0 4.44844675883638,46.1940992240561,0 4.44823874905431,46.1942519197796,0 4.44802546074918,46.1943963064273,0 4.44781679456483,46.1945438760855,0 4.44781042869015,46.1945483702639,0 4.44765257448732,46.19465566458661,0 4.44750400223429,46.1947510421868,0 4.44737729054907,46.1948246161122,0 4.44724672604251,46.1948947264589,0 4.44712113802306,46.1949568477208,0 4.4465392027808,46.1951974276271,0 4.44663328705269,46.1952389206419,0 4.44673051054152,46.1952765009046,0 4.44683086610544,46.1953098983075,0 4.44693396477944,46.1953391177921,0 4.44698983958819,46.1953529969735,0 4.44712438989403,46.1953748811087,0 4.44722488001011,46.1953740523251,0 4.44732498723898,46.1953685450246,0 4.44738217339887,46.1953633138579,0 4.44749882794898,46.1953656114,0 4.447615212417,46.19537241543701,0 4.44767410045282,46.1953776098215,0 4.44777153825187,46.1953888879309,0 4.44786779609658,46.195404594096,0 4.44796235541154,46.19542473492441,0 4.44797606133251,46.1954280728484,0 4.44821437902288,46.19548970307421,0 4.44831000346512,46.1954666896211,0 4.44840343927163,46.19543938091909,0 4.44847336204579,46.19541552392211,0 4.44853848171932,46.195416045229,0 4.44860320173378,46.1954210747674,0 4.4486617866055,46.19542951479211,0 4.44867473489539,46.19542871936339,0 4.44874274372419,46.1954060574121,0 4.44880753623394,46.1953794736094,0 4.44881714573463,46.1953750281055,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.5895">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691610000B0124</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">PROPIERES</SimpleData>
+					<SimpleData name="Adresse">EN RAVIRIEUX</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE PROPIERES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.2004350286449 </north>
+			<south> 46.1998845550388 </south>
+			<east> 4.46682551734109 </east>
+			<west> 4.46602111960593 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.46602111960593,46.20016393740799,0 4.46607219475704,46.2002113729738,0 4.46625181115008,46.2002540888404,0 4.46643748023585,46.2003776037232,0 4.46663577943645,46.2004350286449,0 4.46682551734109,46.2001385225541,0 4.46621702481062,46.1998845550388,0 4.46619666228304,46.1999330918481,0 4.46616846716894,46.19997974824649,0 4.46615029975976,46.2000036693047,0 4.46603283503878,46.2001024528646,0 4.46602111960593,46.20016393740799,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.6022">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691610000B0125</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">PROPIERES</SimpleData>
+					<SimpleData name="Adresse">EN RAVIRIEUX</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE PROPIERES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.2006739183908 </north>
+			<south> 46.2001385225541 </south>
+			<east> 4.46732803620029 </east>
+			<west> 4.46663577943645 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.46728934653565,46.2004052514971,0 4.46726975963605,46.2003955071608,0 4.46725979413153,46.2003866293685,0 4.46724022560858,46.2003678784012,0 4.46682551734109,46.2001385225541,0 4.46663577943645,46.2004350286449,0 4.46669718002645,46.2004514388448,0 4.46685066997944,46.20048233216361,0 4.4670062221985,46.2005078849011,0 4.46704267902472,46.2005130885583,0 4.46714029396741,46.20063710793369,0 4.46717020351582,46.2006739183908,0 4.46732803620029,46.2006101879571,0 4.46730961201205,46.20055665757221,0 4.46728934653565,46.2004052514971,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.6526">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69161000AB0013</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">PROPIERES</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE PROPIERES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.193751649705 </north>
+			<south> 46.19293682893009 </south>
+			<east> 4.44054021793125 </east>
+			<west> 4.43937175213077 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.44053967948914,46.19353564878001,0 4.44054021793125,46.1931859258619,0 4.44052041668717,46.1931233125188,0 4.44046558735843,46.1930799662346,0 4.44028285902995,46.19293682893009,0 4.43947203287971,46.19345955853671,0 4.43943023493191,46.19348773719529,0 4.43947345995736,46.1935386160934,0 4.43937175213077,46.1936411350087,0 4.43942205336756,46.1936898528817,0 4.43948501849912,46.193751649705,0 4.43964600788543,46.1937188095796,0 4.44021152935537,46.19360330086741,0 4.44040038643366,46.1935649730248,0 4.44053967948914,46.19353564878001,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.6817">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69161000AB0132</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">PROPIERES</SimpleData>
+					<SimpleData name="Adresse">472, GRANDE RUE</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE PROPIERES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1916532332256 </north>
+			<south> 46.1913939661371 </south>
+			<east> 4.43687270119549 </east>
+			<west> 4.43662890613869 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.43687270119549,46.1916188527637,0 4.43681574152897,46.19140990526211,0 4.43681357751787,46.1914015567236,0 4.43680845065572,46.1913939661371,0 4.43667022463454,46.1914490304819,0 4.43662890613869,46.1915202523191,0 4.43664253642457,46.1915950127491,0 4.43665365844399,46.1916532332256,0 4.43676808851115,46.1916353055374,0 4.43687270119549,46.1916188527637,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.7483">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69161000AC0138</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">PROPIERES</SimpleData>
+					<SimpleData name="Adresse">LE HAUT DE RUERE</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE PROPIERES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1973965109896 </north>
+			<south> 46.1949969644562 </south>
+			<east> 4.43457664185243 </east>
+			<west> 4.43369896313013 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.43382499572998,46.1950007490284,0 4.43377086528643,46.1950286307633,0 4.43369896313013,46.1950662832786,0 4.43378251971583,46.1950973821587,0 4.43394872893038,46.1953729509252,0 4.43404518862916,46.19553537919411,0 4.43414040222443,46.19568485399961,0 4.43419449975125,46.1957697316747,0 4.43429797851907,46.19593270164389,0 4.43441961085844,46.19612525342571,0 4.43404602910848,46.1964501407646,0 4.43398701820853,46.1964600714951,0 4.43399977538897,46.1964817058955,0 4.43407384599374,46.1966062297257,0 4.43424031337101,46.1968864781411,0 4.43434756333605,46.19706957466959,0 4.43445254394017,46.197250177964,0 4.43453976789236,46.1973965109896,0 4.43457664185243,46.1973831667034,0 4.43444393208464,46.1971540090265,0 4.43429708693939,46.19690503548719,0 4.43421402261496,46.1967639635474,0 4.434169888258,46.19668814665,0 4.434053804828,46.19648958044429,0 4.43444243600171,46.196154956512,0 4.43447034689626,46.1961311879322,0 4.43444937926748,46.1961030825542,0 4.43433533707559,46.1959230439019,0 4.43422187794145,46.19574047601679,0 4.43407292511853,46.1955049482298,0 4.4340072991725,46.1954007622495,0 4.43394099932678,46.1952955940376,0 4.43382087465313,46.19509608789389,0 4.43383228918098,46.1949969644562,0 4.43382499572998,46.1950007490284,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.7578">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69161000AC0139</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">PROPIERES</SimpleData>
+					<SimpleData name="Adresse">LE HAUT DE RUERE</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE PROPIERES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1978693597262 </north>
+			<south> 46.1975275121877 </south>
+			<east> 4.43527732071164 </east>
+			<west> 4.43464293302583 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.43474441535125,46.1976685315503,0 4.43464293302583,46.1975275121877,0 4.4346796647702,46.1977218554633,0 4.43467405666546,46.1978693597262,0 4.43510510279105,46.1978369009659,0 4.43527732071164,46.1978261711147,0 4.43524702628328,46.19779359038449,0 4.43485288769114,46.1978189192549,0 4.43474441535125,46.1976685315503,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.8098">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69161000AC0143</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">PROPIERES</SimpleData>
+					<SimpleData name="Adresse">LE HAUT DE RUERE</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE PROPIERES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1979165142219 </north>
+			<south> 46.1977845987509 </south>
+			<east> 4.43544777511188 </east>
+			<west> 4.43524702628328 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.43527732071164,46.1978261711147,0 4.43537223561173,46.1978202896386,0 4.43544777511188,46.1979165142219,0 4.43539444448147,46.1977917294093,0 4.43538855107173,46.1977845987509,0 4.43524702628328,46.19779359038449,0 4.43527732071164,46.1978261711147,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.8456">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69161000AC0147</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">PROPIERES</SimpleData>
+					<SimpleData name="Adresse">LE HAUT DE RUERE</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE PROPIERES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1969858626451 </north>
+			<south> 46.1969215467444 </south>
+			<east> 4.43244122989365 </east>
+			<west> 4.43234773663854 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.43243728717695,46.1969215467444,0 4.43241292409244,46.1969223039989,0 4.43234773663854,46.1969242059963,0 4.43235064437833,46.1969858626451,0 4.43244122989365,46.1969831002898,0 4.43243881104553,46.1969451241002,0 4.43243728717695,46.1969215467444,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.8810">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69161000AB0150</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">PROPIERES</SimpleData>
+					<SimpleData name="Adresse">256, GRANDE RUE</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE PROPIERES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.19375988193 </north>
+			<south> 46.19326469775899 </south>
+			<east> 4.4375530745334 </east>
+			<west> 4.43677943315967 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.43749727538126,46.1936526025287,0 4.4375530745334,46.1936439714252,0 4.43736921960035,46.19326469775899,0 4.43727115224059,46.1932835899765,0 4.43718586300424,46.1933001590588,0 4.43711257640492,46.19331450490059,0 4.43701787255392,46.1933330841908,0 4.43677943315967,46.19337977845401,0 4.43691908225229,46.19375988193,0 4.4371594419073,46.1937121724246,0 4.43725671567778,46.1936926599034,0 4.43737782056809,46.1936719453746,0 4.43749727538126,46.1936526025287,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.8898">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69161000AB0151</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">PROPIERES</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE PROPIERES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.19378759752029 </north>
+			<south> 46.19337977845401 </south>
+			<east> 4.43691908225229 </east>
+			<west> 4.43662435246586 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.43691908225229,46.19375988193,0 4.43677943315967,46.19337977845401,0 4.43676678693707,46.1933821898541,0 4.43671788034262,46.1933915440418,0 4.43662435246586,46.193410468393,0 4.43677844776555,46.19378759752029,0 4.43691908225229,46.19375988193,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.9159">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69161000AC0154</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">PROPIERES</SimpleData>
+					<SimpleData name="Adresse">LE HAUT DE RUERE</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE PROPIERES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1978248945407 </north>
+			<south> 46.1962896203169 </south>
+			<east> 4.43579924976973 </east>
+			<west> 4.43524639364732 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.43567781422228,46.19682015187239,0 4.4357196044775,46.1966875013795,0 4.43578030934212,46.19648967640501,0 4.43579289947044,46.1964306160442,0 4.43579924976973,46.1963710040373,0 4.4357987520826,46.196312379141,0 4.4357965997475,46.1962896203169,0 4.43556798127245,46.1964890251721,0 4.43531657080606,46.1966154958526,0 4.43536512629968,46.1968204972693,0 4.43543838456718,46.1971120077657,0 4.43535321738664,46.1974802708068,0 4.43524639364732,46.19749693006509,0 4.43550685334536,46.1978248945407,0 4.43551378168153,46.19771303858351,0 4.43552783392825,46.19747203205151,0 4.43553934248367,46.19726266982759,0 4.43554691187116,46.1971307216636,0 4.43554706273927,46.1971265768494,0 4.435658849519,46.1968239938711,0 4.43567781422228,46.19682015187239,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.9251">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69161000AC0155</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">PROPIERES</SimpleData>
+					<SimpleData name="Adresse">46, RTE DES HAUTS DE RUERE</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE PROPIERES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1968159692962 </north>
+			<south> 46.1954733146841 </south>
+			<east> 4.43719032293193 </east>
+			<west> 4.4357451465971 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.43719032293193,46.195553306336,0 4.43672875804621,46.1955042913843,0 4.43645233674553,46.1954777930292,0 4.43640047198818,46.1954733146841,0 4.43634820657107,46.1954733445409,0 4.4363325378028,46.1954742629952,0 4.4362700725633,46.1954809962912,0 4.43620863277786,46.19549221976269,0 4.43614938292352,46.1955078286387,0 4.4361209637449,46.1955171038786,0 4.43606398160867,46.19554006925319,0 4.43601060137506,46.1955668618257,0 4.43598225292474,46.19558379151479,0 4.43592604867165,46.1956216074326,0 4.43587446462814,46.1956625171866,0 4.43584381544647,46.19569064374079,0 4.43580715082536,46.1957911670526,0 4.43586111007918,46.1963361789165,0 4.43585955697845,46.1963957303449,0 4.4358513845371,46.19645509517749,0 4.43583658094456,46.1965138232454,0 4.43583658566022,46.1965140033123,0 4.4357451465971,46.1968159692962,0 4.43613557900247,46.1967979791727,0 4.43613474426327,46.19677601428051,0 4.43612143213161,46.19674808268981,0 4.43606544212025,46.1966307169538,0 4.43588764104312,46.1962547869227,0 4.43613506873513,46.1962784106479,0 4.43622686469504,46.19628724813159,0 4.43677465436276,46.1963401290934,0 4.43705989178155,46.1963663351633,0 4.43708866739744,46.1962815821545,0 4.43710863197778,46.196137768928,0 4.43712649812902,46.1957407242499,0 4.43713812127735,46.195639886572,0 4.43719032293193,46.195553306336,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.9436">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69161000AL0157</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">PROPIERES</SimpleData>
+					<SimpleData name="Adresse">ECHERES</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE PROPIERES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1898318315721 </north>
+			<south> 46.1893667688194 </south>
+			<east> 4.44220717158471 </east>
+			<west> 4.44175197562538 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.44197155854143,46.1898318315721,0 4.44204480606709,46.189816222127,0 4.44205999187137,46.1898117965159,0 4.4421001051388,46.1898035422198,0 4.44214176278807,46.1897997714897,0 4.44218367083399,46.18980059080291,0 4.44215428767163,46.1897188257005,0 4.44212168972897,46.1896183681776,0 4.44215468702467,46.1895712967248,0 4.44220717158471,46.1895009218018,0 4.44209030416813,46.1893667688194,0 4.44175197562538,46.1895641561054,0 4.44197155854143,46.1898318315721,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.10039">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69161000AH0164</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">PROPIERES</SimpleData>
+					<SimpleData name="Adresse">LES CROUX</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE PROPIERES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.2002128447127 </north>
+			<south> 46.1994364671796 </south>
+			<east> 4.44270712584042 </east>
+			<west> 4.44125374387134 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.44270712584042,46.2002128447127,0 4.44269082453102,46.20019963210299,0 4.44264828242344,46.200170090705,0 4.44260128752316,46.20014384806691,0 4.44238029654419,46.2000560478784,0 4.44195123742145,46.19975527441,0 4.4419216537195,46.19973511513,0 4.44188412642502,46.19972361259549,0 4.44174790744501,46.199697780529,0 4.44174013677077,46.19969328582859,0 4.44170536916096,46.19967328228789,0 4.44165073358409,46.19963758943111,0 4.4416176113694,46.1996160339253,0 4.44148837662944,46.19953517435501,0 4.44135978400432,46.19950339102919,0 4.44134438821485,46.19950980056431,0 4.44132649602717,46.19949525698139,0 4.44125374387134,46.1994364671796,0 4.44127931795338,46.1994866685495,0 4.44130004261368,46.19953494999171,0 4.44141540605322,46.19955195057601,0 4.44142288422214,46.1995551881191,0 4.44149017411771,46.1995887392627,0 4.44151603188256,46.1996003898705,0 4.44155551629008,46.1996172715132,0 4.44156450358909,46.1996236421316,0 4.44160240061682,46.1996541434504,0 4.44164610451594,46.1996884438562,0 4.44185603859593,46.19977512476441,0 4.44191945106696,46.1998091751458,0 4.44197841550099,46.1998467043101,0 4.4420039324585,46.1998651138838,0 4.44218900800644,46.1999879546663,0 4.4423694995042,46.2001140055248,0 4.44242026988862,46.2001506477133,0 4.44267864954744,46.2002101438673,0 4.44270712584042,46.2002128447127,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.10252">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691610000B0166</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">PROPIERES</SimpleData>
+					<SimpleData name="Adresse">BOIS DE LA FARGE</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE PROPIERES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.20658346758179 </north>
+			<south> 46.2064707615344 </south>
+			<east> 4.46071955116656 </east>
+			<west> 4.46054667196215 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.46056490546462,46.20658346758179,0 4.46071955116656,46.2065598659502,0 4.46070096184096,46.2064707615344,0 4.46054667196215,46.2064882342421,0 4.46056490546462,46.20658346758179,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.10371">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69161000AB0168</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">PROPIERES</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE PROPIERES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1913212899293 </north>
+			<south> 46.19122894612641 </south>
+			<east> 4.43835006283789 </east>
+			<west> 4.43825348603703 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.43826107099857,46.1913212899293,0 4.43835006283789,46.1913174621451,0 4.43834877837556,46.19122894612641,0 4.43825348603703,46.1912298815295,0 4.43826107099857,46.1913212899293,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.10465">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69161000AB0169</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">PROPIERES</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE PROPIERES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1912298815295 </north>
+			<south> 46.19117474824489 </south>
+			<east> 4.43835219579565 </east>
+			<west> 4.43825348603703 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.43825348603703,46.1912298815295,0 4.43834877837556,46.19122894612641,0 4.43835219579565,46.1911763058946,0 4.43825463355012,46.19117474824489,0 4.43825357665847,46.1912036719496,0 4.43825348603703,46.1912298815295,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.10650">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69161000AB0170</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">PROPIERES</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE PROPIERES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1911763058946 </north>
+			<south> 46.1911285217133 </south>
+			<east> 4.43835581395666 </east>
+			<west> 4.43825463355012 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.43835219579565,46.1911763058946,0 4.43835581395666,46.19113131850721,0 4.43825653341468,46.1911285217133,0 4.43825463355012,46.19117474824489,0 4.43835219579565,46.1911763058946,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.11198">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69161000AC0177</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">PROPIERES</SimpleData>
+					<SimpleData name="Adresse">40, CHE DE LA CROIX DE LA RAZ</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE PROPIERES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1987637012113 </north>
+			<south> 46.19644936702301 </south>
+			<east> 4.43807671629565 </east>
+			<west> 4.4364721946477 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.43807671629565,46.1985722779548,0 4.43784936717355,46.1983255878383,0 4.43781259478495,46.1982834529179,0 4.43767872541169,46.19809970539371,0 4.43757715739363,46.1979705779861,0 4.43748162936694,46.197839302675,0 4.43745386518057,46.1977993954009,0 4.43741387279906,46.1977432511951,0 4.43737992944108,46.19768531930251,0 4.4373683092176,46.1976625901304,0 4.43731709443353,46.1975593045409,0 4.43727194292343,46.19745477146149,0 4.43723436109853,46.19735203400829,0 4.43718725180208,46.1971975405246,0 4.43713244945543,46.1969177761745,0 4.43709912445341,46.19661126172849,0 4.43708178176162,46.19644936702301,0 4.43704272144424,46.1965474893214,0 4.43693170439335,46.1968543870797,0 4.43691443843775,46.1969131464191,0 4.43684058837473,46.1971288806241,0 4.43682243683191,46.19722808954711,0 4.43670766629336,46.1976294207758,0 4.43651308562016,46.19806868615839,0 4.43649322134292,46.1981471120361,0 4.4364721946477,46.19821582576289,0 4.43659417886156,46.1982728256916,0 4.43665024575177,46.198323723529,0 4.43670067155131,46.1983771243277,0 4.43671003536377,46.1983879937262,0 4.43691423677284,46.1986275934041,0 4.43703362667666,46.1987637012113,0 4.43726171980987,46.19874199497481,0 4.43750039274594,46.1987181731291,0 4.43756488392119,46.1987044787167,0 4.43774543657513,46.19867022332421,0 4.43789572002862,46.1986390523364,0 4.43807671629565,46.1985722779548,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.11555">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69161000AB0181</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">PROPIERES</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE PROPIERES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1927578761041 </north>
+			<south> 46.1927143679219 </south>
+			<east> 4.43670129532978 </east>
+			<west> 4.43660506678952 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.43670129532978,46.192738794702,0 4.4366885944666,46.1927143679219,0 4.43660506678952,46.19273379634291,0 4.43661672103647,46.1927578761041,0 4.43670129532978,46.192738794702,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.12424">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69161000AB0192</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">PROPIERES</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE PROPIERES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.18996615649291 </north>
+			<south> 46.18993470228969 </south>
+			<east> 4.43772060729046 </east>
+			<west> 4.43768278246157 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.43770888215052,46.18996615649291,0 4.43772060729046,46.1899385388896,0 4.43769638626409,46.18993470228969,0 4.43768278246157,46.1899599119384,0 4.43770888215052,46.18996615649291,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.14170">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69161000AB0215</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">PROPIERES</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE PROPIERES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1943357409134 </north>
+			<south> 46.1936526025287 </south>
+			<east> 4.43770580468564 </east>
+			<west> 4.43632075419614 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.43749727538126,46.1936526025287,0 4.43737782056809,46.1936719453746,0 4.43725671567778,46.1936926599034,0 4.4371594419073,46.1937121724246,0 4.43691908225229,46.19375988193,0 4.43677844776555,46.19378759752029,0 4.43632075419614,46.19388083216749,0 4.43637214376539,46.19404544905811,0 4.43641984675932,46.1941980440241,0 4.43644105339836,46.1942649633032,0 4.43646339869363,46.1943357409134,0 4.43711102890046,46.19425001199559,0 4.43730277360778,46.1942227306412,0 4.4373835267715,46.1942111723206,0 4.43766217036399,46.1941940495952,0 4.43770580468564,46.1941913363021,0 4.43749727538126,46.1936526025287,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.14369">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69161000AL0218</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">PROPIERES</SimpleData>
+					<SimpleData name="Adresse">ECHERES</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE PROPIERES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1902264709815 </north>
+			<south> 46.18987905886249 </south>
+			<east> 4.44244018958385 </east>
+			<west> 4.44185861261894 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.44244018958385,46.1899588200635,0 4.44235445762977,46.18994351627219,0 4.44222098564265,46.1899028798021,0 4.44215427962172,46.1898861636664,0 4.44213353955081,46.1898815633421,0 4.44210377702145,46.18987905886249,0 4.44207374871017,46.189881241045,0 4.44204500314425,46.1898878200566,0 4.44203961997149,46.18989022999,0 4.44198109110503,46.18991817155381,0 4.44189689757472,46.1899761595379,0 4.44185861261894,46.1899997013544,0 4.44190348147934,46.19008352170189,0 4.44198012095256,46.1902264709815,0 4.44214769521475,46.1902077736538,0 4.4421834442789,46.19018642543309,0 4.44224703445962,46.1901438292813,0 4.44230587235472,46.1900980511013,0 4.44235970579687,46.1900493642901,0 4.44240828025397,46.1899979522112,0 4.44244018958385,46.1899588200635,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.14632">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69161000AC0221</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">PROPIERES</SimpleData>
+					<SimpleData name="Adresse">LES HAUTS DES BORNES</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE PROPIERES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1956016143976 </north>
+			<south> 46.19510309377151 </south>
+			<east> 4.43817455532893 </east>
+			<west> 4.43749193312915 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.43817455532893,46.1955431122229,0 4.4377440174221,46.1954112109174,0 4.43785487922178,46.1952322040997,0 4.43790638646424,46.1951488745742,0 4.43772348739227,46.19510309377151,0 4.43767616096158,46.1951678173038,0 4.43751704054735,46.1954057050742,0 4.43750828373975,46.19541797433751,0 4.43749685185015,46.19544198565141,0 4.43749193312915,46.1954670854384,0 4.43749317132682,46.19548463212671,0 4.4375005597243,46.1955042625744,0 4.43751412883622,46.195522193736,0 4.43753308424329,46.1955378052106,0 4.43755661735948,46.1955499363964,0 4.43783193902506,46.195583921239,0 4.43800696756377,46.195601521554,0 4.43802810998306,46.1956016143976,0 4.43806264628252,46.195598115421,0 4.43809589528989,46.19559003948749,0 4.4381260560655,46.1955779497582,0 4.43815274910101,46.195562211289,0 4.43817455532893,46.1955431122229,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.15102">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69161000AB0023</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">PROPIERES</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE PROPIERES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1932715348671 </north>
+			<south> 46.193166526031 </south>
+			<east> 4.43755037509497 </east>
+			<west> 4.43741929913003 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.43741929913003,46.193166526031,0 4.43746501631801,46.1932284519455,0 4.43749804895908,46.1932715348671,0 4.43750484931275,46.1932687469839,0 4.43755037509497,46.19324916798501,0 4.43748932870735,46.193176358138,0 4.43742645789595,46.19316751628,0 4.43741929913003,46.193166526031,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.15263">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69161000AO0231</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">PROPIERES</SimpleData>
+					<SimpleData name="Adresse">AZOLE</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE PROPIERES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1820777523337 </north>
+			<south> 46.1816955029827 </south>
+			<east> 4.43192306059257 </east>
+			<west> 4.43117303733688 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.4318363285333,46.18207453864419,0 4.43186109265539,46.1820397324598,0 4.43188193529036,46.1820037147835,0 4.43188968750793,46.18198776599069,0 4.43192306059257,46.18188044046781,0 4.4318116513008,46.1816955029827,0 4.43169962552058,46.1817104235652,0 4.43169565148226,46.18182143157281,0 4.4317123909768,46.1818219412341,0 4.43171389525311,46.18187956278121,0 4.43141635648343,46.181910599277,0 4.43141079700991,46.18191120966749,0 4.43135924872112,46.18169975981541,0 4.431229093579,46.1817056317115,0 4.43117303733688,46.1817089493643,0 4.43119497955905,46.1820777523337,0 4.4318363285333,46.18207453864419,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.15322">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69161000AO0232</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">PROPIERES</SimpleData>
+					<SimpleData name="Adresse">AZOLE</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE PROPIERES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1828094374023 </north>
+			<south> 46.1816697985718 </south>
+			<east> 4.43119497955905 </east>
+			<west> 4.43006940297439 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.43019061916314,46.1816697985718,0 4.43017172305331,46.18172083199631,0 4.43015712542295,46.1817726219027,0 4.43014694651,46.1818248065269,0 4.43014118632686,46.1818773858701,0 4.43014047808253,46.18189000363471,0 4.43015222739224,46.18231072132021,0 4.43014985417989,46.1823589350115,0 4.43014620314905,46.1823879813104,0 4.43013826763664,46.1824168113256,0 4.43013729877113,46.1824194353495,0 4.43008479442067,46.18255401996271,0 4.43007776902879,46.18257797510759,0 4.43007023726889,46.1826222909134,0 4.43006940297439,46.1826698547969,0 4.43007271886387,46.18271745652979,0 4.43007649181671,46.1827428068935,0 4.43009210322947,46.1828094374023,0 4.43032233958914,46.1827530429476,0 4.43080072510144,46.1826311108828,0 4.43072241112693,46.1822832816741,0 4.43113370875775,46.18215453717511,0 4.43116244064594,46.1820779819036,0 4.43119497955905,46.1820777523337,0 4.43117303733688,46.1817089493643,0 4.43102248480864,46.1817182300591,0 4.4306978409666,46.18168440012659,0 4.43019061916314,46.1816697985718,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.15403">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691610000C0234</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">PROPIERES</SimpleData>
+					<SimpleData name="Adresse">BOIS D AJOUX</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE PROPIERES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1827565317934 </north>
+			<south> 46.18178863454101 </south>
+			<east> 4.45581352050661 </east>
+			<west> 4.45479790476657 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.45536201457732,46.18178863454101,0 4.45501702772649,46.1818243933612,0 4.45500689532438,46.1820338312367,0 4.45479790476657,46.1821373776634,0 4.45483896345428,46.1822921220635,0 4.45535800052467,46.1826927459904,0 4.45537045531523,46.1827565317934,0 4.45545067588894,46.1827501008203,0 4.45544418109536,46.1826861486474,0 4.45581352050661,46.182644402686,0 4.45536201457732,46.18178863454101,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.15490">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69161000AO0235</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">PROPIERES</SimpleData>
+					<SimpleData name="Adresse">AZOLE</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE PROPIERES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.18399879086059 </north>
+			<south> 46.1830887571481 </south>
+			<east> 4.43072169292926 </east>
+			<west> 4.42981399303712 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.43013798060877,46.1839720268121,0 4.43043215414573,46.1839904808792,0 4.43052372384283,46.18399644352859,0 4.43055905408866,46.18399879086059,0 4.43056007307218,46.1839632931222,0 4.43056288407413,46.18389210778981,0 4.43056695986651,46.18382964267311,0 4.43057622937836,46.18374756846931,0 4.43058991541029,46.18366579893311,0 4.43060789066952,46.1835844257281,0 4.43063015983479,46.1835036289195,0 4.43064635521643,46.18345343998821,0 4.4306487973292,46.1834476452045,0 4.43068315596788,46.1833730006513,0 4.43072169292926,46.1832994743172,0 4.43069596754855,46.18326269205531,0 4.43065020010547,46.1832031959135,0 4.43060071133363,46.1831451876015,0 4.43054750358938,46.1830887571481,0 4.4304166396772,46.1831023824292,0 4.43021613829213,46.1831206664327,0 4.43001530005743,46.183135982232,0 4.42981399303712,46.1831482414222,0 4.43014168057016,46.1839498247078,0 4.43013798060877,46.1839720268121,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.15650">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69161000AB0239</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">PROPIERES</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE PROPIERES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1895285290654 </north>
+			<south> 46.1893326386665 </south>
+			<east> 4.43923044326379 </east>
+			<west> 4.43882016696519 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.43882016696519,46.1895285290654,0 4.43923044326379,46.1893891412376,0 4.43920458071723,46.1893326386665,0 4.43882016696519,46.1895285290654,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.15806">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69161000AM0240</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">PROPIERES</SimpleData>
+					<SimpleData name="Adresse">LES MOLIERES</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE PROPIERES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1810020206175 </north>
+			<south> 46.1805098476803 </south>
+			<east> 4.44506786614773 </east>
+			<west> 4.4443541833265 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.44492809644314,46.1810020206175,0 4.44506786614773,46.1805098476803,0 4.44458619154368,46.1806035122231,0 4.44437553168995,46.18064419618061,0 4.4443541833265,46.1807197605833,0 4.44492809644314,46.1810020206175,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.15836">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69161000AC0241</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">PROPIERES</SimpleData>
+					<SimpleData name="Adresse">LE HAUT DE RUERE</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE PROPIERES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1954383428168 </north>
+			<south> 46.1946953519902 </south>
+			<east> 4.43701195133158 </east>
+			<west> 4.43658632626516 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.43658632626516,46.19474091350771,0 4.43671654195475,46.1951469845783,0 4.43680324817779,46.1954169793598,0 4.43691082244705,46.19542912934579,0 4.43699419695295,46.1954383428168,0 4.43698970600636,46.195425340401,0 4.43678665403935,46.194848079152,0 4.43701195133158,46.1948093865746,0 4.43699090188182,46.1947484996474,0 4.43686344932685,46.1946953519902,0 4.43658632626516,46.19474091350771,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.15887">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69161000AB0242</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">PROPIERES</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE PROPIERES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1913324965174 </north>
+			<south> 46.1909165645385 </south>
+			<east> 4.43811744367712 </east>
+			<west> 4.43782368462447 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.43782368462447,46.1913324965174,0 4.43808004912164,46.19133177568371,0 4.43807177969101,46.1912142575649,0 4.43811744367712,46.1909676268757,0 4.43790355552994,46.1909165645385,0 4.43785307570118,46.1911773959839,0 4.43782368462447,46.1913324965174,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.15891">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69161000AC0242</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">PROPIERES</SimpleData>
+					<SimpleData name="Adresse">LE HAUT DE RUERE</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE PROPIERES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1942019331586 </north>
+			<south> 46.1940165067319 </south>
+			<east> 4.43484929258907 </east>
+			<west> 4.43458508653951 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.4345913995106,46.1940165067319,0 4.43458508653951,46.19403793138041,0 4.43481374081309,46.1942019331586,0 4.43484929258907,46.1941827513275,0 4.4345913995106,46.1940165067319,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.15904">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69161000AO0242</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">PROPIERES</SimpleData>
+					<SimpleData name="Adresse">58, CHE DU BOTTON</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE PROPIERES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1817056317115 </north>
+			<south> 46.18147841375559 </south>
+			<east> 4.43178580640129 </east>
+			<west> 4.43120141528955 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.43178580640129,46.1816491757616,0 4.43177811164572,46.181617660478,0 4.43177468721512,46.1815858212137,0 4.43177450387447,46.1815787985876,0 4.43175116174395,46.1815339709093,0 4.43169221417635,46.1815357941646,0 4.43166461983888,46.18153668210839,0 4.43165726405826,46.18147841375559,0 4.43149091813795,46.1814836610278,0 4.43145062606015,46.1814848889593,0 4.43141526177558,46.1814861448832,0 4.43141968706396,46.1815563385043,0 4.43120141528955,46.1814846947802,0 4.43120198975707,46.1814918025449,0 4.43121333814838,46.18159874487451,0 4.431229093579,46.1817056317115,0 4.43135924872112,46.18169975981541,0 4.43148059924787,46.18169435890609,0 4.43149959683082,46.1815926183496,0 4.43155291922195,46.18158888464891,0 4.43162021911154,46.1815841643083,0 4.43162983852534,46.18162484181411,0 4.43167065387183,46.1816237873562,0 4.43167526395113,46.1816513787152,0 4.43178580640129,46.1816491757616,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.15932">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69161000AB0243</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">PROPIERES</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE PROPIERES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.19133177568371 </north>
+			<south> 46.1909676268757 </south>
+			<east> 4.4383667030097 </east>
+			<west> 4.43807177969101 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.43826107099857,46.1913212899293,0 4.43825348603703,46.1912298815295,0 4.43825357665847,46.1912036719496,0 4.43825463355012,46.19117474824489,0 4.43825653341468,46.1911285217133,0 4.43835581395666,46.19113131850721,0 4.43836462457041,46.1910370908359,0 4.4383667030097,46.19102733769759,0 4.43811744367712,46.1909676268757,0 4.43807177969101,46.1912142575649,0 4.43808004912164,46.19133177568371,0 4.43826107099857,46.1913212899293,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.16171">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69161000AB0248</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">PROPIERES</SimpleData>
+					<SimpleData name="Adresse">29, PL DE LA POSTE</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE PROPIERES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1911773959839 </north>
+			<south> 46.1907442393688 </south>
+			<east> 4.43790355552994 </east>
+			<west> 4.43724201742408 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.43772111762654,46.1911450209188,0 4.43775112123733,46.1911517564795,0 4.43785307570118,46.1911773959839,0 4.43790355552994,46.1909165645385,0 4.43757919955114,46.19082177702111,0 4.43755175115245,46.1908135680934,0 4.43745685211109,46.1907849570919,0 4.43743620276008,46.1907442393688,0 4.43726188166679,46.19098556148791,0 4.43724201742408,46.1910242696585,0 4.43739098617977,46.1910624644415,0 4.43741166356992,46.1910250969125,0 4.437428367131,46.1909944443105,0 4.43755040853241,46.1910294668787,0 4.43755503670676,46.1910625516615,0 4.43760883527368,46.1910766417527,0 4.43759048206842,46.1911136196755,0 4.43762912683666,46.19112348827759,0 4.43770468388652,46.1911414460859,0 4.43772111762654,46.1911450209188,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.16266">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69161000AB0025</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">PROPIERES</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE PROPIERES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1926879485181 </north>
+			<south> 46.19198393263871 </south>
+			<east> 4.43998781503742 </east>
+			<west> 4.43860610683579 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.4387990647775,46.1926879485181,0 4.43895943271071,46.19263647407919,0 4.43911409841472,46.1925851616545,0 4.43931481567708,46.1924701315917,0 4.43963330803626,46.19228182933719,0 4.43964054000739,46.1922856104833,0 4.43998781503742,46.1921218002153,0 4.43993400970673,46.19210257770359,0 4.43981903085758,46.1920650364915,0 4.43968760556682,46.19198393263871,0 4.43875023055668,46.1923886555894,0 4.43860610683579,46.19245127217039,0 4.4387990647775,46.1926879485181,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.16349">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69161000AC0250</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">PROPIERES</SimpleData>
+					<SimpleData name="Adresse">LE HAUT DE RUERE</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE PROPIERES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.19474336647269 </north>
+			<south> 46.1944829338906 </south>
+			<east> 4.43657290805456 </east>
+			<west> 4.43621442182882 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.43657290805456,46.1946990234999,0 4.43650878758684,46.1944989925506,0 4.43650382768909,46.1944829338906,0 4.43621442182882,46.1945249571096,0 4.43628524785366,46.19474336647269,0 4.43657290805456,46.1946990234999,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.16365">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69161000AO0250</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">PROPIERES</SimpleData>
+					<SimpleData name="Adresse">AZOLE</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE PROPIERES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1844595622255 </north>
+			<south> 46.18262758434239 </south>
+			<east> 4.43156633841561 </east>
+			<west> 4.42999158535486 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.43021487983253,46.1844595622255,0 4.43032917159849,46.18444677618961,0 4.43044431855417,46.184436951363,0 4.43050658313921,46.1844329255345,0 4.43056796853137,46.1844299914952,0 4.43069364887204,46.1844362452335,0 4.43082147647117,46.18444031028741,0 4.43095589929221,46.1844337547753,0 4.43128119665359,46.1844274077343,0 4.43132713795192,46.18442394723921,0 4.4313720896277,46.18441734697321,0 4.43140820101776,46.1844098673147,0 4.43146817097245,46.18439245042889,0 4.4315164261161,46.1843633827549,0 4.43153437909443,46.1843457744566,0 4.43154853066941,46.18432659289051,0 4.43155876297161,46.1843062898588,0 4.43156469418485,46.18428514036079,0 4.43156633841561,46.1842636845993,0 4.43156400427194,46.1842438100162,0 4.43150798218691,46.1840995136994,0 4.43145622619893,46.1839547133181,0 4.43144920218796,46.1839339971596,0 4.43142407650636,46.1838407378425,0 4.43140735409586,46.18376142256921,0 4.43139502713747,46.1836816016277,0 4.43138710501222,46.18360163515401,0 4.43138390964584,46.18353385776089,0 4.43137364704565,46.1834884149848,0 4.43134452974223,46.1834210540693,0 4.43131953924626,46.1833528306133,0 4.43130778199271,46.18331470177589,0 4.43130525370958,46.1832774474242,0 4.43131163632219,46.18320900904479,0 4.43132216913718,46.18314060846849,0 4.43133420689258,46.1830851580492,0 4.43143749876483,46.1826957747529,0 4.43146773058447,46.18266675391909,0 4.43103078361331,46.18262758434239,0 4.43080072510144,46.1826311108828,0 4.43032233958914,46.1827530429476,0 4.43033257300221,46.1827974054168,0 4.4303471947332,46.182840992159,0 4.4303659478996,46.18288389646851,0 4.43038882076887,46.1829256681747,0 4.43039450670232,46.18293487313739,0 4.43045521008136,46.18300030571859,0 4.43054750358938,46.1830887571481,0 4.43060071133363,46.1831451876015,0 4.43065020010547,46.1832031959135,0 4.43069596754855,46.18326269205531,0 4.43072169292926,46.1832994743172,0 4.43068315596788,46.1833730006513,0 4.4306487973292,46.1834476452045,0 4.43064635521643,46.18345343998821,0 4.43063015983479,46.1835036289195,0 4.43060789066952,46.1835844257281,0 4.43058991541029,46.18366579893311,0 4.43057622937836,46.18374756846931,0 4.43056695986651,46.18382964267311,0 4.43056288407413,46.18389210778981,0 4.43056007307218,46.1839632931222,0 4.43055905408866,46.18399879086059,0 4.43052372384283,46.18399644352859,0 4.43043215414573,46.1839904808792,0 4.43013798060877,46.1839720268121,0 4.42999158535486,46.18440950437331,0 4.43015111241104,46.1844308237882,0 4.43021487983253,46.1844595622255,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.16399">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69161000AC0251</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">PROPIERES</SimpleData>
+					<SimpleData name="Adresse">LE HAUT DE RUERE</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE PROPIERES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1945249571096 </north>
+			<south> 46.1942649633032 </south>
+			<east> 4.43650382768909 </east>
+			<west> 4.43614511445818 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.43650382768909,46.1944829338906,0 4.43645854522154,46.194338594197,0 4.43646339869363,46.1943357409134,0 4.43644105339836,46.1942649633032,0 4.43614511445818,46.1943100409903,0 4.43621442182882,46.1945249571096,0 4.43650382768909,46.1944829338906,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.16453">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69161000AC0252</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">PROPIERES</SimpleData>
+					<SimpleData name="Adresse">LE HAUT DE RUERE</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE PROPIERES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1943100409903 </north>
+			<south> 46.19404544905811 </south>
+			<east> 4.43644105339836 </east>
+			<west> 4.43607598203177 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.43644105339836,46.1942649633032,0 4.43641984675932,46.1941980440241,0 4.43637214376539,46.19404544905811,0 4.43607598203177,46.1940918803443,0 4.43614511445818,46.1943100409903,0 4.43644105339836,46.1942649633032,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.16606">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69161000AC0255</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">PROPIERES</SimpleData>
+					<SimpleData name="Adresse">LE HAUT DE RUERE</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE PROPIERES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1940632539953 </north>
+			<south> 46.1936414633096 </south>
+			<east> 4.43592529168128 </east>
+			<west> 4.4355086742878 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.43582011131837,46.1936414633096,0 4.43577142127533,46.193669007132,0 4.43555939649916,46.193788496595,0 4.4355086742878,46.1938176871,0 4.43578965608503,46.1940632539953,0 4.43588439910957,46.1940114419067,0 4.43590293848322,46.1940013007995,0 4.43591267839967,46.1939919012686,0 4.43592227216135,46.1939818731397,0 4.43592529168128,46.1939733690551,0 4.43592397628233,46.19396275820181,0 4.43582011131837,46.1936414633096,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.16656">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69161000AC0256</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">PROPIERES</SimpleData>
+					<SimpleData name="Adresse">LE HAUT DE RUERE</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE PROPIERES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1941837387716 </north>
+			<south> 46.1938176871 </south>
+			<east> 4.43578965608503 </east>
+			<west> 4.43529358398977 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.4355086742878,46.1938176871,0 4.43544812012774,46.1938527657675,0 4.43529358398977,46.193939016023,0 4.43557013387901,46.1941837387716,0 4.43578965608503,46.1940632539953,0 4.4355086742878,46.1938176871,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.16700">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69161000AC0257</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">PROPIERES</SimpleData>
+					<SimpleData name="Adresse">LE HAUT DE RUERE</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE PROPIERES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1943067948011 </north>
+			<south> 46.193939016023 </south>
+			<east> 4.43557013387901 </east>
+			<west> 4.43507485556599 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.43529358398977,46.193939016023,0 4.4351431371392,46.1940229628609,0 4.43507485556599,46.1940601202585,0 4.43534665764048,46.1943067948011,0 4.43557013387901,46.1941837387716,0 4.43529358398977,46.193939016023,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.16806">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69161000AC0259</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">PROPIERES</SimpleData>
+					<SimpleData name="Adresse">LE HAUT DE RUERE</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE PROPIERES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1953521675638 </north>
+			<south> 46.19501306285141 </south>
+			<east> 4.4363586497933 </east>
+			<west> 4.43584398391352 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.43584398391352,46.1950730777978,0 4.43604164903465,46.19531627391481,0 4.43604258723689,46.1953174328872,0 4.43635617937489,46.1953519285839,0 4.4363586497933,46.1953521675638,0 4.43625301618897,46.19501306285141,0 4.43584398391352,46.1950730777978,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.16970">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69161000AC0261</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">PROPIERES</SimpleData>
+					<SimpleData name="Adresse">LE HAUT DE RUERE</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE PROPIERES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1948166671737 </north>
+			<south> 46.1944098492672 </south>
+			<east> 4.43618177723754 </east>
+			<west> 4.43577049371139 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.43618177723754,46.19477889761249,0 4.43606524571857,46.1944098492672,0 4.43577049371139,46.1944507680622,0 4.43588681116082,46.1948166671737,0 4.43618177723754,46.19477889761249,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.17090">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69161000AC0264</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">PROPIERES</SimpleData>
+					<SimpleData name="Adresse">LE HAUT DE RUERE</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE PROPIERES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1948495364803 </north>
+			<south> 46.1944507680622 </south>
+			<east> 4.43588681116082 </east>
+			<west> 4.43543843560223 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.43543843560223,46.19459248758049,0 4.43554094935193,46.194678914861,0 4.43554931047532,46.1946861944772,0 4.43556722784928,46.1947018193765,0 4.43558341738115,46.1947207984311,0 4.43559978372665,46.1947465299958,0 4.43560919150674,46.1947690170835,0 4.4356208858336,46.194799580992,0 4.43562746966561,46.19482813797551,0 4.43563036440249,46.1948495364803,0 4.43588681116082,46.1948166671737,0 4.43577049371139,46.1944507680622,0 4.43543843560223,46.19459248758049,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.17123">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69161000AB0265</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">PROPIERES</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE PROPIERES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.18801299127879 </north>
+			<south> 46.18796607212749 </south>
+			<east> 4.43727818086435 </east>
+			<west> 4.43719882377241 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.43727818086435,46.18796607212749,0 4.43720527349186,46.1879698759193,0 4.43719996329399,46.1879701231808,0 4.43719882377241,46.1880107561559,0 4.43726423864643,46.18801299127879,0 4.43727818086435,46.18796607212749,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.17165">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69161000AC0266</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">PROPIERES</SimpleData>
+					<SimpleData name="Adresse">LE HAUT DE RUERE</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE PROPIERES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.195831132324 </north>
+			<south> 46.1944148897353 </south>
+			<east> 4.4360159738449 </east>
+			<west> 4.43417682925779 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.4350312274898,46.1944148897353,0 4.434458373924,46.1946870849198,0 4.43417682925779,46.19482149867761,0 4.4344606923222,46.1952317581464,0 4.43475059901193,46.1956398692266,0 4.43488866966592,46.195831132324,0 4.43511047494454,46.1956836011885,0 4.43522439800596,46.195606329889,0 4.43538874763072,46.1954934773082,0 4.43551837403035,46.1954067309327,0 4.43600206125434,46.1953299231665,0 4.4360159738449,46.1953312785205,0 4.43572904849012,46.1949580774575,0 4.43561152061229,46.1948629236595,0 4.4356117963789,46.19484373670189,0 4.43561055879772,46.1948261899922,0 4.43560649959971,46.1948098497334,0 4.43559108318408,46.194770866875,0 4.43557609817632,46.1947434066653,0 4.43555160643666,46.1947094918728,0 4.43553802638264,46.19469606378799,0 4.4355355088522,46.1946940241202,0 4.43549602513608,46.1946620998752,0 4.43548900528355,46.19466642148129,0 4.43548607994818,46.19467357341441,0 4.4354873222069,46.19468139323361,0 4.43549888209337,46.1946919648066,0 4.43551327774096,46.1947068236104,0 4.43546357298387,46.1947352807294,0 4.43520028001969,46.19452146217951,0 4.4350312274898,46.1944148897353,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.17197">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69161000AB0267</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">PROPIERES</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE PROPIERES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.18993160125451 </north>
+			<south> 46.1879467349716 </south>
+			<east> 4.43777139520259 </east>
+			<west> 4.43753700456084 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.43768651006917,46.1899289730714,0 4.43772794681327,46.18993160125451,0 4.43774808018807,46.189863618996,0 4.43777139520259,46.1897883914267,0 4.43772738298557,46.1894501297454,0 4.43767648369127,46.1887997055138,0 4.43767764470385,46.1887747432831,0 4.43769696216574,46.1884085715845,0 4.43771965453018,46.1880425373131,0 4.43772431083072,46.1879579989962,0 4.43772479355288,46.1879467349716,0 4.43767737418441,46.18794832538139,0 4.43768569521811,46.187973888203,0 4.43768330302262,46.1879766203574,0 4.43766998395981,46.1879780496876,0 4.43765255443503,46.1879809720132,0 4.4376293128956,46.1879897318919,0 4.43761250575033,46.18799660912799,0 4.43759602867584,46.1880061840881,0 4.43757110680339,46.1880200988153,0 4.4375568105949,46.1880485594946,0 4.43755620292559,46.1880600052247,0 4.43755811764581,46.1880835776099,0 4.43756625218003,46.18810202779321,0 4.43757661643536,46.188121440476,0 4.43758416853601,46.1881325128286,0 4.43759926330499,46.1881542973982,0 4.43761154157448,46.1881774685341,0 4.43761993087449,46.1882006888496,0 4.43762259254839,46.1882181274798,0 4.43761097318396,46.1883536396382,0 4.43759867075213,46.1885026699338,0 4.43758850519026,46.1886293374925,0 4.43758473195868,46.18876240877371,0 4.43758382209308,46.1888859871923,0 4.43759389954185,46.188983488423,0 4.43759423168052,46.1890406744478,0 4.43757341400606,46.1892111574246,0 4.43753700456084,46.1896377075103,0 4.43758154169794,46.1899218345425,0 4.43758583151216,46.18992223061229,0 4.43768651006917,46.1899289730714,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.17203">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69161000AC0267</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">PROPIERES</SimpleData>
+					<SimpleData name="Adresse">LE HAUT DE RUERE</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE PROPIERES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1944148897353 </north>
+			<south> 46.1940694966745 </south>
+			<east> 4.43505095519234 </east>
+			<west> 4.43453170224487 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.4350312274898,46.1944148897353,0 4.43505095519234,46.1944055443414,0 4.43503190893865,46.19439137462431,0 4.43479385044628,46.1942149731582,0 4.43477454482851,46.1942156671092,0 4.43476418249508,46.1942161581324,0 4.4345464936502,46.19407471383489,0 4.43454570634794,46.194074363516,0 4.43453170224487,46.1940694966745,0 4.43490786988549,46.1943496197559,0 4.4350312274898,46.1944148897353,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.17266">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69161000AC0268</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">PROPIERES</SimpleData>
+					<SimpleData name="Adresse">LE HAUT DE RUERE</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE PROPIERES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.19482149867761 </north>
+			<south> 46.1943496197559 </south>
+			<east> 4.4350312274898 </east>
+			<west> 4.43372374307877 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.43490786988549,46.1943496197559,0 4.43492547802903,46.1943782177644,0 4.43492627208336,46.19440855905921,0 4.43490908053622,46.1944355248203,0 4.43484109534517,46.1944691658604,0 4.43480702140219,46.1944853569486,0 4.43470583427839,46.1945338270301,0 4.43457454015193,46.1945964565886,0 4.43444106997466,46.19466019420511,0 4.43430606726134,46.1947248516269,0 4.43415825247058,46.1947955246097,0 4.433833759508,46.19455725723121,0 4.43372374307877,46.1944764169172,0 4.43414891766484,46.1948005958388,0 4.43417682925779,46.19482149867761,0 4.434458373924,46.1946870849198,0 4.4350312274898,46.1944148897353,0 4.43490786988549,46.1943496197559,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.17686">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69161000AB0276</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">PROPIERES</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE PROPIERES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1935879886333 </north>
+			<south> 46.1934830124837 </south>
+			<east> 4.43621025559922 </east>
+			<west> 4.4360922241379 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.4360922241379,46.19349887866051,0 4.43609840005035,46.1935069063445,0 4.43612745292322,46.1935565244791,0 4.43614630371987,46.1935879886333,0 4.43616971748781,46.19357085103329,0 4.43617887980315,46.1935641606727,0 4.43619225903746,46.1935501219152,0 4.43620334232064,46.1935325996916,0 4.43621025559922,46.1935044126137,0 4.43620749035225,46.1934830124837,0 4.43614190414555,46.1934942883289,0 4.4360922241379,46.19349887866051,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.17737">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69161000AB0277</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">PROPIERES</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE PROPIERES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.19349887866051 </north>
+			<south> 46.19314144662481 </south>
+			<east> 4.43620749035225 </east>
+			<west> 4.43580666333892 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.4358332144804,46.19314144662481,0 4.43580666333892,46.1931477261223,0 4.43586695788586,46.19322162709919,0 4.43599887146332,46.1933809040891,0 4.4360222031098,46.19341015014709,0 4.43608036967628,46.1934820064395,0 4.4360922241379,46.19349887866051,0 4.43614190414555,46.1934942883289,0 4.43620749035225,46.1934830124837,0 4.43619509810815,46.1934406591577,0 4.43618448347952,46.1934216097662,0 4.43617709123543,46.19341170612291,0 4.43609608569199,46.1933195138824,0 4.43605039869923,46.1933032491405,0 4.4359622371416,46.19321015650181,0 4.43595067512031,46.1931994949411,0 4.43593436573452,46.1931858311882,0 4.43592056454401,46.1931936608788,0 4.4359024330713,46.1931797499447,0 4.43588276473649,46.1931665789244,0 4.435852354756,46.19314931058901,0 4.4358332144804,46.19314144662481,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.17781">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69161000AC0278</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">PROPIERES</SimpleData>
+					<SimpleData name="Adresse">LE HAUT DE RUERE</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE PROPIERES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1953778344583 </north>
+			<south> 46.19349887866051 </south>
+			<east> 4.43671654195475 </east>
+			<west> 4.43479385044628 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.43588132973905,46.1936070064909,0 4.43582011131837,46.1936414633096,0 4.43592397628233,46.19396275820181,0 4.43592529168128,46.1939733690551,0 4.43592227216135,46.1939818731397,0 4.43591267839967,46.1939919012686,0 4.43590293848322,46.1940013007995,0 4.43588439910957,46.1940114419067,0 4.43578965608503,46.1940632539953,0 4.43557013387901,46.1941837387716,0 4.43534665764048,46.1943067948011,0 4.43515364300594,46.1944045183394,0 4.43508952904568,46.1943779484078,0 4.43484929258907,46.1941827513275,0 4.43481374081309,46.1942019331586,0 4.43480940349873,46.1942046897937,0 4.43479385044628,46.1942149731582,0 4.43503190893865,46.19439137462431,0 4.43505095519234,46.1944055443414,0 4.4350312274898,46.1944148897353,0 4.43520028001969,46.19452146217951,0 4.43546357298387,46.1947352807294,0 4.43551327774096,46.1947068236104,0 4.43549888209337,46.1946919648066,0 4.4354873222069,46.19468139323361,0 4.43548607994818,46.19467357341441,0 4.43548900528355,46.19466642148129,0 4.43549602513608,46.1946620998752,0 4.4355355088522,46.1946940241202,0 4.43554931047532,46.1946861944772,0 4.43554094935193,46.194678914861,0 4.43543843560223,46.19459248758049,0 4.43529326589149,46.1944718343019,0 4.43528502505497,46.1944641928961,0 4.43528375219117,46.1944552026389,0 4.43528444289491,46.19444690809931,0 4.43529341453907,46.1944378785759,0 4.43530497912935,46.19442881631739,0 4.43569722090425,46.194213115762,0 4.4358910046366,46.1941052044151,0 4.43589729130434,46.1941026032448,0 4.43591192487252,46.1941017879832,0 4.43592035665721,46.1941068150976,0 4.43592595036359,46.1941124184359,0 4.43592704180474,46.1941194295866,0 4.43592723986637,46.19412699240031,0 4.43597193257521,46.1941201234947,0 4.43606524571857,46.1944098492672,0 4.43618177723754,46.19477889761249,0 4.43625301618897,46.19501306285141,0 4.4363586497933,46.1953521675638,0 4.43635617937489,46.1953519285839,0 4.43635805822799,46.19535929003619,0 4.4363590224582,46.1953663928535,0 4.43643366779113,46.1953740958735,0 4.43646567011162,46.1953778344583,0 4.43640378425899,46.195198759966,0 4.43671654195475,46.1951469845783,0 4.43658632626516,46.19474091350771,0 4.43657290805456,46.1946990234999,0 4.43628524785366,46.19474336647269,0 4.43621442182882,46.1945249571096,0 4.43614511445818,46.1943100409903,0 4.43607598203177,46.1940918803443,0 4.43600797216856,46.1938719942783,0 4.43596981263706,46.19373215766501,0 4.43596751661926,46.193718767236,0 4.43597499123143,46.1937120081455,0 4.43601648467425,46.1936820333628,0 4.4360582043499,46.1936507948206,0 4.43609980145901,46.19362478148119,0 4.43612449756301,46.1936070873134,0 4.43614630371987,46.1935879886333,0 4.43612745292322,46.1935565244791,0 4.43609840005035,46.1935069063445,0 4.4360922241379,46.19349887866051,0 4.43588132973905,46.1936070064909,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.17811">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69161000AB0279</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">PROPIERES</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE PROPIERES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.19388083216749 </north>
+			<south> 46.193410468393 </south>
+			<east> 4.43677844776555 </east>
+			<west> 4.43616971748781 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.43620749035225,46.1934830124837,0 4.43621025559922,46.1935044126137,0 4.43620334232064,46.1935325996916,0 4.43619225903746,46.1935501219152,0 4.43617887980315,46.1935641606727,0 4.43616971748781,46.19357085103329,0 4.43652438626838,46.1935153043359,0 4.4366100186742,46.1937790984551,0 4.43630363305605,46.1938262899879,0 4.43632075419614,46.19388083216749,0 4.43677844776555,46.19378759752029,0 4.43662435246586,46.193410468393,0 4.43656911916329,46.193420893158,0 4.43620749035225,46.1934830124837,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.17814">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69161000AC0279</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">PROPIERES</SimpleData>
+					<SimpleData name="Adresse">LE HAUT DE RUERE</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE PROPIERES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1954169793598 </north>
+			<south> 46.1951469845783 </south>
+			<east> 4.43680324817779 </east>
+			<west> 4.43640378425899 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.43646567011162,46.1953778344583,0 4.43680324817779,46.1954169793598,0 4.43671654195475,46.1951469845783,0 4.43640378425899,46.195198759966,0 4.43646567011162,46.1953778344583,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.17821">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69161000AK0279</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">PROPIERES</SimpleData>
+					<SimpleData name="Adresse">LES MINES</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE PROPIERES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1866385046637 </north>
+			<south> 46.18609185362289 </south>
+			<east> 4.45293117075504 </east>
+			<west> 4.45236831645826 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.45238818631593,46.1866385046637,0 4.45293117075504,46.1866206682005,0 4.45282282677671,46.1864859667057,0 4.45272028308124,46.18636461047661,0 4.45249819236772,46.18609185362289,0 4.45243272308688,46.1861217807137,0 4.45240139522279,46.18619720402809,0 4.45237644764244,46.1862736265789,0 4.45236831645826,46.1863044421793,0 4.45236859217511,46.18654986216369,0 4.45238818631593,46.1866385046637,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.17835">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69161000AB0028</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">PROPIERES</SimpleData>
+					<SimpleData name="Adresse">359, GRANDE RUE</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE PROPIERES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1927182640761 </north>
+			<south> 46.19249723802259 </south>
+			<east> 4.4373684058746 </east>
+			<west> 4.43706873956521 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.43730149797988,46.19268491575379,0 4.4373684058746,46.1926894736574,0 4.43735779714967,46.19250245621031,0 4.43732847426688,46.19250192630049,0 4.43719340043371,46.1924992208116,0 4.43710801521469,46.19249723802259,0 4.43708956293719,46.1925601553364,0 4.43706873956521,46.192631568569,0 4.43709032630608,46.1927129831258,0 4.43719979027555,46.1927182640761,0 4.43718509453774,46.1926771107907,0 4.43730149797988,46.19268491575379,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.17918">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69161000AC0280</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">PROPIERES</SimpleData>
+					<SimpleData name="Adresse">LE HAUT DE RUERE</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE PROPIERES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1953663928535 </north>
+			<south> 46.1946861944772 </south>
+			<east> 4.4363590224582 </east>
+			<west> 4.4355355088522 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.4355355088522,46.1946940241202,0 4.43553802638264,46.19469606378799,0 4.43555160643666,46.1947094918728,0 4.43557609817632,46.1947434066653,0 4.43559108318408,46.194770866875,0 4.43560649959971,46.1948098497334,0 4.43561055879772,46.1948261899922,0 4.4356117963789,46.19484373670189,0 4.43561152061229,46.1948629236595,0 4.43572904849012,46.1949580774575,0 4.4360159738449,46.1953312785205,0 4.43606317105177,46.1953358159943,0 4.4363590224582,46.1953663928535,0 4.43635805822799,46.19535929003619,0 4.43635617937489,46.1953519285839,0 4.43604258723689,46.1953174328872,0 4.43604164903465,46.19531627391481,0 4.43584398391352,46.1950730777978,0 4.43574901906315,46.1949480984339,0 4.43563036440249,46.1948495364803,0 4.43562746966561,46.19482813797551,0 4.4356208858336,46.194799580992,0 4.43560919150674,46.1947690170835,0 4.43559978372665,46.1947465299958,0 4.43558341738115,46.1947207984311,0 4.43556722784928,46.1947018193765,0 4.43554931047532,46.1946861944772,0 4.4355355088522,46.1946940241202,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.17957">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69161000AB0281</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">PROPIERES</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE PROPIERES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1933001590588 </north>
+			<south> 46.1930884730441 </south>
+			<east> 4.43727115224059 </east>
+			<west> 4.43711183455422 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.43727115224059,46.1932835899765,0 4.43713181142122,46.1930884730441,0 4.43711183455422,46.1930932287314,0 4.43718586300424,46.1933001590588,0 4.43727115224059,46.1932835899765,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.17961">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69161000AC0281</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">PROPIERES</SimpleData>
+					<SimpleData name="Adresse">LE HAUT DE RUERE</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE PROPIERES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.19550630844789 </north>
+			<south> 46.1953663928535 </south>
+			<east> 4.43724159091168 </east>
+			<west> 4.43608293318874 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.43646567011162,46.1953778344583,0 4.43643366779113,46.1953740958735,0 4.4363590224582,46.1953663928535,0 4.43635910272747,46.195374407471,0 4.43635825893854,46.1953818033197,0 4.43635650996017,46.1953893006673,0 4.43635397836578,46.19539662777549,0 4.43635053450537,46.19540378628199,0 4.43632797545255,46.1954040712772,0 4.4363051736099,46.195404989778,0 4.43628252028435,46.1954066269042,0 4.43625988346679,46.1954088942603,0 4.43623752245594,46.19541178857061,0 4.43621530995974,46.1954154015067,0 4.43619337326874,46.19541964139729,0 4.43617184203203,46.1954245066049,0 4.43615045930768,46.1954300904386,0 4.4361293500282,46.1954362111939,0 4.43608293318874,46.1954515678724,0 4.43609454292642,46.1954689835666,0 4.43613142936155,46.1954561789752,0 4.43619905216073,46.1954383928854,0 4.43625594942835,46.1954270466755,0 4.43631711103473,46.19542005966551,0 4.43637865221736,46.19541766105419,0 4.43644044334188,46.1954198524788,0 4.43649896972661,46.1954261379665,0 4.43721762343467,46.19550630844789,0 4.43724159091168,46.1954657471799,0 4.43699419695295,46.1954383428168,0 4.43691082244705,46.19542912934579,0 4.43680324817779,46.1954169793598,0 4.43660137132929,46.1953992661354,0 4.43646777053857,46.195383752097,0 4.43646567011162,46.1953778344583,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.17971">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69161000AK0281</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">PROPIERES</SimpleData>
+					<SimpleData name="Adresse">LES MINES</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE PROPIERES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1866206682005 </north>
+			<south> 46.18599913364889 </south>
+			<east> 4.45315401957207 </east>
+			<west> 4.45249819236772 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.45293117075504,46.1866206682005,0 4.45315401957207,46.18661358668721,0 4.45288928761756,46.18599913364889,0 4.45281341041658,46.1860130725877,0 4.45249819236772,46.18609185362289,0 4.45272028308124,46.18636461047661,0 4.45282282677671,46.1864859667057,0 4.45293117075504,46.1866206682005,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.18012">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69161000AC0282</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">PROPIERES</SimpleData>
+					<SimpleData name="Adresse">LE HAUT DE RUERE</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE PROPIERES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1954169793598 </north>
+			<south> 46.1953778344583 </south>
+			<east> 4.43680324817779 </east>
+			<west> 4.43646567011162 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.43680324817779,46.1954169793598,0 4.43646567011162,46.1953778344583,0 4.43646777053857,46.195383752097,0 4.43660137132929,46.1953992661354,0 4.43680324817779,46.1954169793598,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.18051">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69161000AB0283</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">PROPIERES</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE PROPIERES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1932835899765 </north>
+			<south> 46.193066898077 </south>
+			<east> 4.43736921960035 </east>
+			<west> 4.43713181142122 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.43736921960035,46.19326469775899,0 4.4372212488053,46.193066898077,0 4.43720282060441,46.1930713640129,0 4.43713181142122,46.1930884730441,0 4.43727115224059,46.1932835899765,0 4.43736921960035,46.19326469775899,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.18053">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69161000AC0283</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">PROPIERES</SimpleData>
+					<SimpleData name="Adresse">LE HAUT DE RUERE</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE PROPIERES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1954515678724 </north>
+			<south> 46.1953299231665 </south>
+			<east> 4.43635910272747 </east>
+			<west> 4.43600206125434 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.4363590224582,46.1953663928535,0 4.43606317105177,46.1953358159943,0 4.4360159738449,46.1953312785205,0 4.43600206125434,46.1953299231665,0 4.43608293318874,46.1954515678724,0 4.4361293500282,46.1954362111939,0 4.43615045930768,46.1954300904386,0 4.43617184203203,46.1954245066049,0 4.43619337326874,46.19541964139729,0 4.43621530995974,46.1954154015067,0 4.43623752245594,46.19541178857061,0 4.43625988346679,46.1954088942603,0 4.43628252028435,46.1954066269042,0 4.4363051736099,46.195404989778,0 4.43632797545255,46.1954040712772,0 4.43635053450537,46.19540378628199,0 4.43635397836578,46.19539662777549,0 4.43635650996017,46.1953893006673,0 4.43635825893854,46.1953818033197,0 4.43635910272747,46.195374407471,0 4.4363590224582,46.1953663928535,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.18122">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69161000AC0285</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">PROPIERES</SimpleData>
+					<SimpleData name="Adresse">LE HAUT DE RUERE</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE PROPIERES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1942004728097 </north>
+			<south> 46.1941105834073 </south>
+			<east> 4.43410194863639 </east>
+			<west> 4.43397292406134 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.43410194863639,46.1941105834073,0 4.43408968871289,46.19411289957,0 4.43405793676982,46.19412365735069,0 4.43402926794534,46.1941382489533,0 4.43400509893233,46.19415629625859,0 4.43398618641986,46.194176979156,0 4.43397292406134,46.1942004728097,0 4.43410194863639,46.1941105834073,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.18158">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69161000AB0286</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">PROPIERES</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE PROPIERES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1934830124837 </north>
+			<south> 46.19308128349401 </south>
+			<east> 4.43671788034262 </east>
+			<west> 4.4358332144804 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.4358332144804,46.19314144662481,0 4.435852354756,46.19314931058901,0 4.43588276473649,46.1931665789244,0 4.4359024330713,46.1931797499447,0 4.43592056454401,46.1931936608788,0 4.43593436573452,46.1931858311882,0 4.43595067512031,46.1931994949411,0 4.4359622371416,46.19321015650181,0 4.43605039869923,46.1933032491405,0 4.43609608569199,46.1933195138824,0 4.43617709123543,46.19341170612291,0 4.43618448347952,46.1934216097662,0 4.43619509810815,46.1934406591577,0 4.43620749035225,46.1934830124837,0 4.43656911916329,46.193420893158,0 4.43662435246586,46.193410468393,0 4.43671788034262,46.1933915440418,0 4.4365676135258,46.19308128349401,0 4.43622315444295,46.19316011784279,0 4.43604713436929,46.193094433614,0 4.43584133492338,46.1931395428028,0 4.4358332144804,46.19314144662481,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.18161">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69161000AC0286</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">PROPIERES</SimpleData>
+					<SimpleData name="Adresse">LE HAUT DE RUERE</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE PROPIERES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.19436875732589 </north>
+			<south> 46.1937009625078 </south>
+			<east> 4.43479385044628 </east>
+			<west> 4.4339657567522 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.43400212235583,46.1937102505844,0 4.43440325261937,46.19397808200819,0 4.43440820007942,46.19399369059281,0 4.43440693628768,46.19400982785861,0 4.43439978422802,46.1940239679595,0 4.4343704694609,46.1940485648199,0 4.43433640259891,46.19406997934801,0 4.43433563414015,46.1940703492958,0 4.43431048707452,46.1940857071095,0 4.43428160861446,46.1940972392714,0 4.43425002887204,46.194104662594,0 4.43421703725534,46.1941076906195,0 4.43419458953112,46.1941072532877,0 4.43415937284373,46.1941045453178,0 4.43412388967524,46.1941065239868,0 4.43410194863639,46.1941105834073,0 4.43397292406134,46.1942004728097,0 4.43396614639661,46.1942239747357,0 4.4339657567522,46.19424874703991,0 4.43397209227532,46.19427280407879,0 4.43397690071301,46.1942831007032,0 4.43399213480804,46.19430524424029,0 4.43399708010156,46.1943108558496,0 4.43401936475046,46.1943298483048,0 4.43404649594916,46.1943457174746,0 4.43407716074002,46.1943578494741,0 4.4341107014628,46.1943658923429,0 4.43413347217034,46.19436875732589,0 4.43416965084491,46.1943685711474,0 4.43417676025379,46.1943676708967,0 4.43419678965062,46.19436489646321,0 4.43420545247152,46.1943638865517,0 4.43423932362886,46.194354813199,0 4.43424676309855,46.1943516571992,0 4.43427036384429,46.1943416326403,0 4.43428746337711,46.1943309695866,0 4.43429741806378,46.1943248097657,0 4.43431959759727,46.19430507629559,0 4.43433625892133,46.1942826204779,0 4.43434231015503,46.19427101604069,0 4.43434745181991,46.19424447258,0 4.43434597206247,46.1942176524023,0 4.4343380217368,46.19419136417329,0 4.43433678425646,46.194188677888,0 4.43434224387856,46.19417428895391,0 4.43434381858989,46.1941700361148,0 4.43435699342539,46.1941531181367,0 4.43436599343797,46.1941451690886,0 4.43442290437237,46.19410959659721,0 4.43445238403034,46.19409130207031,0 4.43448586848767,46.194077370105,0 4.4345157392207,46.1940690676474,0 4.43453170224487,46.1940694966745,0 4.43454570634794,46.194074363516,0 4.4345464936502,46.19407471383489,0 4.43476418249508,46.1942161581324,0 4.43477454482851,46.1942156671092,0 4.43479385044628,46.1942149731582,0 4.43401017950607,46.1937009625078,0 4.43400212235583,46.1937102505844,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+				<innerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.43408278369994,46.19423069932029,0 4.43414190832454,46.1941954593033,0 4.43419252147863,46.1942364300622,0 4.43413365613661,46.19427166683471,0 4.43408278369994,46.19423069932029,0 
+						</coordinates>
+					</LinearRing>
+				</innerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.18318">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69161000AC0029</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">PROPIERES</SimpleData>
+					<SimpleData name="Adresse">LE HAUT DE RUERE</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE PROPIERES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1968707935238 </north>
+			<south> 46.1962547869227 </south>
+			<east> 4.43705989178155 </east>
+			<west> 4.43588764104312 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.43687351173433,46.1968707935238,0 4.43695491408107,46.19665127124391,0 4.4369980263581,46.1965345447313,0 4.43702376892047,46.1964726160872,0 4.43705989178155,46.1963663351633,0 4.43677465436276,46.1963401290934,0 4.43622686469504,46.19628724813159,0 4.43613506873513,46.1962784106479,0 4.43588764104312,46.1962547869227,0 4.43606544212025,46.1966307169538,0 4.43612143213161,46.19674808268981,0 4.43613474426327,46.19677601428051,0 4.43687351173433,46.1968707935238,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.18463">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69161000AC0292</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">PROPIERES</SimpleData>
+					<SimpleData name="Adresse">LES HAUTS DES BORNES</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE PROPIERES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1947710695777 </north>
+			<south> 46.1945048455826 </south>
+			<east> 4.43853803997977 </east>
+			<west> 4.43844173197894 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.4384608944965,46.1947710695777,0 4.43853803997977,46.1945577241735,0 4.43851758810566,46.1945048455826,0 4.43847454173157,46.1945299775141,0 4.43845734427499,46.19454676675191,0 4.43844173197894,46.194584430623,0 4.4384608944965,46.1947710695777,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.18765">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69161000AK0299</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">PROPIERES</SimpleData>
+					<SimpleData name="Adresse">LES BOIS</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE PROPIERES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1846402366197 </north>
+			<south> 46.184528356718 </south>
+			<east> 4.45293416822605 </east>
+			<west> 4.45283579860471 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.45288349795919,46.1846402366197,0 4.45293416822605,46.1846146413296,0 4.45283579860471,46.184528356718,0 4.45288349795919,46.1846402366197,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.19047">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69161000AK0301</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">PROPIERES</SimpleData>
+					<SimpleData name="Adresse">LES MINES</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE PROPIERES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1847834541669 </north>
+			<south> 46.184528356718 </south>
+			<east> 4.45288349795919 </east>
+			<west> 4.45252296599215 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.45288349795919,46.1846402366197,0 4.45283579860471,46.184528356718,0 4.45252296599215,46.18468708400641,0 4.45260033700002,46.1847834541669,0 4.45288349795919,46.1846402366197,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.19088">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69161000AK0302</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">PROPIERES</SimpleData>
+					<SimpleData name="Adresse">LES MINES</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE PROPIERES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1852296074716 </north>
+			<south> 46.1849210572472 </south>
+			<east> 4.4527949744959 </east>
+			<west> 4.45234233755583 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.45278772494436,46.18516590156369,0 4.4527949744959,46.1851507682751,0 4.45267192811884,46.1849210572472,0 4.45234233755583,46.1849857014804,0 4.45251749661567,46.1852296074716,0 4.45278772494436,46.18516590156369,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.20900">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69161000AK0340</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">PROPIERES</SimpleData>
+					<SimpleData name="Adresse">LA GARDETTE</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE PROPIERES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.19578149063899 </north>
+			<south> 46.1957218554355 </south>
+			<east> 4.45641868940753 </east>
+			<west> 4.45632660309039 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.45632660309039,46.1957449858696,0 4.45634096929666,46.19575362809301,0 4.45637220333693,46.1957723215091,0 4.45638762110694,46.19578149063899,0 4.45641868940753,46.195754884128,0 4.45635348383057,46.1957218554355,0 4.45632660309039,46.1957449858696,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.26191">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69161000AM0048</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">PROPIERES</SimpleData>
+					<SimpleData name="Adresse">LES MOLIERES</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE PROPIERES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1806947239816 </north>
+			<south> 46.1805352649739 </south>
+			<east> 4.4437657764555 </east>
+			<west> 4.44359000800909 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.44363465114795,46.1805352649739,0 4.44359000800909,46.1806371534433,0 4.44373025753341,46.1806947239816,0 4.4437657764555,46.1805516121908,0 4.44363465114795,46.1805352649739,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.29518">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69161000AB0059</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">PROPIERES</SimpleData>
+					<SimpleData name="Adresse">49, RUE DU LAVOIR</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE PROPIERES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.19154688791459 </north>
+			<south> 46.19105736569431 </south>
+			<east> 4.43907962267206 </east>
+			<west> 4.43843435139818 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.43865923268564,46.19143135299349,0 4.43865799146411,46.1914483006109,0 4.43865163341533,46.19147287830089,0 4.43864307203729,46.1915073908412,0 4.43869949455295,46.1915176645593,0 4.43886690473257,46.19154688791459,0 4.4388710050137,46.19149063648571,0 4.43878535405225,46.1914735276951,0 4.43879083527213,46.1914105941046,0 4.43879521705017,46.1913700101399,0 4.43904314374353,46.1913393127615,0 4.43907962267206,46.1912024050114,0 4.43903223265664,46.19119039601159,0 4.43895160498211,46.19117196287951,0 4.43878654772435,46.1911335234215,0 4.43876136664591,46.1911277177975,0 4.43855822108731,46.1910808437635,0 4.43845632315881,46.19105736569431,0 4.43843435139818,46.1912084998094,0 4.43843921134795,46.1913789282361,0 4.43866367012203,46.19137311591379,0 4.43865923268564,46.19143135299349,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.30133">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69161000AB0061</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">PROPIERES</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE PROPIERES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.19155094434241 </north>
+			<south> 46.1913393127615 </south>
+			<east> 4.43904314374353 </east>
+			<west> 4.43878535405225 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.4388666221276,46.19155094434241,0 4.43889171096453,46.1915482851575,0 4.43891622217006,46.191543381694,0 4.43893937789832,46.19153624379769,0 4.4389582389452,46.191528529812,0 4.43900613016092,46.1914855037897,0 4.43904314374353,46.1913393127615,0 4.43879521705017,46.1913700101399,0 4.43879083527213,46.1914105941046,0 4.43878535405225,46.1914735276951,0 4.4388710050137,46.19149063648571,0 4.43886690473257,46.19154688791459,0 4.4388666221276,46.19155094434241,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.30602">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69161000AD0063</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">PROPIERES</SimpleData>
+					<SimpleData name="Adresse">LA CHIRETTE</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE PROPIERES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.20261061017249 </north>
+			<south> 46.20182207461709 </south>
+			<east> 4.43959658064999 </east>
+			<west> 4.43875894468628 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.43923600901814,46.2024914843743,0 4.43927165206605,46.20240646380319,0 4.43934246949772,46.2022482268448,0 4.43959658064999,46.2020115659252,0 4.43927168978044,46.20188913979181,0 4.43906991949125,46.20182207461709,0 4.43883954675583,46.2018512884204,0 4.43875894468628,46.20205188854269,0 4.43884172122486,46.2021762992875,0 4.4389659243931,46.2023618790852,0 4.43913147735777,46.20261061017249,0 4.43919020733186,46.2025452914847,0 4.43923600901814,46.2024914843743,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.31509">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69161000AB0067</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">PROPIERES</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE PROPIERES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1919126419466 </north>
+			<south> 46.1916955172698 </south>
+			<east> 4.43826470134295 </east>
+			<west> 4.43752781162088 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.43765996408691,46.19171598522651,0 4.43765967705655,46.1917297685456,0 4.43765892378136,46.1917554461201,0 4.43765837332576,46.1917839130929,0 4.43758890934893,46.1918499973437,0 4.43752781162088,46.1918790497991,0 4.43753025628604,46.1918882053465,0 4.43795988652043,46.191907449391,0 4.43810475051934,46.1919126419466,0 4.43817354500591,46.1919051070135,0 4.4382164227614,46.1918933967373,0 4.43822922867412,46.19188720049,0 4.43823952180531,46.1918791446999,0 4.43825044847779,46.1918606335465,0 4.43825861975183,46.1917964050733,0 4.43826380217911,46.1917319442211,0 4.43826470134295,46.19170689523669,0 4.43805524599548,46.1917013491185,0 4.43779001912622,46.1916955172698,0 4.43778822560542,46.1917013040056,0 4.43766038764685,46.1916975168878,0 4.43765996408691,46.19171598522651,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.33279">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69161000AO0074</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">PROPIERES</SimpleData>
+					<SimpleData name="Adresse">LES TERRES PLATES</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE PROPIERES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1855690677301 </north>
+			<south> 46.1844183772446 </south>
+			<east> 4.43229794580084 </east>
+			<west> 4.43080534993314 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.43229794580084,46.1852081483906,0 4.43175411844866,46.18477116765649,0 4.43173564459584,46.1847539280696,0 4.43171453159446,46.184729966976,0 4.43169713541479,46.1847043379271,0 4.43152629000377,46.1844183772446,0 4.4313849119806,46.18446149663001,0 4.43129004758754,46.18447340867121,0 4.43080534993314,46.1844832032496,0 4.43103680585022,46.1851242418072,0 4.43119390271193,46.1855690677301,0 4.43126557683937,46.1855678050561,0 4.43130830465837,46.1855604222589,0 4.43141101420327,46.1855211222773,0 4.43176675306827,46.1853941561595,0 4.4319854046588,46.1853108853999,0 4.43229794580084,46.1852081483906,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.34111">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69161000AC0078</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">PROPIERES</SimpleData>
+					<SimpleData name="Adresse">LE VERMOREL</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE PROPIERES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1880364588733 </north>
+			<south> 46.1879775804161 </south>
+			<east> 4.43468118114453 </east>
+			<west> 4.43459168076485 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.43464880188813,46.1879775804161,0 4.43459168076485,46.18800486994909,0 4.43462207311879,46.1880364588733,0 4.43468118114453,46.188010765389,0 4.43464880188813,46.1879775804161,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.35373">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69161000AO0084</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">PROPIERES</SimpleData>
+					<SimpleData name="Adresse">AZOLE</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE PROPIERES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1831734331997 </north>
+			<south> 46.18187840055329 </south>
+			<east> 4.42973130661725 </east>
+			<west> 4.42869241325371 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.42922659135972,46.1818785322459,0 4.4291983383154,46.1819287825155,0 4.429166031861,46.1819777327938,0 4.42914611704833,46.1820046418993,0 4.42911423281401,46.18206979823201,0 4.42908639248735,46.18213589440769,0 4.42908142065959,46.1821491061456,0 4.4290385321738,46.1822995105424,0 4.42899121997377,46.1824493400893,0 4.42895917866118,46.182543318573,0 4.42893226047606,46.1826199405064,0 4.42890129819407,46.1826956225742,0 4.42886616687158,46.18277054647,0 4.42885777025511,46.18278668327001,0 4.42876904834577,46.1829446886067,0 4.42873344583259,46.18299656219849,0 4.4286941739971,46.183046950823,0 4.42869241325371,46.1830490444072,0 4.42899958501855,46.1831734331997,0 4.42971148111396,46.1831552048269,0 4.42970122515265,46.1831497499042,0 4.42969192166286,46.18314104072469,0 4.42968647159619,46.18313093212951,0 4.42969621117381,46.1831165796395,0 4.42969737306739,46.1831163848991,0 4.42971528239824,46.1831120167313,0 4.42973130661725,46.183104970375,0 4.42968648390897,46.183081667392,0 4.42967969251793,46.18307481794309,0 4.42967370519997,46.18306399559879,0 4.4296719789386,46.1830524892183,0 4.42968149863862,46.18304462404691,0 4.42972590925062,46.183042174133,0 4.42972985994608,46.18303455913039,0 4.42969412089674,46.1830264526443,0 4.42967525654194,46.1830140810615,0 4.42967127978882,46.1830008017221,0 4.42969062171193,46.1829767817567,0 4.42969775318939,46.1829767821223,0 4.42970844597379,46.1829741258606,0 4.42971673751859,46.18296888796699,0 4.4297016697279,46.18295790964741,0 4.42968246007431,46.1829571605648,0 4.42965918864977,46.1829448444099,0 4.42965903638877,46.1829141347659,0 4.42966196836874,46.1829122065615,0 4.42967921363162,46.182902262831,0 4.42969898739568,46.1828948090652,0 4.42970886541206,46.18288576856219,0 4.42969970279607,46.1828824614053,0 4.4296749111627,46.1828715153231,0 4.42965251425882,46.1828579272827,0 4.4296468806244,46.1828457495404,0 4.42964834740866,46.1828373552124,0 4.42965411043591,46.18282962735479,0 4.42966316090834,46.1828236594137,0 4.42969841630466,46.182813218967,0 4.42969243840018,46.1828027567583,0 4.42965828076697,46.1827956210676,0 4.42964376960015,46.1827811232743,0 4.42964214064616,46.182763401307,0 4.42965153355763,46.18275067431791,0 4.42966559747849,46.1827380687049,0 4.42968282625601,46.1827274947378,0 4.4296828231441,46.1827124542184,0 4.42966745523229,46.1827098555497,0 4.42964954004862,46.18270404664089,0 4.42963350110259,46.182695602298,0 4.42962967096412,46.1826779980785,0 4.42964196478821,46.1826671259323,0 4.42965191636695,46.1826310655411,0 4.4296256565767,46.1825986128044,0 4.429626264026,46.1825821235943,0 4.42963729502367,46.1825675747389,0 4.42964392962415,46.1825634384482,0 4.42965903984347,46.1825511799285,0 4.42967034884211,46.1825373480788,0 4.42967282546185,46.1825179533353,0 4.42966681473503,46.1825062306531,0 4.42965485378319,46.1824900796483,0 4.42963917847086,46.1824756865604,0 4.42963319826743,46.1824651343146,0 4.42963079811939,46.1824526457135,0 4.42963280737517,46.1824401917174,0 4.42963938146858,46.1824287610666,0 4.42965456077706,46.1824092065565,0 4.42967328438716,46.1823913186667,0 4.42967466560294,46.1823895900929,0 4.42968362264299,46.1823750673176,0 4.42968828112399,46.182359788039,0 4.42968864809075,46.1823440223585,0 4.4296803785807,46.18232025961521,0 4.42967524416622,46.1823123085671,0 4.42965703027519,46.1822801148924,0 4.42964281111876,46.1822469703393,0 4.42964109427778,46.1822358240926,0 4.42964108466743,46.1822155599873,0 4.4296457507187,46.1821955973271,0 4.42965445137446,46.1821762143639,0 4.42968793581235,46.1821276994432,0 4.42969289575645,46.1821140375102,0 4.42969019881927,46.18210011163139,0 4.42968831609412,46.18209752347839,0 4.4296752238656,46.1820827376537,0 4.42965829003338,46.1820698014103,0 4.42965235681169,46.18206104983939,0 4.42964961711001,46.18205045683711,0 4.42965128208582,46.1820397183716,0 4.42965802382844,46.18202477314409,0 4.42969678233138,46.1819995182604,0 4.42970457795777,46.1819802367392,0 4.42971537282603,46.1819019260763,0 4.42973008512767,46.1818843588185,0 4.42961992446706,46.18188133129679,0 4.4294232828239,46.18187840055329,0 4.42922659135972,46.1818785322459,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.35524">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69161000AO0085</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">PROPIERES</SimpleData>
+					<SimpleData name="Adresse">AZOLE</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE PROPIERES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1831545325661 </north>
+			<south> 46.1818840271261 </south>
+			<east> 4.43054750358938 </east>
+			<west> 4.42964035341772 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.43014047808253,46.18189000363471,0 4.42974213490428,46.1818840271261,0 4.42972537636089,46.1819076543602,0 4.42971098922545,46.18199240469729,0 4.42970434713218,46.1820012243751,0 4.42968694566649,46.18202008633821,0 4.42966586558679,46.182037103239,0 4.42966365057013,46.1820565847562,0 4.42970241868909,46.1820963554017,0 4.4297061619658,46.1821106283723,0 4.42970230287215,46.1821217546891,0 4.42969062518219,46.1821463087051,0 4.42967477386699,46.182169924519,0 4.4296551190015,46.1821918769685,0 4.42965013503995,46.18220959204699,0 4.4296493270409,46.1822283353609,0 4.42965266214965,46.1822468464384,0 4.42966051983863,46.1822647602536,0 4.42969259093227,46.1823211867696,0 4.42969285955881,46.1823215436438,0 4.42969970431668,46.1823354173516,0 4.42970241769791,46.1823499734659,0 4.4297008559973,46.1823646734149,0 4.42969474354314,46.1823788902233,0 4.4296779772589,46.1824072008325,0 4.42964773343063,46.18243081753819,0 4.42964377337901,46.1824380724034,0 4.42964135179731,46.1824496309534,0 4.42964320999967,46.1824612257383,0 4.42964932921225,46.18247213648811,0 4.42967648508444,46.1824991741549,0 4.42968202949906,46.18250793061519,0 4.4296857258559,46.18252040291189,0 4.42968515181226,46.1825331991102,0 4.42968015427434,46.1825454205033,0 4.42967123998204,46.1825566104007,0 4.42965877666841,46.1825659536075,0 4.4296571197789,46.1825670552057,0 4.42964760485242,46.1825751004428,0 4.42964189583345,46.1825848990754,0 4.42964035341772,46.182595365809,0 4.4296432157233,46.1826056870797,0 4.4296502000425,46.18261496581081,0 4.42965691573625,46.1826238876671,0 4.42965977100516,46.1826339388363,0 4.42965822624436,46.18264431553641,0 4.42964864111723,46.1826695637321,0 4.42964677608967,46.1826776028162,0 4.42964894101275,46.1826860415303,0 4.42965497106214,46.1826935309989,0 4.42966444921418,46.1826989957077,0 4.42967619480695,46.1827019101266,0 4.42967658601378,46.1827019952694,0 4.4296860453923,46.18270673970681,0 4.42969231591169,46.1827135056431,0 4.42969433714031,46.1827214057844,0 4.42969220818345,46.1827292680625,0 4.42968616011358,46.18273600881199,0 4.4296552445364,46.1827587333337,0 4.42965230627958,46.18277534192251,0 4.42965937746463,46.1827879518999,0 4.42969594858514,46.1827931659063,0 4.42969737910075,46.18279332804,0 4.4297062683784,46.1827960982556,0 4.4297124966611,46.1828012435841,0 4.42971500116859,46.1828077866981,0 4.42971283935068,46.1828143885046,0 4.42970701530662,46.182819775489,0 4.42969840351673,46.1828226757664,0 4.42966903318918,46.1828300701073,0 4.42966320913916,46.1828354570894,0 4.42966041329538,46.1828426072486,0 4.42966216354812,46.1828500604825,0 4.4296677718969,46.1828562943693,0 4.4296767010845,46.18286059516011,0 4.42970283638547,46.1828683721287,0 4.42972832724002,46.18288624427841,0 4.42970427261313,46.1829035687848,0 4.42967164008055,46.1829151470654,0 4.42967066725112,46.1829325415032,0 4.42968426930192,46.18294200718751,0 4.4297279996444,46.18295325543801,0 4.4297334721276,46.1829741713362,0 4.42971889959252,46.1829821901297,0 4.42971217105922,46.18298272507659,0 4.42970200849151,46.18298582498581,0 4.4296942471609,46.1829915065256,0 4.4296902847278,46.1829986713584,0 4.42969074582486,46.1830064109961,0 4.42969508145821,46.1830135615217,0 4.42970325876867,46.1830188624631,0 4.42971370587824,46.1830217031477,0 4.42973311324524,46.1830250615718,0 4.42973770160773,46.1830269852501,0 4.4297430155331,46.1830318718884,0 4.42974460332089,46.18303806627951,0 4.42974164264799,46.18304386756551,0 4.42973527193267,46.1830481806683,0 4.42969642039815,46.1830549737635,0 4.4296955294832,46.1830556154118,0 4.42969050191364,46.1830617128828,0 4.42968965037342,46.18306883858779,0 4.42969293730944,46.1830755519875,0 4.4297000729682,46.1830806859043,0 4.42973748669033,46.18309831802661,0 4.42973866501409,46.1830987535217,0 4.42974395547397,46.18310273982289,0 4.42974552213861,46.1831081239106,0 4.42974266995764,46.18311311326291,0 4.42973640068835,46.183116344331,0 4.4297195306721,46.1831207894929,0 4.42971500567695,46.1831212967239,0 4.42970756277542,46.1831242723624,0 4.42970328710732,46.1831293696812,0 4.42970305315892,46.1831353167964,0 4.42970708027111,46.1831405798745,0 4.42971937912854,46.1831497917568,0 4.42972196632936,46.1831545325661,0 4.42981399303712,46.1831482414222,0 4.43001530005743,46.183135982232,0 4.43021613829213,46.1831206664327,0 4.4304166396772,46.1831023824292,0 4.43054750358938,46.1830887571481,0 4.43045521008136,46.18300030571859,0 4.43039450670232,46.18293487313739,0 4.43038882076887,46.1829256681747,0 4.4303659478996,46.18288389646851,0 4.4303471947332,46.182840992159,0 4.43033257300221,46.1827974054168,0 4.43032233958914,46.1827530429476,0 4.43009210322947,46.1828094374023,0 4.43007649181671,46.1827428068935,0 4.43007271886387,46.18271745652979,0 4.43006940297439,46.1826698547969,0 4.43007023726889,46.1826222909134,0 4.43007776902879,46.18257797510759,0 4.43008479442067,46.18255401996271,0 4.43013729877113,46.1824194353495,0 4.43013826763664,46.1824168113256,0 4.43014620314905,46.1823879813104,0 4.43014985417989,46.1823589350115,0 4.43015222739224,46.18231072132021,0 4.43014047808253,46.18189000363471,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.36028">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69161000AB0088</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">PROPIERES</SimpleData>
+					<SimpleData name="Adresse">92, RUE DU LAVOIR</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE PROPIERES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1908806493184 </north>
+			<south> 46.19064285085869 </south>
+			<east> 4.43847447481056 </east>
+			<west> 4.43811752237554 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.43811752237554,46.1907876793178,0 4.43824886518425,46.1908312295548,0 4.43826233370377,46.19083547226569,0 4.4382768464212,46.1908399719546,0 4.43840033320355,46.1908806493184,0 4.43843079626087,46.1908406360067,0 4.43846426930852,46.19080166536089,0 4.43847447481056,46.1907902783106,0 4.43839543721365,46.1906940099383,0 4.43827996768221,46.19066232754249,0 4.43821059596466,46.19064285085869,0 4.4381811914576,46.1906886147742,0 4.4381358330839,46.19075898766851,0 4.43811752237554,46.1907876793178,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.36535">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69161000AO0090</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">PROPIERES</SimpleData>
+					<SimpleData name="Adresse">1120, RTE DAZOLE</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE PROPIERES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.18266675391909 </north>
+			<south> 46.18207453864419 </south>
+			<east> 4.4318363285333 </east>
+			<west> 4.43072241112693 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.43146773058447,46.18266675391909,0 4.43147430865711,46.1826604567137,0 4.43152926704733,46.1825355673447,0 4.43156538616663,46.18246882589339,0 4.43160529000603,46.18240302745809,0 4.43161052483429,46.1823949458964,0 4.43165898881596,46.1823193127947,0 4.4318363285333,46.18207453864419,0 4.43119497955905,46.1820777523337,0 4.43116244064594,46.1820779819036,0 4.43113370875775,46.18215453717511,0 4.43072241112693,46.1822832816741,0 4.43080072510144,46.1826311108828,0 4.43103078361331,46.18262758434239,0 4.43146773058447,46.18266675391909,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.36859">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69161000AO0092</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">PROPIERES</SimpleData>
+					<SimpleData name="Adresse">50, CHE DU BOTTON</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE PROPIERES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.18191120966749 </north>
+			<south> 46.1815841643083 </south>
+			<east> 4.4318116513008 </east>
+			<west> 4.43135924872112 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.43178580640129,46.1816491757616,0 4.43167526395113,46.1816513787152,0 4.43167065387183,46.1816237873562,0 4.43162983852534,46.18162484181411,0 4.43162021911154,46.1815841643083,0 4.43155291922195,46.18158888464891,0 4.43149959683082,46.1815926183496,0 4.43148059924787,46.18169435890609,0 4.43135924872112,46.18169975981541,0 4.43141079700991,46.18191120966749,0 4.43141635648343,46.181910599277,0 4.43171389525311,46.18187956278121,0 4.4317123909768,46.1818219412341,0 4.43169565148226,46.18182143157281,0 4.43169962552058,46.1817104235652,0 4.4318116513008,46.1816955029827,0 4.43178580640129,46.1816491757616,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

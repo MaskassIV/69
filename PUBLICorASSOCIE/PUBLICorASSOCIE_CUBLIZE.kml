@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>CUBLIZE_PUBLICorASSOCIE</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_9">
+		<name>CUBLIZE_PUBLICorASSOCIE</name>
+		<Schema name="CUBLIZE_PUBLICorASSOCIE" id="CUBLIZE_PUBLICorASSOCIE.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="PUBLICorASSOCIE">
+			<LineStyle>
+				<color>BFdb2105</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4Cdb2105</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.517">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">690700000E0402</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CUBLIZE</SimpleData>
+					<SimpleData name="Adresse">2, AV EDMOND PERRAS</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPA</SimpleData>
+					<SimpleData name="Denomination">LES SAPINS DAALYA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.019829252928 </north>
+			<south> 46.01951118366999 </south>
+			<east> 4.37911209898726 </east>
+			<west> 4.3784916974869 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.37901675888948,46.01951118366999,0 4.37883700590095,46.0195758744308,0 4.37868519826455,46.01963112859331,0 4.37870319532088,46.0196580185934,0 4.37867704080306,46.019666712617,0 4.3784916974869,46.0197353435301,0 4.37854002197988,46.01980140228601,0 4.37855189029184,46.0198107145278,0 4.37856654542177,46.0198177412968,0 4.37858294895502,46.0198223150975,0 4.37867154831654,46.019829252928,0 4.37870278094025,46.01982716178631,0 4.37873329966967,46.0198223774333,0 4.37874872242167,46.01981876741669,0 4.37911209898726,46.01969933579119,0 4.37901675888948,46.01951118366999,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.2149">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">690700000E1076</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CUBLIZE</SimpleData>
+					<SimpleData name="Adresse">CHEZ FAVRE</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SDIS</SimpleData>
+					<SimpleData name="Denomination">SERVICE DEPARTEMENTAL-METROPOLITAIN DINCENDIE ET DE SECOURS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.019576937534 </north>
+			<south> 46.0192808165922 </south>
+			<east> 4.38131659937353 </east>
+			<west> 4.38104572802282 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.38131659937353,46.0193315998287,0 4.38131269586939,46.0193202994722,0 4.38130706671503,46.019312352478,0 4.38129487138144,46.0193054762062,0 4.38128053781853,46.0193009676311,0 4.38127729108454,46.01930037676159,0 4.38117518911584,46.0192808165922,0 4.38116384571542,46.0192821256537,0 4.38115372874142,46.0192859415305,0 4.38113539414947,46.019302286242,0 4.38104572802282,46.0194690947956,0 4.3810495158094,46.0194809369486,0 4.38107824473839,46.0195439011169,0 4.381133547948,46.0195582676814,0 4.38120524808217,46.019576937534,0 4.38122167242539,46.01954629608201,0 4.3812361404778,46.01950982437731,0 4.38123955110632,46.0195014970171,0 4.38125294833711,46.01947386453119,0 4.38124597254734,46.01946377243531,0 4.38126375287,46.0194305026242,0 4.38131659937353,46.0193315998287,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.2153">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">690700000E1079</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CUBLIZE</SimpleData>
+					<SimpleData name="Adresse">CHEZ FAVRE</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SDIS</SimpleData>
+					<SimpleData name="Denomination">SERVICE DEPARTEMENTAL-METROPOLITAIN DINCENDIE ET DE SECOURS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0193315998287 </north>
+			<south> 46.01926258140891 </south>
+			<east> 4.38133112537783 </east>
+			<west> 4.38113539414947 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.38131659937353,46.0193315998287,0 4.38133112537783,46.0193077362192,0 4.38128049296207,46.0192940333294,0 4.38115650335229,46.01926258140891,0 4.38113539414947,46.019302286242,0 4.38115372874142,46.0192859415305,0 4.38116384571542,46.0192821256537,0 4.38117518911584,46.0192808165922,0 4.38127729108454,46.01930037676159,0 4.38128053781853,46.0193009676311,0 4.38129487138144,46.0193054762062,0 4.38130706671503,46.019312352478,0 4.38131269586939,46.0193202994722,0 4.38131659937353,46.0193315998287,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.2203">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">690700000E1080</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CUBLIZE</SimpleData>
+					<SimpleData name="Adresse">CHEZ FAVRE</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SDIS</SimpleData>
+					<SimpleData name="Denomination">SERVICE DEPARTEMENTAL-METROPOLITAIN DINCENDIE ET DE SECOURS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0195439011169 </north>
+			<south> 46.0194690947956 </south>
+			<east> 4.38107824473839 </east>
+			<west> 4.38103531410346 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.38104572802282,46.0194690947956,0 4.38103531410346,46.0194713832096,0 4.38105404165725,46.0195376214621,0 4.38107824473839,46.0195439011169,0 4.3810495158094,46.0194809369486,0 4.38104572802282,46.0194690947956,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.15253">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">690700000E0651</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CUBLIZE</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPA</SimpleData>
+					<SimpleData name="Denomination">LES SAPINS DAALYA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.019666712617 </north>
+			<south> 46.01963112859331 </south>
+			<east> 4.37870319532088 </east>
+			<west> 4.37865866281517 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.37867704080306,46.019666712617,0 4.37870319532088,46.0196580185934,0 4.37868519826455,46.01963112859331,0 4.37865866281517,46.0196400974355,0 4.37867704080306,46.019666712617,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.17432">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">690700000E0967</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CUBLIZE</SimpleData>
+					<SimpleData name="Adresse">47, RUE DE L HOTEL DE VILLE</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPLS</SimpleData>
+					<SimpleData name="Denomination">EHPAD LES LISERONS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0200879135157 </north>
+			<south> 46.0194118969241 </south>
+			<east> 4.37819737478724 </east>
+			<west> 4.37717103776149 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.37717103776149,46.02006706987341,0 4.37759751961322,46.0200101004651,0 4.37781988675497,46.0200879135157,0 4.37794439248132,46.019918072233,0 4.37801814582337,46.0198174758509,0 4.37802751383114,46.019804392886,0 4.37815106849784,46.0196327616655,0 4.37815982409463,46.0196210370795,0 4.37819737478724,46.0195718564093,0 4.37811832646062,46.019471406843,0 4.37807210597937,46.0194118969241,0 4.37802673966134,46.0194277592495,0 4.37801742108617,46.01942733217919,0 4.37800932495453,46.0194240982943,0 4.37800389317103,46.0194188506289,0 4.37776341257327,46.0195106664812,0 4.37772591843781,46.0194743766289,0 4.37724443807715,46.0196580129254,0 4.37724007782583,46.0196594168559,0 4.37732742228024,46.0197504897177,0 4.37727924781246,46.0198504145373,0 4.37717103776149,46.02006706987341,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

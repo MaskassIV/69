@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>BRIGNAIS_PMRSEM</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_6">
+		<name>BRIGNAIS_PMRSEM</name>
+		<Schema name="BRIGNAIS_PMRSEM" id="BRIGNAIS_PMRSEM.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="PMRSEM">
+			<LineStyle>
+				<color>BF00faff</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C00faff</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.187">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">69027000BT0014</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">BRIGNAIS</SimpleData>
+					<SimpleData name="Adresse">LE CHERON NORD</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">MONIN</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6735781907265 </north>
+			<south> 45.6726834540741 </south>
+			<east> 4.73879766972497 </east>
+			<west> 4.73642200298312 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.73866279745279,45.6726834540741,0 4.73849501493634,45.6727369339735,0 4.73840153419844,45.67276719948791,0 4.73828484730215,45.6728071904216,0 4.73816976908279,45.6728493180865,0 4.73805182509879,45.6728738361105,0 4.73786597754321,45.6729084989889,0 4.73783155797031,45.6729129932259,0 4.73774733957332,45.6729150133709,0 4.73728859014549,45.67291650693161,0 4.73674673797893,45.6729023470701,0 4.73642200298312,45.67290420216441,0 4.73678489538295,45.67312342117,0 4.73727178952737,45.673416835486,0 4.73739280407158,45.673350928737,0 4.73742859357769,45.6733655083729,0 4.73788751956318,45.6735495560847,0 4.73795805480847,45.6735781907265,0 4.73851395274355,45.67338892974411,0 4.73879766972497,45.67329186732079,0 4.738514883608,45.6727518491077,0 4.73851365999928,45.6727497063134,0 4.73866279745279,45.6726834540741,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.411">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">69027000AR0331</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">BRIGNAIS</SimpleData>
+					<SimpleData name="Adresse">ROCHILLY</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SOCIETE MAISON FAMILIALE CONSTRUCTEUR</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6834409846964 </north>
+			<south> 45.6834292551938 </south>
+			<east> 4.7623913583032 </east>
+			<west> 4.76229234621443 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.7623913583032,45.6834292551938,0 4.76229234621443,45.6834353079032,0 4.76239006131874,45.6834409846964,0 4.7623913583032,45.6834292551938,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.547">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">69027000BT0005</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">BRIGNAIS</SimpleData>
+					<SimpleData name="Adresse">LE CHERON NORD</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">MONIN</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6751741366978 </north>
+			<south> 45.6742036463942 </south>
+			<east> 4.73385804992662 </east>
+			<west> 4.73292153012447 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.73322350118031,45.6742036463942,0 4.73301002045831,45.6744926338526,0 4.73292153012447,45.6747152976009,0 4.73359519818227,45.67487227975659,0 4.73359729770954,45.67493520640511,0 4.7335978616893,45.67495321173419,0 4.73353358173153,45.6751078607073,0 4.73350533551977,45.6751741366978,0 4.73358396321031,45.6750304355728,0 4.73362476654813,45.6749548691872,0 4.73372215105029,45.6747742207097,0 4.73379732003176,45.6746349861007,0 4.73385804992662,45.6745229046859,0 4.73322350118031,45.6742036463942,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

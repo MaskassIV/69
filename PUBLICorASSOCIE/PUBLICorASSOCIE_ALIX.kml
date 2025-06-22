@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>ALIX_PUBLICorASSOCIE</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_9">
+		<name>ALIX_PUBLICorASSOCIE</name>
+		<Schema name="ALIX_PUBLICorASSOCIE" id="ALIX_PUBLICorASSOCIE.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="PUBLICorASSOCIE">
+			<LineStyle>
+				<color>BFdb2105</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4Cdb2105</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.2386">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">690040000U1105</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ALIX</SimpleData>
+					<SimpleData name="Adresse">AU BOIS DES MINES</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">HOSP</SimpleData>
+					<SimpleData name="Denomination">HOSPICES CIVILS DE LYON</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.91679103860159 </north>
+			<south> 45.9155019710096 </south>
+			<east> 4.66276057677774 </east>
+			<west> 4.66099140160974 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.66116919090773,45.9157888848619,0 4.66139729818831,45.9162156151163,0 4.66137683146637,45.9162215900872,0 4.66143257515922,45.9163199375248,0 4.66144589198502,45.91631649943281,0 4.66155784849253,45.9165073328322,0 4.66130926334198,45.91658709256031,0 4.66099140160974,45.9166889452145,0 4.66145516242288,45.916786614604,0 4.6614771933777,45.9167897136358,0 4.66149736422561,45.91679103860159,0 4.66151697026456,45.9167907506143,0 4.66153712622914,45.9167873021235,0 4.66157777896327,45.9167788689481,0 4.66163058097606,45.9167625113358,0 4.66177489062858,45.9167081512182,0 4.66193648425148,45.9166449803924,0 4.66198294938942,45.9166281753015,0 4.66203342394695,45.9166116715561,0 4.66208326440293,45.9165955373819,0 4.66212747558388,45.91658101708029,0 4.66218089502067,45.9165637494411,0 4.66221560324872,45.9165550431085,0 4.6622549169597,45.9165450081166,0 4.66231976860448,45.9165302744864,0 4.66272637238197,45.9164443168393,0 4.66276057677774,45.9164403013436,0 4.66271482361448,45.91621553059559,0 4.66258256979747,45.9155659137391,0 4.66247469150451,45.9155702014177,0 4.6619692432659,45.9155019710096,0 4.66201034141343,45.9156238612828,0 4.66116919090773,45.9157888848619,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.3895">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">690040000U1402</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ALIX</SimpleData>
+					<SimpleData name="Adresse">800, RUE AYME CHALUS</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">HOSP</SimpleData>
+					<SimpleData name="Denomination">CTRE HOSPITALIER VILLEFRANCHE S SAONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.91387502771421 </north>
+			<south> 45.9117459300686 </south>
+			<east> 4.65426628629647 </east>
+			<west> 4.6528826497744 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.65424924539179,45.9133187381934,0 4.65423776831402,45.91304815853469,0 4.65424279847898,45.91304808496629,0 4.65424159810254,45.9130209917432,0 4.65424011126698,45.9129843553921,0 4.65423714746532,45.91298448880799,0 4.65423668952717,45.91297783039709,0 4.65422908520499,45.9129781217513,0 4.65422799268277,45.9129374265268,0 4.65423121714102,45.9129373793679,0 4.6542326548,45.9128907025822,0 4.65412191041576,45.91288962013859,0 4.65412309167029,45.9128515937324,0 4.65409159398356,45.912851153674,0 4.65409507118533,45.9127563502031,0 4.6540820227988,45.9127558204726,0 4.65393087005953,45.91274974449529,0 4.65388516125815,45.91275302487729,0 4.65363831504746,45.9127486179414,0 4.65345007616683,45.9127450650413,0 4.65345010790323,45.91274182209289,0 4.65343978426901,45.9127417928707,0 4.6534400503009,45.91265604328,0 4.65348975803726,45.9126570279299,0 4.65353412366398,45.9126562892756,0 4.65353401478936,45.91257955206521,0 4.6536293676832,45.9125837423107,0 4.65369074006712,45.91258644778121,0 4.65369097666121,45.9126373333185,0 4.65393245538188,45.9126520864892,0 4.65393334352227,45.9125956902917,0 4.65380079852819,45.91230670545421,0 4.65370980531586,45.9121080826713,0 4.65370389932867,45.91209186652981,0 4.65369670018335,45.9120712559133,0 4.65363895441545,45.9118582763424,0 4.65362463596239,45.91182831256241,0 4.65360851054364,45.9118069317556,0 4.65358748204932,45.9117898558735,0 4.65356946121374,45.9117784103644,0 4.6535516314905,45.9117690336458,0 4.65352800327388,45.9117599218337,0 4.65350938958748,45.9117545196065,0 4.65347960365044,45.9117509019467,0 4.65343625907574,45.9117469420752,0 4.65342539001388,45.9117459300686,0 4.65332399087473,45.9117638048935,0 4.65299210493016,45.9118450343196,0 4.65293223299485,45.9118622118041,0 4.65288453319229,45.9118980357976,0 4.65292516571949,45.9120051645227,0 4.6528826497744,45.9120460466893,0 4.6529266213498,45.9121827593213,0 4.6529647839238,45.912302173517,0 4.65298269820914,45.9123014613649,0 4.65301222401577,45.9123609257435,0 4.65302507865883,45.9124324328028,0 4.65304429349675,45.9125396043019,0 4.65304484234004,45.9125622036008,0 4.65304646286565,45.9125818149599,0 4.65304320590303,45.91259798491221,0 4.65304278439101,45.9126183466676,0 4.65298543911297,45.9129004702498,0 4.6530145672451,45.9129036473168,0 4.65301649883883,45.9129551385578,0 4.65304628668778,45.9129674029451,0 4.65305094629691,45.9130410112917,0 4.65304370012644,45.913100562737,0 4.65316304123265,45.9131043127329,0 4.65316711445898,45.91311965499929,0 4.65316765321085,45.9131462174824,0 4.65316938714835,45.91318681326201,0 4.65318706266589,45.91318673505461,0 4.65319352856066,45.9133334530328,0 4.65319004882053,45.913333593962,0 4.6531928327919,45.9133876847456,0 4.6531822564795,45.9133878393293,0 4.65318860946386,45.91356950573391,0 4.65319083832849,45.9136309002209,0 4.6531950123481,45.91377864245749,0 4.65352338814581,45.9137735722348,0 4.6535644214654,45.9137821594053,0 4.6536027577057,45.9137954695802,0 4.65363735152385,45.9138130677003,0 4.65366690231361,45.9138346125079,0 4.65369099881946,45.9138592993987,0 4.6537865491696,45.9138742949402,0 4.6538411538676,45.91387502771421,0 4.65389504810558,45.9138692858805,0 4.65393197022998,45.913861270264,0 4.6539669920451,45.9138501300072,0 4.65399999267198,45.91383613708649,0 4.65402372560777,45.91382291016379,0 4.65404508284184,45.9138079165965,0 4.65409177331866,45.9137728274388,0 4.65410913680235,45.9137537490877,0 4.65411283253401,45.91374360730949,0 4.65412318462105,45.9137359801892,0 4.65413677004811,45.91373289930321,0 4.65424730729427,45.9137227261572,0 4.65426628629647,45.913723079065,0 4.65424924539179,45.9133187381934,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.3896">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">690040000U1403</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ALIX</SimpleData>
+					<SimpleData name="Adresse">800, RUE AYME CHALUS</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">HOSP</SimpleData>
+					<SimpleData name="Denomination">HOSPICES CIVILS DE LYON</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.91274182209289 </north>
+			<south> 45.91257955206521 </south>
+			<east> 4.6536293676832 </east>
+			<west> 4.65343978426901 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.65345010790323,45.91274182209289,0 4.65345146314235,45.9126622713413,0 4.65362567018372,45.91266693007289,0 4.6536293676832,45.9125837423107,0 4.65353401478936,45.91257955206521,0 4.65353412366398,45.9126562892756,0 4.65348975803726,45.9126570279299,0 4.6534400503009,45.91265604328,0 4.65343978426901,45.9127417928707,0 4.65345010790323,45.91274182209289,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.3953">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">690040000U1414</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ALIX</SimpleData>
+					<SimpleData name="Adresse">55, CHE DU CLOS DES LIESSES</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">HOSP</SimpleData>
+					<SimpleData name="Denomination">HOSPICES CIVILS DE LYON</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9147879955439 </north>
+			<south> 45.9121590546648 </south>
+			<east> 4.65186780809389 </east>
+			<west> 4.64607524181114 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.64849396152739,45.9123686842145,0 4.64848087885259,45.9123756300582,0 4.64851199670792,45.91240652049739,0 4.64745321672206,45.9128188807114,0 4.6472727334323,45.9128891511105,0 4.64723178730091,45.9128704726991,0 4.64654755280202,45.9132689924953,0 4.64607524181114,45.9135440921038,0 4.64635108135676,45.9140092460684,0 4.64789585059914,45.9134720071008,0 4.64823247469658,45.9143381584964,0 4.646311494771,45.9146969574828,0 4.64631811896686,45.91471136215251,0 4.64632457909993,45.9147202750101,0 4.64633517487269,45.914733721184,0 4.64634455332259,45.91474529362971,0 4.64635751908941,45.9147560032406,0 4.64636764980569,45.9147625208796,0 4.64637959166416,45.9147691922934,0 4.64639121100639,45.914773706748,0 4.6464052379898,45.914776745055,0 4.646419122543,45.91477933508929,0 4.64643533954912,45.9147822514462,0 4.64645191660749,45.91478426187151,0 4.64646656161309,45.9147863904865,0 4.64648027146092,45.914787451886,0 4.64649861124512,45.9147879955439,0 4.64651886425411,45.9147877907979,0 4.64654142281574,45.9147870120735,0 4.64656602358335,45.9147854830652,0 4.64659716750734,45.9147826879054,0 4.64662739240722,45.9147793657027,0 4.64664860733203,45.91477680514001,0 4.64667667448899,45.91477468523119,0 4.64670472819261,45.914772115167,0 4.64672798531485,45.9147688043074,0 4.64675703590186,45.9147650488218,0 4.64679211370407,45.9147600346829,0 4.64681511823111,45.9147569076205,0 4.6468498842478,45.9147500966257,0 4.64690107664794,45.91474025431721,0 4.64745496596827,45.9146125768249,0 4.64792403238043,45.9145136934949,0 4.64866790290003,45.91435721204599,0 4.64886082185079,45.9143143192692,0 4.64888817880819,45.9143057241987,0 4.64892004203483,45.9142967932223,0 4.64896397026233,45.9142857048324,0 4.64943285385818,45.914155023503,0 4.6493685892299,45.9140298641462,0 4.6493124224541,45.9139208891516,0 4.64991092808859,45.9137366160391,0 4.65033324567414,45.913606700195,0 4.65038025793425,45.9137029284235,0 4.65046284769215,45.91390563940549,0 4.65062358189955,45.91387825472269,0 4.65064717681178,45.9138733168779,0 4.6506724268946,45.9138676343216,0 4.65069227057323,45.9138623909357,0 4.65071529561529,45.9138556600142,0 4.65073266708024,45.9138497321491,0 4.65074733803985,45.9138441139002,0 4.65076010395306,45.91383951421089,0 4.65092356001778,45.9137651634472,0 4.65093862327073,45.91375971958499,0 4.65096206754653,45.9137540633204,0 4.6512670217502,45.9136951199977,0 4.65129244922582,45.9136910559525,0 4.65158168171442,45.91364143826079,0 4.65175716634229,45.9136111344955,0 4.65186300052046,45.913048008843,0 4.65186631286647,45.91302075963699,0 4.65186586434921,45.9130014914263,0 4.65186769966542,45.9129809288958,0 4.65186780809389,45.91296732689671,0 4.65186554038557,45.9129476349094,0 4.65186506003941,45.9129316096467,0 4.65186372811784,45.91291730813139,0 4.65186018356995,45.9128937618256,0 4.6518573195501,45.9128756997886,0 4.65185170381265,45.91285623683499,0 4.65184733738283,45.9128354046013,0 4.65183953117225,45.9128117403957,0 4.6518302112115,45.9127806225718,0 4.65182112548044,45.9127530140167,0 4.65180278029041,45.9127049148907,0 4.65177804721558,45.9126503340144,0 4.65176124931036,45.9126194154607,0 4.65173524651384,45.91257413022311,0 4.65171413519284,45.9125370598944,0 4.65169373138713,45.9125063741274,0 4.65167900044723,45.91247983875839,0 4.65164645178715,45.91243140660809,0 4.65163348986598,45.9124122310571,0 4.65161299548148,45.91238713087569,0 4.65158622117913,45.9123591501153,0 4.65155977447798,45.9123291830481,0 4.65153275037093,45.9123014761304,0 4.651518252115,45.91228700658661,0 4.65149965845781,45.9122693543569,0 4.65147868657369,45.912249845401,0 4.65140144277423,45.9121825208146,0 4.65137390072914,45.9121590546648,0 4.65042798129015,45.9125216984436,0 4.64983865552103,45.912434552993,0 4.64979021009129,45.9124240010241,0 4.64938822847248,45.9123363721737,0 4.64906737326407,45.9122302658975,0 4.64887697170392,45.912167291472,0 4.64849396152739,45.9123686842145,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.4000">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">690040000U1425</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ALIX</SimpleData>
+					<SimpleData name="Adresse">800, RUE AYME CHALUS</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">HOSP</SimpleData>
+					<SimpleData name="Denomination">HOSPICES CIVILS DE LYON</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9135711407145 </north>
+			<south> 45.913100562737 </south>
+			<east> 4.65319352856066 </east>
+			<west> 4.65304370012644 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.65304370012644,45.913100562737,0 4.65306187811296,45.9131903660729,0 4.65306394177635,45.91319033591251,0 4.65307027836449,45.9133370557827,0 4.65305025598783,45.9133664406969,0 4.653064323912,45.9134095582876,0 4.65307953377027,45.91345202870449,0 4.653108698217,45.913533835464,0 4.65311529564475,45.91355589601619,0 4.65311988210992,45.9135711407145,0 4.65318860946386,45.91356950573391,0 4.6531822564795,45.9133878393293,0 4.6531928327919,45.9133876847456,0 4.65319004882053,45.913333593962,0 4.65319352856066,45.9133334530328,0 4.65318706266589,45.91318673505461,0 4.65316938714835,45.91318681326201,0 4.65316765321085,45.9131462174824,0 4.65316711445898,45.91311965499929,0 4.65316304123265,45.9131043127329,0 4.65304370012644,45.913100562737,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.4004">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">690040000U1428</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ALIX</SimpleData>
+					<SimpleData name="Adresse">800, RUE AYME CHALUS</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">HOSP</SimpleData>
+					<SimpleData name="Denomination">HOSPICES CIVILS DE LYON</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9143599529627 </north>
+			<south> 45.91373289930321 </south>
+			<east> 4.65425353514823 </east>
+			<west> 4.65316272700275 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.65413677004811,45.91373289930321,0 4.65412318462105,45.9137359801892,0 4.65411283253401,45.91374360730949,0 4.65410913680235,45.9137537490877,0 4.65409177331866,45.9137728274388,0 4.65404508284184,45.9138079165965,0 4.65402372560777,45.91382291016379,0 4.65399999267198,45.91383613708649,0 4.6539669920451,45.9138501300072,0 4.65393197022998,45.913861270264,0 4.65389504810558,45.9138692858805,0 4.6538411538676,45.91387502771421,0 4.6537865491696,45.9138742949402,0 4.65369099881946,45.9138592993987,0 4.65366690231361,45.9138346125079,0 4.65363735152385,45.9138130677003,0 4.6536027577057,45.9137954695802,0 4.6535644214654,45.9137821594053,0 4.65352338814581,45.9137735722348,0 4.6531950123481,45.91377864245749,0 4.65319707582232,45.91383022184,0 4.65316272700275,45.9138681025156,0 4.65316336888115,45.9139368157877,0 4.65316378471492,45.9139678835179,0 4.6532727977774,45.9139671007878,0 4.6532857184069,45.9141311077391,0 4.65332133550843,45.9140924879366,0 4.653424394077,45.9140910715487,0 4.65343128008181,45.9143248801216,0 4.65349659344212,45.9143599529627,0 4.65362492481031,45.9143578967389,0 4.65362451958277,45.91434439231021,0 4.65425353514823,45.9142826843302,0 4.65413677004811,45.91373289930321,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.4005">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">690040000U1429</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ALIX</SimpleData>
+					<SimpleData name="Adresse">800, RUE AYME CHALUS</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">HOSP</SimpleData>
+					<SimpleData name="Denomination">HOSPICES CIVILS DE LYON</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.91431115593959 </north>
+			<south> 45.9140623836716 </south>
+			<east> 4.65514312018706 </east>
+			<west> 4.65467627261673 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.65514312018706,45.9142696704515,0 4.65509031187005,45.9140623836716,0 4.65467627261673,45.91411536738941,0 4.65469621654095,45.91431115593959,0 4.65473778025429,45.91430730540541,0 4.65496013578776,45.9142865788411,0 4.65502357493863,45.9142806968174,0 4.65514312018706,45.9142696704515,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.4049">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">690040000U1430</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ALIX</SimpleData>
+					<SimpleData name="Adresse">800, RUE AYME CHALUS</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">HOSP</SimpleData>
+					<SimpleData name="Denomination">HOSPICES CIVILS DE LYON</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.91411536738941 </north>
+			<south> 45.91372112634279 </south>
+			<east> 4.65509031187005 </east>
+			<west> 4.65463766147922 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.65467627261673,45.91411536738941,0 4.65509031187005,45.9140623836716,0 4.65504276371488,45.9138755556492,0 4.6550087042948,45.9137425716761,0 4.65500315685411,45.91372112634279,0 4.65463766147922,45.9137233212635,0 4.65465896559928,45.9139386349003,0 4.65467627261673,45.91411536738941,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.4050">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">690040000U1431</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ALIX</SimpleData>
+					<SimpleData name="Adresse">800, RUE AYME CHALUS</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">HOSP</SimpleData>
+					<SimpleData name="Denomination">HOSPICES CIVILS DE LYON</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.91336663745089 </north>
+			<south> 45.9128139977277 </south>
+			<east> 4.65490146168287 </east>
+			<west> 4.65423776831402 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.65424924539179,45.9133187381934,0 4.65484153892405,45.91336663745089,0 4.65488312703146,45.9129854872489,0 4.65488828288254,45.912938035493,0 4.65488979040195,45.91292378252639,0 4.65490146168287,45.9128139977277,0 4.65477036480423,45.9128226709533,0 4.65466964646571,45.912824594781,0 4.65470108981411,45.91298652927029,0 4.65462989449005,45.9129918941155,0 4.65456294733231,45.9129969265653,0 4.65447668582557,45.9130033223267,0 4.65424159810254,45.9130209917432,0 4.65424279847898,45.91304808496629,0 4.65423776831402,45.91304815853469,0 4.65424924539179,45.9133187381934,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.4051">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">690040000U1433</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ALIX</SimpleData>
+					<SimpleData name="Adresse">800, RUE AYME CHALUS</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">HOSP</SimpleData>
+					<SimpleData name="Denomination">HOSPICES CIVILS DE LYON</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.91337972977911 </north>
+			<south> 45.9130410112917 </south>
+			<east> 4.65307027836449 </east>
+			<west> 4.65286172863649 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.65298678103872,45.9130527573237,0 4.65300600154934,45.9131429057072,0 4.6530027702614,45.9131513293481,0 4.65297447920252,45.913249197465,0 4.6529616605938,45.9132950497825,0 4.65293515504737,45.9132932754769,0 4.65289597713734,45.9132906055251,0 4.65286172863649,45.91337054686849,0 4.65294213537691,45.91337972977911,0 4.65294984537069,45.91334854330001,0 4.65298932989094,45.913352829995,0 4.65304784189531,45.91335909032001,0 4.65305025598783,45.9133664406969,0 4.65307027836449,45.9133370557827,0 4.65306394177635,45.91319033591251,0 4.65306187811296,45.9131903660729,0 4.65304370012644,45.913100562737,0 4.65305094629691,45.9130410112917,0 4.65301886367123,45.9130468843122,0 4.65298678103872,45.9130527573237,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.4052">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">690040000U1434</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ALIX</SimpleData>
+					<SimpleData name="Adresse">800, RUE AYME CHALUS</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">HOSP</SimpleData>
+					<SimpleData name="Denomination">HOSPICES CIVILS DE LYON</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9144789443556 </north>
+			<south> 45.9133187381934 </south>
+			<east> 4.65500315685411 </east>
+			<west> 4.65280025515746 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.65469621654095,45.91431115593959,0 4.65467627261673,45.91411536738941,0 4.65465896559928,45.9139386349003,0 4.65463766147922,45.9137233212635,0 4.65500315685411,45.91372112634279,0 4.65492504592722,45.9134145933586,0 4.65491333602398,45.9133727024438,0 4.65485266629014,45.9133676455472,0 4.65484153892405,45.91336663745089,0 4.65424924539179,45.9133187381934,0 4.65426628629647,45.913723079065,0 4.65424730729427,45.9137227261572,0 4.65413677004811,45.91373289930321,0 4.65425353514823,45.9142826843302,0 4.65362451958277,45.91434439231021,0 4.65362492481031,45.9143578967389,0 4.65349659344212,45.9143599529627,0 4.65343128008181,45.9143248801216,0 4.653424394077,45.9140910715487,0 4.65332133550843,45.9140924879366,0 4.6532857184069,45.9141311077391,0 4.6532784670798,45.9141388695953,0 4.65289531349273,45.91426227961751,0 4.65280025515746,45.9142335856394,0 4.65284344979346,45.91435724967621,0 4.65288581132441,45.9144789443556,0 4.6533489315943,45.9144359680529,0 4.65426963997245,45.9143506310521,0 4.65469621654095,45.91431115593959,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.11944">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">690040000U0004</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ALIX</SimpleData>
+					<SimpleData name="Adresse">AUX GRANDES TERRES</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">HOSP</SimpleData>
+					<SimpleData name="Denomination">HOSPICES CIVILS DE LYON</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9146969574828 </north>
+			<south> 45.9134720071008 </south>
+			<east> 4.64823247469658 </east>
+			<west> 4.64582335447982 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.64607524181114,45.9135440921038,0 4.64605076547696,45.9135584089774,0 4.64582335447982,45.913690696801,0 4.64593898384924,45.91387689783171,0 4.64600498217653,45.9140214886602,0 4.64627282198597,45.9146161881869,0 4.64628803747071,45.91465037303011,0 4.646311494771,45.9146969574828,0 4.64823247469658,45.9143381584964,0 4.64789585059914,45.9134720071008,0 4.64635108135676,45.9140092460684,0 4.64607524181114,45.9135440921038,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

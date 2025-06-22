@@ -1,0 +1,919 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>TASSIN-LA-DEMI-LUNE_HLM</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_5">
+		<name>TASSIN-LA-DEMI-LUNE_HLM</name>
+		<Schema name="TASSIN-LA-DEMI-LUNE_HLM" id="TASSIN-LA-DEMI-LUNE_HLM.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="HLM">
+			<LineStyle>
+				<color>BFe451f5</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4Ce451f5</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.214">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69244000AP0073</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TASSIN-LA-DEMI-LUNE</SimpleData>
+					<SimpleData name="Adresse">19, CHE DE LA RAUDE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">IMMOBILIERE RHONE ALPES SA DHLM</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7565757346636 </north>
+			<south> 45.75614636138599 </south>
+			<east> 4.7754174085731 </east>
+			<west> 4.77466760557982 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.77466760557982,45.7562444895172,0 4.77490470925206,45.7565757346636,0 4.7754174085731,45.7564855198122,0 4.77529971408379,45.75614636138599,0 4.77524008631409,45.7561567574702,0 4.77523936366693,45.7561502836899,0 4.77521286611824,45.7561545738409,0 4.77521475491184,45.7561612994811,0 4.77485654989704,45.7562220608462,0 4.77485126528526,45.7562137673511,0 4.77466760557982,45.7562444895172,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.1056">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69244000AP0146</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TASSIN-LA-DEMI-LUNE</SimpleData>
+					<SimpleData name="Adresse">13, AV DE LA CONSTELLATION</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7551501056185 </north>
+			<south> 45.7533356470621 </south>
+			<east> 4.77588416033851 </east>
+			<west> 4.77421070561268 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.77490521142462,45.7535023943323,0 4.77471584492994,45.7534392618812,0 4.77471613822779,45.7534363749755,0 4.77440307442621,45.7533356470621,0 4.77430495502722,45.75360182102279,0 4.7742808660711,45.7547792551637,0 4.77421070561268,45.75485430766209,0 4.77434767612856,45.7549004312003,0 4.77439259846119,45.7549129649666,0 4.77457510575267,45.7549626952303,0 4.77488001577937,45.7550295941578,0 4.7752329296636,45.75509276432079,0 4.7755326447053,45.7551501056185,0 4.77561015177669,45.75513555479791,0 4.77580131172325,45.7544974501897,0 4.77588416033851,45.7542207066948,0 4.77552927635208,45.7541721612621,0 4.77485950872266,45.7539583353234,0 4.77490804013003,45.75387893906851,0 4.77469909861973,45.7538072876213,0 4.77490521142462,45.7535023943323,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.1137">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69244000AH0152</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TASSIN-LA-DEMI-LUNE</SimpleData>
+					<SimpleData name="Adresse">210, AV CHARLES DE GAULLE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SCOM</SimpleData>
+					<SimpleData name="Denomination">FONCIERE DHABITAT ET HUMANISME</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.75117201639179 </north>
+			<south> 45.7509701672117 </south>
+			<east> 4.76632840994674 </east>
+			<west> 4.76611624618258 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.76612803143259,45.75116989059829,0 4.76613607636252,45.75117201639179,0 4.76625337514393,45.75112244152491,0 4.76623325418541,45.7510967260378,0 4.76632840994674,45.7510547936635,0 4.76622805185772,45.7509701672117,0 4.76611624618258,45.7510346078727,0 4.76617257406488,45.7510861472443,0 4.76612803143259,45.75116989059829,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.1352">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69244000AH0170</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TASSIN-LA-DEMI-LUNE</SimpleData>
+					<SimpleData name="Adresse">2, RTE DE BRIGNAIS</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">GRANDLYON HABITAT - OFFICE PUBLIC DE LHABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.75349808016039 </north>
+			<south> 45.75326051756849 </south>
+			<east> 4.76942250000492 </east>
+			<west> 4.76923239154006 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.76923239154006,45.75326051756849,0 4.76923524566673,45.75328938572211,0 4.76924413727487,45.75334608130369,0 4.769394789346,45.7534781944554,0 4.7693849496958,45.753488346759,0 4.76938547851563,45.7534887888195,0 4.76939606932509,45.75349808016039,0 4.76942250000492,45.7533872379072,0 4.76923239154006,45.75326051756849,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.1668">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69244000AR0193</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TASSIN-LA-DEMI-LUNE</SimpleData>
+					<SimpleData name="Adresse">27, CHE DE LA POMME</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7596913948417 </north>
+			<south> 45.7594429681981 </south>
+			<east> 4.7824485622071 </east>
+			<west> 4.78186982605496 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.78242233818932,45.7594429681981,0 4.78186982605496,45.7594643082026,0 4.78188023673496,45.7596913948417,0 4.7824485622071,45.75966953470779,0 4.78242233818932,45.7594429681981,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.1676">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69244000AR0194</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TASSIN-LA-DEMI-LUNE</SimpleData>
+					<SimpleData name="Adresse">CHE DE LA POMME</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7594643082026 </north>
+			<south> 45.75925173512 </south>
+			<east> 4.78242233818932 </east>
+			<west> 4.78186095372229 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.782400213683,45.75925173512,0 4.78186095372229,45.7592729557607,0 4.78186982605496,45.7594643082026,0 4.78242233818932,45.7594429681981,0 4.782400213683,45.75925173512,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.1683">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69244000AR0195</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TASSIN-LA-DEMI-LUNE</SimpleData>
+					<SimpleData name="Adresse">29, CHE DE LA POMME</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7592729557607 </north>
+			<south> 45.7588850237243 </south>
+			<east> 4.78242386144827 </east>
+			<west> 4.78183141758342 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.78185224981285,45.7590868248235,0 4.78186095372229,45.7592729557607,0 4.782400213683,45.75925173512,0 4.78242386144827,45.7592508209861,0 4.78231133663231,45.7588939332859,0 4.78233940068639,45.7588943004576,0 4.78233935884699,45.7588850237243,0 4.78233884438979,45.7588850318539,0 4.78183141758342,45.75890367771549,0 4.78185224981285,45.7590868248235,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.1692">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69244000AP0196</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TASSIN-LA-DEMI-LUNE</SimpleData>
+					<SimpleData name="Adresse">215, AV CHARLES DE GAULLE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7551456042334 </north>
+			<south> 45.7548678786592 </south>
+			<east> 4.77156216355601 </east>
+			<west> 4.77112749558769 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.77156216355601,45.7548825211619,0 4.77128441012534,45.7548678786592,0 4.77123119220862,45.7548935741878,0 4.77118230403781,45.7548817319562,0 4.77112749558769,45.7549782486,0 4.77116111351837,45.7550074442485,0 4.7713076176745,45.7551343059226,0 4.77154023048867,45.7551456042334,0 4.77156216355601,45.7548825211619,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.1963">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69244000AH0222</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TASSIN-LA-DEMI-LUNE</SimpleData>
+					<SimpleData name="Adresse">245, AV CHARLES DE GAULLE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">IMMOBILIERE RHONE ALPES SA DHLM</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.75180852927729 </north>
+			<south> 45.7514341309073 </south>
+			<east> 4.76759670466294 </east>
+			<west> 4.76718127389524 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.76718127389524,45.7515850130912,0 4.76744252972252,45.75180852927729,0 4.76759670466294,45.7517211755971,0 4.76758188500736,45.7515796355262,0 4.7674234805498,45.7514341309073,0 4.76719778637731,45.7515622364981,0 4.76720717876978,45.7515702858121,0 4.76718127389524,45.7515850130912,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2283">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69244000AR0257</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TASSIN-LA-DEMI-LUNE</SimpleData>
+					<SimpleData name="Adresse">141, AV CHARLES DE GAULLE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7605420706224 </north>
+			<south> 45.7599937275105 </south>
+			<east> 4.77879167026783 </east>
+			<west> 4.77805501944535 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.77851765438104,45.7602031120041,0 4.77847918350931,45.7602432600849,0 4.77835736182463,45.7602565299039,0 4.77835399046893,45.7602397396518,0 4.77822845043835,45.7602534282437,0 4.77821746224519,45.76020388190381,0 4.77805501944535,45.76022247552581,0 4.77805528537049,45.7602227415488,0 4.77807310865895,45.76030874925871,0 4.77808876816283,45.76030751161101,0 4.77810329788015,45.76037114338761,0 4.77813844359352,45.7603676169667,0 4.77819151066417,45.7603851549944,0 4.77835971272976,45.7603655696615,0 4.77837031926748,45.76041124892501,0 4.77840649393322,45.7604077061975,0 4.77841901995905,45.7604570481323,0 4.77846446384633,45.76045362945231,0 4.77848789955936,45.7605420706224,0 4.77871652181349,45.7605165781142,0 4.7786772683003,45.7603365132866,0 4.77873033930976,45.760330181999,0 4.77872104764447,45.76028538274679,0 4.77877526746536,45.76027876310549,0 4.77875403640213,45.76018686449829,0 4.77879167026783,45.7601806865533,0 4.77874408784913,45.7599937275105,0 4.77855351057958,45.7600137563324,0 4.7785510557543,45.7600014552184,0 4.77842271281341,45.7600159988784,0 4.77844639289644,45.7601280349826,0 4.77849948691122,45.7601224240118,0 4.77851765438104,45.7602031120041,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2595">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69244000AI0297</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TASSIN-LA-DEMI-LUNE</SimpleData>
+					<SimpleData name="Adresse">12, AV MATHIEU MISERY</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SOCIETE FRANCAISE DES HABITATIONS ECONOMIQUES - SOCIETE ANON</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.756856479013 </north>
+			<south> 45.7565703004301 </south>
+			<east> 4.76595961397619 </east>
+			<west> 4.76574500241762 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.76595961397619,45.7565939223818,0 4.76581152757268,45.7565703004301,0 4.76578692765087,45.7566621980717,0 4.76574500241762,45.75682399210761,0 4.7657573716148,45.7568365885904,0 4.7658314075365,45.7568461479614,0 4.76583059068611,45.75684877281981,0 4.76589067057315,45.756856479013,0 4.76595961397619,45.7565939223818,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2603">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69244000AI0298</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TASSIN-LA-DEMI-LUNE</SimpleData>
+					<SimpleData name="Adresse">12, AV MATHIEU MISERY</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SOCIETE FRANCAISE DES HABITATIONS ECONOMIQUES - SOCIETE ANON</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.75686942635849 </north>
+			<south> 45.7565939223818 </south>
+			<east> 4.76608002269135 </east>
+			<west> 4.76589067057315 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.76608002269135,45.7566131136899,0 4.76595961397619,45.7565939223818,0 4.76589067057315,45.756856479013,0 4.76595062474351,45.75686427721429,0 4.76595131010146,45.75686156434241,0 4.76601293909547,45.75686942635849,0 4.76608002269135,45.7566131136899,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2613">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69244000AI0299</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TASSIN-LA-DEMI-LUNE</SimpleData>
+					<SimpleData name="Adresse">12, AV MATHIEU MISERY</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SOCIETE FRANCAISE DES HABITATIONS ECONOMIQUES - SOCIETE ANON</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.756887711305 </north>
+			<south> 45.7566131136899 </south>
+			<east> 4.76620082307341 </east>
+			<west> 4.76601293909547 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.76620082307341,45.75663247888009,0 4.76608002269135,45.7566131136899,0 4.76601293909547,45.75686942635849,0 4.76607444237376,45.75687738038099,0 4.76607375414469,45.7568800032273,0 4.76613370548933,45.756887711305,0 4.76620082307341,45.75663247888009,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2631">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69244000AI0300</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TASSIN-LA-DEMI-LUNE</SimpleData>
+					<SimpleData name="Adresse">12, AV MATHIEU MISERY</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SOCIETE FRANCAISE DES HABITATIONS ECONOMIQUES - SOCIETE ANON</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7569007484133 </north>
+			<south> 45.75663247888009 </south>
+			<east> 4.76632136344337 </east>
+			<west> 4.76613370548933 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.76632136344337,45.7566517579429,0 4.76620082307341,45.75663247888009,0 4.76613370548933,45.756887711305,0 4.7661935311176,45.7568955113911,0 4.76619421646401,45.75689279851769,0 4.76625597701494,45.7569007484133,0 4.76632136344337,45.7566517579429,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2643">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69244000AI0301</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TASSIN-LA-DEMI-LUNE</SimpleData>
+					<SimpleData name="Adresse">12, AV MATHIEU MISERY</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SOCIETE FRANCAISE DES HABITATIONS ECONOMIQUES - SOCIETE ANON</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7569192131523 </north>
+			<south> 45.7566517579429 </south>
+			<east> 4.76644177528769 </east>
+			<west> 4.76625597701494 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.76644177528769,45.7566710388912,0 4.76632136344337,45.7566517579429,0 4.76625597701494,45.7569007484133,0 4.76631748036306,45.7569087023034,0 4.76631666641221,45.7569114171916,0 4.76637674931257,45.7569192131523,0 4.76644177528769,45.7566710388912,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2648">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69244000AI0302</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TASSIN-LA-DEMI-LUNE</SimpleData>
+					<SimpleData name="Adresse">12, AV MATHIEU MISERY</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SOCIETE FRANCAISE DES HABITATIONS ECONOMIQUES - SOCIETE ANON</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7569328715044 </north>
+			<south> 45.7566710388912 </south>
+			<east> 4.76658973649846 </east>
+			<west> 4.76637674931257 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.76658973649846,45.7566947520564,0 4.76644177528769,45.7566710388912,0 4.76637674931257,45.7569192131523,0 4.76643670074199,45.75692692106891,0 4.76643738319929,45.7569241181678,0 4.7665053458931,45.7569328715044,0 4.76653043375818,45.7569206792134,0 4.76658973649846,45.7566947520564,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.3165">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69244000AR0374</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TASSIN-LA-DEMI-LUNE</SimpleData>
+					<SimpleData name="Adresse">101, AV CHARLES DE GAULLE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">HABITAT MODERNES FAMILIALES RHONE ALPES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7629900019712 </north>
+			<south> 45.762659465721 </south>
+			<east> 4.78096889533938 </east>
+			<west> 4.78033526158098 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.78062940317737,45.7627370192808,0 4.7806266237609,45.7627346312192,0 4.78033526158098,45.76289406365729,0 4.78044863935445,45.7629900019712,0 4.78093688380668,45.76286213851449,0 4.78090256923234,45.7627956668955,0 4.78096889533938,45.76276930951799,0 4.78091478045668,45.762659465721,0 4.78062940317737,45.7627370192808,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.3180">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69244000AR0377</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TASSIN-LA-DEMI-LUNE</SimpleData>
+					<SimpleData name="Adresse">6, MTE DE VERDUN</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">HABITAT MODERNES FAMILIALES RHONE ALPES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.76286213851449 </north>
+			<south> 45.76276930951799 </south>
+			<east> 4.78100979498394 </east>
+			<west> 4.78090256923234 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.78090256923234,45.7627956668955,0 4.78093688380668,45.76286213851449,0 4.78100979498394,45.7628524304938,0 4.78096889533938,45.76276930951799,0 4.78090256923234,45.7627956668955,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.3485">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69244000AS0429</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TASSIN-LA-DEMI-LUNE</SimpleData>
+					<SimpleData name="Adresse">8, AV GEORGES CLEMENCEAU</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">IMMOBILIERE RHONE ALPES SA DHLM</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.762625114195 </north>
+			<south> 45.7625109582649 </south>
+			<east> 4.77706541014567 </east>
+			<west> 4.77682236047698 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.77705057520274,45.762625114195,0 4.77706541014567,45.7625141823923,0 4.77696132647757,45.7625109582649,0 4.77682374279469,45.76256248489571,0 4.77682236047698,45.762607542504,0 4.77705057520274,45.762625114195,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.3496">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69244000AR0043</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TASSIN-LA-DEMI-LUNE</SimpleData>
+					<SimpleData name="Adresse">33, AV DE LAUTERBOURG</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">IMMOBILIERE RHONE ALPES SA DHLM</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7594582999015 </north>
+			<south> 45.7582085945379 </south>
+			<east> 4.7799448337589 </east>
+			<west> 4.77845183695092 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.77845183695092,45.7583899257557,0 4.77849362866112,45.7587328902757,0 4.77850326339604,45.7587723698965,0 4.77865455425995,45.759143061154,0 4.77876426873331,45.75934939657671,0 4.77886093922532,45.7594582999015,0 4.779048280974,45.7594297647505,0 4.77982352403705,45.7593040437914,0 4.77975018990313,45.7590607463098,0 4.7799448337589,45.7590352469298,0 4.77982464217696,45.7585276979354,0 4.77974912506482,45.7582085945379,0 4.77946691575405,45.75824799515131,0 4.77880949660798,45.75833988025889,0 4.77845183695092,45.7583899257557,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.3497">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69244000AT0043</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TASSIN-LA-DEMI-LUNE</SimpleData>
+					<SimpleData name="Adresse">16, RUE DE MONTRIBLOUD</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SA HLM LOGEMENT ALPES RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7698900381182 </north>
+			<south> 45.7689162449431 </south>
+			<east> 4.79086097294788 </east>
+			<west> 4.7896746446333 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.7896746446333,45.7691486779583,0 4.78971504487661,45.7692992679609,0 4.78969878736541,45.7698900381182,0 4.79015092939716,45.76988205356821,0 4.79041179007933,45.7698772832985,0 4.79041770750028,45.76987718938419,0 4.79081696654585,45.7698736443302,0 4.79086097294788,45.769873306035,0 4.79085395777769,45.7696608473331,0 4.79084527119946,45.76934122941571,0 4.7908210555856,45.7690070862065,0 4.79081490465117,45.76895629313799,0 4.79067940592869,45.7689531297984,0 4.79067966294443,45.76895708888911,0 4.79029753908839,45.7689291966999,0 4.79006365127268,45.7689162449431,0 4.79006382013706,45.7689254296114,0 4.79027438702333,45.76897333913501,0 4.79029672022313,45.7690945819681,0 4.79029645682686,45.769098369174,0 4.7902943630441,45.7691052478777,0 4.79027847732234,45.7691313506593,0 4.79027564700145,45.76913535874591,0 4.79027150113107,45.7691384869895,0 4.79013175127353,45.7692106906759,0 4.79012347438769,45.7692134341065,0 4.79011807450631,45.7692136098661,0 4.79011162510303,45.76921317177529,0 4.7896746446333,45.7691486779583,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.3506">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69244000AS0430</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TASSIN-LA-DEMI-LUNE</SimpleData>
+					<SimpleData name="Adresse">8, AV GEORGES CLEMENCEAU</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">IMMOBILIERE RHONE ALPES SA DHLM</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.762607542504 </north>
+			<south> 45.7623196825121 </south>
+			<east> 4.77708192661676 </east>
+			<west> 4.77621761548302 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.77650155163481,45.7623196825121,0 4.77621761548302,45.7623300987639,0 4.77623941117934,45.7624997207491,0 4.77624767732645,45.7625647123843,0 4.77656423007591,45.7625880996686,0 4.77682236047698,45.762607542504,0 4.77682374279469,45.76256248489571,0 4.77696132647757,45.7625109582649,0 4.77706541014567,45.7625141823923,0 4.77708192661676,45.762391514778,0 4.77665231639653,45.762357930246,0 4.77660896895659,45.7623545597752,0 4.77650460938636,45.7623467459226,0 4.77650155163481,45.7623196825121,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.4126">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69244000AS0544</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TASSIN-LA-DEMI-LUNE</SimpleData>
+					<SimpleData name="Adresse">76, AV CHARLES DE GAULLE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.76308801825889 </north>
+			<south> 45.76289549124329 </south>
+			<east> 4.78022298152996 </east>
+			<west> 4.77977039888886 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.78008500725714,45.76289549124329,0 4.77995269583687,45.7629708075326,0 4.77987909870634,45.7629192769006,0 4.77977039888886,45.7629805294873,0 4.77989729382877,45.7630846317359,0 4.78009365447589,45.76308801825889,0 4.78022298152996,45.7630119382599,0 4.78008500725714,45.76289549124329,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.4421">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69244000AS0636</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TASSIN-LA-DEMI-LUNE</SimpleData>
+					<SimpleData name="Adresse">57, AV DE LA REPUBLIQUE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">IMMOBILIERE RHONE ALPES SA DHLM</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7637595886549 </north>
+			<south> 45.7633905484781 </south>
+			<east> 4.77840369753537 </east>
+			<west> 4.77816359005219 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.77818695189256,45.7635906984952,0 4.77818730474623,45.76359366529901,0 4.77819741758482,45.76367997471691,0 4.77820707899107,45.76368027277019,0 4.77821215338897,45.763721986048,0 4.77821627003306,45.7637499334529,0 4.77840369753537,45.7637595886549,0 4.77838447859506,45.7634183397289,0 4.77838445251874,45.7634175294946,0 4.7783721074167,45.7634178141983,0 4.77837045777096,45.7633905484781,0 4.77816359005219,45.76339660196051,0 4.77818695189256,45.7635906984952,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.4796">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69244000AH0079</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TASSIN-LA-DEMI-LUNE</SimpleData>
+					<SimpleData name="Adresse">AV CHARLES DE GAULLE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">GRANDLYON HABITAT - OFFICE PUBLIC DE LHABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7533503826496 </north>
+			<south> 45.7531121448255 </south>
+			<east> 4.76922832032697 </east>
+			<west> 4.76894689277475 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.76894689277475,45.7531121448255,0 4.76922832032697,45.7533503826496,0 4.7692085496951,45.75311461559319,0 4.76907894438573,45.7531134061341,0 4.76894689277475,45.7531121448255,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.4905">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69244000AH0084</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TASSIN-LA-DEMI-LUNE</SimpleData>
+					<SimpleData name="Adresse">223, AV CHARLES DE GAULLE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">GRANDLYON HABITAT - OFFICE PUBLIC DE LHABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.75339066613821 </north>
+			<south> 45.75311545986659 </south>
+			<east> 4.76973175518378 </east>
+			<west> 4.76922363063647 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.76922363063647,45.75311545986659,0 4.76923239154006,45.75326051756849,0 4.76942250000492,45.7533872379072,0 4.76972639158619,45.75339066613821,0 4.76973175518378,45.7531201875091,0 4.76922363063647,45.75311545986659,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.4999">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69244000AH0091</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TASSIN-LA-DEMI-LUNE</SimpleData>
+					<SimpleData name="Adresse">67, RUE DU PROFESSEUR DEPERET</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">VILOGIA SOCIETE ANONYME DHLM</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.75289510278461 </north>
+			<south> 45.7526293877004 </south>
+			<east> 4.76645684822055 </east>
+			<west> 4.76553109907529 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.76630852065298,45.75289229042829,0 4.76644525310507,45.75289510278461,0 4.76645684822055,45.7526500171572,0 4.76563453615189,45.7526293877004,0 4.76561892906669,45.75266845278729,0 4.76557141784328,45.75278016448409,0 4.76553109907529,45.75287537057889,0 4.76630852065298,45.75289229042829,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

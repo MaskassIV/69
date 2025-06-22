@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>JOUX_PUBLICorASSOCIE</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_9">
+		<name>JOUX_PUBLICorASSOCIE</name>
+		<Schema name="JOUX_PUBLICorASSOCIE" id="JOUX_PUBLICorASSOCIE.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="PUBLICorASSOCIE">
+			<LineStyle>
+				<color>BFdb2105</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4Cdb2105</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.2225">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69102000AD0109</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">JOUX</SimpleData>
+					<SimpleData name="Adresse">CHADIER</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">HOSP</SimpleData>
+					<SimpleData name="Denomination">CENTRE HOSPITALIER DE TARARE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8840603801656 </north>
+			<south> 45.88366671498051 </south>
+			<east> 4.39377453573921 </east>
+			<west> 4.39311547997936 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.39311547997936,45.88381676702581,0 4.39316728635974,45.8840603801656,0 4.39375242429867,45.88400624492291,0 4.3937745094888,45.88390041849571,0 4.39377453573921,45.8838657438138,0 4.39375113235402,45.8837561551559,0 4.39371359176357,45.8837096950038,0 4.39367136774097,45.88366671498051,0 4.39311547997936,45.88381676702581,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.5837">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69102000AD0184</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">JOUX</SimpleData>
+					<SimpleData name="Adresse">CHADIER</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">HOSP</SimpleData>
+					<SimpleData name="Denomination">CENTRE HOSPITALIER DE TARARE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8855387893574 </north>
+			<south> 45.8841732968197 </south>
+			<east> 4.39718025353026 </east>
+			<west> 4.39625469431014 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.39651238183581,45.8841732968197,0 4.39625469431014,45.8842180889308,0 4.39632678995714,45.884442446857,0 4.39632847379402,45.884447829859,0 4.39637114687145,45.8845950066401,0 4.39640290487956,45.884764383742,0 4.39640147916115,45.8848048397837,0 4.39642598493765,45.8848355188778,0 4.39643342968965,45.8848748746567,0 4.39643430176559,45.88491440168379,0 4.39643370153342,45.88492125391041,0 4.39641422589504,45.8850790152218,0 4.39638816373928,45.88523640756521,0 4.39638439954736,45.8852558176727,0 4.39637995232012,45.8854977826873,0 4.39638498864571,45.8855387893574,0 4.39708069513883,45.8854707525159,0 4.39708938212605,45.8854471386351,0 4.39709407585276,45.88543897493151,0 4.39715872796458,45.885328658947,0 4.39718025353026,45.8852875041714,0 4.39699026714422,45.88487420965271,0 4.39651238183581,45.8841732968197,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.5964">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69102000AD0188</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">JOUX</SimpleData>
+					<SimpleData name="Adresse">CHADIER</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">HOSP</SimpleData>
+					<SimpleData name="Denomination">CENTRE HOSPITALIER DE TARARE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8857034584397 </north>
+			<south> 45.8854497978311 </south>
+			<east> 4.39739340209618 </east>
+			<west> 4.39711586463628 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.3972604538065,45.8854497978311,0 4.39711781566289,45.88545975638251,0 4.39711586463628,45.8854743707537,0 4.39713294990769,45.8856498731891,0 4.39713314700615,45.8857034584397,0 4.39739340209618,45.8856630457707,0 4.3973473744979,45.8856126388205,0 4.3972604538065,45.8854497978311,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

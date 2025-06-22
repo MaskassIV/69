@@ -1,0 +1,859 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>TALUYERS_DEPT</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_3">
+		<name>TALUYERS_DEPT</name>
+		<Schema name="TALUYERS_DEPT" id="TALUYERS_DEPT.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="DEPT">
+			<LineStyle>
+				<color>BF63f16c</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C63f16c</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.57">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">692410000A2014</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TALUYERS</SimpleData>
+					<SimpleData name="Adresse">LA RONZE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6356943270089 </north>
+			<south> 45.6355020231176 </south>
+			<east> 4.72929565850173 </east>
+			<west> 4.72899066716633 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.72929565850173,45.63556923275889,0 4.72928508618557,45.6355020231176,0 4.72923416756359,45.6355283852957,0 4.72912930365778,45.635582867407,0 4.72899066716633,45.6356289513853,0 4.72900336455434,45.6356943270089,0 4.72929565850173,45.63556923275889,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.87">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">692410000B0261</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TALUYERS</SimpleData>
+					<SimpleData name="Adresse">MORLIN</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6281999368403 </north>
+			<south> 45.62776795935999 </south>
+			<east> 4.73242708180558 </east>
+			<west> 4.73210797655041 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.73223423382024,45.62776795935999,0 4.73210797655041,45.62812711917179,0 4.73222852549501,45.628151924112,0 4.73242708180558,45.6281999368403,0 4.73223423382024,45.62776795935999,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.89">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">692410000B0262</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TALUYERS</SimpleData>
+					<SimpleData name="Adresse">MORLIN</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.62733723601 </north>
+			<south> 45.626829401388 </south>
+			<east> 4.7320418131837 </east>
+			<west> 4.73145880025648 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.73145880025648,45.62715418016659,0 4.7318090917532,45.6272638984989,0 4.7320418131837,45.62733723601,0 4.73181502026355,45.626829401388,0 4.73145880025648,45.62715418016659,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.430">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">692410000B1025</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TALUYERS</SimpleData>
+					<SimpleData name="Adresse">BUYAT</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6335644458108 </north>
+			<south> 45.63326088774839 </south>
+			<east> 4.73282137392232 </east>
+			<west> 4.73190530918951 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.73190530918951,45.63352748363241,0 4.73191675099466,45.6335320812393,0 4.73197689346405,45.63355034048551,0 4.73204358219493,45.6335644458108,0 4.73213456073236,45.6335588122512,0 4.73282137392232,45.63340926131,0 4.73271209719701,45.63326088774839,0 4.73262734120908,45.6332889434072,0 4.73190530918951,45.63352748363241,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1308">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">692410000A1429</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TALUYERS</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6419156706001 </north>
+			<south> 45.6418714456796 </south>
+			<east> 4.71941631523596 </east>
+			<west> 4.71926295931424 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.71941631523596,45.6418714456796,0 4.71926374762053,45.6418914298774,0 4.71926295931424,45.6419156706001,0 4.71941631523596,45.6418714456796,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1480">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">692410000A1520</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TALUYERS</SimpleData>
+					<SimpleData name="Adresse">LE PETIT BATARD</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6382758550313 </north>
+			<south> 45.6376436528223 </south>
+			<east> 4.72503690889273 </east>
+			<west> 4.72437726030633 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.72443326661672,45.6382758550313,0 4.72455144565801,45.6380920136699,0 4.72458200864517,45.63805092397899,0 4.72500748830746,45.6376831343835,0 4.72503690889273,45.637654851949,0 4.72496838172608,45.6376436528223,0 4.72485565929786,45.6377552653105,0 4.72474165740664,45.6378587910279,0 4.72464490283201,45.6379471908525,0 4.72458534540907,45.6380137641944,0 4.72444886015938,45.63816636174569,0 4.72437726030633,45.638266805497,0 4.72443326661672,45.6382758550313,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1498">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">692410000A1531</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TALUYERS</SimpleData>
+					<SimpleData name="Adresse">BOUCHAT</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.63395473092719 </north>
+			<south> 45.6336534767964 </south>
+			<east> 4.73246882250526 </east>
+			<west> 4.73201062897616 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.73244953501625,45.6338228218816,0 4.7323158427906,45.633702475195,0 4.73226321220854,45.6336534767964,0 4.73210697159413,45.6336988449292,0 4.73205641724866,45.6337203390553,0 4.73201062897616,45.6337464434297,0 4.73224169269445,45.63395473092719,0 4.73226751925373,45.63394307467261,0 4.73246882250526,45.63384017862221,0 4.73244953501625,45.6338228218816,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1530">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">692410000B1551</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TALUYERS</SimpleData>
+					<SimpleData name="Adresse">BUYAT</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.63352748363241 </north>
+			<south> 45.6331740514265 </south>
+			<east> 4.73262734120908 </east>
+			<west> 4.7315311779807 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.73257486357937,45.6332284138804,0 4.73256949648493,45.6332292170685,0 4.73256617694802,45.63322980859329,0 4.7325629885515,45.6332304881688,0 4.73255966901444,45.6332310796936,0 4.73255635510948,45.6332318512708,0 4.73255316671272,45.6332325308461,0 4.7325498499915,45.6332332123968,0 4.73254665877852,45.6332338019455,0 4.73254334487321,45.63323457352239,0 4.73254015929219,45.6332353431236,0 4.73253684257065,45.633236024674,0 4.73253365417342,45.6332367042487,0 4.73253034026775,45.6332374758252,0 4.73252715468639,45.633238245426,0 4.73252409742932,45.6332390130512,0 4.73252078352339,45.63323978462749,0 4.73251759794176,45.63324055422811,0 4.73251440954403,45.6332412338022,0 4.73251122959424,45.6332421834553,0 4.73250804401234,45.63324295305561,0 4.73250473010595,45.6332437246314,0 4.73250154452387,45.6332444942315,0 4.73249836175769,45.6332453538578,0 4.73249517899141,45.6332462134841,0 4.73249199622503,45.6332470731103,0 4.73248881345856,45.6332479327364,0 4.73248562787601,45.6332487023361,0 4.73248257624973,45.6332496500129,0 4.73247939348296,45.6332505096387,0 4.73247633904051,45.63325136728891,0 4.73247315908949,45.6332523169409,0 4.73246997632242,45.6332531765665,0 4.73246679637119,45.6332541262184,0 4.73246374474428,45.63325507389461,0 4.73246056479284,45.6332560235463,0 4.73245738202536,45.6332568831715,0 4.73245433039814,45.6332578308475,0 4.73245115326229,45.6332588705252,0 4.73244822995929,45.6332598162255,0 4.73244505000731,45.6332607658767,0 4.73244199837966,45.6332617135524,0 4.73243882124336,45.6332627532298,0 4.73243577243138,45.6332637909316,0 4.73243272080341,45.633264738607,0 4.73242967199121,45.6332657763087,0 4.73242649203857,45.6332667259594,0 4.73242344604202,45.6332678536872,0 4.73242039722947,45.6332688913886,0 4.73241734841682,45.63326992909,0 4.73241455625298,45.63327096284029,0 4.7324115074401,45.6332720005415,0 4.73240846144295,45.63327312826889,0 4.73240541544568,45.63327425599629,0 4.73240236663244,45.6332752936972,0 4.7323993178191,45.633276331398,0 4.73239627182146,45.6332774591251,0 4.73239335696401,45.6332786749031,0 4.73239031096613,45.63327980262999,0 4.7323873904768,45.6332808383551,0 4.73238447280316,45.6332819641065,0 4.73238142680492,45.63328309183319,0 4.73237851476264,45.6332843976371,0 4.73237546876414,45.6332855253637,0 4.73237255109002,45.6332866511147,0 4.73236950790705,45.63328786886749,0 4.73236659023269,45.6332889946184,0 4.73236367818975,45.6332903004219,0 4.73236088883965,45.6332914241972,0 4.73235784565617,45.6332926419497,0 4.73235493079707,45.6332938577266,0 4.73235201593785,45.6332950735035,0 4.73234910389425,45.6332963793067,0 4.73234618903477,45.6332975950834,0 4.73234327417516,45.63329881086,0 4.73234049045569,45.6333001146876,0 4.73233757278009,45.6333012404377,0 4.7323347918761,45.63330263429151,0 4.73233187701597,45.6333038500679,0 4.73232909329598,45.6333051538951,0 4.73232618125131,45.6333064596977,0 4.73232326639079,45.6333076754738,0 4.73232048548612,45.6333090693272,0 4.7323177017656,45.6333103731542,0 4.73231479253608,45.6333117689828,0 4.73231213713986,45.6333130708343,0 4.73230935341895,45.6333143746611,0 4.73230644418901,45.63331577048961,0 4.7323036632835,45.6333171643426,0 4.73230087956218,45.63331846816909,0 4.7322980986564,45.633319862022,0 4.73208974546987,45.6334353859832,0 4.73203043850064,45.6334315250912,0 4.73198368485331,45.6334267504097,0 4.73193134897699,45.6334117936745,0 4.73188534258724,45.6333857510048,0 4.73158330685409,45.6331740514265,0 4.73155339664734,45.633186490918,0 4.7315311779807,45.6331903455055,0 4.73156162134569,45.6332196000798,0 4.73161512216592,45.6332718279067,0 4.73180268571519,45.63346042982911,0 4.73182395123308,45.6334794675591,0 4.73186200151988,45.63350563269451,0 4.73190530918951,45.63352748363241,0 4.73262734120908,45.6332889434072,0 4.73257486357937,45.6332284138804,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1531">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">692410000B1553</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TALUYERS</SimpleData>
+					<SimpleData name="Adresse">BUYAT</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.63340926131 </north>
+			<south> 45.63317783236699 </south>
+			<east> 4.73350586069988 </east>
+			<west> 4.73257486357937 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.73257486357937,45.6332284138804,0 4.73262734120908,45.6332889434072,0 4.73271209719701,45.63326088774839,0 4.73282137392232,45.63340926131,0 4.7329506783855,45.6333811499977,0 4.73298613700766,45.6333778118009,0 4.73306170835125,45.6333557518474,0 4.73350586069988,45.63321830988199,0 4.73348482238752,45.63317783236699,0 4.73315383825441,45.6332022953092,0 4.73314908462187,45.63320218838,0 4.73314433098934,45.63320208145059,0 4.73313958017387,45.6332020645473,0 4.73313482654137,45.6332019576175,0 4.73313007290889,45.63320185068749,0 4.73312532209344,45.63320183378369,0 4.73312056846099,45.6332017268533,0 4.73311581764555,45.63320170994899,0 4.73311106683011,45.6332016930446,0 4.7331063131977,45.6332015861136,0 4.73310168788959,45.6332014772061,0 4.73309693989114,45.6332015503274,0 4.73309218625877,45.63320144339579,0 4.73308743544336,45.6332014264903,0 4.73308268462796,45.6332014095847,0 4.73307793381256,45.63320139267881,0 4.73307318018024,45.6332012857464,0 4.73306843218176,45.6332013588665,0 4.73306367854947,45.6332012519337,0 4.73305892773408,45.633201235027,0 4.7330541769187,45.6332012181202,0 4.73304942610333,45.6332012012131,0 4.73304467528795,45.6332011843058,0 4.73303992728945,45.63320125742471,0 4.73303517365722,45.63320115049069,0 4.73303042284185,45.6332011335828,0 4.73302567484334,45.6332012067011,0 4.73302092402797,45.6332011897929,0 4.73301617321261,45.6332011728844,0 4.73301142521407,45.6332012460021,0 4.7330066743987,45.6332012290932,0 4.73300179525905,45.6332012141603,0 4.73299704444369,45.633201197251,0 4.73299229644513,45.63320127036791,0 4.73298754562976,45.6332012534582,0 4.73298279481441,45.6332012365483,0 4.73297804963259,45.6332013996909,0 4.73297329881722,45.6332013827807,0 4.73296854800185,45.6332013658702,0 4.73296380000323,45.6332014389859,0 4.7329590520046,45.63320151210131,0 4.73295430118923,45.63320149519021,0 4.7329495560073,45.6332016583316,0 4.73294480519192,45.6332016414202,0 4.73294005437654,45.6332016245085,0 4.73293543751885,45.6332017856732,0 4.73293068952015,45.63320185878751,0 4.73292593870476,45.63320184187519,0 4.73292119352271,45.6332020050154,0 4.73291644270731,45.6332019881028,0 4.73291169470857,45.6332020612162,0 4.73290694952647,45.6332022243558,0 4.7329022015277,45.6332022974689,0 4.73289745071227,45.63320228055541,0 4.73289257720582,45.6332024456705,0 4.73288782920701,45.6332025187829,0 4.73288308120818,45.6332025918952,0 4.73287833602595,45.6332027550336,0 4.7328735880271,45.6332028281454,0 4.73286884002823,45.63320290125709,0 4.73286409484593,45.6332030643949,0 4.73285934684703,45.63320313750619,0 4.73285459884811,45.6332032106172,0 4.73284985366574,45.6332033737544,0 4.73284510566679,45.6332034468651,0 4.73284036048438,45.6332036100019,0 4.7328356124854,45.6332036831122,0 4.73283086730293,45.6332038462486,0 4.73282611930392,45.6332039193584,0 4.73282137412141,45.6332040824944,0 4.73281662893887,45.6332042456302,0 4.7328118837563,45.63320440876581,0 4.73280713575721,45.63320448187491,0 4.73280239339108,45.63320473503641,0 4.73279764539195,45.6332048081451,0 4.73279290020928,45.6332049712799,0 4.73278802670227,45.6332051363904,0 4.73278328151954,45.6332052995248,0 4.73277853352034,45.6332053726327,0 4.732773791154,45.633205625793,0 4.73276917429549,45.6332057869509,0 4.73276455743696,45.63320594810871,0 4.73275981225409,45.6332061112421,0 4.73275506707119,45.6332062743753,0 4.73275032188827,45.6332064375083,0 4.73274557952171,45.6332066906674,0 4.73274083433872,45.6332068538,0 4.73273608915571,45.63320701693241,0 4.73273134678903,45.633207270091,0 4.73257486357937,45.6332284138804,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1646">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">692410000A1619</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TALUYERS</SimpleData>
+					<SimpleData name="Adresse">LA RONZE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.63521023070739 </north>
+			<south> 45.6347222279349 </south>
+			<east> 4.73053266401954 </east>
+			<west> 4.72989117828076 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.73050791499614,45.6347222279349,0 4.73006883570602,45.6350555713817,0 4.72989117828076,45.6351594505929,0 4.7298982851266,45.63521023070739,0 4.73026563155713,45.6350012962281,0 4.73033752157184,45.63499280520081,0 4.73035380523219,45.6349921044835,0 4.7303998312248,45.6349940988895,0 4.73044500779517,45.6350017807269,0 4.73048752429275,45.6350147274906,0 4.73049691584285,45.6350194468411,0 4.73053266401954,45.6350417748394,0 4.73051588102075,45.6348251451437,0 4.73050791499614,45.6347222279349,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2159">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">692410000A1961</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TALUYERS</SimpleData>
+					<SimpleData name="Adresse">LE PETIT BATARD</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6364145667959 </north>
+			<south> 45.6363029708607 </south>
+			<east> 4.72623700511848 </east>
+			<west> 4.7260474443393 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.7261222058709,45.6364095726441,0 4.72614893893687,45.6364145667959,0 4.72622674393868,45.63634861338799,0 4.72623700511848,45.6363029708607,0 4.7260474443393,45.6363960379371,0 4.7261222058709,45.6364095726441,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2235">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">692410000A2004</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TALUYERS</SimpleData>
+					<SimpleData name="Adresse">LE PETIT BATARD</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.63650441716789 </north>
+			<south> 45.6364207295819 </south>
+			<east> 4.72675365426206 </east>
+			<west> 4.72670080032222 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.72675365426206,45.6365004937374,0 4.72671598762454,45.6364207295819,0 4.72670080032222,45.63642366468451,0 4.72673862614676,45.63650441716789,0 4.72675365426206,45.6365004937374,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2237">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">692410000A2006</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TALUYERS</SimpleData>
+					<SimpleData name="Adresse">LE PETIT BATARD</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6364251351884 </north>
+			<south> 45.6363272937401 </south>
+			<east> 4.72671598762454 </east>
+			<west> 4.72654881059486 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.72671598762454,45.6364207295819,0 4.72667121842117,45.6363272937401,0 4.72654881059486,45.63635042813041,0 4.72669301417248,45.6364251351884,0 4.72670080032222,45.63642366468451,0 4.72671598762454,45.6364207295819,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2351">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">692410000A0021</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TALUYERS</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.64207854574771 </north>
+			<south> 45.6418914298774 </south>
+			<east> 4.71926374762053 </east>
+			<west> 4.71884726548062 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.71926374762053,45.6418914298774,0 4.71921042902125,45.6418987293105,0 4.71893416180197,45.64197932772709,0 4.71884726548062,45.6420176733236,0 4.71890719443721,45.64207854574771,0 4.71900563868754,45.64203164727941,0 4.71910245787843,45.6420192701403,0 4.71921561747983,45.6419831351994,0 4.71921913699018,45.6420055087324,0 4.71926016507927,45.6419952446043,0 4.71926105378383,45.6419701016534,0 4.71926295931424,45.6419156706001,0 4.71926374762053,45.6418914298774,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2426">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">692410000A2150</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TALUYERS</SimpleData>
+					<SimpleData name="Adresse">LES BLANCHARDES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6369937936895 </north>
+			<south> 45.6367850938091 </south>
+			<east> 4.72586768485951 </east>
+			<west> 4.72569470975675 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.72586768485951,45.63678717472381,0 4.72585067198418,45.6367850938091,0 4.72575288182061,45.63691431202849,0 4.72569470975675,45.6369923035806,0 4.7257091363872,45.6369937936895,0 4.72576145140574,45.6369256194564,0 4.72585262860113,45.63680668050111,0 4.72586336433845,45.6367927352234,0 4.72586768485951,45.63678717472381,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2427">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">692410000A2152</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TALUYERS</SimpleData>
+					<SimpleData name="Adresse">LE PETIT BATARD</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.63678717472381 </north>
+			<south> 45.6365452619861 </south>
+			<east> 4.72608406491174 </east>
+			<west> 4.72585067198418 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.72608406491174,45.6365452619861,0 4.72601841592443,45.6366016616233,0 4.72595577736808,45.6366599065135,0 4.7259151837774,45.636700429869,0 4.72585067198418,45.6367850938091,0 4.72586768485951,45.63678717472381,0 4.72587015332754,45.6367839844344,0 4.7259117406586,45.6367300254906,0 4.72605785937046,45.63657367553899,0 4.72608406491174,45.6365452619861,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2767">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">692410000A2443</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TALUYERS</SimpleData>
+					<SimpleData name="Adresse">LA ROSETTE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.64090565860301 </north>
+			<south> 45.640803381944 </south>
+			<east> 4.74036434382878 </east>
+			<west> 4.74028033073887 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.74028033073887,45.640803381944,0 4.74029953453072,45.6408996400122,0 4.74030640068418,45.64090565860301,0 4.74036434382878,45.6408781019398,0 4.74028033073887,45.640803381944,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2768">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">692410000A2445</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TALUYERS</SimpleData>
+					<SimpleData name="Adresse">LA ROSETTE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6413839207487 </north>
+			<south> 45.6408781019398 </south>
+			<east> 4.74088454642897 </east>
+			<west> 4.74030640068418 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.74036434382878,45.6408781019398,0 4.74030640068418,45.64090565860301,0 4.74079435900106,45.6413393653813,0 4.74083968804297,45.6413802766186,0 4.74084866256579,45.6413839207487,0 4.74085848837403,45.6413819673723,0 4.7408805304422,45.6412131055048,0 4.74088454642897,45.6411652162275,0 4.74072475569447,45.6412083992965,0 4.74036434382878,45.6408781019398,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2769">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">692410000A2446</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TALUYERS</SimpleData>
+					<SimpleData name="Adresse">LES FONTAINES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6419440377649 </north>
+			<south> 45.64181588304571 </south>
+			<east> 4.74128718709985 </east>
+			<west> 4.7406664106806 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.74128718709985,45.6419440377649,0 4.74113484814036,45.64181588304571,0 4.74103035144358,45.6418371347643,0 4.74091037130653,45.6418560138459,0 4.74078892653281,45.6418691509719,0 4.7406664106806,45.6418768102617,0 4.74071253331815,45.6418816812909,0 4.74098903809753,45.6419117212758,0 4.74115380734556,45.64192880773771,0 4.74128718709985,45.6419440377649,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2939">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">692410000B0026</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TALUYERS</SimpleData>
+					<SimpleData name="Adresse">MONTARCIS</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6193128330748 </north>
+			<south> 45.6186554960158 </south>
+			<east> 4.71770181930731 </east>
+			<west> 4.71692081341439 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.71692081341439,45.6186592329652,0 4.71704498972295,45.6191954113009,0 4.71705148001344,45.61922260321759,0 4.71737249200479,45.6191729391956,0 4.71741336393555,45.6192948094293,0 4.71770181930731,45.6193128330748,0 4.71768854106633,45.6192033314872,0 4.71768529405988,45.6191772609864,0 4.71732701465927,45.61914679275031,0 4.71729714596368,45.61905276606409,0 4.71723051166194,45.6190231596104,0 4.7171257027283,45.61902908261069,0 4.71705944595044,45.6186554960158,0 4.71692081341439,45.6186592329652,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+				<innerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.71725335792567,45.6191349470636,0 4.71724145408936,45.61910288397989,0 4.71728928181511,45.6190930569684,0 4.71729929198968,45.6191261397132,0 4.71725335792567,45.6191349470636,0 
+						</coordinates>
+					</LinearRing>
+				</innerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3036">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">692410000B0027</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TALUYERS</SimpleData>
+					<SimpleData name="Adresse">MONTARCIS</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6191349470636 </north>
+			<south> 45.6190930569684 </south>
+			<east> 4.71729929198968 </east>
+			<west> 4.71724145408936 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.71725335792567,45.6191349470636,0 4.71729929198968,45.6191261397132,0 4.71728928181511,45.6190930569684,0 4.71724145408936,45.61910288397989,0 4.71725335792567,45.6191349470636,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3161">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">692410000B0028</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TALUYERS</SimpleData>
+					<SimpleData name="Adresse">MONTARCIS</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6191772609864 </north>
+			<south> 45.61858291773291 </south>
+			<east> 4.71768529405988 </east>
+			<west> 4.71691163458435 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.71691163458435,45.6186198326624,0 4.71692081341439,45.6186592329652,0 4.71705944595044,45.6186554960158,0 4.7171257027283,45.61902908261069,0 4.71723051166194,45.6190231596104,0 4.71729714596368,45.61905276606409,0 4.71732701465927,45.61914679275031,0 4.71768529405988,45.6191772609864,0 4.71766031106072,45.6189717441728,0 4.71763344534508,45.6187510344065,0 4.71761295937385,45.61858291773291,0 4.71691163458435,45.6186198326624,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.4427">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">692410000C0429</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TALUYERS</SimpleData>
+					<SimpleData name="Adresse">LES RIVOIRELLES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6421544922714 </north>
+			<south> 45.6419915837323 </south>
+			<east> 4.71884726548062 </east>
+			<west> 4.71856538778255 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.71858750859277,45.6421544922714,0 4.71874123757043,45.64206432717959,0 4.71884726548062,45.6420176733236,0 4.71882167335752,45.6419915837323,0 4.71867951446566,45.642061486782,0 4.71856538778255,45.6421368161454,0 4.71858750859277,45.6421544922714,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6011">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69241000ZA0074</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TALUYERS</SimpleData>
+					<SimpleData name="Adresse">PRAPIN</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6394313447155 </north>
+			<south> 45.6393825769009 </south>
+			<east> 4.7114790540549 </east>
+			<west> 4.71053672386289 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.71053672386289,45.6393825769009,0 4.71092170660296,45.63942545264549,0 4.71115621822303,45.6394313447155,0 4.7114790540549,45.6393868955615,0 4.71120312600609,45.639403610766,0 4.71100428372032,45.6394051927041,0 4.71053672386289,45.6393825769009,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6187">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">692410000B0796</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TALUYERS</SimpleData>
+					<SimpleData name="Adresse">LA GAILLARDIERE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.63976483907209 </north>
+			<south> 45.639292554337 </south>
+			<east> 4.71664126945204 </east>
+			<west> 4.71550818637277 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.71613568555343,45.6395346761217,0 4.71594675898678,45.6394709053846,0 4.71564403545393,45.6393686981444,0 4.71560574043727,45.6393469446964,0 4.71553407774788,45.639292554337,0 4.71550818637277,45.63931888895489,0 4.71561978735469,45.6393983403045,0 4.71664126945204,45.63976483907209,0 4.71663693900368,45.6397038380924,0 4.71633836443557,45.6396030105066,0 4.71613568555343,45.6395346761217,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

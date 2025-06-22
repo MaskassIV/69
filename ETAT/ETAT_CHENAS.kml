@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>CHENAS_ETAT</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_1">
+		<name>CHENAS_ETAT</name>
+		<Schema name="CHENAS_ETAT" id="CHENAS_ETAT.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="ETAT">
+			<LineStyle>
+				<color>BF119ff7</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C119ff7</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.346">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">690530000B0100</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHENAS</SimpleData>
+					<SimpleData name="Adresse">AU REMONT</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">GFA</SimpleData>
+					<SimpleData name="Denomination">DU DOMAINE DES PINS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.2191248685495 </north>
+			<south> 46.21589778671569 </south>
+			<east> 4.67979176077841 </east>
+			<west> 4.67801260583425 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.67979176077841,46.21589778671569,0 4.67973522127597,46.21593690092649,0 4.67966972476083,46.2159801104089,0 4.67959671980382,46.21604504720009,0 4.67952523503419,46.2161214902733,0 4.67943113920175,46.2162687908945,0 4.67938478321223,46.21640737041151,0 4.67921205166396,46.21682973050619,0 4.67912842184858,46.2170730695607,0 4.6790794314289,46.2172485258649,0 4.67902938119741,46.2174148107914,0 4.67893349602953,46.2175885274395,0 4.67889709479282,46.2176667038844,0 4.678853739215,46.2177677703164,0 4.67882750888427,46.2178602976423,0 4.67878267067196,46.217989217113,0 4.67873873768776,46.2181011002419,0 4.67865176223174,46.2182056925876,0 4.67860573326826,46.2182406880404,0 4.67851513500941,46.2183075049464,0 4.67847917774926,46.2183536102787,0 4.67832873346308,46.2185423623207,0 4.67830599289247,46.2186260112888,0 4.67825872860706,46.2187054286143,0 4.67823114843779,46.218762398615,0 4.6781938339137,46.2188701307596,0 4.67814835834584,46.2189189884035,0 4.67801260583425,46.2190240296742,0 4.67823943605943,46.2191220101041,0 4.67843026581044,46.2191248685495,0 4.67873683916127,46.2190980971661,0 4.67894129042469,46.2190669779952,0 4.67872728486829,46.21899799187781,0 4.67849870730821,46.2187921360735,0 4.67852199944047,46.21847655239349,0 4.67890058237296,46.21802620613779,0 4.67896878244848,46.2178678496066,0 4.67899664862005,46.21779484297661,0 4.67909854348443,46.21744882643831,0 4.67919652120821,46.2171232231124,0 4.67926739575454,46.2169844618265,0 4.67929998507381,46.21692588641081,0 4.67960849687413,46.2168230659696,0 4.67955774862512,46.2161620814146,0 4.67967017164534,46.21603702716631,0 4.67979176077841,46.21589778671569,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.371">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">690530000B0102</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHENAS</SimpleData>
+					<SimpleData name="Adresse">AU REMONT</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">GFA</SimpleData>
+					<SimpleData name="Denomination">DU DOMAINE DES PINS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.21958605392081 </north>
+			<south> 46.2190398031941 </south>
+			<east> 4.67976157634081 </east>
+			<west> 4.67835090617231 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.67933712376578,46.21958605392081,0 4.67976157634081,46.21950611014431,0 4.67969631039873,46.219413042403,0 4.67964795794531,46.2193045032696,0 4.67967937562861,46.2191568672482,0 4.67967258728945,46.2191089609435,0 4.67965441863365,46.2190750031913,0 4.67961074642021,46.21905141966741,0 4.67929339539342,46.2190398031941,0 4.67916293850276,46.2190635258299,0 4.67893135280071,46.2191026117004,0 4.67861249111743,46.2191391122323,0 4.67847438998549,46.2191547506487,0 4.6783615554237,46.2191565057792,0 4.67835090617231,46.2191646790216,0 4.67869513559487,46.21931244536369,0 4.67923038761707,46.2195243115891,0 4.67933712376578,46.21958605392081,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.3404">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">690530000B0612</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHENAS</SimpleData>
+					<SimpleData name="Adresse">AU REMONT</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">GFA</SimpleData>
+					<SimpleData name="Denomination">DU DOMAINE DES PINS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.2180173563915 </north>
+			<south> 46.2151369266898 </south>
+			<east> 4.68650390240483 </east>
+			<west> 4.68132281216981 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.6834087885136,46.2163712989204,0 4.68333720799445,46.2164275704902,0 4.68263061744562,46.2168976467311,0 4.68247005745058,46.2170014393107,0 4.68227269840939,46.2170730810359,0 4.68218649529972,46.2171053396626,0 4.68194898968065,46.2172767401723,0 4.68179033265603,46.21772168363249,0 4.68132281216981,46.2179579104932,0 4.68137271753911,46.2179689717448,0 4.68149457390396,46.21790610374691,0 4.68162608166981,46.2178152617072,0 4.68235215871574,46.2180173563915,0 4.68238839756118,46.217988989142,0 4.68272647117421,46.2177206271153,0 4.68273791913355,46.2176497538406,0 4.68277573321814,46.2176219936351,0 4.68331638521201,46.2173675652724,0 4.68376919862248,46.2172527801954,0 4.68394540998531,46.2172065781328,0 4.68399905434578,46.2171830865598,0 4.68433869229734,46.2170335870675,0 4.68469459454838,46.2168771805331,0 4.68496864099391,46.21641332004061,0 4.68502669029734,46.2162968117735,0 4.68520855227299,46.2162024272668,0 4.68527087120554,46.2161572801079,0 4.68558682725789,46.2159088718816,0 4.68571714876708,46.2159021667207,0 4.68583722659225,46.2159125461763,0 4.68593250784342,46.2159393253224,0 4.68599006594044,46.2159672040216,0 4.68603464771801,46.2160034713179,0 4.68609593858257,46.2160725461204,0 4.68613810185803,46.2161440661175,0 4.68622669254807,46.2163624304002,0 4.68626282039135,46.216448630976,0 4.68634504480624,46.21605525245689,0 4.68641123976179,46.2157144414876,0 4.68650390240483,46.2152682177854,0 4.68617202288328,46.2152181066709,0 4.68599863833418,46.2151534858284,0 4.68590748493239,46.21513853464259,0 4.68585190356846,46.2151369266898,0 4.68577494809934,46.215157522237,0 4.68568068396186,46.2152101685458,0 4.68536612147306,46.2154699951931,0 4.68515806839309,46.2156281764648,0 4.68493014902395,46.21578169787369,0 4.68472770311495,46.2159071003008,0 4.68458751673019,46.2159769985496,0 4.6844878731771,46.2160108991445,0 4.68421989778381,46.216060172349,0 4.68412185683594,46.21609134682389,0 4.68396559893628,46.2161660757708,0 4.68383496932494,46.2162345706042,0 4.68374227405577,46.21628349920291,0 4.68365340238461,46.2163217430146,0 4.6835180602051,46.2163677900606,0 4.6834675718589,46.2163715096587,0 4.6834087885136,46.2163712989204,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.3407">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">690530000B0614</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHENAS</SimpleData>
+					<SimpleData name="Adresse">AU REMONT</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">GFA</SimpleData>
+					<SimpleData name="Denomination">DU DOMAINE DES PINS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.21960856544159 </north>
+			<south> 46.2183814296868 </south>
+			<east> 4.68176421938744 </east>
+			<west> 4.67936308753498 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.67936308753498,46.219002116301,0 4.67960870449862,46.2190144316349,0 4.6796941503606,46.2190546914245,0 4.67973888220562,46.2191382449433,0 4.679710853379,46.21930330424179,0 4.67974591600011,46.2193973584405,0 4.67979312075977,46.2194769124027,0 4.67990357461977,46.2195667907717,0 4.68001450053726,46.21960856544159,0 4.68039932327192,46.2193576239502,0 4.68105499734597,46.2189307372896,0 4.68176421938744,46.2184774754288,0 4.68171615088163,46.2184544080535,0 4.68167905948375,46.218505755185,0 4.68085856678161,46.2183814296868,0 4.68084383988993,46.2184089381148,0 4.68105575618108,46.2184478682202,0 4.68094605125484,46.2186573679757,0 4.6800350515497,46.2184673630696,0 4.67987193483661,46.218433024377,0 4.67964399182978,46.21856122584381,0 4.67939886239195,46.2189500688545,0 4.67936308753498,46.219002116301,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.3410">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">690530000B0616</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHENAS</SimpleData>
+					<SimpleData name="Adresse">AU REMONT</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">GFA</SimpleData>
+					<SimpleData name="Denomination">DU DOMAINE DES PINS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.2190669779952 </north>
+			<south> 46.2153677003664 </south>
+			<east> 4.68227269840939 </east>
+			<west> 4.67849870730821 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.68011104151028,46.2153677003664,0 4.68009078805308,46.2153884451368,0 4.68006950547207,46.21543487466181,0 4.68002058014001,46.2155869126602,0 4.67996395317008,46.21574167638399,0 4.67991613357484,46.2157985855394,0 4.67979176077841,46.21589778671569,0 4.67967017164534,46.21603702716631,0 4.67955774862512,46.2161620814146,0 4.67960849687413,46.2168230659696,0 4.67929998507381,46.21692588641081,0 4.67926739575454,46.2169844618265,0 4.67919652120821,46.2171232231124,0 4.67909854348443,46.21744882643831,0 4.67899664862005,46.21779484297661,0 4.67896878244848,46.2178678496066,0 4.67890058237296,46.21802620613779,0 4.67852199944047,46.21847655239349,0 4.67849870730821,46.2187921360735,0 4.67872728486829,46.21899799187781,0 4.67894129042469,46.2190669779952,0 4.67928630099443,46.2190030698927,0 4.67936308753498,46.219002116301,0 4.67939886239195,46.2189500688545,0 4.67964399182978,46.21856122584381,0 4.67987193483661,46.218433024377,0 4.6800350515497,46.2184673630696,0 4.68094605125484,46.2186573679757,0 4.68105575618108,46.2184478682202,0 4.68084383988993,46.2184089381148,0 4.68085856678161,46.2183814296868,0 4.68077852470029,46.218369282393,0 4.68095759065377,46.218094448717,0 4.68117128321368,46.2179248434737,0 4.68125980152689,46.2179256966781,0 4.68129302348727,46.2179512354201,0 4.68132281216981,46.2179579104932,0 4.68179033265603,46.21772168363249,0 4.68194898968065,46.2172767401723,0 4.68218649529972,46.2171053396626,0 4.68227269840939,46.2170730810359,0 4.681682709709,46.2168825742626,0 4.68161965092984,46.2168656730403,0 4.68138640098451,46.2173703534679,0 4.68096170155494,46.2171497482479,0 4.68070475160111,46.2173176505942,0 4.68049229448916,46.2171339876272,0 4.68092822802703,46.2168029383435,0 4.6805715159745,46.2164212749724,0 4.68037700978875,46.2159723647033,0 4.68011104151028,46.2153677003664,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.3644">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">690530000B0074</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHENAS</SimpleData>
+					<SimpleData name="Adresse">LES SOUS</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">GFA</SimpleData>
+					<SimpleData name="Denomination">DU DOMAINE DES PINS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.2147140374309 </north>
+			<south> 46.212983462785 </south>
+			<east> 4.69285779753724 </east>
+			<west> 4.68867311211418 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.69057912850647,46.212983462785,0 4.69074125462305,46.21321730332689,0 4.69063439457075,46.2136058278797,0 4.68957452580747,46.213862873021,0 4.68887862017195,46.21403272134209,0 4.68867311211418,46.21408350944661,0 4.68883307505011,46.2142136254305,0 4.68892861643669,46.2143036265127,0 4.68910095123137,46.21427521737839,0 4.68940799281492,46.21453825135859,0 4.68969461931393,46.21445464261721,0 4.68996204550241,46.2143248429135,0 4.69013468847944,46.2143821731916,0 4.6898949008999,46.2147140374309,0 4.69014373718121,46.2146798064008,0 4.69079187768603,46.2145765008903,0 4.69140551070545,46.2144860442951,0 4.69246652534335,46.2143247984449,0 4.69285779753724,46.2142646634706,0 4.69249188793765,46.2141545510076,0 4.69232525600786,46.2140986660055,0 4.69212416112787,46.2139939357608,0 4.69207013203796,46.213933312622,0 4.69191126141486,46.2136328645099,0 4.69189197910533,46.2135924402167,0 4.69183237228763,46.2133847273375,0 4.69168753781655,46.2132488962542,0 4.69150542168674,46.2131662197525,0 4.69112669867841,46.2131030393771,0 4.69069691629925,46.2130081019591,0 4.69057912850647,46.212983462785,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.3683">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">690530000B0077</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHENAS</SimpleData>
+					<SimpleData name="Adresse">LES SOUS</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">GFA</SimpleData>
+					<SimpleData name="Denomination">DU DOMAINE DES PINS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.2137527320422 </north>
+			<south> 46.2128921502501 </south>
+			<east> 4.6888974729301 </east>
+			<west> 4.68435195408068 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.68673998146407,46.2137527320422,0 4.68676541196208,46.2137401055155,0 4.68731914884901,46.2135416660686,0 4.68885132311791,46.21299949663051,0 4.6888974729301,46.2129771947677,0 4.68870693112503,46.2129030153876,0 4.68781131243522,46.2130249337731,0 4.68767331743304,46.2130392310251,0 4.6870790764941,46.2130765095874,0 4.68665167815295,46.2131009528481,0 4.68623954316363,46.2130522124711,0 4.68584028040255,46.21307605537,0 4.6851035359275,46.2129262014502,0 4.68492759667703,46.2128921502501,0 4.68435195408068,46.2129140074658,0 4.68459510312906,46.2131803420648,0 4.68475095320061,46.2133374550941,0 4.68484777649582,46.21341456066731,0 4.6848920130446,46.2134481314291,0 4.68504544601583,46.21353079302669,0 4.68517984444241,46.2135682517507,0 4.68568660649907,46.2136267620038,0 4.68660650025332,46.213736697909,0 4.68673998146407,46.2137527320422,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.3704">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">690530000B0078</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHENAS</SimpleData>
+					<SimpleData name="Adresse">AU REMONT</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">GFA</SimpleData>
+					<SimpleData name="Denomination">DU DOMAINE DES PINS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.2164970983064 </north>
+			<south> 46.2127957236403 </south>
+			<east> 4.68451646681257 </east>
+			<west> 4.68011104151028 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.68011104151028,46.2153677003664,0 4.68037700978875,46.2159723647033,0 4.6807595410544,46.21578720547179,0 4.68077560627675,46.2157991273213,0 4.68086559991261,46.2159285769877,0 4.68121762820008,46.2164198321352,0 4.6812733258989,46.2164970983064,0 4.68178215527135,46.2160894904435,0 4.6822587257884,46.2156837083664,0 4.6823396044562,46.21548652260109,0 4.6825341588836,46.2150109641306,0 4.68285546384163,46.214683043836,0 4.6831343281417,46.214418168283,0 4.68321838537259,46.214299294528,0 4.68354831835901,46.2138470396811,0 4.6839383095122,46.2135465610183,0 4.68416509528608,46.21341125214271,0 4.68451646681257,46.2132010517641,0 4.68424679320492,46.21289484909759,0 4.68421686893527,46.2128879066245,0 4.68367361503189,46.2128491148355,0 4.68319768969691,46.21281427777109,0 4.68288729649172,46.2127957236403,0 4.682805752239,46.212823140271,0 4.68246752237145,46.21293748794109,0 4.6822343168261,46.21302010811391,0 4.68214748007783,46.21312028797739,0 4.68217448317088,46.2132772385619,0 4.68217427443299,46.2134268457337,0 4.68215209225741,46.21354111071729,0 4.68211002460847,46.2136035200484,0 4.68205353920811,46.2136527223704,0 4.68201274784602,46.21368908293779,0 4.68188083004944,46.2137493083263,0 4.68178754191461,46.2138168883612,0 4.68172249138977,46.213870270259,0 4.6815981604958,46.2140044195618,0 4.68133717498029,46.214310908892,0 4.68115662965114,46.214439764049,0 4.68106966965032,46.2145233722061,0 4.68101549015702,46.2146182047007,0 4.68091225711272,46.21479311265301,0 4.68075009794028,46.2149588937244,0 4.68064334381995,46.21504018206161,0 4.68049295620111,46.2151286900407,0 4.68020708519737,46.2152713491854,0 4.68015251957028,46.215311335145,0 4.68011104151028,46.2153677003664,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.3726">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">690530000B0079</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHENAS</SimpleData>
+					<SimpleData name="Adresse">AU REMONT</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">GFA</SimpleData>
+					<SimpleData name="Denomination">DU DOMAINE DES PINS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.2173703534679 </north>
+			<south> 46.2132010517641 </south>
+			<east> 4.68551355244763 </east>
+			<west> 4.68037700978875 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.68451646681257,46.2132010517641,0 4.68416509528608,46.21341125214271,0 4.6839383095122,46.2135465610183,0 4.68354831835901,46.2138470396811,0 4.68321838537259,46.214299294528,0 4.6831343281417,46.214418168283,0 4.68285546384163,46.214683043836,0 4.6825341588836,46.2150109641306,0 4.6823396044562,46.21548652260109,0 4.6822587257884,46.2156837083664,0 4.68178215527135,46.2160894904435,0 4.6812733258989,46.2164970983064,0 4.68121762820008,46.2164198321352,0 4.68086559991261,46.2159285769877,0 4.68077560627675,46.2157991273213,0 4.6807595410544,46.21578720547179,0 4.68037700978875,46.2159723647033,0 4.6805715159745,46.2164212749724,0 4.68092822802703,46.2168029383435,0 4.68049229448916,46.2171339876272,0 4.68070475160111,46.2173176505942,0 4.68096170155494,46.2171497482479,0 4.68138640098451,46.2173703534679,0 4.68161965092984,46.2168656730403,0 4.681682709709,46.2168825742626,0 4.68227269840939,46.2170730810359,0 4.68247005745058,46.2170014393107,0 4.68263061744562,46.2168976467311,0 4.68333720799445,46.2164275704902,0 4.6834087885136,46.2163712989204,0 4.68357565869532,46.2162322847567,0 4.68368750504718,46.2161183133917,0 4.68372998676061,46.2160947169727,0 4.68391944639166,46.21599418746749,0 4.68406321685046,46.2159437818956,0 4.68413008321843,46.2158903717826,0 4.68414421399277,46.2158562066314,0 4.68413298260538,46.2158116087939,0 4.68357971876533,46.21580692026291,0 4.68352608566886,46.2155730852173,0 4.68353456150906,46.21551954901329,0 4.68360762165014,46.215452357078,0 4.6837109612422,46.2153656222669,0 4.68441130439817,46.2152040266699,0 4.68440660477714,46.21503422665761,0 4.68438680755913,46.21491355756289,0 4.68439044626994,46.21483775587329,0 4.68440570363933,46.21478538011189,0 4.68444193954236,46.2147274696536,0 4.68450049504626,46.2146654457138,0 4.68456777413086,46.2146213062749,0 4.6846887083114,46.2145836675787,0 4.68486406339814,46.2145394581405,0 4.68491980663072,46.2145083692152,0 4.68495873597826,46.2144621276131,0 4.68513114049353,46.2142164776767,0 4.68542861362572,46.2137892868616,0 4.68551355244763,46.2136613013063,0 4.68507758743666,46.213605614277,0 4.68500037477068,46.21357136127181,0 4.68485406410832,46.21349670028499,0 4.68473749229239,46.213414483143,0 4.68451646681257,46.2132010517641,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.3760">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">690530000B0081</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHENAS</SimpleData>
+					<SimpleData name="Adresse">AU REMONT</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">GFA</SimpleData>
+					<SimpleData name="Denomination">DU DOMAINE DES PINS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.2163715096587 </north>
+			<south> 46.2150573552939 </south>
+			<east> 4.68653977086648 </east>
+			<west> 4.6834087885136 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.68413298260538,46.2158116087939,0 4.68414421399277,46.2158562066314,0 4.68413008321843,46.2158903717826,0 4.68406321685046,46.2159437818956,0 4.68391944639166,46.21599418746749,0 4.68372998676061,46.2160947169727,0 4.68368750504718,46.2161183133917,0 4.68357565869532,46.2162322847567,0 4.6834087885136,46.2163712989204,0 4.6834675718589,46.2163715096587,0 4.6835180602051,46.2163677900606,0 4.68365340238461,46.2163217430146,0 4.68374227405577,46.21628349920291,0 4.68383496932494,46.2162345706042,0 4.68396559893628,46.2161660757708,0 4.68412185683594,46.21609134682389,0 4.68421989778381,46.216060172349,0 4.6844878731771,46.2160108991445,0 4.68458751673019,46.2159769985496,0 4.68472770311495,46.2159071003008,0 4.68493014902395,46.21578169787369,0 4.68515806839309,46.2156281764648,0 4.68536612147306,46.2154699951931,0 4.68568068396186,46.2152101685458,0 4.68577494809934,46.215157522237,0 4.68585190356846,46.2151369266898,0 4.68590748493239,46.21513853464259,0 4.68599863833418,46.2151534858284,0 4.68617202288328,46.2152181066709,0 4.68650390240483,46.2152682177854,0 4.68653977086648,46.2151098853956,0 4.68646878708923,46.2151094969053,0 4.68618165342121,46.21507988846719,0 4.68589110480464,46.2150573552939,0 4.68555027679615,46.2151212219438,0 4.68544672361858,46.21513761794909,0 4.68501405487303,46.2153667690829,0 4.68434359724445,46.21571977216379,0 4.68416816454801,46.2158122587133,0 4.68413298260538,46.2158116087939,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.3776">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">690530000B0083</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHENAS</SimpleData>
+					<SimpleData name="Adresse">AU REMONT</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">GFA</SimpleData>
+					<SimpleData name="Denomination">DU DOMAINE DES PINS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.2176825821623 </north>
+			<south> 46.2171592061942 </south>
+			<east> 4.68415194711463 </east>
+			<west> 4.68278369202644 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.68414860481229,46.2174642283119,0 4.68415194711463,46.2171592061942,0 4.68397668768393,46.2172363781198,0 4.6835952770677,46.21733551597281,0 4.6832934846703,46.2174119477883,0 4.68294731932766,46.2175814458401,0 4.68278573004725,46.2176602149795,0 4.68278369202644,46.2176825821623,0 4.68306654222547,46.2176399375878,0 4.68414860481229,46.2174642283119,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.3793">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">690530000B0084</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHENAS</SimpleData>
+					<SimpleData name="Adresse">AU REMONT</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">GFA</SimpleData>
+					<SimpleData name="Denomination">DU DOMAINE DES PINS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.2174642283119 </north>
+			<south> 46.2169690362817 </south>
+			<east> 4.68460936237102 </east>
+			<west> 4.68414860481229 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.68460936237102,46.2173884120653,0 4.68460124733025,46.2172679302547,0 4.68459218955483,46.2169690362817,0 4.68415194711463,46.2171592061942,0 4.68414860481229,46.2174642283119,0 4.68451563367895,46.21740376094841,0 4.68460936237102,46.2173884120653,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.3807">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">690530000B0085</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHENAS</SimpleData>
+					<SimpleData name="Adresse">AU REMONT</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">GFA</SimpleData>
+					<SimpleData name="Denomination">DU DOMAINE DES PINS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.2173884120653 </north>
+			<south> 46.21636613255801 </south>
+			<east> 4.68538070760884 </east>
+			<west> 4.68459218955483 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.68538070760884,46.2172607058595,0 4.68531986925868,46.21694897880101,0 4.68525134402459,46.2168049835256,0 4.68504101815256,46.21636613255801,0 4.68489901010787,46.2166173665121,0 4.68473668122647,46.2169082613064,0 4.68459218955483,46.2169690362817,0 4.68460124733025,46.2172679302547,0 4.68460936237102,46.2173884120653,0 4.6851095007701,46.2173063361429,0 4.68538070760884,46.2172607058595,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.3828">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">690530000B0086</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHENAS</SimpleData>
+					<SimpleData name="Adresse">AU REMONT</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">GFA</SimpleData>
+					<SimpleData name="Denomination">DU DOMAINE DES PINS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.2172607058595 </north>
+			<south> 46.2159381134212 </south>
+			<east> 4.68625745385243 </east>
+			<west> 4.68504101815256 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.68625745385243,46.2165230172692,0 4.6862096680907,46.2164416731073,0 4.68614538933834,46.2162628488399,0 4.68607200330764,46.2161169445819,0 4.68599308502171,46.2160189488017,0 4.68595376612222,46.21598926856169,0 4.68590214654928,46.21596463435931,0 4.68582735448159,46.2159459278782,0 4.68577729036575,46.2159381134212,0 4.68560636743315,46.21594515019469,0 4.68530243225507,46.2162047290089,0 4.68506684437751,46.21631990493771,0 4.68504101815256,46.21636613255801,0 4.68525134402459,46.2168049835256,0 4.68531986925868,46.21694897880101,0 4.68538070760884,46.2172607058595,0 4.68555755680825,46.21723106447579,0 4.68611889541601,46.2171392503306,0 4.68625745385243,46.2165230172692,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

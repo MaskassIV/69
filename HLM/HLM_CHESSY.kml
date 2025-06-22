@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>CHESSY_HLM</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_5">
+		<name>CHESSY_HLM</name>
+		<Schema name="CHESSY_HLM" id="CHESSY_HLM.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="HLM">
+			<LineStyle>
+				<color>BFe451f5</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4Ce451f5</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.144">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69056000AE0350</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHESSY</SimpleData>
+					<SimpleData name="Adresse">236, RTE DE CHATILLON</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">IMMOBILIERE RHONE ALPES SA DHLM</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.88609607006241 </north>
+			<south> 45.8852966556004 </south>
+			<east> 4.62891738855366 </east>
+			<west> 4.6279843455704 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.62853513362175,45.8852966556004,0 4.62802650465712,45.8853543296588,0 4.6279843455704,45.8853591699908,0 4.62814658976462,45.88568675398371,0 4.62815935519707,45.8857128701068,0 4.62816141388164,45.88571707367191,0 4.62832663991626,45.88604947818769,0 4.6283498120435,45.88609607006241,0 4.62836143708296,45.88609229988491,0 4.62842917908897,45.886067185806,0 4.62846490074221,45.88605397161459,0 4.62849583120262,45.8860401058807,0 4.62850728475805,45.88603489706369,0 4.62855253542772,45.88601244867089,0 4.62855901442383,45.8860091128764,0 4.62862033158402,45.885976075145,0 4.62865091371142,45.88595915206,0 4.62867850149735,45.885941281352,0 4.62869896304872,45.8859266656962,0 4.62880684187519,45.8858500844947,0 4.62875945626944,45.8858264487295,0 4.62891738855366,45.8856761008002,0 4.62862561828123,45.88538659138799,0 4.62853513362175,45.8852966556004,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.818">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69056000AK0126</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHESSY</SimpleData>
+					<SimpleData name="Adresse">364, RTE DU BREUIL</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">IMMOBILIERE RHONE ALPES SA DHLM</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8880794789091 </north>
+			<south> 45.88742696891039 </south>
+			<east> 4.61794269144113 </east>
+			<west> 4.61728832790211 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.61761936173873,45.8874964794352,0 4.61758004886814,45.88742696891039,0 4.61728832790211,45.8875375129047,0 4.6173343271756,45.8876898806271,0 4.61736627178348,45.8876533063123,0 4.61736344560901,45.8876492936771,0 4.61736072458636,45.8876444689243,0 4.61735877972761,45.887639723136,0 4.61735733206381,45.88763433975781,0 4.61735683702186,45.8876306540462,0 4.61735669176718,45.88762570237671,0 4.61735700722145,45.8876232660242,0 4.61735728834277,45.88761965927699,0 4.61735821934779,45.887616223369,0 4.61735904256033,45.8876135095482,0 4.61736000261612,45.8876110639741,0 4.61736133886883,45.88760825274559,0 4.61736305660037,45.8876052559234,0 4.61736515316966,45.8876019834771,0 4.61736726558476,45.887599251213,0 4.61737101698939,45.8875952345475,0 4.61737390292571,45.88759249121729,0 4.61737742818114,45.8875895586045,0 4.61738185323713,45.8875865230509,0 4.61738742801092,45.8875831107766,0 4.61739378686983,45.8875800475573,0 4.6174001615744,45.88757752451981,0 4.6174073203642,45.8875753505371,0 4.6174126980397,45.8875740126484,0 4.61741847039896,45.88757293931741,0 4.61742386656167,45.8875722316406,0 4.61743004152792,45.887571692958,0 4.61743416433463,45.88757154390679,0 4.61743777674259,45.8875715822939,0 4.6175210276573,45.8875473337844,0 4.61754585089627,45.8875889503816,0 4.61748638630489,45.8876062836262,0 4.61775563607493,45.88805736535801,0 4.61775698604698,45.8880594176083,0 4.61775846494052,45.8880614680138,0 4.61776059900779,45.8880638693168,0 4.61776271986685,45.888065820468,0 4.61776509856884,45.8880677679296,0 4.61776720886147,45.8880693589593,0 4.61777036373388,45.88807138538241,0 4.61777572876232,45.8880740106565,0 4.61778159891008,45.88807626842971,0 4.61779017112466,45.888078307401,0 4.61779574116291,45.8880791283776,0 4.61780271612824,45.8880794789091,0 4.61780928583711,45.8880792047623,0 4.6178146846861,45.8880785870972,0 4.61782326958547,45.888076662886,0 4.61794269144113,45.8880411783578,0 4.61791217824792,45.88799027617981,0 4.61787340200485,45.88792589195119,0 4.61771435584304,45.8876614760647,0 4.61769902706499,45.8876357557773,0 4.61768980613418,45.8876203959972,0 4.61761936173873,45.8874964794352,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.847">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69056000AK0128</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHESSY</SimpleData>
+					<SimpleData name="Adresse">364, RTE DU BREUIL</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">IMMOBILIERE RHONE ALPES SA DHLM</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.88817774051681 </north>
+			<south> 45.8876885147767 </south>
+			<east> 4.61770047718844 </east>
+			<west> 4.61733661174498 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.61766906092992,45.8881221922606,0 4.61767595401218,45.8881197518591,0 4.61767926106539,45.8881181733815,0 4.6176831942351,45.888115955468,0 4.61768635387549,45.8881137486224,0 4.61768912939268,45.8881116373412,0 4.6176920153402,45.8881088940028,0 4.61769376476817,45.8881069775398,0 4.61769537470826,45.8881047028,0 4.61769710036183,45.88810197606381,0 4.6176981998989,45.88809988876341,0 4.61769927566171,45.88809699119,0 4.61769995937688,45.8880939190899,0 4.61770028802655,45.8880919328882,0 4.61770047718844,45.88808958840971,0 4.61770025845337,45.8880865292226,0 4.61769991872163,45.8880837419713,0 4.61769905537948,45.8880806920077,0 4.61769767371019,45.8880775593926,0 4.61769657629959,45.8880753233915,0 4.61747141558315,45.8876982772451,0 4.61744868760066,45.8876885147767,0 4.61742160718209,45.8877194353019,0 4.617404793027,45.88772661109701,0 4.61733661174498,45.8876974136683,0 4.61736590595424,45.88779471852071,0 4.61738089256664,45.8878439515305,0 4.61738660402311,45.88786278413121,0 4.61740945252911,45.88793820456139,0 4.61742916638172,45.8880034921339,0 4.61744259234993,45.8880478837849,0 4.61746245369082,45.8881137997198,0 4.61748187020726,45.88817774051681,0 4.61766906092992,45.8881221922606,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

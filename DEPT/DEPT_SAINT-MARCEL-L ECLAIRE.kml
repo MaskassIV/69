@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>SAINT-MARCEL-L ECLAIRE_DEPT</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_3">
+		<name>SAINT-MARCEL-L ECLAIRE_DEPT</name>
+		<Schema name="SAINT-MARCEL-L ECLAIRE_DEPT" id="SAINT-MARCEL-L ECLAIRE_DEPT.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="DEPT">
+			<LineStyle>
+				<color>BF63f16c</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C63f16c</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3575">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">692250000B0319</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT-MARCEL-L ECLAIRE</SimpleData>
+					<SimpleData name="Adresse">EN CHALOSSET</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.883826033696 </north>
+			<south> 45.8831093480828 </south>
+			<east> 4.46029334382246 </east>
+			<west> 4.4599291409797 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.46009448502164,45.88364090750739,0 4.46029334382246,45.883826033696,0 4.46007507388016,45.8834386929105,0 4.46002158381201,45.8833033861419,0 4.46001318012131,45.8832490055712,0 4.4600327572465,45.8832188512768,0 4.46005971075336,45.8831994094675,0 4.46009723765395,45.8831799211554,0 4.46013889440121,45.8831654231094,0 4.46018364746867,45.88315097511929,0 4.46020071685741,45.883147872576,0 4.46019892292738,45.8831093480828,0 4.46015273037716,45.8831230040901,0 4.46011075472771,45.8831108471286,0 4.46008061214292,45.8831218640636,0 4.46002940104288,45.8831456720755,0 4.45998308132888,45.8831740101898,0 4.45994279654598,45.8832062331924,0 4.45993420595778,45.8832324628754,0 4.4599291409797,45.88327008523599,0 4.45993194459481,45.8833077861104,0 4.45996984469018,45.8833949295469,0 4.46009448502164,45.88364090750739,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6116">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">692250000A0774</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT-MARCEL-L ECLAIRE</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8767490357937 </north>
+			<south> 45.8762418529668 </south>
+			<east> 4.43474473477161 </east>
+			<west> 4.43412621383831 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.43417749555385,45.87630487763119,0 4.43422504174944,45.8763630862106,0 4.43440846392919,45.8765887109663,0 4.43445192249854,45.8766880405518,0 4.43446697060488,45.8767113563153,0 4.43448628200062,45.8767250711805,0 4.43450770509006,45.8767356970649,0 4.43453330228211,45.8767432077934,0 4.43457084743251,45.8767490357937,0 4.43461698225903,45.8767430464333,0 4.43463796504625,45.8767367458322,0 4.434661089953,45.8767285266935,0 4.43468531398415,45.8767229054584,0 4.43474473477161,45.87672701472329,0 4.43466975478784,45.8767047298628,0 4.43463335821137,45.8766885299478,0 4.43459974125675,45.8766701332056,0 4.4345683859812,45.8766494561482,0 4.4345622058705,45.8766448512483,0 4.43433323627221,45.87643790758,0 4.43412621383831,45.8762418529668,0 4.43417749555385,45.87630487763119,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6118">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">692250000A0779</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT-MARCEL-L ECLAIRE</SimpleData>
+					<SimpleData name="Adresse">64, RUE CENTRALE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8765312917977 </north>
+			<south> 45.8761974832457 </south>
+			<east> 4.43456840677565 </east>
+			<west> 4.43424418290476 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.43424418290476,45.8762314398446,0 4.43442776495442,45.8764136516454,0 4.43451198208911,45.8764886870544,0 4.43456840677565,45.8765312917977,0 4.43454058386107,45.8764877836891,0 4.43441535478248,45.8763281581831,0 4.43438851166721,45.8762876097213,0 4.43434374558801,45.8761974832457,0 4.43424418290476,45.8762314398446,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

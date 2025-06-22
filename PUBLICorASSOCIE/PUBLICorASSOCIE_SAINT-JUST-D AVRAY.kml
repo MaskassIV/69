@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>SAINT-JUST-D AVRAY_PUBLICorASSOCIE</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_9">
+		<name>SAINT-JUST-D AVRAY_PUBLICorASSOCIE</name>
+		<Schema name="SAINT-JUST-D AVRAY_PUBLICorASSOCIE" id="SAINT-JUST-D AVRAY_PUBLICorASSOCIE.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="PUBLICorASSOCIE">
+			<LineStyle>
+				<color>BFdb2105</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4Cdb2105</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.120">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">692170000D0142</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT-JUST-D AVRAY</SimpleData>
+					<SimpleData name="Adresse">LE BRANLE</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SOCIETE NATIONALE SNCF</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0037207855891 </north>
+			<south> 46.0034062373788 </south>
+			<east> 4.49598026059173 </east>
+			<west> 4.49591252297973 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.49596964028398,46.0034062373788,0 4.49591252297973,46.0035301109209,0 4.49591277374231,46.003548841209,0 4.49591749379494,46.0036844173495,0 4.49598026059173,46.0037207855891,0 4.49596964028398,46.0034062373788,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.3772">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">692170000D0139</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT-JUST-D AVRAY</SimpleData>
+					<SimpleData name="Adresse">LONGEVAL</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SOCIETE NATIONALE SNCF</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0092102390398 </north>
+			<south> 46.0037959574873 </south>
+			<east> 4.49647984108706 </east>
+			<west> 4.49483994324129 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.49591648448337,46.0040275797715,0 4.49596770362505,46.0040575257187,0 4.4959232347792,46.0046323697274,0 4.49601634577741,46.0055660189459,0 4.49597236838912,46.0057121452639,0 4.49606586702183,46.00616087734321,0 4.49607135328241,46.0063816452086,0 4.49604591560484,46.0065346419066,0 4.49587951887915,46.0073550828018,0 4.49581726462136,46.0076229485107,0 4.49553444327369,46.0080359389023,0 4.49555698464128,46.0082042437344,0 4.49529191755074,46.0086571682564,0 4.49510554621408,46.0090809533361,0 4.49495678869556,46.00906724473791,0 4.49486628691961,46.0090996914386,0 4.49483994324129,46.00918145806019,0 4.49485662370021,46.0092102390398,0 4.49489758266503,46.00912881998399,0 4.49491216280452,46.009118360174,0 4.49495339668357,46.00910889968259,0 4.49513554603861,46.00911946571389,0 4.49513710388697,46.0091197153536,0 4.49517619888486,46.0091266748983,0 4.49528578083862,46.009130452624,0 4.49534685558848,46.0091328889765,0 4.49549738458761,46.0091356757767,0 4.49559638754842,46.0091306763585,0 4.49560932457153,46.0090312535665,0 4.49562823657574,46.0089519265456,0 4.49565532047388,46.0088736625017,0 4.49565689493293,46.00886976890809,0 4.49605849808818,46.0079527352462,0 4.49610311006442,46.0079249464471,0 4.49614192919704,46.0078932712451,0 4.49617194024057,46.0078609017503,0 4.49624138884825,46.00764851116319,0 4.49630304788981,46.0074348724145,0 4.4963146540192,46.007391127498,0 4.49637077267981,46.0071686453983,0 4.49641885331101,46.0069452787046,0 4.49645863760177,46.0067210308404,0 4.49647984108706,46.0065787176765,0 4.49637880676331,46.0061191875017,0 4.49637304087078,46.00605450664,0 4.49637515628942,46.0059897216895,0 4.49638542118924,46.00592518936921,0 4.49640398433311,46.0058616282348,0 4.49641728552742,46.0058279482369,0 4.49639420317527,46.0049555194943,0 4.49635802364596,46.004262043517,0 4.49639361605355,46.0042591416659,0 4.49636176388444,46.00404790869,0 4.496338041548,46.0038362080737,0 4.49633525394885,46.0038049922003,0 4.49630613822078,46.0038036654921,0 4.49624998370598,46.0038013448858,0 4.49613928135758,46.00379875387669,0 4.49606827905443,46.0037969895134,0 4.49602366220996,46.0037959574873,0 4.49592207321212,46.0038908768003,0 4.49591878122174,46.003988461072,0 4.49591648448337,46.0040275797715,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.3860">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">692170000D0140</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT-JUST-D AVRAY</SimpleData>
+					<SimpleData name="Adresse">LONGEVAL</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SOCIETE NATIONALE SNCF</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0058279482369 </north>
+			<south> 46.0042591416659 </south>
+			<east> 4.49664614252654 </east>
+			<west> 4.49635802364596 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.49639361605355,46.0042591416659,0 4.49635802364596,46.004262043517,0 4.49639420317527,46.0049555194943,0 4.49641728552742,46.0058279482369,0 4.49649088437873,46.00567323454109,0 4.49655693775887,46.005516729085,0 4.49659142779585,46.0054257577908,0 4.49661861277922,46.0053038104195,0 4.49663763357014,46.0051810702316,0 4.49664614252654,46.0050947652507,0 4.49663397335626,46.00505601775101,0 4.4966138379292,46.00501899665689,0 4.49661356728522,46.005018549905,0 4.49646548591918,46.0047679625205,0 4.49644433191638,46.00471249144761,0 4.49639361605355,46.0042591416659,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.3905">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">692170000D0141</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT-JUST-D AVRAY</SimpleData>
+					<SimpleData name="Adresse">LE BRANLE</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SOCIETE NATIONALE SNCF</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0039865993414 </north>
+			<south> 46.0027415941331 </south>
+			<east> 4.49589909499105 </east>
+			<west> 4.49548273277275 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.49585514290493,46.0039865993414,0 4.49586392642337,46.003796265294,0 4.49580604429854,46.0036685962727,0 4.49580455804277,46.0034998333777,0 4.49589909499105,46.00330242280641,0 4.49585809628616,46.0028259778749,0 4.49583706228911,46.0027415941331,0 4.49571833031581,46.0031852025675,0 4.49562216284175,46.0033892092795,0 4.49551806230716,46.0035914292439,0 4.49548273277275,46.0036562923302,0 4.49561409637692,46.0038389221084,0 4.49585514290493,46.0039865993414,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.4007">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">692170000D0143</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT-JUST-D AVRAY</SimpleData>
+					<SimpleData name="Adresse">LE BRANLE</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SOCIETE NATIONALE SNCF</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.00376425337151 </north>
+			<south> 46.0003610653988 </south>
+			<east> 4.49700722155841 </east>
+			<west> 4.49591188369392 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.4963360338658,46.0008207552274,0 4.49617878190855,46.0012637922432,0 4.49616981283755,46.0015423028105,0 4.49600071227736,46.0019346991256,0 4.49595543116238,46.00246533182099,0 4.49591188369392,46.0025558821381,0 4.49600832333498,46.0028753315591,0 4.49600960023711,46.0033168152045,0 4.49596964028398,46.0034062373788,0 4.49598026059173,46.0037207855891,0 4.49603016059036,46.0037497582038,0 4.49606445882608,46.0037515569407,0 4.49613266281872,46.00375497943539,0 4.49616754639845,46.00375929224229,0 4.49624199590441,46.00376425337151,0 4.49631667630713,46.0037634472177,0 4.49633096608347,46.0035427784191,0 4.4963515583106,46.0034730660354,0 4.49638007059058,46.0034046900878,0 4.49638792038898,46.0033891852278,0 4.49650187940608,46.00324069330261,0 4.49653683213168,46.00317628518291,0 4.49655826948858,46.0031234038211,0 4.49656419698859,46.0029802116101,0 4.49631836931454,46.0029655355771,0 4.49633802935587,46.0024861280421,0 4.49640827609783,46.0020039808378,0 4.49640604566455,46.0019837455845,0 4.49649450280213,46.0015059511091,0 4.49655334937135,46.00122245849591,0 4.49674642036143,46.0006092644791,0 4.49700722155841,46.0007186705292,0 4.49691810650777,46.0006542804352,0 4.49682328837951,46.0005940185679,0 4.49672290125793,46.0005380632724,0 4.49666694663062,46.0005097113746,0 4.49667818607084,46.00049055909061,0 4.49665425801695,46.0004803375508,0 4.4966039057218,46.0004583963202,0 4.49657068531526,46.0004438843138,0 4.4965608785691,46.0004586945216,0 4.49626072470042,46.0003610653988,0 4.49645935698853,46.0004893068321,0 4.49644463055011,46.0005180520851,0 4.4963360338658,46.0008207552274,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.10633">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69217000AB0336</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT-JUST-D AVRAY</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SDIS</SimpleData>
+					<SimpleData name="Denomination">SERVICE DEPARTEMENTAL-METROPOLITAIN DINCENDIE ET DE SECOURS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.00262350498349 </north>
+			<south> 46.0024502166671 </south>
+			<east> 4.44836756662418 </east>
+			<west> 4.4481546043639 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.44836756662418,46.0025242110429,0 4.44828680593293,46.00247561799501,0 4.44824478108357,46.0024502166671,0 4.44820010901268,46.00248627306101,0 4.44822690317178,46.0025025924675,0 4.44819665357616,46.0025268461954,0 4.44819219327755,46.0025390618988,0 4.4481546043639,46.00256926361331,0 4.44824443121004,46.00262350498349,0 4.44836756662418,46.0025242110429,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

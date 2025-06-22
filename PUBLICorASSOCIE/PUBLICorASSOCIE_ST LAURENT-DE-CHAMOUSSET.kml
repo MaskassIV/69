@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>ST LAURENT-DE-CHAMOUSSET_PUBLICorASSOCIE</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_9">
+		<name>ST LAURENT-DE-CHAMOUSSET_PUBLICorASSOCIE</name>
+		<Schema name="ST LAURENT-DE-CHAMOUSSET_PUBLICorASSOCIE" id="ST LAURENT-DE-CHAMOUSSET_PUBLICorASSOCIE.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="PUBLICorASSOCIE">
+			<LineStyle>
+				<color>BFdb2105</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4Cdb2105</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.3010">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">692200000F1222</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ST LAURENT-DE-CHAMOUSSET</SimpleData>
+					<SimpleData name="Adresse">CHEZ GAREL</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">CCOM</SimpleData>
+					<SimpleData name="Denomination">COMMUNAUTE DE COMMUNES DE CHAMOUSSET EN LYONNAIS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.74190606377609 </north>
+			<south> 45.7392865527657 </south>
+			<east> 4.45765417747259 </east>
+			<west> 4.45581036849456 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.45765417747259,45.73941366124609,0 4.45760998833168,45.7393914462764,0 4.4574124869482,45.7392865527657,0 4.45738584641409,45.73929572338169,0 4.45737415670699,45.7393060517138,0 4.45729190814256,45.739367277557,0 4.4570364962078,45.7395540388137,0 4.45695415244391,45.7396067996085,0 4.45688651835392,45.739641807789,0 4.45680704053801,45.73967642856401,0 4.45672379345575,45.7397095668882,0 4.45662613812418,45.7397426210883,0 4.45646868403324,45.7397907678188,0 4.45627201672864,45.7398444643639,0 4.45613439828972,45.73987902495741,0 4.45596975814603,45.7399180772465,0 4.45594468903628,45.73992344453399,0 4.45591361983293,45.7399256469825,0 4.4558262907615,45.7399991860369,0 4.45585596420783,45.7400221295065,0 4.45581036849456,45.74005883388821,0 4.4559275433147,45.7402150231562,0 4.45595882887389,45.74026010154461,0 4.45594630326023,45.7403315039506,0 4.45593411356761,45.7404010106723,0 4.45591016306187,45.7405367762676,0 4.45586258725036,45.74083532246181,0 4.45584262145633,45.7408537731842,0 4.45583784270435,45.7408725682079,0 4.45583148653999,45.7410268399479,0 4.45583042224871,45.7410889978926,0 4.45583522027048,45.7411735061017,0 4.45584215957111,45.7412318680864,0 4.45585129612434,45.7412955154821,0 4.45587977653872,45.7414098893865,0 4.45589066811391,45.7414522590013,0 4.45591519699696,45.741514266632,0 4.45595917533714,45.7416212352924,0 4.45599613704652,45.7417010951898,0 4.45607263461855,45.7418413278741,0 4.45610906964848,45.74190606377609,0 4.45614943631712,45.7418807748858,0 4.45638789622856,45.7417140488362,0 4.45665942036016,45.741664789027,0 4.45681441105343,45.7414595120865,0 4.45699551639087,45.7412397574289,0 4.45704544751528,45.7411869651392,0 4.4570564303828,45.7411253995126,0 4.45708209533313,45.7410401374361,0 4.45709772717403,45.7409939126901,0 4.45711708553545,45.7409475497222,0 4.45713666456143,45.7409095598595,0 4.45715883421068,45.74087225702799,0 4.45718785002158,45.74083117309121,0 4.4572386688084,45.7407779189184,0 4.45728009857123,45.7407246960003,0 4.45731127248477,45.7406727764478,0 4.45732979930416,45.7406290360462,0 4.45734011021145,45.740595669134,0 4.45734396391703,45.7405564414467,0 4.45733915833741,45.7405058875362,0 4.45732160680454,45.7403963262509,0 4.45731526512635,45.74032165501701,0 4.45731292400881,45.7402718798321,0 4.45731803757281,45.7402023743294,0 4.45732409028129,45.7401489781608,0 4.45733193948658,45.7401100590916,0 4.4573478189429,45.74005860738981,0 4.45736649588609,45.7400108121563,0 4.45739317455154,45.73994940388369,0 4.45743678795654,45.7398570648615,0 4.45751420100855,45.7397099802792,0 4.45758995397488,45.73956336742,0 4.45763258122884,45.73946779875649,0 4.45765417747259,45.73941366124609,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.3011">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">692200000F1223</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ST LAURENT-DE-CHAMOUSSET</SimpleData>
+					<SimpleData name="Adresse">CHEZ GAREL</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">CCOM</SimpleData>
+					<SimpleData name="Denomination">COMMUNAUTE DE COMMUNES DE CHAMOUSSET EN LYONNAIS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.74078671366749 </north>
+			<south> 45.74059597386989 </south>
+			<east> 4.45779216391817 </east>
+			<west> 4.45747589507676 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.45747589507676,45.7407452217929,0 4.45748666003449,45.7407485951488,0 4.45751563827187,45.7407548853248,0 4.4576800907985,45.74078671366749,0 4.45772159893401,45.7407608690555,0 4.45779216391817,45.740710151337,0 4.45770738778107,45.7406755819411,0 4.4575325433772,45.74059597386989,0 4.45752385552092,45.7406128380919,0 4.45751688115431,45.7406410282408,0 4.45748646186562,45.7407264419425,0 4.45747589507676,45.7407452217929,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.3186">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">692200000F1261</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ST LAURENT-DE-CHAMOUSSET</SimpleData>
+					<SimpleData name="Adresse">CHEZ GAREL</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">CCOM</SimpleData>
+					<SimpleData name="Denomination">COMMUNAUTE DE COMMUNES DE CHAMOUSSET EN LYONNAIS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7415302950152 </north>
+			<south> 45.7407452217929 </south>
+			<east> 4.45748666003449 </east>
+			<west> 4.45718441136001 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.45744901002596,45.7407939337143,0 4.45740120580489,45.7408493105598,0 4.45734697064881,45.74092422434461,0 4.4573218365658,45.7409612953352,0 4.45729123574436,45.74102032254629,0 4.45727073211665,45.7410671506674,0 4.45725581409129,45.7411209315981,0 4.45724273484863,45.74119567369711,0 4.45722710072932,45.7412954866299,0 4.45721281690556,45.7413928503799,0 4.45719916559625,45.7414458944196,0 4.45718441136001,45.7415302950152,0 4.45731769444931,45.7415263209406,0 4.45736967629859,45.7414390975169,0 4.45742693747487,45.7413472125632,0 4.45746679598856,45.7412929291171,0 4.45742078036823,45.7412551565713,0 4.45730435607164,45.7411569603396,0 4.45737607552284,45.7410377792585,0 4.45739481128222,45.74100196178609,0 4.45742995325568,45.7409102726476,0 4.45746531511647,45.74080741270699,0 4.45748666003449,45.7407485951488,0 4.45747589507676,45.7407452217929,0 4.45744901002596,45.7407939337143,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.3277">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">692200000F1285</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ST LAURENT-DE-CHAMOUSSET</SimpleData>
+					<SimpleData name="Adresse">CHEZ GAREL</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">CCOM</SimpleData>
+					<SimpleData name="Denomination">COMMUNAUTE DE COMMUNES DE CHAMOUSSET EN LYONNAIS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7415263209406 </north>
+			<south> 45.7410888171664 </south>
+			<east> 4.45808191425772 </east>
+			<west> 4.45731769444931 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.45808191425772,45.7410888171664,0 4.4580297971179,45.7410928234471,0 4.45783681826905,45.7411060362081,0 4.45768872466794,45.74117757032089,0 4.45751170753872,45.7412644287383,0 4.45746679598856,45.7412929291171,0 4.45742693747487,45.7413472125632,0 4.45736967629859,45.7414390975169,0 4.45731769444931,45.7415263209406,0 4.45742578914688,45.7415232126547,0 4.4577429716151,45.7413128658352,0 4.45808191425772,45.7410888171664,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.3679">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">692200000F1363</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ST LAURENT-DE-CHAMOUSSET</SimpleData>
+					<SimpleData name="Adresse">CHEZ GAREL</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">CCOM</SimpleData>
+					<SimpleData name="Denomination">COMMUNAUTE DE COMMUNES DE CHAMOUSSET EN LYONNAIS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7407991416314 </north>
+			<south> 45.74050910630271 </south>
+			<east> 4.45812824409655 </east>
+			<west> 4.45752214967772 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.45752214967772,45.74050910630271,0 4.4575325433772,45.74059597386989,0 4.45770738778107,45.7406755819411,0 4.45779216391817,45.740710151337,0 4.45790679915814,45.7407551423066,0 4.45803542876815,45.7407991416314,0 4.4580546736023,45.7407631373325,0 4.45810781529848,45.7406468078432,0 4.45812399067225,45.7406114736721,0 4.45812398829757,45.7406113836387,0 4.45812824409655,45.740602052002,0 4.45765945197388,45.7405357016334,0 4.45752214967772,45.74050910630271,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.4224">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">692200000F1471</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ST LAURENT-DE-CHAMOUSSET</SimpleData>
+					<SimpleData name="Adresse">BOIS DE LA GONDOLLIERE</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">CCOM</SimpleData>
+					<SimpleData name="Denomination">COMMUNAUTE DE COMMUNES DE CHAMOUSSET EN LYONNAIS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7439284301349 </north>
+			<south> 45.74341908312301 </south>
+			<east> 4.44989868829498 </east>
+			<west> 4.44949133383134 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.44954941457815,45.74341908312301,0 4.44949133383134,45.7434459482596,0 4.44949719007174,45.7434534383537,0 4.44951569670187,45.7434773376014,0 4.44961918164122,45.74360732055629,0 4.44973147404505,45.74375430234371,0 4.4498306055422,45.74388010808261,0 4.44986891946652,45.7439284301349,0 4.44989868829498,45.74390598171339,0 4.44989281069948,45.74389768133751,0 4.44957593405868,45.7434542274153,0 4.449573536817,45.7434511059935,0 4.44954941457815,45.74341908312301,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.4569">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">692200000F1549</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ST LAURENT-DE-CHAMOUSSET</SimpleData>
+					<SimpleData name="Adresse">CHEZ GAREL</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">CCOM</SimpleData>
+					<SimpleData name="Denomination">COMMUNAUTE DE COMMUNES DE CHAMOUSSET EN LYONNAIS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7411060362081 </north>
+			<south> 45.7407991416314 </south>
+			<east> 4.45840691328897 </east>
+			<west> 4.45783681826905 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.45794621458069,45.7409133256377,0 4.45793723913312,45.74092415931611,0 4.45789333790525,45.7409811971292,0 4.45787402640996,45.7410146804655,0 4.45785405223181,45.7410571787767,0 4.45784560420019,45.7410831363983,0 4.45783681826905,45.7411060362081,0 4.4580297971179,45.7410928234471,0 4.45808191425772,45.7410888171664,0 4.45806401914753,45.74106383061359,0 4.45831628379729,45.7408844029556,0 4.45833955571208,45.7409084192884,0 4.45834034858737,45.74090921961101,0 4.45840436775044,45.740888307321,0 4.45840691328897,45.7408872836922,0 4.45803542876815,45.7407991416314,0 4.45794621458069,45.7409133256377,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.4607">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">692200000F1551</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ST LAURENT-DE-CHAMOUSSET</SimpleData>
+					<SimpleData name="Adresse">CHEZ GAREL</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">CCOM</SimpleData>
+					<SimpleData name="Denomination">COMMUNAUTE DE COMMUNES DE CHAMOUSSET EN LYONNAIS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7408872836922 </north>
+			<south> 45.740602052002 </south>
+			<east> 4.45857567018873 </east>
+			<west> 4.45803542876815 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.45810781529848,45.7406468078432,0 4.4580546736023,45.7407631373325,0 4.45803542876815,45.7407991416314,0 4.45840691328897,45.7408872836922,0 4.45857567018873,45.74083358421889,0 4.45844629310865,45.7406345047628,0 4.45812824409655,45.740602052002,0 4.45812398829757,45.7406113836387,0 4.45812399067225,45.7406114736721,0 4.45810781529848,45.7406468078432,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.4609">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">692200000F1554</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ST LAURENT-DE-CHAMOUSSET</SimpleData>
+					<SimpleData name="Adresse">BOIS DE LA GONDOLLIERE</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">CCOM</SimpleData>
+					<SimpleData name="Denomination">COMMUNAUTE DE COMMUNES DE CHAMOUSSET EN LYONNAIS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7404010106723 </north>
+			<south> 45.7400303771743 </south>
+			<east> 4.45595882887389 </east>
+			<west> 4.45576563039019 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.45593411356761,45.7404010106723,0 4.45594630326023,45.7403315039506,0 4.45595882887389,45.74026010154461,0 4.4559275433147,45.7402150231562,0 4.45581036849456,45.74005883388821,0 4.45578916774713,45.7400303771743,0 4.45576563039019,45.74004995476591,0 4.45593411356761,45.7404010106723,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.12787">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">692200000F0449</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ST LAURENT-DE-CHAMOUSSET</SimpleData>
+					<SimpleData name="Adresse">CHEZ GAREL</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">CCOM</SimpleData>
+					<SimpleData name="Denomination">COMMUNAUTE DE COMMUNES DE CHAMOUSSET EN LYONNAIS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7412929291171 </north>
+			<south> 45.740710151337 </south>
+			<east> 4.45803542876815 </east>
+			<west> 4.45730435607164 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.45783681826905,45.7411060362081,0 4.45784560420019,45.7410831363983,0 4.45785405223181,45.7410571787767,0 4.45787402640996,45.7410146804655,0 4.45789333790525,45.7409811971292,0 4.45793723913312,45.74092415931611,0 4.45794621458069,45.7409133256377,0 4.45803542876815,45.7407991416314,0 4.45790679915814,45.7407551423066,0 4.45779216391817,45.740710151337,0 4.45772159893401,45.7407608690555,0 4.4576800907985,45.74078671366749,0 4.45751563827187,45.7407548853248,0 4.45748666003449,45.7407485951488,0 4.45746531511647,45.74080741270699,0 4.45742995325568,45.7409102726476,0 4.45739481128222,45.74100196178609,0 4.45737607552284,45.7410377792585,0 4.45730435607164,45.7411569603396,0 4.45742078036823,45.7412551565713,0 4.45746679598856,45.7412929291171,0 4.45751170753872,45.7412644287383,0 4.45768872466794,45.74117757032089,0 4.45783681826905,45.7411060362081,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.13242">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">692200000E0484</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ST LAURENT-DE-CHAMOUSSET</SimpleData>
+					<SimpleData name="Adresse">BOIS DE LA GONDOLLIERE</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">CCOM</SimpleData>
+					<SimpleData name="Denomination">COMMUNAUTE DE COMMUNES DE CHAMOUSSET EN LYONNAIS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7442472690934 </north>
+			<south> 45.7435339640762 </south>
+			<east> 4.44974177785478 </east>
+			<west> 4.44862476155739 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.44974177785478,45.7438823308765,0 4.44969198030542,45.7438179449042,0 4.44963907183279,45.74374774474709,0 4.44958897484775,45.7436817414312,0 4.44954302952689,45.74362198920329,0 4.44949920548192,45.7435646414174,0 4.44947550441647,45.7435339640762,0 4.44862476155739,45.74390839429871,0 4.44863366968782,45.7439194477885,0 4.44869386543142,45.7439928871501,0 4.4487623171235,45.7440770280855,0 4.44883912983555,45.7441709685914,0 4.44888765847726,45.74423113823179,0 4.44890094473633,45.7442472690934,0 4.44896450411928,45.7442183524711,0 4.44906981181917,45.74417250770809,0 4.44919880361383,45.7441174421435,0 4.44931621848392,45.7440672986096,0 4.44939901525519,45.74403128962851,0 4.44949098310455,45.7439918303346,0 4.44959055529813,45.7439480402057,0 4.44970742911877,45.74389691250751,0 4.44974177785478,45.7438823308765,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

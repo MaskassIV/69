@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>LYON 4EME_region</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_2">
+		<name>LYON 4EME_region</name>
+		<Schema name="LYON 4EME_region" id="LYON 4EME_region.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="region">
+			<LineStyle>
+				<color>BF318006</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C318006</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_2.22">
+		<styleUrl>#region</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_2.schema">
+					<SimpleData name="Numero de Parcelle">69384000AT0126</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LYON 4EME</SimpleData>
+					<SimpleData name="Adresse">RUE DE CUIRE</SimpleData>
+					<SimpleData name="Groupe de personne">Region</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COLL</SimpleData>
+					<SimpleData name="Denomination">REGION AUVERGNE-RHONE-ALPES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.77687473360909 </north>
+			<south> 45.7768369874943 </south>
+			<east> 4.83014504905065 </east>
+			<west> 4.83007241561426 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.83014504905065,45.7768369874943,0 4.83007241561426,45.7768437501981,0 4.83007807606277,45.77687473360909,0 4.83013248535337,45.776869617614,0 4.83014504905065,45.7768369874943,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_2.247">
+		<styleUrl>#region</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_2.schema">
+					<SimpleData name="Numero de Parcelle">69384000AT0147</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LYON 4EME</SimpleData>
+					<SimpleData name="Adresse">24, BD DES CANUTS</SimpleData>
+					<SimpleData name="Groupe de personne">Region</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COLL</SimpleData>
+					<SimpleData name="Denomination">REGION AUVERGNE-RHONE-ALPES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7769680168964 </north>
+			<south> 45.7765129918898 </south>
+			<east> 4.83026999381598 </east>
+			<west> 4.82910247982381 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.83013165634999,45.7768717928162,0 4.83013248535337,45.776869617614,0 4.83007807606277,45.77687473360909,0 4.83007241561426,45.7768437501981,0 4.83014504905065,45.7768369874943,0 4.83026999381598,45.77651312941359,0 4.8300013230189,45.7765200996712,0 4.83000083012153,45.7765129918898,0 4.82998991842631,45.7765138894609,0 4.82940061984604,45.7765681224911,0 4.82939856734908,45.7765683359176,0 4.82910247982381,45.7769680168964,0 4.82945049979457,45.77693544246709,0 4.82954392179754,45.7769267217508,0 4.82973294687782,45.7769090645673,0 4.83013165634999,45.7768717928162,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_2.255">
+		<styleUrl>#region</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_2.schema">
+					<SimpleData name="Numero de Parcelle">69384000AT0199</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LYON 4EME</SimpleData>
+					<SimpleData name="Adresse">26, BD DES CANUTS</SimpleData>
+					<SimpleData name="Groupe de personne">Region</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COLL</SimpleData>
+					<SimpleData name="Denomination">REGION AUVERGNE-RHONE-ALPES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7775603334516 </north>
+			<south> 45.7771066857608 </south>
+			<east> 4.83002547180411 </east>
+			<west> 4.82871254852182 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.83002547180411,45.77714805804749,0 4.82998867944616,45.77714874488461,0 4.82943917050292,45.77722692258639,0 4.82941073115689,45.7771066857608,0 4.82925341452221,45.77712175662301,0 4.82897114246603,45.7771495716337,0 4.82896306104012,45.7771504232228,0 4.82888732784829,45.7772463176889,0 4.82876422613457,45.7774044998109,0 4.82871254852182,45.77747271209331,0 4.8287599872044,45.7774903180972,0 4.82880065488765,45.77748614607231,0 4.82884299211058,45.77748185689741,0 4.8289075212185,45.7774752263716,0 4.82900501649713,45.7774650889935,0 4.82903850028299,45.7774616638505,0 4.82912907194811,45.7774523591883,0 4.82924453423594,45.7774405792244,0 4.8293136799482,45.77743342325061,0 4.82940527480383,45.77742392162949,0 4.82945735696991,45.77741848341,0 4.82956113828584,45.7774077031823,0 4.82957524866683,45.77740621334739,0 4.8295816635603,45.7774055688855,0 4.82960584630882,45.7775216412677,0 4.82961382147689,45.7775603334516,0 4.82988191035302,45.7775317560889,0 4.83001646045055,45.7771713530024,0 4.83002547180411,45.77714805804749,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_2.263">
+		<styleUrl>#region</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_2.schema">
+					<SimpleData name="Numero de Parcelle">69384000AT0006</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LYON 4EME</SimpleData>
+					<SimpleData name="Adresse">15, RUE DE CUIRE</SimpleData>
+					<SimpleData name="Groupe de personne">Region</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COLL</SimpleData>
+					<SimpleData name="Denomination">REGION AUVERGNE-RHONE-ALPES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.77722692258639 </north>
+			<south> 45.7768717928162 </south>
+			<east> 4.83013165634999 </east>
+			<west> 4.82896306104012 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.83002547180411,45.77714805804749,0 4.83013165634999,45.7768717928162,0 4.82973294687782,45.7769090645673,0 4.82954392179754,45.7769267217508,0 4.82945049979457,45.77693544246709,0 4.82910247982381,45.7769680168964,0 4.82896885746623,45.7771427631199,0 4.82896306104012,45.7771504232228,0 4.82897114246603,45.7771495716337,0 4.82925341452221,45.77712175662301,0 4.82941073115689,45.7771066857608,0 4.82943917050292,45.77722692258639,0 4.82998867944616,45.77714874488461,0 4.83002547180411,45.77714805804749,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

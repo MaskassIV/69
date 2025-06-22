@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>LACENAS_PMRSEM</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_6">
+		<name>LACENAS_PMRSEM</name>
+		<Schema name="LACENAS_PMRSEM" id="LACENAS_PMRSEM.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="PMRSEM">
+			<LineStyle>
+				<color>BF00faff</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C00faff</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.122">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">691050000A1228</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LACENAS</SimpleData>
+					<SimpleData name="Adresse">ROUSSELLES</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SEM</SimpleData>
+					<SimpleData name="Denomination">SEM DE CONSTRUCTION DU DPT DE L AIN</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9898447412778 </north>
+			<south> 45.989747449193 </south>
+			<east> 4.6451822670986 </east>
+			<west> 4.64399137722904 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.64399500488317,45.9897700198934,0 4.64399334176329,45.989783554347,0 4.64399137722904,45.9897999753757,0 4.64454802719174,45.9898213469733,0 4.64503143911406,45.9898392761151,0 4.6451822670986,45.9898447412778,0 4.64518039405017,45.9898080204181,0 4.64517729114813,45.989747449193,0 4.64516998840072,45.9897625066844,0 4.64516024506361,45.9897737266665,0 4.64514994471728,45.9897836037065,0 4.64513513188536,45.9897938164941,0 4.64511524686916,45.9898029320564,0 4.64510001692267,45.9898078368393,0 4.6450862669063,45.9898103783367,0 4.64507197603243,45.9898121170689,0 4.64505181380571,45.9898119595612,0 4.64502283110548,45.9898106691927,0 4.64502050086507,45.9898105228987,0 4.64492322007067,45.9898068018069,0 4.64465970927458,45.9897967578168,0 4.64399500488317,45.9897700198934,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.136">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">691050000A1255</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LACENAS</SimpleData>
+					<SimpleData name="Adresse">926, GRAND RUE</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SEM</SimpleData>
+					<SimpleData name="Denomination">SEM DE CONSTRUCTION DU DPT DE L AIN</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9898068018069 </north>
+			<south> 45.9893256139053 </south>
+			<east> 4.64498203010657 </east>
+			<west> 4.6438803302394 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.64399500488317,45.9897700198934,0 4.64465970927458,45.9897967578168,0 4.64492322007067,45.9898068018069,0 4.64494694217695,45.98978339968511,0 4.64496498398464,45.9897644934244,0 4.64497675619768,45.9897433364274,0 4.64498203010657,45.9897209227745,0 4.64496670264298,45.98948912819161,0 4.64496337680306,45.9894816107156,0 4.64495520754473,45.9894763252322,0 4.64494429907039,45.9894745021438,0 4.64493660045822,45.9893595961143,0 4.64491712990812,45.98934798980429,0 4.64489391110903,45.98934067115831,0 4.64486864463386,45.989338336028,0 4.64462221174708,45.98934623786221,0 4.64455740415041,45.9893524929232,0 4.64455033006943,45.9893535863928,0 4.64454228460419,45.9893567655478,0 4.6445374115629,45.9893623304971,0 4.64434274388833,45.9893685794175,0 4.64433325350107,45.9893666456146,0 4.64419822709721,45.9893710376611,0 4.64418061855321,45.9893741754745,0 4.64416757351504,45.9893830114413,0 4.64416238015199,45.9893951560437,0 4.64404121126884,45.989396284405,0 4.64390815186148,45.9893929917087,0 4.64391028385265,45.9893389195096,0 4.6439147965165,45.9893256139053,0 4.6438841995915,45.9893265083286,0 4.6438803302394,45.9893267446248,0 4.64389619848185,45.9894470263162,0 4.64404468704792,45.9894477532858,0 4.64399500488317,45.9897700198934,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.137">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">691050000A1257</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LACENAS</SimpleData>
+					<SimpleData name="Adresse">926, GRAND RUE</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SEM</SimpleData>
+					<SimpleData name="Denomination">SEM DE CONSTRUCTION DU DPT DE L AIN</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9893267446248 </north>
+			<south> 45.988712351571 </south>
+			<east> 4.6451499842899 </east>
+			<west> 4.64375643040339 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.64449647485668,45.9887361362743,0 4.64443013156925,45.9887385406126,0 4.64407804061982,45.98875193829521,0 4.64375643040339,45.98876489252599,0 4.64378077039314,45.9887967838982,0 4.64381774046779,45.98884920777681,0 4.6438803302394,45.9893267446248,0 4.6438841995915,45.9893265083286,0 4.6439147965165,45.9893256139053,0 4.64392713938693,45.9893105734149,0 4.6439453938496,45.9892987796648,0 4.64396791581735,45.9892914274092,0 4.64399266297738,45.989289356908,0 4.64401705218449,45.989292605654,0 4.64403900885519,45.989300933554,0 4.64405618126127,45.98931347405781,0 4.64406706272001,45.989318720236,0 4.6440800322779,45.9893203333529,0 4.64438147013944,45.9893110937294,0 4.64440292916958,45.9893070893629,0 4.64442154406973,45.98929871291499,0 4.64496692808794,45.98928052561289,0 4.64497650187952,45.9892766036805,0 4.64498015863007,45.9892692550005,0 4.64496643776733,45.9890652683388,0 4.64496246347694,45.9890576702121,0 4.64495377496258,45.98905230220199,0 4.64494247910133,45.9890504847407,0 4.64472200000494,45.9890577396711,0 4.64472220988063,45.9890604386868,0 4.64471165935489,45.9890662662256,0 4.64469882167697,45.9890690646367,0 4.64447575664224,45.98907626656779,0 4.64443291675389,45.9890912094875,0 4.6439867890664,45.9891057018929,0 4.64397724705068,45.98896362181789,0 4.6441041382828,45.9889594381778,0 4.64410877090494,45.9890280033302,0 4.6441126777797,45.9890376740453,0 4.64412309097479,45.9890445482524,0 4.64413711255354,45.9890467765722,0 4.64443220945423,45.9890372685621,0 4.64447223744014,45.9890233572246,0 4.64467825892703,45.9890165829225,0 4.64471844827997,45.989003749979,0 4.64503290761527,45.988993598957,0 4.64504787462224,45.98921765285441,0 4.6451499842899,45.9892143683885,0 4.64514882981574,45.9891930388542,0 4.6451426080353,45.9890756795243,0 4.64512334813297,45.988712351571,0 4.64449647485668,45.9887361362743,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.163">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">691050000A1344</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LACENAS</SimpleData>
+					<SimpleData name="Adresse">ROUSSELLES</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SEM</SimpleData>
+					<SimpleData name="Denomination">SEM DE CONSTRUCTION DU DPT DE L AIN</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9898121170689 </north>
+			<south> 45.9893408188411 </south>
+			<east> 4.64517729114813 </east>
+			<west> 4.64502283110548 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.64517729114813,45.989747449193,0 4.64516380311681,45.98947779901561,0 4.64516239028848,45.989452149932,0 4.64515660708535,45.9893408188411,0 4.64507976903073,45.9893422951598,0 4.64505825894204,45.9893532356932,0 4.64504386330301,45.9893687564694,0 4.64503846296873,45.9893869387295,0 4.64503802478674,45.98948899302799,0 4.64505105438433,45.98966984204701,0 4.64504939434807,45.9897137296559,0 4.64504049065953,45.98975736219541,0 4.64502445093116,45.9898000175502,0 4.64502283110548,45.9898106691927,0 4.64505181380571,45.9898119595612,0 4.64507197603243,45.9898121170689,0 4.6450862669063,45.9898103783367,0 4.64510001692267,45.9898078368393,0 4.64511524686916,45.9898029320564,0 4.64513513188536,45.9897938164941,0 4.64514994471728,45.9897836037065,0 4.64516024506361,45.9897737266665,0 4.64516998840072,45.9897625066844,0 4.64517729114813,45.989747449193,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

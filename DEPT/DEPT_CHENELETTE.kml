@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>CHENELETTE_DEPT</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_3">
+		<name>CHENELETTE_DEPT</name>
+		<Schema name="CHENELETTE_DEPT" id="CHENELETTE_DEPT.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="DEPT">
+			<LineStyle>
+				<color>BF63f16c</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C63f16c</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2129">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69054000AB0194</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHENELETTE</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1696144044977 </north>
+			<south> 46.16931780839641 </south>
+			<east> 4.49189063530945 </east>
+			<west> 4.49169436365425 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.49189063530945,46.1696144044977,0 4.49184198007208,46.169517503258,0 4.49182066248871,46.1694724806043,0 4.49179888309367,46.1694343089206,0 4.49177749022261,46.1694008155193,0 4.49175012415602,46.1693669502016,0 4.49174098717243,46.1693694118228,0 4.49171326840291,46.16931780839641,0 4.49169436365425,46.1693233703647,0 4.49170522268522,46.1693413308112,0 4.49182895112498,46.1695341561244,0 4.49189063530945,46.1696144044977,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3004">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69054000AD0266</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHENELETTE</SimpleData>
+					<SimpleData name="Adresse">LA VOISINEE D EN HAUT</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.17764474334849 </north>
+			<south> 46.1766934408751 </south>
+			<east> 4.48708421310797 </east>
+			<west> 4.48653245475704 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.48670039530897,46.17727260902029,0 4.48665812458882,46.1773585430512,0 4.48661479115244,46.17746745740149,0 4.48659284576962,46.17751881099029,0 4.48656569387004,46.1775741955086,0 4.48653245475704,46.1776393865963,0 4.48655671524996,46.17764474334849,0 4.48657735923513,46.1776027734934,0 4.48661514611072,46.1775044692511,0 4.48666790331323,46.1773653501057,0 4.48674657615812,46.1772304852161,0 4.48685959734293,46.1770761673189,0 4.4869151333412,46.1769965443018,0 4.48698624974049,46.1768938410377,0 4.48699581187856,46.17687831490851,0 4.48708421310797,46.1766958585023,0 4.48706936746444,46.1766934408751,0 4.4870138581514,46.1767883745873,0 4.48695857832738,46.17688699791,0 4.48686881174409,46.17702389944819,0 4.48681259858781,46.1770976771094,0 4.4867835260169,46.1771348037264,0 4.48671932707254,46.1772344442395,0 4.48670039530897,46.17727260902029,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

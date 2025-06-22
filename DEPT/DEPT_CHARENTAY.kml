@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>CHARENTAY_DEPT</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_3">
+		<name>CHARENTAY_DEPT</name>
+		<Schema name="CHARENTAY_DEPT" id="CHARENTAY_DEPT.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="DEPT">
+			<LineStyle>
+				<color>BF63f16c</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C63f16c</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.923">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690450000C0122</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHARENTAY</SimpleData>
+					<SimpleData name="Adresse">ARMAS</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0844957654128 </north>
+			<south> 46.08338363363011 </south>
+			<east> 4.69657294498679 </east>
+			<west> 4.69034380338126 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.69657188553615,46.08338363363011,0 4.69647728105685,46.0834134202291,0 4.69623671285216,46.0834864608773,0 4.69599409217682,46.0835559288961,0 4.69569439772698,46.08365083844641,0 4.69521357954943,46.08381996893939,0 4.69467710157264,46.08409404933469,0 4.69443781197595,46.0842129124778,0 4.69412823943676,46.0843906493156,0 4.69405284171646,46.0844137521079,0 4.69383226961391,46.0844302854834,0 4.69322843285462,46.0843923722235,0 4.69302864924021,46.0843736467538,0 4.69201056943994,46.0842966025282,0 4.69167430178666,46.08422559798021,0 4.69051784145372,46.0840134275594,0 4.69035264496681,46.0839912998358,0 4.69034380338126,46.0840068334666,0 4.69170292224953,46.0842512914458,0 4.69196725792654,46.0843108489409,0 4.6927759109882,46.0843670597925,0 4.69357045435906,46.08443158179049,0 4.69389621326238,46.08449328034591,0 4.69398314360294,46.0844957654128,0 4.6939951648072,46.08449522565341,0 4.69403761411823,46.08449080893309,0 4.69407904394217,46.0844827145607,0 4.69423327051755,46.0843672841149,0 4.69437375898848,46.0842680910223,0 4.69468295090134,46.0841032391482,0 4.69495842349999,46.08396149764521,0 4.69523722358104,46.0838227681052,0 4.69583909869995,46.0836169711566,0 4.69624105534542,46.0835097240255,0 4.69657294498679,46.0834095578839,0 4.69657188553615,46.08338363363011,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3111">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690450000E0276</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHARENTAY</SimpleData>
+					<SimpleData name="Adresse">LA GIRARDIERE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0791941133583 </north>
+			<south> 46.078839922738 </south>
+			<east> 4.69935915182491 </east>
+			<west> 4.69896151233885 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.69935915182491,46.0791941133583,0 4.69932922343071,46.0791387183408,0 4.69927481072298,46.0790574797252,0 4.69914512150812,46.0789485461944,0 4.69908532544409,46.0789066585802,0 4.69902172921991,46.0788674398738,0 4.69897066097784,46.078839922738,0 4.69896151233885,46.0788496071504,0 4.69924747643505,46.0790985106535,0 4.69930888158758,46.0791673049735,0 4.69935915182491,46.0791941133583,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3146">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690450000E0279</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHARENTAY</SimpleData>
+					<SimpleData name="Adresse">LA GIRARDIERE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0791673049735 </north>
+			<south> 46.0786877050906 </south>
+			<east> 4.69930888158758 </east>
+			<west> 4.69864181846167 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.69864181846167,46.0787027167205,0 4.69930888158758,46.0791673049735,0 4.69924747643505,46.0790985106535,0 4.69896151233885,46.0788496071504,0 4.69897066097784,46.078839922738,0 4.69895315740363,46.0788305473922,0 4.698883104194,46.07879178558751,0 4.69866387442876,46.0786877050906,0 4.69864181846167,46.0787027167205,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6575">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690450000C0091</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHARENTAY</SimpleData>
+					<SimpleData name="Adresse">ARMAS</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0825194513957 </north>
+			<south> 46.08242106245589 </south>
+			<east> 4.7009498729536 </east>
+			<west> 4.7004723037814 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.70049991750606,46.0824641203906,0 4.7004723037814,46.08246687608649,0 4.70048001452313,46.0825194513957,0 4.7009498729536,46.0824612484413,0 4.70093283775446,46.08242106245589,0 4.70049991750606,46.0824641203906,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6608">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690450000C0092</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHARENTAY</SimpleData>
+					<SimpleData name="Adresse">ARMAS</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0834095578839 </north>
+			<south> 46.08246949825639 </south>
+			<east> 4.70045063530224 </east>
+			<west> 4.69657188553615 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.69657188553615,46.08338363363011,0 4.69657294498679,46.0834095578839,0 4.69817255749407,46.0829039335538,0 4.69916530080079,46.0826058905843,0 4.69983075726626,46.0825608852585,0 4.70008736182732,46.08255460853951,0 4.70043767154945,46.0825230583343,0 4.70045063530224,46.08251953145099,0 4.70044157948909,46.08246949825639,0 4.70038223154083,46.082475701857,0 4.69915456357068,46.0825851551858,0 4.69869628876587,46.0827250507067,0 4.69763300704208,46.0830526971076,0 4.69657188553615,46.08338363363011,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>ST FONS_PMRSEM</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_6">
+		<name>ST FONS_PMRSEM</name>
+		<Schema name="ST FONS_PMRSEM" id="ST FONS_PMRSEM.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="PMRSEM">
+			<LineStyle>
+				<color>BF00faff</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C00faff</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.221">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">69199000AD0157</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ST FONS</SimpleData>
+					<SimpleData name="Adresse">20, RUE MATHIEU DUSSURGEY</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SEM</SimpleData>
+					<SimpleData name="Denomination">ADOMA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7120389117363 </north>
+			<south> 45.7117537294465 </south>
+			<east> 4.85707601362666 </east>
+			<west> 4.85633751929977 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.8570531901872,45.711776279024,0 4.85669588239108,45.7117646922736,0 4.85660629695055,45.7117617546314,0 4.85651323894506,45.7117587840523,0 4.85635531021276,45.7117537294465,0 4.85634910361446,45.7118522819998,0 4.85633751929977,45.712028116111,0 4.85648527595684,45.7120327078143,0 4.85667975160921,45.7120386913743,0 4.85668824486884,45.7120389117363,0 4.85700081453347,45.7120352927549,0 4.85706363607246,45.71199165277,0 4.85707601362666,45.7117782448253,0 4.8570531901872,45.711776279024,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.228">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">69199000AD0161</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ST FONS</SimpleData>
+					<SimpleData name="Adresse">22, RUE MATHIEU DUSSURGEY</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SEM</SimpleData>
+					<SimpleData name="Denomination">ADOMA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7117782448253 </north>
+			<south> 45.71166119177221 </south>
+			<east> 4.85708302184885 </east>
+			<west> 4.8570531901872 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.85706796901336,45.71166119177221,0 4.8570531901872,45.711776279024,0 4.85707601362666,45.7117782448253,0 4.85708302184885,45.71166148415411,0 4.85706796901336,45.71166119177221,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.230">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">69199000AD0162</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ST FONS</SimpleData>
+					<SimpleData name="Adresse">43, AV JEAN JAURES</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SEM</SimpleData>
+					<SimpleData name="Denomination">ADOMA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.711776279024 </north>
+			<south> 45.7116456300159 </south>
+			<east> 4.85706796901336 </east>
+			<west> 4.85651323894506 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.85655829837563,45.7116456300159,0 4.85655417912258,45.71170676770159,0 4.85651492260664,45.7117055228864,0 4.85651323894506,45.7117587840523,0 4.85660629695055,45.7117617546314,0 4.85669588239108,45.7117646922736,0 4.8570531901872,45.711776279024,0 4.85706796901336,45.71166119177221,0 4.85692053075299,45.7116583970717,0 4.85655829837563,45.7116456300159,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.586">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">69199000AH0558</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ST FONS</SimpleData>
+					<SimpleData name="Adresse">RUE NOEL DESCORMES</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">STE LYONNAISE DE DEVELOPPEMENT CIAL</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7015797323313 </north>
+			<south> 45.7015396649434 </south>
+			<east> 4.86253991297581 </east>
+			<west> 4.86247408287244 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.86253495033805,45.7015797323313,0 4.86253991297581,45.7015667697731,0 4.86253626709362,45.7015653888648,0 4.8625272748049,45.7015617544229,0 4.86251815403933,45.7015581221042,0 4.86250915872197,45.7015543976373,0 4.86250016340581,45.7015506731697,0 4.86249117112185,45.701547038725,0 4.86248229822418,45.70154313208531,0 4.86247408287244,45.7015396649434,0 4.86247488708083,45.7015406424591,0 4.86247607369228,45.70154152357999,0 4.86247726030376,45.7015424047009,0 4.86247831237536,45.7015431078986,0 4.86247949898691,45.7015439890195,0 4.86248068256754,45.70154478011689,0 4.86248174070116,45.7015456633615,0 4.86248292428186,45.7015464544589,0 4.86248411089355,45.7015473355797,0 4.86248516599631,45.7015481288008,0 4.86248647805511,45.7015489177743,0 4.86248766466692,45.70154979889509,0 4.86248884824779,45.70155058999241,0 4.86248963730172,45.7015511173906,0 4.86249003182869,45.7015513810897,0 4.8624912184406,45.7015522622105,0 4.86249227354356,45.70155305543151,0 4.86249345409358,45.7015537565053,0 4.8624946407056,45.701554637626,0 4.86249582428667,45.7015554287232,0 4.86249700786777,45.7015562198205,0 4.86249819144891,45.7015570109176,0 4.86249937503008,45.7015578020148,0 4.86250069012031,45.7015586810117,0 4.86250187370156,45.7015594721088,0 4.86250305728283,45.701560263206,0 4.86250424086415,45.70156105430311,0 4.86250555292353,45.7015618432765,0 4.86250673650491,45.70156263437359,0 4.86250791705532,45.7015633354472,0 4.86250910063677,45.70156412654429,0 4.86253495033805,45.7015797323313,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.595">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">69199000AH0563</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ST FONS</SimpleData>
+					<SimpleData name="Adresse">RUE NOEL DESCORMES</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">STE LYONNAISE DE DEVELOPPEMENT CIAL</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.701687777813 </north>
+			<south> 45.7015667697731 </south>
+			<east> 4.86288078787566 </east>
+			<west> 4.86253495033805 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.86253495033805,45.7015797323313,0 4.86254093913722,45.7015819752453,0 4.86254705944605,45.70158430605861,0 4.86255317369323,45.7015864568246,0 4.86255916552496,45.70158878976109,0 4.86256541128231,45.70159102842609,0 4.86257152553095,45.7015931791911,0 4.86257764281118,45.7015954199793,0 4.86258375706077,45.7015975707437,0 4.86259000282011,45.7015998094073,0 4.86259611707067,45.701601960171,0 4.86260235979983,45.7016041088104,0 4.86260847405135,45.7016062595735,0 4.86261458527216,45.7016083203127,0 4.86262082800276,45.7016104689511,0 4.86262693922449,45.7016125296897,0 4.86263318195605,45.7016146783274,0 4.86263929620993,45.70161682908881,0 4.86264553591122,45.7016188877023,0 4.86265190409114,45.7016209441916,0 4.86265814379336,45.7016230028045,0 4.86266438349605,45.7016250614171,0 4.86267062016792,45.7016270300058,0 4.86267685987153,45.70162908861761,0 4.86268322805379,45.7016311451051,0 4.86268946472702,45.7016331136928,0 4.8626957014007,45.7016350822802,0 4.86270193807482,45.70163705086719,0 4.86270817474938,45.7016390194538,0 4.86271466838081,45.701640983792,0 4.86272090505627,45.701642952378,0 4.8627272702104,45.7016449188396,0 4.86273350385537,45.7016467974013,0 4.86273986901039,45.7016487638622,0 4.86274635658129,45.7016505481517,0 4.86275259325896,45.7016525167358,0 4.86275895235247,45.7016543031487,0 4.86276518903101,45.70165627173209,0 4.8627715511568,45.7016581481677,0 4.86277803872982,45.7016599324554,0 4.86278440085647,45.70166180889029,0 4.86279075692061,45.70166350527779,0 4.8627971190481,45.7016653817119,0 4.86280347814452,45.70166716812221,0 4.86280983724136,45.7016689545322,0 4.86281645329517,45.7016707366935,0 4.86282281239284,45.7016725231027,0 4.86282917149092,45.7016743095116,0 4.8628356530046,45.701675913749,0 4.86284201210349,45.7016777001571,0 4.86284862512781,45.701679392293,0 4.86285498119594,45.70168108867701,0 4.86286146877434,45.70168287295981,0 4.86286795028997,45.7016844771953,0 4.86287430635927,45.7016861735782,0 4.86288078787566,45.701687777813,0 4.86286784721561,45.70168141639741,0 4.86281387622295,45.7016552866431,0 4.86280894554568,45.7016539269851,0 4.86280401183717,45.70165247730349,0 4.86279921267012,45.70165120554451,0 4.8627942789621,45.7016497558624,0 4.86278921677612,45.7016483083043,0 4.86278428913154,45.7016470386687,0 4.86277948390251,45.70164558686191,0 4.86277455019551,45.701644137179,0 4.86276974799843,45.70164277539519,0 4.86276494277015,45.7016413235878,0 4.86276013754212,45.7016398717801,0 4.86275507535793,45.7016384242204,0 4.86275027013041,45.7016369724124,0 4.86274533642495,45.7016355227282,0 4.86274053119794,45.7016340709197,0 4.86273572597118,45.701632619111,0 4.86273078923512,45.7016310794027,0 4.86272598704024,45.70162971761711,0 4.8627210503047,45.7016281779083,0 4.86271624204762,45.7016266360753,0 4.86271130834397,45.70162518638969,0 4.86270650008741,45.7016236445563,0 4.86270169183113,45.7016221027227,0 4.86269688660643,45.7016206509123,0 4.86269207835068,45.7016191090783,0 4.86268714161703,45.7016175693681,0 4.86268233336181,45.7016160275337,0 4.86267752510686,45.701614485699,0 4.86267518521857,45.7016137137196,0 4.86267271685218,45.7016129438642,0 4.86266803707592,45.7016113999051,0 4.86266322882177,45.7016098580699,0 4.8626582890585,45.70160822833489,0 4.8626534808049,45.7016066864993,0 4.86264879799846,45.70160505251601,0 4.86264398671417,45.7016034206564,0 4.86263918149261,45.7016019688436,0 4.86263449565578,45.7016002448363,0 4.86262955589421,45.7015986151001,0 4.86262487612036,45.7015970711392,0 4.86262006483747,45.7015954392787,0 4.86261551051108,45.7015938031701,0 4.86261069922875,45.7015921713091,0 4.8626060164248,45.70159053732399,0 4.86260133058997,45.7015888133153,0 4.8625963908304,45.70158718357759,0 4.8625917080273,45.7015855495919,0 4.86258702219334,45.7015838255826,0 4.86258233635967,45.7015821015731,0 4.86257765658853,45.7015805576103,0 4.86257297075543,45.70157883360039,0 4.86256802796649,45.70157711383799,0 4.86256334516507,45.7015754798511,0 4.86255865630176,45.70157366581711,0 4.8625540989479,45.7015719396826,0 4.86254941614733,45.70157030569509,0 4.86254459880686,45.70156849378441,0 4.86253991297581,45.7015667697731,0 4.86253495033805,45.7015797323313,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

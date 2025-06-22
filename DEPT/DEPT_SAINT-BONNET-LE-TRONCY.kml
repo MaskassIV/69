@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>SAINT-BONNET-LE-TRONCY_DEPT</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_3">
+		<name>SAINT-BONNET-LE-TRONCY_DEPT</name>
+		<Schema name="SAINT-BONNET-LE-TRONCY_DEPT" id="SAINT-BONNET-LE-TRONCY_DEPT.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="DEPT">
+			<LineStyle>
+				<color>BF63f16c</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C63f16c</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2552">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69183000AM0225</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT-BONNET-LE-TRONCY</SimpleData>
+					<SimpleData name="Adresse">JANICOT</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0818795073709 </north>
+			<south> 46.0810459198979 </south>
+			<east> 4.39106982166344 </east>
+			<west> 4.39032707122214 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.39032707122214,46.0817567946291,0 4.39036145208343,46.0817703330812,0 4.39061792891076,46.0818710324574,0 4.39063923941948,46.0818795073709,0 4.39072346525931,46.0817403184255,0 4.39088243792153,46.0814300841779,0 4.39103541621337,46.081118302041,0 4.39106982166344,46.0810459198979,0 4.39101893088988,46.0810601433491,0 4.39100411413375,46.0810678902941,0 4.39096424233313,46.081093056372,0 4.39095916053238,46.0810968112551,0 4.39092455283921,46.08112542523811,0 4.39073507719859,46.0813298492237,0 4.39046446985034,46.0816219077551,0 4.39032707122214,46.0817567946291,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2572">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69183000AB0227</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT-BONNET-LE-TRONCY</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.08078966571941 </north>
+			<south> 46.08034680697759 </south>
+			<east> 4.42553482374869 </east>
+			<west> 4.42506359135825 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.42545794845112,46.08078966571941,0 4.42548996331713,46.0807416198005,0 4.4255188473261,46.0806926225087,0 4.4255293400046,46.0806730369198,0 4.42553482374869,46.0805801123686,0 4.42545921741809,46.0806041186065,0 4.42539290762309,46.08051254636841,0 4.42532759677989,46.0804644622983,0 4.42531614420242,46.0804719913952,0 4.42528714202514,46.08034680697759,0 4.42525674977795,46.0803725867303,0 4.42516243881497,46.0804538380448,0 4.42511382923267,46.0804957878593,0 4.42506359135825,46.08053982956839,0 4.42545794845112,46.08078966571941,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2584">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69183000AB0228</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT-BONNET-LE-TRONCY</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0806041186065 </north>
+			<south> 46.08034680697759 </south>
+			<east> 4.42553652382974 </east>
+			<west> 4.42528714202514 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.42528714202514,46.08034680697759,0 4.42531614420242,46.0804719913952,0 4.42532759677989,46.0804644622983,0 4.42539290762309,46.08051254636841,0 4.42545921741809,46.0806041186065,0 4.42553482374869,46.0805801123686,0 4.42553652382974,46.0805708144491,0 4.42553498943306,46.0805615571695,0 4.42553036395515,46.08055287911,0 4.42552609534715,46.0805479792408,0 4.42546309849165,46.0804643810845,0 4.42539760830211,46.0804193614728,0 4.42540436493863,46.0804154038482,0 4.42528714202514,46.08034680697759,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

@@ -1,0 +1,1486 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>MONTANAY_COM</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_4">
+		<name>MONTANAY_COM</name>
+		<Schema name="MONTANAY_COM" id="MONTANAY_COM.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="COM">
+			<LineStyle>
+				<color>BFe6c645</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4Ce6c645</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.228">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69284000AC0150</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">MONTANAY</SimpleData>
+					<SimpleData name="Adresse">27, PL DE LEGLISE</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE MONTANAY</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8814869551848 </north>
+			<south> 45.8814472407465 </south>
+			<east> 4.86396531051605 </east>
+			<west> 4.86391087381157 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.86395746241963,45.8814869551848,0 4.86396531051605,45.88145205708081,0 4.86391871889361,45.8814472407465,0 4.86391087381157,45.8814822288714,0 4.86395746241963,45.8814869551848,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.2292">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69284000ZE0001</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">MONTANAY</SimpleData>
+					<SimpleData name="Adresse">LES CHATEIGNIERS</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE MONTANAY</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.89136630882461 </north>
+			<south> 45.8897281467922 </south>
+			<east> 4.88041876779902 </east>
+			<west> 4.87826201030045 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.87922675228191,45.8899776032996,0 4.87922087739611,45.8899755391591,0 4.87853538205902,45.8897281467922,0 4.87826201030045,45.8907717909276,0 4.87826729585214,45.89077548625481,0 4.87878995193022,45.8911459264937,0 4.87910072440068,45.89136630882461,0 4.87946140489602,45.891321401189,0 4.88032342778942,45.89099513873,0 4.88032559177342,45.89099429206641,0 4.87996729181371,45.8907949702039,0 4.88014217423157,45.8906201092738,0 4.88041876779902,45.8904018517495,0 4.87922675228191,45.8899776032996,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.2890">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69284000AC0103</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">MONTANAY</SimpleData>
+					<SimpleData name="Adresse">MONTANAY VILLAGE</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE MONTANAY</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8815865495813 </north>
+			<south> 45.88141885660831 </south>
+			<east> 4.86443242074688 </east>
+			<west> 4.86403233052346 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.86403233052346,45.8815385041688,0 4.86426964241425,45.881546390312,0 4.86427048434913,45.8815865495813,0 4.86436752580095,45.8815844086472,0 4.86441040904901,45.8815825303881,0 4.86440475320325,45.8815373162795,0 4.86440848817943,45.88153716460191,0 4.86441179689178,45.8815358489884,0 4.86441497061871,45.8815343554525,0 4.86441800936019,45.8815326839942,0 4.86442064923372,45.8815306588173,0 4.86442289937134,45.8815285499942,0 4.8644248856263,45.8815262653748,0 4.8644266079986,45.8815238049592,0 4.8644274493985,45.8815219895944,0 4.86442829079834,45.8815201742297,0 4.86442887135968,45.8815182730928,0 4.86442945496502,45.8815164619801,0 4.86443003552628,45.8815145608432,0 4.86443061608751,45.8815126597063,0 4.86443106775151,45.88151076069549,0 4.8644313905183,45.8815088638106,0 4.86443171328507,45.8815069669258,0 4.86443203605181,45.88150507004091,0 4.86443222687733,45.8815030852579,0 4.86443242074688,45.8815011904991,0 4.86442834893362,45.8814875663589,0 4.86441804534829,45.88148035020791,0 4.864390781197,45.88146737881549,0 4.86439100666525,45.88145116171529,0 4.86439129290546,45.88144818454099,0 4.8643900354252,45.8814453229023,0 4.8643880136948,45.88144274409179,0 4.86438510794918,45.88144072030781,0 4.86438144404141,45.8814391594001,0 4.86437741475041,45.88143823503909,0 4.86437315506096,45.881438125147,0 4.86436905166392,45.88143882334609,0 4.86435693230016,45.88143893315961,0 4.86435725014831,45.881421633644,0 4.86426894155505,45.88141885660831,0 4.86426970434947,45.8814566752499,0 4.86403240698661,45.8814530223672,0 4.86403233052346,45.8815385041688,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.3025">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69284000AC0104</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">MONTANAY</SimpleData>
+					<SimpleData name="Adresse">MONTANAY VILLAGE</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE MONTANAY</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.881582619089 </north>
+			<south> 45.8814875663589 </south>
+			<east> 4.86448980746717 </east>
+			<west> 4.86440475320325 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.86442834893362,45.8814875663589,0 4.86443242074688,45.8815011904991,0 4.86443222687733,45.8815030852579,0 4.86443203605181,45.88150507004091,0 4.86443171328507,45.8815069669258,0 4.8644313905183,45.8815088638106,0 4.86443106775151,45.88151076069549,0 4.86443061608751,45.8815126597063,0 4.86443003552628,45.8815145608432,0 4.86442945496502,45.8815164619801,0 4.86442887135968,45.8815182730928,0 4.86442829079834,45.8815201742297,0 4.8644274493985,45.8815219895944,0 4.8644266079986,45.8815238049592,0 4.8644248856263,45.8815262653748,0 4.86442289937134,45.8815285499942,0 4.86442064923372,45.8815306588173,0 4.86441800936019,45.8815326839942,0 4.86441497061871,45.8815343554525,0 4.86441179689178,45.8815358489884,0 4.86440848817943,45.88153716460191,0 4.86440475320325,45.8815373162795,0 4.86441040904901,45.8815825303881,0 4.86443233681915,45.881582619089,0 4.86445764568943,45.8815415781171,0 4.86448980746717,45.88148961518349,0 4.86442834893362,45.8814875663589,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.3162">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69284000AC0105</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">MONTANAY</SimpleData>
+					<SimpleData name="Adresse">MONTANAY VILLAGE</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE MONTANAY</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.88148961518349 </north>
+			<south> 45.8812492994508 </south>
+			<east> 4.86461953184492 </east>
+			<west> 4.86436905166392 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.86436905166392,45.88143882334609,0 4.86437315506096,45.881438125147,0 4.86437741475041,45.88143823503909,0 4.86438144404141,45.8814391594001,0 4.86438510794918,45.88144072030781,0 4.8643880136948,45.88144274409179,0 4.8643900354252,45.8814453229023,0 4.86439129290546,45.88144818454099,0 4.86439100666525,45.88145116171529,0 4.864390781197,45.88146737881549,0 4.86441804534829,45.88148035020791,0 4.86442834893362,45.8814875663589,0 4.86448980746717,45.88148961518349,0 4.86461953184492,45.8812793135706,0 4.86442957806188,45.8812492994508,0 4.86436905166392,45.88143882334609,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.3321">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69284000AC0106</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">MONTANAY</SimpleData>
+					<SimpleData name="Adresse">MONTANAY VILLAGE</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE MONTANAY</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.881552264136 </north>
+			<south> 45.8812793135706 </south>
+			<east> 4.86479703868058 </east>
+			<west> 4.86445764568943 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.86461953184492,45.8812793135706,0 4.86448980746717,45.88148961518349,0 4.86445764568943,45.8815415781171,0 4.8647545071642,45.881552264136,0 4.86479703868058,45.8813073709299,0 4.86461953184492,45.8812793135706,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.4169">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69284000AB1114</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">MONTANAY</SimpleData>
+					<SimpleData name="Adresse">RUE DE LA GRAVIERE</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE MONTANAY</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8827819048578 </north>
+			<south> 45.88249833858161 </south>
+			<east> 4.85806227573798 </east>
+			<west> 4.85783469168824 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.85784321734822,45.8827819048578,0 4.85796708426228,45.8827337510417,0 4.85802926708114,45.8827075082026,0 4.85805088876005,45.88268319307871,0 4.85806227573798,45.8826575149191,0 4.85805989169997,45.8826403499388,0 4.85794264329151,45.88249833858161,0 4.85798204909307,45.88255398725251,0 4.85793633710392,45.88262886962791,0 4.85795731946747,45.88270040394681,0 4.85783469168824,45.882773848229,0 4.85784321734822,45.8827819048578,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.4177">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69284000AB1115</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">MONTANAY</SimpleData>
+					<SimpleData name="Adresse">RUE DE LA GRAVIERE</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE MONTANAY</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8825032062831 </north>
+			<south> 45.8824866079123 </south>
+			<east> 4.85794264329151 </east>
+			<west> 4.85792153098977 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.85794264329151,45.88249833858161,0 4.85793296209027,45.8824866079123,0 4.85792153098977,45.8824918399473,0 4.85793145785508,45.8825032062831,0 4.85794264329151,45.88249833858161,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.5886">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69284000ZB0124</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">MONTANAY</SimpleData>
+					<SimpleData name="Adresse">LA FERRIERE</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE MONTANAY</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.88406102730559 </north>
+			<south> 45.8833628733124 </south>
+			<east> 4.87397253166506 </east>
+			<west> 4.87240265577844 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.8724416920097,45.8833628733124,0 4.87240265577844,45.8837856993748,0 4.87394281457488,45.88406102730559,0 4.87397253166506,45.88398289036541,0 4.87372004295504,45.88386655591471,0 4.87390112045326,45.88359702360229,0 4.8724416920097,45.8833628733124,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.6143">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69284000ZB0126</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">MONTANAY</SimpleData>
+					<SimpleData name="Adresse">LA FERRIERE</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE MONTANAY</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8839990685265 </north>
+			<south> 45.8830115094903 </south>
+			<east> 4.87433256948754 </east>
+			<west> 4.87372004295504 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.87390112045326,45.88359702360229,0 4.87372004295504,45.88386655591471,0 4.87397253166506,45.88398289036541,0 4.87400725997595,45.8839990685265,0 4.87433256948754,45.8830250127413,0 4.87429406343181,45.8830115094903,0 4.87390112045326,45.88359702360229,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.7066">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69284000AH0134</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">MONTANAY</SimpleData>
+					<SimpleData name="Adresse">EN BERFAYET</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE MONTANAY</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.87698722731259 </north>
+			<south> 45.87674290376691 </south>
+			<east> 4.85877329468966 </east>
+			<west> 4.85810877570832 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.85877329468966,45.87674290376691,0 4.85825880842356,45.8767904556102,0 4.85814623224668,45.87687094112369,0 4.85810877570832,45.8769725300274,0 4.85846306454654,45.8769813873217,0 4.85869951291929,45.87698722731259,0 4.8587677918928,45.8768091987856,0 4.85877329468966,45.87674290376691,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.7279">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69284000AH0136</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">MONTANAY</SimpleData>
+					<SimpleData name="Adresse">EN BERFAYET</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE MONTANAY</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8769885167786 </north>
+			<south> 45.8768091987856 </south>
+			<east> 4.8587677918928 </east>
+			<west> 4.85869951291929 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.8587525582355,45.8769885167786,0 4.8587677918928,45.8768091987856,0 4.85869951291929,45.87698722731259,0 4.8587525582355,45.8769885167786,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.7721">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69284000AL0014</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">MONTANAY</SimpleData>
+					<SimpleData name="Adresse">AU FOSSARD</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE MONTANAY</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.867684902521 </north>
+			<south> 45.8666282011719 </south>
+			<east> 4.85967031843905 </east>
+			<west> 4.85810020172629 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.85892980500914,45.8666310345796,0 4.85810020172629,45.8674067054528,0 4.85829998322854,45.8674544024364,0 4.85833737978961,45.8674583812717,0 4.85840237607324,45.8674587536341,0 4.85853488051638,45.8674460358872,0 4.85855185423254,45.86744467584879,0 4.85858360041566,45.8674455048589,0 4.85862301490531,45.867451972489,0 4.85864340439912,45.8674563210052,0 4.85869510366554,45.8674715039066,0 4.85867753605522,45.86749350071779,0 4.85908858928147,45.867684902521,0 4.85964246531953,45.8676035500235,0 4.85967031843905,45.8674850944904,0 4.85955700848877,45.8672716817423,0 4.8594559920831,45.86712075824921,0 4.8592762929889,45.86684646657069,0 4.85898567359197,45.8667431586345,0 4.85895420698284,45.8666282011719,0 4.85892980500914,45.8666310345796,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.9853">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69284000ZD0161</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">MONTANAY</SimpleData>
+					<SimpleData name="Adresse">AU FOSSARD</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">MONTANAY</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8707667218405 </north>
+			<south> 45.8701483807646 </south>
+			<east> 4.86163490626322 </east>
+			<west> 4.86087586323347 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.86089701461012,45.8704504116746,0 4.8609966795796,45.870453994866,0 4.86100920992355,45.87076418433549,0 4.86134738626515,45.8707667218405,0 4.86146101114283,45.87053444049181,0 4.86149226310514,45.8704670906518,0 4.86163490626322,45.8701624518898,0 4.86087586323347,45.8701483807646,0 4.86089701461012,45.8704504116746,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.11484">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69284000AD0180</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">MONTANAY</SimpleData>
+					<SimpleData name="Adresse">MONTANAY VILLAGE</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE MONTANAY</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8809337282042 </north>
+			<south> 45.88046150427571 </south>
+			<east> 4.86321494591044 </east>
+			<west> 4.86254217626557 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.86260501729668,45.88046150427571,0 4.86254217626557,45.880704839593,0 4.86264549349101,45.8808274396744,0 4.86283224447346,45.88086579636879,0 4.86303086515438,45.8809081005456,0 4.86315373447402,45.8809337282042,0 4.86321395203571,45.88047542837571,0 4.86321494591044,45.8804666747854,0 4.86321199731961,45.8804748300758,0 4.86315987991852,45.8806117914113,0 4.86301652422385,45.8805828984493,0 4.8630109771555,45.8805981223566,0 4.86283682101387,45.880562260637,0 4.86284411371363,45.8805490796797,0 4.86271237293195,45.8805242284138,0 4.86272794132953,45.8804849696926,0 4.86260501729668,45.88046150427571,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.11564">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69284000AD0181</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">MONTANAY</SimpleData>
+					<SimpleData name="Adresse">714, RUE CENTRALE</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE MONTANAY</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8810592631476 </north>
+			<south> 45.880230977924 </south>
+			<east> 4.86382118826866 </east>
+			<west> 4.86314762814221 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.86315373447402,45.8809337282042,0 4.86314762814221,45.8809820186072,0 4.8632209228526,45.8809946819364,0 4.86330908931741,45.88100854126181,0 4.86340867778266,45.8810245541608,0 4.86341048953025,45.8810209213217,0 4.86371279655651,45.8810592631476,0 4.86375734228045,45.8810379016657,0 4.86375133282118,45.8809440532305,0 4.86381614109867,45.88073617400341,0 4.86382040009456,45.8807171881701,0 4.86382118826866,45.8806870903497,0 4.86382099547049,45.88068520196781,0 4.86382079962934,45.8806832235619,0 4.86382060378821,45.8806812451559,0 4.86382040794708,45.88067926674989,0 4.86382008321072,45.8806772904692,0 4.86381988736963,45.8806753120632,0 4.86381969152855,45.8806733336573,0 4.863819237897,45.8806713595019,0 4.86381891316072,45.8806693832212,0 4.86381858842446,45.8806674069406,0 4.86381826368823,45.8806654306599,0 4.86381793895201,45.8806634543792,0 4.8638174853206,45.88066148022389,0 4.86381690279401,45.88065950819381,0 4.86381657805788,45.88065753191309,0 4.86381612746955,45.88065564778189,0 4.86381554494306,45.88065367575179,0 4.86381509131182,45.8806517015965,0 4.86381450878541,45.8806497295664,0 4.86381392930203,45.88064784756051,0 4.8638133467757,45.8806458755304,0 4.86380203597855,45.8806203007727,0 4.86370692144424,45.8804390181602,0 4.86369405073379,45.880416891937,0 4.86369282982647,45.8804151105805,0 4.86369160891922,45.880413329224,0 4.86369039105483,45.88041163789151,0 4.86368917014774,45.880409856535,0 4.8636878203461,45.8804080773036,0 4.86368660248194,45.88040638597111,0 4.86368512682859,45.880404698889,0 4.86368390896459,45.88040300755651,0 4.86368255916328,45.88040122832499,0 4.86368134129943,45.8803995369925,0 4.86367999149829,45.880397757761,0 4.86367864473999,45.8803960685536,0 4.86367716908716,45.8803943814714,0 4.86367581928628,45.88039260223979,0 4.86367447252823,45.8803909130323,0 4.86367312577027,45.8803892238249,0 4.86367177596965,45.88038744459331,0 4.86367056114916,45.8803858432848,0 4.86366895660228,45.8803841583276,0 4.86366760984464,45.88038246912011,0 4.86366626308709,45.8803807799126,0 4.86366478743505,45.8803790928302,0 4.86366344067767,45.8803774036226,0 4.86366196502581,45.8803757165402,0 4.86366036047948,45.8803740315828,0 4.86365901372235,45.8803723423752,0 4.86365753807076,45.8803706552927,0 4.86365606546197,45.8803690582343,0 4.86365459285326,45.880367461176,0 4.86365312024464,45.8803658641176,0 4.86365151569887,45.8803641791601,0 4.86364966553492,45.88036285854951,0 4.86364794426559,45.8803615358137,0 4.86364622299634,45.88036021307789,0 4.86364450172717,45.8803588903421,0 4.86364278045809,45.8803575676062,0 4.86364106527445,45.8803564249187,0 4.86363934400553,45.8803551021828,0 4.86363749384218,45.8803537815719,0 4.86363564672159,45.88035255098521,0 4.86363392545291,45.8803512282492,0 4.86363220722699,45.8803499955374,0 4.86363036010664,45.8803487649506,0 4.86362850994372,45.8803474443396,0 4.86362679171803,45.8803462116277,0 4.86362494764059,45.880345071065,0 4.86362297162608,45.8803438426031,0 4.86362125340063,45.88034260989109,0 4.86361940628078,45.8803413793042,0 4.86361755916101,45.8803401487172,0 4.86361571204132,45.8803389181301,0 4.86361386492171,45.8803376875431,0 4.86361201780219,45.88033645695601,0 4.86361004483091,45.8803353185181,0 4.86360807185971,45.8803341800802,0 4.86360622474043,45.880332949493,0 4.86360424872678,45.88033172103091,0 4.86360240465028,45.8803305804678,0 4.86355621231375,45.8803070219594,0 4.8635367332214,45.8802992364105,0 4.86350237043284,45.8802898947455,0 4.86324605825522,45.880230977924,0 4.8632153671878,45.8804638755377,0 4.86321494591044,45.8804666747854,0 4.86321395203571,45.88047542837571,0 4.86315373447402,45.8809337282042,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+				<innerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.86326441732894,45.8807322991255,0 4.86327996905509,45.88069637334689,0 4.86328800923928,45.880697682002,0 4.86330602020123,45.88065820278311,0 4.86338521215747,45.8806736511662,0 4.86338770904034,45.88066739487789,0 4.86343223955954,45.8806761185926,0 4.86342987157661,45.8806823727571,0 4.86350413515529,45.8806970015601,0 4.86340949077624,45.88091122727161,0 4.8632058835378,45.8808663937945,0 4.86322659646816,45.88082290678341,0 4.86323231046416,45.8808240736376,0 4.86327183737773,45.8807343385985,0 4.86326441732894,45.8807322991255,0 
+						</coordinates>
+					</LinearRing>
+				</innerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.13059">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69284000ZE0002</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">MONTANAY</SimpleData>
+					<SimpleData name="Adresse">LES CHATEIGNIERS</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE MONTANAY</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.89099429206641 </north>
+			<south> 45.88858385485359 </south>
+			<east> 4.88230342038057 </east>
+			<west> 4.87922675228191 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.8804225353088,45.8888521424598,0 4.87948087502124,45.8889904831377,0 4.87922675228191,45.8899776032996,0 4.88041876779902,45.8904018517495,0 4.88014217423157,45.8906201092738,0 4.87996729181371,45.8907949702039,0 4.88032559177342,45.89099429206641,0 4.88082365653505,45.89081360416411,0 4.88112127346617,45.890803248095,0 4.88181353014708,45.8907793874378,0 4.8819224449776,45.8907127206342,0 4.88210621070634,45.8894947322002,0 4.88195649931721,45.8894733546455,0 4.88214333545526,45.8890141954377,0 4.88220551795107,45.8890107281652,0 4.88225962365815,45.88878202809381,0 4.88230342038057,45.88858385485359,0 4.88042382137552,45.8888520309936,0 4.8804225353088,45.8888521424598,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.13157">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69284000AC0200</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">MONTANAY</SimpleData>
+					<SimpleData name="Adresse">653, RUE CENTRALE</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE MONTANAY</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8812693392227 </north>
+			<south> 45.88107032261961 </south>
+			<east> 4.86232382959245 </east>
+			<west> 4.8619693547214 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.86200330616541,45.8811388680514,0 4.8619693547214,45.881195183287,0 4.86220297027905,45.8812693392227,0 4.86225301526347,45.8811931225855,0 4.86228147164071,45.88119940934401,0 4.86232382959245,45.8811399830586,0 4.86210713206228,45.88107032261961,0 4.86205868055734,45.8811440809357,0 4.86200731167602,45.8811276328603,0 4.86200330616541,45.8811388680514,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.13255">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69284000ZC0201</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">MONTANAY</SimpleData>
+					<SimpleData name="Adresse">LES FROMENTAUX</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE MONTANAY</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8803936210268 </north>
+			<south> 45.8800783890019 </south>
+			<east> 4.87651897647336 </east>
+			<west> 4.87555887999111 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.87645787016507,45.8803936210268,0 4.87651897647336,45.8803701780158,0 4.87649408623723,45.8800783890019,0 4.8755718118949,45.8800810854906,0 4.87555887999111,45.8802392909875,0 4.87581098714906,45.88027654190441,0 4.87645787016507,45.8803936210268,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.14887">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69284000AB0226</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">MONTANAY</SimpleData>
+					<SimpleData name="Adresse">142, RUE DES SOURCES</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE MONTANAY</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.882224963206 </north>
+			<south> 45.8819737839454 </south>
+			<east> 4.8551329998494 </east>
+			<west> 4.85458898240057 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.8551329998494,45.8819959320595,0 4.85513238364273,45.8819737839454,0 4.85465870808328,45.88215873235421,0 4.85463758942047,45.8821673656651,0 4.85461698331946,45.8821759004883,0 4.85458898240057,45.8821946449281,0 4.85459670862772,45.882224963206,0 4.85467315739124,45.8821780413567,0 4.8551329998494,45.8819959320595,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.16127">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69284000AC0247</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">MONTANAY</SimpleData>
+					<SimpleData name="Adresse">MONTANAY VILLAGE</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE MONTANAY</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8813805938699 </north>
+			<south> 45.8811283254539 </south>
+			<east> 4.86220297027905 </east>
+			<west> 4.86191860586068 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.86219125144593,45.8813805938699,0 4.86220297027905,45.8812693392227,0 4.8619693547214,45.881195183287,0 4.86200330616541,45.8811388680514,0 4.86195432918191,45.8811283254539,0 4.86195243099804,45.88113322073171,0 4.86193685089648,45.8812065276032,0 4.86191860586068,45.8812925788406,0 4.86219125144593,45.8813805938699,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.16251">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69284000ZB0249</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">MONTANAY</SimpleData>
+					<SimpleData name="Adresse">VERS LA CROIX DES HORMES</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE MONTANAY</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.88158690867241 </north>
+			<south> 45.8815350692513 </south>
+			<east> 4.87397287475838 </east>
+			<west> 4.87390340680235 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.87390997347753,45.8815350692513,0 4.87390340680235,45.8815847191407,0 4.87393335985696,45.8815856637791,0 4.87396693426685,45.88158690867241,0 4.87397287475838,45.881537809607,0 4.87390997347753,45.8815350692513,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.16324">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69284000ZB0025</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">MONTANAY</SimpleData>
+					<SimpleData name="Adresse">571, RTE DES ECHETS</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE MONTANAY</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.88359702360229 </north>
+			<south> 45.8820430385445 </south>
+			<east> 4.87429406343181 </east>
+			<west> 4.87048999471583 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.87048999471583,45.8826233362545,0 4.87116092134742,45.8826617733402,0 4.87148152183151,45.8826800654952,0 4.87156610027063,45.8826868619752,0 4.87150914924747,45.8832584270614,0 4.8717053943804,45.88327967813969,0 4.87179126277724,45.88328645310829,0 4.872307843122,45.88334464340561,0 4.8724416920097,45.8833628733124,0 4.87390112045326,45.88359702360229,0 4.87429406343181,45.8830115094903,0 4.87399546020176,45.8828929678592,0 4.87370039261564,45.8827569824593,0 4.87357650335846,45.882659863793,0 4.87317736960984,45.88268746588099,0 4.87305423593769,45.882696081693,0 4.87292145004332,45.8827053076676,0 4.87287745354668,45.8821504566613,0 4.87181296173745,45.8821020639316,0 4.87056303863569,45.8820430385445,0 4.87048999471583,45.8826233362545,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.16607">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69284000AC0255</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">MONTANAY</SimpleData>
+					<SimpleData name="Adresse">MONTANAY VILLAGE</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE MONTANAY</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8811388680514 </north>
+			<south> 45.8809986370823 </south>
+			<east> 4.86204615979033 </east>
+			<west> 4.86195432918191 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.86195432918191,45.8811283254539,0 4.86200330616541,45.8811388680514,0 4.86200731167602,45.8811276328603,0 4.86202297983981,45.8810760324275,0 4.86204615979033,45.8809986370823,0 4.86200075556497,45.8810633377482,0 4.86195432918191,45.8811283254539,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.16867">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69284000AC0026</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">MONTANAY</SimpleData>
+					<SimpleData name="Adresse">MONTANAY VILLAGE</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE MONTANAY</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8828726471183 </north>
+			<south> 45.8828124976526 </south>
+			<east> 4.86475435635892 </east>
+			<west> 4.863985476891 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.86423360827153,45.8828532426474,0 4.86404220630781,45.8828682888401,0 4.863985476891,45.8828726471183,0 4.86459693959331,45.8828651749093,0 4.86475435635892,45.8828558226482,0 4.86475430979161,45.8828124976526,0 4.86450090908767,45.8828324405567,0 4.86423360827153,45.8828532426474,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.17461">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69284000ZB0270</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">MONTANAY</SimpleData>
+					<SimpleData name="Adresse">LA FERRIERE</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE MONTANAY</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.88268746588099 </north>
+			<south> 45.8826204599263 </south>
+			<east> 4.87357650335846 </east>
+			<west> 4.873170491317 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.87357650335846,45.882659863793,0 4.87355182047288,45.8826204599263,0 4.87319546723345,45.8826393363834,0 4.873170491317,45.882640651004,0 4.87317736960984,45.88268746588099,0 4.87357650335846,45.882659863793,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.17496">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69284000ZB0271</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">MONTANAY</SimpleData>
+					<SimpleData name="Adresse">LA FERRIERE</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE MONTANAY</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8827053076676 </north>
+			<south> 45.8821504566613 </south>
+			<east> 4.87315927762352 </east>
+			<west> 4.87287745354668 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.87287745354668,45.8821504566613,0 4.87292145004332,45.8827053076676,0 4.87305423593769,45.882696081693,0 4.87305346541239,45.8826468236669,0 4.8730859083309,45.88264511511969,0 4.8730415987176,45.8823316692032,0 4.87315927762352,45.8823257559446,0 4.87313989228154,45.8821575476377,0 4.87287745354668,45.8821504566613,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.17548">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69284000ZB0272</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">MONTANAY</SimpleData>
+					<SimpleData name="Adresse">575, RTE DES ECHETS</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE MONTANAY</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.882696081693 </north>
+			<south> 45.8821575476377 </south>
+			<east> 4.87355182047288 </east>
+			<west> 4.8730415987176 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.87355182047288,45.8826204599263,0 4.87326536805086,45.88216096289349,0 4.87313989228154,45.8821575476377,0 4.87315927762352,45.8823257559446,0 4.8730415987176,45.8823316692032,0 4.8730859083309,45.88264511511969,0 4.87305346541239,45.8826468236669,0 4.87305423593769,45.882696081693,0 4.87317736960984,45.88268746588099,0 4.873170491317,45.882640651004,0 4.87319546723345,45.8826393363834,0 4.87355182047288,45.8826204599263,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.17611">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69284000AC0274</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">MONTANAY</SimpleData>
+					<SimpleData name="Adresse">MONTANAY VILLAGE</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE MONTANAY</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8814188511901 </north>
+			<south> 45.88125745507689 </south>
+			<east> 4.86219125144593 </east>
+			<west> 4.86169743541881 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.86218725578545,45.8814188511901,0 4.86219125144593,45.8813805938699,0 4.86191860586068,45.8812925788406,0 4.86185888717753,45.88127329578009,0 4.86170500888692,45.88125745507689,0 4.86169743541881,45.8812928889234,0 4.86184406822641,45.88130803831059,0 4.86218725578545,45.8814188511901,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.18252">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69284000ZB0288</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">MONTANAY</SimpleData>
+					<SimpleData name="Adresse">LES NAVETS</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE MONTANAY</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8824419214832 </north>
+			<south> 45.88218098476949 </south>
+			<east> 4.87379868068983 </east>
+			<west> 4.87341981416983 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.87355246033067,45.8824419214832,0 4.87353893208076,45.88233225470399,0 4.87353881889966,45.8823289238201,0 4.87353883155835,45.8823255007759,0 4.87353910507345,45.8823221634828,0 4.87353937858852,45.8823188261897,0 4.87353978100227,45.8823154867602,0 4.87354044121339,45.8823121430579,0 4.87354135922181,45.8823087950828,0 4.8735421513904,45.882305539268,0 4.87354333025493,45.882302277044,0 4.87354450911932,45.8822990148199,0 4.87354581688225,45.8822957504595,0 4.87354738244233,45.8822924818262,0 4.87354907995985,45.88228930108039,0 4.87355090943478,45.8822862082221,0 4.87355273890951,45.8822831153637,0 4.87355482924026,45.8822801082564,0 4.87355705458737,45.8822772790604,0 4.87355927381628,45.8822742698166,0 4.87356175390115,45.88227134632369,0 4.87356436594335,45.8822685107183,0 4.87356710994287,45.8822657630003,0 4.87356972504353,45.88226301741869,0 4.87357272989868,45.8822603554515,0 4.87357586365211,45.8822576913479,0 4.87357900352326,45.882255207292,0 4.87358227535171,45.8822528111234,0 4.87358567607843,45.8822504128183,0 4.87358920876244,45.88224810240051,0 4.87359287034471,45.8822457898462,0 4.87359640914619,45.8822436594759,0 4.87360020880353,45.8822416148565,0 4.87360414041816,45.8822396581244,0 4.87360807203252,45.8822377013922,0 4.87361226756178,45.8822359204346,0 4.87361633419224,45.8822341416134,0 4.87362040388152,45.882232452816,0 4.87362473748574,45.88223093979309,0 4.87362907414881,45.88222951679401,0 4.87363354276926,45.8822281816821,0 4.8736380113895,45.8822268465701,0 4.87364286058679,45.8822253250005,0 4.87364771284294,45.8822238934546,0 4.87365243314122,45.8822223740212,0 4.87365728539685,45.8822209424749,0 4.87366214071138,45.8822196009523,0 4.873667121865,45.8822181672691,0 4.87367197717905,45.882216825746,0 4.87367696139133,45.88221548208629,0 4.87368194560337,45.88221413842621,0 4.87368680397589,45.8822128869265,0 4.87369166540737,45.8822117254504,0 4.87369664961872,45.8822103817897,0 4.87370176884669,45.88220921604,0 4.87370676223521,45.8822081424506,0 4.87371174950509,45.8822068888131,0 4.87371687179165,45.8822058130867,0 4.87372186212033,45.8822046494727,0 4.87372698746574,45.8822036637696,0 4.87373198391252,45.8822026802029,0 4.8737371061983,45.8822016044755,0 4.87374210264471,45.8822006209084,0 4.87374723104867,45.8821997252283,0 4.87375223055402,45.8821988316846,0 4.87375735895764,45.8821979360041,0 4.87376249042041,45.8821971303472,0 4.87376761882371,45.8821962346662,0 4.87377275028616,45.8821954290088,0 4.87377788480779,45.8821947133751,0 4.87378314516838,45.88219390558059,0 4.87378827968974,45.88219318994641,0 4.87379341727032,45.8821925643359,0 4.87379868068983,45.88219184656451,0 4.87345950475732,45.88218098476949,0 4.87341981416983,45.8822274905405,0 4.87355246033067,45.8824419214832,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.20815">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69284000AC0034</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">MONTANAY</SimpleData>
+					<SimpleData name="Adresse">MONTANAY VILLAGE</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE MONTANAY</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8824497217145 </north>
+			<south> 45.8823607204634 </south>
+			<east> 4.86506118770022 </east>
+			<west> 4.86505195871362 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.86505195871362,45.8824497217145,0 4.86506118770022,45.8824480381804,0 4.86505243043539,45.8823607204634,0 4.86505195871362,45.8824497217145,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.22671">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69284000AD0385</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">MONTANAY</SimpleData>
+					<SimpleData name="Adresse">154, RUE DES MAURES</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE MONTANAY</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8804638755377 </north>
+			<south> 45.8801665870853 </south>
+			<east> 4.86324605825522 </east>
+			<west> 4.86264984298079 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.8632153671878,45.8804638755377,0 4.86324605825522,45.880230977924,0 4.86296660577107,45.8801665870853,0 4.86296637839858,45.8801674915757,0 4.86295584321703,45.8802068475293,0 4.86274777586572,45.8801749674088,0 4.86271564285783,45.880170542849,0 4.86270947935716,45.8801942438825,0 4.86271712668974,45.88019537890201,0 4.86271484684006,45.8802042437526,0 4.8627071995063,45.880203108733,0 4.8626752473603,45.8803185700653,0 4.86267165492956,45.880334392265,0 4.86264984298079,45.880417890266,0 4.86276289490318,45.8804392664623,0 4.86277071346854,45.8804225639463,0 4.86274693718121,45.8804173711582,0 4.86276160093745,45.88038569358,0 4.86277884732519,45.88038847189461,0 4.86278141537421,45.8803805030362,0 4.86280981360717,45.8803850792023,0 4.86281267101274,45.880374223197,0 4.86300040002627,45.880411032209,0 4.86299741376106,45.8804218903434,0 4.8632153671878,45.8804638755377,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.22783">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69284000ZB0388</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">MONTANAY</SimpleData>
+					<SimpleData name="Adresse">LA FERRIERE</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE MONTANAY</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8837856993748 </north>
+			<south> 45.88334464340561 </south>
+			<east> 4.8724416920097 </east>
+			<west> 4.87226977952243 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.872307843122,45.88334464340561,0 4.87226977952243,45.8837619587476,0 4.87240265577844,45.8837856993748,0 4.8724416920097,45.8833628733124,0 4.872307843122,45.88334464340561,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.23304">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69284000ZE0004</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">MONTANAY</SimpleData>
+					<SimpleData name="Adresse">LES CHATEIGNIERS</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE MONTANAY</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8889904831377 </north>
+			<south> 45.88768583557 </south>
+			<east> 4.88072146784616 </east>
+			<west> 4.87948087502124 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.87965506968518,45.88779679867571,0 4.87977661468004,45.8878472012346,0 4.87952315937348,45.8888271051432,0 4.87948087502124,45.8889904831377,0 4.8804225353088,45.8888521424598,0 4.88072146784616,45.88768583557,0 4.88060942927451,45.88771373101901,0 4.88042389609037,45.8877575310414,0 4.88005815063,45.8877818091791,0 4.87971484155319,45.88780211008569,0 4.87965506968518,45.88779679867571,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.23465">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69284000ZB0402</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">MONTANAY</SimpleData>
+					<SimpleData name="Adresse">577, RTE DES ECHETS</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE MONTANAY</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8828686601407 </north>
+			<south> 45.88219184656451 </south>
+			<east> 4.87446152157738 </east>
+			<west> 4.87353881889966 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.87446152157738,45.882220129542,0 4.87406632157396,45.882200200281,0 4.87379868068983,45.88219184656451,0 4.87379341727032,45.8821925643359,0 4.87378827968974,45.88219318994641,0 4.87378314516838,45.88219390558059,0 4.87377788480779,45.8821947133751,0 4.87377275028616,45.8821954290088,0 4.87376761882371,45.8821962346662,0 4.87376249042041,45.8821971303472,0 4.87375735895764,45.8821979360041,0 4.87375223055402,45.8821988316846,0 4.87374723104867,45.8821997252283,0 4.87374210264471,45.8822006209084,0 4.8737371061983,45.8822016044755,0 4.87373198391252,45.8822026802029,0 4.87372698746574,45.8822036637696,0 4.87372186212033,45.8822046494727,0 4.87371687179165,45.8822058130867,0 4.87371174950509,45.8822068888131,0 4.87370676223521,45.8822081424506,0 4.87370176884669,45.88220921604,0 4.87369664961872,45.8822103817897,0 4.87369166540737,45.8822117254504,0 4.87368680397589,45.8822128869265,0 4.87368194560337,45.88221413842621,0 4.87367696139133,45.88221548208629,0 4.87367197717905,45.882216825746,0 4.873667121865,45.8822181672691,0 4.87366214071138,45.8822196009523,0 4.87365728539685,45.8822209424749,0 4.87365243314122,45.8822223740212,0 4.87364771284294,45.8822238934546,0 4.87364286058679,45.8822253250005,0 4.8736380113895,45.8822268465701,0 4.87363354276926,45.8822281816821,0 4.87362907414881,45.88222951679401,0 4.87362473748574,45.88223093979309,0 4.87362040388152,45.882232452816,0 4.87361633419224,45.8822341416134,0 4.87361226756178,45.8822359204346,0 4.87360807203252,45.8822377013922,0 4.87360414041816,45.8822396581244,0 4.87360020880353,45.8822416148565,0 4.87359640914619,45.8822436594759,0 4.87359287034471,45.8822457898462,0 4.87358920876244,45.88224810240051,0 4.87358567607843,45.8822504128183,0 4.87358227535171,45.8822528111234,0 4.87357900352326,45.882255207292,0 4.87357586365211,45.8822576913479,0 4.87357272989868,45.8822603554515,0 4.87356972504353,45.88226301741869,0 4.87356710994287,45.8822657630003,0 4.87356436594335,45.8822685107183,0 4.87356175390115,45.88227134632369,0 4.87355927381628,45.8822742698166,0 4.87355705458737,45.8822772790604,0 4.87355482924026,45.8822801082564,0 4.87355273890951,45.8822831153637,0 4.87355090943478,45.8822862082221,0 4.87354907995985,45.88228930108039,0 4.87354738244233,45.8822924818262,0 4.87354581688225,45.8822957504595,0 4.87354450911932,45.8822990148199,0 4.87354333025493,45.882302277044,0 4.8735421513904,45.882305539268,0 4.87354135922181,45.8823087950828,0 4.87354044121339,45.8823121430579,0 4.87353978100227,45.8823154867602,0 4.87353937858852,45.8823188261897,0 4.87353910507345,45.8823221634828,0 4.87353883155835,45.8823255007759,0 4.87353881889966,45.8823289238201,0 4.87353893208076,45.88233225470399,0 4.87355246033067,45.8824419214832,0 4.87363133541833,45.88256933074981,0 4.8737691039104,45.8826839639863,0 4.8740645973659,45.882824896246,0 4.87418486865046,45.8828686601407,0 4.87419676832485,45.8828279292726,0 4.87431145750739,45.8828364763372,0 4.87437999785936,45.88284191530351,0 4.87446152157738,45.882220129542,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.24762">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69284000AH0044</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">MONTANAY</SimpleData>
+					<SimpleData name="Adresse">ALL DU BERFAYET</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE MONTANAY</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8777361965927 </north>
+			<south> 45.8767904556102 </south>
+			<east> 4.85825880842356 </east>
+			<west> 4.85770679731373 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.85770679731373,45.8777146830827,0 4.857715358551,45.87771616370931,0 4.85782822863828,45.8777361965927,0 4.8579721975993,45.87734344873011,0 4.85800231881318,45.8772614364784,0 4.85804107823583,45.8771564033802,0 4.85804758159322,45.8771389121603,0 4.85810877570832,45.8769725300274,0 4.85814623224668,45.87687094112369,0 4.85825880842356,45.8767904556102,0 4.85820715384173,45.8767959886887,0 4.85806105441418,45.87681541451,0 4.8579374103211,45.8771415338412,0 4.85777623449323,45.8775900501592,0 4.85775169566643,45.8775851391043,0 4.85770679731373,45.8777146830827,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.25133">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69284000AH0045</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">MONTANAY</SimpleData>
+					<SimpleData name="Adresse">ALL DU BERFAYET</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE MONTANAY</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.878110388377 </north>
+			<south> 45.87734344873011 </south>
+			<east> 4.8586331113097 </east>
+			<west> 4.8576233686128 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.8576233686128,45.8779637581638,0 4.85834184879771,45.878110388377,0 4.85840039722361,45.8779535073726,0 4.85849556497092,45.87770847212839,0 4.85860095753049,45.87743777766779,0 4.85861554846438,45.8774000668827,0 4.8586331113097,45.8773587042589,0 4.8579721975993,45.87734344873011,0 4.85782822863828,45.8777361965927,0 4.857715358551,45.87771616370931,0 4.8576233686128,45.8779637581638,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.26956">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69284000ZE0005</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">MONTANAY</SimpleData>
+					<SimpleData name="Adresse">LES CHATEIGNIERS</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE MONTANAY</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8888521424598 </north>
+			<south> 45.8874902923604 </south>
+			<east> 4.88241790373062 </east>
+			<west> 4.8804225353088 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.88072146784616,45.88768583557,0 4.8804225353088,45.8888521424598,0 4.88042382137552,45.8888520309936,0 4.88230342038057,45.88858385485359,0 4.88230399732638,45.8885818636011,0 4.88231922501528,45.8884649631475,0 4.88241790373062,45.8876340010593,0 4.8822376767408,45.88749315239879,0 4.88175575678361,45.88749207760061,0 4.88148960242774,45.8874902923604,0 4.88135373484455,45.88752669187631,0 4.88122332433562,45.8875642614643,0 4.88072172566814,45.88768583128081,0 4.88072146784616,45.88768583557,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.29527">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69284000AH0059</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">MONTANAY</SimpleData>
+					<SimpleData name="Adresse">EN BERFAYET</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE MONTANAY</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8784792869666 </north>
+			<south> 45.8779637581638 </south>
+			<east> 4.85834184879771 </east>
+			<west> 4.8574566394841 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.8574566394841,45.87841218506859,0 4.85764897706491,45.8784482965448,0 4.85765141687453,45.8784403299215,0 4.85768634008386,45.8784472321166,0 4.85768185623124,45.8784557727796,0 4.85780761231963,45.8784792869666,0 4.85782070591755,45.8784430420938,0 4.85785315596934,45.87844926429391,0 4.85786542013154,45.87842285113191,0 4.85794631503487,45.8782402021709,0 4.85821131917257,45.87829727645751,0 4.85826547847822,45.8781517269594,0 4.8583236441814,45.8781595078788,0 4.85834184879771,45.878110388377,0 4.8576233686128,45.8779637581638,0 4.8574566394841,45.87841218506859,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.29887">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69284000AH0060</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">MONTANAY</SimpleData>
+					<SimpleData name="Adresse">116, RUE CENTRALE</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE MONTANAY</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8790566206277 </north>
+			<south> 45.8776883674339 </south>
+			<east> 4.85873896832932 </east>
+			<west> 4.85713187843078 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.85716422849439,45.8788049392243,0 4.85739392901377,45.878843770006,0 4.85740210071183,45.87884516698589,0 4.85741742510909,45.87884833798551,0 4.85757147133886,45.878877062237,0 4.85758522479739,45.8788795384375,0 4.85783130272817,45.8789221525297,0 4.85785607870761,45.8789264291603,0 4.85788241352059,45.8789310404601,0 4.85793093740111,45.8789397006665,0 4.85798840940731,45.878949835102,0 4.85795365326762,45.87903975997481,0 4.85804001686669,45.87905383311799,0 4.85805674703328,45.8790566206277,0 4.85811998308378,45.87892398276501,0 4.85819951543741,45.8788118840936,0 4.85804033614053,45.8787800924777,0 4.85807888272895,45.87867254080191,0 4.85810487119178,45.87862095146101,0 4.85811058181772,45.87862202854969,0 4.85811691566229,45.8786224648739,0 4.85812309331405,45.8786220930979,0 4.85812911477276,45.8786209132217,0 4.85813485114747,45.87861892736409,0 4.85813966405188,45.878616326168,0 4.8581439371243,45.8786130132527,0 4.85814716390294,45.8786092671665,0 4.85826904481059,45.8786402306359,0 4.85830335459719,45.8785676973078,0 4.8586076967457,45.8786325008541,0 4.85871678895573,45.87851361054081,0 4.85873896832932,45.8784944203128,0 4.85867594671442,45.878480324183,0 4.85867711727307,45.8784767920415,0 4.85838120230747,45.878413291329,0 4.85834213308487,45.8785014857651,0 4.85830475477431,45.8784944439856,0 4.85834520543633,45.878405145961,0 4.858233317846,45.8783798731139,0 4.8583236441814,45.8781595078788,0 4.85826547847822,45.8781517269594,0 4.85821131917257,45.87829727645751,0 4.85794631503487,45.8782402021709,0 4.85786542013154,45.87842285113191,0 4.85785315596934,45.87844926429391,0 4.85782070591755,45.8784430420938,0 4.85780761231963,45.8784792869666,0 4.85768185623124,45.8784557727796,0 4.85768634008386,45.8784472321166,0 4.85765141687453,45.8784403299215,0 4.85764897706491,45.8784482965448,0 4.8574566394841,45.87841218506859,0 4.8576233686128,45.8779637581638,0 4.857715358551,45.87771616370931,0 4.85770679731373,45.8777146830827,0 4.8575596702642,45.8776883674339,0 4.85731870914589,45.87833734813029,0 4.85732842288045,45.8783424128158,0 4.85733859602586,45.8783572880335,0 4.85734295395978,45.87837180843561,0 4.85734554688869,45.8783798725016,0 4.85734606694531,45.878391483521,0 4.85729519329414,45.8783819609422,0 4.85726768922663,45.87845366152401,0 4.85727352567703,45.87845464651281,0 4.85713187843078,45.87879403132611,0 4.85716687004961,45.8787991310774,0 4.85716422849439,45.8788049392243,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.30148">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69284000AH0061</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">MONTANAY</SimpleData>
+					<SimpleData name="Adresse">EN BERFAYET</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE MONTANAY</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8788511288205 </north>
+			<south> 45.87819306825731 </south>
+			<east> 4.85734606694531 </east>
+			<west> 4.85641972172488 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.85641972172488,45.8787243028474,0 4.8568594328016,45.8788070643369,0 4.8568808453574,45.87881103613559,0 4.8569618221796,45.8788260092521,0 4.85709408097392,45.8788511288205,0 4.85709961420195,45.8788507676886,0 4.85710410417219,45.8788500634004,0 4.85710845615526,45.8788490911567,0 4.8571128020743,45.8788479388642,0 4.85711687808287,45.8788464307096,0 4.85712068721288,45.8788446567172,0 4.85712423249626,45.8788427069114,0 4.85712763979226,45.87884048915011,0 4.85715209892848,45.8788238739381,0 4.85716122452131,45.87881147391879,0 4.85716422849439,45.8788049392243,0 4.85716687004961,45.8787991310774,0 4.85713187843078,45.87879403132611,0 4.85727352567703,45.87845464651281,0 4.85726768922663,45.87845366152401,0 4.85729519329414,45.8783819609422,0 4.85734606694531,45.878391483521,0 4.85734554688869,45.8783798725016,0 4.85734295395978,45.87837180843561,0 4.85733859602586,45.8783572880335,0 4.85732842288045,45.8783424128158,0 4.85731870914589,45.87833734813029,0 4.85729789118186,45.8783280522724,0 4.85718271069726,45.87830454391231,0 4.85663770677228,45.87819306825731,0 4.85662208921989,45.87823097577321,0 4.85650183226374,45.8785239805111,0 4.85641972172488,45.8787243028474,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.31516">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69284000AD0067</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">MONTANAY</SimpleData>
+					<SimpleData name="Adresse">119, RUE DES MAURES</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE MONTANAY</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8802662749082 </north>
+			<south> 45.87944712430411 </south>
+			<east> 4.86463421638047 </east>
+			<west> 4.86309594888742 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.86379773066256,45.8795123675121,0 4.86378321901844,45.8795408901284,0 4.86346200785736,45.8798015467042,0 4.86326535234301,45.8799737679548,0 4.8631997619599,45.8800325867575,0 4.86309594888742,45.8801204990101,0 4.86373306638367,45.8802662749082,0 4.86406797839517,45.8799950330947,0 4.86415333736806,45.8799258895025,0 4.8644478750535,45.8796964763142,0 4.86463421638047,45.8795511751564,0 4.86436144448963,45.8795164921971,0 4.8638159017372,45.87944712430411,0 4.86379773066256,45.8795123675121,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.32550">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69284000AH0071</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">MONTANAY</SimpleData>
+					<SimpleData name="Adresse">EN BERFAYET</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE MONTANAY</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.87907609704891 </north>
+			<south> 45.8785676973078 </south>
+			<east> 4.8586076967457 </east>
+			<west> 4.85804033614053 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.85805674703328,45.8790566206277,0 4.85814662413168,45.8790716267507,0 4.85818701127115,45.87907609704891,0 4.85822473970855,45.8790361144001,0 4.85838077665,45.8788713255084,0 4.8586076967457,45.8786325008541,0 4.85830335459719,45.8785676973078,0 4.85826904481059,45.8786402306359,0 4.85814716390294,45.8786092671665,0 4.8581439371243,45.8786130132527,0 4.85813966405188,45.878616326168,0 4.85813485114747,45.87861892736409,0 4.85812911477276,45.8786209132217,0 4.85812309331405,45.8786220930979,0 4.85811691566229,45.8786224648739,0 4.85811058181772,45.87862202854969,0 4.85810487119178,45.87862095146101,0 4.85807888272895,45.87867254080191,0 4.85804033614053,45.8787800924777,0 4.85819951543741,45.8788118840936,0 4.85811998308378,45.87892398276501,0 4.85805674703328,45.8790566206277,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.37388">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">69284000AD0095</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">MONTANAY</SimpleData>
+					<SimpleData name="Adresse">57, RUE DES MAURES</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE MONTANAY</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8806737453251 </north>
+			<south> 45.8803716009381 </south>
+			<east> 4.86443742372628 </east>
+			<west> 4.86379685372473 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.86393796366911,45.8806659789838,0 4.86439554355843,45.8806737453251,0 4.86439645611305,45.88065877793311,0 4.86443742372628,45.8803904913471,0 4.86379685372473,45.8803716009381,0 4.86393796366911,45.8806659789838,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

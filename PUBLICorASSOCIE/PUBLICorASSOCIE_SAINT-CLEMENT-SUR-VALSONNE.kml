@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>SAINT-CLEMENT-SUR-VALSONNE_PUBLICorASSOCIE</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_9">
+		<name>SAINT-CLEMENT-SUR-VALSONNE_PUBLICorASSOCIE</name>
+		<Schema name="SAINT-CLEMENT-SUR-VALSONNE_PUBLICorASSOCIE" id="SAINT-CLEMENT-SUR-VALSONNE_PUBLICorASSOCIE.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="PUBLICorASSOCIE">
+			<LineStyle>
+				<color>BFdb2105</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4Cdb2105</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.1757">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">691880000A1004</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT-CLEMENT-SUR-VALSONNE</SimpleData>
+					<SimpleData name="Adresse">MOULIN LOY</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SDIS</SimpleData>
+					<SimpleData name="Denomination">SERVICE DEPARTEMENTAL-METROPOLITAIN DINCENDIE ET DE SECOURS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9326972174205 </north>
+			<south> 45.9320567217577 </south>
+			<east> 4.44150878051513 </east>
+			<west> 4.44066474148719 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.44111363962288,45.9326972174205,0 4.44125682266748,45.9324964417365,0 4.44126695854899,45.9324842440173,0 4.44138434595596,45.93234837281949,0 4.44150878051513,45.9322154738995,0 4.44149676677269,45.9321953624871,0 4.44147321463636,45.9321683730527,0 4.44144317150377,45.9321448887468,0 4.44134553994038,45.93209848844729,0 4.441240266186,45.9320609216427,0 4.44123027906505,45.9320590674382,0 4.44119523894461,45.9320567217577,0 4.44116021582045,45.9320599598351,0 4.44112727180579,45.9320686653421,0 4.44109263961716,45.9320868490891,0 4.44106085598435,45.93211031033871,0 4.44103523564944,45.93213747578551,0 4.44066474148719,45.9325253270298,0 4.44111363962288,45.9326972174205,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

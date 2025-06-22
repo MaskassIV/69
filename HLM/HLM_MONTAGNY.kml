@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>MONTAGNY_HLM</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_5">
+		<name>MONTAGNY_HLM</name>
+		<Schema name="MONTAGNY_HLM" id="MONTAGNY_HLM.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="HLM">
+			<LineStyle>
+				<color>BFe451f5</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4Ce451f5</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.1511">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69136000BI0182</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">MONTAGNY</SimpleData>
+					<SimpleData name="Adresse">SOURZY</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.61991288003281 </north>
+			<south> 45.6195904978366 </south>
+			<east> 4.7452858580686 </east>
+			<west> 4.74514447082287 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.74521476488265,45.61991288003281,0 4.7452858580686,45.6195904978366,0 4.74523812846954,45.61960330760311,0 4.74514447082287,45.6199020811724,0 4.74521476488265,45.61991288003281,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.1605">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69136000BI0189</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">MONTAGNY</SimpleData>
+					<SimpleData name="Adresse">SOURZY</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.620018439175 </north>
+			<south> 45.6195881118586 </south>
+			<east> 4.74611643917447 </east>
+			<west> 4.74521476488265 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.74521476488265,45.61991288003281,0 4.74561370561712,45.6199743335345,0 4.74562716080796,45.620018439175,0 4.74591595876715,45.6200061218822,0 4.74611643917447,45.6199976064428,0 4.74606178531472,45.619929190867,0 4.74605151297121,45.6199127774185,0 4.74605879775198,45.61987105205329,0 4.74606984112353,45.6198223329714,0 4.74607739259118,45.61978907004,0 4.74607713600567,45.6197890740222,0 4.74560399731172,45.6197110296342,0 4.74560012584124,45.619710369142,0 4.74559599778567,45.6197097126307,0 4.74559199518622,45.61970896410271,0 4.74558799258687,45.6197082155747,0 4.74558386169505,45.619707469037,0 4.74557986193247,45.6197068105345,0 4.7455758564969,45.6197059719802,0 4.74557185389798,45.6197052234515,0 4.74556785129918,45.6197044749228,0 4.74556384302742,45.619703546342,0 4.74555983759233,45.6197027077871,0 4.74555582932083,45.6197017792061,0 4.74555182672249,45.61970103067669,0 4.74554794674382,45.619700100105,0 4.74554393563622,45.6196990814976,0 4.74554005565782,45.6196981509256,0 4.74553604738699,45.61969722234389,0 4.74553216457238,45.61969620174569,0 4.7455282817579,45.61969518114729,0 4.74552439894358,45.6196941605489,0 4.74552039067329,45.6196932319666,0 4.74551650502279,45.6196921213419,0 4.74551261937245,45.6196910107172,0 4.74550873939514,45.6196900801441,0 4.74550498203764,45.6196889675286,0 4.74550109355132,45.6196877668775,0 4.74549733619413,45.6196866542618,0 4.74549345054456,45.61968554363639,0 4.74548969035127,45.6196843409945,0 4.74548580186561,45.6196831403428,0 4.74548191054372,45.6196818496652,0 4.74547815318731,45.6196807370488,0 4.74547451845082,45.6196794423902,0 4.74547075542197,45.61967814972169,0 4.7454669923933,45.61967685705321,0 4.74546322936481,45.6196755643845,0 4.745459594629,45.6196742697254,0 4.745455700472,45.6196728890209,0 4.74545206290019,45.61967150433559,0 4.74544842816492,45.61967020967611,0 4.74544491604964,45.6196687329743,0 4.74544127847838,45.6196673482887,0 4.74543763807098,45.619665873577,0 4.74543400050009,45.6196644888911,0 4.74543036009307,45.61966301417921,0 4.74542671968625,45.6196615394672,0 4.7454232047358,45.61965997273879,0 4.74541956716566,45.6196585880524,0 4.7454160522156,45.6196570213239,0 4.74541253726574,45.6196554545952,0 4.74540902231608,45.6196538878663,0 4.74540537907415,45.6196523231277,0 4.74540199241735,45.6196507544084,0 4.74539847463203,45.61964909765341,0 4.74539508513937,45.6196474389079,0 4.74539156735446,45.6196457821527,0 4.74538818069845,45.6196442134329,0 4.74538466007772,45.6196424666515,0 4.74538127058588,45.6196408079057,0 4.74537787825802,45.6196390591338,0 4.74537461705902,45.6196373983976,0 4.74537122473157,45.6196356496255,0 4.74536795786056,45.6196338088372,0 4.74536456553354,45.6196320600649,0 4.74536130149916,45.6196303093023,0 4.74535803746498,45.6196285585396,0 4.74535477059482,45.6196267177509,0 4.7453515008887,45.61962478693619,0 4.74534836231138,45.61962294415709,0 4.74534496998564,45.6196211953843,0 4.74534182857258,45.61961926257911,0 4.74533868715973,45.6196173297738,0 4.7453355457471,45.6196153969684,0 4.74533240433469,45.61961346416291,0 4.74532913746628,45.61961162337351,0 4.74532612151054,45.6196095985517,0 4.74532298009879,45.619607665746,0 4.74531996414348,45.6196056409241,0 4.74531695102452,45.619603706128,0 4.74531380677731,45.6196016832961,0 4.74531079082267,45.619599658474,0 4.74530790316059,45.6195976316615,0 4.74530501266262,45.6195955148232,0 4.74530212500096,45.61959348801061,0 4.7452991090472,45.61959146318811,0 4.74529621854988,45.6195893463495,0 4.7452945110445,45.6195881118586,0 4.7452858580686,45.6195904978366,0 4.74521476488265,45.61991288003281,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.3463">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69136000BH0424</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">MONTAGNY</SimpleData>
+					<SimpleData name="Adresse">117, CHE DU PRE ROND</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.61945127489119 </north>
+			<south> 45.6193122122953 </south>
+			<east> 4.75054062543841 </east>
+			<west> 4.75029460850775 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.75029460850775,45.6193613700452,0 4.75043838254772,45.61945127489119,0 4.75054062543841,45.61936826078711,0 4.75045410516736,45.6193354704064,0 4.75042794929311,45.6193566835313,0 4.7503569760301,45.6193122122953,0 4.75029460850775,45.6193613700452,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.3467">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69136000BH0425</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">MONTAGNY</SimpleData>
+					<SimpleData name="Adresse">117, CHE DU PRE ROND</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.619500310726 </north>
+			<south> 45.6193613700452 </south>
+			<east> 4.75043838254772 </east>
+			<west> 4.75023311047585 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.75023311047585,45.6194096135324,0 4.75037806476766,45.619500310726,0 4.75043838254772,45.61945127489119,0 4.75029460850775,45.6193613700452,0 4.75023311047585,45.6194096135324,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.3473">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69136000BH0426</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">MONTAGNY</SimpleData>
+					<SimpleData name="Adresse">117, CHE DU PRE ROND</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6195499906804 </north>
+			<south> 45.6194096135324 </south>
+			<east> 4.75037806476766 </east>
+			<west> 4.75017099647366 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.7503168687462,45.6195499906804,0 4.75034865283517,45.6195240964496,0 4.75037806476766,45.619500310726,0 4.75023311047585,45.6194096135324,0 4.75017099647366,45.619458677197,0 4.7503168687462,45.6195499906804,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.4504">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69136000BB0067</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">MONTAGNY</SimpleData>
+					<SimpleData name="Adresse">LA ROCHE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6196703625173 </north>
+			<south> 45.61929427698059 </south>
+			<east> 4.74609812428563 </east>
+			<west> 4.74527121066669 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.74600164398029,45.6196703625173,0 4.74600674064447,45.6196569530726,0 4.74606083339633,45.6195120917733,0 4.74609812428563,45.6194124361056,0 4.74575721371434,45.61933909541979,0 4.74573853917215,45.6193818981916,0 4.74533107691231,45.61929427698059,0 4.74527121066669,45.6194311211689,0 4.7452882050831,45.6194653543187,0 4.74530411479593,45.6194733038784,0 4.74546040392803,45.6195532932693,0 4.74563779122306,45.6196103475498,0 4.74585068215889,45.6196454139893,0 4.74600164398029,45.6196703625173,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.4731">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69136000BB0076</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">MONTAGNY</SimpleData>
+					<SimpleData name="Adresse">3, RUE DU BOLOT</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6197010670804 </north>
+			<south> 45.6194124361056 </south>
+			<east> 4.74628475431745 </east>
+			<west> 4.74600164398029 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.74600164398029,45.6196703625173,0 4.74618795672017,45.6197010670804,0 4.74628475431745,45.61941251179201,0 4.7462186011092,45.6194149796879,0 4.74612422935329,45.6194180656419,0 4.74609812428563,45.6194124361056,0 4.74606083339633,45.6195120917733,0 4.74600674064447,45.6196569530726,0 4.74600164398029,45.6196703625173,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

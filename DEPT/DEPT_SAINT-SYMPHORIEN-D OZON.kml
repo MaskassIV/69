@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>SAINT-SYMPHORIEN-D OZON_DEPT</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_3">
+		<name>SAINT-SYMPHORIEN-D OZON_DEPT</name>
+		<Schema name="SAINT-SYMPHORIEN-D OZON_DEPT" id="SAINT-SYMPHORIEN-D OZON_DEPT.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="DEPT">
+			<LineStyle>
+				<color>BF63f16c</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C63f16c</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.266">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69291000AY0052</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT-SYMPHORIEN-D OZON</SimpleData>
+					<SimpleData name="Adresse">FOUGERES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6261972491559 </north>
+			<south> 45.625688338243 </south>
+			<east> 4.85664804735105 </east>
+			<west> 4.85615479544082 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.85615479544082,45.6256977844885,0 4.85615955449547,45.6257057224642,0 4.85651018331575,45.6261819176262,0 4.85652649279353,45.6261897550837,0 4.85655118582518,45.6261949321712,0 4.85663457850141,45.6261972491559,0 4.85664804735105,45.6261969368374,0 4.85622508420438,45.625688338243,0 4.85615479544082,45.6256977844885,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1345">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69291000AH0145</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT-SYMPHORIEN-D OZON</SimpleData>
+					<SimpleData name="Adresse">1, RUE DU STADE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6350209100465 </north>
+			<south> 45.6346354245531 </south>
+			<east> 4.86824932745258 </east>
+			<west> 4.86795174224277 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.86809189347713,45.6347012982125,0 4.86795174224277,45.63496943077431,0 4.86806826392496,45.6350209100465,0 4.86824932745258,45.6346676995031,0 4.86812626401449,45.6346354245531,0 4.86809189347713,45.6347012982125,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1373">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69291000AH0147</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT-SYMPHORIEN-D OZON</SimpleData>
+					<SimpleData name="Adresse">1, RUE DU STADE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6352203544578 </north>
+			<south> 45.6350427012233 </south>
+			<east> 4.86841817440395 </east>
+			<west> 4.86809849492085 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.86814462381219,45.6350427012233,0 4.86809932110456,45.6351232581538,0 4.86809849492085,45.6351292167029,0 4.86809906511601,45.6351347017059,0 4.86810232020876,45.6351436549966,0 4.86810703623987,45.6351502421312,0 4.86811549491792,45.6351573976502,0 4.86821162804206,45.635213448676,0 4.86822111715573,45.635216894078,0 4.86823198139389,45.6352192357716,0 4.86824241511067,45.6352202335126,0 4.86825140689725,45.6352203544578,0 4.86826023391923,45.6352193972586,0 4.86826827277681,45.63521791270381,0 4.86827424934068,45.6352161921658,0 4.86828071490586,45.63521374292319,0 4.86838645244155,45.6351738864829,0 4.86841817440395,45.63512084710611,0 4.86814462381219,45.6350427012233,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1409">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69291000AH0149</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT-SYMPHORIEN-D OZON</SimpleData>
+					<SimpleData name="Adresse">1, RUE DU STADE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.63496943077431 </north>
+			<south> 45.63467869141449 </south>
+			<east> 4.86809189347713 </east>
+			<west> 4.86787586727535 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.86800497822026,45.63467869141449,0 4.86787586727535,45.6349239421584,0 4.86788066907882,45.6349292668525,0 4.86788438661094,45.6349328981517,0 4.86788730080658,45.63493555197891,0 4.8678903402897,45.6349381136533,0 4.86789547848789,45.6349419915914,0 4.86794078394351,45.6349642983454,0 4.86795174224277,45.63496943077431,0 4.86809189347713,45.6347012982125,0 4.86800497822026,45.63467869141449,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1466">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69291000AH0151</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT-SYMPHORIEN-D OZON</SimpleData>
+					<SimpleData name="Adresse">1, RUE DU STADE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6349239421584 </north>
+			<south> 45.6345373796932 </south>
+			<east> 4.86800497822026 </east>
+			<west> 4.86737857866488 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.86746146998782,45.6345373796932,0 4.86738992164313,45.63467349666719,0 4.86737857866488,45.6346950322439,0 4.86780740870794,45.6348166302319,0 4.867807928072,45.6348168017582,0 4.8678085757591,45.63481697115479,0 4.86780909815914,45.63481723270401,0 4.86780961752321,45.6348174042303,0 4.86781013688728,45.6348175757567,0 4.8678105309643,45.6348178394358,0 4.86781105032838,45.63481801096211,0 4.86781156969247,45.63481818248849,0 4.86781222041556,45.6348184419079,0 4.86781274281563,45.63481870345709,0 4.86781326217973,45.6348188749834,0 4.86781378457981,45.6348191365326,0 4.86781430394391,45.634819308059,0 4.867814826344,45.6348195696081,0 4.86781522042105,45.6348198332872,0 4.86781574282114,45.6348200948364,0 4.86781626218526,45.6348202663627,0 4.86781678458537,45.63482052791191,0 4.86781730698548,45.6348207894611,0 4.86781782938559,45.6348210510102,0 4.86781822346267,45.6348213146893,0 4.86781874586279,45.6348215762385,0 4.86781926826292,45.6348218377876,0 4.86781966234001,45.6348221014666,0 4.86782018474015,45.6348223630158,0 4.86782071017628,45.63482271458781,0 4.86782110425338,45.6348229782668,0 4.86782162665354,45.634823239816,0 4.86782202073065,45.634823503495,0 4.8678225461668,45.63482385506699,0 4.86782294024392,45.634824118746,0 4.86782346264409,45.63482438029521,0 4.86782385975721,45.634824733997,0 4.86782425383435,45.634824997676,0 4.86782465094748,45.6348253513778,0 4.86782517334767,45.634825612927,0 4.86782557046081,45.6348259666288,0 4.86782596453796,45.63482623030779,0 4.86782636165111,45.63482658400971,0 4.86782675572827,45.63482684768871,0 4.86782715284143,45.6348272013905,0 4.86782754995459,45.6348275550923,0 4.86782794706776,45.6348279087942,0 4.86782834114494,45.6348281724732,0 4.86782873825812,45.63482852617501,0 4.8678291353713,45.6348288798768,0 4.86782953248449,45.6348292335787,0 4.86782992959769,45.6348295872805,0 4.86783032671089,45.63482994098229,0 4.86783059246503,45.6348302067911,0 4.86783098957824,45.634830560493,0 4.86783138669145,45.63483091419479,0 4.86783165548161,45.6348312700265,0 4.86783205259483,45.6348316237283,0 4.867832324421,45.6348320695828,0 4.86783272153423,45.6348324232847,0 4.8678329903244,45.6348327791163,0 4.86783338743765,45.6348331328181,0 4.86783365622783,45.6348334886498,0 4.86783392501801,45.6348338444815,0 4.86783432213126,45.6348341981833,0 4.86783459395746,45.6348346440378,0 4.86783486274766,45.6348349998695,0 4.86783513153785,45.6348353557012,0 4.86783540336407,45.6348358015557,0 4.86783567215427,45.6348361573874,0 4.86783594094448,45.634836513219,0 4.86783621277071,45.6348369590736,0 4.86783648156092,45.6348373149052,0 4.86783675035114,45.6348376707369,0 4.86783702217738,45.6348381165914,0 4.8678372909676,45.6348384724231,0 4.86783743447077,45.6348389204075,0 4.867837703261,45.63483927623911,0 4.86783797508725,45.63483972209371,0 4.86783811555441,45.6348400800552,0 4.86783838738067,45.6348405259097,0 4.86783852784783,45.6348408838712,0 4.8678387996741,45.6348413297257,0 4.86783894014126,45.63484168768729,0 4.86783921196754,45.6348421335418,0 4.86783935243471,45.6348424915033,0 4.8678394959379,45.6348429394877,0 4.86783963944109,45.63484338747211,0 4.86783990823136,45.6348437433038,0 4.86784005173456,45.6348441912881,0 4.86784019523776,45.6348446392725,0 4.86784033570494,45.634844997234,0 4.86784047920815,45.6348454452184,0 4.86785775668564,45.63488947448531,0 4.86785893203789,45.63489386856579,0 4.86786036100071,45.6348981683636,0 4.86786162520781,45.63490139001719,0 4.86786356442791,45.6349055912726,0 4.86786643834383,45.6349108578928,0 4.8678734603018,45.6349210997656,0 4.86787586727535,45.6349239421584,0 4.86800497822026,45.63467869141449,0 4.86746146998782,45.6345373796932,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.4858">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69291000AY0050</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT-SYMPHORIEN-D OZON</SimpleData>
+					<SimpleData name="Adresse">FOUGERES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6236781492121 </north>
+			<south> 45.6230255533122 </south>
+			<east> 4.85531511441661 </east>
+			<west> 4.85519433912144 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.85531511441661,45.6236781492121,0 4.85521790643062,45.6230255533122,0 4.85519433912144,45.62302711285751,0 4.8551975689871,45.6230660611242,0 4.85521089112121,45.6231955462941,0 4.85523560101698,45.62340825111031,0 4.85526753894273,45.6235991291969,0 4.8552950879132,45.62367811914941,0 4.85531511441661,45.6236781492121,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.5266">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69291000AH0059</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT-SYMPHORIEN-D OZON</SimpleData>
+					<SimpleData name="Adresse">1, RUE DU STADE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6351874055113 </north>
+			<south> 45.6346676995031 </south>
+			<east> 4.86884431174541 </east>
+			<west> 4.86806826392496 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.86824932745258,45.6346676995031,0 4.86806826392496,45.6350209100465,0 4.86814462381219,45.6350427012233,0 4.86841817440395,45.63512084710611,0 4.86865178893007,45.6351874055113,0 4.86884431174541,45.6348238253923,0 4.86849040157624,45.63473089172841,0 4.86824932745258,45.6346676995031,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.5455">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69291000AK0062</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT-SYMPHORIEN-D OZON</SimpleData>
+					<SimpleData name="Adresse">PINGONETIERE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6391757174216 </north>
+			<south> 45.6389932598305 </south>
+			<east> 4.88190925229469 </east>
+			<west> 4.8811961821678 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.88190925229469,45.6391757174216,0 4.88182960277067,45.63915570179411,0 4.88149051464505,45.6390696761249,0 4.8811961821678,45.6389932598305,0 4.88121130722431,45.6390000327551,0 4.88122295814054,45.6390065935285,0 4.88124439310021,45.6390214576769,0 4.88126268092551,45.6390381759009,0 4.88127461014166,45.6390529287184,0 4.88127841751325,45.63905917022951,0 4.88128743474075,45.6390713595866,0 4.88129772306367,45.6390831674009,0 4.88130914803391,45.6390944157721,0 4.88132145298692,45.6391051089903,0 4.88133501986206,45.6391151505971,0 4.88134946060385,45.6391244570052,0 4.88136490660292,45.6391331160915,0 4.8813810950776,45.6391409521012,0 4.88139802602749,45.63914796503399,0 4.88141569945212,45.6391541548895,0 4.88143385868582,45.6391595259581,0 4.88145249761115,45.6391638981946,0 4.88147136567889,45.6391674559345,0 4.88149071037808,45.63916992481939,0 4.88151028421791,45.6391715792074,0 4.8815299496894,45.6391721511763,0 4.88154971290849,45.6391718207712,0 4.88156931720904,45.639170592283,0 4.8815887564729,45.6391682856668,0 4.88160791154229,45.6391651731357,0 4.88164585489644,45.63915571154471,0 4.88166431629722,45.6391510793494,0 4.88168271971376,45.6391485198145,0 4.88170156930187,45.6391477542897,0 4.88171996673566,45.6391487977947,0 4.88190925229469,45.6391757174216,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

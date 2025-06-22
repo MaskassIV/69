@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>CURIS-AU-MONT-D OR_HLM</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_5">
+		<name>CURIS-AU-MONT-D OR_HLM</name>
+		<Schema name="CURIS-AU-MONT-D OR_HLM" id="CURIS-AU-MONT-D OR_HLM.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="HLM">
+			<LineStyle>
+				<color>BFe451f5</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4Ce451f5</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.3607">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69071000AE0448</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CURIS-AU-MONT-D OR</SimpleData>
+					<SimpleData name="Adresse">112, RUE DE LA TROLANDERIE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8704111733549 </north>
+			<south> 45.87010440240789 </south>
+			<east> 4.82178174827385 </east>
+			<west> 4.8213796191209 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.82146147154286,45.87010440240789,0 4.82145013664574,45.8701164747504,0 4.82144687321527,45.8701152663219,0 4.82142147822462,45.87014278763079,0 4.8213796191209,45.8701871477378,0 4.82138366173466,45.8701885237572,0 4.82147496248411,45.8702356918172,0 4.82143637366656,45.8702892767751,0 4.82140345845544,45.8703077318148,0 4.82152408255277,45.8704111733549,0 4.82158925673776,45.8703739134802,0 4.82168579850173,45.8703220965457,0 4.82168021337818,45.8703169623264,0 4.82178174827385,45.87026407401859,0 4.82171745392318,45.8702147594942,0 4.82162001381023,45.87014958587361,0 4.82155691512786,45.8701247518958,0 4.82154481890767,45.8701371968116,0 4.82146147154286,45.87010440240789,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

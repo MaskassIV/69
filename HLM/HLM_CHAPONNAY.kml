@@ -1,0 +1,1618 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>CHAPONNAY_HLM</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_5">
+		<name>CHAPONNAY_HLM</name>
+		<Schema name="CHAPONNAY_HLM" id="CHAPONNAY_HLM.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="HLM">
+			<LineStyle>
+				<color>BFe451f5</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4Ce451f5</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.474">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">692700000G1044</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHAPONNAY</SimpleData>
+					<SimpleData name="Adresse">1, RUE JOANNY ODET</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6277952304704 </north>
+			<south> 45.62771690060121 </south>
+			<east> 4.93497689210204 </east>
+			<west> 4.93476026821794 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.93480951390804,45.627718932753,0 4.93477054347321,45.62771690060121,0 4.93476026821794,45.62778292212231,0 4.93497689210204,45.6277952304704,0 4.93495626408036,45.6277265877325,0 4.93480951390804,45.627718932753,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.544">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">692700000B1091</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHAPONNAY</SimpleData>
+					<SimpleData name="Adresse">LE VILLAGE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6294398234154 </north>
+			<south> 45.6294161969468 </south>
+			<east> 4.93460718254622 </east>
+			<west> 4.93455238742818 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.93455238742818,45.6294398234154,0 4.93460718254622,45.6294280723383,0 4.93456966451461,45.6294161969468,0 4.93455238742818,45.6294398234154,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.545">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">692700000G1099</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHAPONNAY</SimpleData>
+					<SimpleData name="Adresse">RUE DE LA POSTE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6279470987133 </north>
+			<south> 45.62791475471649 </south>
+			<east> 4.9349243891994 </east>
+			<west> 4.93476198525368 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.9347620229863,45.6279470987133,0 4.93480515092813,45.6279395114298,0 4.93489393889869,45.6279269955217,0 4.9349243891994,45.6279166537189,0 4.934762433806,45.62791475471649,0 4.93476198525368,45.6279460184619,0 4.9347620229863,45.6279470987133,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.763">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">692700000G1218</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHAPONNAY</SimpleData>
+					<SimpleData name="Adresse">4, RUE JACKY POULET</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6259280070935 </north>
+			<south> 45.6255764796145 </south>
+			<east> 4.93179349227307 </east>
+			<west> 4.93093776200054 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.93093776200054,45.6259280070935,0 4.93100025759156,45.6259052265161,0 4.93105249725826,45.6259012674243,0 4.93179349227307,45.6258940423104,0 4.93178961765811,45.62558416103221,0 4.93175493921592,45.6255836755233,0 4.93147135961895,45.6255800768251,0 4.93118765175967,45.6255764796145,0 4.9309526610427,45.62558204394921,0 4.93093776200054,45.6259280070935,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.829">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">692700000G1266</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHAPONNAY</SimpleData>
+					<SimpleData name="Adresse">5299, RTE DE MARENNES</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6272236929579 </north>
+			<south> 45.6270673258883 </south>
+			<east> 4.93467186474151 </east>
+			<west> 4.93445400345953 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.93445400345953,45.6272072941203,0 4.93445894107926,45.6272236929579,0 4.93454806124434,45.627220719545,0 4.93462480144709,45.6272161574197,0 4.93465386644611,45.62721394625461,0 4.93467186474151,45.627203638464,0 4.9346438996299,45.62711971901089,0 4.93462640740542,45.6270673258883,0 4.93461221928098,45.62706910111041,0 4.93464508608164,45.627179418344,0 4.93445400345953,45.6272072941203,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.895">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">692700000B1309</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHAPONNAY</SimpleData>
+					<SimpleData name="Adresse">32, RUE DE LA POSTE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6294974486039 </north>
+			<south> 45.6291605291239 </south>
+			<east> 4.93504698400739 </east>
+			<west> 4.93456966451461 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.93489423557874,45.6294974486039,0 4.93503218913183,45.62926052094029,0 4.93503391498263,45.6292511234571,0 4.93504548018167,45.6291889529448,0 4.93504698400739,45.629180550105,0 4.93486022514052,45.6291670076646,0 4.93477077169213,45.6291605291239,0 4.93476592869003,45.6291688992995,0 4.93475168650492,45.6291875194908,0 4.9346249046105,45.6293510237175,0 4.93456966451461,45.6294161969468,0 4.93460718254622,45.6294280723383,0 4.93471439435476,45.629461448343,0 4.93476030599488,45.6294563353344,0 4.93489423557874,45.6294974486039,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.931">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">692700000B1330</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHAPONNAY</SimpleData>
+					<SimpleData name="Adresse">3, RUE CENTRALE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6274252152926 </north>
+			<south> 45.62717841704799 </south>
+			<east> 4.9367800681257 </east>
+			<west> 4.93641927018589 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.93641927018589,45.6273843553542,0 4.93671956823572,45.6274252152926,0 4.93673668281713,45.6273639398859,0 4.93673977558736,45.627353257793,0 4.93675713099205,45.6272915278623,0 4.93677207843264,45.627238036208,0 4.9367800681257,45.6272095250347,0 4.9365150314417,45.62717841704799,0 4.93650020498321,45.62718029356981,0 4.93648960065332,45.6271854302028,0 4.93647737244642,45.627191855833,0 4.93647473619718,45.6272009087098,0 4.93645642888562,45.62726112369779,0 4.93643317727167,45.62733781743459,0 4.93641927018589,45.6273843553542,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.1690">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">692700000B1958</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHAPONNAY</SimpleData>
+					<SimpleData name="Adresse">13, RUE LOUIS BUYAT</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.63380590925001 </north>
+			<south> 45.6333097770996 </south>
+			<east> 4.94048761769351 </east>
+			<west> 4.9400239813228 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.9400239813228,45.6336793183296,0 4.94018974908963,45.63376023036981,0 4.94023782464911,45.6337838118651,0 4.94031574469535,45.63380534747821,0 4.94043465848136,45.63380590925001,0 4.94048761769351,45.6336830341812,0 4.94038440343361,45.63366148446279,0 4.94039601662099,45.6336338112724,0 4.9403468680753,45.6336235794805,0 4.94037947776049,45.6335465433322,0 4.94040249475412,45.63349255168959,0 4.94039085475183,45.633490140218,0 4.94041643606612,45.6334287181869,0 4.94041691464127,45.6334277191072,0 4.94044252112923,45.63336701723721,0 4.94032040923195,45.6333411094208,0 4.94017332734606,45.6333097770996,0 4.9400239813228,45.6336793183296,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.1691">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">692700000B1959</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHAPONNAY</SimpleData>
+					<SimpleData name="Adresse">13, RUE LOUIS BUYAT</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6336830341812 </north>
+			<south> 45.6335465433322 </south>
+			<east> 4.94053170885446 </east>
+			<west> 4.9403468680753 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.94048761769351,45.6336830341812,0 4.94050305943825,45.6336473683394,0 4.94053170885446,45.6335782369793,0 4.94037947776049,45.6335465433322,0 4.9403468680753,45.6336235794805,0 4.94039601662099,45.6336338112724,0 4.94038440343361,45.63366148446279,0 4.94048761769351,45.6336830341812,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.1699">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">692700000B1961</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHAPONNAY</SimpleData>
+					<SimpleData name="Adresse">13, RUE LOUIS BUYAT</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6335423099203 </north>
+			<south> 45.6334277191072 </south>
+			<east> 4.94057861135543 </east>
+			<west> 4.94039085475183 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.94054662781038,45.6335423099203,0 4.94057861135543,45.6334657348829,0 4.940548751181,45.6334783198907,0 4.9404699689745,45.63346148322461,0 4.9404770708977,45.6334406434581,0 4.94041691464127,45.6334277191072,0 4.94041643606612,45.6334287181869,0 4.94039085475183,45.633490140218,0 4.94040249475412,45.63349255168959,0 4.94053105757715,45.63351933900979,0 4.94054662781038,45.6335423099203,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.1833">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">692700000B2088</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHAPONNAY</SimpleData>
+					<SimpleData name="Adresse">CLOS DE L EGLISE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6286689902753 </north>
+			<south> 45.6279447054241 </south>
+			<east> 4.9378723664577 </east>
+			<west> 4.93766678367547 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.93766678367547,45.6286663559965,0 4.93769165381522,45.6286689902753,0 4.93770182119823,45.6286256692091,0 4.9378723664577,45.62795563589891,0 4.93783757775832,45.6279447054241,0 4.93766678367547,45.6286663559965,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.1839">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">692700000B2094</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHAPONNAY</SimpleData>
+					<SimpleData name="Adresse">CLOS DE L EGLISE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6298502063338 </north>
+			<south> 45.62788316496231 </south>
+			<east> 4.93783757775832 </east>
+			<west> 4.93703858410712 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.93771614488257,45.6297654132006,0 4.93768178345923,45.6296529606406,0 4.93766424896283,45.6295957946615,0 4.9376169819627,45.6294410488671,0 4.93760056913199,45.62934621216939,0 4.93760008028961,45.6293432481083,0 4.93757602773563,45.629345643932,0 4.9375592293373,45.62926180303359,0 4.93759192649708,45.6290918087255,0 4.93769165381522,45.6286689902753,0 4.93766678367547,45.6286663559965,0 4.93783757775832,45.6279447054241,0 4.93764516333813,45.62788316496231,0 4.93759810597346,45.62796558334009,0 4.93738725400978,45.6282578146117,0 4.93721679745436,45.6284607161089,0 4.93719942167507,45.6285438843432,0 4.93713480290179,45.628726227905,0 4.93704353539277,45.6288881327575,0 4.93703858410712,45.6289007384305,0 4.9370535197411,45.6290304596788,0 4.93707524313468,45.6291597037769,0 4.93710540973942,45.6292880819224,0 4.93714375670029,45.6294154184845,0 4.93719052809406,45.6295413489533,0 4.93724520129553,45.6296656120916,0 4.93732714858439,45.6298502063338,0 4.93771614488257,45.6297654132006,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.1840">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">692700000B2099</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHAPONNAY</SimpleData>
+					<SimpleData name="Adresse">CLOS DE L EGLISE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.62991377273421 </north>
+			<south> 45.6296579202901 </south>
+			<east> 4.93716700974227 </east>
+			<west> 4.9367635861115 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.9367635861115,45.6297268668369,0 4.93685254556349,45.62991377273421,0 4.93716700974227,45.62985269309729,0 4.93709884537402,45.62969875723569,0 4.93708205445179,45.6296628360989,0 4.93707982836404,45.6296579202901,0 4.9367635861115,45.6297268668369,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2477">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">692700000A2820</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHAPONNAY</SimpleData>
+					<SimpleData name="Adresse">2300, RTE DE MIONS</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6428541895329 </north>
+			<south> 45.642398142152 </south>
+			<east> 4.94309332478055 </east>
+			<west> 4.94277712803593 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.94307024177363,45.6424285619823,0 4.94303001404613,45.6424239420242,0 4.9430319083502,45.6424157124625,0 4.94288091743043,45.642398142152,0 4.94277712803593,45.6428365290616,0 4.94292812327638,45.6428541895329,0 4.94299603306761,45.6428425684615,0 4.94309332478055,45.6424313161104,0 4.94307024177363,45.6424285619823,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2478">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">692700000A2821</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHAPONNAY</SimpleData>
+					<SimpleData name="Adresse">2300, RTE DE MIONS</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6428467118297 </north>
+			<south> 45.6425748351617 </south>
+			<east> 4.94330989647806 </east>
+			<west> 4.94307952070916 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.94308410978004,45.6428274465484,0 4.94307952070916,45.6428467118297,0 4.94325732666022,45.6428159888938,0 4.94326336293484,45.6427903933405,0 4.94330989647806,45.6425941263178,0 4.9431438199369,45.6425748351617,0 4.94308410978004,45.6428274465484,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2479">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">692700000A2822</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHAPONNAY</SimpleData>
+					<SimpleData name="Adresse">2300, RTE DE MIONS</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6424964916358 </north>
+			<south> 45.642077205082 </south>
+			<east> 4.94346568716717 </east>
+			<west> 4.94316797458321 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.94316797458321,45.64247272303601,0 4.94324714676048,45.6424819849978,0 4.94328763438299,45.64248669046749,0 4.94331793593547,45.6424902206681,0 4.94335107356128,45.64249406219291,0 4.94337209056687,45.6424964916358,0 4.94346568716717,45.6421007956855,0 4.94326672819033,45.6420775687677,0 4.94326170725647,45.642077205082,0 4.94316797458321,45.64247272303601,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2480">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">692700000A2823</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHAPONNAY</SimpleData>
+					<SimpleData name="Adresse">2300, RTE DE MIONS</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6420118003254 </north>
+			<south> 45.6418027977953 </south>
+			<east> 4.94355835780405 </east>
+			<west> 4.94291862125502 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.94355027015531,45.6419825073256,0 4.9435392798976,45.64191451004621,0 4.94355835780405,45.6419129195436,0 4.9435403673097,45.6418027977953,0 4.94344176006899,45.6418105355999,0 4.94333828549904,45.6418186275866,0 4.94318640085529,45.6418304377159,0 4.94291862125502,45.6418513643408,0 4.9429367799257,45.6419626542444,0 4.94292397468762,45.6419636859797,0 4.94293151109602,45.64201012484261,0 4.94318057957283,45.6419902418563,0 4.94318403277221,45.6420118003254,0 4.94323128478491,45.6420080120102,0 4.94322016657717,45.6419400169153,0 4.94325589666603,45.64193723819939,0 4.94326701175807,45.6420051432699,0 4.94355027015531,45.6419825073256,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2481">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">692700000A2824</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHAPONNAY</SimpleData>
+					<SimpleData name="Adresse">2300, RTE DE MIONS</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6423402805847 </north>
+			<south> 45.6420591121661 </south>
+			<east> 4.94317652630486 </east>
+			<west> 4.94289868898674 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.9429603095403,45.64206232178069,0 4.94289868898674,45.6423227125138,0 4.94304980804403,45.6423402805847,0 4.94305170550097,45.64233214104361,0 4.94309257800985,45.64233683993649,0 4.94311501613334,45.6423395151176,0 4.94317652630486,45.6420796666065,0 4.94300013386639,45.6420591121661,0 4.9429603095403,45.64206232178069,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2482">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">692700000A2825</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHAPONNAY</SimpleData>
+					<SimpleData name="Adresse">LEYRIEU</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6423492347445 </north>
+			<south> 45.6418513643408 </south>
+			<east> 4.94309548356227 </east>
+			<west> 4.94284549909409 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.94293151109602,45.64201012484261,0 4.94292397468762,45.6419636859797,0 4.9429367799257,45.6419626542444,0 4.94291862125502,45.6418513643408,0 4.94284549909409,45.6418571303888,0 4.94287313369587,45.6421616485312,0 4.94286722041936,45.642300556747,0 4.94287158535806,45.6423151636825,0 4.94288521786714,45.64232672822521,0 4.94290481160102,45.6423325151117,0 4.94304768233949,45.6423492347445,0 4.9430719381328,45.6423488159915,0 4.94309417608824,45.64234212679371,0 4.94309548356227,45.64233913173369,0 4.94309257800985,45.64233683993649,0 4.94305170550097,45.64233214104361,0 4.94304980804403,45.6423402805847,0 4.94289868898674,45.6423227125138,0 4.9429603095403,45.64206232178069,0 4.94294033320709,45.6420639276904,0 4.94293151109602,45.64201012484261,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2483">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">692700000A2826</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHAPONNAY</SimpleData>
+					<SimpleData name="Adresse">LEYRIEU</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6429229148458 </north>
+			<south> 45.64238997905549 </south>
+			<east> 4.94328425171047 </east>
+			<west> 4.94274561470295 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.94284624731403,45.6423982001852,0 4.94282741020774,45.6424798634078,0 4.94280621272578,45.64257111535991,0 4.94278785756545,45.6426628586969,0 4.94277001569824,45.6427545931705,0 4.94275781464414,45.6428167756289,0 4.94275456454697,45.64283394604921,0 4.9427528608287,45.6428512699279,0 4.9427940018549,45.642852631512,0 4.94279166852537,45.64288861186089,0 4.94274924092638,45.6428871824077,0 4.94274561470295,45.6429229148458,0 4.94327485810106,45.642832530297,0 4.94328425171047,45.6427928250157,0 4.94326336293484,45.6427903933405,0 4.94325732666022,45.6428159888938,0 4.94307952070916,45.6428467118297,0 4.94308410978004,45.6428274465484,0 4.94299603306761,45.6428425684615,0 4.94292812327638,45.6428541895329,0 4.94277712803593,45.6428365290616,0 4.94288091743043,45.642398142152,0 4.9430319083502,45.6424157124625,0 4.94303001404613,45.6424239420242,0 4.94307024177363,45.6424285619823,0 4.9430745641926,45.6424273163797,0 4.9430747071542,45.6424240711981,0 4.94305671741792,45.6424127620512,0 4.9430340372185,45.6424068483238,0 4.94289632826666,45.6423908502437,0 4.94287896162679,45.64238997905549,0 4.94286184334312,45.6423925264415,0 4.94284624731403,45.6423982001852,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2484">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">692700000A2827</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHAPONNAY</SimpleData>
+					<SimpleData name="Adresse">LEYRIEU</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6425384707215 </north>
+			<south> 45.6419917514719 </south>
+			<east> 4.94430214072597 </east>
+			<west> 4.94326672819033 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.94326672819033,45.6420775687677,0 4.94346568716717,45.6421007956855,0 4.94337209056687,45.6424964916358,0 4.94335107356128,45.64249406219291,0 4.94334056094705,45.6425384707215,0 4.94340285182908,45.64252775709409,0 4.94346110349922,45.6422812057495,0 4.94365017824272,45.64225695315219,0 4.94383810410546,45.64223290022769,0 4.94402615814215,45.6422088447728,0 4.94420615838334,45.6421858288788,0 4.94419757846557,45.64224137346309,0 4.9442040142906,45.6422418027417,0 4.9441804512191,45.6423936265262,0 4.94425767193322,45.64238022248539,0 4.94427966131498,45.6423701144799,0 4.94429518831253,45.6423551639605,0 4.94430214072597,45.6423373890775,0 4.94429982439489,45.6423189636339,0 4.9442572137195,45.6423488841598,0 4.94423680623154,45.6423345543999,0 4.94424858549602,45.6423262441318,0 4.94422817801863,45.6423119143704,0 4.9442399604402,45.642303694124,0 4.94421955297335,45.64228936436101,0 4.9442313322308,45.64228105409481,0 4.94421092477453,45.6422667243303,0 4.94426532097418,45.642228673594,0 4.94422741203891,45.6421291646082,0 4.94418204126545,45.6421609342942,0 4.94416163386619,45.6421466045209,0 4.94417341626246,45.6421383842816,0 4.94415300887374,45.64212405450681,0 4.94416478810602,45.6421157442476,0 4.9441445185461,45.6421016823168,0 4.94415190079705,45.64209615027329,0 4.94413254540774,45.6420825229263,0 4.94419333179094,45.6420399481465,0 4.94418103819588,45.6420080035899,0 4.94417598001078,45.64199926357621,0 4.94416762616031,45.6419917514719,0 4.94414124885652,45.641993918543,0 4.94411331320902,45.6421748221183,0 4.94395878341361,45.6421698348679,0 4.94395605971573,45.6421873565386,0 4.9438014015624,45.6421823712888,0 4.943798680974,45.6421999829765,0 4.94364415113673,45.6421949952942,0 4.94364143049771,45.64221260697821,0 4.94347867442201,45.6422074008275,0 4.94351400329378,45.6420578060863,0 4.94326672819033,45.6420775687677,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2485">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">692700000A2828</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHAPONNAY</SimpleData>
+					<SimpleData name="Adresse">LEYRIEU</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6426427644999 </north>
+			<south> 45.64175357866471 </south>
+			<east> 4.94450948479768 </east>
+			<west> 4.94410718881752 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.94429161180874,45.64204482589791,0 4.94421201060672,45.6418294795726,0 4.94418404826694,45.64175357866471,0 4.94410718881752,45.6417589597183,0 4.94413611766552,45.6419355482439,0 4.94421729971155,45.64192892152389,0 4.9442341267583,45.64197294794211,0 4.94438107263823,45.64235809396909,0 4.94440299106947,45.64241545364669,0 4.94435231601819,45.642424165656,0 4.94434007251122,45.6425033733017,0 4.94434329043949,45.642503587937,0 4.94432185189619,45.6426427644999,0 4.94450948479768,45.64261033851871,0 4.94429161180874,45.64204482589791,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2486">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">692700000A2829</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHAPONNAY</SimpleData>
+					<SimpleData name="Adresse">LEYRIEU</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6419457702243 </north>
+			<south> 45.64189727793529 </south>
+			<east> 4.94403866846093 </east>
+			<west> 4.944000922737 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.94403866846093,45.64194335664061,0 4.9440311437743,45.64189727793529,0 4.94401590649964,45.64189853195419,0 4.944000922737,45.6418996915169,0 4.94400844739881,45.6419457702243,0 4.94403866846093,45.64194335664061,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2492">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">692700000A2830</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHAPONNAY</SimpleData>
+					<SimpleData name="Adresse">LEYRIEU</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6419825073256 </north>
+			<south> 45.64191142127469 </south>
+			<east> 4.94358842917286 </east>
+			<west> 4.9435392798976 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.94358842917286,45.64197941633419,0 4.94357731053243,45.64191142127469,0 4.94355835780405,45.6419129195436,0 4.9435392798976,45.64191451004621,0 4.94355027015531,45.6419825073256,0 4.94358842917286,45.64197941633419,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2493">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">692700000A2831</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHAPONNAY</SimpleData>
+					<SimpleData name="Adresse">LEYRIEU</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6420080120102 </north>
+			<south> 45.64193723819939 </south>
+			<east> 4.94326701175807 </east>
+			<west> 4.94322016657717 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.94326701175807,45.6420051432699,0 4.94325589666603,45.64193723819939,0 4.94322016657717,45.6419400169153,0 4.94323128478491,45.6420080120102,0 4.94326701175807,45.6420051432699,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2494">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">692700000A2833</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHAPONNAY</SimpleData>
+					<SimpleData name="Adresse">LEYRIEU</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6419637980193 </north>
+			<south> 45.641915307992 </south>
+			<east> 4.94381342055357 </east>
+			<west> 4.94377593166794 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.94381342055357,45.641961388929,0 4.94380602438839,45.641915307992,0 4.94379091228032,45.6419164697432,0 4.94377593166794,45.6419177192968,0 4.94378345614502,45.6419637980193,0 4.94381342055357,45.641961388929,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2495">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">692700000A2834</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHAPONNAY</SimpleData>
+					<SimpleData name="Adresse">LEYRIEU</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6423288551187 </north>
+			<south> 45.6418571303888 </south>
+			<east> 4.94287313369587 </east>
+			<west> 4.94280080443721 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.94286722041936,45.642300556747,0 4.94287313369587,45.6421616485312,0 4.94284549909409,45.6418571303888,0 4.94280080443721,45.6418606041729,0 4.9428120226229,45.64194976528371,0 4.9428387030924,45.64210630608121,0 4.94283620716469,45.6422328149776,0 4.94282488686497,45.64229813487769,0 4.94285117022678,45.6423152458683,0 4.94286115042851,45.6423288551187,0 4.94286722041936,45.642300556747,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2496">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">692700000A2835</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHAPONNAY</SimpleData>
+					<SimpleData name="Adresse">LEYRIEU</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6429291274839 </north>
+			<south> 45.6423982001852 </south>
+			<east> 4.94284624731403 </east>
+			<west> 4.94270923392911 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.94284624731403,45.6423982001852,0 4.94282885054438,45.6424111110404,0 4.94280060190973,45.6424258305717,0 4.94279373888023,45.6424608082054,0 4.94274931675211,45.6426477607747,0 4.94272426228067,45.6428084373171,0 4.94270923392911,45.6429291274839,0 4.94274561470295,45.6429229148458,0 4.94274924092638,45.6428871824077,0 4.9427528608287,45.6428512699279,0 4.94275456454697,45.64283394604921,0 4.94275781464414,45.6428167756289,0 4.94277001569824,45.6427545931705,0 4.94278785756545,45.6426628586969,0 4.94280621272578,45.64257111535991,0 4.94282741020774,45.6424798634078,0 4.94284624731403,45.6423982001852,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2497">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">692700000A2836</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHAPONNAY</SimpleData>
+					<SimpleData name="Adresse">LEYRIEU</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6424258305717 </north>
+			<south> 45.64229813487769 </south>
+			<east> 4.94286115042851 </east>
+			<west> 4.94280060190973 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.94286115042851,45.6423288551187,0 4.94285117022678,45.6423152458683,0 4.94282488686497,45.64229813487769,0 4.94281880652483,45.6423334593038,0 4.94280060190973,45.6424258305717,0 4.94282885054438,45.6424111110404,0 4.94284624731403,45.6423982001852,0 4.94286115042851,45.6423288551187,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2498">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">692700000A2837</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHAPONNAY</SimpleData>
+					<SimpleData name="Adresse">LEYRIEU</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.64288861186089 </north>
+			<south> 45.6428512699279 </south>
+			<east> 4.9427940018549 </east>
+			<west> 4.94274924092638 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.9427528608287,45.6428512699279,0 4.94274924092638,45.6428871824077,0 4.94279166852537,45.64288861186089,0 4.9427940018549,45.642852631512,0 4.9427528608287,45.6428512699279,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2499">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">692700000A2838</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHAPONNAY</SimpleData>
+					<SimpleData name="Adresse">LEYRIEU</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6425263935167 </north>
+			<south> 45.64247272303601 </south>
+			<east> 4.94324714676048 </east>
+			<west> 4.94316529881068 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.94323663406521,45.6425263935167,0 4.94324714676048,45.6424819849978,0 4.94316797458321,45.64247272303601,0 4.94316529881068,45.6424842988812,0 4.94316602299896,45.6424976175338,0 4.94317414972038,45.642509637402,0 4.94318820092498,45.64251849242,0 4.94320620100127,45.6425227754891,0 4.94323663406521,45.6425263935167,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2500">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">692700000A2839</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHAPONNAY</SimpleData>
+					<SimpleData name="Adresse">LEYRIEU</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.642531101206 </north>
+			<south> 45.6424819849978 </south>
+			<east> 4.94328763438299 </east>
+			<west> 4.94323663406521 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.94327699338135,45.642531101206,0 4.94328763438299,45.64248669046749,0 4.94324714676048,45.6424819849978,0 4.94323663406521,45.6425263935167,0 4.94327699338135,45.642531101206,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2502">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">692700000A2845</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHAPONNAY</SimpleData>
+					<SimpleData name="Adresse">LEYRIEU</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.64228105409481 </north>
+			<south> 45.642228673594 </south>
+			<east> 4.94427394286799 </east>
+			<west> 4.94421092477453 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.94426532097418,45.642228673594,0 4.94421092477453,45.6422667243303,0 4.9442313322308,45.64228105409481,0 4.94427394286799,45.6422511335789,0 4.94426532097418,45.642228673594,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2503">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">692700000A2840</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHAPONNAY</SimpleData>
+					<SimpleData name="Adresse">LEYRIEU</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6425346291936 </north>
+			<south> 45.64248669046749 </south>
+			<east> 4.94331793593547 </east>
+			<west> 4.94327699338135 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.94330742329539,45.6425346291936,0 4.94331793593547,45.6424902206681,0 4.94328763438299,45.64248669046749,0 4.94327699338135,45.642531101206,0 4.94330742329539,45.6425346291936,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2504">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">692700000A2841</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHAPONNAY</SimpleData>
+					<SimpleData name="Adresse">LEYRIEU</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6425384707215 </north>
+			<south> 45.6424902206681 </south>
+			<east> 4.94335107356128 </east>
+			<west> 4.94330742329539 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.94334056094705,45.6425384707215,0 4.94335107356128,45.64249406219291,0 4.94331793593547,45.6424902206681,0 4.94330742329539,45.6425346291936,0 4.94334056094705,45.6425384707215,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2505">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">692700000A2842</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHAPONNAY</SimpleData>
+					<SimpleData name="Adresse">LEYRIEU</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6423488841598 </north>
+			<south> 45.6422964136301 </south>
+			<east> 4.94429982439489 </east>
+			<west> 4.94423680623154 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.94429119931934,45.6422964136301,0 4.94424858549602,45.6423262441318,0 4.94423680623154,45.6423345543999,0 4.9442572137195,45.6423488841598,0 4.94429982439489,45.6423189636339,0 4.94429119931934,45.6422964136301,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2506">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">692700000A2843</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHAPONNAY</SimpleData>
+					<SimpleData name="Adresse">LEYRIEU</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6423262441318 </north>
+			<south> 45.6422737736048 </south>
+			<east> 4.94429119931934 </east>
+			<west> 4.94422817801863 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.94428257109014,45.6422737736048,0 4.9442399604402,45.642303694124,0 4.94422817801863,45.6423119143704,0 4.94424858549602,45.6423262441318,0 4.94429119931934,45.6422964136301,0 4.94428257109014,45.6422737736048,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2507">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">692700000A2844</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHAPONNAY</SimpleData>
+					<SimpleData name="Adresse">LEYRIEU</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.642303694124 </north>
+			<south> 45.6422511335789 </south>
+			<east> 4.94428257109014 </east>
+			<west> 4.94421955297335 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.94427394286799,45.6422511335789,0 4.9442313322308,45.64228105409481,0 4.94421955297335,45.64228936436101,0 4.9442399604402,45.642303694124,0 4.94428257109014,45.6422737736048,0 4.94427394286799,45.6422511335789,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2508">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">692700000A2846</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHAPONNAY</SimpleData>
+					<SimpleData name="Adresse">LEYRIEU</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6421609342942 </north>
+			<south> 45.6421066145991 </south>
+			<east> 4.94422741203891 </east>
+			<west> 4.94416163386619 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.9442187870224,45.6421066145991,0 4.94417341626246,45.6421383842816,0 4.94416163386619,45.6421466045209,0 4.94418204126545,45.6421609342942,0 4.94422741203891,45.6421291646082,0 4.9442187870224,45.6421066145991,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2509">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">692700000A2847</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHAPONNAY</SimpleData>
+					<SimpleData name="Adresse">LEYRIEU</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6421383842816 </north>
+			<south> 45.6420840645895 </south>
+			<east> 4.9442187870224 </east>
+			<west> 4.94415300887374 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.9442101620129,45.6420840645895,0 4.94416478810602,45.6421157442476,0 4.94415300887374,45.64212405450681,0 4.94417341626246,45.6421383842816,0 4.9442187870224,45.6421066145991,0 4.9442101620129,45.6420840645895,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2510">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">692700000A2848</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHAPONNAY</SimpleData>
+					<SimpleData name="Adresse">LEYRIEU</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6421157442476 </north>
+			<south> 45.6420614245584 </south>
+			<east> 4.9442101620129 </east>
+			<west> 4.9441445185461 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.94420153384991,45.6420614245584,0 4.94415190079705,45.64209615027329,0 4.9441445185461,45.6421016823168,0 4.94416478810602,45.6421157442476,0 4.9442101620129,45.6420840645895,0 4.94420153384991,45.6420614245584,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2511">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">692700000A2849</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHAPONNAY</SimpleData>
+					<SimpleData name="Adresse">LEYRIEU</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.64209615027329 </north>
+			<south> 45.6420399481465 </south>
+			<east> 4.94420153384991 </east>
+			<west> 4.94413254540774 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.94419333179094,45.6420399481465,0 4.94413254540774,45.6420825229263,0 4.94415190079705,45.64209615027329,0 4.94420153384991,45.6420614245584,0 4.94419333179094,45.6420399481465,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2517">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">692700000A2850</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHAPONNAY</SimpleData>
+					<SimpleData name="Adresse">LEYRIEU</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6428425684615 </north>
+			<south> 45.64192892152389 </south>
+			<east> 4.94440299106947 </east>
+			<west> 4.94284624731403 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.94413611766552,45.6419355482439,0 4.94403866846093,45.64194335664061,0 4.94400844739881,45.6419457702243,0 4.94391099499818,45.6419534884897,0 4.94381342055357,45.641961388929,0 4.94378345614502,45.6419637980193,0 4.94368587850438,45.6419716083271,0 4.94358842917286,45.64197941633419,0 4.94355027015531,45.6419825073256,0 4.94326701175807,45.6420051432699,0 4.94323128478491,45.6420080120102,0 4.94318403277221,45.6420118003254,0 4.94318057957283,45.6419902418563,0 4.94293151109602,45.64201012484261,0 4.94294033320709,45.6420639276904,0 4.9429603095403,45.64206232178069,0 4.94300013386639,45.6420591121661,0 4.94317652630486,45.6420796666065,0 4.94311501613334,45.6423395151176,0 4.94309257800985,45.64233683993649,0 4.94309548356227,45.64233913173369,0 4.94309417608824,45.64234212679371,0 4.9430719381328,45.6423488159915,0 4.94304768233949,45.6423492347445,0 4.94290481160102,45.6423325151117,0 4.94288521786714,45.64232672822521,0 4.94287158535806,45.6423151636825,0 4.94286722041936,45.642300556747,0 4.94286115042851,45.6423288551187,0 4.94284624731403,45.6423982001852,0 4.94286184334312,45.6423925264415,0 4.94287896162679,45.64238997905549,0 4.94289632826666,45.6423908502437,0 4.9430340372185,45.6424068483238,0 4.94305671741792,45.6424127620512,0 4.9430747071542,45.6424240711981,0 4.9430745641926,45.6424273163797,0 4.94307024177363,45.6424285619823,0 4.94309332478055,45.6424313161104,0 4.94299603306761,45.6428425684615,0 4.94308410978004,45.6428274465484,0 4.9431438199369,45.6425748351617,0 4.94330989647806,45.6425941263178,0 4.94326336293484,45.6427903933405,0 4.94328425171047,45.6427928250157,0 4.94333065684362,45.64259656020031,0 4.94334381051239,45.642598134591,0 4.94351932123175,45.6425679012331,0 4.94372788801872,45.6425318723547,0 4.94393594750323,45.64249603199819,0 4.94414425707306,45.6424600067819,0 4.94435231601819,45.642424165656,0 4.94440299106947,45.64241545364669,0 4.94438107263823,45.64235809396909,0 4.9442341267583,45.64197294794211,0 4.94421729971155,45.64192892152389,0 4.94413611766552,45.6419355482439,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+				<innerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.94323663406521,45.6425263935167,0 4.94320620100127,45.6425227754891,0 4.94318820092498,45.64251849242,0 4.94317414972038,45.642509637402,0 4.94316602299896,45.6424976175338,0 4.94316529881068,45.6424842988812,0 4.94316797458321,45.64247272303601,0 4.94326170725647,45.642077205082,0 4.94326672819033,45.6420775687677,0 4.94351400329378,45.6420578060863,0 4.94351737000832,45.6420439664158,0 4.9436693677055,45.6420317035193,0 4.94382662082174,45.6420191694997,0 4.94398399904334,45.6420065430229,0 4.94414124885652,45.641993918543,0 4.94416762616031,45.6419917514719,0 4.94417598001078,45.64199926357621,0 4.94418103819588,45.6420080035899,0 4.94419333179094,45.6420399481465,0 4.94420153384991,45.6420614245584,0 4.9442101620129,45.6420840645895,0 4.9442187870224,45.6421066145991,0 4.94422741203891,45.6421291646082,0 4.94426532097418,45.642228673594,0 4.94427394286799,45.6422511335789,0 4.94428257109014,45.6422737736048,0 4.94429119931934,45.6422964136301,0 4.94429982439489,45.6423189636339,0 4.94430214072597,45.6423373890775,0 4.94429518831253,45.6423551639605,0 4.94427966131498,45.6423701144799,0 4.94425767193322,45.64238022248539,0 4.9441804512191,45.6423936265262,0 4.94398924120532,45.6424265641296,0 4.94379981821303,45.6424592003154,0 4.94361065167319,45.64249183174999,0 4.94340285182908,45.64252775709409,0 4.94334056094705,45.6425384707215,0 4.94330742329539,45.6425346291936,0 4.94327699338135,45.642531101206,0 4.94323663406521,45.6425263935167,0 
+						</coordinates>
+					</LinearRing>
+				</innerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.4345">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">692700000G0601</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHAPONNAY</SimpleData>
+					<SimpleData name="Adresse">LA CORNAZ</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6276646025325 </north>
+			<south> 45.6275481841712 </south>
+			<east> 4.93464926511974 </east>
+			<west> 4.93447783949224 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.9344788955724,45.6276222921111,0 4.93447783949224,45.6276324887438,0 4.9345968977786,45.6276412507961,0 4.9345939472715,45.6276633699038,0 4.93463751144755,45.6276646025325,0 4.93463976382329,45.6276408740766,0 4.9346442911856,45.62759774037659,0 4.93464926511974,45.6275490143472,0 4.9346017519202,45.62754866029701,0 4.93460092598794,45.62756912152589,0 4.93453561315046,45.6275700643079,0 4.93453308120563,45.6275490302863,0 4.93448799005541,45.6275481841712,0 4.93448048942188,45.6276091137575,0 4.9344788955724,45.6276222921111,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.4395">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">692700000G0627</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHAPONNAY</SimpleData>
+					<SimpleData name="Adresse">5508, BAYARDIERE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6271629923852 </north>
+			<south> 45.6270285869083 </south>
+			<east> 4.93532994440725 </east>
+			<west> 4.93517597774459 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.93529724913567,45.6270285869083,0 4.93520959540204,45.6270404531269,0 4.93517597774459,45.62706300961809,0 4.93520219400587,45.6271629923852,0 4.93532994440725,45.6271523280945,0 4.93529724913567,45.6270285869083,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.4612">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">692700000G0707</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHAPONNAY</SimpleData>
+					<SimpleData name="Adresse">5740, RTE DE MARENNES</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6275259263025 </north>
+			<south> 45.6272426415303 </south>
+			<east> 4.93201922994023 </east>
+			<west> 4.93149640476354 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.93149640476354,45.6273402512456,0 4.93149920651503,45.6275236857764,0 4.93152603139479,45.6275234955259,0 4.93166106961291,45.6275229788645,0 4.93170332860113,45.627523604508,0 4.93199829950656,45.6275259263025,0 4.93201922994023,45.6272426415303,0 4.93194361552793,45.627242678798,0 4.93193486620445,45.6273267788644,0 4.93192229877264,45.6273271747937,0 4.93159797068677,45.62733706653151,0 4.93149640476354,45.6273402512456,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.4854">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">692700000G0808</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHAPONNAY</SimpleData>
+					<SimpleData name="Adresse">LA CORNAZ</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6287881153045 </north>
+			<south> 45.62832659059699 </south>
+			<east> 4.93274064686119 </east>
+			<west> 4.93155535853872 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.93155535853872,45.6286921647296,0 4.93269772209581,45.6287881153045,0 4.93274064686119,45.62836627752699,0 4.93247414761425,45.6283522092542,0 4.93246826893177,45.6283640199611,0 4.93246364097176,45.6283675222911,0 4.93245413111805,45.6283709283132,0 4.932438903583,45.6283723608056,0 4.9321310388722,45.62835017477671,0 4.93179963170965,45.62832659059699,0 4.93175489657235,45.6283801425292,0 4.93162570100469,45.6283715514745,0 4.93160524390591,45.6283702813051,0 4.93160421513133,45.62837759503551,0 4.93156759690648,45.62862710068931,0 4.93155535853872,45.6286921647296,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.5056">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">692700000G0958</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHAPONNAY</SimpleData>
+					<SimpleData name="Adresse">5100, PL DU DIX NEUF MARS 1962</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.62706300961809 </north>
+			<south> 45.6269103171302 </south>
+			<east> 4.93529724913567 </east>
+			<west> 4.93504119647971 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.93507152570717,45.6270570595557,0 4.93510929315515,45.6270540680832,0 4.93515922731306,45.6270502368236,0 4.93516674433245,45.62705226934221,0 4.93517216198132,45.6270566799174,0 4.93517597774459,45.62706300961809,0 4.93520959540204,45.6270404531269,0 4.93529724913567,45.6270285869083,0 4.93526590058252,45.6269103171302,0 4.93504119647971,45.6269312058908,0 4.93505512930792,45.6269919470696,0 4.93507152570717,45.6270570595557,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

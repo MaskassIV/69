@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>CHATILLON_PMRSEM</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_6">
+		<name>CHATILLON_PMRSEM</name>
+		<Schema name="CHATILLON_PMRSEM" id="CHATILLON_PMRSEM.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="PMRSEM">
+			<LineStyle>
+				<color>BF00faff</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C00faff</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.429">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">69050000AA0346</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHATILLON</SimpleData>
+					<SimpleData name="Adresse">1411, RTE DE LA VALLEE</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SEM</SimpleData>
+					<SimpleData name="Denomination">SEM DE CONSTRUCTION DU DPT DE L AIN</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8782724351082 </north>
+			<south> 45.87780895998809 </south>
+			<east> 4.64401451539102 </east>
+			<west> 4.64342189330014 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.64342189330014,45.8779987603558,0 4.64356452824644,45.87812899747649,0 4.6435966875003,45.8781566313164,0 4.64360812688065,45.87816835405539,0 4.64371606827634,45.8782724351082,0 4.64376989708011,45.8780969189777,0 4.6437744247473,45.8780887469491,0 4.64378222314852,45.8780821485941,0 4.64380833331061,45.8780582609505,0 4.64390045048146,45.8779732474422,0 4.6439047041509,45.87796886228009,0 4.64392062867136,45.8779450326724,0 4.64391998171334,45.87793198211289,0 4.64396310638378,45.8778905537814,0 4.64401451539102,45.877841529237,0 4.64395338666443,45.8778110743689,0 4.64390037254236,45.87781490771759,0 4.64381528732355,45.8778200180591,0 4.64378723089232,45.877817543867,0 4.64372169248817,45.8778121921131,0 4.64367762337566,45.87780895998809,0 4.64365352204241,45.8778266937174,0 4.64360899024823,45.8778598560645,0 4.64342189330014,45.8779987603558,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.551">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">69050000AA0503</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHATILLON</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SEM</SimpleData>
+					<SimpleData name="Denomination">SEM DE CONSTRUCTION DU DPT DE L AIN</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8783485953792 </north>
+			<south> 45.8779829576777 </south>
+			<east> 4.64409857923021 </east>
+			<west> 4.64372927453282 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.64409857923021,45.8781178984527,0 4.64405887643021,45.8781010926518,0 4.64397461588704,45.8780603461189,0 4.64397852921381,45.8780099407729,0 4.64392021182781,45.8779829576777,0 4.64380317387105,45.8781058022098,0 4.64379116984578,45.8781313761619,0 4.64378412018524,45.8781630928089,0 4.643773098849,45.8781956778305,0 4.64375572076938,45.87825294405731,0 4.64372927453282,45.8782915177796,0 4.64374543479497,45.8783058739184,0 4.64374689560768,45.8783072937755,0 4.64376915424566,45.8783272355607,0 4.64378981781963,45.8783455792999,0 4.64379919239045,45.8783485953792,0 4.6438056319128,45.87834832159641,0 4.64381165253689,45.87834697308009,0 4.64381889504492,45.8783433550757,0 4.64387596797476,45.87829830132821,0 4.64398211372971,45.8782166864894,0 4.64405623592021,45.8781595856766,0 4.64408344165584,45.87813352038349,0 4.64409857923021,45.8781178984527,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

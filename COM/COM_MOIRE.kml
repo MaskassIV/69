@@ -1,0 +1,1249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>MOIRE_COM</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_4">
+		<name>MOIRE_COM</name>
+		<Schema name="MOIRE_COM" id="MOIRE_COM.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="COM">
+			<LineStyle>
+				<color>BFe6c645</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4Ce6c645</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.31">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691340000U1012</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">MOIRE</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE MOIRE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9278016960135 </north>
+			<south> 45.92768455645091 </south>
+			<east> 4.60393600323323 </east>
+			<west> 4.60382612391513 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.60382612391513,45.92768455645091,0 4.60386312352362,45.9277717580355,0 4.60389239001828,45.9278016960135,0 4.60393600323323,45.9276948877249,0 4.60382612391513,45.92768455645091,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.571">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691340000U0302</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">MOIRE</SimpleData>
+					<SimpleData name="Adresse">BARRASSIEU</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE MOIRE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9251654544815 </north>
+			<south> 45.9245586317617 </south>
+			<east> 4.60978933673639 </east>
+			<west> 4.60725358537531 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.6088121777266,45.92516184476651,0 4.60890722824004,45.92515508897709,0 4.60900168908045,45.92514581959091,0 4.60905273978605,45.92513941924181,0 4.60932342711135,45.9250967497165,0 4.60967074162043,45.9250749658881,0 4.60969881569139,45.9250640284872,0 4.60972462296306,45.9250506014289,0 4.60974766055277,45.9250351422104,0 4.60976779945219,45.9250176526687,0 4.6097699347214,45.92501564079,0 4.60978001074163,45.9250071210941,0 4.60978668783207,45.9249971186055,0 4.60978933673639,45.9249861826866,0 4.60978870245282,45.9249777253208,0 4.60975933059197,45.9249839976756,0 4.60930431534485,45.9250256877412,0 4.60898795136403,45.92507314998091,0 4.60892801491515,45.92508021707919,0 4.60884986724948,45.9250868225832,0 4.60877163807342,45.92509063708511,0 4.60875049385405,45.9250913880984,0 4.60867900221854,45.9250916841451,0 4.60860768448705,45.9250890954991,0 4.60853667230742,45.9250837103571,0 4.60846609207042,45.9250754368548,0 4.60845157480822,45.92507330148629,0 4.60838890900926,45.9250620332386,0 4.60832719908876,45.9250481393967,0 4.60832108051362,45.9250463349529,0 4.60825411067974,45.9250246799356,0 4.60818874968114,45.9250006602428,0 4.60817005976462,45.9249926396683,0 4.60807761079623,45.9249514417121,0 4.60798729204126,45.9249080517742,0 4.60789935363907,45.92486219610069,0 4.6078140588653,45.9248140510916,0 4.60775581295899,45.92477732052419,0 4.60769680125113,45.92473645768521,0 4.6076406963829,45.9246934819469,0 4.60757236102262,45.92462942394089,0 4.60752027772734,45.9246092682567,0 4.60755325955654,45.9245586317617,0 4.60739710950439,45.9245812058341,0 4.60737328226492,45.92458730872149,0 4.60725358537531,45.9246516965903,0 4.60736498868,45.9246657856598,0 4.60746868059364,45.9246411649092,0 4.60746439081676,45.9246931950617,0 4.60755239773033,45.9247679618992,0 4.60761769630104,45.9248119779217,0 4.60768577010013,45.9248537928395,0 4.60770730304077,45.9248663665557,0 4.6077963971068,45.9249120258165,0 4.60788761614682,45.9249553130416,0 4.6079813498059,45.9249963127555,0 4.60807694515405,45.925034764029,0 4.60817453381801,45.925070755054,0 4.60818274805727,45.92507361053119,0 4.60824285682952,45.92509455251361,0 4.60830430852765,45.9251128634027,0 4.60836762180596,45.92512862589081,0 4.60843214373042,45.92514157905371,0 4.60849761890341,45.9251518165883,0 4.60856391305045,45.9251591602661,0 4.60863064176449,45.9251637056193,0 4.608697676027,45.9251654544815,0 4.60876475518207,45.9251643204908,0 4.6088121777266,45.92516184476651,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.2641">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691340000U1013</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">MOIRE</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE MOIRE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9276948877249 </north>
+			<south> 45.9276678353458 </south>
+			<east> 4.60393600323323 </east>
+			<west> 4.60382612391513 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.60382612391513,45.92768455645091,0 4.60393600323323,45.9276948877249,0 4.60383660792008,45.9276678353458,0 4.60382612391513,45.92768455645091,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.2690">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691340000U1017</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">MOIRE</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE MOIRE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.92764047044939 </north>
+			<south> 45.9276225374585 </south>
+			<east> 4.60371268080659 </east>
+			<west> 4.60369342762059 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.60370842151748,45.92764047044939,0 4.60371268080659,45.9276271701006,0 4.60370273681894,45.9276225374585,0 4.60369342762059,45.9276352789128,0 4.60370842151748,45.92764047044939,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.2701">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691340000U1018</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">MOIRE</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE MOIRE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9276647705558 </north>
+			<south> 45.9276542220684 </south>
+			<east> 4.60378756061398 </east>
+			<west> 4.60374857465495 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.60378756061398,45.9276544800407,0 4.60374857465495,45.9276542220684,0 4.60377959982974,45.9276647705558,0 4.60378756061398,45.9276544800407,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.2711">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691340000U1019</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">MOIRE</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE MOIRE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.92768455645091 </north>
+			<south> 45.92759648874409 </south>
+			<east> 4.60383660792008 </east>
+			<west> 4.60361403377924 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.60378756061398,45.9276544800407,0 4.60377959982974,45.9276647705558,0 4.60374857465495,45.9276542220684,0 4.60370403583243,45.92765386265749,0 4.60370842151748,45.92764047044939,0 4.60369342762059,45.9276352789128,0 4.60370273681894,45.9276225374585,0 4.60367356182618,45.9276179072032,0 4.60364054243076,45.92759648874409,0 4.60361403377924,45.9276169496103,0 4.60368884699383,45.9276685788784,0 4.60382612391513,45.92768455645091,0 4.60383660792008,45.9276678353458,0 4.60378756061398,45.9276544800407,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.2818">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691340000U1023</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">MOIRE</SimpleData>
+					<SimpleData name="Adresse">PERROTTES</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE MOIRE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9335478237127 </north>
+			<south> 45.9334360068819 </south>
+			<east> 4.6031105817014 </east>
+			<west> 4.60274005897536 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.60274005897536,45.9334360068819,0 4.60279732882181,45.93348779526829,0 4.60309944795692,45.9335478237127,0 4.6031105817014,45.9335090268678,0 4.60274005897536,45.9334360068819,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.2868">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691340000U1028</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">MOIRE</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE MOIRE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.927848729211 </north>
+			<south> 45.9277717580355 </south>
+			<east> 4.60389239001828 </east>
+			<west> 4.6038384606348 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.6038384606348,45.9278112871737,0 4.60387207576896,45.927848729211,0 4.60389239001828,45.9278016960135,0 4.60386312352362,45.9277717580355,0 4.6038384606348,45.9278112871737,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.3236">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691340000U1052</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">MOIRE</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE MOIRE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9278798250539 </north>
+			<south> 45.92761150218971 </south>
+			<east> 4.6013661487496 </east>
+			<west> 4.60122507966329 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.6013661487496,45.92761987694319,0 4.6013024041074,45.92761150218971,0 4.60122507966329,45.9278730726365,0 4.60128890651136,45.9278798250539,0 4.6013661487496,45.92761987694319,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.3815">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691340000U1093</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">MOIRE</SimpleData>
+					<SimpleData name="Adresse">VIGNES BRUN</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE MOIRE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9275241986803 </north>
+			<south> 45.92745570937261 </south>
+			<east> 4.61126280570855 </east>
+			<west> 4.61115042668416 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.61126280570855,45.92750080181509,0 4.61120998904684,45.92745570937261,0 4.61119618983948,45.9274560860246,0 4.61118299093711,45.9274593363028,0 4.61117192997207,45.9274650780381,0 4.61116350983484,45.9274728537296,0 4.6111622749852,45.92747476274329,0 4.61115442089886,45.927497481665,0 4.61115070841529,45.9275205919473,0 4.61115042668416,45.9275241986803,0 4.61115156411461,45.9275233718704,0 4.61116364140805,45.9275170752558,0 4.61117746696524,45.9275131855798,0 4.6111924088823,45.9275121621809,0 4.61119461266451,45.92749925106921,0 4.61119974952809,45.9274939539695,0 4.61120765360426,45.92749059895791,0 4.61121680042309,45.9274900183563,0 4.61122237961306,45.92749101971799,0 4.61125275052545,45.92750121522091,0 4.61126280570855,45.92750080181509,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.3819">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691340000U1094</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">MOIRE</SimpleData>
+					<SimpleData name="Adresse">VIGNES BRUN</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE MOIRE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.92750080181509 </north>
+			<south> 45.92745570937261 </south>
+			<east> 4.61132208889479 </east>
+			<west> 4.61120998904684 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.61126280570855,45.92750080181509,0 4.61132208889479,45.92749779587841,0 4.61122273771113,45.92745913053709,0 4.61121128445023,45.9274558710606,0 4.61120998904684,45.92745570937261,0 4.61126280570855,45.92750080181509,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.4040">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691340000U1104</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">MOIRE</SimpleData>
+					<SimpleData name="Adresse">BARRASSIEU</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">CCOM</SimpleData>
+					<SimpleData name="Denomination">COMMUNAUTE COMMUNES PAYS DU BOIS D OINGT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9265597898253 </north>
+			<south> 45.9262062191604 </south>
+			<east> 4.60812977142763 </east>
+			<west> 4.60749419837686 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.60807473969259,45.9262062191604,0 4.60766037254188,45.92620823519729,0 4.60749419837686,45.9265597898253,0 4.60812977142763,45.92649536568089,0 4.60807473969259,45.9262062191604,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.4049">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691340000U1106</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">MOIRE</SimpleData>
+					<SimpleData name="Adresse">BARRASSIEU</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">CCOM</SimpleData>
+					<SimpleData name="Denomination">COMMUNAUTE COMMUNES PAYS DU BOIS D OINGT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9265718489336 </north>
+			<south> 45.9257608211213 </south>
+			<east> 4.60807473969259 </east>
+			<west> 4.60713987877996 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.60739551425159,45.9261943452349,0 4.60713987877996,45.9265718489336,0 4.60724918331511,45.9265713769806,0 4.60735827478778,45.9265680257751,0 4.607467279566,45.9265617034541,0 4.60749419837686,45.9265597898253,0 4.60766037254188,45.92620823519729,0 4.60807473969259,45.9262062191604,0 4.60799384652367,45.9257738718839,0 4.607689005045,45.9257608211213,0 4.60739551425159,45.9261943452349,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.14716">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691340000U0222</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">MOIRE</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE MOIRE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.926483220834 </north>
+			<south> 45.9259258867784 </south>
+			<east> 4.6051807995025 </east>
+			<west> 4.60455742940027 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.60462127607481,45.92632730743709,0 4.60455742940027,45.9264084634419,0 4.60476056074996,45.926483220834,0 4.605117343473,45.9261747208252,0 4.60513735836043,45.92615291063551,0 4.60515384797219,45.9261297093723,0 4.60516643314782,45.9261053926205,0 4.60517220075171,45.9260907197919,0 4.6051807995025,45.9260447532379,0 4.60517338702858,45.92602954686709,0 4.60516226210357,45.9260153839151,0 4.60514770373392,45.92600298096549,0 4.60514704556666,45.9260025399641,0 4.60510850796527,45.92598219097759,0 4.60506758476218,45.9259641275205,0 4.60502479724178,45.92594852233061,0 4.60498014802254,45.9259354654365,0 4.60493792329042,45.9259258867784,0 4.60462127607481,45.92632730743709,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.14775">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691340000U0223</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">MOIRE</SimpleData>
+					<SimpleData name="Adresse">180, RUE PIERRE POITRASSON</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE MOIRE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.92632730743709 </north>
+			<south> 45.92589599800881 </south>
+			<east> 4.60493792329042 </east>
+			<west> 4.60427314999413 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.60445435468573,45.92589599800881,0 4.60427314999413,45.9261929995258,0 4.60446059639781,45.9262654579529,0 4.60462127607481,45.92632730743709,0 4.60493792329042,45.9259258867784,0 4.60478476327934,45.92591391876211,0 4.60450636890777,45.925900484276,0 4.60445435468573,45.92589599800881,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.14876">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691340000U0225</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">MOIRE</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE MOIRE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.926543052188 </north>
+			<south> 45.9261929995258 </south>
+			<east> 4.60446059639781 </east>
+			<west> 4.60406465844733 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.60414083332771,45.9264093272963,0 4.60406465844733,45.92653253936619,0 4.60423158759121,45.926543052188,0 4.60427059989168,45.9264954835735,0 4.60427570586946,45.92648910641989,0 4.60433703518536,45.9264145612332,0 4.60435112587294,45.926397608794,0 4.60439276593501,45.9263472107668,0 4.60440523449602,45.9263321727492,0 4.60446059639781,45.9262654579529,0 4.60427314999413,45.9261929995258,0 4.60414083332771,45.9264093272963,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.14926">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691340000U0226</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">MOIRE</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE MOIRE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9266117224011 </north>
+			<south> 45.9262654579529 </south>
+			<east> 4.60476056074996 </east>
+			<west> 4.60427570586946 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.60462127607481,45.92632730743709,0 4.60446059639781,45.9262654579529,0 4.60440523449602,45.9263321727492,0 4.60439276593501,45.9263472107668,0 4.60435112587294,45.926397608794,0 4.60433703518536,45.9264145612332,0 4.60427570586946,45.92648910641989,0 4.60441804380471,45.9265415790233,0 4.60445847793837,45.92655613700731,0 4.60460994145429,45.9266117224011,0 4.60466132498015,45.9265679411721,0 4.60476056074996,45.926483220834,0 4.60455742940027,45.9264084634419,0 4.60462127607481,45.92632730743709,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.15557">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691340000U0236</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">MOIRE</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE MOIRE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9273341164363 </north>
+			<south> 45.9270618095362 </south>
+			<east> 4.60418697869104 </east>
+			<west> 4.60391595607438 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.60393538433534,45.9270618095362,0 4.60391595607438,45.92729887336111,0 4.60398396781384,45.9273341164363,0 4.60401945765102,45.92732956022681,0 4.604031079948,45.927325342396,0 4.60418697869104,45.9271165163229,0 4.60406514387396,45.9270900525325,0 4.60399253538656,45.9270742392693,0 4.60393538433534,45.9270618095362,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.15919">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691340000U0242</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">MOIRE</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE MOIRE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.92781120158289 </north>
+			<south> 45.9277438308519 </south>
+			<east> 4.60381883215165 </east>
+			<west> 4.60359449137643 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.60359668875511,45.9277438308519,0 4.60359449137643,45.92779249863529,0 4.60370167062674,45.9277943119635,0 4.60371106794645,45.92781120158289,0 4.60377493291591,45.9278103863613,0 4.60377739123619,45.9277972916751,0 4.60378988732777,45.9277964840628,0 4.60380140431295,45.9277930783608,0 4.60381052564839,45.92778718471759,0 4.60381662984695,45.9277796225545,0 4.60381883215165,45.92777103488919,0 4.60381703499904,45.92776250391901,0 4.60381125673644,45.9277546598588,0 4.60380230552355,45.92774866213381,0 4.60379083691695,45.9277448617221,0 4.60378048429289,45.9277439276609,0 4.60359668875511,45.9277438308519,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.16214">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691340000U0248</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">MOIRE</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE MOIRE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9278926815131 </north>
+			<south> 45.9276811653689 </south>
+			<east> 4.60333240415288 </east>
+			<west> 4.6029167608594 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.6029167608594,45.9277660754513,0 4.60293154417274,45.9278926815131,0 4.60316833066104,45.92787752762061,0 4.60329404496199,45.9278687208929,0 4.60332252321612,45.92786714644,0 4.60333240415288,45.927687771407,0 4.60332188648839,45.9276811653689,0 4.6029167608594,45.9277660754513,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.16636">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691340000U0255</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">MOIRE</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE MOIRE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.92791526823061 </north>
+			<south> 45.92761987694319 </south>
+			<east> 4.60160461103282 </east>
+			<west> 4.60128890651136 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.60149752422952,45.92763711174019,0 4.6013661487496,45.92761987694319,0 4.60128890651136,45.9278798250539,0 4.60147090467033,45.9279068813316,0 4.6015274222136,45.92791526823061,0 4.60160461103282,45.927653519342,0 4.60149752422952,45.92763711174019,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.22656">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691340000U0384</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">MOIRE</SimpleData>
+					<SimpleData name="Adresse">LANFERT</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE MOIRE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9245599015708 </north>
+			<south> 45.9239771822592 </south>
+			<east> 4.60752876020543 </east>
+			<west> 4.60643670449978 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.60659972180071,45.9240571687609,0 4.60665795714695,45.9240758864679,0 4.60671407293987,45.92409715614971,0 4.6067382436052,45.92410726074731,0 4.6068224048803,45.92414758672851,0 4.60690392278885,45.9241902018932,0 4.60696309715263,45.9242234070448,0 4.60702579118442,45.9242622364491,0 4.60708571018447,45.92430326687101,0 4.6070934896323,45.92430892070719,0 4.60717584900124,45.92437151880951,0 4.60725517017112,45.9244361415127,0 4.60733144526084,45.9245025187314,0 4.60736061997838,45.9245293047403,0 4.60739416489768,45.9245599015708,0 4.60752876020543,45.9245372735113,0 4.60708995114769,45.92416990609159,0 4.60705643255758,45.9241446228104,0 4.60701635272885,45.9241244765259,0 4.60669227071507,45.9240045156962,0 4.60666992077993,45.9239771822592,0 4.60643670449978,45.9240123781788,0 4.60651406411754,45.9240319052101,0 4.60658982546726,45.924054156924,0 4.60659972180071,45.9240571687609,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.23002">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691340000U0392</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">MOIRE</SimpleData>
+					<SimpleData name="Adresse">LANFERT</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE MOIRE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.92398586131889 </north>
+			<south> 45.92316736565739 </south>
+			<east> 4.60665427580168 </east>
+			<west> 4.6050350782596 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.60513768507894,45.9233997109381,0 4.60520188793627,45.9234638289889,0 4.60524920159209,45.9235063902272,0 4.60529955897625,45.92354710689889,0 4.60532474973748,45.9235656636977,0 4.60538114732625,45.92360107068559,0 4.60544032276309,45.9236343666642,0 4.60550201278936,45.9236653752294,0 4.60554086509894,45.92368328776141,0 4.60571551999069,45.9237554752083,0 4.60585936881358,45.92380684365759,0 4.60600520851574,45.9238556617639,0 4.60601915118839,45.9238602374307,0 4.60613389942219,45.923896166701,0 4.60625011976074,45.9239294629864,0 4.60636780956527,45.9239600362517,0 4.60647735939211,45.92398586131889,0 4.60665427580168,45.92395849018391,0 4.60661480864294,45.9239195108654,0 4.60631103068969,45.9238496085858,0 4.60604528687911,45.9237739416197,0 4.60585255679,45.92371038756419,0 4.6058247821885,45.92370060414201,0 4.60573396871903,45.9236666766113,0 4.60564514860458,45.92363028888471,0 4.60555858248637,45.9235915273355,0 4.60547426774752,45.9235503019385,0 4.60539220701744,45.9235067027294,0 4.60538826080435,45.9235041467602,0 4.60534863034256,45.92347723843181,0 4.60531217257344,45.9234484837117,0 4.60530343531448,45.9234409519232,0 4.60527725288341,45.9234149335575,0 4.60525451163006,45.92338742527129,0 4.6052353458013,45.9233586052974,0 4.60521988964295,45.9233286518684,0 4.60521049407753,45.9232985223749,0 4.6052022736436,45.9232599998935,0 4.60519817348236,45.9232211487451,0 4.60519905872542,45.92316736565739,0 4.60506682211736,45.9232132850955,0 4.6050350782596,45.9232222919197,0 4.60504489744473,45.92325367636631,0 4.60505869479057,45.9232842838277,0 4.60506428818691,45.92329465234349,0 4.60509082402642,45.9233372382322,0 4.60512094318099,45.92337878252721,0 4.60513768507894,45.9233997109381,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.23450">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691340000U0401</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">MOIRE</SimpleData>
+					<SimpleData name="Adresse">THALEBART</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE MOIRE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.923171107952 </north>
+			<south> 45.92155759265751 </south>
+			<east> 4.60512828900414 </east>
+			<west> 4.60321259377467 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.60321259377467,45.9216143935054,0 4.60324729102261,45.9216403817166,0 4.60327794724609,45.92162949937521,0 4.60344617255458,45.92176933219559,0 4.60351299996199,45.92182620852149,0 4.60363706079523,45.9218896590674,0 4.60378959208592,45.9219690982088,0 4.60382122322097,45.9219917071409,0 4.60402165394774,45.9221516180249,0 4.60403003003105,45.92216005570669,0 4.60427756797567,45.9224086455313,0 4.60427929742994,45.9224104223628,0 4.60482804188171,45.92295988913,0 4.60483851856988,45.9230182846276,0 4.60492106496786,45.92310961330691,0 4.60505591419095,45.923171107952,0 4.60512828900414,45.9231613445007,0 4.60492596801737,45.92294120688499,0 4.6047198577444,45.9227194113922,0 4.6047690975176,45.9227173618971,0 4.60472282479843,45.92267505591091,0 4.60451777341827,45.9224851290808,0 4.60433164741219,45.9222935824893,0 4.60429848471436,45.9222627091708,0 4.60413874077706,45.92214392324661,0 4.60410533714556,45.9221047670478,0 4.60404734551376,45.9220366874276,0 4.60401791310295,45.9220098141922,0 4.60388577140211,45.9219303564776,0 4.6039781609219,45.9219210305178,0 4.60395762009593,45.9218272008486,0 4.60384805546752,45.92175633970329,0 4.60365904196821,45.921633915051,0 4.60357102608755,45.92160282836439,0 4.60354696452391,45.92159641434931,0 4.60353418825369,45.92159641531541,0 4.60346716111649,45.9215947534248,0 4.60340043453014,45.92159011499589,0 4.60338421780047,45.9215871924701,0 4.60335613105943,45.9215799347871,0 4.60332977173821,45.9215699505792,0 4.60330566631933,45.92155759265751,0 4.60321259377467,45.9216143935054,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.23847">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691340000U0412</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">MOIRE</SimpleData>
+					<SimpleData name="Adresse">THALEBART</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE MOIRE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9220568850215 </north>
+			<south> 45.92176933219559 </south>
+			<east> 4.60363706079523 </east>
+			<west> 4.60331576694632 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.60344617255458,45.92176933219559,0 4.60331576694632,45.9218559343249,0 4.60337865632003,45.9220568850215,0 4.60363706079523,45.9218896590674,0 4.60351299996199,45.92182620852149,0 4.60344617255458,45.92176933219559,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.24525">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691340000U0431</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">MOIRE</SimpleData>
+					<SimpleData name="Adresse">COTE D ANGY</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE MOIRE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9216220488727 </north>
+			<south> 45.9204619832142 </south>
+			<east> 4.60330566631933 </east>
+			<west> 4.60082527719795 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.60157737982258,45.9204652333841,0 4.60151418480151,45.9204621650855,0 4.60145068652498,45.9204619832142,0 4.60138739835745,45.9204645904347,0 4.60135649384788,45.92046691934191,0 4.60128031817878,45.9204745725958,0 4.60120474219743,45.92048509947909,0 4.60113015026974,45.9204984044848,0 4.6011203961407,45.9205002538306,0 4.60107032945969,45.9205137520764,0 4.60102162859367,45.9205298429353,0 4.60097506229295,45.9205483353938,0 4.60094997405469,45.92055985885629,0 4.60090281419933,45.9205845743615,0 4.60085830226949,45.92061159413689,0 4.60082527719795,45.9206342181574,0 4.6008655852556,45.9206890394333,0 4.60089272006225,45.9206724432324,0 4.6009422551055,45.92064508215281,0 4.60099444068932,45.920620115369,0 4.60101369705336,45.9206121870779,0 4.60106005771801,45.9205954988703,0 4.6011080395794,45.9205813095956,0 4.60115752149317,45.9205698911699,0 4.60120480961637,45.9205629170959,0 4.60128209930595,45.9205536269054,0 4.60135985968922,45.920547212168,0 4.60143808816164,45.9205435828521,0 4.60151640297464,45.920542924497,0 4.60159479629042,45.9205449670102,0 4.60161612543163,45.92054619618429,0 4.60167383383426,45.92055141367,0 4.60173097576952,45.9205593411812,0 4.60178717210312,45.9205702542906,0 4.60183541245941,45.92058272111461,0 4.60188296260287,45.92059807986201,0 4.60192851947293,45.92061589864701,0 4.60197182507753,45.9206361811256,0 4.60201300580065,45.9206588354429,0 4.60201760711435,45.92066174251849,0 4.60207128802569,45.92069709948839,0 4.60212192801755,45.92073439092489,0 4.60216965870528,45.9207737050361,0 4.60254004127155,45.9211066633893,0 4.60276992923711,45.92128570381231,0 4.60278260388545,45.9212955217644,0 4.60319991115699,45.9216220488727,0 4.60321259377467,45.9216143935054,0 4.60330566631933,45.92155759265751,0 4.60297921432414,45.9213154330635,0 4.60293647171407,45.921256864152,0 4.60289041711412,45.9211997832393,0 4.60286251342721,45.9211677541906,0 4.60284535068092,45.9211544871935,0 4.60265507959884,45.92103748281311,0 4.60226814549551,45.9207211516103,0 4.60226589754799,45.9207192920257,0 4.60221857215827,45.9206806026892,0 4.60216806900185,45.92064357956111,0 4.60211478554536,45.9206085772793,0 4.60207630854047,45.9205857045729,0 4.60203096326655,45.9205618483073,0 4.6019832325086,45.920540277501,0 4.60193363748959,45.9205211649056,0 4.60190236392879,45.9205107996271,0 4.60185577965362,45.9204975888394,0 4.60180785232327,45.9204870090165,0 4.60175871616359,45.92047923839191,0 4.60171263856097,45.9204745768131,0 4.60157737982258,45.9204652333841,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.25101">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691340000U0449</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">MOIRE</SimpleData>
+					<SimpleData name="Adresse">COTE D ANGY</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE MOIRE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9217244504004 </north>
+			<south> 45.9206518174587 </south>
+			<east> 4.60084095810961 </east>
+			<west> 4.60022568406725 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.60050578229996,45.9215196017477,0 4.60050974032594,45.9215136913439,0 4.60052938922636,45.921479277661,0 4.60054539994935,45.9214440147711,0 4.60055751188609,45.9214078162952,0 4.60060122577204,45.9212777704037,0 4.60066534537942,45.9210771828951,0 4.60072544725201,45.92087602172099,0 4.60074377694409,45.9208273058858,0 4.60074756927993,45.9208201368683,0 4.60076556611881,45.92079106051519,0 4.60078733789519,45.920763101622,0 4.60081238430444,45.92073680767311,0 4.60084095810961,45.9207119949537,0 4.6007972681733,45.9206518174587,0 4.60075899335677,45.9206758667641,0 4.60072387200496,45.9207018529251,0 4.60069151712351,45.9207297814207,0 4.60066256585949,45.92075937303439,0 4.60063714198373,45.9207904458822,0 4.60061537188351,45.9208229081103,0 4.60059737410148,45.9208563977727,0 4.60058327764226,45.9208909130459,0 4.60058100972874,45.9208972498787,0 4.60044958242899,45.9213619676385,0 4.6004254055002,45.92144931514999,0 4.60040936070479,45.9214834076228,0 4.6003892907336,45.92151665635971,0 4.60037739307977,45.921533577281,0 4.60035525209395,45.9215621717856,0 4.60032971000833,45.9215891931793,0 4.60030076682009,45.9216146414598,0 4.60026893329964,45.92163832926351,0 4.60023406475782,45.9216597182283,0 4.60022568406725,45.9216644302341,0 4.60027414459385,45.9217244504004,0 4.60030605834286,45.92170796688259,0 4.60034436545188,45.9216849980997,0 4.60038003499012,45.9216600851259,0 4.60041241933997,45.9216331470578,0 4.60042849731841,45.9216179683481,0 4.60045791286045,45.9215865688783,0 4.60048367451944,45.9215537800107,0 4.60050578229996,45.9215196017477,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.29353">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691340000U0580</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">MOIRE</SimpleData>
+					<SimpleData name="Adresse">BOUCAIRON</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE MOIRE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.92191044177999 </north>
+			<south> 45.9204137621003 </south>
+			<east> 4.60024539041673 </east>
+			<west> 4.59726341537068 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.59890081806739,45.92135747846879,0 4.59891299701294,45.9213324476365,0 4.598911449368,45.9213191394857,0 4.59885253832086,45.9211924362041,0 4.59884178632701,45.9211821403097,0 4.59870454352773,45.9211400368152,0 4.59868951007721,45.9211334041226,0 4.59852159712044,45.9208303572899,0 4.59846685891825,45.9207317860613,0 4.59842787603595,45.9206602827101,0 4.59841465600523,45.920644977858,0 4.59829913510432,45.9205864448449,0 4.59816704213417,45.9205171575806,0 4.59811613342124,45.9204927478947,0 4.59806022516996,45.9204694896262,0 4.59804274624311,45.9204630715332,0 4.5979966345388,45.9204483213432,0 4.59794905321178,45.9204362939256,0 4.59790012864294,45.9204268974258,0 4.59785038203831,45.92042030461521,0 4.59783873569218,45.9204192081695,0 4.59777654158704,45.9204150428367,0 4.59771417303108,45.9204137621003,0 4.59765175901226,45.92041536413839,0 4.59758942329799,45.9204196670674,0 4.5975256205161,45.9204267827786,0 4.59743719108429,45.92043910987001,0 4.5973498771118,45.92045430330751,0 4.59726341537068,45.9204721866746,0 4.59734556881412,45.9205327230427,0 4.59742849437066,45.9205175015119,0 4.59751266438771,45.9205051445123,0 4.59757851295708,45.9204973694442,0 4.59764251529157,45.920492682714,0 4.59770672753756,45.92049078508181,0 4.59777102592802,45.92049185843079,0 4.59783527364341,45.9204956344905,0 4.59784575641366,45.9204966573043,0 4.59789929102078,45.9205048178302,0 4.59795187459707,45.9205157838643,0 4.59800311754507,45.9205294708436,0 4.59805263287729,45.92054588423701,0 4.59808577959493,45.9205585658684,0 4.59812573240066,45.9205789872308,0 4.59816290733475,45.9206015193817,0 4.59819756500575,45.9206262487097,0 4.59820826715621,45.9206348340796,0 4.59823391169922,45.9206558178218,0 4.59825650469529,45.92067837582309,0 4.59827540376207,45.9207026072291,0 4.59828148549961,45.9207120684815,0 4.59840424875651,45.9208956933237,0 4.5986375177781,45.92122735897259,0 4.59864685133931,45.9212465916364,0 4.59868496827415,45.9213549448625,0 4.59884099375782,45.9215684520329,0 4.59889853066403,45.9216611291429,0 4.59892518670279,45.921694707926,0 4.59894456519867,45.9217087547986,0 4.59896646885521,45.921720874554,0 4.59898331634783,45.9217277517752,0 4.59931170910133,45.921837225456,0 4.59943190599526,45.92187443538749,0 4.59956777940491,45.9219048485883,0 4.5996536243594,45.9219101196159,0 4.59971364388092,45.92191044177999,0 4.5997737453539,45.9219091415336,0 4.59983367861274,45.9219064926178,0 4.59989279603326,45.921902414124,0 4.59995109761103,45.9218969060535,0 4.59996113355671,45.9218958634366,0 4.60015574944214,45.9218248394227,0 4.60024539041673,45.92176529758021,0 4.60020976366346,45.9217205875197,0 4.60018140003637,45.92173044584599,0 4.60013946695536,45.9217307687836,0 4.60004311639883,45.9217459119656,0 4.5999432121846,45.92175867349461,0 4.59984271088621,45.92176865127829,0 4.59984232388372,45.9217686567514,0 4.59977034049944,45.9217740880461,0 4.59969827607374,45.9217767283404,0 4.59962587000216,45.92177649125149,0 4.59955376991385,45.9217734576895,0 4.59948197320631,45.9217675376241,0 4.59941288386665,45.9217570758483,0 4.5993403438443,45.9217433303087,0 4.59911906688769,45.9216916972486,0 4.59910786047873,45.921687982746,0 4.59907521839808,45.9216749339969,0 4.59904483302608,45.9216596016462,0 4.59901709136631,45.9216419802257,0 4.59899026416062,45.92162029282481,0 4.59896356957346,45.921594280292,0 4.59894005822073,45.9215667816769,0 4.59892011710053,45.9215377915119,0 4.59891779347031,45.9215333209671,0 4.59890290004743,45.9215003865423,0 4.5988921163602,45.92146676355551,0 4.59889110858712,45.92144092835851,0 4.59888611460408,45.9213933531092,0 4.59887738747063,45.9213461008262,0 4.59890081806739,45.92135747846879,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.29603">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691340000U0590</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">MOIRE</SimpleData>
+					<SimpleData name="Adresse">BOUCAIRON</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE MOIRE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.92104374243309 </north>
+			<south> 45.9204806797341 </south>
+			<east> 4.59731929983454 </east>
+			<west> 4.59645207878274 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.59709813936722,45.9205491863126,0 4.59705135401593,45.92056461792821,0 4.59700645028293,45.9205826349238,0 4.59699524195793,45.9205877468782,0 4.59698468123101,45.92059293975691,0 4.59693823354643,45.92061557197319,0 4.5968837412732,45.92064561321271,0 4.59683202052349,45.92067777692739,0 4.59678294490669,45.9207121549729,0 4.59674369254216,45.92074261149881,0 4.59667669321178,45.9207997594095,0 4.59661283406157,45.9208583941094,0 4.59655225452974,45.92091887390669,0 4.59652921520948,45.9209432471353,0 4.59645207878274,45.9209845959915,0 4.59650633385808,45.9210265223937,0 4.59653703095347,45.92104374243309,0 4.59656193041573,45.92104348109001,0 4.59658661218395,45.9210401605126,0 4.59672138458801,45.9209391838635,0 4.59670760634059,45.92093577563149,0 4.59675785450344,45.9208884113244,0 4.59682103607611,45.9208331186099,0 4.59688384242094,45.9207826948104,0 4.59684457696671,45.9207726210957,0 4.59694711723656,45.9206816463181,0 4.59698526097012,45.92066192342561,0 4.59704857058342,45.9206288754903,0 4.59713327929143,45.92059057167471,0 4.59719396215645,45.92056485622479,0 4.5972578740143,45.9205436886022,0 4.59728948338292,45.92056566914411,0 4.59731929983454,45.9205569619078,0 4.59722058060664,45.92048143797739,0 4.59721049267357,45.9204806797341,0 4.59718284347031,45.9204973723681,0 4.59710718897475,45.92055419240701,0 4.59709813936722,45.9205491863126,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.30230">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691340000U0611</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">MOIRE</SimpleData>
+					<SimpleData name="Adresse">LE CREUX</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE MOIRE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9220969204718 </north>
+			<south> 45.92097020851019 </south>
+			<east> 4.59680838848539 </east>
+			<west> 4.5943305559386 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.59572367683054,45.9211973452119,0 4.59610839468482,45.9211576920702,0 4.5961939550756,45.9211487390241,0 4.59644328833057,45.9211221633261,0 4.59664125287789,45.9211176581457,0 4.5966869865636,45.9210792742914,0 4.59680838848539,45.9209756040872,0 4.59675674044636,45.92097020851019,0 4.59661417733495,45.9210739971882,0 4.59658448570797,45.9210870257204,0 4.59658410131861,45.92108712121311,0 4.59656156295429,45.9210887002533,0 4.59653868572377,45.9210874919732,0 4.59651662801599,45.9210833899568,0 4.59646838960895,45.9210665075319,0 4.59640371167138,45.921025628875,0 4.59639187079056,45.921013366632,0 4.59633062932852,45.9210376484392,0 4.59615388547767,45.9210752687714,0 4.59597502492083,45.92109328393491,0 4.59587532679653,45.9211042376144,0 4.59577502919994,45.9211123174966,0 4.59567413475366,45.9211176136107,0 4.59564241914008,45.9211186914423,0 4.59554103734809,45.92112498505569,0 4.59543999434254,45.92113406589741,0 4.59533942171443,45.9211460221798,0 4.59523970123407,45.9211606683852,0 4.59514084070645,45.9211782746085,0 4.5951092709979,45.9211843940209,0 4.59503292148067,45.9212039344232,0 4.59495807169253,45.9212262457254,0 4.59488497180589,45.92125105420051,0 4.59481374560148,45.92127817797151,0 4.59480979351009,45.9212798549047,0 4.59476799748749,45.9212982775198,0 4.59472833057704,45.9213189217961,0 4.59469118498748,45.9213419623421,0 4.59465693208417,45.9213668535195,0 4.5946515101464,45.9213712531958,0 4.59461807550064,45.9213976639764,0 4.59457800048722,45.92143542680201,0 4.59454119471754,45.9214746746815,0 4.59450778980132,45.9215154958307,0 4.59449884306259,45.92152742079509,0 4.59445580976528,45.92158783224819,0 4.59441629586533,45.9216494550276,0 4.59440362359983,45.9216708895936,0 4.59434220359697,45.92167121482801,0 4.5943305559386,45.9220937961807,0 4.59442201684566,45.9220969204718,0 4.59442376313283,45.9220769909122,0 4.59443319795102,45.922001651461,0 4.59444652102119,45.92192688767971,0 4.59446411151587,45.9218524240197,0 4.59448558762547,45.9217784459953,0 4.5944939038509,45.9217536502476,0 4.5945174086097,45.9216918027535,0 4.59454468559975,45.92163098289489,0 4.59455407018688,45.92161634972611,0 4.5945728770912,45.92159284718311,0 4.59459521389181,45.92157091609769,0 4.59461825826765,45.9215422199608,0 4.59464917036853,45.9215089095315,0 4.594683480735,45.9214770823393,0 4.59468939262602,45.9214717750786,0 4.59472253540879,45.9214441975121,0 4.59475856567042,45.92141829051511,0 4.59479749904467,45.92139459427031,0 4.59493325413301,45.92133188470561,0 4.59495379119317,45.92132357913479,0 4.59500947485887,45.9213034294924,0 4.59506704006136,45.9212858652541,0 4.59512597080766,45.921270893693,0 4.59518614331797,45.9212586966877,0 4.59521388998305,45.9212542523821,0 4.59532300155463,45.9212385730898,0 4.59543297308629,45.9212258537959,0 4.59554340977524,45.9212158298636,0 4.59572367683054,45.9211973452119,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.32390">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691340000U0701</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">MOIRE</SimpleData>
+					<SimpleData name="Adresse">BOIS NIZIER</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE MOIRE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9278797795313 </north>
+			<south> 45.92635083369381 </south>
+			<east> 4.59463737810732 </east>
+			<west> 4.59327554564024 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.59416502509279,45.92635083369381,0 4.59414948104884,45.92644256143199,0 4.59414254799458,45.92646166339251,0 4.59413166519324,45.9264736155958,0 4.59411776561688,45.9264838990203,0 4.59410160510354,45.92649187254171,0 4.59397977765367,45.92654573819879,0 4.59380875021208,45.9266210123917,0 4.59363248132757,45.92705500940639,0 4.5935641729941,45.9272189939538,0 4.59355340096352,45.927270484221,0 4.59353861385371,45.9273214906336,0 4.5935196800358,45.92737192497619,0 4.59351496876889,45.92738306965,0 4.59349747017024,45.9274161907914,0 4.5934761962842,45.9274481942234,0 4.59345126830837,45.927478808034,0 4.59342708717776,45.9275040072635,0 4.59339902777787,45.92752899090501,0 4.59336820436821,45.927552122046,0 4.59333421948985,45.9275730460112,0 4.59329759440921,45.9275919355922,0 4.59327554564024,45.927601613129,0 4.59332207856307,45.9277200271988,0 4.59334944090474,45.9277825090463,0 4.59338077934807,45.9278441242825,0 4.59340078350063,45.9278797795313,0 4.5934527629201,45.92771791649981,0 4.59351363952583,45.9276762584612,0 4.59367010325363,45.9275658834053,0 4.59368182556392,45.9275561711158,0 4.59371437832413,45.92752590018519,0 4.59374340338522,45.9274941477889,0 4.5937690297653,45.9274609121122,0 4.59379113105858,45.927426285006,0 4.59380750100667,45.9273898472144,0 4.5938296132257,45.9273288301324,0 4.59384758132399,45.9272673310209,0 4.59384885462572,45.9272622692961,0 4.59388067078864,45.9271039325294,0 4.59393796967493,45.9268315713954,0 4.59407531466115,45.9266894910811,0 4.59405112755608,45.92664308677279,0 4.59416220364414,45.9265343412131,0 4.59435774230812,45.92648547114301,0 4.59441809272928,45.9264702998894,0 4.59462174664,45.9264699515146,0 4.59463737810732,45.9264437016435,0 4.59443306144222,45.9263988454345,0 4.59416502509279,45.92635083369381,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.32512">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691340000U0708</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">MOIRE</SimpleData>
+					<SimpleData name="Adresse">BOIS NIZIER</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE MOIRE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.927601613129 </north>
+			<south> 45.9273706300807 </south>
+			<east> 4.59351496876889 </east>
+			<west> 4.59320872089057 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.59351496876889,45.92738306965,0 4.59320872089057,45.9273706300807,0 4.59321198935607,45.92740778197641,0 4.59321912565264,45.9274447893373,0 4.59323050121037,45.9274811065267,0 4.59323218476481,45.92748576633421,0 4.59327554564024,45.927601613129,0 4.59329759440921,45.9275919355922,0 4.59333421948985,45.9275730460112,0 4.59336820436821,45.927552122046,0 4.59339902777787,45.92752899090501,0 4.59342708717776,45.9275040072635,0 4.59345126830837,45.927478808034,0 4.5934761962842,45.9274481942234,0 4.59349747017024,45.9274161907914,0 4.59351496876889,45.92738306965,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.32902">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691340000U0722</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">MOIRE</SimpleData>
+					<SimpleData name="Adresse">BOIS NIZIER</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE MOIRE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.92796754935101 </north>
+			<south> 45.9275906763611 </south>
+			<east> 4.5933056799071 </east>
+			<west> 4.59283499533439 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.59323225253306,45.9276086175989,0 4.59320374056779,45.9276001024127,0 4.59317401396306,45.9275942162842,0 4.59316986466589,45.9275935541723,0 4.59308640402973,45.9275906763611,0 4.59298114740647,45.9275972922729,0 4.59284692829968,45.9276199876089,0 4.59283499533439,45.9277474211288,0 4.59283648078393,45.9277854087429,0 4.5928795635588,45.92796754935101,0 4.5928845639308,45.9279663981396,0 4.59297465014794,45.9279439638918,0 4.59306336283368,45.927918666748,0 4.59306681240878,45.9279174472969,0 4.59311936280181,45.9278958116569,0 4.59316965480761,45.9278719561033,0 4.5932176806126,45.92784561054641,0 4.59326306358211,45.9278171405633,0 4.5933056799071,45.9277867280359,0 4.59323225253306,45.9276086175989,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.32925">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691340000U0723</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">MOIRE</SimpleData>
+					<SimpleData name="Adresse">BOIS NIZIER</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE VAL DOINGT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9276199876089 </north>
+			<south> 45.9260438362924 </south>
+			<east> 4.59326751004982 </east>
+			<west> 4.59284692829968 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.59323225253306,45.9276086175989,0 4.59318846564852,45.9274914257736,0 4.59317606610426,45.9274464765095,0 4.59316778201895,45.9274010189539,0 4.59316349217859,45.92735532501721,0 4.5931633724236,45.9273511835936,0 4.59315782369095,45.9273065881954,0 4.59315613757456,45.92726166820249,0 4.59315858250604,45.9272167801054,0 4.5931652952991,45.92717219218,0 4.59320474974329,45.92697889190529,0 4.59324821892813,45.9267860754811,0 4.59325075260181,45.9267755018902,0 4.5932617616896,45.92669203431459,0 4.59326663686771,45.92660622129439,0 4.59326751004982,45.9265203745655,0 4.59326412583418,45.92643458779251,0 4.59325981023343,45.9263790768529,0 4.59324737284309,45.9261765998839,0 4.59324276977362,45.9261468523288,0 4.59323136007142,45.92612719813309,0 4.59321611648872,45.9261088588732,0 4.5931975576763,45.9260919173115,0 4.59317595988138,45.9260770000296,0 4.59315183914849,45.9260640997587,0 4.59312520849297,45.926053666652,0 4.59309684458226,45.9260457798388,0 4.5930877539344,45.9260438362924,0 4.59307908844297,45.9260699878514,0 4.59290852191402,45.926888852315,0 4.59290813059207,45.9269333512198,0 4.592896285384,45.9269879188248,0 4.59289653719116,45.927014485222,0 4.59292443878353,45.9271313603997,0 4.59292264927934,45.9272078529893,0 4.59290466093793,45.9272954718291,0 4.59288266008444,45.9273826968201,0 4.59288101526598,45.927388304169,0 4.59286424111689,45.927482210638,0 4.59285147157073,45.9275762408589,0 4.59284692829968,45.9276199876089,0 4.59298114740647,45.9275972922729,0 4.59308640402973,45.9275906763611,0 4.59316986466589,45.9275935541723,0 4.59317401396306,45.9275942162842,0 4.59320374056779,45.9276001024127,0 4.59323225253306,45.9276086175989,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.36909">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691340000U0921</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">MOIRE</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE MOIRE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.92809990156451 </north>
+			<south> 45.927653519342 </south>
+			<east> 4.60168563248566 </east>
+			<west> 4.60141249233141 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.60155963553776,45.92809990156451,0 4.60168563248566,45.927665702393,0 4.60160461103282,45.927653519342,0 4.6015274222136,45.92791526823061,0 4.60147090467033,45.9279068813316,0 4.60141249233141,45.9280997326855,0 4.60155963553776,45.92809990156451,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.36936">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691340000U0923</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">MOIRE</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE MOIRE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9281231435675 </north>
+			<south> 45.9280997326855 </south>
+			<east> 4.60155963553776 </east>
+			<west> 4.60141142016497 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.60141142016497,45.92810281016651,0 4.60155295424668,45.9281231435675,0 4.60155963553776,45.92809990156451,0 4.60141249233141,45.9280997326855,0 4.60141142016497,45.92810281016651,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_4.37811">
+		<styleUrl>#COM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_4.schema">
+					<SimpleData name="Numero de Parcelle">691340000U0978</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">MOIRE</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Commune</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COM</SimpleData>
+					<SimpleData name="Denomination">COMMUNE DE MOIRE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.92763652048791 </north>
+			<south> 45.9275340548243 </south>
+			<east> 4.60174514209165 </east>
+			<west> 4.60139708273967 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.60174514209165,45.9275905539659,0 4.60155049358627,45.9275634070145,0 4.60139708273967,45.9275340548243,0 4.60142864253929,45.9275852169588,0 4.60148337631454,45.927598853056,0 4.60153932174942,45.9276097699413,0 4.60157393871987,45.9276151343184,0 4.60171743823478,45.92763652048791,0 4.60174514209165,45.9275905539659,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

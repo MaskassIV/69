@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>TOUSSIEU_DEPT</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_3">
+		<name>TOUSSIEU_DEPT</name>
+		<Schema name="TOUSSIEU_DEPT" id="TOUSSIEU_DEPT.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="DEPT">
+			<LineStyle>
+				<color>BF63f16c</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C63f16c</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.86">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69298000AB0025</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TOUSSIEU</SimpleData>
+					<SimpleData name="Adresse">AU FIEF</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.66754466943971 </north>
+			<south> 45.6671152116992 </south>
+			<east> 4.9833246545615 </east>
+			<west> 4.98277400006016 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.98288639650271,45.66754466943971,0 4.98302341477526,45.66751775559289,0 4.98303201012983,45.66751382099591,0 4.98304249269515,45.6675087722413,0 4.9830529655831,45.6675034534261,0 4.98306304683606,45.6674979613538,0 4.98307299001726,45.6674922014822,0 4.98308267318282,45.6674863561123,0 4.98309221827652,45.66748024294309,0 4.98310137173518,45.6674739565172,0 4.98311025872775,45.66746740455339,0 4.98311888892997,45.66746085711159,0 4.98312725266612,45.66745404413201,0 4.98313551380839,45.6674479535723,0 4.98314364655477,45.6674418652733,0 4.98315164445467,45.66743559919519,0 4.98315951395872,45.6674293353779,0 4.98316724861628,45.6674228937817,0 4.98317485487802,45.6674164544463,0 4.98318232951863,45.6674099273518,0 4.98318967253812,45.6674033124984,0 4.98319688716188,45.6673966999059,0 4.98320396693918,45.6673899095344,0 4.98320767361491,45.6673857907973,0 4.98321420433428,45.66737801925209,0 4.98322047503857,45.66737016220939,0 4.98322648895331,45.6673623096892,0 4.98323210800841,45.6673541938933,0 4.98323759544256,45.6673459903387,0 4.98324269769359,45.6673377935681,0 4.98324740831075,45.6673294235419,0 4.98325185891343,45.66732096801839,0 4.98325604950172,45.6673124269978,0 4.9832716395451,45.6672742301107,0 4.9833246545615,45.6671152116992,0 4.98277400006016,45.6672152565534,0 4.98288639650271,45.66754466943971,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2614">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69298000AB0023</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">TOUSSIEU</SimpleData>
+					<SimpleData name="Adresse">AU FIEF</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6678709403304 </north>
+			<south> 45.66751775559289 </south>
+			<east> 4.98302341477526 </east>
+			<west> 4.98163296772686 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.98237139023995,45.66763219434559,0 4.98163296772686,45.6677593193228,0 4.98165764858914,45.6678709403304,0 4.98177689389682,45.66783560337381,0 4.98213881444648,45.6677496051659,0 4.98235276122238,45.6677003500561,0 4.98265513513856,45.6676234153049,0 4.98278967493229,45.6675918614009,0 4.98302341477526,45.66751775559289,0 4.98288639650271,45.66754466943971,0 4.98237139023995,45.66763219434559,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

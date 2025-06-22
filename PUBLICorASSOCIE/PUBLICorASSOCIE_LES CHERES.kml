@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>LES CHERES_PUBLICorASSOCIE</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_9">
+		<name>LES CHERES_PUBLICorASSOCIE</name>
+		<Schema name="LES CHERES_PUBLICorASSOCIE" id="LES CHERES_PUBLICorASSOCIE.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="PUBLICorASSOCIE">
+			<LineStyle>
+				<color>BFdb2105</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4Cdb2105</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.1997">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">690550000B1042</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LES CHERES</SimpleData>
+					<SimpleData name="Adresse">CHP PORTIER</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SOCIETE NATIONALE SNCF</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8832250328702 </north>
+			<south> 45.882914917307 </south>
+			<east> 4.74577527573302 </east>
+			<west> 4.74522717209866 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.74524929487282,45.882914917307,0 4.74522717209866,45.88296569874489,0 4.74547759705911,45.8830869412288,0 4.74550889847535,45.88310204023329,0 4.7457626043229,45.8832250328702,0 4.74577527573302,45.8831975455936,0 4.74524929487282,45.882914917307,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.3805">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69055000ZC0139</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LES CHERES</SimpleData>
+					<SimpleData name="Adresse">VIDE SAC</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SOCIETE NATIONALE SNCF</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8878396109635 </north>
+			<south> 45.8856022112504 </south>
+			<east> 4.75560938147099 </east>
+			<west> 4.75112473077456 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.75179642699292,45.8857992448882,0 4.75147733963284,45.88564485267091,0 4.75143283693541,45.8856405882196,0 4.75138698463258,45.8856425595857,0 4.75130535190784,45.8856022112504,0 4.75129313921814,45.8856115877256,0 4.75121861391354,45.8856691268984,0 4.751185264528,45.8856952237768,0 4.75112473077456,45.8857425482235,0 4.75117087672579,45.88576606262,0 4.75120103245662,45.88578153812949,0 4.75123036326535,45.88579540512491,0 4.75140187963984,45.88587597402821,0 4.75139447117665,45.8858823037289,0 4.7515605882763,45.8859593531903,0 4.7514840538775,45.8860307946591,0 4.75153585211952,45.8860576440547,0 4.75154857108682,45.8860642023478,0 4.75163095551706,45.88598609497999,0 4.75220841729904,45.8862673562125,0 4.75252536757727,45.8864192575852,0 4.75266891118457,45.8864880085462,0 4.75268489041565,45.88649568709851,0 4.75337222789611,45.8868248684161,0 4.75549087564027,45.8878396109635,0 4.75550514208768,45.887825878708,0 4.75553692931161,45.8877953012256,0 4.75557609607056,45.88775749349,0 4.75560938147099,45.88772536150561,0 4.7555522595703,45.88768940929591,0 4.7555108337592,45.8876441161056,0 4.75511134390975,45.8873835270042,0 4.75179642699292,45.8857992448882,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.4006">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">690550000B0143</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LES CHERES</SimpleData>
+					<SimpleData name="Adresse">LA RAMBAUDE</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SOCIETE NATIONALE SNCF</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8857425482235 </north>
+			<south> 45.8843281589464 </south>
+			<east> 4.75130478617096 </east>
+			<west> 4.74840898576369 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.74976889226894,45.8850905287875,0 4.75032474545871,45.8853539393845,0 4.7511184400974,45.88573940309561,0 4.75112473077456,45.8857425482235,0 4.751185264528,45.8856952237768,0 4.75121861391354,45.8856691268984,0 4.75129313921814,45.8856115877256,0 4.75130277437846,45.88559009154221,0 4.75130478617096,45.8855762794532,0 4.75129832747919,45.88555566308799,0 4.75128557789791,45.88553595482,0 4.75127095162208,45.88552213026369,0 4.75124748484127,45.8855101540114,0 4.75121785013499,45.8855029570133,0 4.75111988204014,45.88548429858729,0 4.75093293445676,45.8854619742579,0 4.75001899675061,45.8850588253112,0 4.74879509233375,45.8843813336358,0 4.74876214858324,45.8843592353581,0 4.74873624500884,45.8843476565821,0 4.74871058170928,45.8843395868652,0 4.74868567716726,45.8843351082586,0 4.7486478418467,45.8843295686675,0 4.7486225187565,45.8843281589464,0 4.74859164648006,45.88433070812109,0 4.74856882931463,45.8843351142624,0 4.74854558501834,45.8843423192168,0 4.7485269524255,45.8843526053318,0 4.74849988809684,45.88437356020301,0 4.7484797882938,45.8843619816726,0 4.74846341519982,45.8843784477504,0 4.74843865075876,45.88440278974459,0 4.74841354810241,45.8844286681765,0 4.74844028790384,45.88444221566151,0 4.74840898576369,45.8844718829006,0 4.74840959053736,45.88449502187579,0 4.74841597995181,45.8845094245376,0 4.74843318582838,45.8845273528312,0 4.748452889952,45.88454272048591,0 4.74847932873987,45.88455897475799,0 4.74852937409342,45.8845835107436,0 4.74937854202033,45.8849376841536,0 4.74976889226894,45.8850905287875,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.9192">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">690550000B0282</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LES CHERES</SimpleData>
+					<SimpleData name="Adresse">CHP PORTIER</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SOCIETE NATIONALE SNCF</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8844379238218 </north>
+			<south> 45.8826545806568 </south>
+			<east> 4.7484797882938 </east>
+			<west> 4.74496641787002 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.74682577799291,45.88374471330511,0 4.7470601000159,45.8838622380863,0 4.74751931733846,45.8840927482547,0 4.74818248817474,45.88442233374259,0 4.74822177244681,45.8844328950758,0 4.74825313668626,45.8844377242429,0 4.74828100087511,45.8844379238218,0 4.74831365796049,45.884434716631,0 4.74837056390364,45.8844071754316,0 4.74841354810241,45.8844286681765,0 4.74843865075876,45.88440278974459,0 4.74846341519982,45.8843784477504,0 4.7484797882938,45.8843619816726,0 4.74844622253932,45.8843446667054,0 4.74845348883086,45.8843297826237,0 4.74845509216727,45.8843112031335,0 4.74845334762792,45.8842846590766,0 4.74844855783212,45.8842596933322,0 4.7484391754484,45.8842403830412,0 4.74842329870524,45.88422369519141,0 4.74840514730729,45.8842084836612,0 4.74764011408017,45.8838674139621,0 4.7469591078015,45.8835729586597,0 4.74573810848068,45.88297681451409,0 4.74544593234401,45.88284036473461,0 4.74527106197386,45.8827632615701,0 4.74515990096155,45.8827105747026,0 4.74511236508573,45.8827041028533,0 4.74502374481139,45.8826545806568,0 4.74500702590913,45.8826968119355,0 4.7449940095609,45.8827297087201,0 4.74496641787002,45.8827992192697,0 4.7450575381131,45.8828543774094,0 4.74510322544033,45.8828839360562,0 4.74512117433317,45.88285204396661,0 4.74524929487282,45.882914917307,0 4.74577527573302,45.8831975455936,0 4.7457626043229,45.8832250328702,0 4.74601632902568,45.8833445118854,0 4.74619673487235,45.8834334178427,0 4.74670560259316,45.8836844210676,0 4.74682577799291,45.88374471330511,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.14430">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">690550000A0570</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LES CHERES</SimpleData>
+					<SimpleData name="Adresse">LES GORGES</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SOCIETE NATIONALE SNCF</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8827992192697 </north>
+			<south> 45.8806322487927 </south>
+			<east> 4.74502374481139 </east>
+			<west> 4.74049248913776 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.74103567561892,45.88066497362091,0 4.741022606444,45.8806717501049,0 4.74100258421497,45.8806829570911,0 4.74098388792876,45.88069531457659,0 4.74096210273121,45.8807119529755,0 4.74091876889988,45.8806914536556,0 4.74090993648577,45.8806853747761,0 4.74090421756632,45.8806798784432,0 4.74089903414371,45.8806750043607,0 4.74088932402117,45.8806738028378,0 4.74085546415423,45.8806715320966,0 4.74079354876525,45.880662938068,0 4.74078185114923,45.8806600557919,0 4.74073766142957,45.8806492071946,0 4.74069175624248,45.8806371240012,0 4.74065227130087,45.8806323277579,0 4.74062815283892,45.8806322487927,0 4.740597886975,45.8806335254773,0 4.74055502201511,45.8806401302067,0 4.74051447905984,45.8806508424381,0 4.74049248913776,45.88066099877669,0 4.74073401818328,45.8807748224392,0 4.74076969525279,45.880761122645,0 4.74079277420971,45.8807486977033,0 4.74079959270141,45.8807440891429,0 4.74082350541423,45.8807539889931,0 4.74087881644649,45.8807821400812,0 4.74085157274731,45.8808056178564,0 4.74083809676508,45.88082401975799,0 4.7414510563954,45.8811098315274,0 4.74187437840673,45.8813159671716,0 4.74258883483316,45.8816667714996,0 4.74322133698717,45.8819541641954,0 4.74326673511118,45.8819746308273,0 4.74349203057091,45.8820763593681,0 4.74353885456916,45.8821011273192,0 4.74395435581133,45.8823163831623,0 4.74420437541863,45.8824453807539,0 4.74465761238113,45.88265068443469,0 4.74496641787002,45.8827992192697,0 4.7449940095609,45.8827297087201,0 4.74500702590913,45.8826968119355,0 4.74502374481139,45.8826545806568,0 4.74498712714965,45.8825896641273,0 4.74472212158033,45.8824721584282,0 4.74394374530862,45.8821073114512,0 4.74394007907504,45.8821055665876,0 4.7436155357632,45.8819485348978,0 4.74332858131942,45.8818096574206,0 4.74253154667239,45.8814210397611,0 4.74224035339301,45.881278441961,0 4.7417132602613,45.8810084248981,0 4.7413354106735,45.88081690031039,0 4.74103567561892,45.88066497362091,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.14565">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">690550000A0584</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LES CHERES</SimpleData>
+					<SimpleData name="Adresse">LES GORGES</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SOCIETE NATIONALE SNCF</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.88081690031039 </north>
+			<south> 45.8805820283519 </south>
+			<east> 4.74139170084682 </east>
+			<west> 4.74103567561892 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.74103567561892,45.88066497362091,0 4.7413354106735,45.88081690031039,0 4.74139170084682,45.8805820283519,0 4.74137597886245,45.8805905570966,0 4.74135095807912,45.8806027418606,0 4.74132332233179,45.88061379597671,0 4.74129234751871,45.8806212086057,0 4.74126414026068,45.8806264168873,0 4.74123867497585,45.8806286105773,0 4.74121068952321,45.8806285913031,0 4.74118607536285,45.88062915059041,0 4.74116329422574,45.8806305823492,0 4.74112747618088,45.88063572768449,0 4.74108280001974,45.8806462335713,0 4.74103567561892,45.88066497362091,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.14570">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">690550000A0585</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LES CHERES</SimpleData>
+					<SimpleData name="Adresse">LES GORGES</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SOCIETE NATIONALE SNCF</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.88063204183749 </north>
+			<south> 45.880512953089 </south>
+			<east> 4.74138426368399 </east>
+			<west> 4.74096912291137 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.74125862371535,45.8805170654387,0 4.74121233272542,45.8805131848725,0 4.74118060071901,45.880512953089,0 4.74115244849394,45.88051581864631,0 4.74113254298881,45.8805184671016,0 4.74110961496135,45.88052341388681,0 4.74108404257846,45.880530382962,0 4.74105603717084,45.8805419831331,0 4.74103221338793,45.8805553203138,0 4.74101551886588,45.880569808681,0 4.74099993227944,45.8805867119018,0 4.74098450770442,45.88060874667931,0 4.74096912291137,45.88063204183749,0 4.74098934039353,45.880618850285,0 4.74102389798271,45.88060237544511,0 4.74104854821104,45.8805947900895,0 4.74107399741389,45.8805880030623,0 4.74110674174072,45.8805835355852,0 4.74113714215047,45.88058243683371,0 4.74116560337937,45.8805811878014,0 4.74119173020007,45.8805795243644,0 4.74121909484377,45.88057622057389,0 4.74124743382287,45.88057110034541,0 4.74128059706344,45.880563563946,0 4.74130847541368,45.8805561089482,0 4.74133312558218,45.8805485235305,0 4.74136165221899,45.8805370954028,0 4.74138426368399,45.8805262087479,0 4.74125862371535,45.8805170654387,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.14998">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">690550000A0624</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LES CHERES</SimpleData>
+					<SimpleData name="Adresse">LES GORGES</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SOCIETE NATIONALE SNCF</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8809757350184 </north>
+			<south> 45.88090254824069 </south>
+			<east> 4.74175528249224 </east>
+			<west> 4.74159913667516 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.74175528249224,45.880930226156,0 4.74159913667516,45.88090254824069,0 4.74173041150764,45.8809757350184,0 4.74175528249224,45.880930226156,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.16894">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69055000ZC0088</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LES CHERES</SimpleData>
+					<SimpleData name="Adresse">BOTEYRON</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SOCIETE NATIONALE SNCF</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8890895394368 </north>
+			<south> 45.88772536150561 </south>
+			<east> 4.75810465534254 </east>
+			<west> 4.75550514208768 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.75810465534254,45.8890895394368,0 4.75810305664047,45.8890879430095,0 4.75810083800825,45.88902645862829,0 4.75809887775714,45.8889730766705,0 4.75809638326434,45.88889889648801,0 4.75756553948815,45.8886454923843,0 4.75575344196187,45.8877817608411,0 4.75565290940617,45.8877354040582,0 4.75560938147099,45.88772536150561,0 4.75557609607056,45.88775749349,0 4.75553692931161,45.8877953012256,0 4.75550514208768,45.887825878708,0 4.75556967301829,45.8878879266988,0 4.75810465534254,45.8890895394368,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.16969">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">690550000B0892</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LES CHERES</SimpleData>
+					<SimpleData name="Adresse">CHP PORTIER</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SOCIETE NATIONALE SNCF</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8829153947271 </north>
+			<south> 45.8828742579732 </south>
+			<east> 4.74578281546054 </east>
+			<west> 4.74568920682894 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.74578281546054,45.88288578262929,0 4.74568920682894,45.8828742579732,0 4.74577253282367,45.8829153947271,0 4.74578281546054,45.88288578262929,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.16973">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">690550000B0893</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LES CHERES</SimpleData>
+					<SimpleData name="Adresse">CHP PORTIER</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SOCIETE NATIONALE SNCF</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.88283797358141 </north>
+			<south> 45.8827163661259 </south>
+			<east> 4.74561828651453 </east>
+			<west> 4.74540318789308 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.74540318789308,45.8827163661259,0 4.74540710433277,45.88273008655519,0 4.74561828651453,45.88283797358141,0 4.74540318789308,45.8827163661259,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

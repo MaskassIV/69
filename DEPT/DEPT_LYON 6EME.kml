@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>LYON 6EME_DEPT</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_3">
+		<name>LYON 6EME_DEPT</name>
+		<Schema name="LYON 6EME_DEPT" id="LYON 6EME_DEPT.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="DEPT">
+			<LineStyle>
+				<color>BF63f16c</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C63f16c</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6872">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69386000AM0050</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LYON 6EME</SimpleData>
+					<SimpleData name="Adresse">52, AV MARECHAL FOCH</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.77009521814961 </north>
+			<south> 45.769891683512 </south>
+			<east> 4.84344498213892 </east>
+			<west> 4.84307632376078 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.84311008210737,45.769891683512,0 4.84309649150065,45.769962703275,0 4.84307632376078,45.77006805839691,0 4.84311452375489,45.7700711272995,0 4.84313388553447,45.770072792579,0 4.84316873193544,45.7700756460349,0 4.84323467922699,45.7700809637458,0 4.84340968314824,45.77009521814961,0 4.84340966812998,45.7700947680278,0 4.84341134643266,45.7700949207501,0 4.84341752892035,45.7700641947529,0 4.84341649380875,45.7700640315206,0 4.84343801584044,45.769956852728,0 4.84343905095009,45.7699570159602,0 4.84344498213892,45.7699264742146,0 4.84344394102243,45.7699261309338,0 4.84344417426825,45.7699254065348,0 4.84326927798056,45.7699066467626,0 4.84316753308206,45.76989695992489,0 4.84311008210737,45.769891683512,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

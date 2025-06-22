@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>L ARBRESLE_PMRSEM</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_6">
+		<name>L ARBRESLE_PMRSEM</name>
+		<Schema name="L ARBRESLE_PMRSEM" id="L ARBRESLE_PMRSEM.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="PMRSEM">
+			<LineStyle>
+				<color>BF00faff</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C00faff</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.143">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">69010000AR0127</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">L ARBRESLE</SimpleData>
+					<SimpleData name="Adresse">71, AV DU ONZE NOVEMBRE 1918</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SEM</SimpleData>
+					<SimpleData name="Denomination">SEM DE CONSTRUCTION DU DPT DE L AIN</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.83316506155819 </north>
+			<south> 45.8323213452393 </south>
+			<east> 4.61178392265758 </east>
+			<west> 4.61041513765209 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.61143433799302,45.8324438581869,0 4.61142077806432,45.8324427907045,0 4.61139433371046,45.8324417269118,0 4.61137476527923,45.8324511029554,0 4.61135793300231,45.8324571074472,0 4.61109486184251,45.8323213452393,0 4.61106207772602,45.8323591009902,0 4.61101133099177,45.832417108018,0 4.61090200443403,45.8325516976378,0 4.61089456334881,45.83256162116719,0 4.61079855321317,45.8325211990157,0 4.61077850615737,45.83254508270699,0 4.61075343878358,45.832573541386,0 4.61070209223473,45.8326330879759,0 4.610630937586,45.8327158843218,0 4.61065804956972,45.8327265760356,0 4.61060362221258,45.8327909401089,0 4.61047896213136,45.8329388077942,0 4.61041513765209,45.8330078992259,0 4.6104462292515,45.83301367058419,0 4.61109475959936,45.8331343894128,0 4.61125386401402,45.8331601308672,0 4.61154982856304,45.83316464486381,0 4.61167211656228,45.83316506155819,0 4.61173988773601,45.8331164485553,0 4.61150723887159,45.8329151340273,0 4.61178392265758,45.8326477373226,0 4.61149416598954,45.8325159595506,0 4.6114985737905,45.83250806075321,0 4.61149910728147,45.832491030311,0 4.61148966071601,45.8324719806372,0 4.61147264963752,45.8324586231023,0 4.61145054736021,45.8324474097668,0 4.61143433799302,45.8324438581869,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

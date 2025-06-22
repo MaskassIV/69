@@ -1,0 +1,952 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>SEREZIN-DU-RHONE_PUBLICorASSOCIE</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_9">
+		<name>SEREZIN-DU-RHONE_PUBLICorASSOCIE</name>
+		<Schema name="SEREZIN-DU-RHONE_PUBLICorASSOCIE" id="SEREZIN-DU-RHONE_PUBLICorASSOCIE.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="PUBLICorASSOCIE">
+			<LineStyle>
+				<color>BFdb2105</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4Cdb2105</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.148">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69294000AL0159</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SEREZIN-DU-RHONE</SimpleData>
+					<SimpleData name="Adresse">10, RUE DE LA GARENNE</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">CCOM</SimpleData>
+					<SimpleData name="Denomination">COMMUNAUTE DE COMMUNES DU PAYS DE LOZON</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6261845522946 </north>
+			<south> 45.6261213015831 </south>
+			<east> 4.83452708154047 </east>
+			<west> 4.83450375831728 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.83450375831728,45.6261845522946,0 4.834512360773,45.6261807190774,0 4.83451904493775,45.6261654779561,0 4.83452708154047,45.6261213015831,0 4.83452075577459,45.6261241068873,0 4.83451325335757,45.6261650319484,0 4.83450375831728,45.6261845522946,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.343">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69294000AB0025</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SEREZIN-DU-RHONE</SimpleData>
+					<SimpleData name="Adresse">SANS SOU</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SOCIETE NATIONALE SNCF</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6333631347729 </north>
+			<south> 45.6307583874646 </south>
+			<east> 4.82242638906878 </east>
+			<west> 4.82032868567681 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.82054858033339,45.63123978602171,0 4.82069068779267,45.6314268181157,0 4.82087866258812,45.6316773291797,0 4.82100443379005,45.6318438186344,0 4.82115952002143,45.63205063614911,0 4.82125368056622,45.6321771946076,0 4.82132143204315,45.6321565524536,0 4.82155475269433,45.6325013545108,0 4.82185651330997,45.63294782030329,0 4.82180286348196,45.6329717472854,0 4.82185875097179,45.63304317032419,0 4.82188822030701,45.6330764702273,0 4.82190960447105,45.63309035539759,0 4.82192945668706,45.6330966993181,0 4.82194518289553,45.6330986064362,0 4.8220077767631,45.63308507300061,0 4.82206191653487,45.63316580165889,0 4.82203571836286,45.63317730469389,0 4.82201460761985,45.6331912473691,0 4.8220051948108,45.6332056311467,0 4.82200144195214,45.6332242467413,0 4.8220124578926,45.6332546928669,0 4.82204646313211,45.6333009797336,0 4.82207187280642,45.6333279502111,0 4.82209734465477,45.63334510182761,0 4.82211657314652,45.6333519962483,0 4.82214046364589,45.63335620309071,0 4.82219778872718,45.6333503209136,0 4.82220745436228,45.6333631347729,0 4.82238638314957,45.6332953854759,0 4.82237725446616,45.6332832835122,0 4.82242588489855,45.6332472778207,0 4.82242638906878,45.6332235807156,0 4.82241845261088,45.63319308475659,0 4.82240721346137,45.6331714693397,0 4.82237651376839,45.6331281014252,0 4.82235292527739,45.6331096583654,0 4.82234272076336,45.6331038788625,0 4.82234010103181,45.6331022999896,0 4.82232186266493,45.63309818180701,0 4.82229936506173,45.63309728511349,0 4.82225533230221,45.63310133080879,0 4.82224026730738,45.6330804979047,0 4.82220514958511,45.6330316170227,0 4.82221634302802,45.63302062713041,0 4.82222467394699,45.63301238574951,0 4.82223828666513,45.6329929799832,0 4.8222404423457,45.6329765519708,0 4.82222472586798,45.63294762313409,0 4.82218723229041,45.6328889628716,0 4.82216383931868,45.63285304264,0 4.82211294606259,45.632738304323,0 4.82210628915849,45.63272328001361,0 4.8219199368733,45.632440408713,0 4.82191324255175,45.6324320503276,0 4.82190681079317,45.6324238678349,0 4.82166323254478,45.6321107577259,0 4.82163841092129,45.6320860294518,0 4.82161226172474,45.6320599715831,0 4.82134389729501,45.6316918678092,0 4.82122575044618,45.6315230035314,0 4.82101895719527,45.6312273112242,0 4.82085582583384,45.63099828591171,0 4.82068553408371,45.6307583874646,0 4.8205500711285,45.6308164237429,0 4.82049487413635,45.6308401049361,0 4.82044145280497,45.63086312687219,0 4.82032868567681,45.6309125090935,0 4.82037211102667,45.63097206474509,0 4.82043674803475,45.63107153939361,0 4.82054858033339,45.63123978602171,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.952">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69294000AO0142</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SEREZIN-DU-RHONE</SimpleData>
+					<SimpleData name="Adresse">SANS SOU</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SOCIETE NATIONALE SNCF</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.63099828591171 </north>
+			<south> 45.6304381440991 </south>
+			<east> 4.82096940551716 </east>
+			<west> 4.82047578536911 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.82068553408371,45.6307583874646,0 4.82085582583384,45.63099828591171,0 4.82096940551716,45.6309775328912,0 4.82071098042371,45.6306459262406,0 4.82054867866966,45.6304381440991,0 4.82050938045394,45.630453371537,0 4.82047578536911,45.6304663449695,0 4.82068553408371,45.6307583874646,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.985">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69294000AO0158</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SEREZIN-DU-RHONE</SimpleData>
+					<SimpleData name="Adresse">4, RUE DE LA SARRAZINIERE</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SOCIETE NATIONALE SNCF</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6274992039569 </north>
+			<south> 45.6272184719303 </south>
+			<east> 4.81857466778843 </east>
+			<west> 4.81811315435693 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.81857466778843,45.6273648354485,0 4.81856754237324,45.6273550427035,0 4.81851456273753,45.62728194994071,0 4.8184685744012,45.6272184719303,0 4.81825859154467,45.627297885923,0 4.81811315435693,45.6273530180768,0 4.81821911284491,45.6274992039569,0 4.81822824168313,45.6274957237872,0 4.81857466778843,45.6273648354485,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.1121">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69294000AB0026</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SEREZIN-DU-RHONE</SimpleData>
+					<SimpleData name="Adresse">SANS SOU</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SOCIETE NATIONALE SNCF</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6332472778207 </north>
+			<south> 45.63299147808851 </south>
+			<east> 4.82264359946948 </east>
+			<west> 4.82224026730738 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.82242588489855,45.6332472778207,0 4.8226178911866,45.63312437242901,0 4.82264359946948,45.63310188840409,0 4.82257569009861,45.6330202120885,0 4.8225440472935,45.63302621895971,0 4.82252570000468,45.63299147808851,0 4.82250937569424,45.6329948049151,0 4.82248231985182,45.6329997466897,0 4.8224393444342,45.6330125123202,0 4.82224026730738,45.6330804979047,0 4.82225533230221,45.63310133080879,0 4.82229936506173,45.63309728511349,0 4.82232186266493,45.63309818180701,0 4.82234010103181,45.6331022999896,0 4.82234272076336,45.6331038788625,0 4.82235292527739,45.6331096583654,0 4.82237651376839,45.6331281014252,0 4.82240721346137,45.6331714693397,0 4.82241845261088,45.63319308475659,0 4.82242638906878,45.6332235807156,0 4.82242588489855,45.6332472778207,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.1212">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69294000AB0040</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SEREZIN-DU-RHONE</SimpleData>
+					<SimpleData name="Adresse">SANS SOU</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SOCIETE NATIONALE SNCF</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6324320503276 </north>
+			<south> 45.63208149236191 </south>
+			<east> 4.82218363550273 </east>
+			<west> 4.82163841092129 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.82186877313245,45.6321027464996,0 4.82182903882912,45.6320930315059,0 4.82177304955095,45.6320848406592,0 4.82170168476421,45.63208149236191,0 4.82166952124645,45.632083364112,0 4.82163841092129,45.6320860294518,0 4.82166323254478,45.6321107577259,0 4.82190681079317,45.6324238678349,0 4.82191324255175,45.6324320503276,0 4.82193977402895,45.6324228837922,0 4.82197719880384,45.6324092174247,0 4.82200576263646,45.6323993874641,0 4.82201762030032,45.6323929805084,0 4.82202588206405,45.6323865417012,0 4.82204588299011,45.6323583856134,0 4.8220555552442,45.63234408770221,0 4.82207245084411,45.63232300750489,0 4.82209025058682,45.6323020928093,0 4.82214919404185,45.6322283602186,0 4.82218363550273,45.6321747501177,0 4.82208352614363,45.6321523218829,0 4.82197904218957,45.6321296041008,0 4.82186877313245,45.6321027464996,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.1384">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69294000AC0075</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SEREZIN-DU-RHONE</SimpleData>
+					<SimpleData name="Adresse">VILLAGE DE SEREZIN</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">ETS PUBLIC FONCIER OUEST RHONE ALPES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6300822803662 </north>
+			<south> 45.6299199797336 </south>
+			<east> 4.82692569747744 </east>
+			<west> 4.82637353584189 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.8269242584679,45.6299578636136,0 4.82692569747744,45.62993532222361,0 4.82641153527216,45.6299199797336,0 4.82637353584189,45.6300796638087,0 4.82652106913438,45.6300803316267,0 4.82692258492067,45.6300822803662,0 4.8269242584679,45.6299578636136,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.1443">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69294000AC0089</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SEREZIN-DU-RHONE</SimpleData>
+					<SimpleData name="Adresse">13, RUE DES CARDOUX</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">ETS PUBLIC FONCIER OUEST RHONE ALPES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6305869121168 </north>
+			<south> 45.6299544640385 </south>
+			<east> 4.82714996475115 </east>
+			<west> 4.82690854574977 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.82692258492067,45.6300822803662,0 4.82692386805686,45.63008225953399,0 4.82691620448898,45.6302858568506,0 4.82691256696181,45.6304130076553,0 4.82691178668658,45.6304399518846,0 4.8269108299519,45.63046933092579,0 4.82690854574977,45.6305869121168,0 4.8270306040595,45.63057808494191,0 4.82710794878657,45.6305720553102,0 4.82714996475115,45.63056921136379,0 4.82714500569722,45.6302865555073,0 4.82713918625431,45.6299544640385,0 4.8269242584679,45.6299578636136,0 4.82692258492067,45.6300822803662,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.3922">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69294000AO0141</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SEREZIN-DU-RHONE</SimpleData>
+					<SimpleData name="Adresse">SANS SOU</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SOCIETE NATIONALE SNCF</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6304663449695 </north>
+			<south> 45.6298154303415 </south>
+			<east> 4.82053375394889 </east>
+			<west> 4.82004485519447 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.82004485519447,45.6298154303415,0 4.82049370011145,45.6303864315472,0 4.82047578536911,45.6304663449695,0 4.82050938045394,45.630453371537,0 4.82053375394889,45.6303473228245,0 4.82047477141906,45.63028315504391,0 4.82004485519447,45.6298154303415,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.4583">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69294000AL0155</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SEREZIN-DU-RHONE</SimpleData>
+					<SimpleData name="Adresse">10, RUE DE LA GARENNE</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">CCOM</SimpleData>
+					<SimpleData name="Denomination">COMMUNAUTE DE COMMUNES DU PAYS DE LOZON</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.62643998670541 </north>
+			<south> 45.6263102326494 </south>
+			<east> 4.83443519249302 </east>
+			<west> 4.83432845719339 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.83432845719339,45.6264382615318,0 4.83433313579215,45.62643998670541,0 4.83433709249298,45.6264354185882,0 4.8343721238518,45.6263962064833,0 4.8344061824973,45.626354758418,0 4.83442758343397,45.6263226140033,0 4.83443519249302,45.6263120415671,0 4.83443012600682,45.6263102326494,0 4.83440112793303,45.6263533095936,0 4.83432845719339,45.6264382615318,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.4652">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69294000AL0157</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SEREZIN-DU-RHONE</SimpleData>
+					<SimpleData name="Adresse">10, RUE DE LA GARENNE</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">CCOM</SimpleData>
+					<SimpleData name="Denomination">COMMUNAUTE DE COMMUNES DU PAYS DE LOZON</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6263120415671 </north>
+			<south> 45.6261807190774 </south>
+			<east> 4.834512360773 </east>
+			<west> 4.83443012600682 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.83443012600682,45.6263102326494,0 4.83443519249302,45.6263120415671,0 4.83445310808788,45.6262870696793,0 4.83448044707283,45.6262442899868,0 4.83450140348822,45.6262064782509,0 4.834512360773,45.6261807190774,0 4.83450375831728,45.6261845522946,0 4.83447514485181,45.6262431154205,0 4.83443012600682,45.6263102326494,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.4696">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69294000AN0158</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SEREZIN-DU-RHONE</SimpleData>
+					<SimpleData name="Adresse">LARDIERES</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">CCOM</SimpleData>
+					<SimpleData name="Denomination">COMMUNAUTE DE COMMUNES DU PAYS DE LOZON</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6258103309586 </north>
+			<south> 45.6253511849547 </south>
+			<east> 4.82071666645617 </east>
+			<west> 4.81997191033581 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.82071666645617,45.62542913835809,0 4.82063014954264,45.6253511849547,0 4.82056671973298,45.62538589817321,0 4.8205364447794,45.6254021506075,0 4.82050592799491,45.6254188573056,0 4.82009962269471,45.6256412427106,0 4.82007754929214,45.6256492558786,0 4.82005658736264,45.6256520268936,0 4.82003423295471,45.6256514877687,0 4.81997191033581,45.6256417772908,0 4.82016499992669,45.6258103309586,0 4.8201552698966,45.62579940951321,0 4.82014620135553,45.625781271615,0 4.82015097521526,45.6257507500908,0 4.82017743130047,45.6257237509138,0 4.82033771272556,45.625636130108,0 4.82050394106089,45.6255458908347,0 4.82071666645617,45.62542913835809,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.4729">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69294000AO0159</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SEREZIN-DU-RHONE</SimpleData>
+					<SimpleData name="Adresse">4, RUE DE LA SARRAZINIERE</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">CCOM</SimpleData>
+					<SimpleData name="Denomination">COMMUNAUTE DE COMMUNES DU PAYS DE LOZON</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.62841888495941 </north>
+			<south> 45.6273648354485 </south>
+			<east> 4.81917994282022 </east>
+			<west> 4.81822824168313 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.81908421095054,45.6283505423283,0 4.81910507341882,45.62830561947511,0 4.81912389945698,45.6282651430622,0 4.81917994282022,45.6281500258638,0 4.81902862002616,45.628010338778,0 4.81887517441147,45.6277903417015,0 4.8187633606145,45.6276301097566,0 4.81866494453665,45.6274908280602,0 4.81857466778843,45.6273648354485,0 4.81822824168313,45.6274957237872,0 4.81825863997598,45.627537926644,0 4.81839154346975,45.62772276815681,0 4.81850602130929,45.6278820566854,0 4.81860826800721,45.6280246092794,0 4.81889055026236,45.62841888495941,0 4.81908421095054,45.6283505423283,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.4805">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69294000AO0160</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SEREZIN-DU-RHONE</SimpleData>
+					<SimpleData name="Adresse">4, RUE DE LA SARRAZINIERE</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SOCIETE NATIONALE SNCF</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6309125090935 </north>
+			<south> 45.62640457372449 </south>
+			<east> 4.82068553408371 </east>
+			<west> 4.81722464320187 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.81752308809594,45.6264867822703,0 4.81744634199481,45.626581336328,0 4.81737735992893,45.6266660371718,0 4.81734997174264,45.6266998961771,0 4.81732504332153,45.6267304728619,0 4.81735657953798,45.62678391654139,0 4.81732184759746,45.6268013209334,0 4.81722464320187,45.6268436033018,0 4.81723666496377,45.6268617838014,0 4.81724922949362,45.6268808562522,0 4.81736759060912,45.62705692656189,0 4.81741664487036,45.6271473770291,0 4.81752520623549,45.62733774675561,0 4.81769856499918,45.6275779602601,0 4.8177757982867,45.6276742604113,0 4.81778382767044,45.6276842187453,0 4.81793741719827,45.6278696273157,0 4.81810343407539,45.6280972587476,0 4.8180756783357,45.6281042824543,0 4.81809210624035,45.6281276158501,0 4.81813897704346,45.6281945024969,0 4.81828913750671,45.6284083386824,0 4.81834411941204,45.62848374108441,0 4.81834504713618,45.6284846268115,0 4.81834624330183,45.6284858684881,0 4.81834782735352,45.6284871939685,0 4.81834953676028,45.6284884273514,0 4.8183511089911,45.6284893927353,0 4.81835346290454,45.628490705775,0 4.81835724005199,45.6284923561031,0 4.81836074580279,45.6284935604574,0 4.81836462761869,45.6284944885189,0 4.81836914212019,45.62849513614059,0 4.81837377311088,45.6284954215921,0 4.81837646467115,45.6284952880251,0 4.81837877130061,45.6284951606784,0 4.81838094075389,45.6284947653328,0 4.8184118012424,45.6285588481587,0 4.81855048219884,45.6287514324381,0 4.81867487911944,45.6289273139165,0 4.81885257137261,45.6291779942114,0 4.8189156402261,45.62925722881089,0 4.81897179756496,45.6293292792794,0 4.81909519545251,45.6294824783761,0 4.81924153429756,45.62965791450949,0 4.81939026534417,45.6298397068977,0 4.81948464976482,45.6299498699765,0 4.81958224717344,45.6300640342653,0 4.81963441825357,45.63012020616441,0 4.81967523615796,45.6301629607733,0 4.81978130672791,45.6302849142145,0 4.81988116176003,45.6303974204625,0 4.81998317672425,45.6305131342853,0 4.82006516093185,45.63060530294571,0 4.82009756027948,45.6306418885426,0 4.82022901072523,45.6307899122375,0 4.82032868567681,45.6309125090935,0 4.82044145280497,45.63086312687219,0 4.82049487413635,45.6308401049361,0 4.8205500711285,45.6308164237429,0 4.82068553408371,45.6307583874646,0 4.82047578536911,45.6304663449695,0 4.82049370011145,45.6303864315472,0 4.82004485519447,45.6298154303415,0 4.81966799541641,45.6292977569748,0 4.81949533424981,45.6290831153818,0 4.81943309081766,45.6290055791181,0 4.81938262980262,45.6289428042534,0 4.81924808623196,45.6287238530568,0 4.81919395187117,45.62860394185329,0 4.81915867821633,45.62852669000531,0 4.8191059645215,45.628407026016,0 4.81909303477042,45.62836904456141,0 4.81908421095054,45.6283505423283,0 4.81889055026236,45.62841888495941,0 4.81860826800721,45.6280246092794,0 4.81850602130929,45.6278820566854,0 4.81839154346975,45.62772276815681,0 4.81825863997598,45.627537926644,0 4.81822824168313,45.6274957237872,0 4.81821911284491,45.6274992039569,0 4.81811315435693,45.6273530180768,0 4.81825859154467,45.627297885923,0 4.81817797588081,45.62727063579651,0 4.81812648799993,45.6271999506967,0 4.81813511538494,45.6271968389239,0 4.81813242218182,45.6271930093512,0 4.81812861433164,45.6271943318845,0 4.81808812939203,45.6271381506951,0 4.81809206259168,45.6271367360659,0 4.81808923813258,45.6271328185412,0 4.81807997217407,45.62713603070029,0 4.81802122504696,45.6270553748021,0 4.81818821257024,45.62702322314621,0 4.81832528512645,45.6270613603536,0 4.81827948774395,45.6270271525412,0 4.81826720355515,45.627016632495,0 4.81825493710114,45.6270066525921,0 4.81823424921233,45.6269904136687,0 4.81822634691203,45.6269843264039,0 4.81820872238268,45.6269714607058,0 4.81819400039202,45.626960980044,0 4.81817758382588,45.6269497161156,0 4.81816026616487,45.6269383766733,0 4.81814623595767,45.62692941604901,0 4.81812960120991,45.6269193265734,0 4.81811952067367,45.6269133645695,0 4.81810342575487,45.62690407701431,0 4.81808760518306,45.6268953254552,0 4.81807074634499,45.6268862303824,0 4.81805598769197,45.6268785425231,0 4.81804476718576,45.6268730492911,0 4.81803458790712,45.6268679895938,0 4.81796911313985,45.62684049469379,0 4.81794347631975,45.6268299201323,0 4.81791145499884,45.6268164763438,0 4.81789062462492,45.6268076255535,0 4.81786094238762,45.6267950446792,0 4.81784310739045,45.6267874965654,0 4.81783113185748,45.6267824658699,0 4.81781733049542,45.6267765639517,0 4.81781094599497,45.6267736947247,0 4.81780441546323,45.6267702874256,0 4.81779670654163,45.6267661785885,0 4.81779014646913,45.62676187104731,0 4.81778265280292,45.626756497726,0 4.81777804096027,45.6267528792851,0 4.81777461046245,45.626750052406,0 4.81777143657746,45.6267472213812,0 4.81776772878836,45.6267437684786,0 4.81776387201404,45.6267396874799,0 4.81776080280278,45.6267361341891,0 4.81775705956471,45.6267316009968,0 4.81775558024999,45.6267295532426,0 4.81775370420003,45.6267271516102,0 4.81775222193136,45.6267250138318,0 4.81775046237114,45.6267222500301,0 4.81774829130492,45.6267186822297,0 4.81774555679329,45.6267135923102,0 4.81774307298613,45.626708318197,0 4.81774062167529,45.626704034349,0 4.81763388457642,45.62650273668871,0 4.8176389220155,45.6264645549286,0 4.81764966280706,45.62640457372449,0 4.817636835216,45.6264048710125,0 4.81761976763695,45.62640505664699,0 4.81752308809594,45.6264867822703,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.4906">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69294000AN0163</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SEREZIN-DU-RHONE</SimpleData>
+					<SimpleData name="Adresse">LARDIERES</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">CCOM</SimpleData>
+					<SimpleData name="Denomination">COMMUNAUTE DE COMMUNES DU PAYS DE LOZON</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6259232819833 </north>
+			<south> 45.62542913835809 </south>
+			<east> 4.82111423081661 </east>
+			<west> 4.82050394106089 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.82071666645617,45.62542913835809,0 4.82050394106089,45.6255458908347,0 4.82055136328633,45.6255318829813,0 4.82059016118717,45.6255327864451,0 4.82061877847696,45.6255442128941,0 4.82063691928425,45.6255571599328,0 4.82078082574836,45.6256821929997,0 4.82092421668693,45.62580714416561,0 4.82093041163947,45.6258159610304,0 4.8209346799271,45.6258325552596,0 4.82092511294679,45.6258578401496,0 4.82090909248793,45.6258703491925,0 4.82087709213357,45.6258887913648,0 4.82089678650409,45.6259060366757,0 4.82091648088686,45.6259232819833,0 4.82096006032036,45.6258978069438,0 4.82100288172693,45.6258727044425,0 4.82111423081661,45.6258078519737,0 4.82110697580736,45.6258019345769,0 4.82107384814629,45.6257743683014,0 4.82106283960516,45.62577923020971,0 4.8210502499825,45.6257828566989,0 4.82103514267846,45.62578409199169,0 4.82101946888812,45.6257837151561,0 4.82101067911631,45.6257818758285,0 4.82099897787733,45.6257773814617,0 4.82099269499649,45.6257737001229,0 4.82094070208486,45.6257306765361,0 4.82094247526216,45.6256947992178,0 4.82083432993165,45.6255993617405,0 4.82078808918095,45.6255594875926,0 4.82073854845797,45.62555200264121,0 4.82069958049622,45.62551858602161,0 4.82068770583413,45.6255049070956,0 4.82068126832659,45.6254887082474,0 4.82068347662013,45.6254660644661,0 4.8206937551018,45.62544680290291,0 4.82071666645617,45.62542913835809,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.7186">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69294000AM0218</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SEREZIN-DU-RHONE</SimpleData>
+					<SimpleData name="Adresse">24, RUE DES VERCHERES</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">CCOM</SimpleData>
+					<SimpleData name="Denomination">COMMUNAUTE DE COMMUNES DU PAYS DE LOZON</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6271429785616 </north>
+			<south> 45.6265391018219 </south>
+			<east> 4.82618180001571 </east>
+			<west> 4.82573165994665 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.82573165994665,45.6265675416905,0 4.82612622646975,45.6269280023419,0 4.82612707022337,45.626965278482,0 4.82610168444554,45.626993522737,0 4.82607477746368,45.62701845900689,0 4.82604320324016,45.6270459029578,0 4.82590595826078,45.6271390128505,0 4.82591135237737,45.6271429785616,0 4.82604697091892,45.6270511560658,0 4.82610252709422,45.6270035070606,0 4.82615046629927,45.6269506673941,0 4.82618180001571,45.62691593147791,0 4.82589220207461,45.6266515859663,0 4.82576910643094,45.6265391018219,0 4.82573165994665,45.6265675416905,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.7353">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69294000AM0222</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SEREZIN-DU-RHONE</SimpleData>
+					<SimpleData name="Adresse">24, RUE DES VERCHERES</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">CCOM</SimpleData>
+					<SimpleData name="Denomination">COMMUNAUTE DE COMMUNES DU PAYS DE LOZON</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.62723600243431 </north>
+			<south> 45.6271390128505 </south>
+			<east> 4.82591135237737 </east>
+			<west> 4.82576895756523 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.82590595826078,45.6271390128505,0 4.82576895756523,45.6272317583172,0 4.82577384735452,45.62723600243431,0 4.82591135237737,45.6271429785616,0 4.82590595826078,45.6271390128505,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.7647">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69294000AM0230</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SEREZIN-DU-RHONE</SimpleData>
+					<SimpleData name="Adresse">4, RUE DES VERCHERES</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">CCOM</SimpleData>
+					<SimpleData name="Denomination">COMMUNAUTE DE COMMUNES DU PAYS DE LOZON</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6287401474974 </north>
+			<south> 45.6285818083356 </south>
+			<east> 4.82378355577349 </east>
+			<west> 4.82361127671453 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.82363340665105,45.6287401474974,0 4.82363726276248,45.6287363920508,0 4.82367609022285,45.62869523037951,0 4.82378355577349,45.6285942292843,0 4.82376632919258,45.6285818083356,0 4.82361127671453,45.6287308684392,0 4.82363340665105,45.6287401474974,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.9983">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69294000AB0031</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SEREZIN-DU-RHONE</SimpleData>
+					<SimpleData name="Adresse">SANS SOU</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SOCIETE NATIONALE SNCF</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6328961724685 </north>
+			<south> 45.6326276754327 </south>
+			<east> 4.82246262634904 </east>
+			<west> 4.82220504976568 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.82226439938546,45.6326276754327,0 4.82223659755041,45.6326450591675,0 4.82220504976568,45.6326656560724,0 4.82237055173508,45.6328961724685,0 4.82246262634904,45.6328811705652,0 4.82226439938546,45.6326276754327,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.10226">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69294000AB0032</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SEREZIN-DU-RHONE</SimpleData>
+					<SimpleData name="Adresse">SANS SOU</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SOCIETE NATIONALE SNCF</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6330804979047 </north>
+			<south> 45.6326656560724 </south>
+			<east> 4.82297120098647 </east>
+			<west> 4.82211294606259 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.82224026730738,45.6330804979047,0 4.8224393444342,45.6330125123202,0 4.82248231985182,45.6329997466897,0 4.82250937569424,45.6329948049151,0 4.82252570000468,45.63299147808851,0 4.82249982115658,45.6329424476677,0 4.82260835059656,45.6329397892377,0 4.82264836878621,45.6329386006566,0 4.82269224141007,45.6329296935097,0 4.8228163890323,45.6329061554173,0 4.8228746403199,45.6328933223382,0 4.82297120098647,45.63287419410759,0 4.82283002706156,45.632879723548,0 4.8227527062374,45.6328826873455,0 4.82273694879029,45.63283691577229,0 4.82246262634904,45.6328811705652,0 4.82237055173508,45.6328961724685,0 4.82220504976568,45.6326656560724,0 4.82217471111344,45.6326839815893,0 4.82214804040756,45.6327006264097,0 4.82212668211954,45.632714843333,0 4.82211978644267,45.63272378204379,0 4.82211294606259,45.632738304323,0 4.82216383931868,45.63285304264,0 4.82218723229041,45.6328889628716,0 4.82222472586798,45.63294762313409,0 4.8222404423457,45.6329765519708,0 4.82223828666513,45.6329929799832,0 4.82222467394699,45.63301238574951,0 4.82221634302802,45.63302062713041,0 4.82220514958511,45.6330316170227,0 4.82224026730738,45.6330804979047,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.10479">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69294000AB0033</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SEREZIN-DU-RHONE</SimpleData>
+					<SimpleData name="Adresse">SANS SOU</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SOCIETE NATIONALE SNCF</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.632738304323 </north>
+			<south> 45.6323583856134 </south>
+			<east> 4.82226439938546 </east>
+			<west> 4.82191324255175 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.82211294606259,45.632738304323,0 4.82211978644267,45.63272378204379,0 4.82212668211954,45.632714843333,0 4.82214804040756,45.6327006264097,0 4.82217471111344,45.6326839815893,0 4.82220504976568,45.6326656560724,0 4.82223659755041,45.6326450591675,0 4.82226439938546,45.6326276754327,0 4.82204588299011,45.6323583856134,0 4.82202588206405,45.6323865417012,0 4.82201762030032,45.6323929805084,0 4.82200576263646,45.6323993874641,0 4.82197719880384,45.6324092174247,0 4.82193977402895,45.6324228837922,0 4.82191324255175,45.6324320503276,0 4.8219199368733,45.632440408713,0 4.82210628915849,45.63272328001361,0 4.82211294606259,45.632738304323,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.12146">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69294000AB0041</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SEREZIN-DU-RHONE</SimpleData>
+					<SimpleData name="Adresse">SANS SOU</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SOCIETE NATIONALE SNCF</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6321027464996 </north>
+			<south> 45.6309775328912 </south>
+			<east> 4.82186877313245 </east>
+			<west> 4.82085582583384 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.82142747842062,45.6315708994069,0 4.82096940551716,45.6309775328912,0 4.82085582583384,45.63099828591171,0 4.82101895719527,45.6312273112242,0 4.82122575044618,45.6315230035314,0 4.82134389729501,45.6316918678092,0 4.82161226172474,45.6320599715831,0 4.82163841092129,45.6320860294518,0 4.82166952124645,45.632083364112,0 4.82170168476421,45.63208149236191,0 4.82177304955095,45.6320848406592,0 4.82182903882912,45.6320930315059,0 4.82186877313245,45.6321027464996,0 4.82178001152287,45.6319803345156,0 4.8217394788017,45.63196585860239,0 4.82142747842062,45.6315708994069,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.14762">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69294000AK0060</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SEREZIN-DU-RHONE</SimpleData>
+					<SimpleData name="Adresse">LES BRUYERES</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">CCOM</SimpleData>
+					<SimpleData name="Denomination">COMMUNAUTE DE COMMUNES DU PAYS DE LOZON</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6222167523517 </north>
+			<south> 45.6215786797788 </south>
+			<east> 4.82560824793505 </east>
+			<west> 4.82527891380233 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.82552334411929,45.6215786797788,0 4.82548078787081,45.6217596944076,0 4.82546223338286,45.6217575635081,0 4.82535076979208,45.62203670361239,0 4.82527891380233,45.6222167523517,0 4.82549634855561,45.6221617935732,0 4.82560824793505,45.6221334967807,0 4.82552334411929,45.6215786797788,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.16207">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69294000AC0078</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SEREZIN-DU-RHONE</SimpleData>
+					<SimpleData name="Adresse">14, RUE CLAUDE BROSSE</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">ETS PUBLIC FONCIER OUEST RHONE ALPES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6300991850871 </north>
+			<south> 45.6297401382845 </south>
+			<east> 4.82595312378122 </east>
+			<west> 4.82563244109637 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.82592304935815,45.6297488439261,0 4.82575458261644,45.6297401382845,0 4.82572967024124,45.6297983687592,0 4.82563244109637,45.63002683779799,0 4.82570411233122,45.6300862934951,0 4.82572007151397,45.6300991850871,0 4.82576416159461,45.63007748293721,0 4.82595312378122,45.6300691926735,0 4.82592304935815,45.6297488439261,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.16749">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69294000AC0086</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SEREZIN-DU-RHONE</SimpleData>
+					<SimpleData name="Adresse">VILLAGE DE SEREZIN</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">ETS PUBLIC FONCIER OUEST RHONE ALPES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6304750817788 </north>
+			<south> 45.6300796638087 </south>
+			<east> 4.82652695806717 </east>
+			<west> 4.82637353584189 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.82652106913438,45.6300803316267,0 4.82637353584189,45.6300796638087,0 4.82641551698559,45.6303794629419,0 4.82642894059846,45.6304750817788,0 4.82652695806717,45.6304730404677,0 4.82652675389317,45.6304629557064,0 4.82652598140986,45.63040838455159,0 4.82652106913438,45.6300803316267,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.16992">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69294000AO0009</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SEREZIN-DU-RHONE</SimpleData>
+					<SimpleData name="Adresse">LA GRANDE PRAIRIE</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SOCIETE NATIONALE SNCF</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6319111805367 </north>
+			<south> 45.63184002128929 </south>
+			<east> 4.82060993467995 </east>
+			<west> 4.82048506667289 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.82060993467995,45.6319111805367,0 4.82054327419507,45.63184002128929,0 4.82048990833749,45.631896008673,0 4.82048506667289,45.6319010409572,0 4.82052226303663,45.63190386193719,0 4.82059603785773,45.63191023443311,0 4.82060993467995,45.6319111805367,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.17031">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69294000AC0090</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SEREZIN-DU-RHONE</SimpleData>
+					<SimpleData name="Adresse">15, RUE DES CARDOUX</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">ETS PUBLIC FONCIER OUEST RHONE ALPES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.63056921136379 </north>
+			<south> 45.6299509802803 </south>
+			<east> 4.82739380375698 </east>
+			<west> 4.82713918625431 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.82714996475115,45.63056921136379,0 4.82715291302048,45.6305690734199,0 4.82726020912016,45.6305603055475,0 4.82739380375698,45.6305509303583,0 4.82737574470913,45.6302798363162,0 4.82737060046043,45.6302017372532,0 4.82735372610448,45.6299509802803,0 4.82713918625431,45.6299544640385,0 4.82714500569722,45.6302865555073,0 4.82714996475115,45.63056921136379,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.17097">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69294000AC0091</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SEREZIN-DU-RHONE</SimpleData>
+					<SimpleData name="Adresse">17, RUE DES CARDOUX</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">ETS PUBLIC FONCIER OUEST RHONE ALPES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6305509303583 </north>
+			<south> 45.62994748360939 </south>
+			<east> 4.8276979540311 </east>
+			<west> 4.82735372610448 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.82739380375698,45.6305509303583,0 4.82748229396169,45.6305441790387,0 4.82753199094381,45.6305406697747,0 4.82759333781916,45.63053616063191,0 4.8276979540311,45.6305278862254,0 4.82768213241072,45.6304296943603,0 4.82762977360996,45.63043423771791,0 4.82762283798455,45.6303796765798,0 4.82762243283482,45.6303751795536,0 4.82761583405338,45.6303230448924,0 4.82761545860872,45.6303194481049,0 4.82760990300112,45.630275583137,0 4.8276087047929,45.6302665053126,0 4.82760849033744,45.6302638967039,0 4.82760170386086,45.6302099636487,0 4.82760151613937,45.63020816525499,0 4.82759872052333,45.63018569262759,0 4.82759457462936,45.6301534240686,0 4.82758769906931,45.6300967902965,0 4.82758073382421,45.6300413289188,0 4.82758056986667,45.6300402507162,0 4.82756903580736,45.62994748360939,0 4.82751552916741,45.629948352606,0 4.82735372610448,45.6299509802803,0 4.82737060046043,45.6302017372532,0 4.82737574470913,45.6302798363162,0 4.82739380375698,45.6305509303583,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

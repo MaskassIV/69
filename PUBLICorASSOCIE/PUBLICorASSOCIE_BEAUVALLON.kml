@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>BEAUVALLON_PUBLICorASSOCIE</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_9">
+		<name>BEAUVALLON_PUBLICorASSOCIE</name>
+		<Schema name="BEAUVALLON_PUBLICorASSOCIE" id="BEAUVALLON_PUBLICorASSOCIE.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="PUBLICorASSOCIE">
+			<LineStyle>
+				<color>BFdb2105</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4Cdb2105</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.4095">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">691790000D1441</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">BEAUVALLON</SimpleData>
+					<SimpleData name="Adresse">SUR LA VILLE</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SDIS</SimpleData>
+					<SimpleData name="Denomination">SERVICE DEPARTEMENTAL-METROPOLITAIN DINCENDIE ET DE SECOURS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.5865434129784 </north>
+			<south> 45.5862593863391 </south>
+			<east> 4.69740661086175 </east>
+			<west> 4.69718196299841 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.69720505940554,45.5865172114561,0 4.69723728191739,45.5865222192577,0 4.69736672072863,45.5865434129784,0 4.69739938126442,45.5864328563333,0 4.6973901027569,45.586431465236,0 4.69740623238916,45.5863759197346,0 4.6973817470816,45.5863722362796,0 4.69740661086175,45.586287737035,0 4.69734309392613,45.5862786982664,0 4.69727698786507,45.5862688879287,0 4.69720832575831,45.5862593863391,0 4.69718196299841,45.586349402334,0 4.69725076445475,45.5863592621117,0 4.69721967677679,45.58646673264181,0 4.69720505940554,45.5865172114561,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.4234">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">691790000D1476</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">BEAUVALLON</SimpleData>
+					<SimpleData name="Adresse">68, RUE DE  L ARZELIER</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">ETS PUBLIC FONCIER OUEST RHONE ALPES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.5836162135737 </north>
+			<south> 45.5835039632438 </south>
+			<east> 4.69434391950188 </east>
+			<west> 4.69411807439242 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.69414675682829,45.5835100155121,0 4.69411807439242,45.58357880953669,0 4.69413510826626,45.5835821556126,0 4.69417111293874,45.58358926891309,0 4.69420788963683,45.5835964606376,0 4.69428764395801,45.58361228177169,0 4.694307645963,45.5836162135737,0 4.69433273388921,45.5835515267384,0 4.69434391950188,45.5835146103036,0 4.6942615015001,45.5835039632438,0 4.6942582164614,45.58352238668199,0 4.69414675682829,45.5835100155121,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.12932">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">691790480C0046</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">BEAUVALLON</SimpleData>
+					<SimpleData name="Adresse">5009, RUE DU TOUR</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">ETS PUBLIC FONCIER OUEST RHONE ALPES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.605882249896 </north>
+			<south> 45.6057517561853 </south>
+			<east> 4.73140745220813 </east>
+			<west> 4.7312383120389 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.7312383120389,45.60580541883489,0 4.73136107911771,45.605882249896,0 4.73140745220813,45.6058345198364,0 4.73128976104284,45.6057517561853,0 4.73128355051186,45.605758336777,0 4.73127410645179,45.6057682096381,0 4.7312383120389,45.60580541883489,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.12976">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">691790480C0462</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">BEAUVALLON</SimpleData>
+					<SimpleData name="Adresse">LE BOURG - CHASSAGNY</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">ETS PUBLIC FONCIER OUEST RHONE ALPES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6062046486163 </north>
+			<south> 45.6061219255958 </south>
+			<east> 4.73106841925583 </east>
+			<west> 4.73085098533053 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.73085098533053,45.6061900315884,0 4.73085516327056,45.6062046486163,0 4.73106841925583,45.6061219255958,0 4.73102453518368,45.6061261136655,0 4.73085098533053,45.6061900315884,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.12990">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">691790480C0464</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">BEAUVALLON</SimpleData>
+					<SimpleData name="Adresse">LE BOURG - CHASSAGNY</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">ETS PUBLIC FONCIER OUEST RHONE ALPES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6061900315884 </north>
+			<south> 45.60606234793921 </south>
+			<east> 4.73106841925583 </east>
+			<west> 4.73083347481717 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.73085098533053,45.6061900315884,0 4.73102453518368,45.6061261136655,0 4.73106841925583,45.6061219255958,0 4.73103900770742,45.606067706083,0 4.7310360172197,45.60606234793921,0 4.73099933723691,45.6060630024929,0 4.73101219468213,45.6060966707338,0 4.73083347481717,45.6061265318786,0 4.73085098533053,45.6061900315884,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.13040">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">691790480C0047</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">BEAUVALLON</SimpleData>
+					<SimpleData name="Adresse">LE BOURG - CHASSAGNY</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">ETS PUBLIC FONCIER OUEST RHONE ALPES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.606067706083 </north>
+			<south> 45.6059680447316 </south>
+			<east> 4.73130289854133 </east>
+			<west> 4.73102157783561 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.73128128080871,45.6060471343439,0 4.73130289854133,45.6059956421622,0 4.73121747148549,45.6059680447316,0 4.73102685660626,45.6059744910771,0 4.73102157783561,45.6060355493235,0 4.7310360172197,45.60606234793921,0 4.73103900770742,45.606067706083,0 4.73113527024259,45.60606424306981,0 4.73119930033736,45.6060518187786,0 4.73128128080871,45.6060471343439,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.13482">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">691790480C0050</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">BEAUVALLON</SimpleData>
+					<SimpleData name="Adresse">5008, RUE DU TOUR</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">ETS PUBLIC FONCIER OUEST RHONE ALPES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6061219255958 </north>
+			<south> 45.6060471343439 </south>
+			<east> 4.73128128080871 </east>
+			<west> 4.73103900770742 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.73106841925583,45.6061219255958,0 4.73125655324191,45.6061058799418,0 4.73128128080871,45.6060471343439,0 4.73119930033736,45.6060518187786,0 4.73113527024259,45.60606424306981,0 4.73103900770742,45.606067706083,0 4.73106841925583,45.6061219255958,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.14001">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">691790000D0539</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">BEAUVALLON</SimpleData>
+					<SimpleData name="Adresse">150, PL NICOLAS PARADIS</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">ETS PUBLIC FONCIER OUEST RHONE ALPES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.5839035342951 </north>
+			<south> 45.58357880953669 </south>
+			<east> 4.694307645963 </east>
+			<west> 4.69397869081305 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.69411807439242,45.58357880953669,0 4.69408045724317,45.5836658419046,0 4.69404474279911,45.5837479819026,0 4.69400620976797,45.58383863077571,0 4.69397869081305,45.5839035342951,0 4.69405165694734,45.583902885303,0 4.69413319674706,45.5839015666711,0 4.69419267812401,45.5838458188179,0 4.69422893662913,45.5837898804531,0 4.694307645963,45.5836162135737,0 4.69428764395801,45.58361228177169,0 4.69420788963683,45.5835964606376,0 4.69417111293874,45.58358926891309,0 4.69413510826626,45.5835821556126,0 4.69411807439242,45.58357880953669,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.14638">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">691790480C0591</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">BEAUVALLON</SimpleData>
+					<SimpleData name="Adresse">5591, RTE DE LA CHAUDANE</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">ETS PUBLIC FONCIER OUEST RHONE ALPES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6059829495705 </north>
+			<south> 45.60567855404101 </south>
+			<east> 4.73082202761699 </east>
+			<west> 4.73036957983704 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.73036957983704,45.6059126388772,0 4.7307405755923,45.6059829495705,0 4.73073129105029,45.60595273903369,0 4.73082202761699,45.60576003537079,0 4.73048045518149,45.60567855404101,0 4.73036957983704,45.6059126388772,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.17065">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">691790480C0900</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">BEAUVALLON</SimpleData>
+					<SimpleData name="Adresse">LE BOURG - CHASSAGNY</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">ETS PUBLIC FONCIER OUEST RHONE ALPES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6056555127541 </north>
+			<south> 45.6053831831865 </south>
+			<east> 4.73098873135051 </east>
+			<west> 4.73057663106163 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.73062325699356,45.6053861532988,0 4.73061726144332,45.6053831831865,0 4.73057663106163,45.6054709955197,0 4.73094182399243,45.6056555127541,0 4.73098873135051,45.605571476668,0 4.73071633323468,45.60543272818129,0 4.73062325699356,45.6053861532988,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.17070">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">691790480C0901</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">BEAUVALLON</SimpleData>
+					<SimpleData name="Adresse">LE BOURG - CHASSAGNY</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">ETS PUBLIC FONCIER OUEST RHONE ALPES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.60580541883489 </north>
+			<south> 45.605571476668 </south>
+			<east> 4.73128976104284 </east>
+			<west> 4.73094182399243 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.7312383120389,45.60580541883489,0 4.73127410645179,45.6057682096381,0 4.73128355051186,45.605758336777,0 4.73128976104284,45.6057517561853,0 4.7312636577521,45.60573360365791,0 4.73114376971193,45.6056503332585,0 4.73108157699956,45.6056188654323,0 4.73098873135051,45.605571476668,0 4.73094182399243,45.6056555127541,0 4.7312383120389,45.60580541883489,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.17073">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">691790480C0902</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">BEAUVALLON</SimpleData>
+					<SimpleData name="Adresse">CHAZEAUX</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">ETS PUBLIC FONCIER OUEST RHONE ALPES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.60577306848 </north>
+			<south> 45.6054709955197 </south>
+			<east> 4.73094182399243 </east>
+			<west> 4.73048045518149 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.73048045518149,45.60567855404101,0 4.73082202761699,45.60576003537079,0 4.73087645846624,45.60577306848,0 4.73094182399243,45.6056555127541,0 4.73057663106163,45.6054709955197,0 4.73054968884283,45.6055286941921,0 4.73051113746712,45.60561323201419,0 4.73048045518149,45.60567855404101,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.17079">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">691790480C0904</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">BEAUVALLON</SimpleData>
+					<SimpleData name="Adresse">CHAZEAUX</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">ETS PUBLIC FONCIER OUEST RHONE ALPES</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6059956421622 </north>
+			<south> 45.6056555127541 </south>
+			<east> 4.73136107911771 </east>
+			<west> 4.7308238117774 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.7308238117774,45.6059609528158,0 4.73090518114271,45.6059654651395,0 4.73102685660626,45.6059744910771,0 4.73121747148549,45.6059680447316,0 4.73130289854133,45.6059956421622,0 4.73131909945818,45.60592684995001,0 4.73136107911771,45.605882249896,0 4.7312383120389,45.60580541883489,0 4.73094182399243,45.6056555127541,0 4.73087645846624,45.60577306848,0 4.7308238117774,45.6059609528158,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

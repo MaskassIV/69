@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>LIMONEST_HLM</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_5">
+		<name>LIMONEST_HLM</name>
+		<Schema name="LIMONEST_HLM" id="LIMONEST_HLM.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="HLM">
+			<LineStyle>
+				<color>BFe451f5</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4Ce451f5</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.364">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">691160000I0828</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LIMONEST</SimpleData>
+					<SimpleData name="Adresse">501, CHE DE LA BRUYERE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.81455134558411 </north>
+			<south> 45.81434193105899 </south>
+			<east> 4.77095383921361 </east>
+			<west> 4.77020747674794 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.77095383921361,45.814536144406,0 4.77020837621021,45.81434193105899,0 4.77020747674794,45.814358067997,0 4.77094943210043,45.81455134558411,0 4.77095383921361,45.814536144406,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.943">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">691160000C0135</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LIMONEST</SimpleData>
+					<SimpleData name="Adresse">268, AV GENERAL DE GAULLE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">IMMOBILIERE RHONE ALPES SA DHLM</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8360993039702 </north>
+			<south> 45.8359782182375 </south>
+			<east> 4.77176346354732 </east>
+			<west> 4.77153955479728 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.77153955479728,45.8359799805067,0 4.77154093697507,45.8360993039702,0 4.77176346354732,45.8360988759325,0 4.77176100717818,45.8359782182375,0 4.77153955479728,45.8359799805067,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.3840">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">691160000B0495</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LIMONEST</SimpleData>
+					<SimpleData name="Adresse">310, RTE DE BELLEVUE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SCOM</SimpleData>
+					<SimpleData name="Denomination">FONCIERE DHABITAT ET HUMANISME</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8424748151407 </north>
+			<south> 45.8422600937032 </south>
+			<east> 4.7716177847314 </east>
+			<west> 4.7713096286525 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.77133583559808,45.84241952692279,0 4.77149767240163,45.8424748151407,0 4.7716177847314,45.842322331325,0 4.77157858376733,45.8423135786609,0 4.77158135435046,45.8423035372367,0 4.77154932461576,45.84229737424881,0 4.77154577539174,45.8423072477398,0 4.77149488336234,45.84229561595521,0 4.77150069046196,45.84228381554831,0 4.77139940727229,45.8422600937032,0 4.77139305477073,45.8422669487074,0 4.77138683396671,45.84227389171771,0 4.77138060738096,45.8422806546747,0 4.77137399725655,45.84228751371771,0 4.77136763896854,45.84229418866741,0 4.77136102306079,45.8423008676566,0 4.77135427834232,45.8423075486652,0 4.77134765954133,45.8423141376271,0 4.77134078312045,45.84232073062839,0 4.77133403550709,45.8423273216093,0 4.77132703027376,45.8423339166296,0 4.77132001925878,45.8423403315965,0 4.77131301113215,45.8423468365894,0 4.7713096286525,45.8423498619996,0 4.77137148974716,45.842390054768,0 4.77133583559808,45.84241952692279,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.3894">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">691160000B0500</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LIMONEST</SimpleData>
+					<SimpleData name="Adresse">328, RTE DE BELLEVUE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SCOM</SimpleData>
+					<SimpleData name="Denomination">FONCIERE DHABITAT ET HUMANISME</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.84241952692279 </north>
+			<south> 45.8423498619996 </south>
+			<east> 4.77137148974716 </east>
+			<west> 4.77127212905438 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.77133583559808,45.84241952692279,0 4.77137148974716,45.842390054768,0 4.7713096286525,45.8423498619996,0 4.77130587130467,45.8423532535752,0 4.77129860266629,45.8423596725804,0 4.77129133113628,45.8423660015587,0 4.77128393079533,45.84237233255621,0 4.77127652756276,45.8423785735269,0 4.77127212905438,45.8423820652269,0 4.77133583559808,45.84241952692279,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.4681">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">691160000C0736</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LIMONEST</SimpleData>
+					<SimpleData name="Adresse">294, AV GENERAL DE GAULLE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.83626293662169 </north>
+			<south> 45.83620866093269 </south>
+			<east> 4.77168525785616 </east>
+			<west> 4.77154219652114 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.77168387377669,45.83620866093269,0 4.77154219652114,45.83621079311051,0 4.77154271069475,45.83626293662169,0 4.77168525785616,45.8362598000102,0 4.77168387377669,45.83620866093269,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.4684">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">691160000C0738</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LIMONEST</SimpleData>
+					<SimpleData name="Adresse">298, AV GENERAL DE GAULLE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8363230985498 </north>
+			<south> 45.8362598000102 </south>
+			<east> 4.77168558283292 </east>
+			<west> 4.77154271069475 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.77168525785616,45.8362598000102,0 4.77154271069475,45.83626293662169,0 4.77154314068127,45.8363204857618,0 4.77154309569719,45.8363230985498,0 4.77168192240644,45.8363204706579,0 4.77168068862197,45.8362740129569,0 4.77168558283292,45.83627393618679,0 4.77168525785616,45.8362598000102,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.4872">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">691160000I0825</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LIMONEST</SimpleData>
+					<SimpleData name="Adresse">501, CHE DE LA BRUYERE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.814536144406 </north>
+			<south> 45.8139284472479 </south>
+			<east> 4.77107282657375 </east>
+			<west> 4.77020837621021 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.77107282657375,45.814141655293,0 4.77071023955497,45.8140415082604,0 4.770610770491,45.8140164970921,0 4.77038051226058,45.8139618315344,0 4.77024058700711,45.8139284472479,0 4.77020837621021,45.81434193105899,0 4.77095383921361,45.814536144406,0 4.77107282657375,45.814141655293,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

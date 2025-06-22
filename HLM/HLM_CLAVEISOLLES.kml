@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>CLAVEISOLLES_HLM</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_5">
+		<name>CLAVEISOLLES_HLM</name>
+		<Schema name="CLAVEISOLLES_HLM" id="CLAVEISOLLES_HLM.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="HLM">
+			<LineStyle>
+				<color>BFe451f5</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4Ce451f5</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2656">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69060000AB0303</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CLAVEISOLLES</SimpleData>
+					<SimpleData name="Adresse">LE COUVENT</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.10189154761329 </north>
+			<south> 46.1015198392337 </south>
+			<east> 4.49103242846247 </east>
+			<west> 4.49022243462437 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.49055756359643,46.101888678058,0 4.49065908317097,46.10187005231221,0 4.4907614378913,46.1018535770646,0 4.49076968946663,46.1018522978393,0 4.49087137966991,46.1018256538789,0 4.49088568690908,46.1017994371703,0 4.49091096323552,46.1017528117547,0 4.49094386071304,46.10169122550079,0 4.49102038749437,46.101543684502,0 4.49103242846247,46.1015198392337,0 4.49099921718732,46.10152216688951,0 4.49078215153156,46.1016293134359,0 4.49053727962072,46.1016994477693,0 4.49034230690017,46.1017333507015,0 4.49032726188965,46.10175624462271,0 4.49034364793455,46.101763684982,0 4.49030418793333,46.101817251376,0 4.49028384338159,46.1018118444164,0 4.49022243462437,46.10189154761329,0 4.49055756359643,46.101888678058,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2663">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69060000AB0304</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CLAVEISOLLES</SimpleData>
+					<SimpleData name="Adresse">329, MTE DU COUVENT</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.10189154761329 </north>
+			<south> 46.10120283209719 </south>
+			<east> 4.49053727962072 </east>
+			<west> 4.48875406976746 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.48893156026835,46.1018763359676,0 4.48896033708031,46.10187757962699,0 4.48911546176428,46.1018877032603,0 4.48947510870377,46.1018865867159,0 4.48991022889913,46.101889882215,0 4.48993794345441,46.1018901488569,0 4.49022243462437,46.10189154761329,0 4.49028384338159,46.1018118444164,0 4.49030418793333,46.101817251376,0 4.49034364793455,46.101763684982,0 4.49032726188965,46.10175624462271,0 4.49034230690017,46.1017333507015,0 4.49053727962072,46.1016994477693,0 4.48967549408007,46.1013600490912,0 4.4892334855775,46.10120283209719,0 4.48915735794281,46.101293625694,0 4.48910350477444,46.1012700147321,0 4.48875826737684,46.1016974886067,0 4.48881675829803,46.10171545487519,0 4.48875406976746,46.1018292185783,0 4.48893538245832,46.10184539355799,0 4.48893156026835,46.1018763359676,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2669">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69060000AB0305</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CLAVEISOLLES</SimpleData>
+					<SimpleData name="Adresse">LE COUVENT</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1018829357021 </north>
+			<south> 46.1015399901366 </south>
+			<east> 4.48893538245832 </east>
+			<west> 4.48795939489941 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.48893156026835,46.1018763359676,0 4.48893538245832,46.10184539355799,0 4.48875406976746,46.1018292185783,0 4.48881675829803,46.10171545487519,0 4.48875826737684,46.1016974886067,0 4.48823442457631,46.1015399901366,0 4.48795939489941,46.1018734137555,0 4.48799564647359,46.1018829357021,0 4.48810244889685,46.101868115786,0 4.48820867500243,46.1018511417675,0 4.48823715402112,46.1018461750359,0 4.48893156026835,46.1018763359676,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2683">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69060000AB0307</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CLAVEISOLLES</SimpleData>
+					<SimpleData name="Adresse">LE COUVENT</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1016994477693 </north>
+			<south> 46.1010241583755 </south>
+			<east> 4.49104787850332 </east>
+			<west> 4.48823442457631 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.48823442457631,46.1015399901366,0 4.48875826737684,46.1016974886067,0 4.48910350477444,46.1012700147321,0 4.48915735794281,46.101293625694,0 4.4892334855775,46.10120283209719,0 4.48967549408007,46.1013600490912,0 4.49053727962072,46.1016994477693,0 4.49078215153156,46.1016293134359,0 4.49099921718732,46.10152216688951,0 4.49103242846247,46.1015198392337,0 4.49104787850332,46.101497570348,0 4.4908936106162,46.1014379023788,0 4.49080569018911,46.1013946552211,0 4.49079991958094,46.101387165561,0 4.49076747826267,46.1014226269433,0 4.49074822400404,46.1014716950505,0 4.49061583760924,46.10145497048529,0 4.49061213319726,46.1014615938787,0 4.49044346576725,46.10142949416499,0 4.49046753090412,46.10137162663531,0 4.49033633643083,46.1013463299252,0 4.49041995975919,46.1013028112501,0 4.49050438890199,46.1012651361516,0 4.49050830825696,46.10126166221259,0 4.49065084195337,46.1012134068528,0 4.49071832517172,46.1012716932095,0 4.49071579765629,46.1012692045876,0 4.49073260536734,46.10123971271611,0 4.49055680089734,46.1010734200626,0 4.49023927704486,46.1011475700989,0 4.48994662598232,46.10111250419919,0 4.48954118479666,46.1010241583755,0 4.48823442457631,46.1015399901366,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2688">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69060000AB0308</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CLAVEISOLLES</SimpleData>
+					<SimpleData name="Adresse">LE COUVENT</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1014716950505 </north>
+			<south> 46.1012134068528 </south>
+			<east> 4.49079991958094 </east>
+			<west> 4.49033633643083 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.49065084195337,46.1012134068528,0 4.49050830825696,46.10126166221259,0 4.49050438890199,46.1012651361516,0 4.49041995975919,46.1013028112501,0 4.49033633643083,46.1013463299252,0 4.49046753090412,46.10137162663531,0 4.49044346576725,46.10142949416499,0 4.49061213319726,46.1014615938787,0 4.49061583760924,46.10145497048529,0 4.49074822400404,46.1014716950505,0 4.49076747826267,46.1014226269433,0 4.49079991958094,46.101387165561,0 4.49075914197728,46.1013349230975,0 4.49074229422927,46.1013152400281,0 4.49071832517172,46.1012716932095,0 4.49071579765629,46.1012692045876,0 4.49065084195337,46.1012134068528,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

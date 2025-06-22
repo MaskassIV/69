@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>DENICE_DEPT</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_3">
+		<name>DENICE_DEPT</name>
+		<Schema name="DENICE_DEPT" id="DENICE_DEPT.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="DEPT">
+			<LineStyle>
+				<color>BF63f16c</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C63f16c</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.188">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690740000D0848</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DENICE</SimpleData>
+					<SimpleData name="Adresse">BENNEVENT</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9984384878693 </north>
+			<south> 45.99838657296489 </south>
+			<east> 4.64649319263491 </east>
+			<west> 4.64637164651519 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.64647942601453,45.99838657296489,0 4.64637164651519,45.9984384878693,0 4.64649319263491,45.9984190678534,0 4.64647942601453,45.99838657296489,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.399">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690740000D1011</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DENICE</SimpleData>
+					<SimpleData name="Adresse">LES CHARMES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9991001599825 </north>
+			<south> 45.9989878395097 </south>
+			<east> 4.62673721517401 </east>
+			<west> 4.62648798389128 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.62673721517401,45.9989878395097,0 4.62662069317195,45.9990244591933,0 4.62657384917964,45.9989918065201,0 4.62648798389128,45.9990424868841,0 4.62656748880008,45.9991001599825,0 4.62657927909254,45.9990924249539,0 4.62659166861138,45.9990874734384,0 4.62665885936687,45.9990608391868,0 4.62669078629135,45.99903480133379,0 4.62671627951257,45.9990053431916,0 4.62672634782456,45.9989961917806,0 4.62673721517401,45.9989878395097,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.400">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690740000D1012</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DENICE</SimpleData>
+					<SimpleData name="Adresse">LES CHARMES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9988427273798 </north>
+			<south> 45.998816524306 </south>
+			<east> 4.6279737184941 </east>
+			<west> 4.62758458670764 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.62771441720984,45.9988278921487,0 4.627625335864,45.9988397100718,0 4.62758458670764,45.9988427273798,0 4.62778876125172,45.9988421355381,0 4.6279737184941,45.9988297503353,0 4.62793501360608,45.9988276044952,0 4.62780351183453,45.998816524306,0 4.62771441720984,45.9988278921487,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2753">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690740000D0243</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DENICE</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.00351646887171 </north>
+			<south> 46.002768242935 </south>
+			<east> 4.64593489969131 </east>
+			<west> 4.64505076421195 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.64593489969131,46.0030332988097,0 4.6458407638051,46.002768242935,0 4.64561043553191,46.0029492944834,0 4.64516017439383,46.003330700007,0 4.64505076421195,46.0035013478016,0 4.64511971726147,46.00351646887171,0 4.64527460000161,46.00338830359119,0 4.64537909827627,46.0033084261571,0 4.64550540231279,46.0032143613179,0 4.64556710073591,46.0031641074805,0 4.64559988515587,46.0031453473224,0 4.64562204090224,46.0031212473456,0 4.645640229635,46.0031114358545,0 4.64568995396886,46.0030886467171,0 4.64571131318196,46.0030768076465,0 4.64573916936277,46.0030531652523,0 4.64577951399208,46.00303654693651,0 4.6458087295823,46.00302810640081,0 4.64583562521443,46.0030242029994,0 4.64586698878636,46.0030270799108,0 4.64591590609897,46.00303348468231,0 4.64593489969131,46.0030332988097,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.5859">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690740000B0701</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DENICE</SimpleData>
+					<SimpleData name="Adresse">AUX LOUATTES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.00795434809331 </north>
+			<south> 46.00787599105849 </south>
+			<east> 4.6490999504676 </east>
+			<west> 4.64854870955516 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.64854870955516,46.0078839612596,0 4.64869607586142,46.00790595543239,0 4.64901614609111,46.00795434809331,0 4.64904208045783,46.00795279974349,0 4.64907750791218,46.0079445381933,0 4.6490987394169,46.0079370236658,0 4.6490999504676,46.0079343039736,0 4.64900876614988,46.0079280653286,0 4.64900736178733,46.0079372727905,0 4.64898428031978,46.0079348165825,0 4.64898596737516,46.00792641562641,0 4.6489418261225,46.007924265909,0 4.64878138576001,46.0078973283847,0 4.64862602516424,46.00787599105849,0 4.64854870955516,46.0078839612596,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.5993">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690740000D0734</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DENICE</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0010014320062 </north>
+			<south> 46.0007827990402 </south>
+			<east> 4.64547405241648 </east>
+			<west> 4.64532102013174 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.64533063648749,46.0008148554395,0 4.64540399848491,46.0009343019686,0 4.64544542454697,46.0010014320062,0 4.64547405241648,46.00099498159099,0 4.64545921183706,46.0009568278454,0 4.64538792960919,46.00079024517329,0 4.64537349046733,46.0007827990402,0 4.64532102013174,46.0007958104529,0 4.64532493074718,46.0008055711539,0 4.64533063648749,46.0008148554395,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.5999">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690740000D0736</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DENICE</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0007958104529 </north>
+			<south> 46.0003996408722 </south>
+			<east> 4.64537349046733 </east>
+			<west> 4.6451506044396 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.6451506044396,46.0004042344635,0 4.6451705582232,46.0004491592167,0 4.64521493627349,46.000550202388,0 4.64531490526471,46.0007814882573,0 4.64532102013174,46.0007958104529,0 4.64537349046733,46.0007827990402,0 4.64521263140008,46.0003996408722,0 4.6451506044396,46.0004042344635,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6031">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690740000D0744</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DENICE</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0003871475843 </north>
+			<south> 46.0003511261746 </south>
+			<east> 4.64520842199353 </east>
+			<west> 4.64514032602037 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.64514880114696,46.0003871475843,0 4.64520842199353,46.0003755635723,0 4.64519799832202,46.0003511261746,0 4.64518296999211,46.000354226622,0 4.64514032602037,46.00036304216,0 4.64514880114696,46.0003871475843,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6685">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690740000D0946</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DENICE</SimpleData>
+					<SimpleData name="Adresse">LES CHARMES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.99949420259641 </north>
+			<south> 45.999283578738 </south>
+			<east> 4.62600028919399 </east>
+			<west> 4.6255720792027 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.62600028919399,45.9993675191789,0 4.62594986193367,45.999283578738,0 4.62593046457789,45.9992875499427,0 4.62580682791222,45.9993021140798,0 4.62575875801275,45.9993285634817,0 4.62567775063093,45.99939061217281,0 4.6255720792027,45.99947084824469,0 4.62563686141985,45.9994851401878,0 4.62568157405617,45.99949377559221,0 4.625733410685,45.99949420259641,0 4.62578258120677,45.99949187572091,0 4.62582433247722,45.9994877638676,0 4.62585662301153,45.9994783836794,0 4.62590415999378,45.9994601381029,0 4.6259412252184,45.9994417725987,0 4.62595989070636,45.99942177973649,0 4.62598309913063,45.9993937055857,0 4.62600028919399,45.9993675191789,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6693">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690740000D0949</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DENICE</SimpleData>
+					<SimpleData name="Adresse">LES CHARMES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9993675191789 </north>
+			<south> 45.9992700400286 </south>
+			<east> 4.62601823451071 </east>
+			<west> 4.62594986193367 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.62594986193367,45.999283578738,0 4.62600028919399,45.9993675191789,0 4.62601192146957,45.9993500591007,0 4.62601817894576,45.99932565083859,0 4.62601823451071,45.9992969182465,0 4.62601459701878,45.9992700400286,0 4.62600587119897,45.9992721467758,0 4.62594986193367,45.999283578738,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6709">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690740000D0951</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DENICE</SimpleData>
+					<SimpleData name="Adresse">LES CHARMES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9990244591933 </north>
+			<south> 45.99878881628491 </south>
+			<east> 4.62780351183453 </east>
+			<west> 4.62657384917964 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.62657384917964,45.9989918065201,0 4.62662069317195,45.9990244591933,0 4.62673721517401,45.9989878395097,0 4.62674861183987,45.9989493067432,0 4.62681860606927,45.99897379095309,0 4.62698870480249,45.9989221708075,0 4.6270935214832,45.9988874301607,0 4.62715474398182,45.99887313062501,0 4.62723551670359,45.9988556680467,0 4.62727000131831,45.9988505792115,0 4.62740975745329,45.9988436178372,0 4.62753006451579,45.9988432404978,0 4.62757296045596,45.99884289441701,0 4.62758458670764,45.9988427273798,0 4.627625335864,45.9988397100718,0 4.62771441720984,45.9988278921487,0 4.62780351183453,45.998816524306,0 4.6275499959033,45.9987917953182,0 4.62730387920685,45.9987900169761,0 4.62719308901478,45.99878881628491,0 4.62714416156772,45.9987905998809,0 4.62708785878905,45.9987964523945,0 4.62701373820523,45.9988159809689,0 4.62681840933704,45.99888408571091,0 4.62659658399857,45.9989783301068,0 4.62657384917964,45.9989918065201,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

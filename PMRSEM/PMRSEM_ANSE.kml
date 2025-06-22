@@ -1,0 +1,622 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>ANSE_PMRSEM</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_6">
+		<name>ANSE_PMRSEM</name>
+		<Schema name="ANSE_PMRSEM" id="ANSE_PMRSEM.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="PMRSEM">
+			<LineStyle>
+				<color>BF00faff</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C00faff</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.11">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">69009000AM0262</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ANSE</SimpleData>
+					<SimpleData name="Adresse">LA CITADELLE SUD</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SEM</SimpleData>
+					<SimpleData name="Denomination">SEM DE CONSTRUCTION DU DPT DE L AIN</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9436323933266 </north>
+			<south> 45.9435630393574 </south>
+			<east> 4.71082994796153 </east>
+			<west> 4.71080156294449 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.71081942056031,45.9435630393574,0 4.71080156294449,45.9436323933266,0 4.71082994796153,45.9436317840785,0 4.71081942056031,45.9435630393574,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.310">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">69009000AM0225</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ANSE</SimpleData>
+					<SimpleData name="Adresse">482, RUE MAURICE UTRILLO</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SEM</SimpleData>
+					<SimpleData name="Denomination">SEM DE CONSTRUCTION DU DPT DE L AIN</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9439886645634 </north>
+			<south> 45.9428723491282 </south>
+			<east> 4.71088263569962 </east>
+			<west> 4.71039047180186 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.71053563356773,45.9439868771017,0 4.71088263569962,45.9439771281757,0 4.71082994796153,45.9436317840785,0 4.71080156294449,45.9436323933266,0 4.71081942056031,45.9435630393574,0 4.71071417637588,45.9428723491282,0 4.71070367439281,45.94288754964209,0 4.71069265062548,45.94290257790169,0 4.71067851253461,45.942921256054,0 4.7106668323361,45.94293593395199,0 4.71064892348864,45.9429579116349,0 4.71063322003184,45.9429760730208,0 4.71061400111802,45.9429974400077,0 4.71059400231646,45.9430186386388,0 4.71057360237898,45.94303939297729,0 4.71055241975687,45.94305988893121,0 4.7105269445842,45.94308351215679,0 4.71049664668367,45.94310982031229,0 4.7104654258539,45.9431355119161,0 4.71042873145374,45.9431637181399,0 4.71040058018154,45.94318431938841,0 4.71039047180186,45.9432163570882,0 4.71039709438914,45.9432508440319,0 4.71040164472669,45.9432768056064,0 4.71040775393401,45.94331139037931,0 4.71041204618649,45.9433373558541,0 4.71041490582655,45.94335460615189,0 4.71041893999046,45.94338057552729,0 4.71042297695394,45.9434066349308,0 4.71042532041001,45.9434238930299,0 4.71042909648828,45.9434498663059,0 4.71043261447436,45.9434758434826,0 4.71043600621162,45.94350191263771,0 4.71043809437567,45.9435192646657,0 4.71044018254104,45.94353661669361,0 4.71044214165967,45.9435539706719,0 4.71044422703182,45.94357123267149,0 4.71044605710481,45.9435885886002,0 4.71044788717896,45.9436059445288,0 4.71044972005008,45.9436233904856,0 4.71045129203002,45.9436407503151,0 4.71045299305925,45.9436581081941,0 4.71045535243048,45.9436841929524,0 4.7104574537071,45.9437102816115,0 4.71045955498571,45.9437363702705,0 4.71046139816922,45.94376246283049,0 4.71046310951002,45.9437884673128,0 4.71046456555095,45.9438145657241,0 4.71046602159327,45.94384066413539,0 4.71046721953939,45.9438667664477,0 4.71046842028251,45.9438929587881,0 4.71046935733721,45.9439189749731,0 4.71047003909072,45.9439450850872,0 4.71047059179585,45.94397119715179,0 4.7104710051465,45.9439886645634,0 4.71053563356773,45.9439868771017,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.359">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">69009000AL0282</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ANSE</SimpleData>
+					<SimpleData name="Adresse">268, RUE DES OLIVIERS</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SEM</SimpleData>
+					<SimpleData name="Denomination">SEM DE CONSTRUCTION DU DPT DE L AIN</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9414616622216 </north>
+			<south> 45.94141070001619 </south>
+			<east> 4.70866729453321 </east>
+			<west> 4.70865050348119 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.70866729453321,45.941460885893,0 4.70865050348119,45.94141070001619,0 4.70865763584143,45.9414616622216,0 4.70866729453321,45.941460885893,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.365">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">69009000AL0292</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ANSE</SimpleData>
+					<SimpleData name="Adresse">268, RUE DES OLIVIERS</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SEM</SimpleData>
+					<SimpleData name="Denomination">SEM DE CONSTRUCTION DU DPT DE L AIN</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.941460885893 </north>
+			<south> 45.9413892812851 </south>
+			<east> 4.70898019633477 </east>
+			<west> 4.70865050348119 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.70897737462109,45.9413892812851,0 4.70865050348119,45.94141070001619,0 4.70866729453321,45.941460885893,0 4.70898019633477,45.94143445399871,0 4.70897737462109,45.9413892812851,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.374">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">69009000AL0298</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ANSE</SimpleData>
+					<SimpleData name="Adresse">268, RUE DES OLIVIERS</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SEM</SimpleData>
+					<SimpleData name="Denomination">SEM DE CONSTRUCTION DU DPT DE L AIN</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.94141070001619 </north>
+			<south> 45.9412633756616 </south>
+			<east> 4.70897737462109 </east>
+			<west> 4.70863057005629 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.70863057005629,45.9412633756616,0 4.70864197293965,45.9413479597038,0 4.70865050348119,45.94141070001619,0 4.70897737462109,45.9413892812851,0 4.70897708077322,45.9413839715708,0 4.708938272341,45.94138563848389,0 4.70892866220257,45.94131724005829,0 4.70892597462969,45.9412971949517,0 4.70892493499965,45.9412678477108,0 4.70863057005629,45.9412633756616,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.406">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">69009000AK0327</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ANSE</SimpleData>
+					<SimpleData name="Adresse">242, RTE DE VILLEFRANCHE</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SEM</SimpleData>
+					<SimpleData name="Denomination">SEM DE CONSTRUCTION DU DPT DE L AIN</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9393901974799 </north>
+			<south> 45.9392501458506 </south>
+			<east> 4.71763071585125 </east>
+			<west> 4.71745083984522 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.71750063468583,45.9392559032205,0 4.7174860009746,45.93929584645219,0 4.71746312030437,45.93934870487131,0 4.71745083984522,45.9393771734176,0 4.71751256801379,45.9393901974799,0 4.71752484844394,45.9393617289268,0 4.71757968706729,45.93937323625029,0 4.71758319055217,45.9393655270734,0 4.71763071585125,45.9392501458506,0 4.71751417241974,45.93925533746599,0 4.71750063468583,45.9392559032205,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.407">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">69009000AK0328</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ANSE</SimpleData>
+					<SimpleData name="Adresse">242, RTE DE VILLEFRANCHE</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SEM</SimpleData>
+					<SimpleData name="Denomination">SEM DE CONSTRUCTION DU DPT DE L AIN</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9393819875835 </north>
+			<south> 45.93924617374769 </south>
+			<east> 4.71772031564776 </east>
+			<west> 4.71758319055217 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.71766180878468,45.9393819875835,0 4.71772031564776,45.93924617374769,0 4.71763071585125,45.9392501458506,0 4.71758319055217,45.9393655270734,0 4.71766180878468,45.9393819875835,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.409">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">69009000AK0329</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ANSE</SimpleData>
+					<SimpleData name="Adresse">242, RTE DE VILLEFRANCHE</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SEM</SimpleData>
+					<SimpleData name="Denomination">SEM DE CONSTRUCTION DU DPT DE L AIN</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.93944337937391 </north>
+			<south> 45.93923903044561 </south>
+			<east> 4.71785267733021 </east>
+			<west> 4.71766180878468 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.71785267733021,45.93923903044561,0 4.71772031564776,45.93924617374769,0 4.71766180878468,45.9393819875835,0 4.71769546545926,45.9393890426308,0 4.71768077840937,45.9394231321107,0 4.71777694324597,45.93944337937391,0 4.71785267733021,45.93923903044561,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.410">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">69009000AK0331</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ANSE</SimpleData>
+					<SimpleData name="Adresse">242, RTE DE VILLEFRANCHE</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SEM</SimpleData>
+					<SimpleData name="Denomination">SEM DE CONSTRUCTION DU DPT DE L AIN</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9395098852722 </north>
+			<south> 45.9394463119427 </south>
+			<east> 4.71758517867464 </east>
+			<west> 4.71752393987331 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.71756109748209,45.9395098852722,0 4.71758517867464,45.9394541263522,0 4.71754814171672,45.9394463119427,0 4.71752393987331,45.9395023428972,0 4.71756109748209,45.9395098852722,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.412">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">69009000AK0332</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ANSE</SimpleData>
+					<SimpleData name="Adresse">242, RTE DE VILLEFRANCHE</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SEM</SimpleData>
+					<SimpleData name="Denomination">SEM DE CONSTRUCTION DU DPT DE L AIN</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9395023428972 </north>
+			<south> 45.93943833705011 </south>
+			<east> 4.71754814171672 </east>
+			<west> 4.71748548347039 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.71752393987331,45.9395023428972,0 4.71754814171672,45.9394463119427,0 4.71750980877336,45.93943833705011,0 4.71750691958593,45.9394450461245,0 4.7174882548532,45.9394882030075,0 4.71748548347039,45.9394945500109,0 4.71752393987331,45.9395023428972,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.413">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">69009000AK0334</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ANSE</SimpleData>
+					<SimpleData name="Adresse">242, RTE DE VILLEFRANCHE</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SEM</SimpleData>
+					<SimpleData name="Denomination">SEM DE CONSTRUCTION DU DPT DE L AIN</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.93947979753909 </north>
+			<south> 45.9394281627846 </south>
+			<east> 4.7174671560013 </east>
+			<west> 4.71740781314361 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.71744861747145,45.93947979753909,0 4.7174671560013,45.9394367326491,0 4.71742648074062,45.9394281627846,0 4.71740781314361,45.9394712296264,0 4.71744861747145,45.93947979753909,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.414">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">69009000AK0335</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ANSE</SimpleData>
+					<SimpleData name="Adresse">242, RTE DE VILLEFRANCHE</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SEM</SimpleData>
+					<SimpleData name="Denomination">SEM DE CONSTRUCTION DU DPT DE L AIN</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9394712296264 </north>
+			<south> 45.9394195948639 </south>
+			<east> 4.71742648074062 </east>
+			<west> 4.71736700882847 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.71740781314361,45.9394712296264,0 4.71742648074062,45.9394281627846,0 4.71738567645447,45.9394195948639,0 4.71736700882847,45.939462661699,0 4.71740781314361,45.9394712296264,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.444">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">69009000AM0359</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ANSE</SimpleData>
+					<SimpleData name="Adresse">1381, AV DE L EUROPE</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SEM</SimpleData>
+					<SimpleData name="Denomination">SEM DE CONSTRUCTION DU DPT DE L AIN</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9429920905667 </north>
+			<south> 45.9428922724489 </south>
+			<east> 4.71182906796285 </east>
+			<west> 4.71142116390078 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.71142272585359,45.94295161634109,0 4.71142116390078,45.9429761391198,0 4.7118195684089,45.9429920905667,0 4.7118201887974,45.9429871273081,0 4.71182098333821,45.942979459302,0 4.7118217778788,45.9429717912959,0 4.71182288121413,45.9429615966464,0 4.71182411639368,45.9429514900731,0 4.71182534877474,45.94294129347159,0 4.71182726309937,45.94292811422999,0 4.71182906796285,45.9429155671373,0 4.71142785369015,45.9428922724489,0 4.71142272585359,45.94295161634109,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.447">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">69009000AM0360</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ANSE</SimpleData>
+					<SimpleData name="Adresse">1385, AV DE L EUROPE</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SEM</SimpleData>
+					<SimpleData name="Denomination">SEM DE CONSTRUCTION DU DPT DE L AIN</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9430875747919 </north>
+			<south> 45.9429761391198 </south>
+			<east> 4.7118195684089 </east>
+			<west> 4.71141458694412 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.71141458694412,45.9430844131705,0 4.71181298205488,45.9430875747919,0 4.71181335588117,45.94307883230449,0 4.71181394303271,45.9430686454631,0 4.71181453018404,45.9430584586218,0 4.71181511733515,45.9430482717804,0 4.71181588143691,45.94303547021969,0 4.71181672668106,45.9430252794743,0 4.7118175719249,45.9430150887289,0 4.71181872596381,45.9430023713402,0 4.7118195684089,45.9429920905667,0 4.71142116390078,45.9429761391198,0 4.71141458694412,45.9430844131705,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.449">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">69009000AM0361</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ANSE</SimpleData>
+					<SimpleData name="Adresse">1405, AV DE L EUROPE</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SEM</SimpleData>
+					<SimpleData name="Denomination">SEM DE CONSTRUCTION DU DPT DE L AIN</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9432156524563 </north>
+			<south> 45.9430844131705 </south>
+			<east> 4.71181298205488 </east>
+			<west> 4.71141175785027 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.7114131897367,45.9431807195914,0 4.7114141460714,45.9432156524563,0 4.71181238857759,45.9432097192874,0 4.71181201364189,45.9431976555196,0 4.711811490411,45.94318082026171,0 4.7118113515237,45.9431638891196,0 4.71181121475851,45.9431553344964,0 4.71181128572306,45.9431451554631,0 4.71181148293659,45.94313488444971,0 4.71181181199508,45.9431247015124,0 4.71181200081436,45.9431141604146,0 4.71181216131544,45.9431068622811,0 4.71181261942056,45.94309667739181,0 4.71181298205488,45.9430875747919,0 4.71141458694412,45.9430844131705,0 4.71141212018304,45.9431255225916,0 4.71141175785027,45.9431304819448,0 4.7114131897367,45.9431807195914,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.451">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">69009000AM0362</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ANSE</SimpleData>
+					<SimpleData name="Adresse">1409, AV DE L EUROPE</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SEM</SimpleData>
+					<SimpleData name="Denomination">SEM DE CONSTRUCTION DU DPT DE L AIN</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9433527126019 </north>
+			<south> 45.9432097192874 </south>
+			<east> 4.71182055040321 </east>
+			<west> 4.7114141460714 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.7114168671889,45.9433115363149,0 4.71142189077208,45.9433527126019,0 4.71182055040321,45.9433352440946,0 4.71181955540995,45.94332400034,0 4.71181852124448,45.9433114961918,0 4.71181748148339,45.9432988119873,0 4.71181657077017,45.9432861258309,0 4.71181540230034,45.94326930033299,0 4.71181474968271,45.94325661027251,0 4.71181371026134,45.9432397828226,0 4.71181292613704,45.9432228614405,0 4.71181238857759,45.9432097192874,0 4.7114141460714,45.9432156524563,0 4.7114168671889,45.9433115363149,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.727">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">69009000AR0737</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ANSE</SimpleData>
+					<SimpleData name="Adresse">272, RUE DU GAMAY</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SEM</SimpleData>
+					<SimpleData name="Denomination">SEM DE CONSTRUCTION DU DPT DE L AIN</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9356135191568 </north>
+			<south> 45.9353713019762 </south>
+			<east> 4.7079442756605 </east>
+			<west> 4.70764955612739 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.70775436768011,45.9356135191568,0 4.7079442756605,45.9355807494516,0 4.70792564372691,45.935404492807,0 4.70792533821703,45.9354029662225,0 4.70792503270717,45.9354014396381,0 4.70792472440605,45.9353998230254,0 4.70792416083814,45.93539830033599,0 4.70792359727026,45.9353967776467,0 4.70792290746465,45.9353953469332,0 4.70792208583876,45.935393828139,0 4.7079212670042,45.93539239937301,0 4.70792019011162,45.93539097450209,0 4.7079192450394,45.93538963771189,0 4.70791803911791,45.9353882147886,0 4.70791683877902,45.93538697192169,0 4.7079155066199,45.9353856409742,0 4.70791417725211,45.9353844000548,0 4.70791272164663,45.9353832511112,0 4.7079111370122,45.9353821041152,0 4.70790955516909,45.9353810471473,0 4.70790784429705,45.935379992127,0 4.70790613621631,45.9353790271349,0 4.70790429910664,45.9353780640903,0 4.70790246478827,45.9353771910738,0 4.70790063046997,45.93537631805739,0 4.7078986727052,45.9353756270449,0 4.70789658312026,45.9353748479517,0 4.70789449911783,45.9353742489148,0 4.70789241511545,45.935373649878,0 4.70789033390434,45.9353731408693,0 4.70788825269326,45.9353726318606,0 4.70788604803567,45.9353723048558,0 4.7078838433781,45.9353719778509,0 4.70788163872056,45.9353716508461,0 4.70787931061647,45.9353715058451,0 4.70787711154138,45.9353713588965,0 4.70787491525749,45.9353713019762,0 4.70787259273582,45.9353713370315,0 4.7078651608179,45.93538144701411,0 4.70773704832122,45.93538797420351,0 4.70772874988911,45.9353784619202,0 4.70771934193559,45.9353789641894,0 4.70771096342303,45.935379360851,0 4.70770259049217,45.9353799375684,0 4.70769434659015,45.9353805123378,0 4.70768597644983,45.9353811790822,0 4.70767760630932,45.9353818458259,0 4.70766937077933,45.93538269067821,0 4.70766100622008,45.9353835374772,0 4.70765277348042,45.9353844723565,0 4.70764955612739,45.93538479112271,0 4.70775436768011,45.9356135191568,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.731">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">69009000AR0745</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ANSE</SimpleData>
+					<SimpleData name="Adresse">272, RUE DU GAMAY</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SEM</SimpleData>
+					<SimpleData name="Denomination">SEM DE CONSTRUCTION DU DPT DE L AIN</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9356667079275 </north>
+			<south> 45.93538479112271 </south>
+			<east> 4.70775436768011 </east>
+			<west> 4.70735709360055 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.70744684595855,45.9356667079275,0 4.70768683025111,45.9356252568173,0 4.70775436768011,45.9356135191568,0 4.70764955612739,45.93538479112271,0 4.70764454074048,45.93538540723521,0 4.70763618455285,45.9353865241169,0 4.70762808642294,45.93538763710361,0 4.70762042988922,45.9353988313033,0 4.70761323496059,45.9353999306583,0 4.70760604282243,45.9354011200411,0 4.70759885068396,45.93540230942351,0 4.70759166133592,45.9354035888336,0 4.70751785193489,45.9354170423137,0 4.70750372849848,45.9354195072007,0 4.70748973408992,45.9354219701389,0 4.70747561065099,45.9354244350224,0 4.70746161065888,45.9354267179007,0 4.70744748163647,45.93542900272419,0 4.70743334982241,45.9354311975178,0 4.70741955062197,45.9354232994133,0 4.70740400227831,45.9354256056484,0 4.70738832490423,45.9354279138283,0 4.70737277376758,45.935430130031,0 4.70735709360055,45.9354323481784,0 4.70744684595855,45.9356667079275,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

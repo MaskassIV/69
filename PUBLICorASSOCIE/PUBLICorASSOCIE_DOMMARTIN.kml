@@ -1,0 +1,859 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>DOMMARTIN_PUBLICorASSOCIE</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_9">
+		<name>DOMMARTIN_PUBLICorASSOCIE</name>
+		<Schema name="DOMMARTIN_PUBLICorASSOCIE" id="DOMMARTIN_PUBLICorASSOCIE.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="PUBLICorASSOCIE">
+			<LineStyle>
+				<color>BFdb2105</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4Cdb2105</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.709">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69076000AN0076</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DOMMARTIN</SimpleData>
+					<SimpleData name="Adresse">BOIS DES PLACES</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">CCOM</SimpleData>
+					<SimpleData name="Denomination">COMMUNAUTE COMMUNES PAYS DE L ARBRESLE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.83941568605879 </north>
+			<south> 45.8390669946753 </south>
+			<east> 4.73521956519257 </east>
+			<west> 4.73479337679209 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.73479337679209,45.83941568605879,0 4.73499553115593,45.83923829395879,0 4.73508854828813,45.8392826211761,0 4.73519325119664,45.8391576156662,0 4.73520162480265,45.83914523738971,0 4.73521956519257,45.83911334690431,0 4.73514442211493,45.83907189770791,0 4.73513524738904,45.8390669946753,0 4.73513073787117,45.839071117138,0 4.7351295588298,45.83907050475339,0 4.73507715441554,45.8391005827848,0 4.7349895016008,45.8391940716964,0 4.73485614565757,45.8393381617651,0 4.73479337679209,45.83941568605879,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.2944">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69076000AK0121</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DOMMARTIN</SimpleData>
+					<SimpleData name="Adresse">EN NELY</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SOCIETE NATIONALE SNCF</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8512504793769 </north>
+			<south> 45.8476778966601 </south>
+			<east> 4.73373354058817 </east>
+			<west> 4.73185943685129 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.7319008259966,45.8483246639438,0 4.73200950931092,45.8486089726601,0 4.73203351302912,45.84868795706241,0 4.73205176416264,45.8487561310849,0 4.73209121944088,45.848896216824,0 4.73213232659973,45.849043753106,0 4.73218180740019,45.8491706248365,0 4.73224970165628,45.84933387305049,0 4.73229667633405,45.84945069523121,0 4.7323090250919,45.8494827512452,0 4.73234710494706,45.8495502609019,0 4.73236115719785,45.8495749950512,0 4.73242781307926,45.8496946678731,0 4.7324874636576,45.8498005771757,0 4.73255259271591,45.8499167605836,0 4.73259381197035,45.85001034257079,0 4.73267305844873,45.8501984561705,0 4.73272738455044,45.8503276853039,0 4.73277890811325,45.8504497517305,0 4.73282499188243,45.8505586611551,0 4.73288067621439,45.85065724530099,0 4.73294365941441,45.8507748124908,0 4.7329948718717,45.8508746361017,0 4.73300091369887,45.8508864327793,0 4.73306479766272,45.8510080392823,0 4.73313942080351,45.8511514583038,0 4.7331405787198,45.8511554937301,0 4.73342493708188,45.8512504793769,0 4.73349960448285,45.85123528268,0 4.73361729323577,45.8512109591321,0 4.73373354058817,45.8511899902021,0 4.7333913244188,45.85051295431789,0 4.73288660091474,45.8495245133246,0 4.73265049763464,45.8494554473949,0 4.73264410225785,45.8494405937157,0 4.73267618440308,45.84937867335981,0 4.73250557414198,45.8489858788082,0 4.73248091901823,45.84889438463449,0 4.73243614415626,45.84872447706971,0 4.73238130752101,45.84851734438271,0 4.73233073459718,45.8483228462859,0 4.73287195356815,45.8484138940781,0 4.73284727272463,45.8483872513925,0 4.73280638474812,45.8483780608254,0 4.73269397032447,45.8483485304207,0 4.73254619429045,45.8483216138447,0 4.73249971160331,45.8482861182094,0 4.73248197174677,45.84823423923691,0 4.73247783762254,45.84818467359791,0 4.73246362898074,45.8481508447113,0 4.73245045619534,45.8480966439267,0 4.73244140903162,45.8480342734982,0 4.73243537813724,45.8480104972079,0 4.7324230364901,45.8480114971046,0 4.73236532744068,45.8480166153839,0 4.73234351218599,45.84801965203139,0 4.73231672000651,45.8480406890887,0 4.73226730926269,45.8480761240158,0 4.73223364456241,45.8480876288524,0 4.73220504280189,45.8480879773354,0 4.73219164839625,45.8478953410412,0 4.73219104994235,45.8478885949042,0 4.73217908065663,45.8478891387109,0 4.73217664727847,45.8478608937777,0 4.73218835891109,45.8478603539217,0 4.73217625540046,45.8477252531017,0 4.73217489753347,45.8476778966601,0 4.73211359470808,45.8476793770141,0 4.7319408768652,45.84768310589109,0 4.73191785144336,45.8476845397358,0 4.73189632619762,45.84769270589,0 4.73188197099583,45.8477034642468,0 4.73187128169285,45.8477242543362,0 4.73186694594072,45.84774215482851,0 4.7318600320623,45.8477641480307,0 4.73185943685129,45.847798564213,0 4.73186374461824,45.8478701044863,0 4.73187491571239,45.8480083721022,0 4.73188303824859,45.8481111084741,0 4.7319008259966,45.8483246639438,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.3340">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69076000AL0013</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DOMMARTIN</SimpleData>
+					<SimpleData name="Adresse">A CLARICOT</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SOCIETE NATIONALE SNCF</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.84760233905 </north>
+			<south> 45.8473525757235 </south>
+			<east> 4.73247835479905 </east>
+			<west> 4.73218000073748 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.73219742079265,45.8473525757235,0 4.73219494596961,45.84738458881821,0 4.73218000073748,45.84760233905,0 4.73219600794069,45.8475908347571,0 4.73221434971263,45.847575691832,0 4.73223090458853,45.84754058057619,0 4.73223795439706,45.8475147122183,0 4.73224794733381,45.8474881682355,0 4.73227206389038,45.84746401973889,0 4.73231282156555,45.84743214018139,0 4.73233388668767,45.8474216391592,0 4.73237203309938,45.8474051116646,0 4.73240472896406,45.84739560319579,0 4.73242421103156,45.8473921519582,0 4.73244903417805,45.8473905102979,0 4.73247835479905,45.8473884393773,0 4.73219742079265,45.8473525757235,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.3343">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69076000AM0013</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DOMMARTIN</SimpleData>
+					<SimpleData name="Adresse">AU CHEVRONNET</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SOCIETE NATIONALE SNCF</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8429124923594 </north>
+			<south> 45.8407756543323 </south>
+			<east> 4.73330776399322 </east>
+			<west> 4.73184557574795 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.73215314399838,45.8429124923594,0 4.73216770061926,45.8428178749209,0 4.73219843254911,45.8427171548386,0 4.73221155372683,45.84267534090989,0 4.73225817142284,45.84252645952591,0 4.73235814330918,45.8422667834124,0 4.73243050653286,45.84212110994481,0 4.73252226063548,45.8419363184907,0 4.73264441262031,45.8417305245452,0 4.73269111587966,45.8416500954803,0 4.73279704116674,45.8415062487792,0 4.73292069438094,45.8413360094608,0 4.73297802261825,45.84126154208371,0 4.73324258707877,45.840978263266,0 4.73327247406284,45.84095330540071,0 4.73330776399322,45.8409239412197,0 4.7332138015205,45.8407962214134,0 4.73319820670806,45.8407756543323,0 4.7331665566682,45.840785507328,0 4.73313694773524,45.8407946985014,0 4.73315270117657,45.84081211067719,0 4.73315781640017,45.84081905771819,0 4.73300818211644,45.8409703306975,0 4.73280571518841,45.8411751053848,0 4.73271302127619,45.8412806491786,0 4.73267582940542,45.84131922956511,0 4.73266465504431,45.84133273145199,0 4.73261996216447,45.8413171141629,0 4.73252669915396,45.8414414913283,0 4.73235159913771,45.8416888992602,0 4.73223672383609,45.84185558061819,0 4.73217636652662,45.84197729115721,0 4.7320896142845,45.8421490354168,0 4.73206372186472,45.8422027543651,0 4.7319851390938,45.8424007640201,0 4.73190485929519,45.8426104187673,0 4.73186318081518,45.8427812015449,0 4.73184557574795,45.8428813599926,0 4.73215314399838,45.8429124923594,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.3831">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69076000AM0014</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DOMMARTIN</SimpleData>
+					<SimpleData name="Adresse">A CLARICOT</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SOCIETE NATIONALE SNCF</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8446152184958 </north>
+			<south> 45.8428813599926 </south>
+			<east> 4.73222773326952 </east>
+			<west> 4.73180257668103 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.73215314399838,45.8429124923594,0 4.73184557574795,45.8428813599926,0 4.73183365727962,45.842949185902,0 4.73181370822445,45.8430691057887,0 4.73181135736866,45.84313381267741,0 4.73180257668103,45.843416589523,0 4.73180888106017,45.8435394395412,0 4.73181513111302,45.8436482393448,0 4.73182292480155,45.8437692651153,0 4.73182948689478,45.84389211118391,0 4.73185848339841,45.84454495031841,0 4.73188376354218,45.84454969678541,0 4.73190969342087,45.8445546134271,0 4.73204958998627,45.84458129120289,0 4.73219868914188,45.8446096291131,0 4.73222773326952,45.8446152184958,0 4.73222464856335,45.8444061213233,0 4.73217429536176,45.8442595375573,0 4.73212949633075,45.844125658667,0 4.73210358767554,45.8440475141695,0 4.73205177906327,45.84389149523961,0 4.73205385672884,45.84382219891729,0 4.73205816208429,45.8437089138747,0 4.73206195216788,45.8435956367327,0 4.73206208262445,45.8435915815452,0 4.73207110309389,45.84342733418859,0 4.73208550975474,45.8433361417544,0 4.73210856129683,45.84318780192889,0 4.73212729064513,45.8430742056409,0 4.73214489571034,45.8429658506966,0 4.73215314399838,45.8429124923594,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.5650">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69076000AN0018</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DOMMARTIN</SimpleData>
+					<SimpleData name="Adresse">LE BESSON</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COMU</SimpleData>
+					<SimpleData name="Denomination">COMMUNAUTE URBAINE DE LYON</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.84398461649369 </north>
+			<south> 45.8427449055277 </south>
+			<east> 4.72445064274714 </east>
+			<west> 4.72409813909623 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.72411430086586,45.8427449055277,0 4.72409813909623,45.8429329494551,0 4.7241006867029,45.8431464680267,0 4.72411312704464,45.8432558941072,0 4.72414112937154,45.8434096676287,0 4.72422197738998,45.8436873823697,0 4.72422295001342,45.84369376253889,0 4.72431632382409,45.84398461649369,0 4.72439488370392,45.8439622507082,0 4.72440278740538,45.8439512315112,0 4.72440605856861,45.8439156937461,0 4.7244411741894,45.84385580114841,0 4.72440552590724,45.8436635941679,0 4.72437938280995,45.8435528460798,0 4.72439887287076,45.8433806037218,0 4.72437200465642,45.8432507717299,0 4.72437536362088,45.8432221680645,0 4.7243572094121,45.8431649801231,0 4.72436585590163,45.8430828838594,0 4.72440319521818,45.84302818141939,0 4.72438875530898,45.8429785027172,0 4.72439674829447,45.842966221167,0 4.72440522679359,45.842961227926,0 4.72441645536615,45.8429576338334,0 4.72441931957685,45.8429544376378,0 4.72441616557502,45.84294836098189,0 4.72441064953306,45.8429326828257,0 4.72442331229103,45.8429131243368,0 4.72444417020881,45.8429042492179,0 4.724449988655,45.842900737711,0 4.72445064274714,45.8428928015099,0 4.72444546714047,45.8428880167051,0 4.72443853599467,45.84288478990031,0 4.72441326044607,45.8428636488637,0 4.72440663635569,45.8428537521428,0 4.72437690543427,45.8427931381037,0 4.72438058410569,45.8427871372864,0 4.72440050433199,45.8427812488199,0 4.72411430086586,45.8427449055277,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.9658">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69076000AM0003</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DOMMARTIN</SimpleData>
+					<SimpleData name="Adresse">AU CHEVRONNET</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">COMU</SimpleData>
+					<SimpleData name="Denomination">COMMUNAUTE URBAINE DE LYON</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8435112177383 </north>
+			<south> 45.8427916058583 </south>
+			<east> 4.72513766099997 </east>
+			<west> 4.72438288536434 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.72448317810175,45.8427916058583,0 4.72448108114768,45.8427946102015,0 4.72446470980015,45.8428068395206,0 4.72445973115017,45.8428083566542,0 4.72445586960431,45.8428085056746,0 4.72445315329848,45.8428081868586,0 4.72445134149008,45.8428079443054,0 4.72444963317171,45.8428068895366,0 4.72440988973309,45.8427929048012,0 4.72440464501852,45.84279415578211,0 4.72440285632656,45.84279877668941,0 4.72443116068568,45.84285085578931,0 4.72443326950896,45.8428523547976,0 4.72445906030858,45.842873487964,0 4.72446105157564,45.84287534904901,0 4.72446271549155,45.8428791066145,0 4.72447239072266,45.84290003544189,0 4.72447315014107,45.8429037167447,0 4.72447135582411,45.84290815759779,0 4.72446567181789,45.8429118471947,0 4.72445874409363,45.8429128536587,0 4.72445171569251,45.84291476236551,0 4.72444305774863,45.84291813707801,0 4.7244333980513,45.84292657103779,0 4.72443105251551,45.8429339926358,0 4.72443352588078,45.8429389087633,0 4.72443735428388,45.8429418226514,0 4.72444781462423,45.8429507601014,0 4.72444940600039,45.8429563201872,0 4.72444682755156,45.8429604127276,0 4.72444329677202,45.84296289853449,0 4.72443740516678,45.8429640693213,0 4.72442829606613,45.8429653792952,0 4.72442039410593,45.8429682020416,0 4.72441485297001,45.842972339808,0 4.72441419263596,45.84297595271371,0 4.72441418199075,45.8429797358428,0 4.72442932445987,45.84302715205139,0 4.7244299241158,45.8430298450163,0 4.72442847683937,45.84303301958201,0 4.72438916657344,45.8430906343777,0 4.72438288536434,45.84316593924011,0 4.72439879229476,45.8432130735719,0 4.72440135570151,45.8432208705862,0 4.72439769471628,45.84325218098191,0 4.72442462709361,45.8433799403646,0 4.72440991401728,45.8435112177383,0 4.72513766099997,45.8434861452213,0 4.72510649424771,45.8430333856654,0 4.72479737710944,45.8428330150768,0 4.72448317810175,45.8427916058583,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.11956">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69076000AL0004</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DOMMARTIN</SimpleData>
+					<SimpleData name="Adresse">A CLARICOT</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SOCIETE NATIONALE SNCF</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8452458302142 </north>
+			<south> 45.8449917867493 </south>
+			<east> 4.73252769605658 </east>
+			<west> 4.73209119568819 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.73252769605658,45.8449948606324,0 4.73250023829125,45.8449946512446,0 4.73245727445604,45.84499314844911,0 4.73244034857528,45.8449917867493,0 4.73236899820406,45.84499333130481,0 4.73234141848036,45.8449974471488,0 4.73232858485025,45.84499917515661,0 4.7323104725563,45.84500107418099,0 4.73229864119427,45.8450018861075,0 4.73228856804416,45.8450012299379,0 4.73227352919448,45.84499839814291,0 4.73225132465378,45.84499720743081,0 4.73223715197811,45.8449973346864,0 4.73219198368998,45.8450036116851,0 4.73213909203329,45.8450101872318,0 4.73209360956705,45.8450146675916,0 4.73209285070874,45.84509313092081,0 4.73209119568819,45.84512251938779,0 4.73217326631648,45.8451217113399,0 4.73243749924623,45.8452458302142,0 4.73252769605658,45.8449948606324,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.12007">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69076000AN0040</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DOMMARTIN</SimpleData>
+					<SimpleData name="Adresse">BOIS DES PLACES</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">CCOM</SimpleData>
+					<SimpleData name="Denomination">COMMUNAUTE COMMUNES PAYS DE L ARBRESLE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8402302247352 </north>
+			<south> 45.8397765626359 </south>
+			<east> 4.73463176766532 </east>
+			<west> 4.73410376101369 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.73410376101369,45.8401274769888,0 4.73418740341073,45.8402302247352,0 4.73418732491207,45.8401867217097,0 4.73429043465635,45.8401708173779,0 4.73440531521054,45.8401522102304,0 4.73447934265281,45.8400597416691,0 4.73463176766532,45.8398744670668,0 4.73443216830175,45.8397765626359,0 4.73419892754874,45.8400105450953,0 4.73410376101369,45.8401274769888,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.12158">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69076000AN0041</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DOMMARTIN</SimpleData>
+					<SimpleData name="Adresse">BOIS DES PLACES</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">CCOM</SimpleData>
+					<SimpleData name="Denomination">COMMUNAUTE COMMUNES PAYS DE L ARBRESLE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8398744670668 </north>
+			<south> 45.83954542791029 </south>
+			<east> 4.73482751693011 </east>
+			<west> 4.73443216830175 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.73443216830175,45.8397765626359,0 4.73463176766532,45.8398744670668,0 4.73470164990103,45.8397895378893,0 4.73482751693011,45.8396367360963,0 4.73466175949267,45.83954542791029,0 4.73456871246985,45.8396395397393,0 4.73443216830175,45.8397765626359,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.12358">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69076000AN0042</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DOMMARTIN</SimpleData>
+					<SimpleData name="Adresse">BOIS DES PLACES</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">CCOM</SimpleData>
+					<SimpleData name="Denomination">COMMUNAUTE COMMUNES PAYS DE L ARBRESLE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8396367360963 </north>
+			<south> 45.83923829395879 </south>
+			<east> 4.73508854828813 </east>
+			<west> 4.73466175949267 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.73466175949267,45.83954542791029,0 4.73482751693011,45.8396367360963,0 4.73489554009458,45.8395541771859,0 4.73508854828813,45.8392826211761,0 4.73499553115593,45.83923829395879,0 4.73479337679209,45.83941568605879,0 4.7347709265972,45.8394353060227,0 4.73466175949267,45.83954542791029,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.12365">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69076000BB0042</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DOMMARTIN</SimpleData>
+					<SimpleData name="Adresse">1305, RTE DE LOZANNE</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">CCOM</SimpleData>
+					<SimpleData name="Denomination">COMMUNAUTE COMMUNES PAYS DE L ARBRESLE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.83751365672139 </north>
+			<south> 45.8365138475162 </south>
+			<east> 4.69516309893709 </east>
+			<west> 4.69393552823427 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.69502257122128,45.83751365672139,0 4.69509058805383,45.837173162565,0 4.69516309893709,45.8371006489205,0 4.69467735115577,45.8368631280232,0 4.69460801494635,45.83682922119031,0 4.69457029603129,45.83680943129301,0 4.69453584298345,45.83678689029099,0 4.69450505049396,45.8367618624756,0 4.69447831601603,45.83673470216681,0 4.69445616027058,45.8367055816955,0 4.69443846827545,45.8366749531385,0 4.69442564024194,45.8366432608435,0 4.69441793928807,45.83661068100451,0 4.69441537922635,45.8365776637647,0 4.69441810543155,45.8365447473628,0 4.69400416784612,45.8365138475162,0 4.69393552823427,45.83696018235489,0 4.69442118582043,45.8372074353074,0 4.69502257122128,45.83751365672139,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.12520">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69076000BB0043</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DOMMARTIN</SimpleData>
+					<SimpleData name="Adresse">1305, RTE DE LOZANNE</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">CCOM</SimpleData>
+					<SimpleData name="Denomination">COMMUNAUTE COMMUNES PAYS DE L ARBRESLE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8369132229942 </north>
+			<south> 45.8366716259495 </south>
+			<east> 4.69658997941577 </east>
+			<west> 4.69612614858081 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.69656022583833,45.8369132229942,0 4.69658997941577,45.8368708935621,0 4.6965735201049,45.836842678693,0 4.6965665513134,45.83683395651481,0 4.69655703975706,45.8368263533686,0 4.69653564696784,45.836813704625,0 4.69651237479007,45.8368027954346,0 4.69652490744014,45.8367871151657,0 4.69642482218852,45.8367422324023,0 4.69635892918712,45.8367155705797,0 4.69626606071373,45.836683279152,0 4.69623811164507,45.836675322381,0 4.69620836066198,45.8366716259495,0 4.69617810127878,45.836672350571,0 4.69614874473942,45.8366772949127,0 4.69612614858081,45.8367093388441,0 4.69639090989965,45.8368253358556,0 4.69650598281665,45.8368799012303,0 4.69656022583833,45.8369132229942,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.12679">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69076000BB0044</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DOMMARTIN</SimpleData>
+					<SimpleData name="Adresse">1305, RTE DE LOZANNE</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">CCOM</SimpleData>
+					<SimpleData name="Denomination">COMMUNAUTE COMMUNES PAYS DE L ARBRESLE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8367079830009 </north>
+			<south> 45.83660519704181 </south>
+			<east> 4.69671329915997 </east>
+			<west> 4.69642436090826 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.69670416111049,45.8367078631685,0 4.69671329915997,45.8366949359684,0 4.69645140669352,45.83660519704181,0 4.69642436090826,45.8366391993355,0 4.69652420113309,45.8366719263364,0 4.69660637409873,45.8366958215669,0 4.69662520767782,45.8367006726546,0 4.69664452047256,45.8367043456318,0 4.69666418091516,45.8367067524045,0 4.69668419177227,45.8367079830009,0 4.69670416111049,45.8367078631685,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.12816">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69076000BB0045</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DOMMARTIN</SimpleData>
+					<SimpleData name="Adresse">1305, RTE DE LOZANNE</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">CCOM</SimpleData>
+					<SimpleData name="Denomination">COMMUNAUTE COMMUNES PAYS DE L ARBRESLE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8369769590012 </north>
+			<south> 45.8355205165186 </south>
+			<east> 4.69611085760155 </east>
+			<west> 4.69473541780833 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.69473541780833,45.8367818243844,0 4.69513468741175,45.8369769590012,0 4.69548300435012,45.83647823801051,0 4.69598947571957,45.83665212512071,0 4.69611085760155,45.8364885368838,0 4.69559840179436,45.8363127586364,0 4.69608926425163,45.8356098688324,0 4.69561555158938,45.8355205165186,0 4.69537191494837,45.83586959188491,0 4.69531600931968,45.8359498726721,0 4.69504175987981,45.83634282044151,0 4.69473541780833,45.8367818243844,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.12948">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69076000BB0046</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DOMMARTIN</SimpleData>
+					<SimpleData name="Adresse">1305, RTE DE LOZANNE</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">CCOM</SimpleData>
+					<SimpleData name="Denomination">COMMUNAUTE COMMUNES PAYS DE L ARBRESLE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8355275838297 </north>
+			<south> 45.8351307619748 </south>
+			<east> 4.69636214672612 </east>
+			<west> 4.69567631462678 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.69589298353703,45.8351307619748,0 4.69567631462678,45.83543899173839,0 4.69614665308878,45.8355275838297,0 4.69636214672612,45.8352189204309,0 4.69589298353703,45.8351307619748,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.13054">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69076000BB0047</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DOMMARTIN</SimpleData>
+					<SimpleData name="Adresse">1305, RTE DE LOZANNE</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">CCOM</SimpleData>
+					<SimpleData name="Denomination">COMMUNAUTE COMMUNES PAYS DE L ARBRESLE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8380558508345 </north>
+			<south> 45.83469483294839 </south>
+			<east> 4.69789256214107 </east>
+			<west> 4.69378027751037 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.695372174026,45.8349133159075,0 4.69420590999601,45.83469483294839,0 4.6941982177118,45.8347464682967,0 4.69390964149583,45.83650724895291,0 4.69386292006531,45.8368070716406,0 4.69378027751037,45.8369483695973,0 4.69421129603222,45.8371871655814,0 4.69452083256872,45.8373681562799,0 4.69460296714735,45.83741177885089,0 4.69461069354518,45.8374158061466,0 4.69465225592578,45.8374390510979,0 4.69466602050715,45.8374466806621,0 4.69472645922754,45.837480360691,0 4.69482126360795,45.8375253241981,0 4.69496628807737,45.8375943032516,0 4.69505939354832,45.83763848142989,0 4.6952944608935,45.8377525848402,0 4.6953776922523,45.8377941187969,0 4.6954011973332,45.8378042140993,0 4.69550446342723,45.8378519322776,0 4.69551323142843,45.8378563041578,0 4.69581047773103,45.8379935218145,0 4.69590214006331,45.83803682028629,0 4.6959424141982,45.8380558508345,0 4.69636091143169,45.837467534614,0 4.69660421343327,45.8370698243735,0 4.6965979163802,45.8369362551826,0 4.69615198005593,45.8375707399359,0 4.69613419646622,45.8375958662819,0 4.69588369672421,45.83795243147711,0 4.69502257122128,45.83751365672139,0 4.69442118582043,45.8372074353074,0 4.69393552823427,45.83696018235489,0 4.69400416784612,45.8365138475162,0 4.69407036524611,45.8360803391759,0 4.69426253640397,45.83482269336979,0 4.69589298353703,45.8351307619748,0 4.69636214672612,45.8352189204309,0 4.69653659835659,45.8352518778084,0 4.6969987754242,45.8353390577482,0 4.69763566448517,45.83545918760629,0 4.69740246524607,45.8357910874503,0 4.69720703884194,45.8360691878565,0 4.69686162083867,45.8365610255633,0 4.69690005651844,45.83657476925111,0 4.69728828929508,45.8361846075078,0 4.69780524144633,45.8354383544817,0 4.69789256214107,45.8353866927517,0 4.69788012020806,45.835384357827,0 4.6978427971851,45.835377443073,0 4.69698520813235,45.8352163161301,0 4.69570771447123,45.8349763716517,0 4.695372174026,45.8349133159075,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.13175">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69076000BB0048</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DOMMARTIN</SimpleData>
+					<SimpleData name="Adresse">1305, RTE DE LOZANNE</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">CCOM</SimpleData>
+					<SimpleData name="Denomination">COMMUNAUTE COMMUNES PAYS DE L ARBRESLE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8372182088512 </north>
+			<south> 45.83532527704061 </south>
+			<east> 4.69674728436875 </east>
+			<west> 4.69441537922635 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.69448429685309,45.8361111487511,0 4.69448086641829,45.8361337176843,0 4.69443488736551,45.8361302642475,0 4.69442801539333,45.8361750419973,0 4.69447399448298,45.83617849543689,0 4.69441810543155,45.8365447473628,0 4.69441537922635,45.8365776637647,0 4.69441793928807,45.83661068100451,0 4.69442564024194,45.8366432608435,0 4.69443846827545,45.8366749531385,0 4.69445616027058,45.8367055816955,0 4.69447831601603,45.83673470216681,0 4.69450505049396,45.8367618624756,0 4.69453584298345,45.83678689029099,0 4.69457029603129,45.83680943129301,0 4.69460801494635,45.83682922119031,0 4.69467735115577,45.8368631280232,0 4.69516309893709,45.8371006489205,0 4.69530269099836,45.837168988501,0 4.69531837653729,45.8371762288743,0 4.69533430308545,45.8371829252086,0 4.69535085704214,45.8371890717042,0 4.69536778080726,45.8371946722273,0 4.6953849455805,45.837199728711,0 4.69540247739546,45.8372041491935,0 4.69542037901754,45.837208023703,0 4.6954385188804,45.83721126414429,0 4.69545663938356,45.837213874384,0 4.69546879083461,45.8372151331019,0 4.69547512692625,45.837215848622,0 4.6954839129832,45.83721661743569,0 4.69549269350832,45.837217206192,0 4.69550147126758,45.8372177049192,0 4.69551024349487,45.837218023589,0 4.69551913899007,45.83721816026789,0 4.69552790291926,45.8372182088512,0 4.6955367901162,45.8372180754436,0 4.69554554574703,45.8372178539403,0 4.69555442464547,45.8372174504462,0 4.69556317197768,45.83721695885639,0 4.6955719137774,45.8372162872092,0 4.69558938631144,45.8372145837992,0 4.69559811704564,45.8372135520365,0 4.69560658464719,45.8372123440833,0 4.69561517551584,45.8372109541393,0 4.69562376361781,45.8372094741662,0 4.69563234895306,45.837207904164,0 4.69564079995534,45.837206156038,0 4.69564911662458,45.8372042297883,0 4.69565755932686,45.8372022115759,0 4.69566574166239,45.83720010720171,0 4.69567391846463,45.8371978227702,0 4.69568208973351,45.8371953582812,0 4.69569012943541,45.83719280569699,0 4.69569803757032,45.8371901650175,0 4.69570594293808,45.837187434309,0 4.69571371397241,45.83718452547679,0 4.69572147947311,45.8371814365874,0 4.6957289846068,45.8371782615364,0 4.6957364869732,45.8371749964565,0 4.69574386053887,45.8371717333098,0 4.69575109700448,45.8371682020112,0 4.69575820190287,45.8371645826174,0 4.69576530403385,45.83716087319479,0 4.6957721430313,45.8371569875825,0 4.69577898202778,45.8371531019697,0 4.69578542909092,45.837149042101,0 4.69579199941985,45.8371448002414,0 4.69579831214823,45.837140562249,0 4.69580462210911,45.8371362342278,0 4.69581066893641,45.837131730017,0 4.695816586963,45.8371272277396,0 4.69582237065575,45.83712254733901,0 4.69582802278124,45.8371177788435,0 4.69583354610605,45.8371130122815,0 4.69583893509703,45.8371080675963,0 4.69584406372108,45.83710303675,0 4.69584906354454,45.83709800783729,0 4.6958539290342,45.8370928008015,0 4.69585853692367,45.83708759763301,0 4.695863013246,45.8370823063699,0 4.69586736076786,45.8370770170404,0 4.69587157395599,45.83707154958771,0 4.69587552954411,45.8370660860027,0 4.69612614858081,45.8367093388441,0 4.69614874473942,45.8366772949127,0 4.69617810127878,45.836672350571,0 4.69620836066198,45.8366716259495,0 4.69623811164507,45.836675322381,0 4.69626606071373,45.836683279152,0 4.69635892918712,45.8367155705797,0 4.69642482218852,45.8367422324023,0 4.69652490744014,45.8367871151657,0 4.69651237479007,45.8368027954346,0 4.69653564696784,45.836813704625,0 4.69655703975706,45.8368263533686,0 4.6965665513134,45.83683395651481,0 4.6965735201049,45.836842678693,0 4.69658997941577,45.8368708935621,0 4.69659059850103,45.83687007363361,0 4.69670416111049,45.8367078631685,0 4.69668419177227,45.8367079830009,0 4.69666418091516,45.8367067524045,0 4.69664452047256,45.8367043456318,0 4.69662520767782,45.8367006726546,0 4.69660637409873,45.8366958215669,0 4.69652420113309,45.8366719263364,0 4.69642436090826,45.8366391993355,0 4.69645140669352,45.83660519704181,0 4.69624811907466,45.83653556371519,0 4.69671983236988,45.8358638526374,0 4.69673161281273,45.8358446709144,0 4.69674050159279,45.8358236411609,0 4.69674576745294,45.83580212541191,0 4.69674728436875,45.835780215631,0 4.69674519774916,45.8357584500537,0 4.69673925554152,45.835737012606,0 4.69672985244335,45.835716167568,0 4.69672484616287,45.83570840668949,0 4.69671699676215,45.83569618502399,0 4.69670083113703,45.83567751317959,0 4.69668161593065,45.83566023819219,0 4.69665949101208,45.8356447182391,0 4.69663497710218,45.8356311256364,0 4.69660833732806,45.8356196365699,0 4.69657996914741,45.8356106053475,0 4.6965502534104,45.8356038461076,0 4.69632058761461,45.83556045924931,0 4.69614665308878,45.8355275838297,0 4.69567631462678,45.83543899173839,0 4.6951331299615,45.835336359283,0 4.69511849033583,45.8353337868298,0 4.6951036014163,45.83533148832571,0 4.69508872355914,45.8353295499332,0 4.69507373073375,45.8353280636137,0 4.69505874620487,45.8353268473773,0 4.69504351514637,45.8353259951182,0 4.69502855274017,45.835325499105,0 4.69501334103862,45.83532527704061,0 4.69499827195841,45.8353255031833,0 4.69498308514295,45.8353260913703,0 4.69496790662242,45.8353269496405,0 4.69495286795722,45.8353281660894,0 4.69493797191211,45.8353298307456,0 4.69492295536556,45.8353317674176,0 4.69490820746906,45.83533406033581,0 4.6948934706312,45.83533671336569,0 4.69487899967792,45.8353396326134,0 4.6948646713433,45.83534300006851,0 4.69485048009722,45.8353466356744,0 4.69483642870438,45.8353506294593,0 4.69482251163484,45.8353548013667,0 4.69480886597861,45.8353594195491,0 4.69479548897062,45.83536439397831,0 4.69478224905025,45.8353696365584,0 4.69476940380869,45.8353751434245,0 4.69475669841923,45.8353810084702,0 4.69474438770837,45.8353871378019,0 4.69473221408461,45.83539353528501,0 4.6947204351393,45.8354001970545,0 4.69470905363709,45.8354072131387,0 4.69469793525284,45.8354144054136,0 4.69468734034275,45.8354218600428,0 4.69467701131527,45.8354295808912,0 4.69466694817036,45.8354375679589,0 4.69465727417466,45.8354456392568,0 4.6946481264179,45.83545406293771,0 4.69463924177923,45.8354626628098,0 4.69463088061506,45.8354715250368,0 4.69462291136506,45.8354805615228,0 4.69461533126483,45.8354896822393,0 4.69460814584354,45.8354990672435,0 4.6946014811328,45.8355086245744,0 4.69459533436832,45.8355182642038,0 4.69458957951878,45.8355280780926,0 4.69458421381987,45.8355379762124,0 4.69457949486395,45.8355479546987,0 4.69457516782358,45.83555810744439,0 4.69457136149508,45.8355684325174,0 4.69456794155364,45.83557875179321,0 4.69456516835631,45.8355891514356,0 4.694562784311,45.8355996353094,0 4.69456091544974,45.8356101114538,0 4.69448429685309,45.8361111487511,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+				<innerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.69467691293855,45.83569492823279,0 4.69468838567655,45.8356195477447,0 4.69469513314212,45.8355917049812,0 4.69470667370419,45.83556469099881,0 4.69472302117972,45.83553895593809,0 4.69474379470454,45.83551468565139,0 4.69476862171044,45.8354923360758,0 4.69479712963145,45.8354723631487,0 4.69482907193498,45.83545513084591,0 4.69486354705174,45.8354406526935,0 4.69490056327984,45.83542919877409,0 4.69493923011348,45.83542114272839,0 4.69497915840666,45.8354164003246,0 4.69501932056529,45.8354150770527,0 4.69505959056628,45.8354172648736,0 4.69509919564264,45.8354229753851,0 4.69561555158938,45.8355205165186,0 4.69608926425163,45.8356098688324,0 4.69651904524787,45.8356910522086,0 4.69654659639879,45.8356986546002,0 4.69657117822351,45.8357102646637,0 4.69659148615465,45.8357253615775,0 4.69660672250366,45.83574314669679,0 4.69661583198555,45.83576282524581,0 4.69661865812012,45.8357834988772,0 4.69661491009369,45.8358040911206,0 4.69660494384334,45.83582360585951,0 4.69613260487195,45.836495956326,0 4.69611085760155,45.8364885368838,0 4.69598947571957,45.83665212512071,0 4.69580083262233,45.83692066375419,0 4.6958029803814,45.8369653962542,0 4.69576014053149,45.8370263862697,0 4.69575482070275,45.8370335816606,0 4.69574898014161,45.83704060472931,0 4.69574287368058,45.8370473615798,0 4.69573624648693,45.837053946108,0 4.69572922459373,45.8370602663517,0 4.69572181076733,45.8370664123392,0 4.69571387620806,45.837072386004,0 4.69570580454832,45.8370780915168,0 4.69569720938929,45.8370835346784,0 4.69568834556387,45.83708862159309,0 4.69567921860483,45.8370935323176,0 4.69566969694619,45.837098178757,0 4.69565990662138,45.83710246894919,0 4.69564984763053,45.8371064028942,0 4.69563965153972,45.83711006868679,0 4.6956291895494,45.8371134682604,0 4.69561858769312,45.8371165096531,0 4.69560771717136,45.8371191947983,0 4.69559657798428,45.83712152369599,0 4.69558542773154,45.837123492479,0 4.69557414037977,45.83712519310929,0 4.69556284196273,45.837126533625,0 4.69555127211502,45.83712742786449,0 4.69553982276836,45.8371280500843,0 4.69552823355735,45.83712831412281,0 4.69551676208168,45.83712821611321,0 4.69550527954185,45.8371277579888,0 4.69549378593809,45.8371269397498,0 4.69548228127061,45.837125761396,0 4.69547102313912,45.8371242190608,0 4.69545988274409,45.83712231467761,0 4.69544886285169,45.8371201382748,0 4.69543783189639,45.8371176017573,0 4.69542704747785,45.8371147012586,0 4.69541650959624,45.83711143677881,0 4.69540622101763,45.8371078983461,0 4.69539605017654,45.8371039978657,0 4.69538612863869,45.83709982343269,0 4.69537658520385,45.8370953731139,0 4.69513468741175,45.8369769590012,0 4.69473541780833,45.8367818243844,0 4.69467432317048,45.8367519371487,0 4.69464259261804,45.83673412903531,0 4.69461464034868,45.8367134720605,0 4.69459073778267,45.83669041250459,0 4.69457154549858,45.83666548087871,0 4.69455719781959,45.83663885530981,0 4.69454797168839,45.83661116213391,0 4.6945441385171,45.8365828476296,0 4.69454571211984,45.83655436193959,0 4.69460108075013,45.8361921708905,0 4.69466939837475,45.8357439489263,0 4.69467691293855,45.83569492823279,0 
+						</coordinates>
+					</LinearRing>
+				</innerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.13310">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69076000BB0049</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DOMMARTIN</SimpleData>
+					<SimpleData name="Adresse">GDES TERRES</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">CCOM</SimpleData>
+					<SimpleData name="Denomination">COMMUNAUTE COMMUNES PAYS DE L ARBRESLE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8380697302122 </north>
+			<south> 45.8353866927517 </south>
+			<east> 4.69789256214107 </east>
+			<west> 4.6959424141982 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.6959424141982,45.8380558508345,0 4.69595902105435,45.83806370778029,0 4.69597183455515,45.8380697302122,0 4.69608785688972,45.8379538695018,0 4.69618991460702,45.8378238972532,0 4.69637173268579,45.83754708397959,0 4.69668919423335,45.8370970099652,0 4.696792612006,45.8369526955806,0 4.69702957158814,45.8366212810346,0 4.69715868251878,45.83644514584571,0 4.69789256214107,45.8353866927517,0 4.69780524144633,45.8354383544817,0 4.69728828929508,45.8361846075078,0 4.69690005651844,45.83657476925111,0 4.69686162083867,45.8365610255633,0 4.69684364181551,45.8365546304884,0 4.69673997986561,45.83669516566209,0 4.69671329915997,45.8366949359684,0 4.69670416111049,45.8367078631685,0 4.69659059850103,45.83687007363361,0 4.69658997941577,45.8368708935621,0 4.69656022583833,45.8369132229942,0 4.6965979163802,45.8369362551826,0 4.69660421343327,45.8370698243735,0 4.69636091143169,45.837467534614,0 4.6959424141982,45.8380558508345,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.16073">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69076000AK0076</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DOMMARTIN</SimpleData>
+					<SimpleData name="Adresse">A CLARICOT</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SOCIETE NATIONALE SNCF</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8475928059902 </north>
+			<south> 45.8468774980362 </south>
+			<east> 4.73198379574599 </east>
+			<west> 4.73167741251425 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.73198379574599,45.8468783855724,0 4.73167741251425,45.8468774980362,0 4.73168024821884,45.8469637424192,0 4.73168650454972,45.8471548668808,0 4.73170674448524,45.84718788283391,0 4.73174791940177,45.8472555253509,0 4.73177611596191,45.8472997682485,0 4.73180963866831,45.8473822996652,0 4.73181857396356,45.8474082832304,0 4.73182834638272,45.84747325463141,0 4.73183366286949,45.8475071298336,0 4.73183497953317,45.84752854650691,0 4.73183754984277,45.8475365234083,0 4.73184791002957,45.8475504156371,0 4.73185553551607,45.8475593058215,0 4.7318768072593,45.8475759130393,0 4.73190200918261,45.8475863351854,0 4.73192644265719,45.8475928059902,0 4.73198379574599,45.8468783855724,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.16146">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69076000AK0077</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DOMMARTIN</SimpleData>
+					<SimpleData name="Adresse">A CLARICOT</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SOCIETE NATIONALE SNCF</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8468783855724 </north>
+			<south> 45.8459739540129 </south>
+			<east> 4.73198379574599 </east>
+			<west> 4.73163384701408 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.73180820052574,45.8459814501273,0 4.73173901386005,45.8459739540129,0 4.73164297896884,45.8461458401287,0 4.73163578830726,45.84615901062,0 4.7316343667923,45.8461629955258,0 4.73163384701408,45.8461669666094,0 4.73164021850726,45.8461687604313,0 4.73164675837695,45.84617181266351,0 4.73164942748762,45.8461829405318,0 4.73165205454826,45.846254326425,0 4.73165899558014,45.8463605035998,0 4.73167025669103,45.84667413773241,0 4.73167741251425,45.8468774980362,0 4.73198379574599,45.8468783855724,0 4.73186560645721,45.8465374780074,0 4.73183367679477,45.8459842120509,0 4.73180820052574,45.8459814501273,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.16152">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69076000AN0077</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DOMMARTIN</SimpleData>
+					<SimpleData name="Adresse">BOIS DES PLACES</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SOCIETE NATIONALE SNCF</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8409239412197 </north>
+			<south> 45.83846746200869 </south>
+			<east> 4.73552940420285 </east>
+			<west> 4.7330814032214 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.73513524738904,45.8390669946753,0 4.73511034456986,45.8390536864401,0 4.735185919245,45.838981819845,0 4.73519558652484,45.8389859947396,0 4.73521527777648,45.8389974915282,0 4.73524316142866,45.8389908482798,0 4.73525575013425,45.8389977704869,0 4.73527263603596,45.8390020146204,0 4.73529386583465,45.83900096790489,0 4.73534148017957,45.838941510178,0 4.73539782331223,45.8388932672555,0 4.73552940420285,45.83846746200869,0 4.73528319283092,45.8386533681478,0 4.73515773553035,45.8387494195422,0 4.73507250804772,45.8388175613506,0 4.73503877450533,45.83885536887259,0 4.73502991683387,45.8388687453524,0 4.73502527848204,45.83888926269159,0 4.73502681841089,45.8389054517974,0 4.73503315376518,45.83891841476179,0 4.73504642464585,45.8389306406954,0 4.73507168407316,45.8389470959468,0 4.73501776803766,45.8389946709241,0 4.73499288792389,45.8389820828823,0 4.73494969234021,45.83897716197171,0 4.73468294179033,45.839333796322,0 4.73450248465459,45.8395045497068,0 4.73429380764668,45.8397205012967,0 4.73407393546562,45.8399493243364,0 4.7340385527085,45.83993059235399,0 4.73362744158625,45.8402333259588,0 4.73346317353069,45.8402755682315,0 4.73339214605217,45.84024207101061,0 4.73337599390969,45.8402570904944,0 4.73336126342146,45.8403419831399,0 4.73339643125662,45.8403989987451,0 4.73334757088118,45.84054197040249,0 4.73323377143073,45.84073862993489,0 4.73315734544109,45.8406522537367,0 4.7330814032214,45.84061820122869,0 4.73309725116457,45.84064272755791,0 4.73319820670806,45.8407756543323,0 4.7332138015205,45.8407962214134,0 4.73330776399322,45.8409239412197,0 4.73333177978926,45.84089258832829,0 4.73350430511585,45.84074393594651,0 4.7337365002647,45.84067335959871,0 4.73387221594454,45.8405426552775,0 4.73390962460515,45.8403715769078,0 4.73410376101369,45.8401274769888,0 4.73419892754874,45.8400105450953,0 4.73443216830175,45.8397765626359,0 4.73456871246985,45.8396395397393,0 4.73466175949267,45.83954542791029,0 4.7347709265972,45.8394353060227,0 4.73479337679209,45.83941568605879,0 4.73485614565757,45.8393381617651,0 4.7349895016008,45.8391940716964,0 4.73507715441554,45.8391005827848,0 4.7351295588298,45.83907050475339,0 4.73513073787117,45.839071117138,0 4.73513524738904,45.8390669946753,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.16339">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69076000AM0008</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DOMMARTIN</SimpleData>
+					<SimpleData name="Adresse">A CLARICOT</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SOCIETE NATIONALE SNCF</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.84454495031841 </north>
+			<south> 45.84389211118391 </south>
+			<east> 4.73185848339841 </east>
+			<west> 4.73156500599064 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.73182948689478,45.84389211118391,0 4.73176611569119,45.8440123364641,0 4.73175298074232,45.8440373073005,0 4.73163392046868,45.8442638591325,0 4.7315984197693,45.8443317762874,0 4.73156500599064,45.844392275634,0 4.73160867001133,45.84441610559089,0 4.73172870782873,45.84447938670419,0 4.73185848339841,45.84454495031841,0 4.73182948689478,45.84389211118391,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.16373">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69076000AK0080</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DOMMARTIN</SimpleData>
+					<SimpleData name="Adresse">A CLARICOT</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SOCIETE NATIONALE SNCF</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8455865056861 </north>
+			<south> 45.8452122408637 </south>
+			<east> 4.73178988093269 </east>
+			<west> 4.73144967583842 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.73167335014019,45.8452122408637,0 4.73161146724807,45.84527317661959,0 4.73157744171125,45.8455031085506,0 4.73150252216188,45.8455018249911,0 4.73149852146852,45.8455057593567,0 4.73146750124369,45.84553577804089,0 4.73144967583842,45.8455837887848,0 4.73170726369169,45.8455865056861,0 4.73168424815812,45.84548967207821,0 4.73171123826703,45.84538873930349,0 4.73173509664684,45.8453851310177,0 4.73178988093269,45.84531565721709,0 4.73167335014019,45.8452122408637,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.16444">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69076000AK0081</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DOMMARTIN</SimpleData>
+					<SimpleData name="Adresse">A CLARICOT</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SOCIETE NATIONALE SNCF</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.84768310589109 </north>
+			<south> 45.84454969678541 </south>
+			<east> 4.73247064587446 </east>
+			<west> 4.73167335014019 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.73187327729025,45.8449505826495,0 4.73187348474056,45.8449612978973,0 4.73186834970516,45.8449742567499,0 4.73186066775674,45.8449922986147,0 4.73180439342971,45.84512925834521,0 4.73175736669783,45.84512970905461,0 4.73167335014019,45.8452122408637,0 4.73178988093269,45.84531565721709,0 4.73173509664684,45.8453851310177,0 4.73171123826703,45.84538873930349,0 4.73168424815812,45.84548967207821,0 4.73170726369169,45.8455865056861,0 4.73178660981443,45.8458437926076,0 4.73180820052574,45.8459814501273,0 4.73183367679477,45.8459842120509,0 4.73186560645721,45.8465374780074,0 4.73198379574599,45.8468783855724,0 4.73192644265719,45.8475928059902,0 4.73193552238393,45.84764391709579,0 4.7319408768652,45.84768310589109,0 4.73211359470808,45.8476793770141,0 4.73217489753347,45.8476778966601,0 4.7321767351108,45.84765021673711,0 4.73219494596961,45.84738458881821,0 4.7322000515059,45.8473173176884,0 4.73221061075076,45.8471569197584,0 4.73222244043149,45.8469836222172,0 4.73224723301396,45.8467798621039,0 4.7322592792654,45.8463876890989,0 4.73227071996243,45.8460131792641,0 4.73227429752238,45.8459793478411,0 4.73229681537599,45.845842725368,0 4.7323594729791,45.8455765959824,0 4.73247064587446,45.8455749811571,0 4.73246823019487,45.84550215089331,0 4.73245672938268,45.8452549026699,0 4.73217326631648,45.8451217113399,0 4.73209119568819,45.84512251938779,0 4.73209285070874,45.84509313092081,0 4.73209397687049,45.84497710242339,0 4.73206420323986,45.8449770185094,0 4.73204958998627,45.84458129120289,0 4.73190969342087,45.8445546134271,0 4.73188376354218,45.84454969678541,0 4.73189814808003,45.84496281127049,0 4.73187327729025,45.8449505826495,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

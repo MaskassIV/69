@@ -1,0 +1,3393 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>DIEME_DEPT</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_3">
+		<name>DIEME_DEPT</name>
+		<Schema name="DIEME_DEPT" id="DIEME_DEPT.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="DEPT">
+			<LineStyle>
+				<color>BF63f16c</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C63f16c</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.131">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690750000B0041</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DIEME</SimpleData>
+					<SimpleData name="Adresse">CRET MONTMAIN</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9602315389397 </north>
+			<south> 45.9588350342361 </south>
+			<east> 4.47231006676355 </east>
+			<west> 4.47048243332409 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.47231006676355,45.9588624951657,0 4.47199772591419,45.9588350342361,0 4.47173190552783,45.9588715442061,0 4.47153377346699,45.9590973007212,0 4.47128631821493,45.95928956331309,0 4.47116753117248,45.95931929739191,0 4.47058751543613,45.9596749343194,0 4.47048243332409,45.9597246641662,0 4.47082284170331,45.95997602625819,0 4.47116258927154,45.9602315389397,0 4.47143343811476,45.9601171489588,0 4.47176968696759,45.9597729630757,0 4.47214523659699,45.9592759652875,0 4.47219183596495,45.9591931300155,0 4.47219943146318,45.9590135318448,0 4.47223557917282,45.95894551305409,0 4.47231006676355,45.9588624951657,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.133">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690750000B0042</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DIEME</SimpleData>
+					<SimpleData name="Adresse">CRET MONTMAIN</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9604318453022 </north>
+			<south> 45.9592759652875 </south>
+			<east> 4.47322630889648 </east>
+			<west> 4.47176968696759 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.47214523659699,45.9592759652875,0 4.47176968696759,45.9597729630757,0 4.47179524478822,45.9598111785857,0 4.47199445972859,45.9601089549297,0 4.47322630889648,45.9604318453022,0 4.47322267911731,45.9602623903112,0 4.47321819442341,45.9602395721765,0 4.47320587107505,45.9602182070231,0 4.47318836565012,45.9602010522914,0 4.47306716955776,45.9601311178094,0 4.47292065839652,45.959959649129,0 4.47282883016417,45.9598916739856,0 4.47280515596652,45.9598563162714,0 4.47278891868143,45.95981897043689,0 4.47278145833982,45.959786283857,0 4.47274931023302,45.95965619799761,0 4.47278778807147,45.95959805585691,0 4.47240655782832,45.9594091952126,0 4.47217626485372,45.9592917734723,0 4.47214523659699,45.9592759652875,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.198">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690750000B0090</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DIEME</SimpleData>
+					<SimpleData name="Adresse">CREUX DE BROU</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.960302991767 </north>
+			<south> 45.96012351033231 </south>
+			<east> 4.47596218152781 </east>
+			<west> 4.47564271111914 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.47564271111914,45.960294187105,0 4.47596218152781,45.960302991767,0 4.47595388383142,45.96012351033231,0 4.47568726956415,45.9601835468565,0 4.47564271111914,45.960294187105,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.199">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690750000B0091</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DIEME</SimpleData>
+					<SimpleData name="Adresse">CREUX DE BROU</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9603229834977 </north>
+			<south> 45.9601018138926 </south>
+			<east> 4.47676120021177 </east>
+			<west> 4.47597574667554 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.47598428332665,45.96030369432399,0 4.47674969786989,45.9603229834977,0 4.47676120021177,45.9601018138926,0 4.47597574667554,45.9601249365254,0 4.47598428332665,45.96030369432399,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.383">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690750000B0101</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DIEME</SimpleData>
+					<SimpleData name="Adresse">SAINT MARTIN</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9621059394418 </north>
+			<south> 45.9600208596024 </south>
+			<east> 4.48111162837467 </east>
+			<west> 4.47942059059348 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.47942059059348,45.9603907853806,0 4.47942993955002,45.9603878711888,0 4.47956990745521,45.9603486649532,0 4.47972586362749,45.9605103648942,0 4.48003964167497,45.96071089099241,0 4.48080224876548,45.9610096615912,0 4.48032664723398,45.9621059394418,0 4.48041296936357,45.96209832599089,0 4.48060383225719,45.9619873916166,0 4.48087085285811,45.9618751004823,0 4.48111162837467,45.96182898966399,0 4.48109737727243,45.961135944936,0 4.48109802215707,45.9609678749985,0 4.48105410963618,45.9609389081358,0 4.48090817571356,45.9608427363193,0 4.48059212244438,45.96063458679991,0 4.48044877204412,45.9605383806235,0 4.48007500009589,45.96028712279589,0 4.47970693192753,45.9600317362969,0 4.4796915303088,45.9600208596024,0 4.47963552894549,45.960041766143,0 4.4795840449673,45.9600673870639,0 4.479539609454,45.96009579792469,0 4.47950967426105,45.9601351873329,0 4.47948729666716,45.9601770898511,0 4.4794725767526,45.960220423395,0 4.47946938785248,45.96023631652359,0 4.47942059059348,45.9603907853806,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.408">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690750000B0102</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DIEME</SimpleData>
+					<SimpleData name="Adresse">SAINT MARTIN</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.96182898966399 </north>
+			<south> 45.96108040579 </south>
+			<east> 4.48156638320379 </east>
+			<west> 4.48109737727243 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.48109737727243,45.961135944936,0 4.48111162837467,45.96182898966399,0 4.48156638320379,45.96174405217079,0 4.48136346587764,45.96108040579,0 4.48127474592225,45.9610900327949,0 4.48122215607155,45.9610985565553,0 4.48109737727243,45.961135944936,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.461">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690750000B0104</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DIEME</SimpleData>
+					<SimpleData name="Adresse">SAINT MARTIN</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9615495593227 </north>
+			<south> 45.96098285617139 </south>
+			<east> 4.48333416333356 </east>
+			<west> 4.48192157572518 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.48192157572518,45.96098285617139,0 4.48235396046255,45.9615495593227,0 4.48269897935409,45.9614565071338,0 4.48270308865582,45.9614556427282,0 4.48279318717265,45.9614300550212,0 4.48288030240672,45.961399192474,0 4.48296302396684,45.9613634338292,0 4.48304135668937,45.96132295916309,0 4.48311440415929,45.96127805042369,0 4.48321059514512,45.9611814112182,0 4.48333416333356,45.9611326881431,0 4.48192157572518,45.96098285617139,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.487">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690750000B0105</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DIEME</SimpleData>
+					<SimpleData name="Adresse">SAINT MARTIN</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9611326881431 </north>
+			<south> 45.9604670752893 </south>
+			<east> 4.48388021541514 </east>
+			<west> 4.48139383631282 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.48139383631282,45.96066841078741,0 4.48161289519704,45.960861705905,0 4.48172705019185,45.96096225563681,0 4.48192157572518,45.96098285617139,0 4.48333416333356,45.9611326881431,0 4.4834965788722,45.9610686851924,0 4.48373552757394,45.9609693641425,0 4.4838597525314,45.9608971248637,0 4.48388021541514,45.9608513737365,0 4.48387923711886,45.96081986374911,0 4.48387078975418,45.96077476175599,0 4.48385436515241,45.96073075503969,0 4.48383024578509,45.9606887405461,0 4.48370778119205,45.960524355528,0 4.48369364100572,45.9605076085974,0 4.48367150905243,45.96049141672919,0 4.48364407155585,45.9604796175169,0 4.48320594640555,45.9604670752893,0 4.48272764377183,45.9604731606916,0 4.48139383631282,45.96066841078741,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.540">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690750000B0107</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DIEME</SimpleData>
+					<SimpleData name="Adresse">SAINT MARTIN</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.96066841078741 </north>
+			<south> 45.9599036043823 </south>
+			<east> 4.48272764377183 </east>
+			<west> 4.48056836228036 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.48056836228036,45.9599238335642,0 4.4809582057736,45.96027809413311,0 4.48139383631282,45.96066841078741,0 4.48272764377183,45.9604731606916,0 4.48253041787004,45.9604385467621,0 4.481484797112,45.9600653152694,0 4.48137803878137,45.9599036043823,0 4.48078905491963,45.95991878546789,0 4.48056836228036,45.9599238335642,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.587">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690750000B0109</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DIEME</SimpleData>
+					<SimpleData name="Adresse">SAINT MARTIN</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9599311083648 </north>
+			<south> 45.9579760880869 </south>
+			<east> 4.48078905491963 </east>
+			<west> 4.47839130939069 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.48056836228036,45.9599238335642,0 4.48078905491963,45.95991878546789,0 4.48038407486066,45.9596210129902,0 4.48074322189979,45.95934774174431,0 4.48030663014821,45.95896914381211,0 4.48029973910183,45.95894338523891,0 4.47988234430013,45.95841394589479,0 4.47945526877429,45.9582112076122,0 4.47921095638151,45.9579760880869,0 4.47850709123585,45.95800194528499,0 4.47849180012887,45.95806248858601,0 4.47846859583001,45.95812169419269,0 4.47843747348091,45.9581793820332,0 4.47839905433773,45.9582346433369,0 4.47839130939069,45.9582443814442,0 4.47940804110905,45.9586307175012,0 4.47917333506899,45.9587821216911,0 4.48024622589366,45.9599311083648,0 4.48056836228036,45.9599238335642,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.618">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690750000B0011</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DIEME</SimpleData>
+					<SimpleData name="Adresse">LES GRANDES ROCHES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.95208046535011 </north>
+			<south> 45.9510547563371 </south>
+			<east> 4.47366083378258 </east>
+			<west> 4.47118872756602 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.47118872756602,45.9510547563371,0 4.47137293084872,45.9515555546272,0 4.47289547289342,45.95208046535011,0 4.47366083378258,45.95177878309,0 4.47354953688061,45.9516390101966,0 4.47348684902595,45.9514869860456,0 4.47331884402511,45.95120627897631,0 4.47259411191488,45.9512067036091,0 4.47231181151141,45.9511373333428,0 4.47206475046718,45.9511158689496,0 4.47162705021072,45.9510824723967,0 4.47118872756602,45.9510547563371,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.750">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690750000B0115</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DIEME</SimpleData>
+					<SimpleData name="Adresse">SAINT MARTIN</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9596567467006 </north>
+			<south> 45.9587569587333 </south>
+			<east> 4.4794281173277 </east>
+			<west> 4.47775351588672 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.47798305267734,45.9587569587333,0 4.4778815812838,45.9588639297853,0 4.47777356308647,45.9589675637316,0 4.47775351588672,45.95898565830419,0 4.47799625503703,45.9590852535935,0 4.47871011892556,45.95937350615451,0 4.4794281173277,45.9596567467006,0 4.47906041700567,45.9590974738383,0 4.47880828224976,45.9590183582457,0 4.47798305267734,45.9587569587333,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.807">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690750000B0118</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DIEME</SimpleData>
+					<SimpleData name="Adresse">SAINT MARTIN</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9599800352722 </north>
+			<south> 45.9596567609234 </south>
+			<east> 4.47858710607966 </east>
+			<west> 4.47703816678603 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.47856126998556,45.959918722785,0 4.47858710607966,45.9598084159059,0 4.47718549482987,45.9596567609234,0 4.47705475051222,45.9599002014149,0 4.47703816678603,45.9599800352722,0 4.47734907375385,45.9599681427063,0 4.47856126998556,45.959918722785,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.855">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690750000B0012</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DIEME</SimpleData>
+					<SimpleData name="Adresse">LES GRANDES ROCHES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9531666288639 </north>
+			<south> 45.952179689278 </south>
+			<east> 4.47503864213387 </east>
+			<west> 4.47355348457507 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.47375307842153,45.9522584389128,0 4.47355348457507,45.953036406667,0 4.47493742694672,45.9531666288639,0 4.47503864213387,45.9530984817334,0 4.47470569992531,45.9526043102157,0 4.47465701122133,45.9525509055526,0 4.47448672196268,45.9525276355594,0 4.47386627612737,45.952179689278,0 4.47375307842153,45.9522584389128,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.921">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690750000B0122</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DIEME</SimpleData>
+					<SimpleData name="Adresse">FOND L HERMITE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9601683934591 </north>
+			<south> 45.9588654793847 </south>
+			<east> 4.47682427337752 </east>
+			<west> 4.47569590324737 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.47619030557554,45.9588842854564,0 4.47569590324737,45.9601683934591,0 4.47592741457858,45.96011403834031,0 4.47676114450078,45.96009010616659,0 4.47676329760197,45.9599970409133,0 4.47680261824001,45.95999454654551,0 4.47676673445745,45.9598410935287,0 4.47676689118456,45.95970248141669,0 4.4767712264818,45.9595270682666,0 4.47678357516263,45.9593519108402,0 4.47680406865779,45.95917709748459,0 4.47682427337752,45.95904930183261,0 4.47658845591952,45.9589717697715,0 4.47663093272537,45.9588654793847,0 4.47619030557554,45.9588842854564,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.968">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690750000B0125</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DIEME</SimpleData>
+					<SimpleData name="Adresse">FOND L HERMITE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9583920841908 </north>
+			<south> 45.9582310525692 </south>
+			<east> 4.4768936701992 </east>
+			<west> 4.47674293577995 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.47674293577995,45.9582410386184,0 4.47679076350932,45.9583920841908,0 4.4768936701992,45.9583819153086,0 4.47682492717627,45.9582310525692,0 4.47674293577995,45.9582410386184,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1059">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690750000B0013</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DIEME</SimpleData>
+					<SimpleData name="Adresse">LES GRANDES ROCHES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9538197290903 </north>
+			<south> 45.953036406667 </south>
+			<east> 4.47577877405804 </east>
+			<west> 4.47337602825198 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.47355348457507,45.953036406667,0 4.47348795656483,45.95329466533871,0 4.47337602825198,45.95355127631541,0 4.47375523979414,45.95352616515469,0 4.47394876819262,45.953558860695,0 4.47416462727151,45.95360090204059,0 4.47437792304753,45.9536484703299,0 4.47514807318608,45.95380946973111,0 4.47552875006051,45.9538197290903,0 4.47576704231348,45.9537158398729,0 4.47577877405804,45.9536380508869,0 4.47505395788644,45.95309179747041,0 4.47503864213387,45.9530984817334,0 4.47493742694672,45.9531666288639,0 4.47355348457507,45.953036406667,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1076">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690750000B0130</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DIEME</SimpleData>
+					<SimpleData name="Adresse">FOND L HERMITE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.96013230893299 </north>
+			<south> 45.9594299992901 </south>
+			<east> 4.47534004427384 </east>
+			<west> 4.47434555518349 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.47434555518349,45.96013230893299,0 4.4750487513325,45.9599839983258,0 4.47534004427384,45.95957743186119,0 4.47473146962919,45.9594299992901,0 4.47434555518349,45.96013230893299,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1119">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690750000B0132</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DIEME</SimpleData>
+					<SimpleData name="Adresse">FOND L HERMITE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9607248066915 </north>
+			<south> 45.95793214834651 </south>
+			<east> 4.47641793012542 </east>
+			<west> 4.47214523659699 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.47231006676355,45.9588624951657,0 4.47223557917282,45.95894551305409,0 4.47219943146318,45.9590135318448,0 4.47219183596495,45.9591931300155,0 4.47214523659699,45.9592759652875,0 4.47217626485372,45.9592917734723,0 4.47240655782832,45.9594091952126,0 4.47278778807147,45.95959805585691,0 4.47274931023302,45.95965619799761,0 4.47278145833982,45.959786283857,0 4.47278891868143,45.95981897043689,0 4.47280515596652,45.9598563162714,0 4.47282883016417,45.9598916739856,0 4.47292065839652,45.959959649129,0 4.47306716955776,45.9601311178094,0 4.47318836565012,45.9602010522914,0 4.47320587107505,45.9602182070231,0 4.47321819442341,45.9602395721765,0 4.47322267911731,45.9602623903112,0 4.47322630889648,45.9604318453022,0 4.47348333608946,45.9605008223517,0 4.47356893425106,45.96069785109319,0 4.47358076175266,45.9607248066915,0 4.47389245770832,45.96061195059281,0 4.4740509275667,45.9605545874271,0 4.47420159457983,45.9605000275936,0 4.4744209669619,45.96047933783539,0 4.47434555518349,45.96013230893299,0 4.47473146962919,45.9594299992901,0 4.4751249627134,45.9590543452176,0 4.47560160536003,45.9592084489847,0 4.47534004427384,45.95957743186119,0 4.4750487513325,45.9599839983258,0 4.47521346286339,45.9602995112807,0 4.47531693710074,45.96025736341469,0 4.47569590324737,45.9601683934591,0 4.47619030557554,45.9588842854564,0 4.47629480082082,45.9586057927475,0 4.47641793012542,45.9581457560265,0 4.47633409190015,45.958057955263,0 4.47604985122068,45.95793214834651,0 4.47507473378093,45.9580904037205,0 4.47512987208702,45.9581915487362,0 4.47513037391092,45.95830187180621,0 4.47491792554188,45.9584216343893,0 4.47468659820736,45.9584488755691,0 4.47455146651302,45.95846126349359,0 4.47438155015053,45.9584767161858,0 4.47395167781073,45.9585160884444,0 4.47294775674754,45.9585781506969,0 4.47284319719469,45.9586134656007,0 4.47272849055742,45.9587039420907,0 4.47242813003466,45.95884438765711,0 4.47236087023975,45.95885480935321,0 4.47231006676355,45.9588624951657,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1133">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690750000B0133</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DIEME</SimpleData>
+					<SimpleData name="Adresse">FOND L HERMITE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9585636468882 </north>
+			<south> 45.9572612018393 </south>
+			<east> 4.47627444696499 </east>
+			<west> 4.47275050954984 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.47275050954984,45.9582428834189,0 4.47278270551654,45.9583651329963,0 4.47280703268186,45.9584056159132,0 4.47294801446422,45.9585636468882,0 4.47387392411209,45.9585155696918,0 4.47437677403303,45.95846714143859,0 4.47454041927326,45.958448978424,0 4.47466337783577,45.9584353080482,0 4.47468659820736,45.9584488755691,0 4.47491792554188,45.9584216343893,0 4.47513037391092,45.95830187180621,0 4.47512987208702,45.9581915487362,0 4.47507473378093,45.9580904037205,0 4.47604985122068,45.95793214834651,0 4.47627444696499,45.9577309865282,0 4.47590082550609,45.957556178639,0 4.47488832764065,45.9572780146095,0 4.47484643931268,45.95727135516181,0 4.47388884455068,45.95726860617891,0 4.47385571746498,45.9572612018393,0 4.47318124698755,45.9575311696259,0 4.47315783051835,45.95757299429939,0 4.47297268814957,45.9579122463855,0 4.47292131903951,45.95800496114829,0 4.47278040207343,45.95825969692289,0 4.47275050954984,45.9582428834189,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1186">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690750000B0136</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DIEME</SimpleData>
+					<SimpleData name="Adresse">FOND L HERMITE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9574824578611 </north>
+			<south> 45.95627743825601 </south>
+			<east> 4.4731045009227 </east>
+			<west> 4.47167925693077 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.47205170494701,45.9574824578611,0 4.4731045009227,45.95670420131851,0 4.47272682711277,45.95648827623361,0 4.47269723801572,45.956477943456,0 4.47252353432702,45.9564722774455,0 4.47240129421661,45.9564595471781,0 4.47231008087292,45.95642398707299,0 4.47226241054238,45.9563893916918,0 4.4722211006926,45.9563512010379,0 4.47218667488254,45.9563096785038,0 4.47216566859394,45.95627743825601,0 4.47195204934942,45.9565659021159,0 4.47192561025844,45.9567120610086,0 4.47175987195565,45.957120408729,0 4.47173829238844,45.957173017005,0 4.47170488522693,45.9572710816971,0 4.47167925693077,45.9573703061575,0 4.47205170494701,45.9574824578611,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1204">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690750000B0137</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DIEME</SimpleData>
+					<SimpleData name="Adresse">ROCHES BLANCHES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.95645869846851 </north>
+			<south> 45.9543100162429 </south>
+			<east> 4.47572365667004 </east>
+			<west> 4.47219204638945 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.47550874314125,45.95608026104781,0 4.47572365667004,45.9560432348186,0 4.47472349133027,45.9552649582081,0 4.47470125432613,45.9552494865363,0 4.47466895366692,45.9552343260943,0 4.47463278645903,45.9552242596522,0 4.47447071169442,45.9551994414765,0 4.47441033439839,45.9551580775091,0 4.47393681842629,45.9547140994583,0 4.47380589964511,45.9545988997692,0 4.47368408107589,45.9545149240667,0 4.47361754534997,45.9544749908441,0 4.47346690849529,45.95439012916861,0 4.47331123411582,45.9543100162429,0 4.47319542769132,45.9543155764035,0 4.47311316699933,45.9543635708035,0 4.47302799462161,45.9544475389449,0 4.47290097472466,45.9546614748666,0 4.47285866568262,45.95485143195189,0 4.47277200567508,45.9550729484031,0 4.47273696166281,45.9551579753219,0 4.47271085385723,45.9552971050597,0 4.47258103519155,45.9554547864083,0 4.47246217243406,45.9556696964474,0 4.47229124087402,45.955994622405,0 4.47219204638945,45.9562449420293,0 4.47223357903727,45.9563252801805,0 4.47229227574664,45.95638107755029,0 4.47233436469499,45.9564049377222,0 4.47238098041359,45.9564242357531,0 4.47243133152742,45.95643835147649,0 4.47248424902776,45.9564470298988,0 4.47253482040514,45.9564500647249,0 4.47270886165562,45.95645869846851,0 4.47400544669224,45.9563373473286,0 4.47550874314125,45.95608026104781,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1220">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690750000B0138</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DIEME</SimpleData>
+					<SimpleData name="Adresse">ROCHES BLANCHES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.95724964175191 </north>
+			<south> 45.95608026104781 </south>
+			<east> 4.4756623479083 </east>
+			<west> 4.47270886165562 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.47550874314125,45.95608026104781,0 4.47400544669224,45.9563373473286,0 4.47270886165562,45.95645869846851,0 4.47334241705642,45.95681728878709,0 4.47387891025392,45.95724964175191,0 4.47499267177359,45.95658396527391,0 4.4756623479083,45.9563719607211,0 4.47550874314125,45.95608026104781,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1234">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690750000B0139</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DIEME</SimpleData>
+					<SimpleData name="Adresse">ROCHES BLANCHES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9577140903981 </north>
+			<south> 45.9560432348186 </south>
+			<east> 4.47829428665865 </east>
+			<west> 4.47387891025392 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.47550874314125,45.95608026104781,0 4.4756623479083,45.9563719607211,0 4.47499267177359,45.95658396527391,0 4.47387891025392,45.95724964175191,0 4.47429288777281,45.9572536177715,0 4.47470671827237,45.95725210022971,0 4.47486110501731,45.9572499988176,0 4.47590437356442,45.95752956320401,0 4.47629930427807,45.9577140903981,0 4.4772167544357,45.95690360539891,0 4.4778130777695,45.95713422424619,0 4.47786929097706,45.9571597893751,0 4.47829428665865,45.95735292365859,0 4.47786993559469,45.9571068227123,0 4.4771494969211,45.9566829230835,0 4.47643411930584,45.9562547199478,0 4.47608898264909,45.9561739294049,0 4.47577477918689,45.9560716593405,0 4.47572365667004,45.9560432348186,0 4.47550874314125,45.95608026104781,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1278">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690750000B0141</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DIEME</SimpleData>
+					<SimpleData name="Adresse">ROCHES BLANCHES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9581143773879 </north>
+			<south> 45.9571597893751 </south>
+			<east> 4.47842062021385 </east>
+			<west> 4.47656317867263 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.47786929097706,45.9571597893751,0 4.47656317867263,45.9579376126813,0 4.47674522094924,45.9581143773879,0 4.47810296258786,45.9575568975114,0 4.47842062021385,45.957421794742,0 4.47829428665865,45.95735292365859,0 4.47786929097706,45.9571597893751,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1309">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690750000B0143</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DIEME</SimpleData>
+					<SimpleData name="Adresse">ROCHES BLANCHES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9583787597158 </north>
+			<south> 45.95800531967019 </south>
+			<east> 4.4784625011808 </east>
+			<west> 4.47685468050307 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.47685468050307,45.95822336914301,0 4.47687698712032,45.95825099828519,0 4.47689173538816,45.9582808875931,0 4.47689767524485,45.9583049475261,0 4.47691463467882,45.9583787597158,0 4.47800343090549,45.9582797081801,0 4.47835806554405,45.9582422937697,0 4.47839356400755,45.9581888719248,0 4.47842450413867,45.9581292050455,0 4.47844752380083,45.9580679303636,0 4.4784625011808,45.95800531967019,0 4.47685468050307,45.95822336914301,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1335">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690750000B0145</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DIEME</SimpleData>
+					<SimpleData name="Adresse">ROCHES BLANCHES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9592336853413 </north>
+			<south> 45.9586206207261 </south>
+			<east> 4.47795430460188 </east>
+			<west> 4.47712359811683 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.47795430460188,45.9587443646945,0 4.47757442195824,45.9586206207261,0 4.47733294752918,45.95890018185619,0 4.47712359811683,45.9591450084939,0 4.47745773161811,45.9592336853413,0 4.47747409813371,45.9592179805522,0 4.47771766803372,45.9589827938429,0 4.47795430460188,45.9587443646945,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1375">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690750000A0148</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DIEME</SimpleData>
+					<SimpleData name="Adresse">LE BOIS PERRARD</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.972875685257 </north>
+			<south> 45.9714089416518 </south>
+			<east> 4.46801991139705 </east>
+			<west> 4.4652764594011 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.46562144667288,45.9723168826842,0 4.46687027842119,45.972875685257,0 4.46800474933299,45.97223539293419,0 4.46801991139705,45.9714089416518,0 4.46764195610113,45.97148102951889,0 4.46729248623239,45.9715605826278,0 4.46679693862174,45.9716793138605,0 4.46626497216532,45.9717110615908,0 4.46624445171145,45.97171655107219,0 4.46599753190834,45.9717862160072,0 4.46575385424686,45.9718612423136,0 4.46551328235621,45.9719413615822,0 4.4652764594011,45.9720264754447,0 4.46532405042597,45.97218392325181,0 4.46562144667288,45.9723168826842,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1376">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690750000B0148</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DIEME</SimpleData>
+					<SimpleData name="Adresse">ROCHES BLANCHES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.95965113463641 </north>
+			<south> 45.9591281486916 </south>
+			<east> 4.47745773161811 </east>
+			<west> 4.47678903441923 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.47704902096151,45.9591281486916,0 4.47680211716516,45.9593354572516,0 4.47678903441923,45.95960843487029,0 4.47715422147778,45.95965113463641,0 4.47722933826085,45.9594714654394,0 4.47730240250188,45.9593837793697,0 4.47745773161811,45.9592336853413,0 4.47712359811683,45.9591450084939,0 4.47704902096151,45.9591281486916,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1392">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690750000B0149</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DIEME</SimpleData>
+					<SimpleData name="Adresse">ROCHES BLANCHES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9599905260001 </north>
+			<south> 45.95960843487029 </south>
+			<east> 4.47715422147778 </east>
+			<west> 4.47678002429444 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.47682084821169,45.9599905260001,0 4.47698791772694,45.95997952002771,0 4.4770288199423,45.9598674858741,0 4.47715422147778,45.95965113463641,0 4.47678903441923,45.95960843487029,0 4.47678002429444,45.9597973286932,0 4.47682084821169,45.9599905260001,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1422">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690750000B0015</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DIEME</SimpleData>
+					<SimpleData name="Adresse">LES GRANDES ROCHES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9550698052171 </north>
+			<south> 45.9510547563371 </south>
+			<east> 4.47386008388414 </east>
+			<west> 4.46759118880055 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.46950424604733,45.9543499557776,0 4.47245506569775,45.95383921914861,0 4.47318391651302,45.95421350250109,0 4.47337602825198,45.95355127631541,0 4.47348795656483,45.95329466533871,0 4.47355348457507,45.953036406667,0 4.47375307842153,45.9522584389128,0 4.47372865583606,45.9522432657203,0 4.47386008388414,45.95215094911929,0 4.47370251945398,45.9518311084934,0 4.47366083378258,45.95177878309,0 4.47289547289342,45.95208046535011,0 4.47137293084872,45.9515555546272,0 4.47118872756602,45.9510547563371,0 4.47011324359438,45.9514782550409,0 4.46934309647039,45.95178015537889,0 4.46880328430558,45.9521979473034,0 4.46877064296177,45.9522231386984,0 4.46860057631061,45.9523145996281,0 4.46852529364716,45.95237736084519,0 4.46849355786511,45.95242199441611,0 4.46847651095332,45.95247031020261,0 4.46847855846125,45.9526681561115,0 4.46841635060729,45.95298400997319,0 4.46836399898661,45.9530399889193,0 4.46825624251475,45.9531052426854,0 4.46805017930161,45.9532269811181,0 4.46803005179564,45.9532421028569,0 4.46799248392588,45.953276274327,0 4.46796146355168,45.9533138734008,0 4.46793799691377,45.9533538963213,0 4.46791921274239,45.9534145734256,0 4.46784992447164,45.95356182730679,0 4.46783069745384,45.9536640300254,0 4.46781310443057,45.9538953645231,0 4.46780033682597,45.95395893572489,0 4.46777643888965,45.9541087532307,0 4.46776068733197,45.9542590054879,0 4.46779615907733,45.95463546686021,0 4.46778209046831,45.9547180586068,0 4.46769785505957,45.95491017833769,0 4.46759118880055,45.9550698052171,0 4.46761252491796,45.9550612426294,0 4.46767833319302,45.9550352613099,0 4.46809578673168,45.9548699828659,0 4.46810550099568,45.9548662542833,0 4.46819558483533,45.9548305910681,0 4.46933490179596,45.9543767417883,0 4.46950424604733,45.9543499557776,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1467">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690750000A0152</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DIEME</SimpleData>
+					<SimpleData name="Adresse">LE BOIS PERRARD</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9745470016627 </north>
+			<south> 45.9728534829038 </south>
+			<east> 4.46610027809655 </east>
+			<west> 4.46372311662829 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.46511840040913,45.9745470016627,0 4.46610027809655,45.9741650277614,0 4.46547429716006,45.9738977127093,0 4.46557640897092,45.9737206747817,0 4.46563450959511,45.97354501699469,0 4.46562798316667,45.9729359934029,0 4.46468220501083,45.9728534829038,0 4.46430926716648,45.973299263257,0 4.46403810539269,45.9734437208207,0 4.4637718395771,45.9735926176641,0 4.46372311662829,45.9736208072956,0 4.46489120569246,45.97375169705149,0 4.46511840040913,45.9745470016627,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1515">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690750000B0155</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DIEME</SimpleData>
+					<SimpleData name="Adresse">ROCHES BLANCHES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.95741781846959 </north>
+			<south> 45.9556222423543 </south>
+			<east> 4.47890412164619 </east>
+			<west> 4.47632783647868 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.47890412164619,45.9562062655372,0 4.4783607421139,45.9556483851816,0 4.4779349468023,45.9556222423543,0 4.47732621262013,45.9557418691196,0 4.47646966087709,45.9559428115526,0 4.47642318092246,45.955962331443,0 4.47638173650708,45.9559866491493,0 4.47635515970546,45.95600681007451,0 4.47632783647868,45.95606174582331,0 4.47634148012729,45.956103448115,0 4.47637495476108,45.95615272742161,0 4.47641584157852,45.9561991180293,0 4.47643055869735,45.9562134265457,0 4.47649415500704,45.95625916066949,0 4.47847681565073,45.95741781846959,0 4.47852878597928,45.95741038481611,0 4.47862787721523,45.957335147123,0 4.47868255631767,45.9573131775406,0 4.47874085614252,45.9572962042776,0 4.47875574330067,45.95729276746441,0 4.47886573408198,45.95723873259509,0 4.47872001428358,45.9571019359926,0 4.47855093963003,45.9569802149298,0 4.47847008712129,45.9569219180681,0 4.47809911045889,45.9565907299414,0 4.47890412164619,45.9562062655372,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1537">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690750000B0156</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DIEME</SimpleData>
+					<SimpleData name="Adresse">ROCHES BLANCHES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9556483851816 </north>
+			<south> 45.9554788574301 </south>
+			<east> 4.4783607421139 </east>
+			<west> 4.4779349468023 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.4783607421139,45.9556483851816,0 4.47830750939061,45.9554788574301,0 4.47829015012226,45.9555200637331,0 4.47821821010734,45.9555627933867,0 4.4779349468023,45.9556222423543,0 4.4783607421139,45.9556483851816,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1556">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690750000B0157</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DIEME</SimpleData>
+					<SimpleData name="Adresse">ROCHES BLANCHES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9564393602883 </north>
+			<south> 45.9531334574508 </south>
+			<east> 4.47957207448516 </east>
+			<west> 4.47764972106382 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.47957207448516,45.9562528369684,0 4.47939618822695,45.9556227888347,0 4.47905531618835,45.95437867111751,0 4.47872243580232,45.9531334574508,0 4.47820574118465,45.9533953605442,0 4.47809980992024,45.9532876750855,0 4.47773133725662,45.95351557719789,0 4.47764972106382,45.9541263830018,0 4.47771263362474,45.954218869107,0 4.47772903860913,45.9542431526379,0 4.4779321838445,45.9545425786263,0 4.47794485952017,45.9545818616179,0 4.4779494552114,45.9546280049842,0 4.47794578967597,45.95467425621359,0 4.47794086256622,45.95469755732701,0 4.47784509618849,45.9548339952934,0 4.47784378176986,45.9549438017459,0 4.47787465995739,45.9550310319006,0 4.47790775568722,45.9550902228659,0 4.47799565809684,45.95519481153821,0 4.47827959226862,45.9554250028476,0 4.47830750939061,45.9554788574301,0 4.4783607421139,45.9556483851816,0 4.47890412164619,45.9562062655372,0 4.47928964000189,45.9564393602883,0 4.47957207448516,45.9562528369684,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1586">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690750000B0159</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DIEME</SimpleData>
+					<SimpleData name="Adresse">ROCHES BLANCHES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.95410874363171 </north>
+			<south> 45.9535260562242 </south>
+			<east> 4.47769443064149 </east>
+			<west> 4.47724302700498 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.47733007630861,45.9536091687113,0 4.47724302700498,45.953820246383,0 4.47726476150449,45.9538506749113,0 4.47729364238785,45.9538779479576,0 4.47732101029588,45.95389695475979,0 4.47748435096508,45.9539786734034,0 4.47762109836004,45.95410874363171,0 4.47769443064149,45.9535260562242,0 4.47733007630861,45.9536091687113,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1607">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690750000B0016</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DIEME</SimpleData>
+					<SimpleData name="Adresse">LES GRANDES ROCHES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.95547394673989 </north>
+			<south> 45.95289868550639 </south>
+			<east> 4.46791921274239 </east>
+			<west> 4.46517705440421 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.46759118880055,45.9550698052171,0 4.46769785505957,45.95491017833769,0 4.46778209046831,45.9547180586068,0 4.46779615907733,45.95463546686021,0 4.46776068733197,45.9542590054879,0 4.46777643888965,45.9541087532307,0 4.46780033682597,45.95395893572489,0 4.46781310443057,45.9538953645231,0 4.46783069745384,45.9536640300254,0 4.46784992447164,45.95356182730679,0 4.46791921274239,45.9534145734256,0 4.46791086048287,45.95341125927551,0 4.46788137422388,45.9533998431606,0 4.46778364532475,45.9533617521243,0 4.46757835826138,45.9532801132238,0 4.46709495471746,45.9530923800171,0 4.46660794787645,45.9529098251699,0 4.46658681905288,45.9529019030314,0 4.46657795303705,45.95289868550639,0 4.46595533535083,45.9534811839969,0 4.46572270352567,45.95377897859549,0 4.465704605153,45.9538024496606,0 4.465687379175,45.9538247385842,0 4.46564269962355,45.95388286850389,0 4.46543479094281,45.95458095050559,0 4.46517705440421,45.95547394673989,0 4.46572799464531,45.9554671745563,0 4.46573767594662,45.95546704919879,0 4.46579423631376,45.9554671273977,0 4.46620178124292,45.95546770359,0 4.46625368499832,45.9554674816152,0 4.46756697206017,45.9550768740452,0 4.46759118880055,45.9550698052171,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1679">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690750000B0165</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DIEME</SimpleData>
+					<SimpleData name="Adresse">ROCHES BLANCHES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.95620645475 </north>
+			<south> 45.9543022304401 </south>
+			<east> 4.47782836031621 </east>
+			<west> 4.47337068267887 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.47581944773527,45.9551702468254,0 4.47582778940261,45.9547732215984,0 4.47565139814888,45.9547634525028,0 4.47494529262133,45.9546077462673,0 4.47454782340412,45.9545588856188,0 4.47420192055952,45.9544875562993,0 4.47385259013777,45.954346019893,0 4.4735564943598,45.9543022304401,0 4.47337068267887,45.9543070809061,0 4.47369855236295,45.9544911386463,0 4.47381810904529,45.9545726219639,0 4.47402488728315,45.9547528514509,0 4.47444961443844,45.9551493699604,0 4.47450123974679,45.9551773381642,0 4.47462569360752,45.9551908478796,0 4.47469561639773,45.9552125432789,0 4.47474822503941,45.9552434707063,0 4.47576189842143,45.9560294967157,0 4.47585590858133,45.95606816987139,0 4.47610631852037,45.9561462335202,0 4.47617533468244,45.95616775972119,0 4.47637122997711,45.95620645475,0 4.47630025628088,45.9561215484269,0 4.47628687189837,45.9560654323474,0 4.47628941247571,45.9560542311527,0 4.47630190206637,45.9560239865538,0 4.47632218742715,45.9559955316475,0 4.47634914057677,45.9559701420509,0 4.47635724511329,45.95596418212439,0 4.47640791121252,45.9559370422019,0 4.47646296499692,45.9559146184728,0 4.47649509731257,45.9559042021453,0 4.47684571752288,45.9558187499239,0 4.47719906323942,45.9557386649374,0 4.47755474971697,45.9556640422486,0 4.47782836031621,45.9556105744876,0 4.47635503120817,45.9555010966937,0 4.47581356085648,45.9554613236015,0 4.47581944773527,45.9551702468254,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1998">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690750000B0186</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DIEME</SimpleData>
+					<SimpleData name="Adresse">LES CHARMILLES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.94977472051111 </north>
+			<south> 45.94917882172119 </south>
+			<east> 4.47305579384781 </east>
+			<west> 4.47183824255236 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.47305579384781,45.9492981642273,0 4.47184474068978,45.94917882172119,0 4.47183824255236,45.9491965589468,0 4.47191117007795,45.9493358416689,0 4.47203055391655,45.9495031608175,0 4.47207594131391,45.94958299850239,0 4.47223480026247,45.94963307988729,0 4.47236070323147,45.94964333073641,0 4.4724140889676,45.9496601088597,0 4.47257932993065,45.9496832673943,0 4.47267357514194,45.9497070792507,0 4.47277025979129,45.94972554545641,0 4.47280655839636,45.9497310174206,0 4.47282913461777,45.9497351368323,0 4.47284836559279,45.94974452353681,0 4.47285922144433,45.94975455961129,0 4.47296408583694,45.94977472051111,0 4.47300171662444,45.9497237944209,0 4.47303515196506,45.9494291171083,0 4.47305579384781,45.9492981642273,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2032">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690750000B0188</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DIEME</SimpleData>
+					<SimpleData name="Adresse">LES CHARMILLES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9483914469941 </north>
+			<south> 45.9462323219363 </south>
+			<east> 4.47229577823274 </east>
+			<west> 4.46971958382714 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.47159738746953,45.9462323219363,0 4.471564387807,45.9462584195081,0 4.47150654328665,45.9462969087944,0 4.47144341592164,45.9463309634869,0 4.47137551715702,45.9463603967982,0 4.47093598592555,45.9466389166305,0 4.47093396179134,45.94664047404049,0 4.47089557294825,45.9466726757986,0 4.47086398431575,45.9467081215703,0 4.47066769337395,45.9469723108889,0 4.47032490229884,45.9471558136084,0 4.47027572179684,45.94719004670301,0 4.47016841029196,45.94734401060119,0 4.4701168154623,45.9473942164689,0 4.46998498360104,45.9474518590565,0 4.46989105648491,45.94751234162341,0 4.46971958382714,45.94770532582441,0 4.46974534770279,45.94778055569699,0 4.4698143289129,45.9478157759235,0 4.47036157207249,45.9480554457385,0 4.47053461832181,45.9481100284977,0 4.47069778637348,45.9481331265758,0 4.47077274187686,45.9481551191265,0 4.47095856623176,45.94826753699621,0 4.47101380843146,45.9482910464977,0 4.47111412071641,45.9483390982849,0 4.4712095125896,45.9483914469941,0 4.47162886630382,45.9483575347395,0 4.47161981227022,45.948245791835,0 4.47144328822196,45.9477904670661,0 4.47144543773042,45.9476824512901,0 4.47149290492883,45.947526111935,0 4.47153630155583,45.9474397158546,0 4.47158724394657,45.9473554732683,0 4.47161246982207,45.9473186689856,0 4.47229577823274,45.9465819676296,0 4.47159738746953,45.9462323219363,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2079">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690750000B0190</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DIEME</SimpleData>
+					<SimpleData name="Adresse">LES CHARMILLES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9489621568965 </north>
+			<south> 45.94603063632981 </south>
+			<east> 4.47471368939079 </east>
+			<west> 4.47144328822196 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.47471368939079,45.9465859739603,0 4.47468815200843,45.9465146149805,0 4.47458434524485,45.94636979203801,0 4.47454457076436,45.9463308617834,0 4.47432720803301,45.9461496006648,0 4.47425643550081,45.9461343108707,0 4.47411629230567,45.9460982189292,0 4.47395276984617,45.946061710774,0 4.4737869399804,45.94603063632981,0 4.47229577823274,45.9465819676296,0 4.47161246982207,45.9473186689856,0 4.47158724394657,45.9473554732683,0 4.47153630155583,45.9474397158546,0 4.47149290492883,45.947526111935,0 4.47144543773042,45.9476824512901,0 4.47144328822196,45.9477904670661,0 4.47161981227022,45.948245791835,0 4.47162886630382,45.9483575347395,0 4.47164578361972,45.94843981423999,0 4.47191181156679,45.9484419389691,0 4.47196385901394,45.9486405757733,0 4.47218420232818,45.94892843956231,0 4.47224397934479,45.9489621568965,0 4.47261789169527,45.94892351826439,0 4.47299285870154,45.9488905387565,0 4.47315520550486,45.9488779783038,0 4.47317541069397,45.9487886410848,0 4.47315722419456,45.9486348667314,0 4.47256034429393,45.9487124342573,0 4.47241946496365,45.9487311092013,0 4.47228053765634,45.9485523362493,0 4.47217811718475,45.9484592804345,0 4.47206933514446,45.948369729738,0 4.47203492669408,45.9483431577746,0 4.47196544182377,45.9482698479617,0 4.47193475610938,45.94822314307631,0 4.47191163244925,45.9481743584127,0 4.47189663280906,45.9481251979006,0 4.47188474460841,45.9479653971994,0 4.47191800200413,45.9477846547209,0 4.47195502890052,45.9476869931311,0 4.47199984771326,45.9475910314873,0 4.47203825359492,45.9475208217344,0 4.47222132506557,45.9472694110252,0 4.47239905125107,45.94705958947101,0 4.47249008419603,45.9469682501578,0 4.47258499393371,45.9468915409114,0 4.47268619956615,45.946818532388,0 4.47279294115376,45.9467497748493,0 4.4729050896373,45.9466852699593,0 4.47295779224279,45.9466572944034,0 4.47321848212605,45.9465663582621,0 4.47336813574718,45.946542884647,0 4.47364205912126,45.9465364363021,0 4.47409614708314,45.9465611450634,0 4.47448603046775,45.9466037107563,0 4.47471368939079,45.9465859739603,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2234">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690750000B0200</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DIEME</SimpleData>
+					<SimpleData name="Adresse">LES CHARMILLES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9488716728549 </north>
+			<south> 45.9486136957278 </south>
+			<east> 4.47333106487937 </east>
+			<west> 4.47319475544761 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.47319475544761,45.94862852401009,0 4.47321304569668,45.948810307208,0 4.47320371254876,45.9488716728549,0 4.47333106487937,45.9488589371765,0 4.47332372970325,45.9486136957278,0 4.47319475544761,45.94862852401009,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2262">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690750000B0202</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DIEME</SimpleData>
+					<SimpleData name="Adresse">LES CHARMILLES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9496856557758 </north>
+			<south> 45.9493032920867 </south>
+			<east> 4.47340726136716 </east>
+			<west> 4.47304640334999 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.47323229719132,45.949312799182,0 4.47309776402651,45.9493032920867,0 4.47304640334999,45.9496856557758,0 4.47327712022193,45.94947766506611,0 4.47333807315919,45.9494346311928,0 4.47340726136716,45.9493857259245,0 4.47323229719132,45.949312799182,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2281">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690750000B0203</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DIEME</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9536380508869 </north>
+			<south> 45.946519092652 </south>
+			<east> 4.47862780723803 </east>
+			<west> 4.47230433005628 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.47622772739214,45.9522840135301,0 4.47623436329269,45.9522762714589,0 4.47695501158991,45.9519978462467,0 4.47697744641359,45.95193405765999,0 4.47702702099366,45.9517748963154,0 4.47706869517161,45.95161484732651,0 4.47709700591352,45.95111542753811,0 4.47711485683342,45.9508277970648,0 4.4771277885256,45.9507418863926,0 4.47716949149314,45.9506647868726,0 4.47728443869272,45.95050234046191,0 4.47789986549621,45.9509758842594,0 4.47848883630807,45.9515649636363,0 4.47862780723803,45.9517010379181,0 4.47858626344842,45.9498939747677,0 4.47856473434639,45.9493084728294,0 4.47855104692967,45.9487120606461,0 4.47852086155292,45.94803012204,0 4.47847319791023,45.946519092652,0 4.47816785633597,45.9466104440591,0 4.47806676667562,45.94667787203549,0 4.47782109714176,45.9468471600388,0 4.47758147172735,45.9470204215095,0 4.47730646778479,45.94723215168839,0 4.47703257041509,45.9474515222583,0 4.47675123792384,45.9477259288136,0 4.4766029608628,45.9478826851532,0 4.47654601734075,45.9479595329828,0 4.47651291875478,45.9479770771278,0 4.4764375555225,45.9480218318495,0 4.47636798210569,45.94807065398729,0 4.47630432515748,45.9481234518346,0 4.476280550559,45.9481420451361,0 4.47618488346198,45.9483204507983,0 4.4761708636415,45.9483513458201,0 4.47613258205774,45.948450106024,0 4.47610208058152,45.9485501157228,0 4.47584206755612,45.9486134897265,0 4.47582658308535,45.9486379191199,0 4.47561052248869,45.94865514657771,0 4.47557460547046,45.94865426385849,0 4.47545044352273,45.9486511090448,0 4.47509626644185,45.9486117737932,0 4.47493134787803,45.9486295042635,0 4.47460019050744,45.94873622307901,0 4.47441389881796,45.9488188978962,0 4.47424980900382,45.94889173632989,0 4.47420489267306,45.9489115952706,0 4.47366925660083,45.9492610876166,0 4.47322862793043,45.9495714234145,0 4.47314716425827,45.949648948862,0 4.4730469163056,45.94975310774501,0 4.47295359540422,45.9498604187269,0 4.47260722165696,45.9500745068582,0 4.47251301235418,45.950167959017,0 4.47230433005628,45.9502344396658,0 4.47240428712181,45.950249711355,0 4.47270692012126,45.95039879444829,0 4.47286255113687,45.9505260125802,0 4.47308732644129,45.9507908505356,0 4.47317544787646,45.9508994027514,0 4.47321195165289,45.95094630180261,0 4.47334398960624,45.9511712766604,0 4.47350983229349,45.95146768314419,0 4.4735821126758,45.9516211135055,0 4.47374917620543,45.9518231156999,0 4.47377512925722,45.9518761863071,0 4.47388781079992,45.95215932438461,0 4.47451424623091,45.9524946734904,0 4.47468552294154,45.9525403567564,0 4.47479188799796,45.9526259737319,0 4.47508066030509,45.95308118209,0 4.47505395788644,45.95309179747041,0 4.47577877405804,45.9536380508869,0 4.47584944661023,45.9527241405075,0 4.47622772739214,45.9522840135301,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2340">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690750000B0208</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DIEME</SimpleData>
+					<SimpleData name="Adresse">BROU</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.94825318064421 </north>
+			<south> 45.9434609115624 </south>
+			<east> 4.4805819451932 </east>
+			<west> 4.47484528678112 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.47617042746336,45.94825318064421,0 4.47617370956333,45.9482455723766,0 4.47620099411397,45.9481941496545,0 4.47623582721663,45.9481449701603,0 4.47627758041633,45.948098672539,0 4.47632625852892,45.9480554368502,0 4.47653903274562,45.9479205358825,0 4.47665297750325,45.9477690010065,0 4.47702282491605,45.9474299437655,0 4.47743595388337,45.9470969850881,0 4.47790511890288,45.9467595103978,0 4.47815788624362,45.94659012950431,0 4.47837091450745,45.9465324073995,0 4.47847192519591,45.9464909189129,0 4.47846777453841,45.9463651522402,0 4.4794744749011,45.9459968704935,0 4.47959387182145,45.9459526188113,0 4.48057643897257,45.94559004647,0 4.4805819451932,45.94542506522429,0 4.48046880833878,45.945193006406,0 4.48042478930367,45.9451211698691,0 4.48000656825478,45.94479736172859,0 4.47978725062622,45.9446014558933,0 4.47913977255971,45.9450332258046,0 4.47894397595505,45.94429481921181,0 4.47924483983754,45.9440757217031,0 4.4791499350628,45.9439838348273,0 4.47901000973207,45.9438403885572,0 4.47887684532726,45.943693881629,0 4.47875082656654,45.9435442189741,0 4.4784610826244,45.9434609115624,0 4.47811485333149,45.9435241564987,0 4.47719523040492,45.9441437423832,0 4.47648793012049,45.9444635163247,0 4.47613388440876,45.9446400687846,0 4.47579674802169,45.9449322232116,0 4.47507721344393,45.9455430575517,0 4.47485095277168,45.94581052712199,0 4.47485071875813,45.9458114308214,0 4.47484528678112,45.9458448256516,0 4.47484812195137,45.94587838294561,0 4.47485893964159,45.94591111569721,0 4.47501038611194,45.94637892103229,0 4.47500252076459,45.9466251711529,0 4.47505754703255,45.9469395013496,0 4.47506151592696,45.9469961005025,0 4.47505947750431,45.9471803099739,0 4.47505879956911,45.9471839214089,0 4.4750480796218,45.947212701786,0 4.47502969422459,45.9472396906975,0 4.47504458017775,45.9473230770056,0 4.47647673966444,45.94698872523669,0 4.4762615438933,45.9473317979695,0 4.47622582251594,45.94740080336789,0 4.47619802468746,45.9474715967742,0 4.47618403777825,45.9475181626839,0 4.47615531645375,45.9476701167002,0 4.47613448728808,45.9478226882967,0 4.47612950230469,45.9478727393935,0 4.47616263346125,45.94817915879,0 4.47617042746336,45.94825318064421,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2371">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690750000B0210</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DIEME</SimpleData>
+					<SimpleData name="Adresse">BROU</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9450818583388 </north>
+			<south> 45.9425717219609 </south>
+			<east> 4.48104407902186 </east>
+			<west> 4.47893314536 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.47925195727526,45.9425717219609,0 4.47920131196573,45.94313754230491,0 4.47893314536,45.9437183641428,0 4.47946424251255,45.9442509124557,0 4.47947618173101,45.944262825102,0 4.47966179123811,45.9444439512169,0 4.47985415254664,45.94462165635001,0 4.48001759731967,45.9447657847814,0 4.48021262200856,45.94491760582151,0 4.48042007133519,45.9450705249292,0 4.48019388692637,45.94435017052619,0 4.48018357606788,45.9443412088047,0 4.48018601311372,45.9442589474947,0 4.48019622722196,45.94424989746101,0 4.48021671509743,45.9442388216884,0 4.48024121501906,45.9442329172132,0 4.48026715310647,45.94423248789341,0 4.48030941203759,45.9442821014213,0 4.4805377558853,45.9446312690517,0 4.48101322436145,45.9450818583388,0 4.48104407902186,45.94506740441479,0 4.48099723492542,45.944885725618,0 4.48070160764574,45.94427661060899,0 4.48062367538953,45.94406219445481,0 4.48036773473111,45.9436420564428,0 4.48014262868881,45.94334112108371,0 4.47929376095401,45.9426092730693,0 4.47925195727526,45.9425717219609,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2383">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690750000B0211</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DIEME</SimpleData>
+					<SimpleData name="Adresse">BROU</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9458237352835 </north>
+			<south> 45.94430756228999 </south>
+			<east> 4.48160421044147 </east>
+			<west> 4.48021798849009 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.48064434098219,45.94560897248441,0 4.48127919674728,45.9457593599332,0 4.48160421044147,45.9458237352835,0 4.48158851070501,45.9458112416237,0 4.48149601030843,45.9457322044631,0 4.48141000508798,45.9456498398688,0 4.48135704369403,45.94557199629399,0 4.48130335457354,45.94542868487611,0 4.4812321305064,45.94533423809761,0 4.48051689047182,45.94465712049781,0 4.48028553395996,45.94431114450881,0 4.48027020355727,45.94430756228999,0 4.48024994880051,45.9443080974062,0 4.48023151938525,45.9443141026159,0 4.48021798849009,45.9443246370748,0 4.48046864365191,45.9451148320482,0 4.48052441929167,45.9452013755172,0 4.48061577337951,45.9454107526515,0 4.48061608238888,45.9454270503937,0 4.48062303187636,45.9455174749129,0 4.48063796861323,45.9456072545488,0 4.48064434098219,45.94560897248441,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2396">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690750000B0212</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DIEME</SimpleData>
+					<SimpleData name="Adresse">BROU</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.945987835286 </north>
+			<south> 45.94412706830809 </south>
+			<east> 4.48232632934414 </east>
+			<west> 4.48071224193063 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.4816846416952,45.9458428569223,0 4.48232632934414,45.945987835286,0 4.48223136573131,45.94583650865981,0 4.48196495246322,45.94542137466511,0 4.48169111591592,45.945008498844,0 4.48130080433002,45.9445849881735,0 4.48112594955657,45.9444343460631,0 4.48093547329602,45.9442788644633,0 4.48073864207847,45.94412706830809,0 4.48071224193063,45.9441391221814,0 4.4807444280568,45.94427505965031,0 4.48103771597149,45.94489798512999,0 4.48108906276291,45.9451414797242,0 4.4811040362601,45.9451557842558,0 4.48121761996936,45.9452699413801,0 4.48132431966407,45.9453873407781,0 4.48135806417113,45.9454419288965,0 4.48139717007349,45.9455662473021,0 4.48147620232061,45.9456725704385,0 4.4816846416952,45.9458428569223,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2409">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690750000B0213</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DIEME</SimpleData>
+					<SimpleData name="Adresse">BROU</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9461162287699 </north>
+			<south> 45.9441819797749 </south>
+			<east> 4.48291373625611 </east>
+			<west> 4.48149782098972 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.48186068310295,45.9442810742817,0 4.48149782098972,45.9441819797749,0 4.48154146763266,45.9442735450414,0 4.48163229640433,45.9444777044853,0 4.48171529204822,45.9446834074603,0 4.48173407165104,45.944781602783,0 4.48175012796297,45.9449033407578,0 4.48175767613644,45.94502555038499,0 4.48180515721047,45.94509644044591,0 4.48210134143378,45.9455481116289,0 4.48239036123692,45.9460020375025,0 4.48288864982902,45.9461147561579,0 4.48291373625611,45.9461162287699,0 4.48289215983771,45.9460868800351,0 4.48279279019482,45.94600694318971,0 4.48280894991005,45.9459070293456,0 4.48268721015729,45.9457442553588,0 4.48269004524999,45.9456625291232,0 4.48267273781811,45.94563348468469,0 4.48264305211516,45.945609826181,0 4.4824944958974,45.9455587238252,0 4.48245335733223,45.9455220657808,0 4.48243764948913,45.9454037457945,0 4.48241343371545,45.9453578595596,0 4.48228703296431,45.94523288351991,0 4.48221549911172,45.94513177657811,0 4.48217156944351,45.9450489515736,0 4.48213684243064,45.9449098954539,0 4.48213034443265,45.9448123499371,0 4.4821744447665,45.9446952281025,0 4.48215182602408,45.9446558956587,0 4.48209006942073,45.944558263212,0 4.48202075919346,45.9444629812775,0 4.48194416559963,45.94437049662879,0 4.48186068310295,45.9442810742817,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2418">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690750000B0214</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DIEME</SimpleData>
+					<SimpleData name="Adresse">BROU</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9442810742817 </north>
+			<south> 45.9437685683151 </south>
+			<east> 4.48186068310295 </east>
+			<west> 4.4812228937964 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.48123549530477,45.943812723943,0 4.4812228937964,45.9438146001104,0 4.48149782098972,45.9441819797749,0 4.48186068310295,45.9442810742817,0 4.48163372034576,45.9440315031836,0 4.48153317796698,45.9437685683151,0 4.48123549530477,45.943812723943,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2447">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690750000B0216</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DIEME</SimpleData>
+					<SimpleData name="Adresse">BROU</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9449797364238 </north>
+			<south> 45.9434485970648 </south>
+			<east> 4.48170041231496 </east>
+			<west> 4.4804030694186 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.48087713096426,45.9434485970648,0 4.4804030694186,45.943640603524,0 4.48064944554008,45.9440459157839,0 4.48075088612514,45.9440926833671,0 4.48084192268755,45.9441654356826,0 4.4810877467988,45.94436756737419,0 4.48132734814916,45.9445734726742,0 4.48170041231496,45.9449797364238,0 4.481657286426,45.94466759488311,0 4.48145536134281,45.944230540294,0 4.48104391154167,45.9436351910907,0 4.48087713096426,45.9434485970648,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2460">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690750000B0217</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DIEME</SimpleData>
+					<SimpleData name="Adresse">BROU</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.943640603524 </north>
+			<south> 45.94300960827681 </south>
+			<east> 4.48087713096426 </east>
+			<west> 4.47980387039267 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.47980387039267,45.94300960827681,0 4.48019961455491,45.9433574881414,0 4.4804030694186,45.943640603524,0 4.48087713096426,45.9434485970648,0 4.48077958170894,45.9434072726657,0 4.48029391862907,45.94320602609551,0 4.47980387039267,45.94300960827681,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2470">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690750000B0218</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DIEME</SimpleData>
+					<SimpleData name="Adresse">BROU</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9434485970648 </north>
+			<south> 45.94214140113549 </south>
+			<east> 4.48087713096426 </east>
+			<west> 4.47917369109471 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.47920842731163,45.9424698869346,0 4.4792322958066,45.9425029891017,0 4.47926446545937,45.9425471508296,0 4.47980387039267,45.94300960827681,0 4.48029391862907,45.94320602609551,0 4.48077958170894,45.9434072726657,0 4.48087713096426,45.9434485970648,0 4.48086302099165,45.9434279766527,0 4.48074484539948,45.94324849204,0 4.48063435576325,45.9430667451959,0 4.48054564218815,45.9428449946618,0 4.480368891473,45.94253225909599,0 4.47971276920951,45.94214140113549,0 4.47928876387397,45.9421732432635,0 4.47918944758294,45.94217174940151,0 4.47917369109471,45.94217150502,0 4.47920842731163,45.9424698869346,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2485">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690750000B0219</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DIEME</SimpleData>
+					<SimpleData name="Adresse">BROU</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.942830749046 </north>
+			<south> 45.9417993114604 </south>
+			<east> 4.48097027149337 </east>
+			<west> 4.48003819855522 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.48013838521916,45.9418188062055,0 4.48003819855522,45.9417993114604,0 4.48010990995719,45.9419938148555,0 4.4804152974107,45.94252967062639,0 4.48058812025467,45.942830749046,0 4.48097027149337,45.94274496042439,0 4.48085230288779,45.9425875391827,0 4.48083179756364,45.9425451166305,0 4.48078043911752,45.94242591197379,0 4.48073691680472,45.9423052537912,0 4.48065915769512,45.9421500082077,0 4.48056124024266,45.9419796251691,0 4.48052324318835,45.94193481951579,0 4.48048712717076,45.9419119651289,0 4.48044504738398,45.9418929714814,0 4.4803822362744,45.941875960246,0 4.48020351985039,45.9418598345658,0 4.48018310631195,45.94185442746191,0 4.48016007627861,45.9418429301492,0 4.48014248418512,45.9418272187146,0 4.48013838521916,45.9418188062055,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2504">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690750000B0220</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DIEME</SimpleData>
+					<SimpleData name="Adresse">BROU</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.94253225909599 </north>
+			<south> 45.9414307508678 </south>
+			<east> 4.480368891473 </east>
+			<west> 4.47912307418378 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.47913204044997,45.9415531221839,0 4.47917369109471,45.94217150502,0 4.47918944758294,45.94217174940151,0 4.47928876387397,45.9421732432635,0 4.47971276920951,45.94214140113549,0 4.480368891473,45.94253225909599,0 4.48005748822987,45.9419935097333,0 4.47988758256174,45.941517305885,0 4.4793696133537,45.9416553929747,0 4.47912307418378,45.9414307508678,0 4.47913204044997,45.9415531221839,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2536">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690750000B0223</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DIEME</SimpleData>
+					<SimpleData name="Adresse">BROU</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9424698869346 </north>
+			<south> 45.9415531221839 </south>
+			<east> 4.47920842731163 </east>
+			<west> 4.4785055095164 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.47913204044997,45.9415531221839,0 4.47911310255385,45.9415738144756,0 4.47869898102359,45.9420265794624,0 4.47855191005615,45.9422948234221,0 4.4785055095164,45.94237937026751,0 4.47850933857274,45.94237292562349,0 4.47851345231776,45.94236746797589,0 4.47855504358701,45.9423201808316,0 4.47860330106255,45.9422759588527,0 4.47865773269525,45.9422357091104,0 4.47868573513781,45.9422208427574,0 4.47872625324534,45.94220572279851,0 4.47876975309556,45.9421958777023,0 4.47881508047834,45.94219159274289,0 4.47886094971637,45.94219306484911,0 4.47890554925401,45.9422001375637,0 4.47894771279654,45.9422126459998,0 4.47898587963628,45.9422301602312,0 4.47901913190613,45.9422521518672,0 4.47906579383104,45.9422975652889,0 4.47907798223255,45.9422899305923,0 4.4791958320935,45.9424527590655,0 4.47920842731163,45.9424698869346,0 4.47917369109471,45.94217150502,0 4.47913204044997,45.9415531221839,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2602">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690750000B0229</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DIEME</SimpleData>
+					<SimpleData name="Adresse">BROU</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.943761937318 </north>
+			<south> 45.9425632703249 </south>
+			<east> 4.4783685010457 </east>
+			<west> 4.47574855642109 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.47625044548313,45.9425632703249,0 4.47574855642109,45.94295529428521,0 4.47773483374059,45.943761937318,0 4.47810210741199,45.94350621989189,0 4.4783685010457,45.9434506827234,0 4.47763392567291,45.943142976884,0 4.47625044548313,45.9425632703249,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2634">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690750000B0230</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DIEME</SimpleData>
+					<SimpleData name="Adresse">BROU</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9441505923547 </north>
+			<south> 45.94295529428521 </south>
+			<east> 4.47773483374059 </east>
+			<west> 4.475316208202 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.47574855642109,45.94295529428521,0 4.475316208202,45.9432929108076,0 4.47603292809532,45.9436332878272,0 4.47713964191061,45.9441505923547,0 4.47720317107704,45.9441221131944,0 4.47773483374059,45.943761937318,0 4.47574855642109,45.94295529428521,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2658">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690750000B0232</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DIEME</SimpleData>
+					<SimpleData name="Adresse">BROU</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9472113047121 </north>
+			<south> 45.94385027756699 </south>
+			<east> 4.47633323845095 </east>
+			<west> 4.47269531409642 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.47500324123201,45.9472113047121,0 4.47502648057024,45.9471727242273,0 4.47502985910739,45.946995162102,0 4.47496732854677,45.9466416613552,0 4.47497441640681,45.94637119388971,0 4.47480446823643,45.9458585070475,0 4.47482316863459,45.9457999012531,0 4.47503428198916,45.9455549652726,0 4.47554794929029,45.94510514969671,0 4.47598060695621,45.9447496955496,0 4.47610871314799,45.9446305800015,0 4.47633323845095,45.9445155204212,0 4.47462172418015,45.94385027756699,0 4.47432012904757,45.9440716237137,0 4.4740051904215,45.94421415583639,0 4.47376347680372,45.9444155366839,0 4.47361297066969,45.9445854676245,0 4.47341696774517,45.9447196945008,0 4.47323042128919,45.9448551489034,0 4.47300898120701,45.9450568946154,0 4.47300808356985,45.9450619499354,0 4.47299913512524,45.9450845826372,0 4.47298277490162,45.94510524030851,0 4.47295973631808,45.9451223822967,0 4.4727254355005,45.9452970951925,0 4.47271892900753,45.94530483537879,0 4.47270322688639,45.9453307982753,0 4.47269531409642,45.9453583710463,0 4.47275204190424,45.94543752047401,0 4.47281647257616,45.9455150385314,0 4.47288805618924,45.9455896714532,0 4.47299670932463,45.9457614522833,0 4.47307474077854,45.9458309575392,0 4.47319565158049,45.9458865749947,0 4.47327811368084,45.9459045052909,0 4.47338980110384,45.9459338535755,0 4.47349827515773,45.94596855741969,0 4.47356929575452,45.9459834841927,0 4.47383466284713,45.9460240705934,0 4.47425955868452,45.9461207604423,0 4.47425643550081,45.9461343108707,0 4.47432720803301,45.9461496006648,0 4.47454457076436,45.9463308617834,0 4.47458434524485,45.94636979203801,0 4.47468815200843,45.9465146149805,0 4.47471368939079,45.9465859739603,0 4.4748296037251,45.9469322044594,0 4.47487076995976,45.94702308398299,0 4.47500324123201,45.9472113047121,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2703">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690750000B0238</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DIEME</SimpleData>
+					<SimpleData name="Adresse">LES GRANDES ROCHES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.95443631707191 </north>
+			<south> 45.95352616515469 </south>
+			<east> 4.47437792304753 </east>
+			<west> 4.47318391651302 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.47318391651302,45.95421350250109,0 4.47318885072347,45.9542869312818,0 4.47324996911094,45.954278840574,0 4.47356179949848,45.95428333780289,0 4.47385665737964,45.9543291247877,0 4.47413908475351,45.95443631707191,0 4.47437792304753,45.9536484703299,0 4.47416462727151,45.95360090204059,0 4.47394876819262,45.953558860695,0 4.47375523979414,45.95352616515469,0 4.47337602825198,45.95355127631541,0 4.47318391651302,45.95421350250109,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2847">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690750000B0251</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DIEME</SimpleData>
+					<SimpleData name="Adresse">SAINT MARTIN</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9608722089154 </north>
+			<south> 45.9599238335642 </south>
+			<east> 4.48161289519704 </east>
+			<west> 4.47976994251139 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.48056836228036,45.9599238335642,0 4.48024622589366,45.9599311083648,0 4.480001482103,45.9599398022439,0 4.47994471701031,45.95994189532111,0 4.47976994251139,45.9599881317641,0 4.47990242108584,45.9600210750671,0 4.48114459314112,45.96075480210221,0 4.48160865784946,45.9608722089154,0 4.48161289519704,45.960861705905,0 4.48139383631282,45.96066841078741,0 4.4809582057736,45.96027809413311,0 4.48056836228036,45.9599238335642,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2849">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69075000AB0251</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DIEME</SimpleData>
+					<SimpleData name="Adresse">LE CHAGNARD</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9569758487839 </north>
+			<south> 45.9567365495442 </south>
+			<east> 4.46458911693369 </east>
+			<west> 4.46395303735148 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.46455335989887,45.95696439376151,0 4.46458911693369,45.9569590676466,0 4.46458344883513,45.9569547278067,0 4.46454478897176,45.95694315930001,0 4.46448480532399,45.95692123900729,0 4.46442807504125,45.9568954038115,0 4.46433839900588,45.9568737774913,0 4.46421559970925,45.9568399704792,0 4.46409578854308,45.9568019817098,0 4.46395303735148,45.9567365495442,0 4.46400644978575,45.95677845940831,0 4.46437095158138,45.9569567563611,0 4.46440014013928,45.9569666461557,0 4.46444067404995,45.9569758487839,0 4.46455335989887,45.95696439376151,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2868">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690750000B0252</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DIEME</SimpleData>
+					<SimpleData name="Adresse">BROU</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9430752852479 </north>
+			<south> 45.94274496042439 </south>
+			<east> 4.48112032780352 </east>
+			<west> 4.48058812025467 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.48058812025467,45.942830749046,0 4.48061575898726,45.94287920274309,0 4.48064810593384,45.9429491203971,0 4.48067249273459,45.9430206732957,0 4.48070442838267,45.9430752852479,0 4.48112032780352,45.94297221240651,0 4.48108708338339,45.9429073502715,0 4.48097027149337,45.94274496042439,0 4.48058812025467,45.942830749046,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2885">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690750000B0253</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DIEME</SimpleData>
+					<SimpleData name="Adresse">BROU</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.943812723943 </north>
+			<south> 45.94297221240651 </south>
+			<east> 4.48153317796698 </east>
+			<west> 4.48070442838267 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.48070442838267,45.9430752852479,0 4.48090711980911,45.9434067747006,0 4.48111283387159,45.9436393327626,0 4.48117802696193,45.9437304360422,0 4.48123549530477,45.943812723943,0 4.48153317796698,45.9437685683151,0 4.48150170870928,45.9436641444595,0 4.48140225944671,45.94355700785069,0 4.48131579260505,45.943394941638,0 4.48122095949566,45.9432337954515,0 4.48116150059928,45.9431158678151,0 4.48112032780352,45.94297221240651,0 4.48070442838267,45.9430752852479,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2893">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690750000B0255</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DIEME</SimpleData>
+					<SimpleData name="Adresse">GROLY</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9582438569553 </north>
+			<south> 45.9581048746976 </south>
+			<east> 4.47100377850091 </east>
+			<west> 4.47040609261035 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.47040609261035,45.9581667226444,0 4.47090919675053,45.9582438569553,0 4.47100377850091,45.958178231564,0 4.47051498052277,45.9581048746976,0 4.47040609261035,45.9581667226444,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2921">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690750000B0258</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DIEME</SimpleData>
+					<SimpleData name="Adresse">GROLY</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9581667226444 </north>
+			<south> 45.9577113432224 </south>
+			<east> 4.47051498052277 </east>
+			<west> 4.46934602753767 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.47040609261035,45.9581667226444,0 4.47051498052277,45.9581048746976,0 4.47039089800693,45.9580861318042,0 4.46963785115372,45.9578854289952,0 4.46949141605707,45.9577113432224,0 4.46934602753767,45.95772646996781,0 4.46954714992358,45.9579464996123,0 4.47034943016976,45.9581580918751,0 4.47040609261035,45.9581667226444,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3016">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690750000B0268</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DIEME</SimpleData>
+					<SimpleData name="Adresse">GROLY</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.95658766858 </north>
+			<south> 45.9560329850691 </south>
+			<east> 4.4692232658148 </east>
+			<west> 4.46908388971761 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.4692232658148,45.95604385040259,0 4.46910972897157,45.9560329850691,0 4.46909474588739,45.9561490029304,0 4.46908388971761,45.9565746102173,0 4.46921582281743,45.95658766858,0 4.46920596552357,45.9563924458309,0 4.46920449886511,45.9561971141806,0 4.46920466450221,45.9561839625609,0 4.4692232658148,45.95604385040259,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3049">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690750000B0270</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DIEME</SimpleData>
+					<SimpleData name="Adresse">LES GRANDES ROCHES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9515156501481 </north>
+			<south> 45.9511479404687 </south>
+			<east> 4.46903333243338 </east>
+			<west> 4.46857999520274 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.46857999520274,45.9514362840358,0 4.46875900508685,45.9515156501481,0 4.46903333243338,45.9512136151696,0 4.46884035613861,45.9511479404687,0 4.46857999520274,45.9514362840358,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3056">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690750000B0271</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DIEME</SimpleData>
+					<SimpleData name="Adresse">LES GRANDES ROCHES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9508471340723 </north>
+			<south> 45.9496918882677 </south>
+			<east> 4.47279942131835 </east>
+			<west> 4.46916254711395 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.46935306540909,45.9508471340723,0 4.46958068550958,45.95070142616961,0 4.46980277043298,45.9505515566218,0 4.46985169848872,45.9505174171189,0 4.47092812159713,45.9500330246028,0 4.47120255488283,45.9501126778155,0 4.47228885562422,45.950698835602,0 4.47258146920152,45.95080148581301,0 4.47279942131835,45.9505311571623,0 4.4726830040855,45.95042666549439,0 4.47234461302888,45.9502633669013,0 4.47226170123763,45.95023850669401,0 4.47204993394157,45.9502330651187,0 4.47198808372705,45.9502281053383,0 4.47192775985789,45.9502174515849,0 4.47187326021015,45.9502024890108,0 4.47116062522603,45.9498915730757,0 4.47113293273854,45.94987959411889,0 4.47101152223247,45.9498200180125,0 4.47093296572983,45.94977447538281,0 4.47086158920991,45.9497270380979,0 4.4708308537129,45.94971230660139,0 4.47080102249294,45.9497024268506,0 4.470783448923,45.94969707118639,0 4.47075258111249,45.9496918882677,0 4.47068409183144,45.9497187168965,0 4.47057617092453,45.94975812650381,0 4.47047968351979,45.94979054253439,0 4.4703040396706,45.9498710006343,0 4.47029587288208,45.94987461925239,0 4.47022098488949,45.949903602207,0 4.4701422119639,45.9499273217431,0 4.47006071816461,45.9499458527989,0 4.46916254711395,45.9507622442077,0 4.46935306540909,45.9508471340723,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3087">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690750000B0274</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DIEME</SimpleData>
+					<SimpleData name="Adresse">LES GRANDES ROCHES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.95178015537889 </north>
+			<south> 45.9501642787742 </south>
+			<east> 4.47249424575546 </east>
+			<west> 4.46889181389862 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.46934309647039,45.95178015537889,0 4.47011324359438,45.9514782550409,0 4.47118872756602,45.9510547563371,0 4.47162705021072,45.9510824723967,0 4.47206475046718,45.9511158689496,0 4.47231181151141,45.9511373333428,0 4.47249424575546,45.9509099779618,0 4.47219198053594,45.9507843964339,0 4.47105751550048,45.9501642787742,0 4.4708680875007,45.9501734053618,0 4.47005712670056,45.95053204170199,0 4.46974885075173,45.9507179761575,0 4.4695191496946,45.950921172808,0 4.46955534503217,45.9509372748163,0 4.46921583914686,45.9512740215533,0 4.46919134984626,45.951265963394,0 4.46889181389862,45.9515765218065,0 4.46934309647039,45.95178015537889,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3108">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690750000B0276</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DIEME</SimpleData>
+					<SimpleData name="Adresse">GROLY</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.95772646996781 </north>
+			<south> 45.9572544302181 </south>
+			<east> 4.46949141605707 </east>
+			<west> 4.46914554387242 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.46934602753767,45.95772646996781,0 4.46949141605707,45.9577113432224,0 4.46947794798531,45.9576953964409,0 4.4692915455492,45.9572574888586,0 4.46914554387242,45.9572544302181,0 4.46934602753767,45.95772646996781,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3143">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690750000B0279</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DIEME</SimpleData>
+					<SimpleData name="Adresse">GROLY</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.95604385040259 </north>
+			<south> 45.95543704153521 </south>
+			<east> 4.46934280558643 </east>
+			<west> 4.46910972897157 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.4692889437154,45.95543704153521,0 4.46916994657009,45.95546830744241,0 4.46920340281765,45.9555945944773,0 4.46910972897157,45.9560329850691,0 4.4692232658148,45.95604385040259,0 4.46934280558643,45.9556215157665,0 4.46930120441901,45.95545615627339,0 4.4692889437154,45.95543704153521,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3159">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690750000B0028</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DIEME</SimpleData>
+					<SimpleData name="Adresse">GROLY</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9576136875604 </north>
+			<south> 45.95383921914861 </south>
+			<east> 4.47318885072347 </east>
+			<west> 4.46950424604733 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.47060816026633,45.95717923820551,0 4.47069063017366,45.957404770072,0 4.47096351660344,45.9576136875604,0 4.47097503761789,45.9576050717537,0 4.47174872464676,45.9570367032213,0 4.47185966276695,45.9567618237453,0 4.47188035097722,45.9566855399586,0 4.47189301170168,45.95660845989651,0 4.47189466316653,45.9565929472571,0 4.4721675819173,45.956204100524,0 4.47224807228036,45.9560124763242,0 4.47233635771315,45.9558226420354,0 4.47243231146681,45.95563468935211,0 4.47253112069545,45.95545696683569,0 4.47268594291264,45.9552588813586,0 4.47269304183711,45.9552056506893,0 4.47270843336525,45.9551534829759,0 4.47271060276275,45.9551476905957,0 4.47282294899244,45.9548195633619,0 4.47286384209854,45.9546249413379,0 4.47291965617441,45.9545295568379,0 4.47298302179793,45.9544365057952,0 4.47300683346101,45.9544046732076,0 4.47309253514157,45.9543260120253,0 4.47318885072347,45.9542869312818,0 4.47318391651302,45.95421350250109,0 4.47245506569775,45.95383921914861,0 4.46950424604733,45.9543499557776,0 4.46968458610914,45.95470616271721,0 4.46996088481251,45.9552612474931,0 4.47003228824678,45.9554013618399,0 4.4699916677833,45.9559210233109,0 4.46991930860278,45.9561079469122,0 4.46971093469601,45.95663690156271,0 4.46955944598775,45.95700399126499,0 4.4705080669154,45.9569610503484,0 4.47052354297452,45.9569603089199,0 4.47060816026633,45.95717923820551,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3182">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690750000B0281</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DIEME</SimpleData>
+					<SimpleData name="Adresse">LES GRANDES ROCHES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9534145734256 </north>
+			<south> 45.9533538963213 </south>
+			<east> 4.46793799691377 </east>
+			<west> 4.46788137422388 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.46791921274239,45.9534145734256,0 4.46793799691377,45.9533538963213,0 4.46792232230026,45.9533665285424,0 4.46788137422388,45.9533998431606,0 4.46791086048287,45.95341125927551,0 4.46791921274239,45.9534145734256,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3208">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690750000B0283</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DIEME</SimpleData>
+					<SimpleData name="Adresse">LES GRANDES ROCHES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9531052426854 </north>
+			<south> 45.9515765218065 </south>
+			<east> 4.46934309647039 </east>
+			<west> 4.46824637478262 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.46825624251475,45.9531052426854,0 4.46836399898661,45.9530399889193,0 4.46841635060729,45.95298400997319,0 4.46847855846125,45.9526681561115,0 4.46847651095332,45.95247031020261,0 4.46849355786511,45.95242199441611,0 4.46852529364716,45.95237736084519,0 4.46860057631061,45.9523145996281,0 4.46877064296177,45.9522231386984,0 4.46880328430558,45.9521979473034,0 4.46934309647039,45.95178015537889,0 4.46889181389862,45.9515765218065,0 4.46888176407099,45.9515870096838,0 4.46892606264244,45.9517762014618,0 4.46882054003671,45.9519638249553,0 4.46845100242284,45.95216739278829,0 4.46824637478262,45.9524590653656,0 4.46835636401571,45.9529328207306,0 4.46826661221735,45.9530873654024,0 4.46825624251475,45.9531052426854,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3264">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690750000B0289</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DIEME</SimpleData>
+					<SimpleData name="Adresse">GROLY</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9551924189839 </north>
+			<south> 45.9548305910681 </south>
+			<east> 4.46859191238371 </east>
+			<west> 4.46810550099568 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.46819558483533,45.9548305910681,0 4.46810550099568,45.9548662542833,0 4.46846348744856,45.9551924189839,0 4.46859191238371,45.95514184769011,0 4.468418214178,45.95503935566029,0 4.46819558483533,45.9548305910681,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3305">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690750000B0292</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DIEME</SimpleData>
+					<SimpleData name="Adresse">GROLY</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.95546830744241 </north>
+			<south> 45.95514184769011 </south>
+			<east> 4.4692889437154 </east>
+			<west> 4.46846348744856 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.46859191238371,45.95514184769011,0 4.46846348744856,45.9551924189839,0 4.46873697674617,45.9553084769058,0 4.46915831139866,45.95542423660531,0 4.46916994657009,45.95546830744241,0 4.4692889437154,45.95543704153521,0 4.46922740617867,45.95534237151179,0 4.46874763385064,45.95523358480141,0 4.46859191238371,45.95514184769011,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3322">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690750000B0294</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DIEME</SimpleData>
+					<SimpleData name="Adresse">FOND L HERMITE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.95800496114829 </north>
+			<south> 45.9577836778794 </south>
+			<east> 4.47297268814957 </east>
+			<west> 4.47225270522665 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.47233751282692,45.9579860766558,0 4.47261331064636,45.9579075552164,0 4.47292131903951,45.95800496114829,0 4.47297268814957,45.9579122463855,0 4.47256777097796,45.9577836778794,0 4.47225270522665,45.9578810831648,0 4.47229088918732,45.9579568715512,0 4.47233751282692,45.9579860766558,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3387">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690750000B0003</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DIEME</SimpleData>
+					<SimpleData name="Adresse">LES GRANDES ROCHES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.95377897859549 </north>
+			<south> 45.9521203523966 </south>
+			<east> 4.46722556202328 </east>
+			<west> 4.46477976654678 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.46657795303705,45.95289868550639,0 4.4665856721546,45.9528782308467,0 4.46661309663113,45.9528219452701,0 4.46664780215125,45.9527675467705,0 4.46668981027741,45.9527158456451,0 4.46673900150943,45.9526672036931,0 4.46679149558181,45.9526407649277,0 4.46694146703833,45.9525606451716,0 4.46708615505613,45.95247609044931,0 4.46722556202328,45.9523871908149,0 4.46654310953609,45.9521333158931,0 4.46650790173888,45.9521203523966,0 4.46645414815776,45.95223525099211,0 4.46634441050232,45.9523764532261,0 4.46623389469468,45.95250784836289,0 4.46574097608824,45.9523405874175,0 4.46562446187328,45.9525134894185,0 4.46559705385595,45.9525413140588,0 4.46556335426461,45.9525656175616,0 4.46552411839368,45.952585669624,0 4.46552041588332,45.9525872486626,0 4.46533064473222,45.9526905780685,0 4.4652542638709,45.95280928150039,0 4.46511268094686,45.9529621528083,0 4.46505562038181,45.9529917120874,0 4.46499507215121,45.9530649078269,0 4.46489595353223,45.9531929117578,0 4.46485917620622,45.9532520198741,0 4.46480233719336,45.9533239065948,0 4.46477976654678,45.9533540101114,0 4.46562205630415,45.95373308785589,0 4.46564715355381,45.9537445613849,0 4.46572270352567,45.95377897859549,0 4.46595533535083,45.9534811839969,0 4.46657795303705,45.95289868550639,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3501">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690750000B0031</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DIEME</SimpleData>
+					<SimpleData name="Adresse">GROLY</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9597100293084 </north>
+			<south> 45.9573703061575 </south>
+			<east> 4.47290125801205 </east>
+			<west> 4.47008222491503 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.47045780229746,45.95970661086851,0 4.47067073752241,45.9595948662969,0 4.47087559114126,45.9594803442407,0 4.47115620308159,45.95929647805599,0 4.47127087595199,45.9592674279126,0 4.47148750705125,45.9590911472526,0 4.47171328318619,45.958846388001,0 4.47198850308727,45.95880885520339,0 4.47232335960532,45.9588428682575,0 4.47242094689756,45.958822054919,0 4.47270142430696,45.9586914149194,0 4.47290125801205,45.9585439906363,0 4.4727660590051,45.958384893658,0 4.4727130045971,45.9582214855644,0 4.47233751282692,45.9579860766558,0 4.47229088918732,45.9579568715512,0 4.47225270522665,45.9578810831648,0 4.47224847718158,45.9578726720493,0 4.47205428519018,45.957487197749,0 4.47205170494701,45.9574824578611,0 4.47167925693077,45.9573703061575,0 4.47157025854977,45.9577468434976,0 4.47140674434124,45.9579680068333,0 4.47108876158981,45.95815452094121,0 4.47104540646831,45.9581848057548,0 4.47095184304908,45.95824987755981,0 4.47069448337111,45.9584290280391,0 4.47041966024226,45.9586651456258,0 4.47008222491503,45.9588343468273,0 4.47040167384168,45.959587463554,0 4.47045117837773,45.9597100293084,0 4.47045780229746,45.95970661086851,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3525">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690750000B0311</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DIEME</SimpleData>
+					<SimpleData name="Adresse">SAINT MARTIN</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.96077973994739 </north>
+			<south> 45.9600208596024 </south>
+			<east> 4.4811040678282 </east>
+			<west> 4.4796915303088 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.4796915303088,45.9600208596024,0 4.47970693192753,45.9600317362969,0 4.48007500009589,45.96028712279589,0 4.48044877204412,45.9605383806235,0 4.4811040678282,45.96077973994739,0 4.47986892334709,45.96004321864889,0 4.4796915303088,45.9600208596024,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3545">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690750000B0314</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DIEME</SimpleData>
+					<SimpleData name="Adresse">SAINT MARTIN</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.96077973994739 </north>
+			<south> 45.9599881317641 </south>
+			<east> 4.48114459314112 </east>
+			<west> 4.4796915303088 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.4796915303088,45.9600208596024,0 4.47986892334709,45.96004321864889,0 4.4811040678282,45.96077973994739,0 4.48114459314112,45.96075480210221,0 4.47990242108584,45.9600210750671,0 4.47976994251139,45.9599881317641,0 4.47971196280303,45.9600123065461,0 4.4796915303088,45.9600208596024,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3611">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690750000B0322</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DIEME</SimpleData>
+					<SimpleData name="Adresse">LES CHARMILLES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9486567221842 </north>
+			<south> 45.9485101913176 </south>
+			<east> 4.47589449788035 </east>
+			<west> 4.47464000151092 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.47464000151092,45.9485498102792,0 4.47465907289023,45.94857252837119,0 4.4747294987721,45.9486567221842,0 4.47476107233706,45.9486448725382,0 4.47483981250781,45.948620069385,0 4.47492166582951,45.9486006295072,0 4.47505944267683,45.9485866752462,0 4.47546961441942,45.9486293335986,0 4.47561558756711,45.94862734052211,0 4.4757736749692,45.94861005838201,0 4.47589449788035,45.9485753390126,0 4.47530242407399,45.94856225300029,0 4.47482589557355,45.9485101913176,0 4.47468249384717,45.9485407004752,0 4.47464000151092,45.9485498102792,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3624">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690750000B0324</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DIEME</SimpleData>
+					<SimpleData name="Adresse">LES CHARMILLES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.94876602405141 </north>
+			<south> 45.9485498102792 </south>
+			<east> 4.4747294987721 </east>
+			<west> 4.47443507812166 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.47464000151092,45.9485498102792,0 4.47460465347493,45.9485701751755,0 4.47449085177781,45.9486356939769,0 4.47443507812166,45.94876602405141,0 4.4747294987721,45.9486567221842,0 4.47465907289023,45.94857252837119,0 4.47464000151092,45.9485498102792,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3666">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690750000B0329</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DIEME</SimpleData>
+					<SimpleData name="Adresse">SAINT MARTIN</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9608427363193 </north>
+			<south> 45.96063458679991 </south>
+			<east> 4.4809679440323 </east>
+			<west> 4.48059212244438 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.4809679440323,45.9607698123066,0 4.48059212244438,45.96063458679991,0 4.48090817571356,45.9608427363193,0 4.4809679440323,45.9607698123066,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3692">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690750000B0330</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DIEME</SimpleData>
+					<SimpleData name="Adresse">SAINT MARTIN</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.961135944936 </north>
+			<south> 45.960861705905 </south>
+			<east> 4.48172705019185 </east>
+			<west> 4.48105410963618 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.48161289519704,45.960861705905,0 4.48160865784946,45.9608722089154,0 4.48155250549675,45.9610075010842,0 4.48105921276961,45.9609221793281,0 4.48105410963618,45.9609389081358,0 4.48109802215707,45.9609678749985,0 4.48109737727243,45.961135944936,0 4.48122215607155,45.9610985565553,0 4.48127474592225,45.9610900327949,0 4.48136346587764,45.96108040579,0 4.48154498793996,45.96107848071669,0 4.48160140114823,45.96105846849739,0 4.48172705019185,45.96096225563681,0 4.48161289519704,45.960861705905,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.4076">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69075000AB0377</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DIEME</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.962244183756 </north>
+			<south> 45.962046188177 </south>
+			<east> 4.46573303815373 </east>
+			<west> 4.46556583369534 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.46565191580156,45.962244183756,0 4.46573303815373,45.96224007130499,0 4.46568926300886,45.962046188177,0 4.46566414272199,45.962106766734,0 4.46565544126767,45.9621194884546,0 4.46561351127024,45.9621744304086,0 4.46556583369534,45.9622269249367,0 4.46564426139432,45.9622186143874,0 4.46565191580156,45.962244183756,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.4094">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69075000AB0379</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DIEME</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9629022009626 </north>
+			<south> 45.96224007130499 </south>
+			<east> 4.46586030902077 </east>
+			<west> 4.46565191580156 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.46565191580156,45.962244183756,0 4.4657248612673,45.9624859639671,0 4.46579150539083,45.96272872637201,0 4.46580879513365,45.962796051106,0 4.46586030902077,45.9629022009626,0 4.46583414327812,45.9627440257237,0 4.46578687535659,45.96249173580149,0 4.46573303815373,45.96224007130499,0 4.46565191580156,45.962244183756,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.4205">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69075000AB0397</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DIEME</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9601550320755 </north>
+			<south> 45.9597903207674 </south>
+			<east> 4.46540516123301 </east>
+			<west> 4.46523424435175 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.46540516123301,45.9597903207674,0 4.46536487724304,45.9598002990186,0 4.46526868283501,45.9599658222856,0 4.46523424435175,45.9600693021304,0 4.46525602566328,45.9601550320755,0 4.46531734121467,45.9599939231409,0 4.46538527615471,45.9598340794566,0 4.46540516123301,45.9597903207674,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6040">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690750000B0075</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DIEME</SimpleData>
+					<SimpleData name="Adresse">SIGAUDIERE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.96803423384401 </north>
+			<south> 45.9658773882717 </south>
+			<east> 4.47695369266607 </east>
+			<west> 4.4724213310241 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.47275432472318,45.9658790792879,0 4.4724213310241,45.9661529747002,0 4.47269418710524,45.9663299159976,0 4.47266662244177,45.96638098109311,0 4.47263118724534,45.96644682913511,0 4.47269640252675,45.9666107096317,0 4.47285556409541,45.9668295685346,0 4.47294967153752,45.9669147165547,0 4.47296415117829,45.9669393861032,0 4.47311202913465,45.9671805474402,0 4.47324027945497,45.96740250996841,0 4.47447811643606,45.96803423384401,0 4.47494591968183,45.9678121649905,0 4.47560332486272,45.9674793651561,0 4.47635229100669,45.9672765021793,0 4.47664919424713,45.96690948819731,0 4.47693181373283,45.9664049502973,0 4.47695369266607,45.9662528152645,0 4.47695367939948,45.966141585137,0 4.47694228823216,45.9661117420829,0 4.4764360262679,45.9662810925845,0 4.47558880421618,45.9658773882717,0 4.47449736831255,45.9661633337538,0 4.47370735351226,45.9662750327607,0 4.4733590982522,45.9661619404139,0 4.47292700965555,45.96600004170071,0 4.47275432472318,45.9658790792879,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6065">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69075000AB0076</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DIEME</SimpleData>
+					<SimpleData name="Adresse">LE TREVE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9716501183908 </north>
+			<south> 45.9696560087561 </south>
+			<east> 4.46864345300921 </east>
+			<west> 4.4660629508644 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.46631824475625,45.9716501183908,0 4.46634490068017,45.9716422077567,0 4.46690876868848,45.971605543121,0 4.46792617651639,45.9714104270686,0 4.46813149489937,45.9713744411383,0 4.46819881147053,45.9712347783971,0 4.46842425465909,45.9707572132825,0 4.46864345300921,45.9702781074987,0 4.46846918111519,45.9699912596582,0 4.46838350587689,45.9699655314424,0 4.46812540741684,45.9698916927206,0 4.46786483531938,45.9698219384045,0 4.46742532106468,45.9697259521853,0 4.46705253794615,45.9696815173988,0 4.46682511710118,45.9696585251396,0 4.4667551735157,45.9696560087561,0 4.4666857280271,45.96966249235739,0 4.46664900915761,45.9696708036269,0 4.46656615580817,45.9696927718435,0 4.46648561250365,45.9697190331898,0 4.46638258942848,45.9697596357188,0 4.46627228359892,45.9698080780347,0 4.46616556445837,45.9698602565182,0 4.4660629508644,45.96991625452599,0 4.46650995676074,45.9707444658404,0 4.46631824475625,45.9716501183908,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6196">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690750000B0008</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DIEME</SimpleData>
+					<SimpleData name="Adresse">LES GRANDES ROCHES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9520094688352 </north>
+			<south> 45.9499458527989 </south>
+			<east> 4.47006071816461 </east>
+			<west> 4.46665414263528 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.46935306540909,45.9508471340723,0 4.46916254711395,45.9507622442077,0 4.47006071816461,45.9499458527989,0 4.46990986307909,45.94998275717271,0 4.4695444039685,45.9499756141,0 4.46917054414184,45.9500117199609,0 4.46913496498317,45.9500235299486,0 4.46894003515837,45.9500926178556,0 4.4687487266366,45.9501667921261,0 4.46856583195512,45.9502272571075,0 4.46816093153298,45.9503825578684,0 4.46788282882836,45.9505429676986,0 4.46776223050176,45.950644593654,0 4.4684303460573,45.9509665559557,0 4.46814075522128,45.9513596628506,0 4.46768849416619,45.9512110668874,0 4.46759321127519,45.9513082213966,0 4.4671225348047,45.9511032111954,0 4.46680028687941,45.9512643705969,0 4.46676314675901,45.95129034022591,0 4.46673095417763,45.95131300339769,0 4.46665414263528,45.9513668667562,0 4.46672433078298,45.9513988309257,0 4.46674877223476,45.9514099524384,0 4.46749469469486,45.951754058695,0 4.46804445210519,45.9520094688352,0 4.46827487376783,45.9517699698276,0 4.46849849991685,45.9515274962837,0 4.46857999520274,45.9514362840358,0 4.46884035613861,45.9511479404687,0 4.46903333243338,45.9512136151696,0 4.46919134984626,45.951265963394,0 4.46921583914686,45.9512740215533,0 4.46955534503217,45.9509372748163,0 4.4695191496946,45.950921172808,0 4.46936352096985,45.9508518618458,0 4.46935306540909,45.9508471340723,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6349">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690750000B0084</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DIEME</SimpleData>
+					<SimpleData name="Adresse">CREUX DE BROU</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.96198063828281 </north>
+			<south> 45.9614299211638 </south>
+			<east> 4.47754961850708 </east>
+			<west> 4.47636450583493 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.47691736855958,45.9619472804321,0 4.47714258665319,45.96198063828281,0 4.47716348590663,45.9618739087303,0 4.47731875724019,45.9618080265503,0 4.4773262895068,45.9618047759832,0 4.47749343614039,45.9617338750807,0 4.47754961850708,45.9617099951243,0 4.47713646736034,45.9615551608692,0 4.47687792137859,45.9614299211638,0 4.47685014997186,45.9614441534654,0 4.47671257162847,45.9615148478639,0 4.47657025436389,45.9616303662121,0 4.47637237590438,45.9617448076576,0 4.47636450583493,45.96175472737669,0 4.4765880353229,45.9618985280464,0 4.47691736855958,45.9619472804321,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6415">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690750000B0086</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DIEME</SimpleData>
+					<SimpleData name="Adresse">CREUX DE BROU</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.96172562297671 </north>
+			<south> 45.9603160514132 </south>
+			<east> 4.47687590613839 </east>
+			<west> 4.47358822586614 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.47361206441528,45.9607894261315,0 4.47441858918069,45.9609644587346,0 4.47446811780096,45.96095732899139,0 4.47466313624788,45.9609289401945,0 4.47507980866536,45.9608685721948,0 4.4754949843533,45.9612535935488,0 4.4756327151617,45.96138131184039,0 4.47566754611456,45.9614136414897,0 4.47630398176572,45.96165041078069,0 4.47636553347751,45.96172562297671,0 4.47654688873995,45.9616258975153,0 4.47670067144053,45.9614996920363,0 4.47683550620476,45.9614326360431,0 4.47687590613839,45.9614125649043,0 4.47685022569249,45.9613073437094,0 4.47682423105472,45.96129633462089,0 4.47636764044447,45.96110099464461,0 4.47603275515617,45.960724476503,0 4.47587191964724,45.96075134126799,0 4.47580638343715,45.9607104955341,0 4.47524516538561,45.9603597118961,0 4.47522281666253,45.9603160514132,0 4.47516586737414,45.960340210409,0 4.47473474634971,45.9604684958619,0 4.47449714031795,45.9604882528744,0 4.47426084784026,45.960513666373,0 4.47416598399586,45.96052534924171,0 4.47405767157707,45.9605653074105,0 4.47390076289492,45.96062310058469,0 4.47358822586614,45.9607383093423,0 4.47361206441528,45.9607894261315,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6443">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690750000B0087</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DIEME</SimpleData>
+					<SimpleData name="Adresse">CREUX DE BROU</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.96075134126799 </north>
+			<south> 45.9606626664866 </south>
+			<east> 4.47603275515617 </east>
+			<west> 4.47580638343715 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.47603275515617,45.960724476503,0 4.47597944186916,45.9606626664866,0 4.47580638343715,45.9607104955341,0 4.47587191964724,45.96075134126799,0 4.47603275515617,45.960724476503,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6449">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69075000AC0087</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DIEME</SimpleData>
+					<SimpleData name="Adresse">LES SAGNOLS</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.95588459066919 </north>
+			<south> 45.9558533772946 </south>
+			<east> 4.45009704965382 </east>
+			<west> 4.45004514594691 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.45004514594691,45.95588053634129,0 4.4500872196331,45.95588459066919,0 4.45009704965382,45.9558606877281,0 4.45005605240596,45.9558533772946,0 4.45004514594691,45.95588053634129,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6502">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690750000B0089</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DIEME</SimpleData>
+					<SimpleData name="Adresse">CREUX DE BROU</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9603597118961 </north>
+			<south> 45.9601835468565 </south>
+			<east> 4.47568726956415 </east>
+			<west> 4.47522281666253 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.47522281666253,45.9603160514132,0 4.47524516538561,45.9603597118961,0 4.47564271111914,45.960294187105,0 4.47568726956415,45.9601835468565,0 4.47534770387876,45.960263357073,0 4.47522281666253,45.9603160514132,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6661">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690750000B0094</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DIEME</SimpleData>
+					<SimpleData name="Adresse">CREUX DE BROU</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.961295701396 </north>
+			<south> 45.9605314093856 </south>
+			<east> 4.47795573021351 </east>
+			<west> 4.47600711784154 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.47795573021351,45.9609144633765,0 4.47779784620769,45.96081069803851,0 4.47748232080635,45.9606265804682,0 4.47734907671405,45.9605314093856,0 4.47600711784154,45.96065933350609,0 4.47639109619312,45.96109438420349,0 4.47687277165532,45.961295701396,0 4.47702966167347,45.960741375843,0 4.47728747528362,45.9608394250822,0 4.47754116008808,45.9609423911453,0 4.47766486897274,45.96099499564919,0 4.47795573021351,45.9609144633765,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6698">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690750000B0095</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DIEME</SimpleData>
+					<SimpleData name="Adresse">CREUX DE BROU</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9616979041892 </north>
+			<south> 45.960741375843 </south>
+			<east> 4.4780144567024 </east>
+			<west> 4.47687277165532 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.47687277165532,45.961295701396,0 4.47687465035362,45.96130315228431,0 4.47690440199466,45.961425342652,0 4.47712451982999,45.9615334309552,0 4.47728899348017,45.9615939701036,0 4.47757202330857,45.9616979041892,0 4.4780144567024,45.9614665159367,0 4.47766486897274,45.96099499564919,0 4.47754116008808,45.9609423911453,0 4.47728747528362,45.9608394250822,0 4.47702966167347,45.960741375843,0 4.47687277165532,45.961295701396,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6747">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690750000B0097</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DIEME</SimpleData>
+					<SimpleData name="Adresse">CREUX DE BROU</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9629189655484 </north>
+			<south> 45.9609144633765 </south>
+			<east> 4.47882731797657 </east>
+			<west> 4.47766486897274 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.47795573021351,45.9609144633765,0 4.47766486897274,45.96099499564919,0 4.4780144567024,45.9614665159367,0 4.47807973300411,45.9614350415852,0 4.47833267049702,45.9617216583303,0 4.47858452898367,45.9619968503741,0 4.47784422803352,45.9629189655484,0 4.47795836701185,45.9628650577018,0 4.47821309273447,45.9627225815459,0 4.47844113743277,45.96254361662341,0 4.47868277562824,45.9623130465259,0 4.47875815103013,45.96221037855049,0 4.47882731797657,45.96205447310189,0 4.4788262587269,45.9619909910686,0 4.47881707351182,45.96192788537609,0 4.47881340353934,45.9619114514085,0 4.47874729620745,45.9617725339383,0 4.47868678071777,45.9616879426932,0 4.4784185093325,45.9614315186285,0 4.47795573021351,45.9609144633765,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6776">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690750000B0098</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DIEME</SimpleData>
+					<SimpleData name="Adresse">SAINT MARTIN</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9628493649532 </north>
+			<south> 45.96000952446289 </south>
+			<east> 4.47980901113386 </east>
+			<west> 4.47713603601248 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.47713603601248,45.9602730007546,0 4.47722603814471,45.9603641430233,0 4.47732253989381,45.96045204813061,0 4.47742565587511,45.9605361741741,0 4.47743066779784,45.96054007162721,0 4.47757451618366,45.96064059817819,0 4.47791891436393,45.9608419012549,0 4.47805584658514,45.96097818326399,0 4.47855553126372,45.9615229464975,0 4.47873410172843,45.9616851630427,0 4.47877687361145,45.96173900365351,0 4.47881234983578,45.96179528124059,0 4.47884000915324,45.9618538224894,0 4.4788552415953,45.9618968547421,0 4.47887494703225,45.96201025944291,0 4.47886715169949,45.962075838575,0 4.47885041652301,45.9621307266778,0 4.47882550694564,45.9621841904502,0 4.47879318303425,45.9622356795679,0 4.47875329632815,45.962284475443,0 4.47874287846931,45.9622956895217,0 4.47853757867158,45.9625136263994,0 4.47841128900509,45.96262479476511,0 4.47828115492161,45.9627130465938,0 4.47804279483134,45.9628493649532,0 4.4785874541019,45.9627117486038,0 4.47911847708826,45.96242236798519,0 4.47968873112205,45.9617957187114,0 4.47973417685571,45.96173757312761,0 4.47980901113386,45.96141785463429,0 4.47943592415469,45.9609903283489,0 4.47939120061371,45.96092633613619,0 4.47935583731998,45.9608261955621,0 4.4793635178395,45.96073233745239,0 4.47938375425065,45.9605626606001,0 4.47941227197818,45.960393596042,0 4.47942059059348,45.9603907853806,0 4.47946938785248,45.96023631652359,0 4.4794725767526,45.960220423395,0 4.47948729666716,45.9601770898511,0 4.47950967426105,45.9601351873329,0 4.479539609454,45.96009579792469,0 4.4795840449673,45.9600673870639,0 4.47963552894549,45.960041766143,0 4.4796915303088,45.9600208596024,0 4.47971196280303,45.9600123065461,0 4.47963292083398,45.9600119886893,0 4.47939420467969,45.96000952446289,0 4.47896636546234,45.96000953064811,0 4.47853867854854,45.9600152073261,0 4.47739243054012,45.9602267840605,0 4.47713603601248,45.9602730007546,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6801">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690750000B0099</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DIEME</SimpleData>
+					<SimpleData name="Adresse">SAINT MARTIN</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9623943281802 </north>
+			<south> 45.9614257720212 </south>
+			<east> 4.48014806380881 </east>
+			<west> 4.47916899448217 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.47982342963411,45.9614257720212,0 4.47975237508642,45.9617900233373,0 4.4797168744072,45.9618097612818,0 4.4796823176563,45.9618357914332,0 4.47965418106078,45.9618652502012,0 4.47961777950393,45.9619091373295,0 4.47947511229639,45.9620739295658,0 4.4793253906206,45.96223575157891,0 4.47916899448217,45.9623943281802,0 4.47974422912194,45.9621308460215,0 4.48014806380881,45.9620539651716,0 4.47982342963411,45.9614257720212,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

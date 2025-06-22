@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>ODENAS_HLM</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_5">
+		<name>ODENAS_HLM</name>
+		<Schema name="ODENAS_HLM" id="ODENAS_HLM.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="HLM">
+			<LineStyle>
+				<color>BFe451f5</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4Ce451f5</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.4964">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">691450000C0878</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ODENAS</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">HABITAT BEAUJOLAIS VAL DE SAONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.08771386457891 </north>
+			<south> 46.08765218553161 </south>
+			<east> 4.64595037273021 </east>
+			<west> 4.6457972052698 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.64595037273021,46.0877015047558,0 4.64594930750024,46.0876789130048,0 4.64594773002173,46.08765218553161,0 4.64589996677326,46.0876565711827,0 4.64584974782759,46.08766108250229,0 4.64581579679758,46.0876641869472,0 4.6457972052698,46.0876658076397,0 4.64579993947166,46.08771386457891,0 4.64595037273021,46.0877015047558,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.4997">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">691450000C0909</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ODENAS</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0870361102083 </north>
+			<south> 46.08697938558349 </south>
+			<east> 4.6451983406045 </east>
+			<west> 4.64500345377976 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.64500345377976,46.08701756603119,0 4.64501035180677,46.0870361102083,0 4.6451983406045,46.0870027613217,0 4.64518922672898,46.08697938558349,0 4.64500345377976,46.08701756603119,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.5002">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">691450000C0910</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ODENAS</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0869267701033 </north>
+			<south> 46.086873020436 </south>
+			<east> 4.6454345846079 </east>
+			<west> 4.64535796830156 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.6454345846079,46.0869166527427,0 4.64542668366727,46.0868948806662,0 4.64541865064941,46.086873020436,0 4.64536238359431,46.086883023368,0 4.64536059374845,46.0868837698707,0 4.64535945353384,46.0868845970217,0 4.64535845079554,46.08688569238469,0 4.64535796830156,46.0868868702722,0 4.64535814352827,46.0868883988962,0 4.64537018495719,46.08692308080371,0 4.64537073755964,46.0869242436813,0 4.64537153815033,46.0869250426886,0 4.64537259212221,46.08692565788461,0 4.64537364339764,46.08692618305119,0 4.64537534160843,46.0869266988364,0 4.64537663817561,46.0869267701033,0 4.64537818542746,46.0869265675294,0 4.6454345846079,46.0869166527427,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.5003">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">691450000C0911</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ODENAS</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0869170761795 </north>
+			<south> 46.08686774357771 </south>
+			<east> 4.64516124624746 </east>
+			<west> 4.64500723252804 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.64500723252804,46.08689303655411,0 4.64501076105467,46.0869028028665,0 4.64504615114747,46.0869131880705,0 4.64504928609208,46.0869141333731,0 4.64505386316608,46.0869156882469,0 4.64505868283867,46.08691669919221,0 4.64506374241373,46.0869170761795,0 4.64507124686302,46.0869169673771,0 4.64516124624746,46.0869008912552,0 4.64514899201531,46.08686774357771,0 4.64500723252804,46.08689303655411,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.5006">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">691450000C0912</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ODENAS</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.08701756603119 </north>
+			<south> 46.0868226659406 </south>
+			<east> 4.64545276676252 </east>
+			<west> 4.64499711644033 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.64500345377976,46.08701756603119,0 4.64518922672898,46.08697938558349,0 4.6451983406045,46.0870027613217,0 4.6452025026275,46.0870120681008,0 4.64542702146247,46.0869709836749,0 4.64545276676252,46.0869661969676,0 4.6454345846079,46.0869166527427,0 4.64537818542746,46.0869265675294,0 4.64537663817561,46.0869267701033,0 4.64537534160843,46.0869266988364,0 4.64537364339764,46.08692618305119,0 4.64537259212221,46.08692565788461,0 4.64537153815033,46.0869250426886,0 4.64537073755964,46.0869242436813,0 4.64537018495719,46.08692308080371,0 4.64535814352827,46.0868883988962,0 4.64535796830156,46.0868868702722,0 4.64535845079554,46.08688569238469,0 4.64535945353384,46.0868845970217,0 4.64536059374845,46.0868837698707,0 4.64536238359431,46.086883023368,0 4.64541865064941,46.086873020436,0 4.6454004442877,46.0868226659406,0 4.64514899201531,46.08686774357771,0 4.64516124624746,46.0869008912552,0 4.64507124686302,46.0869169673771,0 4.64506374241373,46.0869170761795,0 4.64505868283867,46.08691669919221,0 4.64505386316608,46.0869156882469,0 4.64504928609208,46.0869141333731,0 4.64504615114747,46.0869131880705,0 4.64501076105467,46.0869028028665,0 4.64501400384953,46.08691167263629,0 4.64501176927001,46.08692350400901,0 4.64499711644033,46.0870004548214,0 4.64500345377976,46.08701756603119,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.5007">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">691450000C0913</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ODENAS</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0875268077637 </north>
+			<south> 46.0872240332906 </south>
+			<east> 4.64517492225661 </east>
+			<west> 4.64510626927717 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.64510626927717,46.08722629531491,0 4.64514463881142,46.0873361630093,0 4.6451715770292,46.0875268077637,0 4.64517492225661,46.0875261287811,0 4.64514755275162,46.0873383724732,0 4.64511940482122,46.0872240332906,0 4.64510626927717,46.08722629531491,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.5105">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">691450000C0992</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ODENAS</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0875314312322 </north>
+			<south> 46.0870004548214 </south>
+			<east> 4.6451715770292 </east>
+			<west> 4.64497883241262 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.64497883241262,46.0870036921581,0 4.64499219715532,46.0870393456713,0 4.64506480591365,46.0872335615402,0 4.64508396912897,46.0873029066709,0 4.6450841254772,46.08730380508931,0 4.64511390147685,46.0874119960156,0 4.64514466155317,46.0875314312322,0 4.6451715770292,46.0875268077637,0 4.64514463881142,46.0873361630093,0 4.64510626927717,46.08722629531491,0 4.64508180422291,46.08723061303721,0 4.64501035180677,46.0870361102083,0 4.64500345377976,46.08701756603119,0 4.64499711644033,46.0870004548214,0 4.64497883241262,46.0870036921581,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

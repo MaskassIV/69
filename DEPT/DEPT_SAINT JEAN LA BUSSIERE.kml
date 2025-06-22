@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>SAINT JEAN LA BUSSIERE_DEPT</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_3">
+		<name>SAINT JEAN LA BUSSIERE_DEPT</name>
+		<Schema name="SAINT JEAN LA BUSSIERE_DEPT" id="SAINT JEAN LA BUSSIERE_DEPT.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="DEPT">
+			<LineStyle>
+				<color>BF63f16c</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C63f16c</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2940">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">692140000D0026</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT JEAN LA BUSSIERE</SimpleData>
+					<SimpleData name="Adresse">LA MADONE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.00405481717151 </north>
+			<south> 46.0011106816981 </south>
+			<east> 4.33492127457592 </east>
+			<west> 4.33267093209972 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.33267093209972,46.0034718912483,0 4.33490873221977,46.00405481717151,0 4.33492127457592,46.00396451724659,0 4.33484379222217,46.003764591681,0 4.33477442167754,46.00356339969629,0 4.33476800010953,46.0035437517518,0 4.3347395322949,46.0035422858841,0 4.33469417105701,46.0034197954551,0 4.33471810655171,46.00341023709031,0 4.334660136508,46.0032527709746,0 4.33458057280082,46.0031640964392,0 4.33455601795029,46.0031694291536,0 4.33448386329946,46.0030718411969,0 4.33450772879941,46.003059401713,0 4.33441406002213,46.00289001745869,0 4.33438835377361,46.0028905003469,0 4.33433468726344,46.0027772038749,0 4.3343598905105,46.00276663996949,0 4.33437827044038,46.0025972869139,0 4.33466641685298,46.00227029977399,0 4.33469749514894,46.0020863871261,0 4.33472028498899,46.00190176155341,0 4.33473492875638,46.0017169617568,0 4.33474001411593,46.0016016223735,0 4.33471309191468,46.0013122098075,0 4.33468746611669,46.0012307353249,0 4.3346539878917,46.0011505241497,0 4.33463402440328,46.0011106816981,0 4.33424303401724,46.00160900731331,0 4.33418430625832,46.00167598460709,0 4.33386305991069,46.00185836029381,0 4.33359086805071,46.0019745924574,0 4.33346194029083,46.00210453847851,0 4.33307733797592,46.002877924243,0 4.33280675406978,46.0033649209736,0 4.33267093209972,46.0034718912483,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3144">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">692140000B0279</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT JEAN LA BUSSIERE</SimpleData>
+					<SimpleData name="Adresse">LE MARNANTON</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0111075049766 </north>
+			<south> 46.0106754708089 </south>
+			<east> 4.31502762867374 </east>
+			<west> 4.31487112522103 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.31495849119698,46.0106754708089,0 4.3148956777274,46.0108270530466,0 4.31487112522103,46.01099494275619,0 4.31499803208391,46.0110481375412,0 4.31501563776313,46.0110708989607,0 4.31502580041495,46.01109590823521,0 4.31502762867374,46.0111075049766,0 4.31500239970522,46.0109172272161,0 4.31496917230707,46.0107275826406,0 4.31495849119698,46.0106754708089,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3561">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">692140000B0317</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT JEAN LA BUSSIERE</SimpleData>
+					<SimpleData name="Adresse">LE MARNANTON</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0083445172485 </north>
+			<south> 46.00815211055901 </south>
+			<east> 4.32244263923861 </east>
+			<west> 4.32204207987669 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.3222081544853,46.0083445172485,0 4.32238841929979,46.0082031779849,0 4.32244263923861,46.00815211055901,0 4.32232561953218,46.0081984171103,0 4.32220498973124,46.0082397222019,0 4.32208087041814,46.0082756641685,0 4.32204207987669,46.0082857533833,0 4.3222081544853,46.0083445172485,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.4797">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">692140000D0049</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT JEAN LA BUSSIERE</SimpleData>
+					<SimpleData name="Adresse">CHAMERE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.003896722266 </north>
+			<south> 46.0010710195894 </south>
+			<east> 4.33626222621205 </east>
+			<west> 4.33464257777937 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.33482784523123,46.0010722833712,0 4.33482044836528,46.0010710195894,0 4.3349045452376,46.00161832674819,0 4.33492103310017,46.0018185206309,0 4.33491867757225,46.0018439458949,0 4.33490169675407,46.00197500618989,0 4.33487655895567,46.00210544209181,0 4.3348163020233,46.0022585370888,0 4.3347254209558,46.002507728828,0 4.33464257777937,46.0027579966044,0 4.33468117105645,46.00309698596549,0 4.33481863061023,46.0033080932207,0 4.3349183282968,46.00365131601989,0 4.33500215535497,46.0038410798233,0 4.33505701011162,46.003896722266,0 4.33518285651095,46.0030645966106,0 4.33606456882708,46.0023113701651,0 4.33626222621205,46.0018082036589,0 4.33541189057279,46.00244803401501,0 4.33482784523123,46.0010722833712,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.4854">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">692140000D0050</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT JEAN LA BUSSIERE</SimpleData>
+					<SimpleData name="Adresse">CHAMERE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.00244803401501 </north>
+			<south> 46.0005118510143 </south>
+			<east> 4.33693643642665 </east>
+			<west> 4.33482784523123 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.33482784523123,46.0010722833712,0 4.33541189057279,46.00244803401501,0 4.33626222621205,46.0018082036589,0 4.3363511736934,46.0017723905551,0 4.33693643642665,46.00153690801089,0 4.33648351925753,46.0005118510143,0 4.33598106548349,46.0006979014391,0 4.3357037869817,46.00089165219689,0 4.33512625161365,46.0011206429231,0 4.33482784523123,46.0010722833712,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.4902">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">692140000D0051</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT JEAN LA BUSSIERE</SimpleData>
+					<SimpleData name="Adresse">CHAMERE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0011206429231 </north>
+			<south> 45.999996222339 </south>
+			<east> 4.33648351925753 </east>
+			<west> 4.33475416720718 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.33648351925753,46.0005118510143,0 4.33595779853163,46.0001388000198,0 4.33567597713741,45.999996222339,0 4.335350111682,46.000355088537,0 4.33497661684773,46.0006898379768,0 4.33475416720718,46.0009650769142,0 4.33475744948853,46.0009671997346,0 4.33478409500057,46.0009894913947,0 4.33480396311047,46.00101474488581,0 4.33481613415982,46.0010423406122,0 4.33482044836528,46.0010710195894,0 4.33482784523123,46.0010722833712,0 4.33512625161365,46.0011206429231,0 4.3357037869817,46.00089165219689,0 4.33598106548349,46.0006979014391,0 4.33648351925753,46.0005118510143,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.4947">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">692140000D0052</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT JEAN LA BUSSIERE</SimpleData>
+					<SimpleData name="Adresse">CHAMERE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.00153690801089 </north>
+			<south> 46.00039252948181 </south>
+			<east> 4.33806201093157 </east>
+			<west> 4.33648351925753 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.33693643642665,46.00153690801089,0 4.3375672020392,46.0010735683301,0 4.33774030063569,46.0008686145479,0 4.33806201093157,46.00039252948181,0 4.33650042626773,46.00050561740331,0 4.33648351925753,46.0005118510143,0 4.33693643642665,46.00153690801089,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.4984">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">692140000D0053</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT JEAN LA BUSSIERE</SimpleData>
+					<SimpleData name="Adresse">CHAMERE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0005118510143 </north>
+			<south> 45.9981734718212 </south>
+			<east> 4.3381982922124 </east>
+			<west> 4.33567597713741 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.33806201093157,46.00039252948181,0 4.3381982922124,46.0001935936375,0 4.33797497966774,46.0001456162415,0 4.33758953599634,45.99966383207899,0 4.33735161482003,45.99875413126069,0 4.33711232926556,45.99835698976071,0 4.33706619252169,45.998308990799,0 4.33702434059745,45.9982777828698,0 4.3369769028861,45.9982506936431,0 4.33693993139387,45.9982341982772,0 4.33681143627925,45.998195096585,0 4.33667543895578,45.9981822913476,0 4.33653867296641,45.99817507886819,0 4.33643060186775,45.9981734718212,0 4.33612655124335,45.998211371895,0 4.33584071732125,45.99937762469569,0 4.33581399985573,45.99950672854689,0 4.33582013460129,45.9996742618026,0 4.33580560357702,45.9997304517712,0 4.33577830345429,45.9998089475738,0 4.3357429518233,45.99988582711891,0 4.33567597713741,45.999996222339,0 4.33595779853163,46.0001388000198,0 4.33648351925753,46.0005118510143,0 4.33650042626773,46.00050561740331,0 4.33806201093157,46.00039252948181,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.5108">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">692140000D0557</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT JEAN LA BUSSIERE</SimpleData>
+					<SimpleData name="Adresse">GROMELON</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9968418192215 </north>
+			<south> 45.99364264421549 </south>
+			<east> 4.35150556067433 </east>
+			<west> 4.34728641261416 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.34774196184438,45.993964238146,0 4.34806638503016,45.9941737355698,0 4.34835359864061,45.99437277745351,0 4.34888096098573,45.99477466178519,0 4.34915033597529,45.9949942682266,0 4.3492457862946,45.9950663521115,0 4.34960109140915,45.9953595957264,0 4.35011849871671,45.99574997506231,0 4.35097346076395,45.9964360547852,0 4.35117942144594,45.99660372630839,0 4.35137862064019,45.9967749005018,0 4.35145392070909,45.9968418192215,0 4.35150556067433,45.9967556438606,0 4.35102016021559,45.9963539013138,0 4.35052878366076,45.9959558305106,0 4.35020839888074,45.9957010804508,0 4.34976635143098,45.9953696951151,0 4.34949380557565,45.9951474259908,0 4.34939643710445,45.9950445638235,0 4.34922428955802,45.9949010734943,0 4.34905006500001,45.994757157337,0 4.34882596035249,45.9946236516527,0 4.34837461873321,45.9942603095468,0 4.34815312998401,45.9941279422474,0 4.34782598518686,45.9939181172042,0 4.34738456029717,45.99364264421549,0 4.34728641261416,45.9936871315738,0 4.34774196184438,45.993964238146,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.5113">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">692140000D0559</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT JEAN LA BUSSIERE</SimpleData>
+					<SimpleData name="Adresse">LA MAZILLE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0001958557629 </north>
+			<south> 45.9982579140111 </south>
+			<east> 4.35313607832403 </east>
+			<west> 4.35253914757078 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.35263506016926,45.9982579140111,0 4.35253914757078,45.99829886674711,0 4.35255172308423,45.9985528728108,0 4.35255629563623,45.9988072446084,0 4.35255233950513,45.9990616281661,0 4.35255086005506,45.9991065869856,0 4.3525890798595,45.9992630194452,0 4.35264223506434,45.9994172021358,0 4.35272609473938,45.99954823238969,0 4.35281752174483,45.9996769206629,0 4.3528390342794,45.99970566388371,0 4.35292845418689,45.9998683295819,0 4.3529729960208,45.99998749064121,0 4.35302154073198,46.0001958557629,0 4.3530809839987,46.0001852389588,0 4.35313607832403,46.000165938009,0 4.35311273430329,46.00007849599989,0 4.35307765617159,45.9999763338281,0 4.35303460150776,45.9998756178475,0 4.35298217502632,45.9997826690838,0 4.35287772504565,45.9995868598084,0 4.3527812413398,45.9993891540722,0 4.35275077180616,45.99932197106939,0 4.35271683820409,45.99922952187549,0 4.35269075873087,45.9991358981444,0 4.35268006046162,45.9990791964826,0 4.35267113290354,45.9989946443836,0 4.35267046905641,45.998909813491,0 4.3526764201724,45.9988417452918,0 4.3526861946556,45.99866636707309,0 4.35268769438945,45.99849081746761,0 4.35266896123098,45.99835432635831,0 4.35263506016926,45.9982579140111,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.5186">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">692140000E0574</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT JEAN LA BUSSIERE</SimpleData>
+					<SimpleData name="Adresse">CHAVANIS</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9800632491619 </north>
+			<south> 45.9799206697331 </south>
+			<east> 4.32401570998724 </east>
+			<west> 4.32343109175344 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.32356461361396,45.9800313264677,0 4.32353769104129,45.9799539176863,0 4.32368801452844,45.9799843128853,0 4.323849894505,45.9800440230417,0 4.32401570998724,45.9800632491619,0 4.32395513253838,45.980052879742,0 4.32388377027028,45.9800345307913,0 4.32381577155838,45.98001100894999,0 4.32375002034578,45.9799896222841,0 4.32364624983063,45.97996120480939,0 4.32353976595038,45.979938132604,0 4.32343109175344,45.9799206697331,0 4.32346825773872,45.9799835489276,0 4.32353155939678,45.9800051445069,0 4.32356461361396,45.9800313264677,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.5481">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">692140000C0624</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT JEAN LA BUSSIERE</SimpleData>
+					<SimpleData name="Adresse">LE BANCILLON</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0031813290643 </north>
+			<south> 46.0030299130983 </south>
+			<east> 4.352700849722 </east>
+			<west> 4.35256198139604 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.35256198139604,46.0031813290643,0 4.35258118421772,46.003173894823,0 4.35266920435857,46.003074405741,0 4.352700849722,46.0030421458187,0 4.35267689864627,46.0030299130983,0 4.35256198139604,46.0031813290643,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.5487">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">692140000C0625</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT JEAN LA BUSSIERE</SimpleData>
+					<SimpleData name="Adresse">LE BANCILLON</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.002972207382 </north>
+			<south> 46.002692855692 </south>
+			<east> 4.35342756724267 </east>
+			<west> 4.35273461321809 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.35342756724267,46.0028432550571,0 4.35341639344599,46.0028303294817,0 4.35336973743997,46.00278297358949,0 4.35331644957458,46.0027392093312,0 4.35329903812336,46.0027301408751,0 4.35325583286057,46.0027127345143,0 4.35320913850981,46.0027005934326,0 4.3531601222713,46.0026938838099,0 4.35311047034904,46.002692855692,0 4.35310130614131,46.00269332539,0 4.35305401664407,46.0026990237162,0 4.35300893157529,46.0027102795682,0 4.35296707565228,46.00272672046189,0 4.35292998374767,46.00274769763511,0 4.35289868501634,46.0027730186782,0 4.35273461321809,46.00295411195031,0 4.35277292444833,46.002972207382,0 4.35293376175668,46.002864553566,0 4.353040266649,46.0028283374659,0 4.35317726576825,46.0028129217312,0 4.35325401402711,46.0028121851787,0 4.35329524298657,46.0028333077077,0 4.35334155642095,46.0028772453493,0 4.35342756724267,46.0028432550571,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.5700">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">692140000A0669</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT JEAN LA BUSSIERE</SimpleData>
+					<SimpleData name="Adresse">LA VALLEE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9820310570997 </north>
+			<south> 45.9814877212593 </south>
+			<east> 4.30618981175213 </east>
+			<west> 4.30525892038615 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.30525892038615,45.9820310570997,0 4.30537202753186,45.9819903965894,0 4.30542086560908,45.98196884933069,0 4.30545552482988,45.98194863628701,0 4.30556824288288,45.9818806914092,0 4.30576969465786,45.9817466989458,0 4.30583465019144,45.9817020900389,0 4.30610927188241,45.9815594179175,0 4.30618981175213,45.9815346227418,0 4.30615679009524,45.9814877212593,0 4.30594494982667,45.9815758127633,0 4.30585828239028,45.98162004165259,0 4.30577636887545,45.98166862868,0 4.30537746648478,45.9819364770892,0 4.30525892038615,45.9820310570997,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.5869">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">692140000E0704</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT JEAN LA BUSSIERE</SimpleData>
+					<SimpleData name="Adresse">CHASSAGNE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.98116146077229 </north>
+			<south> 45.98111708566769 </south>
+			<east> 4.30805308811174 </east>
+			<west> 4.30668951323477 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.30668951323477,45.9811324974235,0 4.30670828658291,45.98116146077229,0 4.30744668631462,45.9811389792155,0 4.30805308811174,45.98113945212879,0 4.30805278642682,45.9811267569264,0 4.30762363671232,45.9811267593211,0 4.30743182684659,45.98111708566769,0 4.30723784761371,45.98111941492229,0 4.30707419179189,45.98112571683749,0 4.30701644218905,45.9811309764614,0 4.30695951449985,45.9811382079257,0 4.30692019894528,45.9811418137818,0 4.30688776888789,45.9811470513392,0 4.30685467170379,45.98115139596959,0 4.30679954012562,45.98115266256271,0 4.30677637760035,45.98115103853321,0 4.30675254154514,45.98114825146989,0 4.30672440083332,45.9811437128374,0 4.30670110793271,45.9811365965404,0 4.30668951323477,45.9811324974235,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.5875">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">692140000E0706</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">SAINT JEAN LA BUSSIERE</SimpleData>
+					<SimpleData name="Adresse">CHASSAGNE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.981531816218 </north>
+			<south> 45.98123733172281 </south>
+			<east> 4.30806239005605 </east>
+			<west> 4.30622053278016 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.3062379311822,45.981531816218,0 4.30631223733101,45.981494754416,0 4.30639813264751,45.981456117897,0 4.3064906370471,45.9814237994417,0 4.30665514011362,45.9813769608941,0 4.30673294719675,45.9813567899962,0 4.30681271194347,45.9813429007661,0 4.30689092044611,45.98132875925289,0 4.30698537391371,45.9813132594133,0 4.30707129192602,45.98130281139069,0 4.30716414675051,45.98129615588701,0 4.30724863038104,45.98129058761061,0 4.30746706514014,45.9812844636156,0 4.30793135126763,45.981268025088,0 4.30806239005605,45.98123733172281,0 4.307325281983,45.9812380975269,0 4.30716329620294,45.9812440200425,0 4.30700183466039,45.9812557002177,0 4.30687735457721,45.9812688447176,0 4.30674311714951,45.9812954307771,0 4.30661939350882,45.98134044806351,0 4.30622053278016,45.9815063493361,0 4.3062379311822,45.981531816218,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

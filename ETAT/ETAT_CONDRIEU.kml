@@ -1,0 +1,1084 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>CONDRIEU_ETAT</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_1">
+		<name>CONDRIEU_ETAT</name>
+		<Schema name="CONDRIEU_ETAT" id="CONDRIEU_ETAT.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="ETAT">
+			<LineStyle>
+				<color>BF119ff7</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C119ff7</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.159">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69064000AM0928</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CONDRIEU</SimpleData>
+					<SimpleData name="Adresse">ILE DES PECHEURS</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">COMPAGNIE NATIONALE DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.4644312988197 </north>
+			<south> 45.4640617035505 </south>
+			<east> 4.7794006869664 </east>
+			<west> 4.77927451290821 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.77927451290821,45.4640676313571,0 4.77928593808531,45.4641805769834,0 4.77939009449101,45.4644312988197,0 4.7794006869664,45.4644303202026,0 4.77939272026371,45.4640617035505,0 4.77927451290821,45.4640676313571,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.316">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69064000AN0386</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CONDRIEU</SimpleData>
+					<SimpleData name="Adresse">RAZAT</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">COMPAGNIE NATIONALE DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.45931081824 </north>
+			<south> 45.4589666702839 </south>
+			<east> 4.77212954669005 </east>
+			<west> 4.77173896026665 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.7719559918307,45.45931081824,0 4.77212954669005,45.4590662418862,0 4.77204276533578,45.4590499592011,0 4.77192861825515,45.4590183466368,0 4.77178050953098,45.4589772726921,0 4.77173896026665,45.4589666702839,0 4.7719559918307,45.45931081824,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.368">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69064000AB1014</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CONDRIEU</SimpleData>
+					<SimpleData name="Adresse">42, GR GRANDE RUE</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SCI</SimpleData>
+					<SimpleData name="Denomination">TINAL -DU-</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.4618221188234 </north>
+			<south> 45.46153417435309 </south>
+			<east> 4.76627389958695 </east>
+			<west> 4.76589885421545 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.76590915998916,45.4616214950897,0 4.76589885421545,45.4616878578354,0 4.76600534925744,45.4617001421807,0 4.76603026153753,45.4617027222971,0 4.76602344069069,45.4617257071297,0 4.76610195328127,45.4617354595945,0 4.76609055762847,45.46179571484389,0 4.7661504398881,45.4617991855335,0 4.76615833644466,45.4618221188234,0 4.76619295495738,45.4617877980508,0 4.76619337794773,45.46178499926021,0 4.76627389958695,45.46169690530691,0 4.76622843025414,45.4616918567487,0 4.76622842567143,45.46168366056411,0 4.766214427252,45.4616821696369,0 4.76621417854895,45.46166226835719,0 4.76614497122065,45.4616553417537,0 4.766162031913,45.461592115116,0 4.7660608988381,45.4615673170282,0 4.76592340724563,45.46153417435309,0 4.76590915998916,45.4616214950897,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.369">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69064000AB1015</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CONDRIEU</SimpleData>
+					<SimpleData name="Adresse">42, GR GRANDE RUE</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SCI</SimpleData>
+					<SimpleData name="Denomination">TINAL -DU-</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.46168366056411 </north>
+			<south> 45.46166226835719 </south>
+			<east> 4.76622842567143 </east>
+			<west> 4.76621417854895 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.76622842567143,45.46168366056411,0 4.76622817696336,45.4616637592844,0 4.76621417854895,45.46166226835719,0 4.766214427252,45.4616821696369,0 4.76622842567143,45.46168366056411,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.476">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69064000AC0109</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CONDRIEU</SimpleData>
+					<SimpleData name="Adresse">PAVIE</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">COMPAGNIE NATIONALE DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.45897695381079 </north>
+			<south> 45.4587533395855 </south>
+			<east> 4.76056468032822 </east>
+			<west> 4.76024843182059 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.76056468032822,45.45897695381079,0 4.76037038595138,45.4587987848295,0 4.76033156596181,45.4587692210071,0 4.76031621663709,45.4587533395855,0 4.76029714678958,45.45876949088271,0 4.7602765537193,45.45879007943719,0 4.76027001350974,45.4587977478188,0 4.76025988381554,45.4588133084872,0 4.76025259689095,45.4588297252353,0 4.76025086917272,45.4588357869385,0 4.76024843182059,45.4588517673187,0 4.76024919533748,45.4588677875436,0 4.76025328194271,45.4588836655584,0 4.76026042153684,45.45889895525799,0 4.76027399753303,45.4589194580102,0 4.76029075730077,45.45893946046139,0 4.76035978453916,45.4589489153543,0 4.76039037803871,45.45895311885351,0 4.76056468032822,45.45897695381079,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.901">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69064000AC0139</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CONDRIEU</SimpleData>
+					<SimpleData name="Adresse">5935, CHE DU MOULIN</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">COMPAGNIE NATIONALE DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.4587174526036 </north>
+			<south> 45.4581190779848 </south>
+			<east> 4.76162800342087 </east>
+			<west> 4.76063161062997 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.76141213009013,45.4581190779848,0 4.76134344600152,45.4581648304095,0 4.76079135422671,45.4585331410628,0 4.76063161062997,45.4586375157796,0 4.76081805671059,45.4587174526036,0 4.76156932125652,45.45821685611799,0 4.7615777434221,45.4582120403006,0 4.76162800342087,45.45818260925801,0 4.76141213009013,45.4581190779848,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.918">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69064000AC0140</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CONDRIEU</SimpleData>
+					<SimpleData name="Adresse">RAFOUR</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">COMPAGNIE NATIONALE DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.4586375157796 </north>
+			<south> 45.45807792459049 </south>
+			<east> 4.76141213009013 </east>
+			<west> 4.76050108304819 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.76141213009013,45.4581190779848,0 4.76127570925356,45.4580789777154,0 4.76127120926295,45.45807832781679,0 4.76125673445367,45.45807792459049,0 4.76124233384025,45.4580798619807,0 4.76122889429216,45.458083855858,0 4.76112766967199,45.4581245347662,0 4.76076105569787,45.45827169719709,0 4.76075233482033,45.4582751666118,0 4.76072344068755,45.4582882297113,0 4.76069639446908,45.458303065172,0 4.7606717021361,45.45831948491689,0 4.76062968541066,45.4583505875218,0 4.76057948940512,45.4584507209307,0 4.76050108304819,45.4585814699959,0 4.76063161062997,45.4586375157796,0 4.76079135422671,45.4585331410628,0 4.76134344600152,45.4581648304095,0 4.76141213009013,45.4581190779848,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.1742">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69064000AC0240</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CONDRIEU</SimpleData>
+					<SimpleData name="Adresse">MALADIERE</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">COMPAGNIE NATIONALE DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.4580699521229 </north>
+			<south> 45.45764157542579 </south>
+			<east> 4.76115929646071 </east>
+			<west> 4.76025601695984 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.7602892061663,45.4578967610464,0 4.76057055754097,45.4580113264941,0 4.76071460377289,45.4580699521229,0 4.76073086520955,45.4580580780521,0 4.76115929646071,45.45783834072729,0 4.76111559153841,45.4577959740667,0 4.76058328577288,45.45764157542579,0 4.7604281153618,45.4578255887762,0 4.76041121235647,45.4578454889723,0 4.76036705476889,45.4578978812551,0 4.76027807384642,45.45786451104641,0 4.76025601695984,45.45788332119761,0 4.7602892061663,45.4578967610464,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.1904">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69064000AC0273</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CONDRIEU</SimpleData>
+					<SimpleData name="Adresse">MALADIERE</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">COMPAGNIE NATIONALE DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.4585137459661 </north>
+			<south> 45.4582011727028 </south>
+			<east> 4.76054173953362 </east>
+			<west> 4.76023049373578 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.76023049373578,45.4584633128531,0 4.76035137214798,45.4585137459661,0 4.76050350555063,45.45827420809209,0 4.76052370799418,45.4582453393152,0 4.76054173953362,45.4582247008431,0 4.76042824116248,45.4582011727028,0 4.76023049373578,45.4584633128531,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.1926">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69064000AC0275</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CONDRIEU</SimpleData>
+					<SimpleData name="Adresse">MALADIERE</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">COMPAGNIE NATIONALE DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.4582247008431 </north>
+			<south> 45.4580113264941 </south>
+			<east> 4.76071460377289 </east>
+			<west> 4.76042824116248 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.76042824116248,45.4582011727028,0 4.76054173953362,45.4582247008431,0 4.76071460377289,45.4580699521229,0 4.76057055754097,45.4580113264941,0 4.76042824116248,45.4582011727028,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.2169">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69064000AM0031</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CONDRIEU</SimpleData>
+					<SimpleData name="Adresse">BASSENON</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">COMPAGNIE NATIONALE DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.4707556967887 </north>
+			<south> 45.469874765012 </south>
+			<east> 4.77856945704165 </east>
+			<west> 4.77750584939248 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.7776164299385,45.4707556967887,0 4.77775809452682,45.4706342909165,0 4.77785532795336,45.4705365564882,0 4.77797920698374,45.4703754414132,0 4.77807482062515,45.4702951158009,0 4.7781371339751,45.47026224385499,0 4.77820646067964,45.47024051937539,0 4.77826889900356,45.47022755066109,0 4.77832826196427,45.4702104874701,0 4.7783731911654,45.47019041051971,0 4.77841568297689,45.4701621758873,0 4.77856945704165,45.4700352629378,0 4.77851797849547,45.469874765012,0 4.77750584939248,45.4706483748192,0 4.7776164299385,45.4707556967887,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.2669">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69064000AB0376</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CONDRIEU</SimpleData>
+					<SimpleData name="Adresse">PL DU MARCHE</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SCI</SimpleData>
+					<SimpleData name="Denomination">VILLA LEA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.4633975339671 </north>
+			<south> 45.4632876267926 </south>
+			<east> 4.76611563351734 </east>
+			<west> 4.76600505100657 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.76600854328353,45.4632904360172,0 4.76600505100657,45.4633939800072,0 4.76602243244481,45.46339316599659,0 4.76611114381245,45.4633975339671,0 4.76611563351734,45.4633334243926,0 4.76602804585762,45.46333219114601,0 4.76603251699006,45.4632876267926,0 4.76600854328353,45.4632904360172,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.2982">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69064000AN0436</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CONDRIEU</SimpleData>
+					<SimpleData name="Adresse">RAZAT</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">COMPAGNIE NATIONALE DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.45957999924299 </north>
+			<south> 45.45903816170879 </south>
+			<east> 4.77371167958743 </east>
+			<west> 4.7719559918307 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.77303309124528,45.45954653367361,0 4.77317708253879,45.4594504961418,0 4.77322545467113,45.4594182074541,0 4.77335540832362,45.4593314885263,0 4.77342846925464,45.4592827772133,0 4.77346555807605,45.4592578722981,0 4.77366957473823,45.4591217952819,0 4.77370115553456,45.4591007602638,0 4.77371167958743,45.4590936585656,0 4.77359332026079,45.4590504053182,0 4.77355440659805,45.4590421937685,0 4.77351319464066,45.45903816170879,0 4.77347161755723,45.4590387289206,0 4.77343618779715,45.4590434321774,0 4.77308050859416,45.4590912965817,0 4.77300574236366,45.4590986029247,0 4.77291523170988,45.45910985086131,0 4.7728394405359,45.45912113632171,0 4.77262899502078,45.45911995832471,0 4.77248278326057,45.4591102893601,0 4.77237197246835,45.45910303319471,0 4.77225018375926,45.45908865476689,0 4.77218671105308,45.4590768676872,0 4.77212954669005,45.4590662418862,0 4.7719559918307,45.45931081824,0 4.77243129211623,45.4594660643652,0 4.77258119772465,45.4595112522593,0 4.77271177496417,45.4595362997392,0 4.77294444072421,45.45957999924299,0 4.77298722274474,45.4595770713987,0 4.77303309124528,45.45954653367361,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.2984">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69064000AN0437</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CONDRIEU</SimpleData>
+					<SimpleData name="Adresse">RAZAT</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">COMPAGNIE NATIONALE DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.4580934371038 </north>
+			<south> 45.45756502212561 </south>
+			<east> 4.77193160180453 </east>
+			<west> 4.77057443668224 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.77057443668224,45.457830463412,0 4.77073844948494,45.4578446274715,0 4.77094690178758,45.4579560846486,0 4.77095888260282,45.45796256060821,0 4.77110340576582,45.4580398097894,0 4.77120379007161,45.4580934371038,0 4.77120910238451,45.4580914617842,0 4.7712161854678,45.4580888280244,0 4.771783573232,45.45787334040169,0 4.77189527316344,45.45776007093999,0 4.77193160180453,45.4577233795195,0 4.77170033946532,45.45763110879109,0 4.77137942965386,45.45756502212561,0 4.77123514418846,45.4576035980824,0 4.77106231646749,45.45765415327361,0 4.77089218164219,45.457708898919,0 4.77057443668224,45.457830463412,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.2986">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69064000AN0438</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CONDRIEU</SimpleData>
+					<SimpleData name="Adresse">RAZAT</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">COMPAGNIE NATIONALE DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.4591055676255 </north>
+			<south> 45.457735212555 </south>
+			<east> 4.77432351454264 </east>
+			<west> 4.77122082535604 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.77432351454264,45.4586829064456,0 4.77345498506049,45.4583332119344,0 4.77341453125,45.4583168284232,0 4.77334192831604,45.4582876229063,0 4.77320281530611,45.45823163735859,0 4.77273815008059,45.4580444322909,0 4.77270029526998,45.4580292684237,0 4.77206100645004,45.4577760072704,0 4.77195795955109,45.457735212555,0 4.77193255752211,45.4577613734791,0 4.77181052307248,45.45788768604909,0 4.77145326466369,45.45802230661891,0 4.77142405419756,45.4580333959959,0 4.77123853019762,45.4581032465175,0 4.77122082535604,45.4581099209434,0 4.77136808620358,45.4583533035892,0 4.77134645311468,45.458361210956,0 4.77141203895956,45.45846339424911,0 4.77169162835937,45.4588991455956,0 4.7717208453976,45.4589444391572,0 4.77189685311132,45.45899750203449,0 4.77191362059913,45.4590015605046,0 4.77210258342156,45.4590474831401,0 4.77216784983814,45.4590593320004,0 4.77228641589999,45.459077003907,0 4.772360795049,45.4590856463515,0 4.77244598430881,45.4590921364391,0 4.77262200863768,45.4591055676255,0 4.77285349209347,45.45910425152059,0 4.77286062980642,45.45910332810309,0 4.77301725555939,45.4590823887018,0 4.77336836697061,45.4590357675997,0 4.77339560981107,45.45903119378239,0 4.77345300455773,45.45902497241389,0 4.77345530425531,45.45902484599039,0 4.77351349089288,45.45902338572439,0 4.7735196368294,45.4590234687015,0 4.77357272667389,45.459030735595,0 4.77362416071129,45.4590422618806,0 4.77367330222284,45.45905814769651,0 4.77371924715121,45.45907813713281,0 4.77372952532634,45.4590833787617,0 4.77391144347335,45.45896071067631,0 4.77393638227107,45.4589441039239,0 4.77414849008821,45.4588009627559,0 4.7741823184625,45.45877818074331,0 4.77432351454264,45.4586829064456,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.2988">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69064000AN0439</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CONDRIEU</SimpleData>
+					<SimpleData name="Adresse">LA PLAINE</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">COMPAGNIE NATIONALE DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.4604613847414 </north>
+			<south> 45.4575513411765 </south>
+			<east> 4.77781951242955 </east>
+			<west> 4.77307307134528 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.7775629370085,45.4580070856997,0 4.77741597928132,45.45796203790299,0 4.77674243329817,45.4577587937329,0 4.77606659131129,45.457559635057,0 4.77605743725246,45.45755752826071,0 4.77601989840277,45.45755226808809,0 4.77598173017884,45.4575513411765,0 4.77591597840711,45.4575683243003,0 4.7758607579007,45.4575984708775,0 4.77525342619013,45.4580773426103,0 4.77520595910015,45.4581138511217,0 4.77500958351377,45.4582605283329,0 4.77480824243901,45.4584040412628,0 4.77480386304181,45.4584071728913,0 4.7746109117657,45.4585409153461,0 4.77450560289624,45.4586137356138,0 4.77446678734809,45.4586406497136,0 4.77424327166688,45.4587952305397,0 4.77423675493786,45.4587995668442,0 4.77420367109588,45.4588216165471,0 4.77399311708152,45.4589613106313,0 4.77396617180595,45.45897921008979,0 4.77375511928415,45.459119361939,0 4.77372767366766,45.4591376295247,0 4.77351699508537,45.4592775047913,0 4.77348327968773,45.4592998344652,0 4.77341221667533,45.4593469830601,0 4.77328425810165,45.45943204927859,0 4.77324126594782,45.4594604700602,0 4.77309287217132,45.4595589190487,0 4.77307307134528,45.4595721118526,0 4.77315899528916,45.4596136266056,0 4.77332244001902,45.4596619320812,0 4.77337846905891,45.45961691264699,0 4.77348211282837,45.4596441863674,0 4.77358333332398,45.4596757315434,0 4.77366087830725,45.4597033276351,0 4.77385001432879,45.45979463939359,0 4.77399353153959,45.45986415498889,0 4.77431630356037,45.4600200938094,0 4.77428348496261,45.4600544787787,0 4.77442825807478,45.4601031680505,0 4.7744767352619,45.4601182534222,0 4.77471938310636,45.4601858398314,0 4.77496458563526,45.46024924213469,0 4.77520370864594,45.4603066154219,0 4.77527832137317,45.4603184947539,0 4.77552154907301,45.4603360820016,0 4.77576415325136,45.4603581820431,0 4.77591890547418,45.4603746469113,0 4.77634565929333,45.4604199504744,0 4.77648171932952,45.4604402232294,0 4.77653320743463,45.4604613847414,0 4.77675812173455,45.4603625298877,0 4.77678753062798,45.4603496345981,0 4.77694959046859,45.460278435232,0 4.77708804499499,45.4602175171392,0 4.77709965556071,45.4602123794261,0 4.77716907292367,45.46017786418949,0 4.77731760194901,45.4601038162749,0 4.77756175505738,45.4599823178586,0 4.77781951242955,45.4598540282701,0 4.77752236132058,45.4597111137274,0 4.77757432280302,45.459675073426,0 4.77708887646866,45.459391210869,0 4.77699852986251,45.4593435543792,0 4.77678074213923,45.4592328864862,0 4.77655949152346,45.4591259658531,0 4.77639622688787,45.45908333657119,0 4.7775629370085,45.4580070856997,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.3002">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69064000AN0440</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CONDRIEU</SimpleData>
+					<SimpleData name="Adresse">LA PLAINE</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">COMPAGNIE NATIONALE DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.4586566680712 </north>
+			<south> 45.4570760324487 </south>
+			<east> 4.7758874903345 </east>
+			<west> 4.7715684839599 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.77219733529032,45.4571950712329,0 4.7715684839599,45.4575377181557,0 4.77163500559185,45.4575608961452,0 4.77191551353609,45.4576723844596,0 4.77205029474607,45.45772907046441,0 4.77220728770831,45.4577919804483,0 4.77293145398713,45.45808208861629,0 4.77343770510529,45.45828502803799,0 4.77350576770369,45.4583123237564,0 4.77375623806679,45.4584127536407,0 4.77436516742357,45.4586566680712,0 4.77441817920029,45.4586214232619,0 4.77445752943782,45.4585952212732,0 4.7745666874189,45.45852270044001,0 4.77476769764177,45.4583888305678,0 4.77491495418752,45.45829102775979,0 4.7752718540838,45.45802922438521,0 4.77564899636899,45.4577241365434,0 4.7758874903345,45.45752590246391,0 4.77428077516374,45.4570760324487,0 4.77389579799312,45.4574043872121,0 4.77362462082696,45.4576253807032,0 4.77351887391001,45.4575802167211,0 4.77294753208463,45.4573827198919,0 4.77233723594437,45.4572277176844,0 4.77219733529032,45.4571950712329,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.3006">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69064000AN0441</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CONDRIEU</SimpleData>
+					<SimpleData name="Adresse">FOUR A CHAUX</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">COMPAGNIE NATIONALE DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.4572640349924 </north>
+			<south> 45.4565866722173 </south>
+			<east> 4.77521434155633 </east>
+			<west> 4.77351075170907 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.77507603850742,45.4572640349924,0 4.77521434155633,45.4570102839752,0 4.77366095685559,45.4565866722173,0 4.77351075170907,45.45683259324549,0 4.77431065715992,45.457053943285,0 4.77507603850742,45.4572640349924,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.3026">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69064000AN0450</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CONDRIEU</SimpleData>
+					<SimpleData name="Adresse">FOUR A CHAUX</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">COMPAGNIE NATIONALE DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.4570909726656 </north>
+			<south> 45.455764431578 </south>
+			<east> 4.77587695773598 </east>
+			<west> 4.77241625720302 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.77587695773598,45.4557708957987,0 4.77579128321234,45.4557690996593,0 4.77572202604226,45.455764431578,0 4.77533641271753,45.455767922994,0 4.77456457235636,45.4557917544392,0 4.77368484670276,45.4558917733853,0 4.77349950065122,45.4559789181909,0 4.77332059142846,45.456063258863,0 4.77298286316863,45.45619982749839,0 4.77293224312045,45.45622575674711,0 4.77288831899898,45.45625698428059,0 4.77281017161361,45.4563346877622,0 4.77273760476074,45.4564148249271,0 4.77271614608042,45.45644020317241,0 4.77251966294584,45.4567038771186,0 4.77241625720302,45.4568403440252,0 4.77335300806724,45.4570909726656,0 4.77351075170907,45.45683259324549,0 4.77366095685559,45.4565866722173,0 4.77521434155633,45.4570102839752,0 4.77535252693275,45.45675689491469,0 4.77544656643458,45.4565798622706,0 4.77587695773598,45.4557708957987,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.3324">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69064000AN0580</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CONDRIEU</SimpleData>
+					<SimpleData name="Adresse">RAZAT</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">COMPAGNIE NATIONALE DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.4586829064456 </north>
+			<south> 45.4575062090807 </south>
+			<east> 4.77436516742357 </east>
+			<west> 4.77042813401032 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.77436516742357,45.4586566680712,0 4.77375623806679,45.4584127536407,0 4.77350576770369,45.4583123237564,0 4.77343770510529,45.45828502803799,0 4.77293145398713,45.45808208861629,0 4.77220728770831,45.4577919804483,0 4.77205029474607,45.45772907046441,0 4.77191551353609,45.4576723844596,0 4.77163500559185,45.4575608961452,0 4.7715684839599,45.4575377181557,0 4.77136219682367,45.4575062090807,0 4.77120136053469,45.4575595474163,0 4.77097796685712,45.4576337783197,0 4.7708215639096,45.4576856950801,0 4.77049266934281,45.4577947356367,0 4.77042813401032,45.4578178209951,0 4.77057443668224,45.457830463412,0 4.77089218164219,45.457708898919,0 4.77106231646749,45.45765415327361,0 4.77123514418846,45.4576035980824,0 4.77137942965386,45.45756502212561,0 4.77170033946532,45.45763110879109,0 4.77193160180453,45.4577233795195,0 4.77195795955109,45.457735212555,0 4.77206100645004,45.4577760072704,0 4.77270029526998,45.4580292684237,0 4.77273815008059,45.4580444322909,0 4.77320281530611,45.45823163735859,0 4.77334192831604,45.4582876229063,0 4.77341453125,45.4583168284232,0 4.77345498506049,45.4583332119344,0 4.77432351454264,45.4586829064456,0 4.77436516742357,45.4586566680712,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.3325">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69064000AN0581</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CONDRIEU</SimpleData>
+					<SimpleData name="Adresse">RAZAT</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">COMPAGNIE NATIONALE DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.4581032465175 </north>
+			<south> 45.4577233795195 </south>
+			<east> 4.77195795955109 </east>
+			<west> 4.7712161854678 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.77195795955109,45.457735212555,0 4.77193160180453,45.4577233795195,0 4.77189527316344,45.45776007093999,0 4.771783573232,45.45787334040169,0 4.7712161854678,45.4580888280244,0 4.77123853019762,45.4581032465175,0 4.77142405419756,45.4580333959959,0 4.77145326466369,45.45802230661891,0 4.77181052307248,45.45788768604909,0 4.77193255752211,45.4577613734791,0 4.77195795955109,45.457735212555,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.3327">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69064000AN0582</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CONDRIEU</SimpleData>
+					<SimpleData name="Adresse">RAZAT</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">COMPAGNIE NATIONALE DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.45912113632171 </north>
+			<south> 45.4590015605046 </south>
+			<east> 4.77372952532634 </east>
+			<west> 4.77191362059913 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.77371167958743,45.4590936585656,0 4.7737209790351,45.4590882875377,0 4.77372952532634,45.4590833787617,0 4.77371924715121,45.45907813713281,0 4.77367330222284,45.45905814769651,0 4.77362416071129,45.4590422618806,0 4.77357272667389,45.459030735595,0 4.7735196368294,45.4590234687015,0 4.77351349089288,45.45902338572439,0 4.77345530425531,45.45902484599039,0 4.77345300455773,45.45902497241389,0 4.77339560981107,45.45903119378239,0 4.77336836697061,45.4590357675997,0 4.77301725555939,45.4590823887018,0 4.77286062980642,45.45910332810309,0 4.77285349209347,45.45910425152059,0 4.77262200863768,45.4591055676255,0 4.77244598430881,45.4590921364391,0 4.772360795049,45.4590856463515,0 4.77228641589999,45.459077003907,0 4.77216784983814,45.4590593320004,0 4.77210258342156,45.4590474831401,0 4.77191362059913,45.4590015605046,0 4.77192861825515,45.4590183466368,0 4.77204276533578,45.4590499592011,0 4.77212954669005,45.4590662418862,0 4.77218671105308,45.4590768676872,0 4.77225018375926,45.45908865476689,0 4.77237197246835,45.45910303319471,0 4.77248278326057,45.4591102893601,0 4.77262899502078,45.45911995832471,0 4.7728394405359,45.45912113632171,0 4.77291523170988,45.45910985086131,0 4.77300574236366,45.4590986029247,0 4.77308050859416,45.4590912965817,0 4.77343618779715,45.4590434321774,0 4.77347161755723,45.4590387289206,0 4.77351319464066,45.45903816170879,0 4.77355440659805,45.4590421937685,0 4.77359332026079,45.4590504053182,0 4.77371167958743,45.4590936585656,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.3328">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69064000AN0583</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CONDRIEU</SimpleData>
+					<SimpleData name="Adresse">RAZAT</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">COMPAGNIE NATIONALE DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.4595589190487 </north>
+			<south> 45.457053943285 </south>
+			<east> 4.77758406504897 </east>
+			<west> 4.77303309124528 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.7775629370085,45.4580070856997,0 4.77758406504897,45.4579834230464,0 4.77617047442145,45.4575584406663,0 4.77582826014382,45.4574706370687,0 4.77507603850742,45.4572640349924,0 4.77431065715992,45.457053943285,0 4.77428077516374,45.4570760324487,0 4.7758874903345,45.45752590246391,0 4.77564899636899,45.4577241365434,0 4.7752718540838,45.45802922438521,0 4.77491495418752,45.45829102775979,0 4.77476769764177,45.4583888305678,0 4.7745666874189,45.45852270044001,0 4.77445752943782,45.4585952212732,0 4.77441817920029,45.4586214232619,0 4.77436516742357,45.4586566680712,0 4.77432351454264,45.4586829064456,0 4.7741823184625,45.45877818074331,0 4.77414849008821,45.4588009627559,0 4.77393638227107,45.4589441039239,0 4.77391144347335,45.45896071067631,0 4.77372952532634,45.4590833787617,0 4.7737209790351,45.4590882875377,0 4.77371167958743,45.4590936585656,0 4.77370115553456,45.4591007602638,0 4.77366957473823,45.4591217952819,0 4.77346555807605,45.4592578722981,0 4.77342846925464,45.4592827772133,0 4.77335540832362,45.4593314885263,0 4.77322545467113,45.4594182074541,0 4.77317708253879,45.4594504961418,0 4.77303309124528,45.45954653367361,0 4.77309287217132,45.4595589190487,0 4.77324126594782,45.4594604700602,0 4.77328425810165,45.45943204927859,0 4.77341221667533,45.4593469830601,0 4.77348327968773,45.4592998344652,0 4.77351699508537,45.4592775047913,0 4.77372767366766,45.4591376295247,0 4.77375511928415,45.459119361939,0 4.77396617180595,45.45897921008979,0 4.77399311708152,45.4589613106313,0 4.77420367109588,45.4588216165471,0 4.77423675493786,45.4587995668442,0 4.77424327166688,45.4587952305397,0 4.77446678734809,45.4586406497136,0 4.77450560289624,45.4586137356138,0 4.7746109117657,45.4585409153461,0 4.77480386304181,45.4584071728913,0 4.77480824243901,45.4584040412628,0 4.77500958351377,45.4582605283329,0 4.77520595910015,45.4581138511217,0 4.77525342619013,45.4580773426103,0 4.7758607579007,45.4575984708775,0 4.77591597840711,45.4575683243003,0 4.77598173017884,45.4575513411765,0 4.77601989840277,45.45755226808809,0 4.77605743725246,45.45755752826071,0 4.77606659131129,45.457559635057,0 4.77674243329817,45.4577587937329,0 4.77741597928132,45.45796203790299,0 4.7775629370085,45.4580070856997,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.3330">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69064000AN0584</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CONDRIEU</SimpleData>
+					<SimpleData name="Adresse">LA PLAINE</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">COMPAGNIE NATIONALE DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.4604646083967 </north>
+			<south> 45.4595309173984 </south>
+			<east> 4.77874751845436 </east>
+			<west> 4.77657989836164 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.77675812173455,45.4603625298877,0 4.77657989836164,45.4604646083967,0 4.77677354855658,45.4603886757846,0 4.77696733437552,45.4603049947473,0 4.77710655195509,45.4602399213711,0 4.77716651620801,45.460209969261,0 4.77733001473686,45.4601277581217,0 4.77760007356133,45.4599918885051,0 4.7778508400764,45.45986911375631,0 4.7779590890896,45.459816239033,0 4.77812527395709,45.4597260580534,0 4.77829837368714,45.4596799911085,0 4.77850877204804,45.4596196420979,0 4.77871672902309,45.4595550080803,0 4.77874751845436,45.4595612750834,0 4.77873643561284,45.4595309173984,0 4.77836660891879,45.4596365770147,0 4.77831991965588,45.45960939572179,0 4.77812160859149,45.4597035088209,0 4.77781951242955,45.4598540282701,0 4.77756175505738,45.4599823178586,0 4.77731760194901,45.4601038162749,0 4.77716907292367,45.46017786418949,0 4.77709965556071,45.4602123794261,0 4.77708804499499,45.4602175171392,0 4.77694959046859,45.460278435232,0 4.77678753062798,45.4603496345981,0 4.77675812173455,45.4603625298877,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.3993">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69064000AM0929</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CONDRIEU</SimpleData>
+					<SimpleData name="Adresse">ILE DES PECHEURS</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">COMPAGNIE NATIONALE DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.4644303202026 </north>
+			<south> 45.4626104678636 </south>
+			<east> 4.77942322438226 </east>
+			<west> 4.7792119468646 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.7792119468646,45.4627135337955,0 4.77931143470385,45.46301440806469,0 4.77937404709529,45.46361057327169,0 4.77939272026371,45.4640617035505,0 4.7794006869664,45.4644303202026,0 4.77940962496479,45.4644296380319,0 4.77942322438226,45.4633836297613,0 4.77938849851185,45.4631945850366,0 4.77934789301014,45.4629658230137,0 4.77938701910021,45.4629325974563,0 4.77941241201801,45.4626104678636,0 4.7792119468646,45.4627135337955,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.3999">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69064000AM0930</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CONDRIEU</SimpleData>
+					<SimpleData name="Adresse">PAILLASSE</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">COMPAGNIE NATIONALE DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.46273345103451 </north>
+			<south> 45.45923616031429 </south>
+			<east> 4.77978645670093 </east>
+			<west> 4.77657692999773 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.77942868236621,45.46240314093429,0 4.77946435542853,45.4619504282385,0 4.7796307192788,45.46104259496619,0 4.77950000226529,45.4605019121361,0 4.77949720714388,45.4604625962836,0 4.77950118909462,45.4604230828652,0 4.7795011775611,45.4604227227718,0 4.77950758112295,45.4603948799222,0 4.77952016248992,45.46036810997761,0 4.7795388167979,45.4603431351516,0 4.77956304964785,45.4603205036981,0 4.77956454724315,45.4603193090445,0 4.77960793213132,45.4602912398423,0 4.77978645670093,45.4602147312709,0 4.77977977319077,45.4600460478389,0 4.77977891482772,45.45923616031429,0 4.7789270981308,45.45964966757809,0 4.778915555777,45.4596089592539,0 4.77874751845436,45.4595612750834,0 4.77815055585376,45.4597361954138,0 4.77761342003731,45.46000500724419,0 4.77734262941073,45.4601380062777,0 4.77716856097387,45.4602258790856,0 4.77711663118321,45.4602509302675,0 4.77697759045917,45.460317532028,0 4.77681986266973,45.4603881224086,0 4.77678892443746,45.4604012220659,0 4.77657692999773,45.460491856243,0 4.77658477527131,45.46049704607771,0 4.77660285481398,45.4605100899837,0 4.77664689249708,45.4605464109547,0 4.77668602756328,45.4605855116215,0 4.77677557600181,45.4607082085281,0 4.77681687563108,45.4607709630232,0 4.77691678317451,45.46096942394739,0 4.77699069089767,45.4610832714626,0 4.77712178830065,45.46124043693201,0 4.77730803845552,45.461449238791,0 4.77745535955366,45.4616013732301,0 4.77745972225144,45.4616057174934,0 4.77775523949545,45.4618892560808,0 4.77805618285574,45.4621702760884,0 4.77831830988201,45.46243813005611,0 4.77859770200159,45.46273345103451,0 4.77917881851735,45.462502396778,0 4.77942868236621,45.46240314093429,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.4002">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69064000AM0932</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CONDRIEU</SimpleData>
+					<SimpleData name="Adresse">PAILLASSE</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">COMPAGNIE NATIONALE DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.4626773464252 </north>
+			<south> 45.46240314093429 </south>
+			<east> 4.77942868236621 </east>
+			<west> 4.77917881851735 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.77917881851735,45.462502396778,0 4.77921065419248,45.4626771663784,0 4.77921065995853,45.4626773464252,0 4.77939323592512,45.4625832108582,0 4.77941538805458,45.46257151080849,0 4.77942868236621,45.46240314093429,0 4.77917881851735,45.462502396778,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.4055">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69064000AB0965</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CONDRIEU</SimpleData>
+					<SimpleData name="Adresse">RTE DEPARTEMENTALE 386</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">MINISTERE ECOLOGIE DEVELOPPEMENT TRANSPORTS LOGEMENT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.4619678792512 </north>
+			<south> 45.46175687997741 </south>
+			<east> 4.7684403358045 </east>
+			<west> 4.76820187965488 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.7682747125071,45.46180724580659,0 4.76821295357449,45.46175687997741,0 4.76820187965488,45.46178695735581,0 4.76827228052376,45.4618474548276,0 4.76841498444205,45.4619678792512,0 4.7684403358045,45.4619520778767,0 4.76840359525577,45.46191969182031,0 4.7682747125071,45.46180724580659,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.4057">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69064000AB0968</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CONDRIEU</SimpleData>
+					<SimpleData name="Adresse">RTE DEPARTEMENTALE 386</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">MINISTERE ECOLOGIE DEVELOPPEMENT TRANSPORTS LOGEMENT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.462015921209 </north>
+			<south> 45.4619520778767 </south>
+			<east> 4.76849611878799 </east>
+			<west> 4.76841498444205 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.76849611878799,45.4619996555878,0 4.7684403358045,45.4619520778767,0 4.76841498444205,45.4619678792512,0 4.76846988625388,45.462015921209,0 4.76849611878799,45.4619996555878,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.4068">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69064000AB0970</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CONDRIEU</SimpleData>
+					<SimpleData name="Adresse">RTE DEPARTEMENTALE 386</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">MINISTERE ECOLOGIE DEVELOPPEMENT TRANSPORTS LOGEMENT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.4621106103236 </north>
+			<south> 45.4619996555878 </south>
+			<east> 4.76860528307037 </east>
+			<west> 4.76846988625388 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.76860528307037,45.4620957494813,0 4.76849611878799,45.4619996555878,0 4.76846988625388,45.462015921209,0 4.76858246158948,45.4621106103236,0 4.76860528307037,45.4620957494813,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.4070">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69064000AB0972</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CONDRIEU</SimpleData>
+					<SimpleData name="Adresse">RTE DEPARTEMENTALE 386</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">MINISTERE ECOLOGIE DEVELOPPEMENT TRANSPORTS LOGEMENT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.46220152914951 </north>
+			<south> 45.4620957494813 </south>
+			<east> 4.76871074250655 </east>
+			<west> 4.76858246158948 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.76871074250655,45.4621880287241,0 4.76860528307037,45.4620957494813,0 4.76858246158948,45.4621106103236,0 4.76868851766718,45.46220152914951,0 4.76871074250655,45.4621880287241,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.4072">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69064000AB0974</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CONDRIEU</SimpleData>
+					<SimpleData name="Adresse">RTE DEPARTEMENTALE 386</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">MINISTERE ECOLOGIE DEVELOPPEMENT TRANSPORTS LOGEMENT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.4623077577502 </north>
+			<south> 45.4621880287241 </south>
+			<east> 4.76883072726142 </east>
+			<west> 4.76868851766718 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.76883072726142,45.462294309741,0 4.76871074250655,45.4621880287241,0 4.76868851766718,45.46220152914951,0 4.76872183785743,45.4622309967711,0 4.7688118285456,45.4623077577502,0 4.76883072726142,45.462294309741,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

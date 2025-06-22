@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>MORNANT_DEPT</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_3">
+		<name>MORNANT_DEPT</name>
+		<Schema name="MORNANT_DEPT" id="MORNANT_DEPT.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="DEPT">
+			<LineStyle>
+				<color>BF63f16c</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C63f16c</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.147">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69141000AS0050</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">MORNANT</SimpleData>
+					<SimpleData name="Adresse">LE CALICHET</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6268778695112 </north>
+			<south> 45.62667945396429 </south>
+			<east> 4.65860266276151 </east>
+			<west> 4.65785672344394 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.65786161044641,45.6268778695112,0 4.65808301273494,45.62681669368061,0 4.6582981498613,45.626760653538,0 4.65831153367998,45.6267574840578,0 4.65841825427726,45.6267333041977,0 4.65860266276151,45.6266885244899,0 4.65858865575682,45.62667945396429,0 4.65841584551005,45.6267214507442,0 4.65830963548721,45.6267455330099,0 4.65829484832514,45.6267489933749,0 4.6580784388988,45.6268054125308,0 4.65785672344394,45.6268647015426,0 4.65786161044641,45.6268778695112,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1468">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69141000AB0152</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">MORNANT</SimpleData>
+					<SimpleData name="Adresse">GRAND VAL</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6265174563019 </north>
+			<south> 45.6260403878137 </south>
+			<east> 4.6692155086559 </east>
+			<west> 4.66841810657631 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.6692155086559,45.6264617876651,0 4.66915184229608,45.6263895067383,0 4.66903609269764,45.6262629667296,0 4.66883709230507,45.6260403878137,0 4.66859396849966,45.6262109795703,0 4.66844236618147,45.6263175264,0 4.66841810657631,45.6263346387701,0 4.6684988580965,45.6263178596338,0 4.6685836641228,45.6263120986892,0 4.66866864013183,45.6263162426485,0 4.66872658195344,45.626356184223,0 4.66879527923576,45.6263866892461,0 4.66887122959845,45.62640654868959,0 4.66895158304386,45.62641490412859,0 4.66898555391872,45.626421875917,0 4.66906409471182,45.62647231996121,0 4.66912399067088,45.6265174563019,0 4.6692155086559,45.6264617876651,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1503">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69141000AB0154</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">MORNANT</SimpleData>
+					<SimpleData name="Adresse">GRAND VAL</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6262109795703 </north>
+			<south> 45.6253296088251 </south>
+			<east> 4.66883709230507 </east>
+			<west> 4.66812182293402 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.66812182293402,45.6253708898534,0 4.66820929806274,45.6254665963078,0 4.66830860422097,45.62558005083181,0 4.66842384854847,45.6257325386312,0 4.66859942614935,45.6259660035355,0 4.66861913477851,45.6260023689811,0 4.6686163286779,45.62604132000289,0 4.66858895498098,45.6260956767073,0 4.66858105640725,45.6261530771317,0 4.66859396849966,45.6262109795703,0 4.66883709230507,45.6260403878137,0 4.66882142014946,45.6260229669043,0 4.66874327003431,45.6259343280457,0 4.66869144208322,45.6258757417958,0 4.66863207552167,45.6258097916668,0 4.66852051556303,45.6256858910824,0 4.66838025443685,45.6255296311813,0 4.66836479598556,45.6255363452868,0 4.66817243955552,45.6253296088251,0 4.66813021898437,45.6253641003455,0 4.66812182293402,45.6253708898534,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1615">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69141000BK0016</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">MORNANT</SimpleData>
+					<SimpleData name="Adresse">BD DU GENERAL DE GAULLE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6236699852885 </north>
+			<south> 45.6234789736234 </south>
+			<east> 4.66646646912477 </east>
+			<west> 4.66620597973503 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.66646646912477,45.6236699852885,0 4.66636521880171,45.6235770034952,0 4.66625816908929,45.6234789736234,0 4.66620597973503,45.6234892936857,0 4.66646646912477,45.6236699852885,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2047">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69141000AW0189</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">MORNANT</SimpleData>
+					<SimpleData name="Adresse">A LA GARE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6205883861668 </north>
+			<south> 45.6204327003389 </south>
+			<east> 4.67642296507096 </east>
+			<west> 4.67632900517248 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.67637414775728,45.6205883861668,0 4.67642296507096,45.62047102045311,0 4.67641856237507,45.6204655018239,0 4.67639052389088,45.6204466449959,0 4.67635250526177,45.62043307074871,0 4.67632900517248,45.6204327003389,0 4.67637414775728,45.6205883861668,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2076">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69141000AW0190</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">MORNANT</SimpleData>
+					<SimpleData name="Adresse">A LA GARE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6206849712528 </north>
+			<south> 45.62047102045311 </south>
+			<east> 4.6764508350954 </east>
+			<west> 4.67637414775728 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.67640222794782,45.6206849712528,0 4.67643784082164,45.6205808621674,0 4.6764508350954,45.62052248447931,0 4.67644165127468,45.6204947001724,0 4.67642296507096,45.62047102045311,0 4.67637414775728,45.6205883861668,0 4.67640222794782,45.6206849712528,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2291">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69141000AM0204</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">MORNANT</SimpleData>
+					<SimpleData name="Adresse">BELLEVUE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.5965587957817 </north>
+			<south> 45.59647397349901 </south>
+			<east> 4.67340759134549 </east>
+			<west> 4.672153730035 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.67340647892182,45.59647397349901,0 4.67336996547141,45.5964756876836,0 4.67307544463189,45.5964987136304,0 4.67289391893279,45.5965120420022,0 4.67244671038198,45.5965431918488,0 4.67239138066292,45.5965463564145,0 4.67230207507202,45.59655029637649,0 4.67225169243344,45.5965515859529,0 4.67221696399238,45.59654867975689,0 4.67216008022576,45.5965428605253,0 4.67215402027925,45.59654186981291,0 4.672153730035,45.5965492596965,0 4.6721581146935,45.5965500051143,0 4.67221564239138,45.5965559048402,0 4.6722513967696,45.5965587957817,0 4.67230254886424,45.5965574947639,0 4.67239211094984,45.59655355098751,0 4.67244769715916,45.5965503826072,0 4.67290572538412,45.5965333926129,0 4.67307655973128,45.5965059024754,0 4.67337082412579,45.596482880342,0 4.67340759134549,45.5964810723132,0 4.67340647892182,45.59647397349901,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.5458">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69141000AS0062</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">MORNANT</SimpleData>
+					<SimpleData name="Adresse">LE CALICHET</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.626904306632 </north>
+			<south> 45.6268647015426 </south>
+			<east> 4.65786621118831 </east>
+			<west> 4.65778107446464 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.65778107446464,45.6268848203878,0 4.65778679228049,45.6268957244238,0 4.65779115692423,45.626904306632,0 4.65779841684108,45.62690239831699,0 4.65786621118831,45.6268900509512,0 4.65786161044641,45.6268778695112,0 4.65785672344394,45.6268647015426,0 4.65778107446464,45.6268848203878,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6634">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69141000AR0093</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">MORNANT</SimpleData>
+					<SimpleData name="Adresse">A L ARC</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.62286392103889 </north>
+			<south> 45.6223760511305 </south>
+			<east> 4.66536050028868 </east>
+			<west> 4.66505103644891 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.66505103644891,45.6226795667096,0 4.66533807040694,45.62286392103889,0 4.66533459010873,45.6228420860332,0 4.66532965800458,45.62279757538661,0 4.66533323076706,45.6227370868981,0 4.66533929710429,45.6226613400155,0 4.66533807163459,45.62262911382031,0 4.66535463097039,45.62247115971031,0 4.66536050028868,45.6223760511305,0 4.66533438386876,45.6224295777831,0 4.66530487853292,45.6224771200337,0 4.66521855306344,45.6225517130011,0 4.66510265496369,45.6226374616319,0 4.66505103644891,45.6226795667096,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

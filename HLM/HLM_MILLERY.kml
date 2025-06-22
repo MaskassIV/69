@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>MILLERY_HLM</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_5">
+		<name>MILLERY_HLM</name>
+		<Schema name="MILLERY_HLM" id="MILLERY_HLM.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="HLM">
+			<LineStyle>
+				<color>BFe451f5</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4Ce451f5</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2385">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69133000AE0027</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">MILLERY</SimpleData>
+					<SimpleData name="Adresse">9, RUE DE LA TOURTIERE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6373567467067 </north>
+			<south> 45.6368843274804 </south>
+			<east> 4.77825118295473 </east>
+			<west> 4.77757042465861 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.77794504994342,45.6373567467067,0 4.77801855560685,45.63727470178409,0 4.77825118295473,45.6370018945155,0 4.77818491650487,45.6369854677998,0 4.77812506781721,45.6369849722671,0 4.77802331609052,45.6369550550459,0 4.77804267452396,45.636922143543,0 4.77797985005411,45.6369049417625,0 4.77790497522257,45.6368843274804,0 4.77784484880233,45.6369551723306,0 4.77783908309614,45.6369635499336,0 4.77783813789671,45.63697410315879,0 4.77781003833364,45.6370067023523,0 4.77779441762839,45.6370240625768,0 4.7777890837912,45.6370218950613,0 4.77773126770875,45.6370807239236,0 4.7776656052472,45.63715111569461,0 4.77764949135549,45.63716911418409,0 4.77763396999056,45.6371855721071,0 4.77758042081203,45.6372533405793,0 4.77757042465861,45.6372659282468,0 4.77768440515669,45.6373088030726,0 4.77772767385031,45.63731676641459,0 4.77794504994342,45.6373567467067,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.3084">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69133000AH0362</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">MILLERY</SimpleData>
+					<SimpleData name="Adresse">26, RUE DU GUICHOLET</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">IMMOBILIERE RHONE ALPES SA DHLM</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.63438782773451 </north>
+			<south> 45.6341966379674 </south>
+			<east> 4.78489871743578 </east>
+			<west> 4.784681117169 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.78487373975089,45.6341966379674,0 4.784681117169,45.6342074389804,0 4.78468381656654,45.6342314451395,0 4.78469112879205,45.6342950094034,0 4.78468857099568,45.63429532017989,0 4.78468909231099,45.6342995452515,0 4.78469715641042,45.6343665202915,0 4.784699640471,45.63438782773451,0 4.78488832331294,45.6343782601093,0 4.78489871743578,45.6343621526777,0 4.78489790754047,45.6343569414023,0 4.78488792122698,45.6342900869312,0 4.78487373975089,45.6341966379674,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.3275">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69133000AE0394</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">MILLERY</SimpleData>
+					<SimpleData name="Adresse">3, RUE NINON VALLIN</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6346170792459 </north>
+			<south> 45.6343787819736 </south>
+			<east> 4.77567729638863 </east>
+			<west> 4.775283626826 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.77544880998956,45.6343787819736,0 4.77540578552255,45.6344063919137,0 4.77537226441144,45.6344380852412,0 4.77533050343478,45.63448909362741,0 4.775283626826,45.6345487394226,0 4.7753534435813,45.6345598876682,0 4.77540637752348,45.6345690504474,0 4.77566765196376,45.6346170792459,0 4.77566089132304,45.6345744022823,0 4.77567729638863,45.6345054194061,0 4.77567678730363,45.6345015543938,0 4.77566470648989,45.63441707844841,0 4.77561848598412,45.634409070859,0 4.77554772202474,45.63439640652089,0 4.77544880998956,45.6343787819736,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.3289">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69133000AE0396</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">MILLERY</SimpleData>
+					<SimpleData name="Adresse">3, RUE NINON VALLIN</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6347531629079 </north>
+			<south> 45.6342738189715 </south>
+			<east> 4.77534825728806 </east>
+			<west> 4.77474907752718 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.77502903148178,45.6347531629079,0 4.77503799374042,45.6347283421499,0 4.77510049030131,45.6347394258735,0 4.77512796087436,45.634663152954,0 4.77514890024285,45.6346154454219,0 4.77517657023186,45.63456943313231,0 4.77528552478063,45.634431707511,0 4.77532713298789,45.6343839441007,0 4.77534825728806,45.6343660470464,0 4.77529486185391,45.6343424801953,0 4.77531667377515,45.63431799713109,0 4.77521665409004,45.6342738189715,0 4.77503499057706,45.6342981213287,0 4.77486818430874,45.6344695448842,0 4.77483728050956,45.6345548789596,0 4.77477125853225,45.6346421179228,0 4.77474907752718,45.6347031754373,0 4.77502903148178,45.6347531629079,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.3297">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69133000AE0397</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">MILLERY</SimpleData>
+					<SimpleData name="Adresse">3, RUE NINON VALLIN</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.63519117185859 </north>
+			<south> 45.6347344304666 </south>
+			<east> 4.77507112223243 </east>
+			<west> 4.77469878108001 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.77497797430427,45.63519117185859,0 4.77500088808303,45.635152980721,0 4.77501542016955,45.6351136607876,0 4.77501742272327,45.63510002851159,0 4.77501725500121,45.63507075814711,0 4.77501630289124,45.6350410498005,0 4.77501811777802,45.6350135495814,0 4.77502475250358,45.6349641762077,0 4.77503028020491,45.6349363472152,0 4.77503916459195,45.6349090957738,0 4.77507112223243,45.6348205925381,0 4.77500448740138,45.6348085832889,0 4.77501344967999,45.6347837625328,0 4.77473762510501,45.6347344304666,0 4.77469961708681,45.6348424843029,0 4.77469878108001,45.6350127312799,0 4.77472123082647,45.63512433524591,0 4.77474513745673,45.6351491780608,0 4.77497797430427,45.63519117185859,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.3320">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69133000AI0040</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">MILLERY</SimpleData>
+					<SimpleData name="Adresse">70, RUE DU CLOS BINET</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SOCIETE ANONYME DHABITATION A LOYER MODERE LE TOIT FAMILIAL</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.63198019684711 </north>
+			<south> 45.6315537729911 </south>
+			<east> 4.78512930618222 </east>
+			<west> 4.78441201417708 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.78473259149512,45.6315615066755,0 4.78472142777565,45.6315616837302,0 4.7847098981418,45.6316540993119,0 4.78470530577106,45.6316829048008,0 4.78468120347626,45.6318274006843,0 4.78454428743685,45.6318096663054,0 4.78449774667501,45.6318036490193,0 4.78441201417708,45.631792578709,0 4.78441895163084,45.6318445297482,0 4.78445487987723,45.6318997139867,0 4.78450039996061,45.6319059276194,0 4.78460910984083,45.6319208668148,0 4.78470775864626,45.6319343441923,0 4.78490596334111,45.6319615545159,0 4.78496192963048,45.6319692235512,0 4.78504239560656,45.63198019684711,0 4.78510656093483,45.63175229007399,0 4.78511324616941,45.6317286754856,0 4.78512304559235,45.6316901497752,0 4.78512444203731,45.6316577921227,0 4.78512930618222,45.6315537729911,0 4.78473259149512,45.6315615066755,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.4926">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69133000AZ0085</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">MILLERY</SimpleData>
+					<SimpleData name="Adresse">3, PL DE L EGLISE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SCOM</SimpleData>
+					<SimpleData name="Denomination">FONCIERE DHABITAT ET HUMANISME</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.63435197440739 </north>
+			<south> 45.6340834918668 </south>
+			<east> 4.77868571248818 </east>
+			<west> 4.7783683292933 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.7783683292933,45.6341284033591,0 4.77838749436799,45.6341654799144,0 4.7784769066431,45.6341471335944,0 4.77849467895867,45.63422080092121,0 4.77846387580207,45.6342291238868,0 4.77847931552531,45.63427013234939,0 4.77851743612376,45.6342617838072,0 4.7785443450484,45.6342561344277,0 4.77855153237919,45.6342520577192,0 4.7785773094975,45.6342471467861,0 4.77858381071155,45.6342456929748,0 4.77859725129858,45.6343124032203,0 4.77859617010278,45.6343507004343,0 4.77863524170514,45.63435197440739,0 4.7786363601696,45.63434682268971,0 4.77863506452084,45.63431847083811,0 4.77861616220924,45.6341456533446,0 4.77868571248818,45.6341405009066,0 4.77867964482046,45.6340834918668,0 4.77861086166972,45.634088542107,0 4.77854692304572,45.6340925249617,0 4.77854601433588,45.6340882159207,0 4.77848247400443,45.6340966059171,0 4.7783683292933,45.6341284033591,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.4938">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69133000AZ0086</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">MILLERY</SimpleData>
+					<SimpleData name="Adresse">7, PL DU MARCHE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SCOM</SimpleData>
+					<SimpleData name="Denomination">FONCIERE DHABITAT ET HUMANISME</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6343589589985 </north>
+			<south> 45.6340817764074 </south>
+			<east> 4.77901940791917 </east>
+			<west> 4.77861616220924 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.77867964482046,45.6340834918668,0 4.77868571248818,45.6341405009066,0 4.77861616220924,45.6341456533446,0 4.77863506452084,45.63431847083811,0 4.7786363601696,45.63434682268971,0 4.77863524170514,45.63435197440739,0 4.77863896892095,45.6343520956409,0 4.77871463925675,45.63435360177841,0 4.77892845302292,45.6343589589985,0 4.77893507389164,45.6343572330629,0 4.77895431221815,45.6343526055475,0 4.77898044251592,45.6343466981593,0 4.7789972962688,45.6342958118913,0 4.77901027647338,45.6342042748101,0 4.77901940791917,45.63414081061831,0 4.77873555566793,45.6341373712613,0 4.77871119997583,45.6341385668588,0 4.77870598338838,45.6341040620897,0 4.77870269989556,45.6340817764074,0 4.7786824621812,45.63408326719559,0 4.77867964482046,45.6340834918668,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.4950">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69133000AZ0087</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">MILLERY</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SCOM</SimpleData>
+					<SimpleData name="Denomination">FONCIERE DHABITAT ET HUMANISME</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.63414081061831 </north>
+			<south> 45.63395247105691 </south>
+			<east> 4.77904384303425 </east>
+			<west> 4.77868460025706 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.77870269989556,45.6340817764074,0 4.77870598338838,45.6341040620897,0 4.77871119997583,45.6341385668588,0 4.77873555566793,45.6341373712613,0 4.77901940791917,45.63414081061831,0 4.77903032759825,45.634065068515,0 4.77904151257137,45.6339895924294,0 4.77904384303425,45.6339782066554,0 4.778694695633,45.63395247105691,0 4.77869309102031,45.63395447797811,0 4.7786898239727,45.6339566913167,0 4.77868753726251,45.6339574480263,0 4.77868460025706,45.6339579448014,0 4.77870654096237,45.63408144548449,0 4.77870269989556,45.6340817764074,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

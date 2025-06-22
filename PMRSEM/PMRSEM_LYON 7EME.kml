@@ -1,0 +1,754 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>LYON 7EME_PMRSEM</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_6">
+		<name>LYON 7EME_PMRSEM</name>
+		<Schema name="LYON 7EME_PMRSEM" id="LYON 7EME_PMRSEM.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="PMRSEM">
+			<LineStyle>
+				<color>BF00faff</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C00faff</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.814">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">69387000BD0111</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LYON 7EME</SimpleData>
+					<SimpleData name="Adresse">96, RUE JABOULAY</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SEM</SimpleData>
+					<SimpleData name="Denomination">SEM DE CONSTRUCTION DU DPT DE L AIN</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7448438744939 </north>
+			<south> 45.744536928735 </south>
+			<east> 4.84738646730619 </east>
+			<west> 4.84705338761012 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.84705338761012,45.7445882392745,0 4.84725091608062,45.7448438744939,0 4.84738646730619,45.74479247369219,0 4.84718894140098,45.744536928735,0 4.84705338761012,45.7445882392745,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.815">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">69387000BM0140</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LYON 7EME</SimpleData>
+					<SimpleData name="Adresse">85, RUE DE GERLAND</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">GECINA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.73762398638439 </north>
+			<south> 45.7374957646288 </south>
+			<east> 4.84015093004877 </east>
+			<west> 4.83989931628664 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.83989931628664,45.73750654893161,0 4.83991145730142,45.73762398638439,0 4.84015093004877,45.7376111608735,0 4.84014065732241,45.7374957646288,0 4.83989931628664,45.73750654893161,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.817">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">69387000BM0135</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LYON 7EME</SimpleData>
+					<SimpleData name="Adresse">85, RUE DE GERLAND</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">GECINA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7373350421385 </north>
+			<south> 45.73697017850821 </south>
+			<east> 4.84077876057207 </east>
+			<west> 4.8403721967517 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.8403721967517,45.7369819008392,0 4.84040749253309,45.7373350421385,0 4.84077876057207,45.7373168211703,0 4.84069299818399,45.73697017850821,0 4.8403721967517,45.7369819008392,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.819">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">69387000BM0136</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LYON 7EME</SimpleData>
+					<SimpleData name="Adresse">85, RUE DE GERLAND</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">GECINA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7378819735104 </north>
+			<south> 45.73746287061 </south>
+			<east> 4.84089737614546 </east>
+			<west> 4.83991145730142 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.84025256032011,45.7378819735104,0 4.84060328594507,45.73786480906101,0 4.84059789077777,45.7378109432867,0 4.84089737614546,45.737796325804,0 4.84081488129483,45.73746287061,0 4.84030350060684,45.7374878824518,0 4.84014065732241,45.7374957646288,0 4.84015093004877,45.7376111608735,0 4.83991145730142,45.73762398638439,0 4.83994987015687,45.73774234619439,0 4.83999089666949,45.7378657975123,0 4.84014869626252,45.7378454777147,0 4.84024534851911,45.7378392163796,0 4.84025256032011,45.7378819735104,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.832">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">69387000BY0112</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LYON 7EME</SimpleData>
+					<SimpleData name="Adresse">14, RUE CDT AYASSE</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">CDC HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7366596690603 </north>
+			<south> 45.7360368316986 </south>
+			<east> 4.82601043677709 </east>
+			<west> 4.82495310649035 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.82520949781431,45.7366596690603,0 4.82599623182934,45.7363296933751,0 4.82601043677709,45.7362768607857,0 4.82574255092989,45.7360368316986,0 4.82495310649035,45.73635865290079,0 4.82495364450579,45.7363593647744,0 4.82520949781431,45.7366596690603,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.833">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">69387000BI0113</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LYON 7EME</SimpleData>
+					<SimpleData name="Adresse">2, RUE DU DOCTEUR CRESTIN</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">CDC HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.745772552223 </north>
+			<south> 45.74527084951301 </south>
+			<east> 4.85726280057883 </east>
+			<west> 4.8562959895755 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.8562959895755,45.7455323876186,0 4.85689058014344,45.745772552223,0 4.8568970123146,45.7457648801116,0 4.85696944523417,45.7456768562631,0 4.8569893482864,45.7456527490405,0 4.85704226668931,45.7455889160396,0 4.85726280057883,45.7453216381795,0 4.8572574622547,45.7453197444851,0 4.85715264127476,45.74527084951301,0 4.8562959895755,45.7455323876186,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.834">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">69387000BI0114</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LYON 7EME</SimpleData>
+					<SimpleData name="Adresse">2, RUE DU DOCTEUR CRESTIN</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">CDC HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7460793389904 </north>
+			<south> 45.7455323876186 </south>
+			<east> 4.85689058014344 </east>
+			<west> 4.85603138971203 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.85603138971203,45.7458361480718,0 4.85663920659229,45.7460793389904,0 4.85670310689683,45.7460015440678,0 4.85684014833482,45.7458338221378,0 4.85689058014344,45.745772552223,0 4.8562959895755,45.7455323876186,0 4.85627841477507,45.7455377210635,0 4.85603138971203,45.7458361480718,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.836">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">69387000AL0118</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LYON 7EME</SimpleData>
+					<SimpleData name="Adresse">3, RUE DE LA MADELEINE</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">CDC HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7503544386934 </north>
+			<south> 45.74952651485921 </south>
+			<east> 4.84858092245015 </east>
+			<west> 4.84801409479458 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.84807337317456,45.74956519916229,0 4.84801409479458,45.749573916926,0 4.8480172289905,45.7496022387064,0 4.84802197502024,45.7496441351663,0 4.84809989196981,45.7503544386934,0 4.848222173061,45.75034829129001,0 4.84821559300683,45.7502900315188,0 4.84830939192918,45.7502824592707,0 4.84830414157872,45.7502331850574,0 4.84858092245015,45.7502186501312,0 4.84853600282209,45.7500642799238,0 4.84851965945197,45.75001032358729,0 4.84855870299323,45.75000824240529,0 4.84844563299989,45.7496934875409,0 4.84840614947117,45.74958622669649,0 4.84835996624872,45.7495940994838,0 4.84833428985841,45.74952651485921,0 4.84807337317456,45.74956519916229,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.837">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">69387000AL0119</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LYON 7EME</SimpleData>
+					<SimpleData name="Adresse">3, RUE DE LA MADELEINE</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">CDC HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.75034829129001 </north>
+			<south> 45.7502186501312 </south>
+			<east> 4.84861278158699 </east>
+			<west> 4.84821559300683 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.848222173061,45.75034829129001,0 4.84852222966894,45.7503333750442,0 4.84861278158699,45.7503287381203,0 4.84858092245015,45.7502186501312,0 4.84830414157872,45.7502331850574,0 4.84830939192918,45.7502824592707,0 4.84821559300683,45.7502900315188,0 4.848222173061,45.75034829129001,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.849">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">69387000BX0161</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LYON 7EME</SimpleData>
+					<SimpleData name="Adresse">63, RUE DU RHONE</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">CDC HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.73249590712209 </north>
+			<south> 45.7319762614233 </south>
+			<east> 4.82900819227398 </east>
+			<west> 4.8289654150675 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.8289654150675,45.7319762614233,0 4.82899232275697,45.7323852961431,0 4.82899778260617,45.73249590712209,0 4.82900819227398,45.7324956481635,0 4.82898368107674,45.73197632537001,0 4.8289654150675,45.7319762614233,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.852">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">69387000BS0171</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LYON 7EME</SimpleData>
+					<SimpleData name="Adresse">188, AV JEAN JAURES</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">GECINA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7385779474958 </north>
+			<south> 45.7377024466223 </south>
+			<east> 4.8374910817692 </east>
+			<west> 4.83608729914534 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.8364532202232,45.7385779474958,0 4.83746511017256,45.7382079239934,0 4.8374910817692,45.73815723991691,0 4.83748983492459,45.7381545580437,0 4.83733821587195,45.7379003205655,0 4.83711403836875,45.7379670247909,0 4.83695577496992,45.7377024466223,0 4.83608729914534,45.7379053865261,0 4.8361405396179,45.73800179841911,0 4.83632920741799,45.73834920010221,0 4.83635422398823,45.7383975221952,0 4.83637998806674,45.73844511152361,0 4.8364532202232,45.7385779474958,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.853">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">69387000BX0172</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LYON 7EME</SimpleData>
+					<SimpleData name="Adresse">104, RUE JEAN VALLIER</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SEM</SimpleData>
+					<SimpleData name="Denomination">ADOMA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7326484855346 </north>
+			<south> 45.7321967032478 </south>
+			<east> 4.83737710584727 </east>
+			<west> 4.8369463059248 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.83737710584727,45.7326380661336,0 4.83728610219076,45.7323224920117,0 4.83725028159759,45.7321967032478,0 4.8369463059248,45.73224173931359,0 4.83696762831163,45.7324692767718,0 4.8369796241286,45.7325670808186,0 4.83698520982219,45.7326345446142,0 4.83717474223423,45.7326367703879,0 4.83717934913723,45.7326360648002,0 4.83718009950411,45.7326354220602,0 4.83719079019416,45.73263587835099,0 4.83722591159564,45.73263611664559,0 4.83722966676168,45.7326484855346,0 4.83725602865061,45.732644452991,0 4.83725343351866,45.73263602841361,0 4.83737710584727,45.7326380661336,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.858">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">69387000CD0239</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LYON 7EME</SimpleData>
+					<SimpleData name="Adresse">7, RUE SIMON FRYD</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">GECINA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.73079111383859 </north>
+			<south> 45.7307033189783 </south>
+			<east> 4.836988063706 </east>
+			<west> 4.83666428509432 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.836988063706,45.7307190940878,0 4.83698684995513,45.7307174024779,0 4.83698563620433,45.7307157108679,0 4.8369844224536,45.7307140192579,0 4.83697776473814,45.7307033189783,0 4.83666428509432,45.73079111383859,0 4.836988063706,45.7307190940878,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.859">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">69387000CD0231</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LYON 7EME</SimpleData>
+					<SimpleData name="Adresse">7, RUE SIMON FRYD</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">GECINA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.73079111383859 </north>
+			<south> 45.7303451355832 </south>
+			<east> 4.83818981748805 </east>
+			<west> 4.83657794783614 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.83765524327448,45.7303451355832,0 4.83768287594175,45.73038710955559,0 4.83772150448771,45.73045034166441,0 4.83771255712848,45.7304520187656,0 4.83773835146771,45.730496724887,0 4.83781408133198,45.730623664324,0 4.83768818642894,45.73062427550781,0 4.83761137845011,45.73062741910599,0 4.83748921248503,45.7304461117221,0 4.83747730804363,45.73042847129109,0 4.8374452539878,45.7303811649518,0 4.83734516521254,45.7304113494684,0 4.83725196097928,45.73043971030351,0 4.83723973722099,45.73044342237261,0 4.83700213441517,45.7305154798006,0 4.83660710988523,45.73063414726641,0 4.83657794783614,45.7306429090914,0 4.83660228542569,45.730682505028,0 4.83666428509432,45.73079111383859,0 4.83697776473814,45.7307033189783,0 4.8369844224536,45.7307140192579,0 4.83698563620433,45.7307157108679,0 4.83698684995513,45.7307174024779,0 4.836988063706,45.7307190940878,0 4.83723494772346,45.7306940837365,0 4.83727080309651,45.7306854828732,0 4.83728641399241,45.73068306669429,0 4.83729397730431,45.7306823129158,0 4.83730142104406,45.7306818313049,0 4.8373091188854,45.730681255479,0 4.83731657159965,45.73068104394,0 4.8373241528605,45.7306808303054,0 4.83733174010452,45.73068079671899,0 4.83733932734853,45.7306807631321,0 4.8373469265591,45.7306810896419,0 4.83735452277811,45.73068132612691,0 4.8373622595105,45.73068192061361,0 4.83737012478971,45.7306825130046,0 4.83742642513166,45.7306776321514,0 4.83745698992343,45.73069947209041,0 4.8374713962308,45.7307033806361,0 4.83747816742293,45.73070588238761,0 4.83748493562381,45.73070829411439,0 4.83749145570749,45.7307109801043,0 4.83749810433851,45.7307136639985,0 4.83753181542144,45.7306753738843,0 4.83759810747726,45.7307041074867,0 4.83760384431748,45.7307064459453,0 4.8376097097049,45.7307087823081,0 4.83761582320999,45.7307108444069,0 4.83762193671554,45.7307129065053,0 4.83762792167482,45.7307149706989,0 4.83787290697889,45.7306870174844,0 4.83787305868071,45.7306644967369,0 4.8379240976623,45.73066384477359,0 4.83795807286572,45.7306644617993,0 4.83798214197357,45.7306920821095,0 4.83802446631766,45.73068076341341,0 4.83818981748805,45.7306367237646,0 4.83818910591623,45.73063466368609,0 4.83813854822855,45.73063431711801,0 4.83800350256034,45.73063435727651,0 4.83782155797583,45.73062417294611,0 4.83777638443104,45.7305342958574,0 4.8378113518884,45.7305299427297,0 4.83799258049167,45.7305069918444,0 4.83800116914693,45.73050613122741,0 4.83813912033468,45.730508385591,0 4.83810610466217,45.73042443535671,0 4.83807482018681,45.7303461314929,0 4.83765524327448,45.7303451355832,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.860">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">69387000CD0240</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LYON 7EME</SimpleData>
+					<SimpleData name="Adresse">7, RUE SIMON FRYD</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">GECINA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7306940837365 </north>
+			<south> 45.7306807631321 </south>
+			<east> 4.83737012478971 </east>
+			<west> 4.83723494772346 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.83737012478971,45.7306825130046,0 4.8373622595105,45.73068192061361,0 4.83735452277811,45.73068132612691,0 4.8373469265591,45.7306810896419,0 4.83733932734853,45.7306807631321,0 4.83733174010452,45.73068079671899,0 4.8373241528605,45.7306808303054,0 4.83731657159965,45.73068104394,0 4.8373091188854,45.730681255479,0 4.83730142104406,45.7306818313049,0 4.83729397730431,45.7306823129158,0 4.83728641399241,45.73068306669429,0 4.83727080309651,45.7306854828732,0 4.83723494772346,45.7306940837365,0 4.83725572442246,45.7306923039568,0 4.83737012478971,45.7306825130046,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.861">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">69387000CD0241</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LYON 7EME</SimpleData>
+					<SimpleData name="Adresse">7, RUE SIMON FRYD</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">GECINA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.73071589799021 </north>
+			<south> 45.7306753738843 </south>
+			<east> 4.83762792167482 </east>
+			<west> 4.83745698992343 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.83762792167482,45.7307149706989,0 4.83762193671554,45.7307129065053,0 4.83761582320999,45.7307108444069,0 4.8376097097049,45.7307087823081,0 4.83760384431748,45.7307064459453,0 4.83759810747726,45.7307041074867,0 4.83753181542144,45.7306753738843,0 4.83749810433851,45.7307136639985,0 4.83749145570749,45.7307109801043,0 4.83748493562381,45.73070829411439,0 4.83747816742293,45.73070588238761,0 4.8374713962308,45.7307033806361,0 4.83745698992343,45.73069947209041,0 4.83748814650735,45.73071589799021,0 4.83762792167482,45.7307149706989,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.862">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">69387000CD0243</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LYON 7EME</SimpleData>
+					<SimpleData name="Adresse">7, RUE SIMON FRYD</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">GECINA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.73062741910599 </north>
+			<south> 45.7303448982008 </south>
+			<east> 4.83781408133198 </east>
+			<west> 4.8374452539878 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.83756481868608,45.7303448982008,0 4.8374452539878,45.7303811649518,0 4.83747730804363,45.73042847129109,0 4.83748921248503,45.7304461117221,0 4.83761137845011,45.73062741910599,0 4.83768818642894,45.73062427550781,0 4.83781408133198,45.730623664324,0 4.83773835146771,45.730496724887,0 4.83771255712848,45.7304520187656,0 4.83772150448771,45.73045034166441,0 4.83768287594175,45.73038710955559,0 4.83765524327448,45.7303451355832,0 4.83756481868608,45.7303448982008,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.871">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">69387000CD0034</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LYON 7EME</SimpleData>
+					<SimpleData name="Adresse">168, RUE DE GERLAND</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">GECINA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.73063466368609 </north>
+			<south> 45.73050613122741 </south>
+			<east> 4.83818910591623 </east>
+			<west> 4.83777638443104 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.83813912033468,45.730508385591,0 4.83800116914693,45.73050613122741,0 4.83799258049167,45.7305069918444,0 4.8378113518884,45.7305299427297,0 4.83777638443104,45.7305342958574,0 4.83782155797583,45.73062417294611,0 4.83800350256034,45.73063435727651,0 4.83813854822855,45.73063431711801,0 4.83818910591623,45.73063466368609,0 4.83815478951398,45.7305464111637,0 4.83813912033468,45.730508385591,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.873">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">69387000AN0036</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LYON 7EME</SimpleData>
+					<SimpleData name="Adresse">14, RUE ST-MICHEL</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SEM</SimpleData>
+					<SimpleData name="Denomination">SEM DE CONSTRUCTION DU DPT DE L AIN</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7527425257953 </north>
+			<south> 45.752520362366 </south>
+			<east> 4.84375279785424 </east>
+			<west> 4.84346089921175 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.8435275403938,45.75253924655799,0 4.84346089921175,45.7525780766543,0 4.8436552688662,45.7527425257953,0 4.84375279785424,45.7526846354943,0 4.84356147293423,45.75252274887509,0 4.84355869131348,45.752520362366,0 4.8435275403938,45.75253924655799,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.874">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">69387000AN0037</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LYON 7EME</SimpleData>
+					<SimpleData name="Adresse">16, RUE ST-MICHEL</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SEM</SimpleData>
+					<SimpleData name="Denomination">SEM DE CONSTRUCTION DU DPT DE L AIN</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7526846354943 </north>
+			<south> 45.75237253073189 </south>
+			<east> 4.84400943926465 </east>
+			<west> 4.84356147293423 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.8436691272299,45.7524598291594,0 4.84356147293423,45.75252274887509,0 4.84375279785424,45.7526846354943,0 4.84400943926465,45.7525327190683,0 4.84391585090061,45.7524541740821,0 4.84381894276367,45.75237253073189,0 4.8436691272299,45.7524598291594,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.875">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">69387000AN0046</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LYON 7EME</SimpleData>
+					<SimpleData name="Adresse">48, RUE MONTESQUIEU</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SEM</SimpleData>
+					<SimpleData name="Denomination">ADOMA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7524410414029 </north>
+			<south> 45.7522553490547 </south>
+			<east> 4.84310386860323 </east>
+			<west> 4.84285063608848 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.843008679175,45.7522553490547,0 4.84296009911114,45.7522763193885,0 4.84294639979372,45.7522822178821,0 4.84294335850249,45.7522836186825,0 4.84285063608848,45.75232359521401,0 4.84295594191807,45.7524410414029,0 4.84310386860323,45.7523549457637,0 4.843008679175,45.7522553490547,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.890">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">69387000BX0098</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LYON 7EME</SimpleData>
+					<SimpleData name="Adresse">194, RUE MARCEL MERIEUX</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">CDC HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7327269284911 </north>
+			<south> 45.7316202080854 </south>
+			<east> 4.82942391859426 </east>
+			<west> 4.82795988142388 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.82904631674407,45.7324350410928,0 4.8290209939477,45.7320428242908,0 4.82942391859426,45.7320299813262,0 4.82939534165546,45.7317299619396,0 4.8292061760359,45.731738706084,0 4.82919273781576,45.7316202080854,0 4.82907997292507,45.7316251002158,0 4.82800421758835,45.7316758760265,0 4.82795988142388,45.7317081204366,0 4.82799457373385,45.731983270867,0 4.8289004586136,45.731976144295,0 4.8289654150675,45.7319762614233,0 4.82898368107674,45.73197632537001,0 4.82900819227398,45.7324956481635,0 4.82899778260617,45.73249590712209,0 4.82806239462987,45.7325212571032,0 4.82808214793654,45.73267910471161,0 4.82808694995921,45.7327154162742,0 4.8281402180028,45.7327159936462,0 4.8290653624275,45.7327269284911,0 4.82904631674407,45.7324350410928,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

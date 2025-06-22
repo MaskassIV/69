@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>GREZIEU-LE-MARCHE_DEPT</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_3">
+		<name>GREZIEU-LE-MARCHE_DEPT</name>
+		<Schema name="GREZIEU-LE-MARCHE_DEPT" id="GREZIEU-LE-MARCHE_DEPT.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="DEPT">
+			<LineStyle>
+				<color>BF63f16c</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C63f16c</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6004">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690950000D0738</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GREZIEU-LE-MARCHE</SimpleData>
+					<SimpleData name="Adresse">LE GARAT</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6626616014307 </north>
+			<south> 45.6624240655137 </south>
+			<east> 4.41130895120715 </east>
+			<west> 4.410892577754 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.41123598098031,45.6625746641872,0 4.41130895120715,45.6624240655137,0 4.41126074658128,45.66247798677019,0 4.41115699915283,45.6625599831433,0 4.410892577754,45.662627241124,0 4.41094637236151,45.6626616014307,0 4.41113441746278,45.66261133165881,0 4.41119404870577,45.66259248174539,0 4.41123598098031,45.6625746641872,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6025">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690950000D0742</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GREZIEU-LE-MARCHE</SimpleData>
+					<SimpleData name="Adresse">LE GARAT</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6619182757626 </north>
+			<south> 45.66163252092049 </south>
+			<east> 4.41212808129788 </east>
+			<west> 4.41187412314178 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.41204041335849,45.66163252092049,0 4.41201306272451,45.6617184234226,0 4.41201196222912,45.6617205987266,0 4.41201086173365,45.6617227740306,0 4.41200976123808,45.6617249493345,0 4.41200866074243,45.6617271246385,0 4.4120075602467,45.6617292999424,0 4.41200633135007,45.6617314768565,0 4.41200523085415,45.66173365216039,0 4.41200399966104,45.66173573904061,0 4.41200277076413,45.6617379159546,0 4.41200167026794,45.6617400912585,0 4.41200044137085,45.6617422681725,0 4.41199921017735,45.6617443550526,0 4.41199798128006,45.6617465319666,0 4.41199675008639,45.66174861884669,0 4.41199539278806,45.6617507973708,0 4.41199416159418,45.66175288425089,0 4.41199280429565,45.661755062775,0 4.41199157310158,45.66175714965511,0 4.41199021350656,45.6617592381453,0 4.41198885620771,45.6617614166693,0 4.41198762501336,45.6617635035493,0 4.41198626541803,45.6617655920395,0 4.41198490582259,45.6617676805296,0 4.41198341782616,45.6617697706298,0 4.41198205823052,45.6617718591199,0 4.41198069863477,45.66177394761,0 4.41197921063802,45.6617760377102,0 4.41197785104206,45.6617781262002,0 4.41197636304508,45.6617802163004,0 4.41197487504799,45.6617823064005,0 4.41197351545172,45.6617843948905,0 4.41197202515816,45.6617863949567,0 4.41197053716074,45.6617884850568,0 4.41196904916321,45.6617905751569,0 4.41196742817212,45.6617924867993,0 4.41196594017437,45.6617945768993,0 4.41196444988026,45.6617965769654,0 4.41196283348132,45.6617986686755,0 4.41196134318698,45.6618006687416,0 4.41195972449157,45.6618026704178,0 4.41195810809228,45.6618047621278,0 4.41195648939663,45.66180676380401,0 4.41195487070086,45.6618087654801,0 4.41195325200498,45.6618107671562,0 4.41195163330898,45.6618127688322,0 4.41195001461286,45.66181477050829,0 4.41194839591663,45.6618167721843,0 4.41194664881927,45.66181877547039,0 4.4119450301228,45.6618207771464,0 4.41194328072898,45.6618226903985,0 4.41194153363125,45.66182469368449,0 4.41193991493442,45.6618266953604,0 4.41193816554024,45.66182860861259,0 4.41193641844214,45.6618306118985,0 4.41193466904772,45.6618325251505,0 4.41193292194936,45.6618345284364,0 4.41193104415364,45.6618364432985,0 4.41192929475885,45.6618383565504,0 4.41192754766012,45.66184035983621,0 4.41192566986402,45.6618422746982,0 4.41192404886992,45.66184418634,0 4.41192217107357,45.6618461012019,0 4.41192029327708,45.66184801606381,0 4.41191841548047,45.66184993092569,0 4.41191666608481,45.6618518441775,0 4.41191478828795,45.6618537590392,0 4.41191277979369,45.6618555854772,0 4.41191090199656,45.6618575003389,0 4.4119090241993,45.6618594152006,0 4.41190714410576,45.6618612400285,0 4.41190513790713,45.6618631565001,0 4.41190325781334,45.66186498132789,0 4.4119012493183,45.6618668077656,0 4.41189924311926,45.6618687242372,0 4.41189736302508,45.6618705490648,0 4.41189535452964,45.6618723755025,0 4.41189334603407,45.6618742019401,0 4.41189133753837,45.6618760283777,0 4.41188932904254,45.6618778548152,0 4.41188719214542,45.6618796828628,0 4.41188518364931,45.6618815093002,0 4.41188317515308,45.6618833357377,0 4.41188103595943,45.6618850737512,0 4.41187902746293,45.66188690018859,0 4.41187688826902,45.6618886382021,0 4.41187475137107,45.6618904662494,0 4.41187412314178,45.6618910145025,0 4.41194815893005,45.6619182757626,0 4.41198419241984,45.6618807181019,0 4.41205411068526,45.6618019371216,0 4.41208449858264,45.661754543334,0 4.41211317048022,45.66168519577099,0 4.41212808129788,45.6616352941889,0 4.41204041335849,45.66163252092049,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6032">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690950000D0744</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GREZIEU-LE-MARCHE</SimpleData>
+					<SimpleData name="Adresse">LE GARAT</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6616352941889 </north>
+			<south> 45.65999124683169 </south>
+			<east> 4.41240663868162 </east>
+			<west> 4.41183009307475 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.41233981241986,45.65999124683169,0 4.41227962351342,45.66008377562459,0 4.41203755331926,45.6603671766187,0 4.41198859688065,45.6604217380757,0 4.41198114138563,45.6604416453498,0 4.41189922472624,45.6606643167221,0 4.41183009307475,45.66084440822049,0 4.41184432450779,45.66090385124371,0 4.41186308491601,45.6609797189406,0 4.41193268178251,45.6611653659809,0 4.41201028506585,45.6613325398049,0 4.41202718737568,45.6613758281041,0 4.41203961867265,45.6614200730963,0 4.41204778522706,45.66146329081791,0 4.41205605513125,45.6615105600624,0 4.41205632098739,45.6615663055086,0 4.41204041335849,45.66163252092049,0 4.41212808129788,45.6616352941889,0 4.41213405998864,45.66160784016271,0 4.4121362134012,45.6615613408279,0 4.41212875306676,45.6615206360086,0 4.41208739188906,45.6613996602059,0 4.41202321762049,45.6612352900936,0 4.4119460480923,45.6610146136314,0 4.41192513929444,45.6608796917929,0 4.41193533152338,45.66077067825231,0 4.41197373192923,45.6606496929026,0 4.41201889230418,45.66055203905271,0 4.41204966165794,45.6604843763931,0 4.41207753599287,45.6604391756289,0 4.4121047480288,45.6604032596156,0 4.41221166882869,45.660289790652,0 4.41229356639278,45.6601973498595,0 4.41232085374156,45.6601593614059,0 4.41237244258927,45.6600720740383,0 4.41240663868162,45.6599977937179,0 4.41233981241986,45.65999124683169,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6038">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690950000D0747</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GREZIEU-LE-MARCHE</SimpleData>
+					<SimpleData name="Adresse">LE GARAT</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.66084440822049 </north>
+			<south> 45.6604217380757 </south>
+			<east> 4.41198859688065 </east>
+			<west> 4.41183009307475 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.41198859688065,45.6604217380757,0 4.41196931960191,45.6604414333455,0 4.41194016063921,45.6604715196673,0 4.41183088943404,45.66073461187751,0 4.41183009307475,45.66084440822049,0 4.41189922472624,45.6606643167221,0 4.41198114138563,45.6604416453498,0 4.41198859688065,45.6604217380757,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6039">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690950000D0749</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GREZIEU-LE-MARCHE</SimpleData>
+					<SimpleData name="Adresse">LE GARAT</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6599977937179 </north>
+			<south> 45.6595917564981 </south>
+			<east> 4.41258644951871 </east>
+			<west> 4.41233981241986 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.41233981241986,45.65999124683169,0 4.41240663868162,45.6599977937179,0 4.41247463780569,45.6598338372621,0 4.41250585753044,45.6597586936206,0 4.41253325175902,45.6597098061914,0 4.41258644951871,45.6596252004148,0 4.41257982297982,45.6596171779111,0 4.41256735817297,45.6595917564981,0 4.41248741952292,45.6596250017704,0 4.41240213841068,45.65980628692409,0 4.41233981241986,45.65999124683169,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6190">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">690950000B0797</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GREZIEU-LE-MARCHE</SimpleData>
+					<SimpleData name="Adresse">LE GAZANCHON</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6612734607504 </north>
+			<south> 45.66111768751839 </south>
+			<east> 4.43545342367114 </east>
+			<west> 4.43505716618521 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.43505716618521,45.6611846378161,0 4.43543002228034,45.6612734607504,0 4.43545342367114,45.6612100281677,0 4.43509511906729,45.66111768751839,0 4.43505716618521,45.6611846378161,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

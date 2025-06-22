@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>CAILLOUX-SUR-FONTAINES_HLM</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_5">
+		<name>CAILLOUX-SUR-FONTAINES_HLM</name>
+		<Schema name="CAILLOUX-SUR-FONTAINES_HLM" id="CAILLOUX-SUR-FONTAINES_HLM.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="HLM">
+			<LineStyle>
+				<color>BFe451f5</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4Ce451f5</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.1750">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69033000AN0201</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CAILLOUX-SUR-FONTAINES</SimpleData>
+					<SimpleData name="Adresse">LE NANCHET</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.859669268483 </north>
+			<south> 45.8592048195145 </south>
+			<east> 4.87659753702302 </east>
+			<west> 4.87436861194713 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.87438742886691,45.85933745743549,0 4.87659753702302,45.859669268483,0 4.87653857354183,45.8595314427331,0 4.87653597563091,45.8595232890868,0 4.87599309777562,45.8594435801741,0 4.87436861194713,45.8592048195145,0 4.87438742886691,45.85933745743549,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.1768">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69033000AN0202</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CAILLOUX-SUR-FONTAINES</SimpleData>
+					<SimpleData name="Adresse">LE NANCHET</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8605686070173 </north>
+			<south> 45.85933745743549 </south>
+			<east> 4.87687588593817 </east>
+			<west> 4.87438742886691 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.87438742886691,45.85933745743549,0 4.87442070042071,45.8595729909556,0 4.87442160592242,45.8595996380079,0 4.87449564916059,45.859631286912,0 4.87454402158609,45.8596624609025,0 4.87458719775262,45.8596886769043,0 4.87458010370904,45.85970374697611,0 4.87461457521848,45.8597128130611,0 4.87462459905375,45.8596967035597,0 4.87482584986673,45.859765244025,0 4.87489646103728,45.8598286558744,0 4.87495425187453,45.8598600337147,0 4.8749734554288,45.8598674614739,0 4.87500543956768,45.8598716146145,0 4.87507100667354,45.8598738593396,0 4.87519406151879,45.8599023525256,0 4.8752733628886,45.8599066210699,0 4.87547162568068,45.8598758577158,0 4.87564671904591,45.85986511488039,0 4.87578339540293,45.8598885172878,0 4.8758730391341,45.85992395968489,0 4.8760265364321,45.8599453711291,0 4.87613909191862,45.8599115258304,0 4.8761770864993,45.85990666145669,0 4.87632423578676,45.8599423196178,0 4.87634918205855,45.85995559671079,0 4.87636524077455,45.8599728945939,0 4.87636991416423,45.8600041629578,0 4.87637851189099,45.8601773237657,0 4.87638081377239,45.8602108833765,0 4.87639341706776,45.8602478749065,0 4.87641141029687,45.8602879295411,0 4.87651352482227,45.86039054017821,0 4.87655774910385,45.8605157300675,0 4.87659010219173,45.8605686070173,0 4.87662998448022,45.8604979566643,0 4.87687588593817,45.86033651203769,0 4.87672860556226,45.8599749667143,0 4.87659753702302,45.859669268483,0 4.87438742886691,45.85933745743549,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.1780">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69033000AN0203</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CAILLOUX-SUR-FONTAINES</SimpleData>
+					<SimpleData name="Adresse">LE NANCHET</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8601081840013 </north>
+			<south> 45.8595479856484 </south>
+			<east> 4.87458719775262 </east>
+			<west> 4.87383534687859 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.87442160592242,45.8595996380079,0 4.87417887794064,45.8595548439077,0 4.87393524753799,45.8595479856484,0 4.87383534687859,45.8596014352817,0 4.87387016227249,45.8597800162058,0 4.87393149378109,45.8600939898099,0 4.8739826413246,45.8601081840013,0 4.87402997742921,45.86010505699291,0 4.87408616152186,45.860096739039,0 4.8741081430917,45.8600872769256,0 4.87419445082161,45.86000558896021,0 4.87418052391506,45.8599978933989,0 4.87408697520239,45.8599992648647,0 4.87396208321948,45.8599698101273,0 4.87393703600917,45.8599004177399,0 4.87391099943938,45.8598170801991,0 4.8738790477316,45.8597683393064,0 4.87393746609876,45.859689185764,0 4.87396503919686,45.859658373347,0 4.87396035693506,45.85960782909831,0 4.87396814696296,45.85959806192441,0 4.87398571011884,45.8595951584789,0 4.87423026524938,45.85962163755,0 4.87440930471713,45.8596587508403,0 4.87453276811177,45.8596727359485,0 4.87458719775262,45.8596886769043,0 4.87454402158609,45.8596624609025,0 4.87449564916059,45.859631286912,0 4.87442160592242,45.8595996380079,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.1788">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69033000AN0204</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CAILLOUX-SUR-FONTAINES</SimpleData>
+					<SimpleData name="Adresse">LE NANCHET</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8596014352817 </north>
+			<south> 45.858122005083 </south>
+			<east> 4.87442160592242 </east>
+			<west> 4.87362085769982 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.87426278159898,45.8584576950827,0 4.8742128301612,45.858122005083,0 4.87397871475689,45.8581256179905,0 4.87393490535618,45.8581262545022,0 4.87396497728721,45.85848398227141,0 4.87370920470453,45.8584952498185,0 4.87362085769982,45.8585016689305,0 4.87366972001603,45.8587522567508,0 4.87377524905569,45.8592933861093,0 4.87383285108855,45.8595886860839,0 4.87383534687859,45.8596014352817,0 4.87393524753799,45.8595479856484,0 4.87417887794064,45.8595548439077,0 4.87442160592242,45.8595996380079,0 4.87442070042071,45.8595729909556,0 4.87438742886691,45.85933745743549,0 4.87436861194713,45.8592048195145,0 4.87426666568938,45.85848474309859,0 4.87426278159898,45.8584576950827,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2457">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69033000ZC0028</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CAILLOUX-SUR-FONTAINES</SimpleData>
+					<SimpleData name="Adresse">LE PIN</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.862203342803 </north>
+			<south> 45.8606850995576 </south>
+			<east> 4.87910264694546 </east>
+			<west> 4.87621052725245 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.8789984619751,45.862203342803,0 4.87910264694546,45.8617004346516,0 4.87746679711152,45.86155062970441,0 4.87755010228151,45.861142198147,0 4.8775612184799,45.8611051729026,0 4.87742285018729,45.8610283864218,0 4.87690850341316,45.8606850995576,0 4.87677265754703,45.86068996811229,0 4.87671860853987,45.8606966305938,0 4.87669935748838,45.8607067684653,0 4.87670516070833,45.8608394420963,0 4.87655818494993,45.8611575946648,0 4.87651980345486,45.8613671151447,0 4.87642010552641,45.8615061345843,0 4.87621052725245,45.8616175240392,0 4.87658931069265,45.86165564085191,0 4.87646811300352,45.86200020739521,0 4.87855275015702,45.8621649054591,0 4.8789984619751,45.862203342803,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.3971">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69033000AN0514</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CAILLOUX-SUR-FONTAINES</SimpleData>
+					<SimpleData name="Adresse">LE NANCHET</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8581262545022 </north>
+			<south> 45.8564304278611 </south>
+			<east> 4.87397871475689 </east>
+			<west> 4.87378301369255 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.87393490535618,45.8581262545022,0 4.87397871475689,45.8581256179905,0 4.87391309410695,45.8573969222693,0 4.87382586178106,45.8564304278611,0 4.87378301369255,45.8564327598096,0 4.87384628313819,45.8571188892725,0 4.87385922263007,45.8572607222458,0 4.87386327037381,45.8573039809755,0 4.87391946650441,45.8579146551991,0 4.87393490535618,45.8581262545022,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.4358">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69033000AI0609</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CAILLOUX-SUR-FONTAINES</SimpleData>
+					<SimpleData name="Adresse">LA FONDERIE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8546142627325 </north>
+			<south> 45.85459320337959 </south>
+			<east> 4.87812186056042 </east>
+			<west> 4.87806839781251 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.87812186056042,45.8546142627325,0 4.87810451462515,45.85459320337959,0 4.87806839781251,45.8546076752396,0 4.87812186056042,45.8546142627325,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.4375">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69033000AI0617</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CAILLOUX-SUR-FONTAINES</SimpleData>
+					<SimpleData name="Adresse">LA FONDERIE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8546616820471 </north>
+			<south> 45.854461265487 </south>
+			<east> 4.87860765267723 </east>
+			<west> 4.8781798643044 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.87860765267723,45.8546201478912,0 4.87847707397652,45.854461265487,0 4.8781798643044,45.8545800609647,0 4.87821765734278,45.8546261814522,0 4.87850413690419,45.8546616820471,0 4.87860765267723,45.8546201478912,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.4413">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69033000AI0632</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CAILLOUX-SUR-FONTAINES</SimpleData>
+					<SimpleData name="Adresse">LA FONDERIE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.85483367672269 </north>
+			<south> 45.854828611757 </south>
+			<east> 4.87802197099653 </east>
+			<west> 4.87800979008087 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.87802197099653,45.8548304810018,0 4.87800979008087,45.854828611757,0 4.87801395863435,45.85483367672269,0 4.87802197099653,45.8548304810018,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.4423">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69033000AI0637</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CAILLOUX-SUR-FONTAINES</SimpleData>
+					<SimpleData name="Adresse">LA FONDERIE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8548304810018 </north>
+			<south> 45.8546076752396 </south>
+			<east> 4.87812791553396 </east>
+			<west> 4.87789848842243 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.87792602347592,45.8547270487648,0 4.87800979008087,45.854828611757,0 4.87802197099653,45.8548304810018,0 4.87806686413553,45.8548125305121,0 4.87812791553396,45.8546217283516,0 4.87812186056042,45.8546142627325,0 4.87806839781251,45.8546076752396,0 4.87789848842243,45.8546755333541,0 4.87793721684009,45.8547226292068,0 4.87792602347592,45.8547270487648,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.4455">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69033000AI0645</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CAILLOUX-SUR-FONTAINES</SimpleData>
+					<SimpleData name="Adresse">LA FONDERIE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8548125305121 </north>
+			<south> 45.8546217283516 </south>
+			<east> 4.87823092399767 </east>
+			<west> 4.87806686413553 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.87812791553396,45.8546217283516,0 4.87806686413553,45.8548125305121,0 4.87823092399767,45.8547470212574,0 4.87812791553396,45.8546217283516,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.4458">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69033000AI0647</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CAILLOUX-SUR-FONTAINES</SimpleData>
+					<SimpleData name="Adresse">LA FONDERIE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8547210824061 </north>
+			<south> 45.8546261814522 </south>
+			<east> 4.87850413690419 </east>
+			<west> 4.87821765734278 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.87845899249315,45.8546798170418,0 4.87850413690419,45.8546616820471,0 4.87821765734278,45.8546261814522,0 4.87829578341156,45.8547210824061,0 4.87844420154258,45.8546618678726,0 4.87845899249315,45.8546798170418,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.4524">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69033000AB0677</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CAILLOUX-SUR-FONTAINES</SimpleData>
+					<SimpleData name="Adresse">LE GRAND GUILLERMET</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8559654859025 </north>
+			<south> 45.8559182451416 </south>
+			<east> 4.86922865070534 </east>
+			<west> 4.86919286622937 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.86921567529317,45.8559182451416,0 4.86919286622937,45.8559603269471,0 4.86921315092588,45.8559654859025,0 4.86922865070534,45.855935955288,0 4.86921567529317,45.8559182451416,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

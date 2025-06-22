@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>GREZIEU-LA-VARENNE_ETAT</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_1">
+		<name>GREZIEU-LA-VARENNE_ETAT</name>
+		<Schema name="GREZIEU-LA-VARENNE_ETAT" id="GREZIEU-LA-VARENNE_ETAT.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="ETAT">
+			<LineStyle>
+				<color>BF119ff7</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C119ff7</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.507">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">690940000A1104</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GREZIEU-LA-VARENNE</SimpleData>
+					<SimpleData name="Adresse">LES GRANGES</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">FONDATION RENAUD</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7563811715617 </north>
+			<south> 45.7550069036924 </south>
+			<east> 4.71056230733702 </east>
+			<west> 4.70878650315469 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.71042394365567,45.7554031408848,0 4.7103290096728,45.7553373883774,0 4.70984309576861,45.7550069036924,0 4.70982626993173,45.7550120225553,0 4.70978670687728,45.7550308164644,0 4.70974824884162,45.75504373906141,0 4.70970796044713,45.7550723615614,0 4.70967588244113,45.7551085155309,0 4.70962706432877,45.7551567224088,0 4.70958903225612,45.7551834191932,0 4.70955515890496,45.7551989743249,0 4.70951655589001,45.7552072154013,0 4.70947368753329,45.75520651412109,0 4.70942921791544,45.755199802409,0 4.70936188769482,45.7551861414956,0 4.70930055528712,45.7551667152366,0 4.7092650548885,45.7551587866872,0 4.70924111094763,45.7551625722191,0 4.70921623280279,45.75516943428119,0 4.70918251527201,45.755190030854,0 4.70912038253782,45.7552196146665,0 4.70907907588256,45.755227806493,0 4.70905020634599,45.75522626242871,0 4.70900836461082,45.75522131212839,0 4.70897574147936,45.755210727861,0 4.70894655236411,45.7551946873554,0 4.70889050973135,45.75515491499019,0 4.70885410619935,45.7555214206565,0 4.70883715245771,45.7557471225442,0 4.70882265723164,45.7559441449453,0 4.70878650315469,45.7563811715617,0 4.71011316167637,45.756046179379,0 4.70990763161569,45.7558285341072,0 4.71056230733702,45.755587487271,0 4.71042394365567,45.7554031408848,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

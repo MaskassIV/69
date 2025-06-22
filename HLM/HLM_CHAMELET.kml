@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>CHAMELET_HLM</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_5">
+		<name>CHAMELET_HLM</name>
+		<Schema name="CHAMELET_HLM" id="CHAMELET_HLM.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="HLM">
+			<LineStyle>
+				<color>BFe451f5</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4Ce451f5</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2064">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69039000ZP0232</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHAMELET</SimpleData>
+					<SimpleData name="Adresse">212, RUE JEAN MARIE SONNERY</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9825177396313 </north>
+			<south> 45.98058267263689 </south>
+			<east> 4.50507940729051 </east>
+			<west> 4.50370118132722 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.50370118132722,45.982079484501,0 4.50390489015597,45.9821257752526,0 4.5041074640816,45.9821730714365,0 4.50432041429241,45.9822218506163,0 4.50449211027743,45.9823305306764,0 4.50471987038421,45.9824720600778,0 4.50479320895919,45.9825177396313,0 4.50507940729051,45.9822544575182,0 4.50504310404957,45.9822072051958,0 4.50503418183061,45.9822021900259,0 4.50485559260803,45.9821674561707,0 4.50479194082453,45.98215001861911,0 4.50474945791788,45.9821366229178,0 4.50470872891806,45.9821212224546,0 4.50466936885341,45.9821039124116,0 4.50463202345294,45.9820846842114,0 4.50461811501621,45.9820768531557,0 4.50455136357472,45.98203108598829,0 4.50450940327443,45.9819942662005,0 4.50447012062159,45.9819561499088,0 4.50446426844322,45.9819500131247,0 4.50442945670603,45.9819100361148,0 4.50439758089765,45.9818687591766,0 4.50436865085661,45.9818265424441,0 4.50435391954529,45.9818027806775,0 4.50433135702274,45.9817619204039,0 4.50431161356473,45.98172021209029,0 4.50429969760824,45.9816907387885,0 4.50428325901136,45.9816423217184,0 4.50426990513842,45.9815933232796,0 4.50426399137041,45.9815660218894,0 4.50426326417893,45.9815252318344,0 4.5042785181858,45.9812324961707,0 4.50432271068301,45.9808972254091,0 4.50436230538627,45.98058282085021,0 4.5040208558619,45.98058267263689,0 4.50401580985634,45.9807147758052,0 4.50401022886877,45.98086985280261,0 4.50400311542824,45.98105395127029,0 4.50399688005553,45.9812134501698,0 4.50399552838494,45.98122544684371,0 4.50393951733471,45.9813883087299,0 4.50388605316259,45.9815451023689,0 4.50373138060432,45.9819979344373,0 4.50370118132722,45.982079484501,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

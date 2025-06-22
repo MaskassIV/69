@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>ODENAS_DEPT</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_3">
+		<name>ODENAS_DEPT</name>
+		<Schema name="ODENAS_DEPT" id="ODENAS_DEPT.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="DEPT">
+			<LineStyle>
+				<color>BF63f16c</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C63f16c</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.4097">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">691450000D0038</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ODENAS</SimpleData>
+					<SimpleData name="Adresse">SABURIN</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1002228981336 </north>
+			<south> 46.0990733884051 </south>
+			<east> 4.62591741984873 </east>
+			<west> 4.62491823634482 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.62537011727293,46.0990733884051,0 4.62491823634482,46.0990856234949,0 4.6252259437129,46.09940348076,0 4.62536724290986,46.099584385352,0 4.62540893463028,46.0997200611487,0 4.62541349302258,46.0998828388123,0 4.62525911722647,46.1000782454905,0 4.62509534065672,46.1002228981336,0 4.62575721885405,46.1001837865028,0 4.62591741984873,46.0998703065771,0 4.62584928969033,46.0996200829139,0 4.62537011727293,46.0990733884051,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.4715">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">691450000B0475</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ODENAS</SimpleData>
+					<SimpleData name="Adresse">LES JACQUETS</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0955677790599 </north>
+			<south> 46.0952491304595 </south>
+			<east> 4.65285055246171 </east>
+			<west> 4.65252101045708 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.65285037311979,46.0955677790599,0 4.65285055246171,46.095522111632,0 4.6527785154251,46.0954643459668,0 4.65271041430066,46.0954040010146,0 4.65264665084901,46.095341521275,0 4.65258748116706,46.0952768129571,0 4.65256489847809,46.0952491304595,0 4.65252101045708,46.095266342194,0 4.65252853620678,46.0952755096772,0 4.65253618865687,46.0952845852461,0 4.65254397051602,46.0952936589302,0 4.65255174966909,46.0953026425844,0 4.65255965823127,46.0953116243537,0 4.65256769620263,46.095320604238,0 4.65257573146792,46.0953294940925,0 4.6525837667358,46.0953383839465,0 4.65259192870422,46.0953471818861,0 4.65260022008193,46.09535597794069,0 4.65260864086899,46.09536477211011,0 4.6526171883567,46.0953734743652,0 4.65262573313833,46.0953820865905,0 4.65263440732939,46.09539069693049,0 4.65264308152318,46.0953993072699,0 4.65265188512648,46.0954079157241,0 4.65266081543051,46.09541643226379,0 4.65266974573731,46.09542494880281,0 4.65267880274487,46.09543337342729,0 4.65268798916207,46.0954417961665,0 4.65269717287319,46.09545012887569,0 4.6527063565871,46.09545846158421,0 4.65271566700179,46.09546670237809,0 4.65272510682622,46.0954749412866,0 4.65273467606046,46.0954831783096,0 4.65274424258858,46.0954913253027,0 4.65275393581755,46.095499380381,0 4.65276362634035,46.0955073454293,0 4.65277344898204,46.0955153986213,0 4.65282958335945,46.09556096642959,0 4.65285037311979,46.0955677790599,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.4724">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">691450000B0477</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ODENAS</SimpleData>
+					<SimpleData name="Adresse">LES JACQUETS</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0956950443471 </north>
+			<south> 46.095522111632 </south>
+			<east> 4.65298515715644 </east>
+			<west> 4.65285037311979 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.65285037311979,46.0955677790599,0 4.65286462479665,46.09557243519589,0 4.65288488195203,46.0955873617577,0 4.65292632175026,46.0956221551677,0 4.65294237288279,46.0956349813337,0 4.65295052475577,46.0956477424175,0 4.65295286684709,46.09566103846721,0 4.65294231425657,46.0956760535021,0 4.65291233221473,46.0956950443471,0 4.65292448567907,46.095694507054,0 4.65294656159757,46.09568382761189,0 4.65296518892489,46.0956704062677,0 4.65297946993735,46.095654526305,0 4.65298515715644,46.095645616736,0 4.65297245306061,46.0956235548192,0 4.65285055246171,46.095522111632,0 4.65285037311979,46.0955677790599,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.4735">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">691450000B0479</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ODENAS</SimpleData>
+					<SimpleData name="Adresse">LES JACQUETS</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0958024146692 </north>
+			<south> 46.0957339982225 </south>
+			<east> 4.65320023899287 </east>
+			<west> 4.65302678570573 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.65315908595262,46.0958024146692,0 4.65320023899287,46.0957932586465,0 4.65315835778927,46.0957653169818,0 4.65308290924038,46.0957404762643,0 4.65303962685749,46.0957348019303,0 4.65302678570573,46.0957339982225,0 4.65309929036031,46.0957599626842,0 4.65313108184127,46.0957795848931,0 4.65315908595262,46.0958024146692,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.4750">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">691450000B0481</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">ODENAS</SimpleData>
+					<SimpleData name="Adresse">LES JACQUETS</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.0962340130292 </north>
+			<south> 46.0957932586465 </south>
+			<east> 4.65375946105027 </east>
+			<west> 4.65315908595262 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.65315908595262,46.0958024146692,0 4.65318045711643,46.095819936944,0 4.65338748772286,46.0959710283432,0 4.65357209923561,46.09610416210611,0 4.65375946105027,46.0962340130292,0 4.65350018395682,46.0960246885514,0 4.65337330098541,46.0959169236188,0 4.65334741260449,46.0959256771764,0 4.65328581519475,46.0958792885146,0 4.65330395943479,46.0958627217486,0 4.65320023899287,46.0957932586465,0 4.65315908595262,46.0958024146692,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

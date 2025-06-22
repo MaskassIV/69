@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>LES SAUVAGES_HLM</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_5">
+		<name>LES SAUVAGES_HLM</name>
+		<Schema name="LES SAUVAGES_HLM" id="LES SAUVAGES_HLM.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="HLM">
+			<LineStyle>
+				<color>BFe451f5</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4Ce451f5</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.3">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69174000AH0102</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LES SAUVAGES</SimpleData>
+					<SimpleData name="Adresse">LE PERRET</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">IMMOBILIERE RHONE ALPES SA DHLM</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9221891352181 </north>
+			<south> 45.9213918196417 </south>
+			<east> 4.37812233578345 </east>
+			<west> 4.37746067783875 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.37806346623954,45.9218311189919,0 4.37812233578345,45.9215018520853,0 4.37756571814328,45.9213918196417,0 4.37754119512874,45.92142778319321,0 4.37751603237477,45.9214742918972,0 4.37749684441842,45.9215223489781,0 4.37749638465878,45.9215246061507,0 4.37748037100408,45.9215964012033,0 4.37747095244234,45.9216687463922,0 4.37746067783875,45.9218255810757,0 4.3774649440753,45.92193945879671,0 4.37748644866663,45.9221595810635,0 4.37789949564044,45.9221891352181,0 4.37803535445924,45.9218267781487,0 4.37806346623954,45.9218311189919,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.955">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69174000AB0136</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LES SAUVAGES</SimpleData>
+					<SimpleData name="Adresse">30, RTE DE LA LOIRE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">IMMOBILIERE RHONE ALPES SA DHLM</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.92733341943629 </north>
+			<south> 45.9266783718652 </south>
+			<east> 4.37826584167886 </east>
+			<west> 4.3772071215264 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.37737633224679,45.9266908193213,0 4.3772524364399,45.926747626236,0 4.37722622905185,45.9267679392347,0 4.37721714371159,45.9267813791479,0 4.37720889700687,45.9268025542677,0 4.3772071215264,45.9268244611825,0 4.3772142191386,45.9268450892703,0 4.37751665839389,45.9272705574938,0 4.3775612070084,45.92733341943629,0 4.37757219248456,45.9273288725954,0 4.37816611087941,45.9270186677791,0 4.37820074036793,45.926999692976,0 4.37823102659458,45.9269773486761,0 4.37825633572119,45.926952092919,0 4.37826584167886,45.9269399987407,0 4.3782334892793,45.92686942320951,0 4.3776737589137,45.9266783718652,0 4.37760211583013,45.9267706581454,0 4.37738414317329,45.9266935161826,0 4.37737633224679,45.9266908193213,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.1043">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69174000AC0145</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LES SAUVAGES</SimpleData>
+					<SimpleData name="Adresse">200, RUE DE GOUTTE COINE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">IMMOBILIERE RHONE ALPES SA DHLM</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9270423552785 </north>
+			<south> 45.9264552422343 </south>
+			<east> 4.3841634118691 </east>
+			<west> 4.38366970090596 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.3841634118691,45.9264552422343,0 4.3839818895618,45.92646286664111,0 4.38378871944145,45.926556553421,0 4.38366970090596,45.9269717589428,0 4.38367528239097,45.92698330882341,0 4.38368648648067,45.9269926284261,0 4.38370186004259,45.9269983845746,0 4.38370471430483,45.9269989801089,0 4.38399476778978,45.9270423552785,0 4.3841634118691,45.9264552422343,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.1054">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69174000AC0146</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LES SAUVAGES</SimpleData>
+					<SimpleData name="Adresse">209, RUE DE GOUTTE COINE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">IMMOBILIERE RHONE ALPES SA DHLM</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9276002338758 </north>
+			<south> 45.9268222064703 </south>
+			<east> 4.38389359731251 </east>
+			<west> 4.38311160220832 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.38311160220832,45.92692364442701,0 4.38311216921184,45.9271364565812,0 4.38311288838206,45.9273964599356,0 4.38324491372368,45.9274323121455,0 4.38337915762463,45.9274639941748,0 4.3834428617902,45.9274773551547,0 4.38353840671641,45.9274995131795,0 4.38363186236988,45.9275258395772,0 4.38365593248596,45.92753356083299,0 4.38368168084894,45.92750532638109,0 4.38371872754177,45.9275209946033,0 4.38368913555533,45.9275554904242,0 4.38371763722762,45.9275803595233,0 4.38373478519622,45.9276002338758,0 4.38383886366534,45.9272581621457,0 4.38389359731251,45.9270788074761,0 4.38388038074453,45.9270767175574,0 4.38354752679869,45.927024949242,0 4.38353976904605,45.9268958936221,0 4.38352649677771,45.9268658847829,0 4.3835104762213,45.9268497792665,0 4.38348962528267,45.9268366148335,0 4.38346513000402,45.9268273676726,0 4.38345902314096,45.9268257311475,0 4.38341582894937,45.9268222064703,0 4.38337442278265,45.9268230730062,0 4.38330592342678,45.9268654296185,0 4.38311160220832,45.92692364442701,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

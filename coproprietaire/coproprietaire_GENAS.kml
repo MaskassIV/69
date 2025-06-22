@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>GENAS_coproprietaire</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_7">
+		<name>GENAS_coproprietaire</name>
+		<Schema name="GENAS_coproprietaire" id="GENAS_coproprietaire.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="coproprietaire">
+			<LineStyle>
+				<color>BF7c1404</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C7c1404</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_7.38">
+		<styleUrl>#coproprietaire</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_7.schema">
+					<SimpleData name="Numero de Parcelle">69277000AN0374</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GENAS</SimpleData>
+					<SimpleData name="Adresse">RUE DU CLOS D AZIEU</SimpleData>
+					<SimpleData name="Groupe de personne">Coproprietaires</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SYCO</SimpleData>
+					<SimpleData name="Denomination">LES COPROPRIETAIRES DU LOTISSEMENT LE CLOS DAZIEU</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7371607011801 </north>
+			<south> 45.7370924607315 </south>
+			<east> 5.01839189408963 </east>
+			<west> 5.01818512570062 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.0183876517958,45.7370925366817,0 5.01818512570062,45.7370982341349,0 5.01819343111907,45.7371389809399,0 5.01819782596118,45.7371607011801,0 5.01826299071675,45.7371521482146,0 5.0183549674645,45.737141583877,0 5.01835134971443,45.7371270559826,0 5.01839189408963,45.7370924607315,0 5.0183876517958,45.7370925366817,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_7.39">
+		<styleUrl>#coproprietaire</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_7.schema">
+					<SimpleData name="Numero de Parcelle">69277000AN0375</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GENAS</SimpleData>
+					<SimpleData name="Adresse">RUE DU CLOS D AZIEU</SimpleData>
+					<SimpleData name="Groupe de personne">Coproprietaires</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SYCO</SimpleData>
+					<SimpleData name="Denomination">LES COPROPRIETAIRES DU LOTISSEMENT LE CLOS DAZIEU</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.73773623941339 </north>
+			<south> 45.737141583877 </south>
+			<east> 5.0184609085671 </east>
+			<west> 5.01805735689281 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							5.01819782596118,45.7371607011801,0 5.01822785187,45.7373101438036,0 5.01827056522057,45.73752169338161,0 5.0182787553565,45.7375628025599,0 5.01821492902297,45.73756574672061,0 5.01814827774856,45.737568831492,0 5.01815428235583,45.7376099798006,0 5.01805735689281,45.7377105305406,0 5.01810563489341,45.73773623941339,0 5.01825967881912,45.7377238435039,0 5.01842195353354,45.737711390104,0 5.01845514432226,45.7376762058629,0 5.01842443460739,45.7375644281972,0 5.0184609085671,45.737559271281,0 5.01840445005116,45.7373376989329,0 5.0183549674645,45.737141583877,0 5.01826299071675,45.7371521482146,0 5.01819782596118,45.7371607011801,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

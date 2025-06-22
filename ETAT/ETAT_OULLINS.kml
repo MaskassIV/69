@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>OULLINS_ETAT</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_1">
+		<name>OULLINS_ETAT</name>
+		<Schema name="OULLINS_ETAT" id="OULLINS_ETAT.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="ETAT">
+			<LineStyle>
+				<color>BF119ff7</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C119ff7</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.81">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69149000AM0270</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">OULLINS</SimpleData>
+					<SimpleData name="Adresse">20, RUE ELISEE RECLUS</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7145022419756 </north>
+			<south> 45.714449460845 </south>
+			<east> 4.82059022274235 </east>
+			<west> 4.82049175209375 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.82058105111976,45.7145022419756,0 4.82059022274235,45.71446057036909,0 4.82049175209375,45.714449460845,0 4.82053193352601,45.7144709696064,0 4.8205693440827,45.714494234494,0 4.82058105111976,45.7145022419756,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.582">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69149000AN0116</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">OULLINS</SimpleData>
+					<SimpleData name="Adresse">105, AV JEAN JAURES</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7140961719014 </north>
+			<south> 45.71392102334831 </south>
+			<east> 4.82145501213528 </east>
+			<west> 4.82126528356182 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.82126528356182,45.7140904536718,0 4.82128992655613,45.7140930278172,0 4.82131831705801,45.7140961719014,0 4.82145501213528,45.71392102334831,0 4.82145314677299,45.71392294502079,0 4.82145128437545,45.71392495671789,0 4.82144942494263,45.7139270584397,0 4.82144756254481,45.7139290701368,0 4.82144570311171,45.7139311718585,0 4.82144371220528,45.71393318563251,0 4.82144184980704,45.7139351973295,0 4.82143998740867,45.7139372090265,0 4.82143812501017,45.7139392207234,0 4.82143613410318,45.7139412344973,0 4.82143414319604,45.71394324827111,0 4.82143228376195,45.7139453499926,0 4.82143042136289,45.7139473616894,0 4.82142843045533,45.7139493754632,0 4.82142643658279,45.7139512992122,0 4.82142444567494,45.71395331298589,0 4.82142245476694,45.7139553267595,0 4.82142058940237,45.7139572484315,0 4.82141859849409,45.7139592622051,0 4.82141661055048,45.7139613660033,0 4.8214146166771,45.7139632897521,0 4.82141262576838,45.7139653035256,0 4.82141063189472,45.7139672272744,0 4.82140864098572,45.7139692410478,0 4.82140664711178,45.7139711647965,0 4.82140465620249,45.7139731785698,0 4.82140253678463,45.7139751944201,0 4.82140054291026,45.7139771181687,0 4.82139854903575,45.7139790419172,0 4.82139655812589,45.7139810556904,0 4.82139443574265,45.7139829815158,0 4.82139231335927,45.7139849073412,0 4.82139019097574,45.7139868331666,0 4.82138832857375,45.7139888448627,0 4.82138620618993,45.713990770688,0 4.82138408380596,45.71399269651321,0 4.82138196142184,45.7139946223384,0 4.82137983903758,45.71399654816361,0 4.82137771665316,45.7139984739887,0 4.82137572277709,45.7140003977369,0 4.82137360335713,45.7140024135866,0 4.82137148097228,45.7140043394116,0 4.82136935562254,45.71400617521191,0 4.82136710472888,45.7140081031137,0 4.8213651108521,45.7140100268617,0 4.82136298550193,45.71401186266189,0 4.82136073460782,45.71401379056361,0 4.82135861222208,45.7140157163883,0 4.82135648983619,45.7140176422131,0 4.82135436448544,45.71401947801311,0 4.82135211062601,45.71402131589,0 4.82134998527498,45.71402315168989,0 4.82134773437996,45.71402507959141,0 4.82134561199333,45.71402700541591,0 4.82134348664186,45.71402884121569,0 4.82134136129025,45.7140306770155,0 4.82133911039463,45.7140326049168,0 4.82133685653416,45.7140344427933,0 4.82133460267353,45.7140362806698,0 4.82133234881277,45.7140381185463,0 4.82133009791652,45.7140400464474,0 4.82132797256403,45.714041882247,0 4.82132571870282,45.7140437201233,0 4.82132346484145,45.7140455579996,0 4.82132121097993,45.71404739587591,0 4.8213189541536,45.7140491437274,0 4.82131670325645,45.7140510716282,0 4.82131444939448,45.7140529095044,0 4.82131219553236,45.7140547473805,0 4.82130981019683,45.71405649730869,0 4.82130755633441,45.7140583351847,0 4.82130517396321,45.71406017513739,0 4.82130304564449,45.7140619209118,0 4.82130066623762,45.7140638508892,0 4.82129828090133,45.7140656008172,0 4.82129602407354,45.7140673486683,0 4.82129364170157,45.7140691886208,0 4.82129125636483,45.71407093854861,0 4.82128899953659,45.7140726863996,0 4.82128674863743,45.7140746142998,0 4.82128436330024,45.7140763642275,0 4.82128197796289,45.71407811415509,0 4.8212795926254,45.7140798640827,0 4.82127720728775,45.7140816140102,0 4.82127495045864,45.71408336186091,0 4.82127256808528,45.714085201813,0 4.82127005423848,45.7140869538172,0 4.82126766890023,45.7140887037445,0 4.82126528356182,45.7140904536718,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.728">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69149000AN0125</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">OULLINS</SimpleData>
+					<SimpleData name="Adresse">ALL DE LA SCHAPPE</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7144153139997 </north>
+			<south> 45.7140904536718 </south>
+			<east> 4.82131831705801 </east>
+			<west> 4.82036008822038 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.82126528356182,45.7140904536718,0 4.82125564927266,45.714098535753,0 4.82124760851616,45.7141042501945,0 4.82120679581017,45.7141299499116,0 4.82117025558027,45.71414873505659,0 4.82111477204018,45.71417404130759,0 4.82108225022417,45.71418600604671,0 4.82104841959069,45.7141972713444,0 4.82101887821618,45.7142060353653,0 4.82092366259886,45.7142273898202,0 4.82085206315996,45.714235752474,0 4.82078763270083,45.7142353522928,0 4.82078755457642,45.7142368847884,0 4.82074039660895,45.7142416999439,0 4.82062002428277,45.714237069311,0 4.820609781005,45.7142422788518,0 4.82058154861215,45.7142400327598,0 4.82057409131978,45.71423222684469,0 4.82052961345172,45.71422862186969,0 4.82047912934779,45.7142222315785,0 4.82039422074517,45.7142129745681,0 4.82038893113326,45.7142124295026,0 4.82038883225577,45.7142133318251,0 4.82036008822038,45.7143400778181,0 4.82107771445748,45.7144153139997,0 4.82120085923641,45.7142464195951,0 4.82131831705801,45.7140961719014,0 4.82128992655613,45.7140930278172,0 4.82126528356182,45.7140904536718,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.1430">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69149000AR0020</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">OULLINS</SimpleData>
+					<SimpleData name="Adresse">273, GRANDE RUE</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7078719725675 </north>
+			<south> 45.7072727883118 </south>
+			<east> 4.79969685522475 </east>
+			<west> 4.79835071648818 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.79952945052721,45.7076905275808,0 4.79962766398829,45.7076863470274,0 4.79969685522475,45.7076831703384,0 4.79964125965014,45.7074601393606,0 4.79964023717223,45.7074563726681,0 4.79960186692625,45.7072727883118,0 4.79905312095516,45.70732658658351,0 4.79882436843142,45.7073489734425,0 4.79835071648818,45.7073953545297,0 4.79848252768493,45.7077365149658,0 4.79894199432358,45.70767684903731,0 4.799105842203,45.7076708104628,0 4.79914462122297,45.7076693806711,0 4.79915280736445,45.70770762061801,0 4.799173973808,45.7078050107288,0 4.79917896378405,45.707827989475,0 4.79918849384042,45.7078719725675,0 4.79926123012854,45.7078631550873,0 4.79924602360983,45.7077948531386,0 4.79930082321734,45.70778794331969,0 4.79928182446768,45.7077018676824,0 4.79952945052721,45.7076905275808,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.1896">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69149000AM0272</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">OULLINS</SimpleData>
+					<SimpleData name="Adresse">RUE ELISEE RECLUS</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.71513270345349 </north>
+			<south> 45.71446057036909 </south>
+			<east> 4.82101170462084 </east>
+			<west> 4.82058105111976 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.82058993713435,45.715131525393,0 4.82060064801271,45.71513270345349,0 4.82095953634964,45.7145827769208,0 4.82101170462084,45.7145075340528,0 4.82059022274235,45.71446057036909,0 4.82058105111976,45.7145022419756,0 4.82060473111405,45.71451852285719,0 4.82064929141443,45.7145597767998,0 4.82068650489813,45.7146043920284,0 4.82071447057707,45.7146532099146,0 4.82072739007893,45.7146863280356,0 4.82073443665643,45.7147207119802,0 4.8207384286338,45.7147560459996,0 4.82073774279081,45.7147937974791,0 4.82073482023508,45.7148143812369,0 4.8207289597192,45.7148355528947,0 4.82072186554735,45.7148544025963,0 4.82068663814542,45.7149326142493,0 4.82066204200069,45.71498615440859,0 4.82063372384218,45.715043807955,0 4.82058993713435,45.715131525393,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.2809">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69149000AR0040</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">OULLINS</SimpleData>
+					<SimpleData name="Adresse">LES ROCHES</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7074601393606 </north>
+			<south> 45.706971316164 </south>
+			<east> 4.79998189505247 </east>
+			<west> 4.79956260882018 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.79964125965014,45.7074601393606,0 4.79998189505247,45.7074309196954,0 4.79992735775144,45.7071416690524,0 4.79989520250642,45.706971316164,0 4.79986484341352,45.7069746833882,0 4.79988178319963,45.7070527754165,0 4.7998014435443,45.7070609941819,0 4.79957939164327,45.7070838160036,0 4.79956260882018,45.7070856152499,0 4.79958208445075,45.7071784386203,0 4.79960186692625,45.7072727883118,0 4.79964023717223,45.7074563726681,0 4.79964125965014,45.7074601393606,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.3052">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69149000AH0047</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">OULLINS</SimpleData>
+					<SimpleData name="Adresse">RUE PDT EDOUARD HERRIOT</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">COMPAGNIE NATIONALE DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.71812907593651 </north>
+			<south> 45.71790544856629 </south>
+			<east> 4.81201453588889 </east>
+			<west> 4.8111203641132 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.81195285190718,45.71812907593651,0 4.81201453588889,45.71796703489011,0 4.81113890742295,45.71790544856629,0 4.8111203641132,45.7179674460872,0 4.81195285190718,45.71812907593651,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.3910">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69149000AN0089</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">OULLINS</SimpleData>
+					<SimpleData name="Adresse">43, RUE DUBOIS CRANCE</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7148880148482 </north>
+			<south> 45.7142337664012 </south>
+			<east> 4.81863782542587 </east>
+			<west> 4.81837277811998 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.81837277811998,45.71487539535671,0 4.81848942830572,45.7148880148482,0 4.81854516106046,45.7146473425646,0 4.81857836773481,45.7145036815333,0 4.81863782542587,45.7142472764754,0 4.81851497555755,45.7142337664012,0 4.81837277811998,45.71487539535671,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.3979">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69149000AN0092</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">OULLINS</SimpleData>
+					<SimpleData name="Adresse">64, AV JEAN JAURES</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7149592998246 </north>
+			<south> 45.7142472764754 </south>
+			<east> 4.81929400702659 </east>
+			<west> 4.81848942830572 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.81863782542587,45.7142472764754,0 4.81857836773481,45.7145036815333,0 4.81854516106046,45.7146473425646,0 4.81848942830572,45.7148880148482,0 4.81915125402259,45.7149592998246,0 4.81929400702659,45.7143191920053,0 4.81863782542587,45.7142472764754,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

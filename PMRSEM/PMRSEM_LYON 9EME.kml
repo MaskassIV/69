@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>LYON 9EME_PMRSEM</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_6">
+		<name>LYON 9EME_PMRSEM</name>
+		<Schema name="LYON 9EME_PMRSEM" id="LYON 9EME_PMRSEM.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="PMRSEM">
+			<LineStyle>
+				<color>BF00faff</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C00faff</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.830">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">69389000AO0100</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LYON 9EME</SimpleData>
+					<SimpleData name="Adresse">AV DE CHAMPAGNE</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">CDC HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7906498005691 </north>
+			<south> 45.7906067708137 </south>
+			<east> 4.79735886154929 </east>
+			<west> 4.79733174478517 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.79734033690377,45.7906067708137,0 4.79733174478517,45.7906196979231,0 4.79735886154929,45.7906498005691,0 4.79734033690377,45.7906067708137,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.831">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">69389000AO0101</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LYON 9EME</SimpleData>
+					<SimpleData name="Adresse">AV DE CHAMPAGNE</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">CDC HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7908610838313 </north>
+			<south> 45.79078785084051 </south>
+			<east> 4.79796621422774 </east>
+			<west> 4.79781665630572 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.79781665630572,45.7908260760163,0 4.79794294564136,45.7908610838313,0 4.79796621422774,45.7908520661802,0 4.79791493943295,45.79078785084051,0 4.79781665630572,45.7908260760163,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.864">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">69389000AX0027</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LYON 9EME</SimpleData>
+					<SimpleData name="Adresse">102, RUE DE ST CYR</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SEM</SimpleData>
+					<SimpleData name="Denomination">ADOMA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7872274859182 </north>
+			<south> 45.7871852137813 </south>
+			<east> 4.80911767141483 </east>
+			<west> 4.80905907199656 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.80911767141483,45.78721155109941,0 4.80909183188745,45.7871852137813,0 4.80905907199656,45.7871991597835,0 4.80908446166791,45.7872274859182,0 4.80911767141483,45.78721155109941,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.869">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">69389000AX0030</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LYON 9EME</SimpleData>
+					<SimpleData name="Adresse">110, RUE DE ST CYR</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SEM</SimpleData>
+					<SimpleData name="Denomination">ADOMA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7872702941648 </north>
+			<south> 45.78636478538331 </south>
+			<east> 4.80943809934179 </east>
+			<west> 4.80832002304254 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.80943809934179,45.7870536504913,0 4.80893096583322,45.78659367367361,0 4.80888217743421,45.7865427540756,0 4.80872391518393,45.78636478538331,0 4.80840530073336,45.7865504873587,0 4.80832002304254,45.786600132854,0 4.80835614081258,45.786680889618,0 4.80847527755904,45.7866272787137,0 4.80855550249015,45.7865923959123,0 4.80863612648084,45.7867544954258,0 4.80865593010286,45.78674985453651,0 4.80871584972612,45.786881210796,0 4.80846846915835,45.78693444529541,0 4.80851066293022,45.7870316780018,0 4.80861658114671,45.7872702941648,0 4.8086850904742,45.7872550547333,0 4.80871691643031,45.7872479693286,0 4.80879054339346,45.7872317470802,0 4.80900448415894,45.7871284271516,0 4.80905038939889,45.7871895711332,0 4.80905907199656,45.7871991597835,0 4.80909183188745,45.7871852137813,0 4.80911767141483,45.78721155109941,0 4.80943809934179,45.7870536504913,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.870">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">69389000AX0031</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LYON 9EME</SimpleData>
+					<SimpleData name="Adresse">102, RUE DE ST CYR</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SEM</SimpleData>
+					<SimpleData name="Denomination">ADOMA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7868058343234 </north>
+			<south> 45.7865923959123 </south>
+			<east> 4.80863612648084 </east>
+			<west> 4.80835614081258 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.80835614081258,45.786680889618,0 4.8084114723622,45.7868058343234,0 4.80854185173027,45.7867770833638,0 4.80863612648084,45.7867544954258,0 4.80855550249015,45.7865923959123,0 4.80847527755904,45.7866272787137,0 4.80835614081258,45.786680889618,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.879">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">69389000BP0067</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LYON 9EME</SimpleData>
+					<SimpleData name="Adresse">47, RUE DU BOURBONNAIS</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SEM</SimpleData>
+					<SimpleData name="Denomination">SEM DE CONSTRUCTION DU DPT DE L AIN</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7734750135998 </north>
+			<south> 45.77320478291099 </south>
+			<east> 4.80008091501886 </east>
+			<west> 4.79962618902894 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.80003961671231,45.7734242412347,0 4.80003304606753,45.77341614948929,0 4.80002519857194,45.7734162746966,0 4.79998902483267,45.77338451588259,0 4.79993581739866,45.7733277184987,0 4.79979949437509,45.77320478291099,0 4.79973719716522,45.7732364013111,0 4.79972745557023,45.7732416007629,0 4.79975635737322,45.7732714040007,0 4.79972294547631,45.7732849074175,0 4.79962618902894,45.7733255422523,0 4.79969192673117,45.77340348703069,0 4.79974240345218,45.7734633905472,0 4.80001262032854,45.77347268050719,0 4.80008091501886,45.7734750135998,0 4.80003961671231,45.7734242412347,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.881">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">69389000AX0072</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LYON 9EME</SimpleData>
+					<SimpleData name="Adresse">110, RUE DE ST CYR</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SEM</SimpleData>
+					<SimpleData name="Denomination">ADOMA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.78693444529541 </north>
+			<south> 45.78674985453651 </south>
+			<east> 4.80871584972612 </east>
+			<west> 4.8084114723622 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.80863612648084,45.7867544954258,0 4.80854185173027,45.7867770833638,0 4.8084114723622,45.7868058343234,0 4.80846846915835,45.78693444529541,0 4.80871584972612,45.786881210796,0 4.80865593010286,45.78674985453651,0 4.80863612648084,45.7867544954258,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.884">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">69389000AC0080</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LYON 9EME</SimpleData>
+					<SimpleData name="Adresse">2, RUE DE TREVES</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SEM</SimpleData>
+					<SimpleData name="Denomination">SEM DE CONSTRUCTION DU DPT DE L AIN</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8001069422037 </north>
+			<south> 45.79998767387089 </south>
+			<east> 4.83488460219144 </east>
+			<west> 4.83475595530662 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.83488460219144,45.8000150401468,0 4.83480050253785,45.79998767387089,0 4.83477393397265,45.80002521596991,0 4.83475595530662,45.8000887396998,0 4.83482751670349,45.8001069422037,0 4.83483873268548,45.8000879345508,0 4.83485359453085,45.800062382349,0 4.83485619561749,45.80006315072569,0 4.83488460219144,45.8000150401468,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.887">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">69389000AO0094</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LYON 9EME</SimpleData>
+					<SimpleData name="Adresse">358, AV DE CHAMPAGNE</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">CDC HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.79107389287271 </north>
+			<south> 45.7903350160214 </south>
+			<east> 4.79852070338627 </east>
+			<west> 4.79734033690377 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.79806434453383,45.79097525293861,0 4.79817501768599,45.791072389006,0 4.79823326409966,45.79107389287271,0 4.79823433616247,45.7910554109599,0 4.79821773826212,45.7910557655032,0 4.79821867910611,45.7910016170337,0 4.79852070338627,45.7910123867068,0 4.79850030895159,45.79097127844231,0 4.79842378849103,45.79084747746219,0 4.79842310987282,45.7908464074083,0 4.79826528294059,45.7906495022293,0 4.79820219692312,45.7905705232147,0 4.79815947378657,45.7905870566857,0 4.79797284573287,45.790517882237,0 4.79795646591466,45.7905407513535,0 4.79762594789597,45.7904179337546,0 4.79764321983379,45.7903947802603,0 4.7974821350766,45.7903350160214,0 4.79747066888328,45.7903624905631,0 4.79746539046807,45.790374374109,0 4.79746024659741,45.7903864356563,0 4.79745509686478,45.790398317152,0 4.79744994712993,45.7904101986476,0 4.79744493193973,45.7904222581445,0 4.79743952482607,45.7904341437388,0 4.79743411478025,45.7904459393073,0 4.79742844735761,45.7904577389747,0 4.79742386194285,45.7904671795282,0 4.79741927652651,45.7904766200816,0 4.7974145624213,45.7904860626844,0 4.79740971669733,45.79049541731091,0 4.79740487390151,45.79050486196291,0 4.79739977079948,45.7905142206882,0 4.79739466476595,45.7905234893876,0 4.79738930135585,45.7905327621859,0 4.79738368056905,45.7905420390831,0 4.79737767371794,45.7905513221287,0 4.79737166686481,45.790560605174,0 4.7973653997049,45.7905698022923,0 4.79735913547262,45.790579089436,0 4.79735286830853,45.7905882865537,0 4.79734647538447,45.7905975757463,0 4.79734033690377,45.7906067708137,0 4.79735886154929,45.7906498005691,0 4.79781665630572,45.7908260760163,0 4.79791493943295,45.79078785084051,0 4.79796621422774,45.7908520661802,0 4.79806434453383,45.79097525293861,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.888">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">69389000AO0097</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LYON 9EME</SimpleData>
+					<SimpleData name="Adresse">358, AV DE CHAMPAGNE</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">CDC HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7905870566857 </north>
+			<south> 45.7903138883675 </south>
+			<east> 4.79820219692312 </east>
+			<west> 4.7974821350766 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.79749097524092,45.7903138883675,0 4.7974821350766,45.7903350160214,0 4.79764321983379,45.7903947802603,0 4.79762594789597,45.7904179337546,0 4.79795646591466,45.7905407513535,0 4.79797284573287,45.790517882237,0 4.79815947378657,45.7905870566857,0 4.79820219692312,45.7905705232147,0 4.79815710552417,45.7905143159701,0 4.79810330971287,45.7905348088848,0 4.79781982475831,45.7904289867061,0 4.79778950189369,45.7903913691674,0 4.79763772270069,45.7903682964881,0 4.79749097524092,45.7903138883675,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.889">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">69389000AO0098</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LYON 9EME</SimpleData>
+					<SimpleData name="Adresse">358, AV DE CHAMPAGNE</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">CDC HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7910786489592 </north>
+			<south> 45.7907940061457 </south>
+			<east> 4.79888317488278 </east>
+			<west> 4.79842378849103 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.79888317488278,45.7910052584678,0 4.7987943121481,45.7908939042984,0 4.79866982079453,45.79089435727751,0 4.79859135986507,45.7907940061457,0 4.79856045807487,45.7908058477491,0 4.79855307827114,45.7907966879089,0 4.79842378849103,45.79084747746219,0 4.79850030895159,45.79097127844231,0 4.79852070338627,45.7910123867068,0 4.79884992797613,45.7910241631745,0 4.79884331958578,45.7910782218522,0 4.79885608028698,45.7910786489592,0 4.79888317488278,45.7910052584678,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

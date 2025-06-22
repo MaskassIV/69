@@ -1,0 +1,886 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>GENAY_HLM</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_5">
+		<name>GENAY_HLM</name>
+		<Schema name="GENAY_HLM" id="GENAY_HLM.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="HLM">
+			<LineStyle>
+				<color>BFe451f5</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4Ce451f5</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.1924">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69278000AK0218</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GENAY</SimpleData>
+					<SimpleData name="Adresse">677, RUE DE LA GARE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8971911382717 </north>
+			<south> 45.89541587285331 </south>
+			<east> 4.8336647052258 </east>
+			<west> 4.83186323268376 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.8336647052258,45.8961769172564,0 4.83365372814824,45.8961726816705,0 4.83364131185145,45.8961678389087,0 4.83362901850035,45.89616281400469,0 4.83361659921342,45.89615788121531,0 4.83360443479939,45.89615285421771,0 4.83359227038757,45.8961478272189,0 4.83358010298351,45.8961427101937,0 4.83356780664914,45.89613759525809,0 4.8335557621933,45.8961322960896,0 4.83354358880723,45.8961269990106,0 4.83353167628294,45.8961217877736,0 4.83350441515444,45.8961088989562,0 4.83347978359117,45.89609749874241,0 4.83344593812934,45.8960805732977,0 4.83339909483602,45.89605683286749,0 4.83333649826182,45.8960248809377,0 4.833291193268,45.8960008453012,0 4.83324821208715,45.89597686204329,0 4.83320125520114,45.8959497005817,0 4.83319058716141,45.89594311803,0 4.83317992211804,45.8959366255023,0 4.8331693770279,45.8959298608082,0 4.83315870899582,45.8959232782535,0 4.8331481669046,45.8959166035824,0 4.83313787669254,45.8959097446797,0 4.83312746054474,45.89590297789141,0 4.83311704439949,45.8958962111022,0 4.83310675419511,45.8958893521967,0 4.8330964639933,45.8958824932902,0 4.83308629973236,45.8958755422675,0 4.83307626440593,45.8958685891537,0 4.83306609715649,45.8958615481043,0 4.83305618777348,45.8958545028734,0 4.833046278393,45.8958474576417,0 4.83303623708961,45.89584032447441,0 4.83302644766545,45.89583300707571,0 4.83296553430225,45.8957895883234,0 4.8329639452128,45.8957883530551,0 4.83296222719164,45.89578711987689,0 4.83296038023881,45.8957858887889,0 4.83295866221781,45.8957846556107,0 4.83295707312865,45.8957834203423,0 4.83295535810123,45.89578227718899,0 4.83295364008046,45.8957810440107,0 4.83295205099151,45.8957798087423,0 4.8329503329709,45.8957785755639,0 4.83294836008029,45.89577743659081,0 4.83287289041769,45.89571912141151,0 4.83249322148999,45.89541587285331,0 4.83190581611217,45.8954526837413,0 4.83186323268376,45.8954561659443,0 4.8318641008384,45.8954745268711,0 4.83187247668716,45.8956566999161,0 4.83188031679119,45.8958266316468,0 4.83188839656873,45.89599989221419,0 4.83189640131532,45.8961747753207,0 4.83190447221919,45.8963477658127,0 4.8319125309191,45.8965242693693,0 4.83192502367563,45.8967914951694,0 4.83193955813101,45.8971046253745,0 4.83197545915766,45.8971018819464,0 4.83201329420376,45.8970991071713,0 4.8322553288734,45.89709590596339,0 4.83273452646854,45.8971253401433,0 4.83297233459085,45.8971540919361,0 4.83330407613651,45.8971911382717,0 4.8336647052258,45.8961769172564,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.2375">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69278000AH0269</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GENAY</SimpleData>
+					<SimpleData name="Adresse">92, RUE DE LA GARE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">CDC HABITAT SOCIAL SOCIETE ANONYME DHABITATIONS A LOYER MOD</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8996086440728 </north>
+			<south> 45.8986658030016 </south>
+			<east> 4.84073630139699 </east>
+			<west> 4.8391988483986 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.83960550142401,45.8986658030016,0 4.83931058753377,45.89873536358009,0 4.83924059075952,45.8988181989949,0 4.8393198918231,45.8990799242539,0 4.83930451942426,45.8992030348236,0 4.83930598605453,45.8992083253149,0 4.83930490164428,45.8993266097127,0 4.83919907323737,45.89960764960519,0 4.8391988483986,45.8996086440728,0 4.83959575063377,45.8995951619297,0 4.83961494773339,45.8995943992472,0 4.8396167528992,45.8995943698792,0 4.83966829901859,45.8995926305312,0 4.83986443512827,45.8995861066237,0 4.84003166698132,45.8990383494217,0 4.84050750328889,45.899105546596,0 4.84073630139699,45.8988216028573,0 4.840129281151,45.89869303963579,0 4.84008838755016,45.8987858505273,0 4.83993471139402,45.89875412323471,0 4.83967688017301,45.8988138037628,0 4.83960550142401,45.8986658030016,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.3179">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69278000AN0377</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GENAY</SimpleData>
+					<SimpleData name="Adresse">1283, RTE DE TREVOUX</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SCOM</SimpleData>
+					<SimpleData name="Denomination">FONCIERE DHABITAT ET HUMANISME</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.89602154340179 </north>
+			<south> 45.8956522043691 </south>
+			<east> 4.82036748371507 </east>
+			<west> 4.81963792686088 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.82023537394967,45.89602154340179,0 4.82036748371507,45.8958656616244,0 4.81974536061053,45.8956522043691,0 4.81963792686088,45.8958170558939,0 4.82023537394967,45.89602154340179,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.3633">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69278000AH0451</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GENAY</SimpleData>
+					<SimpleData name="Adresse">EN PROUILLIEU</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">CDC HABITAT SOCIAL SOCIETE ANONYME DHABITATIONS A LOYER MOD</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8992030348236 </north>
+			<south> 45.8986586534586 </south>
+			<east> 4.83960550142401 </east>
+			<west> 4.83919739287088 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.83960550142401,45.8986658030016,0 4.83960203761273,45.8986586534586,0 4.83924271809025,45.8987388995445,0 4.83921044233009,45.89875365617561,0 4.83919739287088,45.8988110652243,0 4.83927864166257,45.899104104473,0 4.83930451942426,45.8992030348236,0 4.8393198918231,45.8990799242539,0 4.83924059075952,45.8988181989949,0 4.83931058753377,45.89873536358009,0 4.83960550142401,45.8986658030016,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.4240">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69278000AI0569</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GENAY</SimpleData>
+					<SimpleData name="Adresse">339, RUE DE LA GARE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">GRANDLYON HABITAT - OFFICE PUBLIC DE LHABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.898191661569 </north>
+			<south> 45.897980154218 </south>
+			<east> 4.83696854368987 </east>
+			<west> 4.83682166670905 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.83695677205325,45.898191661569,0 4.83696854368987,45.89798358039221,0 4.83683568177721,45.897980154218,0 4.83682166670905,45.8981867405648,0 4.83695677205325,45.898191661569,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.4306">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69278000AD0589</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GENAY</SimpleData>
+					<SimpleData name="Adresse">226, RUE DES CANUTS</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">GRANDLYON HABITAT - OFFICE PUBLIC DE LHABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8926521966541 </north>
+			<south> 45.8923517804718 </south>
+			<east> 4.83971633201195 </east>
+			<west> 4.83856160978347 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.83964244558521,45.8924205726418,0 4.83891348907344,45.8923544275225,0 4.83891193598536,45.8923542726359,0 4.8389103828973,45.8923541177492,0 4.83890882980924,45.8923539628625,0 4.83890727672118,45.89235380797581,0 4.83890572363314,45.892353653089,0 4.83890417054511,45.8923534982023,0 4.83890262046004,45.89235343334029,0 4.83890107037497,45.8923533684783,0 4.83889951728696,45.89235321359149,0 4.8388979672019,45.8923531487295,0 4.8388964141139,45.89235299384261,0 4.83889473510535,45.8923529310775,0 4.83889318201737,45.8923527761905,0 4.83889163193233,45.8923527113284,0 4.83889008184729,45.8923526464663,0 4.8388885257564,45.8923524015545,0 4.83888697867431,45.8923524267172,0 4.83888542858929,45.892352361855,0 4.83888387850427,45.8923522969928,0 4.83888232841926,45.8923522321305,0 4.83888064941074,45.8923521693651,0 4.83887909932574,45.8923521045029,0 4.83887754924073,45.8923520396406,0 4.83887599915574,45.8923519747783,0 4.83887444907074,45.89235190991591,0 4.83887290198866,45.89235193507839,0 4.83887135490657,45.8923519602408,0 4.83886967589807,45.8923518974753,0 4.83886812881598,45.8923519226377,0 4.838866578731,45.8923518577753,0 4.83886503164891,45.8923518829376,0 4.83886348156393,45.8923518180751,0 4.83886193448184,45.89235184323741,0 4.83886025547336,45.8923517804718,0 4.83885870839127,45.892351805634,0 4.83885716431206,45.89235192082111,0 4.83885561722997,45.89235194598339,0 4.83885407014787,45.8923519711456,0 4.83885252306578,45.8923519963078,0 4.8388508440573,45.89235193354191,0 4.83884929997807,45.89235204872891,0 4.83884775289597,45.8923520738911,0 4.83884620581386,45.8923520990532,0 4.83884465873176,45.89235212421531,0 4.838842985729,45.892352241499,0 4.83884143864689,45.892352266661,0 4.83883989456763,45.8923523818479,0 4.83883834748552,45.8923524070099,0 4.83883680340625,45.8923525221967,0 4.83883525632413,45.8923525473586,0 4.83883358332134,45.89235266464221,0 4.83883203623921,45.8923526898041,0 4.83883049215992,45.8923528049909,0 4.83882894507779,45.8923528301527,0 4.83882740400132,45.8923530353642,0 4.83882585992201,45.8923531505509,0 4.83882431584269,45.8923532657376,0 4.83882264283986,45.892353383021,0 4.83882109876053,45.8923534982076,0 4.83881955468119,45.89235361339411,0 4.83881801060185,45.8923537285807,0 4.8388164665225,45.8923538437672,0 4.83881492244314,45.8923539589537,0 4.83881338136659,45.89235416416511,0 4.83881183728722,45.8923542793515,0 4.83881016728713,45.89235448665959,0 4.83880862320774,45.89235460184611,0 4.83880708213114,45.8923548070573,0 4.83880553805174,45.89235492224369,0 4.83880399697513,45.8923551274549,0 4.83880245289571,45.8923552426412,0 4.83880091181907,45.8923554478524,0 4.83879936773964,45.8923555630387,0 4.83879782966576,45.8923558582746,0 4.83879628858909,45.89235606348571,0 4.83879474751241,45.8923562686968,0 4.83879333535924,45.892356471811,0 4.83879192020328,45.8923565849005,0 4.83879037912657,45.89235679011151,0 4.83878883804984,45.8923569953225,0 4.83878729997587,45.89235729055829,0 4.83878575889912,45.8923574957692,0 4.83878422082512,45.892357791005,0 4.83878267974835,45.8923579962159,0 4.83878113867156,45.8923582014268,0 4.83877960059752,45.8923584966625,0 4.8387780595207,45.89235870187331,0 4.83877652144663,45.892358997109,0 4.83877498036979,45.89235920231981,0 4.83864708014543,45.8923803779823,0 4.83858723475646,45.8924270185481,0 4.83856160978347,45.8925753362147,0 4.83869840062103,45.8925615822585,0 4.83904539406303,45.89259250853411,0 4.83933641957191,45.89262002074161,0 4.8396950649835,45.8926521966541,0 4.83971617330593,45.8924845863313,0 4.83971633201195,45.8924816113169,0 4.83971622986611,45.8924785504733,0 4.83971600180081,45.8924755817524,0 4.83971551288373,45.89247252720231,0 4.83971490105153,45.8924696547997,0 4.83971376751586,45.89246661073879,0 4.83971276590832,45.8924636546049,0 4.83971150945771,45.8924607926914,0 4.83970986623607,45.8924579370714,0 4.83970822601886,45.8924551714761,0 4.8397063279544,45.8924524100765,0 4.839704175047,45.89244974289731,0 4.83970176729667,45.8924471699386,0 4.83969936255082,45.8924446870045,0 4.83969670296207,45.8924422982909,0 4.83969391745411,45.8924400016998,0 4.83969074817961,45.8924378014268,0 4.8396875819096,45.89243569117859,0 4.83968429272464,45.8924337630777,0 4.83968087461624,45.8924318370746,0 4.83967733359286,45.8924300932187,0 4.83967366665027,45.8924284414853,0 4.83966974786902,45.8924269739969,0 4.83966596101583,45.8924255944355,0 4.83966192232393,45.89242439911909,0 4.8396578866364,45.8924232938274,0 4.83965373103794,45.89242246070779,0 4.83964957543961,45.8924216275879,0 4.83964672109447,45.8924211335897,0 4.83964244558521,45.8924205726418,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.4316">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69278000AD0590</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GENAY</SimpleData>
+					<SimpleData name="Adresse">70, RUE DES SOYEUX</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">GRANDLYON HABITAT - OFFICE PUBLIC DE LHABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8934422002986 </north>
+			<south> 45.8926515065208 </south>
+			<east> 4.83969121134641 </east>
+			<west> 4.83927115062855 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.83942182698211,45.8934361400599,0 4.83946138648553,45.8934387391122,0 4.83951439034795,45.8934422002986,0 4.83951793270805,45.89341692203131,0 4.83959409541493,45.89342243837629,0 4.83959421833263,45.89342225622899,0 4.83959446717217,45.8934219819592,0 4.83959459008986,45.89342179981189,0 4.83959471300756,45.89342161766449,0 4.8395949618471,45.8934213433947,0 4.83959495583881,45.8934211633451,0 4.83959507875651,45.8934209811978,0 4.8395952016742,45.8934207990504,0 4.83959545051373,45.8934205247806,0 4.83959557343142,45.8934203426333,0 4.83959569634911,45.893420160486,0 4.8395958192668,45.8934199783386,0 4.83959593918034,45.8934197061665,0 4.83959606209803,45.8934195240191,0 4.83959618501572,45.89341934187181,0 4.83959630793341,45.8934191597245,0 4.83959643085109,45.8934189775772,0 4.83959642183866,45.8934187075027,0 4.83959654475634,45.8934185253554,0 4.83959666767403,45.8934183432081,0 4.83959679059171,45.8934181610607,0 4.83959678458342,45.8934179810111,0 4.8395969075011,45.8934177988638,0 4.83959715634061,45.89341752459401,0 4.83959715033231,45.8934173445443,0 4.83959727324999,45.893417162397,0 4.83959739616767,45.8934169802497,0 4.83959739015938,45.8934168002,0 4.83959751307705,45.8934166180527,0 4.83959763599473,45.8934164359054,0 4.83959775590826,45.8934161637332,0 4.83959787882593,45.8934159815859,0 4.83959787281764,45.8934158015363,0 4.83959799573531,45.893415619389,0 4.83959811865298,45.8934154372416,0 4.83959811264469,45.893415257192,0 4.83959823556236,45.8934150750447,0 4.83959835848003,45.89341489289729,0 4.83959835247174,45.8934147128477,0 4.83959847538941,45.8934145307004,0 4.83959859530292,45.8934142585282,0 4.83959871822059,45.8934140763809,0 4.8395987122123,45.8934138963313,0 4.83959883512996,45.89341371418389,0 4.83959882912167,45.8934135341343,0 4.83959895203933,45.893413351987,0 4.83959894603103,45.8934131719374,0 4.8395990689487,45.89341298979,0 4.8395990629404,45.8934128097404,0 4.83959918585806,45.8934126275931,0 4.83959917984976,45.89341244754339,0 4.83959930276742,45.89341226539609,0 4.83959929675913,45.8934120853465,0 4.83959941967679,45.8934119031992,0 4.83959941366849,45.8934117231495,0 4.83959953658615,45.8934115410022,0 4.83959953057785,45.8934113609526,0 4.83959965049136,45.8934110887804,0 4.83959964448306,45.89341090873079,0 4.83959976740071,45.8934107265835,0 4.83959976139241,45.8934105465338,0 4.83959975538411,45.8934103664842,0 4.83959987830177,45.8934101843369,0 4.83959987229347,45.8934100042872,0 4.83959999521112,45.8934098221399,0 4.83959998920282,45.89340964209029,0 4.83959998319452,45.8934094620407,0 4.83960010611217,45.8934092798933,0 4.83960010010388,45.89340909984371,0 4.83960009409557,45.8934089197941,0 4.83960021701323,45.8934087376467,0 4.83960008207897,45.8934085596948,0 4.83960007607067,45.89340837964521,0 4.83960007006237,45.8934081995956,0 4.83960019298002,45.8934080174482,0 4.83960018697172,45.8934078373986,0 4.83960018096342,45.893407657349,0 4.83960030388107,45.8934074752016,0 4.83960029787277,45.893407295152,0 4.83960029186447,45.89340711510239,0 4.83969121134641,45.8926836050051,0 4.83933334228159,45.8926515065208,0 4.83930718736956,45.89293080014791,0 4.83927713992311,45.89325195127859,0 4.83927115062855,45.8933237473643,0 4.83942677603503,45.8934182249531,0 4.83942182698211,45.8934361400599,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.4425">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69278000AL0637</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GENAY</SimpleData>
+					<SimpleData name="Adresse">328, RUE DU CEDRE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SA HLM LOGEMENT ALPES RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.891048068332 </north>
+			<south> 45.8908458465447 </south>
+			<east> 4.83049166344897 </east>
+			<west> 4.83021130910856 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.83039130041461,45.8908668021173,0 4.83021130910856,45.8908458465447,0 4.83026652282645,45.891048068332,0 4.83049166344897,45.8910146991361,0 4.83047037163006,45.8909445163529,0 4.83039130041461,45.8908668021173,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.4429">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69278000AL0638</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GENAY</SimpleData>
+					<SimpleData name="Adresse">328, RUE DU CEDRE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SA HLM LOGEMENT ALPES RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8913412248625 </north>
+			<south> 45.8910146991361 </south>
+			<east> 4.83058029605334 </east>
+			<west> 4.83026652282645 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.83026652282645,45.891048068332,0 4.83034642648931,45.8913412248625,0 4.83058029605334,45.8913065432376,0 4.83049166344897,45.8910146991361,0 4.83026652282645,45.891048068332,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.4432">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69278000AL0639</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GENAY</SimpleData>
+					<SimpleData name="Adresse">328, RUE DU CEDRE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SA HLM LOGEMENT ALPES RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.89146659358159 </north>
+			<south> 45.8913065432376 </south>
+			<east> 4.83067531518951 </east>
+			<west> 4.83034642648931 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.83034642648931,45.8913412248625,0 4.83038064379198,45.89146659358159,0 4.83065729305545,45.8914499544901,0 4.83067531518951,45.8914488520125,0 4.83064231916804,45.8913369746151,0 4.83059187424926,45.8913444568403,0 4.83058029605334,45.8913065432376,0 4.83034642648931,45.8913412248625,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.4440">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69278000AL0640</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GENAY</SimpleData>
+					<SimpleData name="Adresse">328, RUE DU CEDRE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SA HLM LOGEMENT ALPES RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8914488520125 </north>
+			<south> 45.8912704407177 </south>
+			<east> 4.83093536029022 </east>
+			<west> 4.83064231916804 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.83067531518951,45.8914488520125,0 4.83093536029022,45.8914332917557,0 4.83088519198176,45.8912704407177,0 4.83070895733788,45.8912966235677,0 4.83071792205984,45.8913257522789,0 4.83064231916804,45.8913369746151,0 4.83067531518951,45.8914488520125,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.4441">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69278000AL0641</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GENAY</SimpleData>
+					<SimpleData name="Adresse">328, RUE DU CEDRE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SA HLM LOGEMENT ALPES RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8912966235677 </north>
+			<south> 45.8911939875715 </south>
+			<east> 4.83088519198176 </east>
+			<west> 4.83068461997793 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.83088519198176,45.8912704407177,0 4.83086175646302,45.8911939875715,0 4.83068461997793,45.891216311833,0 4.83070895733788,45.8912966235677,0 4.83088519198176,45.8912704407177,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.4446">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69278000AL0642</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GENAY</SimpleData>
+					<SimpleData name="Adresse">328, RUE DU CEDRE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SA HLM LOGEMENT ALPES RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.891216311833 </north>
+			<south> 45.8911048134955 </south>
+			<east> 4.83086175646302 </east>
+			<west> 4.83065884101828 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.83086175646302,45.8911939875715,0 4.83085134999919,45.8911602884718,0 4.83085091241049,45.8911587643092,0 4.83083402884222,45.8911048134955,0 4.83065884101828,45.8911314296908,0 4.83068461997793,45.891216311833,0 4.83086175646302,45.8911939875715,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.4449">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69278000AL0643</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GENAY</SimpleData>
+					<SimpleData name="Adresse">328, RUE DU CEDRE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SA HLM LOGEMENT ALPES RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8913444568403 </north>
+			<south> 45.8908668021173 </south>
+			<east> 4.83071792205984 </east>
+			<west> 4.83039130041461 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.83051211517599,45.89088087915349,0 4.83039130041461,45.8908668021173,0 4.83047037163006,45.8909445163529,0 4.83049166344897,45.8910146991361,0 4.83058029605334,45.8913065432376,0 4.83059187424926,45.8913444568403,0 4.83064231916804,45.8913369746151,0 4.83071792205984,45.8913257522789,0 4.83070895733788,45.8912966235677,0 4.83068461997793,45.891216311833,0 4.83061564340794,45.891225084948,0 4.83051211517599,45.89088087915349,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.4452">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69278000AL0644</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GENAY</SimpleData>
+					<SimpleData name="Adresse">328, RUE DU CEDRE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SA HLM LOGEMENT ALPES RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.891225084948 </north>
+			<south> 45.89088087915349 </south>
+			<east> 4.83068461997793 </east>
+			<west> 4.83051211517599 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.83058191115877,45.8908890266364,0 4.83051211517599,45.89088087915349,0 4.83061564340794,45.891225084948,0 4.83068461997793,45.891216311833,0 4.83065884101828,45.8911314296908,0 4.83059582480908,45.8911410070187,0 4.83053110071767,45.89092822061379,0 4.83058191115877,45.8908890266364,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.4456">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69278000AL0645</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GENAY</SimpleData>
+					<SimpleData name="Adresse">328, RUE DU CEDRE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SA HLM LOGEMENT ALPES RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8911410070187 </north>
+			<south> 45.8908890266364 </south>
+			<east> 4.83083402884222 </east>
+			<west> 4.83053110071767 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.83083402884222,45.8911048134955,0 4.83077381425064,45.89091131998281,0 4.83058191115877,45.8908890266364,0 4.83053110071767,45.89092822061379,0 4.83059582480908,45.8911410070187,0 4.83065884101828,45.8911314296908,0 4.83083402884222,45.8911048134955,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.4485">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69278000AI0066</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GENAY</SimpleData>
+					<SimpleData name="Adresse">LE VILLAGE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SA HLM LOGEMENT ALPES RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.89774651001751 </north>
+			<south> 45.8975480888678 </south>
+			<east> 4.84089796050915 </east>
+			<west> 4.84070143234569 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.84089796050915,45.8975703689867,0 4.84075053697401,45.8975480888678,0 4.84071603325812,45.8976544871982,0 4.84071249018306,45.8976681460096,0 4.84070743727101,45.8976984029657,0 4.84070143234569,45.89774651001751,0 4.84083667088789,45.8977399848424,0 4.84089796050915,45.8975703689867,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.4495">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69278000AI0665</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GENAY</SimpleData>
+					<SimpleData name="Adresse">LES MIGNOTIERES</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">GRANDLYON HABITAT - OFFICE PUBLIC DE LHABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8957889358067 </north>
+			<south> 45.8957668770161 </south>
+			<east> 4.8430302276556 </east>
+			<west> 4.84286736822345 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.84286860396322,45.8957668770161,0 4.84286736822345,45.895787794275,0 4.84302943245565,45.8957889358067,0 4.8430302276556,45.8957702775707,0 4.84286860396322,45.8957668770161,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.4500">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69278000AI0668</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GENAY</SimpleData>
+					<SimpleData name="Adresse">258, RUE DU CHATEAU</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">GRANDLYON HABITAT - OFFICE PUBLIC DE LHABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8957945565397 </north>
+			<south> 45.8955694130012 </south>
+			<east> 4.84347134528486 </east>
+			<west> 4.84287013921704 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.84331749025722,45.8957927069693,0 4.84346371100628,45.8957945565397,0 4.84347134528486,45.8956640952815,0 4.84325738438047,45.8956579456382,0 4.84315143965217,45.8955720309304,0 4.84293076017356,45.8955694130012,0 4.84287860120367,45.8956028698597,0 4.84287448108915,45.8956725640479,0 4.84287013921704,45.89574334273571,0 4.84331858779186,45.89574837276901,0 4.84331749025722,45.8957927069693,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.4502">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69278000AI0669</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GENAY</SimpleData>
+					<SimpleData name="Adresse">LES MIGNOTIERES</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">GRANDLYON HABITAT - OFFICE PUBLIC DE LHABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8957927069693 </north>
+			<south> 45.89574334273571 </south>
+			<east> 4.84331858779186 </east>
+			<west> 4.84286860396322 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.84331749025722,45.8957927069693,0 4.84331858779186,45.89574837276901,0 4.84287013921704,45.89574334273571,0 4.84286860396322,45.8957668770161,0 4.8430302276556,45.8957702775707,0 4.84302943245565,45.8957889358067,0 4.84331749025722,45.8957927069693,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.4513">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69278000AI0673</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GENAY</SimpleData>
+					<SimpleData name="Adresse">LES MIGNOTIERES</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">GRANDLYON HABITAT - OFFICE PUBLIC DE LHABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8957945565397 </north>
+			<south> 45.8956640952815 </south>
+			<east> 4.84349456793174 </east>
+			<west> 4.84346371100628 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.84346371100628,45.8957945565397,0 4.84348427379365,45.8957922396572,0 4.84348746224136,45.8957564283732,0 4.84349256395946,45.8957006795847,0 4.84349456793174,45.8956641670221,0 4.84347134528486,45.8956640952815,0 4.84346371100628,45.8957945565397,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.4809">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69278000AI0791</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GENAY</SimpleData>
+					<SimpleData name="Adresse">314, RUE DES ECOLES</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">DYNACITE OFFICE PUBLIC DE LHABITAT DE LAIN</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.897182501241 </north>
+			<south> 45.8966080114096 </south>
+			<east> 4.83823768358988 </east>
+			<west> 4.8372609917281 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.83805270739041,45.897182501241,0 4.83823768358988,45.8969498963922,0 4.8382224750371,45.8969425774565,0 4.83784794175163,45.8967635644027,0 4.83780840044189,45.8967461023003,0 4.83757682651837,45.896652856693,0 4.83744310313898,45.8966080114096,0 4.83744129817066,45.8966119139079,0 4.8372609917281,45.89699243252251,0 4.83741627476522,45.8970299920173,0 4.8379847250173,45.89716324968111,0 4.83805270739041,45.897182501241,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.4987">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69278000AO0899</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GENAY</SimpleData>
+					<SimpleData name="Adresse">LES LISIERES</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.90179286320829 </north>
+			<south> 45.901678024056 </south>
+			<east> 4.83326597941437 </east>
+			<west> 4.83288443345571 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.83326597941437,45.9017360557521,0 4.832895195227,45.901678024056,0 4.83288443345571,45.9017190918714,0 4.83291566650066,45.9017504716474,0 4.83325109685798,45.90179286320829,0 4.83326597941437,45.9017360557521,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.5075">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69278000AO0970</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GENAY</SimpleData>
+					<SimpleData name="Adresse">LES LISIERES</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9015332601787 </north>
+			<south> 45.9014327068417 </south>
+			<east> 4.83333367648698 </east>
+			<west> 4.83294677841613 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.83294677841613,45.9014794765506,0 4.83331845215026,45.9015332601787,0 4.83333367648698,45.9014750960673,0 4.83299811905464,45.9014327068417,0 4.83295317007571,45.901454422579,0 4.83294677841613,45.9014794765506,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.5077">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69278000AO0977</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GENAY</SimpleData>
+					<SimpleData name="Adresse">LES LISIERES</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9017360557521 </north>
+			<south> 45.9014794765506 </south>
+			<east> 4.83331845215026 </east>
+			<west> 4.832895195227 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.832895195227,45.901678024056,0 4.83326597941437,45.9017360557521,0 4.83331845215026,45.9015332601787,0 4.83294677841613,45.9014794765506,0 4.832895195227,45.901678024056,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.5079">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69278000AL0098</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">GENAY</SimpleData>
+					<SimpleData name="Adresse">LE PERRON</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SEM</SimpleData>
+					<SimpleData name="Denomination">ADOMA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.88907945713931 </north>
+			<south> 45.88880888448699 </south>
+			<east> 4.83597418235522 </east>
+			<west> 4.83527752527876 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.83568442442379,45.8890314839401,0 4.83588633652598,45.88907945713931,0 4.83596520321957,45.8889378417392,0 4.83596987117176,45.8889269571017,0 4.83597418235522,45.8889169789938,0 4.83596550603729,45.8889159489387,0 4.8359440340997,45.8889141358693,0 4.83562482132118,45.8888877935394,0 4.83543236904879,45.8888294879937,0 4.83540291947755,45.8888205083797,0 4.83536435293398,45.88880888448699,0 4.83527752527876,45.8889361268361,0 4.83532367693983,45.8889469971077,0 4.83534213281422,45.8889512011712,0 4.83556443397035,45.88900334761259,0 4.83568442442379,45.8890314839401,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>CENVES_DEPT</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_3">
+		<name>CENVES_DEPT</name>
+		<Schema name="CENVES_DEPT" id="CENVES_DEPT.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="DEPT">
+			<LineStyle>
+				<color>BF63f16c</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C63f16c</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.357">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69035000AB0100</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CENVES</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.26763398299019 </north>
+			<south> 46.2674921513601 </south>
+			<east> 4.65017050604554 </east>
+			<west> 4.64977224768731 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.64977224768731,46.26763398299019,0 4.6499226739183,46.26759208318639,0 4.65017050604554,46.2675201298328,0 4.65013719527397,46.2674921513601,0 4.65010869911831,46.26749895920101,0 4.64998379149876,46.267530041574,0 4.64996378975565,46.26753429444049,0 4.6499362320937,46.26754207937761,0 4.64990991056781,46.2675520980791,0 4.64988533357908,46.2675639829077,0 4.64986357450325,46.2675745659473,0 4.64983087387761,46.2675926930839,0 4.64980030450458,46.26761259067371,0 4.64977224768731,46.26763398299019,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1949">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69035000AO0183</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CENVES</SimpleData>
+					<SimpleData name="Adresse">LA FORRET</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.2831363958959 </north>
+			<south> 46.282729461024 </south>
+			<east> 4.65737555632657 </east>
+			<west> 4.65717201259587 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.65734514755297,46.2831274714569,0 4.65737555632657,46.2831363958959,0 4.65729803756646,46.28299170484,0 4.65723953745348,46.2828615980879,0 4.65717201259587,46.282729461024,0 4.6572265487749,46.2828573738091,0 4.65730071703731,46.2830330068245,0 4.65733290396673,46.2831049526432,0 4.65734514755297,46.2831274714569,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2189">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69035000AE0199</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CENVES</SimpleData>
+					<SimpleData name="Adresse">BOURBOIS SUD</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.2782277543784 </north>
+			<south> 46.2779190698296 </south>
+			<east> 4.64382373878139 </east>
+			<west> 4.64361230526831 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.6436733524043,46.277967715521,0 4.64367269492193,46.2779761012635,0 4.64368459637818,46.27799610451639,0 4.6436901681843,46.2780172799476,0 4.64369051697618,46.27802457035731,0 4.64361230526831,46.2781538650166,0 4.64367232721092,46.2782277543784,0 4.64368722366747,46.27822204524029,0 4.64369812222604,46.2782129712583,0 4.6436997398533,46.2782106061591,0 4.64373703993904,46.2781550366301,0 4.64376831870123,46.2780979328035,0 4.64379318663981,46.2780393003073,0 4.64381165728991,46.2779795892868,0 4.64382373878139,46.2779190698296,0 4.6436733524043,46.277967715521,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2269">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69035000AE0203</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CENVES</SimpleData>
+					<SimpleData name="Adresse">BOURBOIS SUD</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.277967715521 </north>
+			<south> 46.27657929326279 </south>
+			<east> 4.64384082352974 </east>
+			<west> 4.6434290194648 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.6436733524043,46.277967715521,0 4.64382373878139,46.2779190698296,0 4.64383320424664,46.2778752505743,0 4.64384026525456,46.27781624467,0 4.64384082352974,46.2777569723763,0 4.64383476277208,46.2776978857086,0 4.64381206100426,46.2776469652007,0 4.64365307715089,46.2774005847089,0 4.64364011551394,46.27737987621979,0 4.64360889365557,46.2773220534214,0 4.64358425300244,46.2772627846078,0 4.64357508730527,46.2772041030165,0 4.64358179181875,46.2771288901725,0 4.64360294037403,46.2769420556673,0 4.64363059408544,46.276755577584,0 4.64362855539752,46.2767179589114,0 4.64361979741712,46.27669448772241,0 4.64360454766852,46.27667111024321,0 4.64358352831509,46.2766502478622,0 4.64348242070403,46.27657929326279,0 4.6434290194648,46.2766220353821,0 4.64348825464335,46.2767130489536,0 4.64346177262197,46.2767525203738,0 4.64351630187911,46.2768252281432,0 4.64348936334346,46.2770615030429,0 4.64350790994652,46.27733314828131,0 4.64353533727733,46.2774809129642,0 4.64359003561401,46.27765008025739,0 4.64363806051991,46.2777224315303,0 4.6436628359556,46.27781646433479,0 4.6436733524043,46.277967715521,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2560">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69035000AK0226</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CENVES</SimpleData>
+					<SimpleData name="Adresse">ROCHE COCU</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.27869552247349 </north>
+			<south> 46.27797788264029 </south>
+			<east> 4.64364427318737 </east>
+			<west> 4.64285934211605 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.64287633707448,46.27869552247349,0 4.64304840304148,46.2785944161384,0 4.64327557488162,46.2784813459316,0 4.64348454922287,46.278372230672,0 4.64354361080302,46.2783362519637,0 4.64359841743489,46.2782970021559,0 4.64364427318737,46.2782581517299,0 4.6436141490031,46.2782022945645,0 4.64355067316893,46.2781171966265,0 4.64349324319428,46.2780301199784,0 4.64346192901337,46.27797788264029,0 4.64342882210286,46.27800871314,0 4.64341058996793,46.2780331143024,0 4.64339838715755,46.2780593198515,0 4.64339283314454,46.2780863301091,0 4.64339365745005,46.2781137887113,0 4.64340067348891,46.27813980693969,0 4.64341526074043,46.27816706689931,0 4.6434357611468,46.27819226003201,0 4.64346177708807,46.278215121872,0 4.64349250250431,46.27823476337809,0 4.6435203040093,46.27824787217371,0 4.64342891919924,46.2783407895472,0 4.64332645787048,46.278406576339,0 4.64320766337753,46.2784778226422,0 4.64308487069392,46.2785457039577,0 4.64303690215634,46.2785704440848,0 4.64285934211605,46.2786789251158,0 4.64287633707448,46.27869552247349,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

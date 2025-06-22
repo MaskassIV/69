@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>FLEURIE_ETAT</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_1">
+		<name>FLEURIE_ETAT</name>
+		<Schema name="FLEURIE_ETAT" id="FLEURIE_ETAT.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="ETAT">
+			<LineStyle>
+				<color>BF119ff7</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C119ff7</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.341">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69084000AO0010</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">FLEURIE</SimpleData>
+					<SimpleData name="Adresse">LA TONNE</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">GFA</SimpleData>
+					<SimpleData name="Denomination">DU DOMAINE DES PINS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.21132655709481 </north>
+			<south> 46.21079102661631 </south>
+			<east> 4.6841721160537 </east>
+			<west> 4.68299018554556 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.68416266399683,46.21132655709481,0 4.68415768574673,46.2111434309855,0 4.6841721160537,46.2109712760381,0 4.68316370996508,46.21079102661631,0 4.68302765736859,46.2111050382605,0 4.68299018554556,46.2112451993307,0 4.68336757102683,46.2112782532525,0 4.68416266399683,46.21132655709481,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.904">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69084000AO0139</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">FLEURIE</SimpleData>
+					<SimpleData name="Adresse">LA TONNE</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">GFA</SimpleData>
+					<SimpleData name="Denomination">DU DOMAINE DES PINS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.2143442279873 </north>
+			<south> 46.2132386910809 </south>
+			<east> 4.69316402932326 </east>
+			<west> 4.69185580624577 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.69232504017895,46.2132386910809,0 4.69185580624577,46.2134461660053,0 4.69192551178973,46.21359013997819,0 4.69205109622085,46.21395971582519,0 4.6920969653013,46.2140165874173,0 4.69216771759907,46.2140977676427,0 4.69235803524706,46.21421481749369,0 4.69284948619504,46.2143442279873,0 4.6929590047956,46.2141472382294,0 4.69302788907404,46.2140166936624,0 4.69316402932326,46.21369032863819,0 4.69283627090624,46.21355091733659,0 4.69232504017895,46.2132386910809,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.1592">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69084000AN0216</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">FLEURIE</SimpleData>
+					<SimpleData name="Adresse">LES LABOURONS</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">GFA</SimpleData>
+					<SimpleData name="Denomination">DU DOMAINE DES PINS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.21493378212391 </north>
+			<south> 46.21365994472919 </south>
+			<east> 4.67939981908197 </east>
+			<west> 4.67794913405721 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.67910513222019,46.2144622348589,0 4.67939981908197,46.2137647156952,0 4.67862645014709,46.21365994472919,0 4.67832615372349,46.2140093393921,0 4.67823157154061,46.2141958260634,0 4.67813263083722,46.2144137208209,0 4.67806484375703,46.21457279137941,0 4.67801001774292,46.214701767893,0 4.67797568808623,46.2148179224433,0 4.67794913405721,46.21493378212391,0 4.67847250480653,46.2147252963999,0 4.67910513222019,46.2144622348589,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.1630">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69084000AN0221</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">FLEURIE</SimpleData>
+					<SimpleData name="Adresse">LES LABOURONS</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">GFA</SimpleData>
+					<SimpleData name="Denomination">DU DOMAINE DES PINS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.2144622348589 </north>
+			<south> 46.2124255356546 </south>
+			<east> 4.68286487074957 </east>
+			<west> 4.67910513222019 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.68263201712382,46.2124255356546,0 4.6813228982954,46.2126189999882,0 4.6806841470495,46.2127151775947,0 4.68067336957796,46.2127148865241,0 4.68047545702426,46.2127088042873,0 4.68029436768975,46.2130398702797,0 4.68010769134358,46.21334958214509,0 4.68004147839664,46.21347089198841,0 4.67988359764673,46.2138312469589,0 4.67939981908197,46.2137647156952,0 4.67910513222019,46.2144622348589,0 4.67995602913767,46.2141117315742,0 4.68159477574615,46.2134416305069,0 4.68286487074957,46.2129146759715,0 4.68263201712382,46.2124255356546,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.2794">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69084000AO0004</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">FLEURIE</SimpleData>
+					<SimpleData name="Adresse">LA TONNE</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">GFA</SimpleData>
+					<SimpleData name="Denomination">DU DOMAINE DES PINS</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.2132789108758 </north>
+			<south> 46.2110892826671 </south>
+			<east> 4.68860149738985 </east>
+			<west> 4.68469832001213 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.68700882734805,46.2110892826671,0 4.68653075620383,46.21138063071759,0 4.68684522654755,46.2120461686626,0 4.68508613330125,46.2128665635819,0 4.68469832001213,46.2130518161724,0 4.68481708072898,46.2130617657793,0 4.68504068984027,46.21310600918321,0 4.68544543204927,46.213180172779,0 4.68566555639576,46.2132165405613,0 4.68589234653058,46.2132207446244,0 4.6862337743761,46.2132231584897,0 4.68659215331662,46.2132789108758,0 4.68686366872484,46.2132439903384,0 4.68728665110412,46.2132235748408,0 4.68769941493945,46.2132168197311,0 4.6879022851213,46.2131815643359,0 4.6882856612206,46.21307580725991,0 4.68846346156717,46.213014352704,0 4.68860149738985,46.2129466430591,0 4.68849712500336,46.2128983846544,0 4.68841997864436,46.21283684210861,0 4.68814671429547,46.2123473215411,0 4.68805480791215,46.212105589982,0 4.68800588052646,46.2120208408921,0 4.68788304099168,46.2118446881088,0 4.68780103886239,46.2117517832162,0 4.68757031192771,46.21157317814519,0 4.68751785195952,46.2115127097952,0 4.68716523853126,46.2112055829301,0 4.68700882734805,46.2110892826671,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

@@ -1,0 +1,919 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>CHAPONNAY_ETAT</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_1">
+		<name>CHAPONNAY_ETAT</name>
+		<Schema name="CHAPONNAY_ETAT" id="CHAPONNAY_ETAT.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="ETAT">
+			<LineStyle>
+				<color>BF119ff7</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C119ff7</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.145">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">692700000F0637</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHAPONNAY</SimpleData>
+					<SimpleData name="Adresse">LES CHATAIGNERES</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">FRANCE DOMAINE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6063212407174 </north>
+			<south> 45.6058386510203 </south>
+			<east> 4.99241778157324 </east>
+			<west> 4.99218938467664 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.99218938467664,45.60585823990219,0 4.99225127351853,45.6063195962557,0 4.99241778157324,45.6063212407174,0 4.99232907635323,45.6058386510203,0 4.99218938467664,45.60585823990219,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.1000">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">692700000A1477</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHAPONNAY</SimpleData>
+					<SimpleData name="Adresse">LE PLAN</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.64934144644671 </north>
+			<south> 45.6491563489674 </south>
+			<east> 4.92104288755821 </east>
+			<west> 4.92060547088512 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.92062998768245,45.6491563489674,0 4.92060547088512,45.64927521564559,0 4.92075194296232,45.649299198387,0 4.9210051325228,45.64934144644671,0 4.92104288755821,45.6492636080041,0 4.92062998768245,45.6491563489674,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.1008">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">692700000A1481</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHAPONNAY</SimpleData>
+					<SimpleData name="Adresse">LE PLAN</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6495244911985 </north>
+			<south> 45.6494398724919 </south>
+			<east> 4.92188240684674 </east>
+			<west> 4.92168613368843 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.92182025609253,45.6495146181343,0 4.92186452220354,45.6495244911985,0 4.92188240684674,45.649484733066,0 4.9217084954984,45.6494398724919,0 4.92168613368843,45.6494838504706,0 4.92182025609253,45.6495146181343,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.1009">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">692700000A1483</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHAPONNAY</SimpleData>
+					<SimpleData name="Adresse">BOURDONNES</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.655478218668 </north>
+			<south> 45.6552723779715 </south>
+			<east> 4.92220184581793 </east>
+			<west> 4.92204978694022 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.92204978694022,45.6553720506672,0 4.92211486943506,45.655478218668,0 4.92220184581793,45.6552900984391,0 4.92214766924957,45.6552723779715,0 4.92204978694022,45.6553720506672,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.1010">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">692700000A1484</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHAPONNAY</SimpleData>
+					<SimpleData name="Adresse">LE PLAN</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">MINISTERE ECOLOGIE DEVELOPPEMENT TRANSPORTS LOGEMENT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.65838168280631 </north>
+			<south> 45.6482804391516 </south>
+			<east> 4.92265157777282 </east>
+			<west> 4.9171704473133 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.92165113298218,45.65838168280631,0 4.92265157777282,45.657965570016,0 4.92238084875276,45.6571382612695,0 4.92213365173052,45.6564002648874,0 4.92212101739624,45.6563619285463,0 4.92205752673975,45.656168450774,0 4.92202020274883,45.6560627095581,0 4.92199713208881,45.65599014277609,0 4.92194666484019,45.6558313916727,0 4.92211486943506,45.655478218668,0 4.92204978694022,45.6553720506672,0 4.92197366620719,45.6552476057354,0 4.92157219706935,45.6555894476207,0 4.92122527086376,45.6545605887564,0 4.92094566511931,45.6537095591053,0 4.92080481590968,45.6532926640978,0 4.92053123841806,45.6528446157034,0 4.92053830136664,45.6528112575947,0 4.92054668294716,45.652771481676,0 4.92058640752369,45.6525837185261,0 4.9205059111201,45.6523181100878,0 4.92042754039893,45.652061923203,0 4.92029490392584,45.6516223689422,0 4.9202032646326,45.6513279463554,0 4.92017007714429,45.6512190715813,0 4.92012922260274,45.6511113184048,0 4.92008693718251,45.65100674224189,0 4.92003062212252,45.6508827690619,0 4.91987081642258,45.65051510717381,0 4.91979035784546,45.6503393022963,0 4.91972655339637,45.65020671947001,0 4.91965422272921,45.6500615814738,0 4.91954076329419,45.6498488681231,0 4.91942934742654,45.6496506218684,0 4.91938599375514,45.6495744372645,0 4.91934311535122,45.6495045497762,0 4.91921415788135,45.64932632881341,0 4.9190440023757,45.6490710755782,0 4.92047232838586,45.6492578509831,0 4.92060547088512,45.64927521564559,0 4.92062998768245,45.6491563489674,0 4.91990690042949,45.64897412286091,0 4.9191594628389,45.6487858219789,0 4.91873444570496,45.6486770512921,0 4.91857985744345,45.6486374412278,0 4.91794233890251,45.648474371338,0 4.9171704473133,45.6482804391516,0 4.91727586170573,45.6488063913492,0 4.91794672436452,45.6489346685157,0 4.91807977843798,45.6491089478201,0 4.91825261529744,45.6493193896024,0 4.9184350441833,45.649565697566,0 4.91859516400625,45.6498019368408,0 4.91874329859698,45.6500332459505,0 4.91878588115465,45.6501131370052,0 4.91895000822676,45.6504278527248,0 4.91905471286217,45.6506436883836,0 4.91916322594724,45.65088044645451,0 4.91924544121822,45.6510699131826,0 4.91935827366192,45.65138676401391,0 4.91950899038922,45.651836819908,0 4.91965823281526,45.65230725770461,0 4.91979685750955,45.6527232911105,0 4.9200048693372,45.6533586441072,0 4.92016474760951,45.6538466447741,0 4.92037759238056,45.6544840766482,0 4.92059133684611,45.6551287889511,0 4.92078006835406,45.65571880192881,0 4.92097746376946,45.6563140713438,0 4.92116672033521,45.65690047191729,0 4.9213376643496,45.65744394885571,0 4.92152273712353,45.6579725022631,0 4.92165113298218,45.65838168280631,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.1013">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">692700000A1490</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHAPONNAY</SimpleData>
+					<SimpleData name="Adresse">LE PLAN</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6494838504706 </north>
+			<south> 45.6492636080041 </south>
+			<east> 4.9217084954984 </east>
+			<west> 4.9210051325228 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.92144401380254,45.6494275434431,0 4.92168613368843,45.6494838504706,0 4.9217084954984,45.6494398724919,0 4.92104288755821,45.6492636080041,0 4.9210051325228,45.64934144644671,0 4.92103392113513,45.6493457291054,0 4.92107058311113,45.64935113843429,0 4.92111278933124,45.6493571737273,0 4.92119893288084,45.6493710162169,0 4.92144401380254,45.6494275434431,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.1032">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">692700000A1504</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHAPONNAY</SimpleData>
+					<SimpleData name="Adresse">LE PLAN</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.64959523531481 </north>
+			<south> 45.649484733066 </south>
+			<east> 4.92231083610297 </east>
+			<west> 4.92186452220354 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.92231083610297,45.64959523531481,0 4.92188240684674,45.649484733066,0 4.92186452220354,45.6495244911985,0 4.9221096451094,45.6495821872558,0 4.92231083610297,45.64959523531481,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.1077">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">692700000A1567</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHAPONNAY</SimpleData>
+					<SimpleData name="Adresse">LE PLAN</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">MINISTERE ECOLOGIE DEVELOPPEMENT TRANSPORTS LOGEMENT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6528178148931 </north>
+			<south> 45.652771481676 </south>
+			<east> 4.92061328012393 </east>
+			<west> 4.92053830136664 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.92054668294716,45.652771481676,0 4.92053830136664,45.6528112575947,0 4.92061328012393,45.6528178148931,0 4.92060201280644,45.6527781039796,0 4.92054668294716,45.652771481676,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.1078">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">692700000A1569</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHAPONNAY</SimpleData>
+					<SimpleData name="Adresse">LE PLAN</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">MINISTERE ECOLOGIE DEVELOPPEMENT TRANSPORTS LOGEMENT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6532926640978 </north>
+			<south> 45.6528112575947 </south>
+			<east> 4.92080481590968 </east>
+			<west> 4.92053123841806 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.92053830136664,45.6528112575947,0 4.92053123841806,45.6528446157034,0 4.92080481590968,45.6532926640978,0 4.92061328012393,45.6528178148931,0 4.92053830136664,45.6528112575947,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.1085">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">692700000A1572</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHAPONNAY</SimpleData>
+					<SimpleData name="Adresse">LE PLAN</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">MINISTERE ECOLOGIE DEVELOPPEMENT TRANSPORTS LOGEMENT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6527781039796 </north>
+			<south> 45.6525837185261 </south>
+			<east> 4.92060201280644 </east>
+			<west> 4.92054668294716 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.92058640752369,45.6525837185261,0 4.92054668294716,45.652771481676,0 4.92060201280644,45.6527781039796,0 4.92058640752369,45.6525837185261,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.1501">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">692700000A2065</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHAPONNAY</SimpleData>
+					<SimpleData name="Adresse">GDE TERRE DE CHAPOTIN</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.64853094643841 </north>
+			<south> 45.64831119529421 </south>
+			<east> 4.91862368599168 </east>
+			<west> 4.91843215535292 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.91853675337443,45.64850909881019,0 4.91862368599168,45.64853094643841,0 4.91847916708671,45.64831119529421,0 4.91843215535292,45.64831469878169,0 4.91853675337443,45.64850909881019,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.1502">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">692700000A2066</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHAPONNAY</SimpleData>
+					<SimpleData name="Adresse">GDE TERRE DE CHAPOTIN</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.64850909881019 </north>
+			<south> 45.64831469878169 </south>
+			<east> 4.91853675337443 </east>
+			<west> 4.91791644400185 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.91791644400185,45.64835339183561,0 4.91853675337443,45.64850909881019,0 4.91843215535292,45.64831469878169,0 4.91791644400185,45.64835339183561,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.1504">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">692700000A2067</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHAPONNAY</SimpleData>
+					<SimpleData name="Adresse">GDE TERRE DE CHAPOTIN</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.64831469878169 </north>
+			<south> 45.6478618899926 </south>
+			<east> 4.91847916708671 </east>
+			<west> 4.91802593807417 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.91802593807417,45.647866113483,0 4.91843215535292,45.64831469878169,0 4.91847916708671,45.64831119529421,0 4.91828025982669,45.6480895785729,0 4.91807292450576,45.6478618899926,0 4.91802593807417,45.647866113483,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.1505">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">692700000A2068</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHAPONNAY</SimpleData>
+					<SimpleData name="Adresse">GDE TERRE DE CHAPOTIN</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.64835339183561 </north>
+			<south> 45.647866113483 </south>
+			<east> 4.91843215535292 </east>
+			<west> 4.91709056253937 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.91709056253937,45.6479502347841,0 4.91716746151514,45.6481719499972,0 4.91791644400185,45.64835339183561,0 4.91843215535292,45.64831469878169,0 4.91802593807417,45.647866113483,0 4.91709056253937,45.6479502347841,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.1507">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">692700000A2069</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHAPONNAY</SimpleData>
+					<SimpleData name="Adresse">GDE TERRE DE CHAPOTIN</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.647866113483 </north>
+			<south> 45.6474027167623 </south>
+			<east> 4.91807292450576 </east>
+			<west> 4.91749357988754 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.91749357988754,45.6474054439579,0 4.91757189881597,45.6474678826365,0 4.91758257889752,45.6474758974888,0 4.91759099543796,45.6474853020225,0 4.91759620010198,45.64749467119899,0 4.91759898169648,45.6475045320286,0 4.91760312838353,45.64751301848171,0 4.91760856169475,45.6475215730901,0 4.91761381677514,45.6475286895394,0 4.91762622725748,45.6475421694652,0 4.91766837140975,45.6475761302346,0 4.91797439256525,45.6478091638312,0 4.91802593807417,45.647866113483,0 4.91807292450576,45.6478618899926,0 4.91800980652246,45.647797120904,0 4.91752148230822,45.6474027167623,0 4.91749357988754,45.6474054439579,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.1512">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">692700000A2070</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHAPONNAY</SimpleData>
+					<SimpleData name="Adresse">GDE TERRE DE CHAPOTIN</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6479502347841 </north>
+			<south> 45.6474054439579 </south>
+			<east> 4.91802593807417 </east>
+			<west> 4.91692339058792 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.91692339058792,45.6474617244408,0 4.91709056253937,45.6479502347841,0 4.91802593807417,45.647866113483,0 4.91797439256525,45.6478091638312,0 4.91766837140975,45.6475761302346,0 4.91762622725748,45.6475421694652,0 4.91761381677514,45.6475286895394,0 4.91760856169475,45.6475215730901,0 4.91760312838353,45.64751301848171,0 4.91759898169648,45.6475045320286,0 4.91759620010198,45.64749467119899,0 4.91759099543796,45.6474853020225,0 4.91758257889752,45.6474758974888,0 4.91757189881597,45.6474678826365,0 4.91749357988754,45.6474054439579,0 4.91692339058792,45.6474617244408,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.1514">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">692700000A2071</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHAPONNAY</SimpleData>
+					<SimpleData name="Adresse">GDE TERRE DE CHAPOTIN</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6474054439579 </north>
+			<south> 45.6467104346031 </south>
+			<east> 4.91752148230822 </east>
+			<west> 4.91666814426611 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.91668014393473,45.6467454494669,0 4.91749357988754,45.6474054439579,0 4.91752148230822,45.6474027167623,0 4.91695606542325,45.6469439591527,0 4.91666814426611,45.6467104346031,0 4.91668014393473,45.6467454494669,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.1515">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">692700000A2072</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHAPONNAY</SimpleData>
+					<SimpleData name="Adresse">GDE TERRE DE CHAPOTIN</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6474617244408 </north>
+			<south> 45.6467454494669 </south>
+			<east> 4.91749357988754 </east>
+			<west> 4.91668014393473 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.91668014393473,45.6467454494669,0 4.91692339058792,45.6474617244408,0 4.91749357988754,45.6474054439579,0 4.91668014393473,45.6467454494669,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.3216">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">692700000F0539</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHAPONNAY</SimpleData>
+					<SimpleData name="Adresse">LES CHATAIGNERES</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">FRANCE DOMAINE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6048932870886 </north>
+			<south> 45.60473288197831 </south>
+			<east> 4.99454947007488 </east>
+			<west> 4.99411378660434 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.99411378660434,45.6048932870886,0 4.99431991067189,45.6048797239516,0 4.99443946625799,45.60487481160359,0 4.99451221806907,45.6048637932323,0 4.99454947007488,45.60473288197831,0 4.99411378660434,45.6048932870886,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.3464">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">692700000F0633</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHAPONNAY</SimpleData>
+					<SimpleData name="Adresse">LES CHATAIGNERES</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">FRANCE DOMAINE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.60631698899 </north>
+			<south> 45.6058865977819 </south>
+			<east> 4.99201196562036 </east>
+			<west> 4.99169409626303 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.99169409626303,45.6063137907112,0 4.99201196562036,45.60631698899,0 4.9919868684275,45.6058865977819,0 4.99174323628485,45.60592072767681,0 4.99169409626303,45.6063137907112,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.3465">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">692700000F0636</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHAPONNAY</SimpleData>
+					<SimpleData name="Adresse">LES CHATAIGNERES</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">FRANCE DOMAINE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6063195962557 </north>
+			<south> 45.60585823990219 </south>
+			<east> 4.99225127351853 </east>
+			<west> 4.9919868684275 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.9919868684275,45.6058865977819,0 4.99201196562036,45.60631698899,0 4.99225127351853,45.6063195962557,0 4.99218938467664,45.60585823990219,0 4.9919868684275,45.6058865977819,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.3483">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">692700000F0640</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHAPONNAY</SimpleData>
+					<SimpleData name="Adresse">LES CHATAIGNERES</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">FRANCE DOMAINE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6063229499589 </north>
+			<south> 45.60582793956441 </south>
+			<east> 4.99258570364805 </east>
+			<west> 4.99232907635323 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.9924049208192,45.60582793956441,0 4.99232907635323,45.6058386510203,0 4.99241778157324,45.6063212407174,0 4.99258570364805,45.6063229499589,0 4.99255179884856,45.6061973534612,0 4.99252320318403,45.60609805531131,0 4.99245825048521,45.605958416423,0 4.9924049208192,45.60582793956441,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.3486">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">692700000F0644</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHAPONNAY</SimpleData>
+					<SimpleData name="Adresse">LES CHATAIGNERES</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">FRANCE DOMAINE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6056666409072 </north>
+			<south> 45.6050452946219 </south>
+			<east> 4.99373005549629 </east>
+			<west> 4.99344185135552 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.99361323701195,45.6050770891514,0 4.99363467747798,45.6052556911086,0 4.99361022084618,45.6055604030167,0 4.99344185135552,45.60562824232811,0 4.99357248480658,45.605645833869,0 4.99373005549629,45.6056666409072,0 4.99372405199816,45.6055390188455,0 4.99370213976802,45.6054400528815,0 4.9936777811538,45.6053408600501,0 4.99367229099132,45.60532023977261,0 4.99368195099105,45.6052213447,0 4.9936931803628,45.6051090004104,0 4.99369948645923,45.6050452946219,0 4.99361323701195,45.6050770891514,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.3488">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">692700000F0645</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHAPONNAY</SimpleData>
+					<SimpleData name="Adresse">LES CHATAIGNERES</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">FRANCE DOMAINE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6055390188455 </north>
+			<south> 45.6053408600501 </south>
+			<east> 4.99383241615319 </east>
+			<west> 4.9936777811538 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.9936777811538,45.6053408600501,0 4.99370213976802,45.6054400528815,0 4.99372405199816,45.6055390188455,0 4.99383241615319,45.6053585662892,0 4.9936777811538,45.6053408600501,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.3489">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">692700000F0648</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHAPONNAY</SimpleData>
+					<SimpleData name="Adresse">LES CHATAIGNERES</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">FRANCE DOMAINE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6053585662892 </north>
+			<south> 45.6052213447 </south>
+			<east> 4.99389659227379 </east>
+			<west> 4.99367229099132 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.99368195099105,45.6052213447,0 4.99367229099132,45.60532023977261,0 4.9936777811538,45.6053408600501,0 4.99383241615319,45.6053585662892,0 4.99389659227379,45.6052518589501,0 4.99368195099105,45.6052213447,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.3490">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">692700000F0649</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHAPONNAY</SimpleData>
+					<SimpleData name="Adresse">LES CHATAIGNERES</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">FRANCE DOMAINE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.6052518589501 </north>
+			<south> 45.6051090004104 </south>
+			<east> 4.99396079406121 </east>
+			<west> 4.99368195099105 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.9936931803628,45.6051090004104,0 4.99368195099105,45.6052213447,0 4.99389659227379,45.6052518589501,0 4.99396079406121,45.60514587172809,0 4.9936931803628,45.6051090004104,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.3504">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">692700000F0652</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHAPONNAY</SimpleData>
+					<SimpleData name="Adresse">LES CHATAIGNERES</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">FRANCE DOMAINE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.60514587172809 </north>
+			<south> 45.6048932870886 </south>
+			<east> 4.99411378660434 </east>
+			<west> 4.9936931803628 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.99369948645923,45.6050452946219,0 4.9936931803628,45.6051090004104,0 4.99396079406121,45.60514587172809,0 4.99411378660434,45.6048932870886,0 4.99369948645923,45.6050452946219,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

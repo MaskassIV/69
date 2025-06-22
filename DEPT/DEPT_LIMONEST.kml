@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>LIMONEST_DEPT</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_3">
+		<name>LIMONEST_DEPT</name>
+		<Schema name="LIMONEST_DEPT" id="LIMONEST_DEPT.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="DEPT">
+			<LineStyle>
+				<color>BF63f16c</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C63f16c</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.194">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">691160000H0884</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LIMONEST</SimpleData>
+					<SimpleData name="Adresse">RTE NATIONALE 6 PARIS CHAMBERY</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8218773729091 </north>
+			<south> 45.8214344324319 </south>
+			<east> 4.76632312276611 </east>
+			<west> 4.76576707485354 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.76613319839348,45.8218773729091,0 4.76632312276611,45.8216530061094,0 4.76631181964453,45.8216097683931,0 4.76594111895489,45.8214344324319,0 4.76576707485354,45.82159144689239,0 4.76618399389443,45.8217577739384,0 4.76613319839348,45.8218773729091,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.5782">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">691160000E0686</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LIMONEST</SimpleData>
+					<SimpleData name="Adresse">SANDAR</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.833001149609 </north>
+			<south> 45.8326352255187 </south>
+			<east> 4.77104551940157 </east>
+			<west> 4.77091536575087 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.77091536575087,45.8326352255187,0 4.77099243587905,45.833001149609,0 4.77099903596596,45.8328976437076,0 4.77104551940157,45.8328203537842,0 4.7710402309179,45.8328121501099,0 4.77102902735469,45.832796293017,0 4.77091536575087,45.8326352255187,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6401">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">691160000D0853</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LIMONEST</SimpleData>
+					<SimpleData name="Adresse">200, RTE DE ST DIDIER</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8346644185199 </north>
+			<south> 45.834379875742 </south>
+			<east> 4.77285276956251 </east>
+			<west> 4.77219192388441 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.77219237386034,45.8346644185199,0 4.77244325077057,45.8346521951575,0 4.77248054239233,45.834649808494,0 4.77250558438934,45.834647163701,0 4.77253019663698,45.8346431745694,0 4.77255426190877,45.8346382032265,0 4.7725781694687,45.8346323336354,0 4.77260139836771,45.83462539382839,0 4.77262395438815,45.8346175638589,0 4.7726459663203,45.8346088417058,0 4.77266717658119,45.8345992314124,0 4.77268745927098,45.8345888250269,0 4.7727069402885,45.8345775305019,0 4.77272549373417,45.8345654398858,0 4.77274286780966,45.8345527372748,0 4.77275931720517,45.83453932859999,0 4.77277445843996,45.8345253099529,0 4.7727885462043,45.8345105872645,0 4.77280132870082,45.834495344631,0 4.77281280593023,45.8344795820531,0 4.77282298367738,45.8344634795838,0 4.77283186194323,45.8344470372237,0 4.77283930904603,45.8344301669681,0 4.77284545666963,45.8344129568222,0 4.77284992711954,45.8343956829303,0 4.77285276956251,45.834379875742,0 4.77281918993812,45.8344416516765,0 4.77279743066161,45.8344782921674,0 4.77276915951363,45.8345127830684,0 4.77273500019683,45.8345444840824,0 4.77269419152741,45.8345737674381,0 4.77264836440801,45.8345992564541,0 4.77261100298333,45.8346155153308,0 4.77257068668288,45.8346280375526,0 4.7725183841095,45.8346404776545,0 4.77246394145985,45.8346464661452,0 4.77240903146662,45.8346499399324,0 4.77225597519036,45.8346587368075,0 4.77219192388441,45.8346624440004,0 4.77219237386034,45.8346644185199,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6496">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">691160000H0883</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LIMONEST</SimpleData>
+					<SimpleData name="Adresse">LES TUILERIES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8240352851725 </north>
+			<south> 45.8238469466669 </south>
+			<east> 4.76431439474995 </east>
+			<west> 4.76398255457649 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.76406015823668,45.8238494692963,0 4.76403453086221,45.8238497795699,0 4.76398255457649,45.8240132607831,0 4.76400838048245,45.8240352851725,0 4.76417595356851,45.8239616008462,0 4.76431439474995,45.8238632414565,0 4.76424469186971,45.8238469466669,0 4.76406015823668,45.8238494692963,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6497">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">691160000H0885</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LIMONEST</SimpleData>
+					<SimpleData name="Adresse">RTE NATIONALE 6 PARIS CHAMBERY</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.821577301922 </north>
+			<south> 45.8212488580799 </south>
+			<east> 4.76665171489004 </east>
+			<west> 4.76605825548048 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.76606637559879,45.8213430323225,0 4.76605825548048,45.8213992739447,0 4.76607433231569,45.8214346908599,0 4.76610622400298,45.82145707024861,0 4.76639503256236,45.821577301922,0 4.76649650062352,45.8214913174679,0 4.76651863172708,45.8214582752403,0 4.76665171489004,45.8213095565363,0 4.76659927299986,45.8212488580799,0 4.7665559342548,45.8212713334472,0 4.76652907789352,45.8212855345646,0 4.76650898730592,45.8212937751736,0 4.76647309177168,45.8213073070438,0 4.76642553664763,45.8213228227332,0 4.76638773759926,45.8213332318464,0 4.76634043619472,45.8213446002352,0 4.76628868777995,45.8213538764466,0 4.76623589687535,45.82135875543081,0 4.76618257277395,45.8213590490772,0 4.76614267922364,45.821356340411,0 4.76610335170901,45.8213511909437,0 4.76606637559879,45.8213430323225,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6498">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">691160000H0886</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LIMONEST</SimpleData>
+					<SimpleData name="Adresse">RTE DE LA GARDE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8255494896506 </north>
+			<south> 45.82385755606651 </south>
+			<east> 4.76698621508164 </east>
+			<west> 4.76440694727416 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.76493302155149,45.8238787942962,0 4.76493182713548,45.82385755606651,0 4.76487364682309,45.8238994479653,0 4.76465349829022,45.82403718521849,0 4.76440694727416,45.82423162930791,0 4.76464215848616,45.8242708280004,0 4.76465227791659,45.82427706494759,0 4.76478988067373,45.82436201377939,0 4.76496060979921,45.82446761152701,0 4.76513703259437,45.8246102295311,0 4.76524018958549,45.8246936446161,0 4.76528418256427,45.8247076385774,0 4.7652766336919,45.82472135739841,0 4.7654787850318,45.8248869012431,0 4.76548337751112,45.8248854783691,0 4.76562978707303,45.82495164370971,0 4.76559330925068,45.8249994115821,0 4.76575308940976,45.82505663077031,0 4.76585994061192,45.82506216566589,0 4.76604108868617,45.8251751649394,0 4.76652935232787,45.82537190046119,0 4.76698621508164,45.8255494896506,0 4.76691321719873,45.8255148734013,0 4.76685990090288,45.8254913882656,0 4.76655358341827,45.8253561191518,0 4.76640775126133,45.8252839111417,0 4.76628498334505,45.8252238621571,0 4.76622281736285,45.825189526409,0 4.76603309606808,45.8250783728586,0 4.76575417847338,45.8248973671065,0 4.76574746439032,45.8248928784389,0 4.76571195587383,45.82486623203321,0 4.76569571702613,45.82485396599079,0 4.76554659577863,45.8247352413094,0 4.76548564694469,45.8246865647548,0 4.7653173571353,45.8245525570822,0 4.76524848109643,45.8244976993179,0 4.76520316996016,45.8244585959715,0 4.76502437893979,45.82429025461341,0 4.76502304808507,45.82428892434089,0 4.76493135322243,45.824209383151,0 4.76490829812738,45.8241491253004,0 4.76494720598637,45.8240443944176,0 4.76492025992899,45.8239873498913,0 4.76493653361082,45.8239443115301,0 4.76493302155149,45.8238787942962,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

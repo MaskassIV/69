@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>LYON 4EME_PMRSEM</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_6">
+		<name>LYON 4EME_PMRSEM</name>
+		<Schema name="LYON 4EME_PMRSEM" id="LYON 4EME_PMRSEM.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="PMRSEM">
+			<LineStyle>
+				<color>BF00faff</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C00faff</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.7">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">69384000AC0147</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LYON 4EME</SimpleData>
+					<SimpleData name="Adresse">118, RUE PHILIPPE DE LASSALLE</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">CDC HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7837413669811 </north>
+			<south> 45.7836790081886 </south>
+			<east> 4.82217083943725 </east>
+			<west> 4.82210795838065 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.82216925017271,45.7837413669811,0 4.82217083943725,45.7836802718638,0 4.82210964668668,45.7836790081886,0 4.82210795838065,45.7837410056325,0 4.82216925017271,45.7837413669811,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.839">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">69384000AC0124</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LYON 4EME</SimpleData>
+					<SimpleData name="Adresse">118, RUE PHILIPPE DE LASSALLE</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">CDC HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.78423461812541 </north>
+			<south> 45.78375295581181 </south>
+			<east> 4.82235816275116 </east>
+			<west> 4.821027329248 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.82235431916443,45.7838527709078,0 4.82235349202861,45.7837730697096,0 4.8223533583748,45.7837690185856,0 4.82230069046063,45.7837686081383,0 4.82229605534389,45.78376859292019,0 4.82229396620936,45.78380672751369,0 4.82216737883458,45.7838056192063,0 4.82216624279216,45.7838492328545,0 4.8221050765817,45.78384877940159,0 4.82151271814336,45.783844021515,0 4.82151358548503,45.7838000519275,0 4.82147057082963,45.78379957533681,0 4.82147093827613,45.7837677736641,0 4.82147092937019,45.7837675035891,0 4.8214709234329,45.7837673235391,0 4.82147078585619,45.7837670555411,0 4.82147077991889,45.7837668754911,0 4.82147077101296,45.7837666054161,0 4.82147063640489,45.7837664274431,0 4.82147062749896,45.7837661573681,0 4.82147049289089,45.7837659793951,0 4.82147048398496,45.78376570932021,0 4.8214703493769,45.7837655313472,0 4.8214702118002,45.7837652633492,0 4.82147020586291,45.7837650832992,0 4.82147006828621,45.7837648153012,0 4.82146993070951,45.7837645473032,0 4.82146979610146,45.78376436933031,0 4.82146965852476,45.7837641013323,0 4.82146952094806,45.7837638333343,0 4.82146938634001,45.7837636553613,0 4.82146924876332,45.78376338736329,0 4.82146911118663,45.78376311936529,0 4.82146884790782,45.7837629434694,0 4.82146871033113,45.7837626754714,0 4.82146844408368,45.7837624095505,0 4.821468306507,45.7837621415525,0 4.82146804025956,45.7837618756315,0 4.82146777401212,45.7837616097106,0 4.82146763940408,45.7837614317376,0 4.82146737612528,45.7837612558416,0 4.82146710987785,45.7837609899207,0 4.82146697526981,45.78376081194771,0 4.82146671199102,45.7837606360517,0 4.82146657738299,45.7837604580787,0 4.8214663141042,45.7837602821828,0 4.82146617949617,45.7837601042098,0 4.82146591621738,45.7837599283138,0 4.82146564996996,45.7837596623928,0 4.82146538669118,45.7837594864969,0 4.82146512341241,45.7837593106009,0 4.82146486013363,45.783759134705,0 4.82146459685485,45.783758958809,0 4.82146420193669,45.78375869496501,0 4.82146393865792,45.7837585190691,0 4.82146367834778,45.7837584331981,0 4.82146328639827,45.7837582593791,0 4.82146302608813,45.7837581735082,0 4.82146275984073,45.7837579075872,0 4.8214624995306,45.7837578217162,0 4.82146223625184,45.7837576458202,0 4.82146197594171,45.78375755994931,0 4.82146171266295,45.78375738405331,0 4.82146132368208,45.7837573002593,0 4.82146093173257,45.7837571264404,0 4.82146053978307,45.78375695262141,0 4.8211458042856,45.7837540161774,0 4.821027329248,45.78375295581181,0 4.82102808921869,45.78376429273389,0 4.82102816341681,45.7837665433592,0 4.82103506669006,45.7839212672854,0 4.82103749048605,45.7839323071376,0 4.82104042896779,45.7839433386836,0 4.82104387916764,45.7839542718983,0 4.8210477064787,45.7839649288083,0 4.82105218011557,45.78397566536049,0 4.82105703680008,45.7839863056577,0 4.82106240223576,45.7839967575986,0 4.82106828235885,45.7840072012329,0 4.82107467420163,45.78401754653561,0 4.8210814431569,45.7840276155332,0 4.82108872383225,45.78403758619899,0 4.8210963816204,45.7840472805595,0 4.82110455409707,45.7840569666131,0 4.82111297501534,45.7840663784378,0 4.8211220303897,45.7840755098037,0 4.82113147178162,45.784084634939,0 4.82114128435066,45.7840933037184,0 4.82115161160903,45.7841019641904,0 4.82116205566957,45.7841102624848,0 4.82117313715489,45.78411837034469,0 4.8211844670821,45.7841262039751,0 4.82119630576263,45.7841338492476,0 4.82120813257349,45.78414113441869,0 4.82122059680928,45.7841482291549,0 4.82123330651853,45.78415495963619,0 4.82124613599766,45.78416141796419,0 4.82125947126167,45.7841675979086,0 4.82127305496708,45.7841735036229,0 4.82128675844202,45.7841791371836,0 4.82130096473319,45.7841844023354,0 4.8213151591534,45.7841893073853,0 4.82132973662301,45.7841941161779,0 4.82134442495616,45.78419838274161,0 4.82135949040148,45.7842023729977,0 4.8213745410064,45.7842059131268,0 4.82138958567619,45.7842092732039,0 4.82140500448898,45.7842122669481,0 4.8214205401009,45.78421489851319,0 4.82143619251168,45.7842171678992,0 4.82145183304917,45.7842190771829,0 4.82145193695156,45.7842222280581,0 4.82210855321794,45.7842312630358,0 4.82235816275116,45.78423461812541,0 4.8223543776092,45.7838584445595,0 4.82235431916443,45.7838527709078,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.840">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">69384000AC0126</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LYON 4EME</SimpleData>
+					<SimpleData name="Adresse">118, RUE PHILIPPE DE LASSALLE</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">CDC HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7837800171491 </north>
+			<south> 45.7835344462007 </south>
+			<east> 4.82285984104521 </east>
+			<west> 4.82230069046063 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.8223533583748,45.7837690185856,0 4.82248257849014,45.7837718856204,0 4.82285464598869,45.7837800171491,0 4.82285984104521,45.7835395285016,0 4.82279537226423,45.783536516664,0 4.82270870296218,45.7835356648606,0 4.82230455178469,45.7835344462007,0 4.82230069046063,45.7837686081383,0 4.8223533583748,45.7837690185856,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.841">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">69384000AC0127</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LYON 4EME</SimpleData>
+					<SimpleData name="Adresse">118, RUE PHILIPPE DE LASSALLE</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">CDC HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.78380672751369 </north>
+			<south> 45.7835313101978 </south>
+			<east> 4.82230455178469 </east>
+			<west> 4.82216737883458 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.82216737883458,45.7838056192063,0 4.82229396620936,45.78380672751369,0 4.82229605534389,45.78376859292019,0 4.82230069046063,45.7837686081383,0 4.82230455178469,45.7835344462007,0 4.82220313093561,45.7835313101978,0 4.82220033171957,45.7836806062634,0 4.82217083943725,45.7836802718638,0 4.82216925017271,45.7837413669811,0 4.82216737883458,45.7838056192063,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.842">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">69384000AC0128</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LYON 4EME</SimpleData>
+					<SimpleData name="Adresse">118, RUE PHILIPPE DE LASSALLE</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">CDC HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7835395285016 </north>
+			<south> 45.783341369232 </south>
+			<east> 4.82286375910063 </east>
+			<west> 4.82220313093561 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.82220729281191,45.783341369232,0 4.82220313093561,45.7835313101978,0 4.82230455178469,45.7835344462007,0 4.82270870296218,45.7835356648606,0 4.82279537226423,45.783536516664,0 4.82285984104521,45.7835395285016,0 4.82286375910063,45.78334616864159,0 4.82226614834576,45.7833420400823,0 4.82220729281191,45.783341369232,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.844">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">69384000AC0148</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LYON 4EME</SimpleData>
+					<SimpleData name="Adresse">118, RUE PHILIPPE DE LASSALLE</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">CDC HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7838056192063 </north>
+			<south> 45.7837410056325 </south>
+			<east> 4.82216925017271 </east>
+			<west> 4.82210620970271 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.82216737883458,45.7838056192063,0 4.82216925017271,45.7837413669811,0 4.82210795838065,45.7837410056325,0 4.82210620970271,45.783805075729,0 4.82216737883458,45.7838056192063,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.845">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">69384000AC0151</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LYON 4EME</SimpleData>
+					<SimpleData name="Adresse">118, RUE PHILIPPE DE LASSALLE</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">CDC HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7838492328545 </north>
+			<south> 45.783805075729 </south>
+			<east> 4.82216737883458 </east>
+			<west> 4.8221050765817 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.8221050765817,45.78384877940159,0 4.82216624279216,45.7838492328545,0 4.82216737883458,45.7838056192063,0 4.82210620970271,45.783805075729,0 4.8221050765817,45.78384877940159,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.846">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">69384000AC0150</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LYON 4EME</SimpleData>
+					<SimpleData name="Adresse">118, RUE PHILIPPE DE LASSALLE</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">CDC HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7838000519275 </north>
+			<south> 45.78374040994099 </south>
+			<east> 4.82151360540853 </east>
+			<west> 4.8211458042856 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.8211458042856,45.7837540161774,0 4.82146053978307,45.78375695262141,0 4.82146093173257,45.7837571264404,0 4.82146132368208,45.7837573002593,0 4.82146171266295,45.78375738405331,0 4.82146197594171,45.78375755994931,0 4.82146223625184,45.7837576458202,0 4.8214624995306,45.7837578217162,0 4.82146275984073,45.7837579075872,0 4.82146302608813,45.7837581735082,0 4.82146328639827,45.7837582593791,0 4.82146367834778,45.7837584331981,0 4.82146393865792,45.7837585190691,0 4.82146420193669,45.78375869496501,0 4.82146459685485,45.783758958809,0 4.82146486013363,45.783759134705,0 4.82146512341241,45.7837593106009,0 4.82146538669118,45.7837594864969,0 4.82146564996996,45.7837596623928,0 4.82146591621738,45.7837599283138,0 4.82146617949617,45.7837601042098,0 4.8214663141042,45.7837602821828,0 4.82146657738299,45.7837604580787,0 4.82146671199102,45.7837606360517,0 4.82146697526981,45.78376081194771,0 4.82146710987785,45.7837609899207,0 4.82146737612528,45.7837612558416,0 4.82146763940408,45.7837614317376,0 4.82146777401212,45.7837616097106,0 4.82146804025956,45.7837618756315,0 4.821468306507,45.7837621415525,0 4.82146844408368,45.7837624095505,0 4.82146871033113,45.7837626754714,0 4.82146884790782,45.7837629434694,0 4.82146911118663,45.78376311936529,0 4.82146924876332,45.78376338736329,0 4.82146938634001,45.7837636553613,0 4.82146952094806,45.7837638333343,0 4.82146965852476,45.7837641013323,0 4.82146979610146,45.78376436933031,0 4.82146993070951,45.7837645473032,0 4.82147006828621,45.7837648153012,0 4.82147020586291,45.7837650832992,0 4.8214702118002,45.7837652633492,0 4.8214703493769,45.7837655313472,0 4.82147048398496,45.78376570932021,0 4.82147049289089,45.7837659793951,0 4.82147062749896,45.7837661573681,0 4.82147063640489,45.7837664274431,0 4.82147077101296,45.7837666054161,0 4.82147077991889,45.7837668754911,0 4.82147078585619,45.7837670555411,0 4.8214709234329,45.7837673235391,0 4.82147092937019,45.7837675035891,0 4.82147093827613,45.7837677736641,0 4.82147057082963,45.78379957533681,0 4.82151358548503,45.7838000519275,0 4.82151360540853,45.78378113629201,0 4.82147116610765,45.7837434502976,0 4.82114612812452,45.78374040994099,0 4.8211458042856,45.7837540161774,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_6.855">
+		<styleUrl>#PMRSEM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_6.schema">
+					<SimpleData name="Numero de Parcelle">69384000AD0186</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">LYON 4EME</SimpleData>
+					<SimpleData name="Adresse">53, QUAI JOSEPH GILLET</SimpleData>
+					<SimpleData name="Groupe de personne">Personnes morales representant des societes d'economie mixte</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SEM</SimpleData>
+					<SimpleData name="Denomination">ADOMA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.7802772150453 </north>
+			<south> 45.7797311181434 </south>
+			<east> 4.81287414347403 </east>
+			<west> 4.81182804014734 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.81287414347403,45.780077136725,0 4.81279461233017,45.779807205693,0 4.81275388274918,45.7797311181434,0 4.81228300298043,45.7798335288563,0 4.81217103047202,45.7798577553792,0 4.81215723243196,45.7798609493845,0 4.81214930854499,45.7798626979555,0 4.81210894075579,45.7798721734022,0 4.81201314112932,45.7798949690791,0 4.81195753632297,45.7799069409843,0 4.81182982960731,45.77993421208989,0 4.81182804014734,45.77993460111529,0 4.81202014431016,45.7802772150453,0 4.81214827777843,45.78024723470129,0 4.81220614861086,45.7802336950768,0 4.81226146092508,45.7802206468793,0 4.81226427083374,45.7802199712392,0 4.81230297804768,45.7802108827031,0 4.8123965760668,45.7801876717872,0 4.81287414347403,45.780077136725,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

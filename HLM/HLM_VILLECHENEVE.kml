@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>VILLECHENEVE_HLM</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_5">
+		<name>VILLECHENEVE_HLM</name>
+		<Schema name="VILLECHENEVE_HLM" id="VILLECHENEVE_HLM.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="HLM">
+			<LineStyle>
+				<color>BFe451f5</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4Ce451f5</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.4078">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69263000AI0534</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">VILLECHENEVE</SimpleData>
+					<SimpleData name="Adresse">RUE DU STADE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.81156308493661 </north>
+			<south> 45.811438219459 </south>
+			<east> 4.40484779034792 </east>
+			<west> 4.40450008733599 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.40484779034792,45.8115170073602,0 4.40479421968353,45.8114868722654,0 4.40477677762021,45.8114745704842,0 4.40477702600186,45.811448899349,0 4.40467861583295,45.8114483224828,0 4.40457854664061,45.811438219459,0 4.40453665934133,45.8114876449268,0 4.40451130653024,45.8115187619675,0 4.40450455561339,45.811526771519,0 4.40450212949604,45.8115326558146,0 4.40450008733599,45.8115384452704,0 4.40450163183591,45.8115434696025,0 4.40450772150025,45.8115499684699,0 4.40451880948989,45.81155550452521,0 4.40452788836867,45.81155800342021,0 4.4045468832442,45.8115604690215,0 4.40458275345814,45.81156308493661,0 4.40478670628679,45.8115610878583,0 4.40479478589491,45.811554682897,0 4.40479531327786,45.8115450395604,0 4.40480586843615,45.8115448181653,0 4.40480658827673,45.8115174299607,0 4.40484779034792,45.8115170073602,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.4092">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69263000AI0536</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">VILLECHENEVE</SimpleData>
+					<SimpleData name="Adresse">RUE DU STADE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8116339718698 </north>
+			<south> 45.81126999766081 </south>
+			<east> 4.40520406282018 </east>
+			<west> 4.40488556978981 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.40491635192703,45.8115896459054,0 4.40491516159701,45.8116339718698,0 4.4050728385887,45.81163038857841,0 4.40511534242326,45.8115191717948,0 4.40520406282018,45.8113211891898,0 4.40502139327167,45.8112738376677,0 4.40489572579018,45.81126999766081,0 4.40488889022071,45.81140121490711,0 4.40488556978981,45.8114833039058,0 4.40492562225582,45.81148325583471,0 4.40491863276195,45.8115881765108,0 4.40491635192703,45.8115896459054,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.4099">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69263000AI0538</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">VILLECHENEVE</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8112959454675 </north>
+			<south> 45.81102372327381 </south>
+			<east> 4.40458847367393 </east>
+			<west> 4.40428507793027 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.40458847367393,45.8112513046549,0 4.40451809525177,45.8111932787798,0 4.40443169412403,45.8111179798928,0 4.40433437914445,45.81102372327381,0 4.40432024127005,45.8110552411556,0 4.40428507793027,45.81113610505181,0 4.40436688465271,45.8112181258819,0 4.40444685169393,45.8112835078285,0 4.40446806188017,45.8112718059454,0 4.40448087770311,45.81126426133039,0 4.40451786277917,45.8112904599821,0 4.40452309518263,45.81129363717011,0 4.40453100840828,45.8112958803752,0 4.4045474951265,45.8112959454675,0 4.40455863443223,45.811293375182,0 4.40457059023357,45.81128746239529,0 4.4045783688113,45.81127934999141,0 4.4045846922133,45.8112697246139,0 4.40458847367393,45.8112513046549,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.4105">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69263000AI0539</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">VILLECHENEVE</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8112513046549 </north>
+			<south> 45.8109611240459 </south>
+			<east> 4.40467423757435 </east>
+			<west> 4.40433437914445 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.40458096290831,45.8109611240459,0 4.40448844979795,45.8110404498787,0 4.40435938933214,45.81096901394779,0 4.40434840199478,45.81099274720069,0 4.40433437914445,45.81102372327381,0 4.40443169412403,45.8111179798928,0 4.40451809525177,45.8111932787798,0 4.40458847367393,45.8112513046549,0 4.40459690576172,45.8112131930372,0 4.40465903407659,45.8112101685178,0 4.40467032778173,45.811203543451,0 4.40467423757435,45.811164857647,0 4.4046717097476,45.81105537210969,0 4.40466863219715,45.8110457736244,0 4.40464650183181,45.8110162379984,0 4.4046214304169,45.8109925930731,0 4.40458096290831,45.8109611240459,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.4119">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69263000AI0541</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">VILLECHENEVE</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8111890906074 </north>
+			<south> 45.8108107220299 </south>
+			<east> 4.4051314433329 </east>
+			<west> 4.40475750735318 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.40502128806151,45.8111634213478,0 4.40505261036133,45.8110885491889,0 4.4051314433329,45.8109018575368,0 4.40500138121125,45.8108163849224,0 4.4049932522268,45.8108107220299,0 4.40494153099416,45.8108532450945,0 4.40487434756685,45.81090559730999,0 4.40477991978501,45.8109855776556,0 4.40476057768701,45.81103526307439,0 4.40475750735318,45.8110715067279,0 4.40483306012368,45.8110899302763,0 4.40492771581201,45.8111100073959,0 4.40491713555476,45.8111345462112,0 4.40492795135208,45.8111496323243,0 4.40497776653747,45.8111890906074,0 4.4049946930065,45.811155826734,0 4.40502128806151,45.8111634213478,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.4134">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69263000AI0546</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">VILLECHENEVE</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8116454142766 </north>
+			<south> 45.8115896459054 </south>
+			<east> 4.40491635192703 </east>
+			<west> 4.40446890571919 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.40446890571919,45.8115986351954,0 4.40447007851486,45.8116194252308,0 4.40457231940749,45.8116186937406,0 4.40459631021474,45.8116454142766,0 4.40460308813514,45.8116435286888,0 4.40471294409605,45.811638379296,0 4.40491516159701,45.8116339718698,0 4.40491635192703,45.8115896459054,0 4.40491267546643,45.8115919432361,0 4.40485262276394,45.8115955725067,0 4.40474979314732,45.8115984730958,0 4.40446890571919,45.8115986351954,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.4137">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">69263000AI0547</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">VILLECHENEVE</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8115513940517 </north>
+			<south> 45.8112456765136 </south>
+			<east> 4.4044308722584 </east>
+			<west> 4.40413988316107 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.4044308722584,45.811500849236,0 4.4043725638526,45.8115122920622,0 4.40430148080622,45.8113506119505,0 4.40423725051429,45.8112456765136,0 4.40416569070931,45.811409581093,0 4.40413988316107,45.8114785302904,0 4.40429898894463,45.8115513940517,0 4.40438144274761,45.8115373092832,0 4.40440113503297,45.8115317505995,0 4.40441352574471,45.8115226802047,0 4.40442371168278,45.8115130067906,0 4.4044308722584,45.811500849236,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

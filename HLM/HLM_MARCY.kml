@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>MARCY_HLM</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_5">
+		<name>MARCY_HLM</name>
+		<Schema name="MARCY_HLM" id="MARCY_HLM.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="HLM">
+			<LineStyle>
+				<color>BFe451f5</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4Ce451f5</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.792">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">691260000B1239</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">MARCY</SimpleData>
+					<SimpleData name="Adresse">MONTEZAIN</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">ALLIADE HABITAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9148733621043 </north>
+			<south> 45.9143481920185 </south>
+			<east> 4.68245441304756 </east>
+			<west> 4.68205619384551 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.68244517617876,45.9143481920185,0 4.68205619384551,45.9143885640413,0 4.6821018413101,45.9146326946668,0 4.68212218088774,45.9148678344004,0 4.68214415745444,45.9148733621043,0 4.68245441304756,45.9148536159332,0 4.68244517617876,45.9143481920185,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_5.5019">
+		<styleUrl>#HLM</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_5.schema">
+					<SimpleData name="Numero de Parcelle">691260000B0928</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">MARCY</SimpleData>
+					<SimpleData name="Adresse">104, CHE DE GRANDE TERRE</SimpleData>
+					<SimpleData name="Groupe de personne">HLM</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">EPIC</SimpleData>
+					<SimpleData name="Denomination">OFFICE PUBLIC DE LHABITAT DU DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9143103556574 </north>
+			<south> 45.9137899678945 </south>
+			<east> 4.67941847201015 </east>
+			<west> 4.6789196093859 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.67900009320398,45.9138951736771,0 4.6789196093859,45.91392600127211,0 4.67908130251049,45.91420155595791,0 4.67910112962177,45.91421702381221,0 4.6791702874052,45.9142549072272,0 4.6792090111579,45.9143103556574,0 4.67925781278341,45.91428152941549,0 4.67929404006841,45.91425928478411,0 4.67931465786502,45.9142456483699,0 4.67934552286376,45.9142168181811,0 4.67936669506288,45.9141917346815,0 4.67939228833475,45.9141550566217,0 4.67940164369062,45.9141317698194,0 4.67941230264786,45.9140962141896,0 4.67941847201015,45.914057302573,0 4.67941711653815,45.9140297613888,0 4.67941249815795,45.9140010076766,0 4.6793978056953,45.9139634866471,0 4.67938120318393,45.9139352711484,0 4.67927961231152,45.9137985225836,0 4.67927341589038,45.9137899678945,0 4.67900009320398,45.9138951736771,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

@@ -1,0 +1,655 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>THEIZE_DEPT</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_3">
+		<name>THEIZE_DEPT</name>
+		<Schema name="THEIZE_DEPT" id="THEIZE_DEPT.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="DEPT">
+			<LineStyle>
+				<color>BF63f16c</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C63f16c</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.117">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">692460000E0365</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">THEIZE</SimpleData>
+					<SimpleData name="Adresse">COTTET</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9318400955965 </north>
+			<south> 45.9315340836282 </south>
+			<east> 4.61487179508086 </east>
+			<west> 4.61465313082591 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.61483410234382,45.93168398623191,0 4.61465313082591,45.9315340836282,0 4.61471269823738,45.9318400955965,0 4.61487179508086,45.93171488204171,0 4.61483410234382,45.93168398623191,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.372">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">692460000B1000</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">THEIZE</SimpleData>
+					<SimpleData name="Adresse">LE SOURD</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9556239708376 </north>
+			<south> 45.9523304806048 </south>
+			<east> 4.61697096629564 </east>
+			<west> 4.61441976007753 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.61625195718565,45.95503543397309,0 4.61614515960787,45.95512765745611,0 4.6160315306899,45.9552159252956,0 4.61598669323875,45.95525016082681,0 4.6158553615086,45.9553380507322,0 4.61583522893886,45.9553516682062,0 4.61577689871412,45.955388167824,0 4.61571579963588,45.9554227254338,0 4.61565230573572,45.9554548853518,0 4.6156512836679,45.9554552602125,0 4.6155946906029,45.95547615315269,0 4.615536216429,45.9554945510041,0 4.61551581695792,45.9554990753482,0 4.61545225283813,45.9555112410304,0 4.61538783234203,45.955520626786,0 4.61521337871557,45.95553842782889,0 4.6151482807501,45.9555423289591,0 4.61501635395013,45.95554835444,0 4.61488434263459,45.95555149879299,0 4.61479237478564,45.95551101920189,0 4.61467242281839,45.9555070560309,0 4.61451700360357,45.9555134160356,0 4.61441976007753,45.9555264217759,0 4.61442217639541,45.9555383663706,0 4.61496239851011,45.9556239708376,0 4.61505783029439,45.9556196370204,0 4.61515292732555,45.9556126959237,0 4.61524741822705,45.95560270108,0 4.61526556034744,45.95560046069981,0 4.61540244904152,45.9555786922663,0 4.61552760656032,45.955548804827,0 4.61567558879457,45.95550463090441,0 4.6157318603014,45.9554815808785,0 4.61581203600636,45.9554370235933,0 4.61588982739621,45.9553904287193,0 4.61593241859067,45.95536325061019,0 4.61601110728028,45.9553076360269,0 4.61609302993006,45.95524341874211,0 4.616224348893,45.95513751510671,0 4.61635264305824,45.9550297630734,0 4.61637443448983,45.9550110779997,0 4.61641997684981,45.9549700771318,0 4.61646224462365,45.9549275017806,0 4.61649574338723,45.95488973518491,0 4.61652905752695,45.9548500797843,0 4.61655884687805,45.95480912368971,0 4.61657416005884,45.9547853071409,0 4.6165973703901,45.9547313851119,0 4.61661668985436,45.9546768881694,0 4.61663198145626,45.9546215480679,0 4.61663689216352,45.9545996814407,0 4.61664927574186,45.9545464544363,0 4.61665739447183,45.9544931082059,0 4.6166614959471,45.9544392789418,0 4.61666180609545,45.9544322491964,0 4.61666075242506,45.95437876376431,0 4.61663067746503,45.9540272970426,0 4.61662621297422,45.9538972123294,0 4.61662455853341,45.95381446332919,0 4.61662057497976,45.9535644009724,0 4.61661361040074,45.9533227575292,0 4.61661172362188,45.953152915947,0 4.61669034097918,45.95278710714181,0 4.61671679262982,45.9526764859105,0 4.6167179644183,45.95267241610659,0 4.61696856679358,45.9524778018318,0 4.61697096629564,45.95247596619031,0 4.61689886579358,45.95238197426189,0 4.61685926174487,45.9523304806048,0 4.61685498960634,45.9523345046295,0 4.61679967068904,45.95238987612711,0 4.61674775511146,45.9524468202107,0 4.61669924287971,45.9525053368851,0 4.61664757639078,45.95257957044679,0 4.61662492516209,45.952630512266,0 4.61653698598972,45.9531406532585,0 4.61650344820347,45.9534761857328,0 4.6165043714864,45.9534900430418,0 4.61652281463229,45.9536960357065,0 4.61654706168044,45.9539633719583,0 4.61657035743169,45.954224687228,0 4.61657072701212,45.95423287815129,0 4.61657184478737,45.9543237409489,0 4.61656921405511,45.9544144771448,0 4.61656244756596,45.954505092269,0 4.61655301111809,45.95455314328931,0 4.61653023456271,45.9546526335972,0 4.6165035697422,45.9547516390184,0 4.61648192103755,45.9548015757272,0 4.61646004640853,45.95483061984801,0 4.61640180113411,45.9548919773962,0 4.61632851783701,45.9549645379591,0 4.61625195718565,45.95503543397309,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.374">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">692460000B1002</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">THEIZE</SimpleData>
+					<SimpleData name="Adresse">LE SOURD</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9518077210085 </north>
+			<south> 45.9516358858119 </south>
+			<east> 4.61876729467332 </east>
+			<west> 4.61824035861197 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.61824035861197,45.9517887985272,0 4.61827758608595,45.9518077210085,0 4.61844681771714,45.9517576552477,0 4.61847735416396,45.9517729805417,0 4.61857311300365,45.9517448609816,0 4.61866724880757,45.9517142426402,0 4.6187596351417,45.9516812173978,0 4.61876729467332,45.9516782256714,0 4.61875127432782,45.9516603510801,0 4.61873882826259,45.95164107434639,0 4.61873635151313,45.9516358858119,0 4.61857904320061,45.9516918160807,0 4.61834441722672,45.9517574981818,0 4.61824035861197,45.9517887985272,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.823">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">692460000B1181</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">THEIZE</SimpleData>
+					<SimpleData name="Adresse">RUISSEL</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9542445013662 </north>
+			<south> 45.9540158630438 </south>
+			<east> 4.63085545454057 </east>
+			<west> 4.63047025323353 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.63047025323353,45.9540158630438,0 4.63062707412494,45.9541398800139,0 4.63081728278526,45.9542445013662,0 4.63085545454057,45.954168654148,0 4.63047025323353,45.9540158630438,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.826">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">692460000B1183</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">THEIZE</SimpleData>
+					<SimpleData name="Adresse">RUISSEL</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9509495869779 </north>
+			<south> 45.9506779816348 </south>
+			<east> 4.62942494068088 </east>
+			<west> 4.62924085553516 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.62924085553516,45.9506874323951,0 4.6293164877928,45.95078667993201,0 4.62939968522475,45.9509495869779,0 4.62942494068088,45.9509259857412,0 4.62941186410591,45.950898613046,0 4.62932494575706,45.95076269003911,0 4.62927169447174,45.9506779816348,0 4.62925096397959,45.9506843146298,0 4.62924085553516,45.9506874323951,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.829">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">692460000B1187</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">THEIZE</SimpleData>
+					<SimpleData name="Adresse">RUISSEL</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.95453904631091 </north>
+			<south> 45.9543656040005 </south>
+			<east> 4.631609576394 </east>
+			<west> 4.63132477998156 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.63132477998156,45.9544105703082,0 4.6315591638096,45.9545068078977,0 4.631609576394,45.95453904631091,0 4.63159484196524,45.95446450184309,0 4.63148845245475,45.9544257747073,0 4.63138418537647,45.9543845850348,0 4.63133881452813,45.9543656040005,0 4.63132477998156,45.9544105703082,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.832">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">692460000B1189</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">THEIZE</SimpleData>
+					<SimpleData name="Adresse">RUISSEL</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9544105703082 </north>
+			<south> 45.954168654148 </south>
+			<east> 4.63133881452813 </east>
+			<west> 4.63081728278526 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.63081728278526,45.9542445013662,0 4.63086069369495,45.9542714368707,0 4.63110942176815,45.954337565962,0 4.63132477998156,45.9544105703082,0 4.63133881452813,45.9543656040005,0 4.63085545454057,45.954168654148,0 4.63081728278526,45.9542445013662,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.888">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">692460000B1202</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">THEIZE</SimpleData>
+					<SimpleData name="Adresse">RUISSEL</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.949349892378 </north>
+			<south> 45.9491905421179 </south>
+			<east> 4.62814803827739 </east>
+			<west> 4.62776205193356 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.62778530213331,45.9491905421179,0 4.62776205193356,45.94920771929381,0 4.62802585004333,45.949304081169,0 4.62813463158647,45.949349892378,0 4.62814803827739,45.9493404224734,0 4.62778530213331,45.9491905421179,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.966">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">692460000B1244</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">THEIZE</SimpleData>
+					<SimpleData name="Adresse">RUISSEL</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.94922358127959 </north>
+			<south> 45.9490605472173 </south>
+			<east> 4.62778530213331 </east>
+			<west> 4.62742474307846 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.62746770155287,45.9490605472173,0 4.62742474307846,45.9490836820214,0 4.62773630958579,45.94922358127959,0 4.62776205193356,45.94920771929381,0 4.62778530213331,45.9491905421179,0 4.62746770155287,45.9490605472173,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2330">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">692460000D0208</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">THEIZE</SimpleData>
+					<SimpleData name="Adresse">LA ROCHE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9388315858147 </north>
+			<south> 45.9387637099379 </south>
+			<east> 4.61742935925472 </east>
+			<west> 4.61735856012007 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.61736237640532,45.9387637099379,0 4.61736151953123,45.9387784933648,0 4.61735856012007,45.9388315858147,0 4.61742149158982,45.93882492198151,0 4.61742935925472,45.9387675261705,0 4.61736237640532,45.9387637099379,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2365">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">692460000D0210</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">THEIZE</SimpleData>
+					<SimpleData name="Adresse">LA ROCHE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.93882492198151 </north>
+			<south> 45.938713433817 </south>
+			<east> 4.61760848148078 </east>
+			<west> 4.61742149158982 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.61742935925472,45.9387675261705,0 4.61742149158982,45.93882492198151,0 4.61744054459589,45.93882311849391,0 4.61752494115362,45.9388132656123,0 4.61760848148078,45.9388006327936,0 4.61760845239834,45.9387996424594,0 4.61760607578161,45.93878904838791,0 4.61759971478673,45.938779051681,0 4.61759004369801,45.9387706334494,0 4.61757746021145,45.9387641482801,0 4.61743926031432,45.938713433817,0 4.61743594542507,45.9387192455607,0 4.61742935925472,45.9387675261705,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2372">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">692460000B0210</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">THEIZE</SimpleData>
+					<SimpleData name="Adresse">RUISSEL</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.954985275964 </north>
+			<south> 45.9544375846121 </south>
+			<east> 4.63299502975535 </east>
+			<west> 4.63162516511341 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.63163873048443,45.9545206123672,0 4.63169044944765,45.9548148411879,0 4.63225592547021,45.9548193880553,0 4.63251759552135,45.954895054888,0 4.63269100778167,45.9549556017084,0 4.63297533395001,45.954985275964,0 4.63299502975535,45.9549440106404,0 4.6319900574549,45.954632546544,0 4.63185887001859,45.95457625364331,0 4.63180638033744,45.9545480082965,0 4.63162516511341,45.9544375846121,0 4.63163873048443,45.9545206123672,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2555">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">692460000B0225</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">THEIZE</SimpleData>
+					<SimpleData name="Adresse">RUISSEL</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9534552057442 </north>
+			<south> 45.95322089126391 </south>
+			<east> 4.62977795947483 </east>
+			<west> 4.62967458697414 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.62977795947483,45.95322089126391,0 4.62973089856765,45.9532320168059,0 4.62967458697414,45.95324471661209,0 4.62975596914178,45.9534552057442,0 4.62977795947483,45.95322089126391,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.4409">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">692460000D0425</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">THEIZE</SimpleData>
+					<SimpleData name="Adresse">LES MORGUIERES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9349893275141 </north>
+			<south> 45.93479058104389 </south>
+			<east> 4.61994085030984 </east>
+			<west> 4.61966135163763 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.61966135163763,45.93492868817169,0 4.6196722995929,45.9349893275141,0 4.61985459673691,45.9349859073474,0 4.61983451080227,45.934855956231,0 4.61984036150525,45.9348529902918,0 4.61994085030984,45.93480237444139,0 4.61990900677433,45.93479058104389,0 4.61966135163763,45.93492868817169,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.4554">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">692460000D0449</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">THEIZE</SimpleData>
+					<SimpleData name="Adresse">LE SITRE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.935830982068 </north>
+			<south> 45.9357319499462 </south>
+			<east> 4.62098544115389 </east>
+			<west> 4.62092002030641 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.62098544115389,45.9358213082855,0 4.62096732123205,45.9357319499462,0 4.62092002030641,45.935830982068,0 4.62098544115389,45.9358213082855,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6464">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">692460000C0871</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">THEIZE</SimpleData>
+					<SimpleData name="Adresse">LE MAUPAS</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.9304987780546 </north>
+			<south> 45.9293379242421 </south>
+			<east> 4.65637606067405 </east>
+			<west> 4.65629311609827 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.6563393179964,45.9293393628395,0 4.65629311609827,45.9304987780546,0 4.65633581609483,45.9304979728252,0 4.65637606067405,45.9293379242421,0 4.6563393179964,45.9293393628395,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6727">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">692460000D0959</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">THEIZE</SimpleData>
+					<SimpleData name="Adresse">LE GUERET</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.933320635858 </north>
+			<south> 45.93325731242349 </south>
+			<east> 4.61958070067925 </east>
+			<west> 4.61924879252421 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.61924879252421,45.93330372761261,0 4.61925255941047,45.93331331100461,0 4.61928467860417,45.93330816780319,0 4.61928827212541,45.933320635858,0 4.61934250990111,45.93331265418751,0 4.61933841084508,45.9333005536421,0 4.61958070067925,45.9332655619712,0 4.61957813468497,45.93325731242349,0 4.61924879252421,45.93330372761261,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6824">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">692460000D0993</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">THEIZE</SimpleData>
+					<SimpleData name="Adresse">LE GUERET</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.936273060824 </north>
+			<south> 45.9335763441596 </south>
+			<east> 4.62264877109422 </east>
+			<west> 4.62206182938803 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.62208732242395,45.933971007268,0 4.62211968849182,45.9344827615915,0 4.62214603631272,45.9347857338456,0 4.62217872060333,45.93489181605929,0 4.62228118428019,45.935219546655,0 4.62236805737932,45.93548247140641,0 4.6225893822232,45.9361597638448,0 4.62255182020032,45.9361730020885,0 4.62250799383987,45.9361883116451,0 4.62251805853403,45.9362013172997,0 4.62257116164492,45.936273060824,0 4.62264877109422,45.9362564561844,0 4.62246744992702,45.93567955681,0 4.62227478575634,45.93510309002971,0 4.62217040543388,45.9347760173872,0 4.6221546386117,45.93455620660819,0 4.62214816083352,45.9344633490069,0 4.6221329396163,45.9341919212803,0 4.6221028914457,45.9337501167867,0 4.62209248232042,45.9335763441596,0 4.62206182938803,45.9335786750232,0 4.6220854984304,45.93394851634601,0 4.62208732242395,45.933971007268,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6835">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">692460000C0999</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">THEIZE</SimpleData>
+					<SimpleData name="Adresse">LE MAUPAS</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.93430356714389 </north>
+			<south> 45.9339413421644 </south>
+			<east> 4.656063588639 </east>
+			<west> 4.65602232231825 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.656063588639,45.93394151594229,0 4.65605700012035,45.9339413421644,0 4.65602232231825,45.93430356714389,0 4.65603501241356,45.93426194963791,0 4.65605597029105,45.9342033682053,0 4.656063588639,45.93394151594229,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

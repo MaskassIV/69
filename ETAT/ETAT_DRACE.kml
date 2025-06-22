@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>DRACE_ETAT</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_1">
+		<name>DRACE_ETAT</name>
+		<Schema name="DRACE_ETAT" id="DRACE_ETAT.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="ETAT">
+			<LineStyle>
+				<color>BF119ff7</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C119ff7</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.377">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69077000ZL0102</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DRACE</SimpleData>
+					<SimpleData name="Adresse">EN CHAMPAGNE</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1487130441863 </north>
+			<south> 46.1479813615314 </south>
+			<east> 4.76959551169959 </east>
+			<west> 4.76932859801875 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.76951038948151,46.1487130441863,0 4.76959551169959,46.1487083854921,0 4.76953800709345,46.1480825652777,0 4.76935906231626,46.1479827615965,0 4.76935642533821,46.1479813615314,0 4.76932859801875,46.1480588059381,0 4.76936746928602,46.1483077879931,0 4.76942087456142,46.1484850270366,0 4.76951038948151,46.1487130441863,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.449">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69077000ZL0106</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DRACE</SimpleData>
+					<SimpleData name="Adresse">EN CHAMPAGNE</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1480825652777 </north>
+			<south> 46.1479036624128 </south>
+			<east> 4.76953800709345 </east>
+			<west> 4.76935906231626 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.76935906231626,46.1479827615965,0 4.76953800709345,46.1480825652777,0 4.76953748094869,46.1480742869152,0 4.76947808881104,46.1479605513745,0 4.76938903925107,46.1479036624128,0 4.76935906231626,46.1479827615965,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.462">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69077000ZL0107</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DRACE</SimpleData>
+					<SimpleData name="Adresse">EN CHAMPAGNE</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1479827615965 </north>
+			<south> 46.1470056711418 </south>
+			<east> 4.76938903925107 </east>
+			<west> 4.76821360688551 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.7685635756237,46.1479047183636,0 4.76919147225025,46.1478894460654,0 4.76935642533821,46.1479813615314,0 4.76935906231626,46.1479827615965,0 4.76938903925107,46.1479036624128,0 4.76893756140144,46.14761481005559,0 4.76864847769818,46.1473102770934,0 4.76821360688551,46.1470056711418,0 4.76829960867305,46.1472455431754,0 4.7685635756237,46.1479047183636,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.470">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69077000ZL0108</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DRACE</SimpleData>
+					<SimpleData name="Adresse">LUMINAIRE</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1493885452683 </north>
+			<south> 46.1491983249509 </south>
+			<east> 4.7698189669892 </east>
+			<west> 4.76970424736938 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.7698189669892,46.1493885452683,0 4.76977784112594,46.1491983249509,0 4.76971832612151,46.1492696879348,0 4.76970424736938,46.1493515118636,0 4.7698189669892,46.1493885452683,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.481">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69077000ZL0109</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DRACE</SimpleData>
+					<SimpleData name="Adresse">LUMINAIRE</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1499053438779 </north>
+			<south> 46.1487708455574 </south>
+			<east> 4.76993075956906 </east>
+			<west> 4.76942511571585 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.76962759170685,46.1487708455574,0 4.76942511571585,46.14905862499231,0 4.76942756079139,46.1492108073752,0 4.76979462676861,46.1495941969694,0 4.76993075956906,46.1499053438779,0 4.7698189669892,46.1493885452683,0 4.76970424736938,46.1493515118636,0 4.76971832612151,46.1492696879348,0 4.76977784112594,46.1491983249509,0 4.76976702432532,46.1491482336961,0 4.76962759170685,46.1487708455574,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.505">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69077000ZL0110</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DRACE</SimpleData>
+					<SimpleData name="Adresse">LUMINAIRE</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1499053438779 </north>
+			<south> 46.1487708455574 </south>
+			<east> 4.76993075956906 </east>
+			<west> 4.76920323211666 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.76962759170685,46.1487708455574,0 4.76920323211666,46.1488048374909,0 4.76921221354749,46.1488824291181,0 4.76926303492313,46.1491161831676,0 4.76941475079064,46.149291800857,0 4.76993075956906,46.1499053438779,0 4.76979462676861,46.1495941969694,0 4.76942756079139,46.1492108073752,0 4.76942511571585,46.14905862499231,0 4.76962759170685,46.1487708455574,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.933">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69077000ZA0142</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DRACE</SimpleData>
+					<SimpleData name="Adresse">LES GRANDES BAISES</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">AUPM</SimpleData>
+					<SimpleData name="Denomination">ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1703017187564 </north>
+			<south> 46.1692733088771 </south>
+			<east> 4.76999693258287 </east>
+			<west> 4.76842997974505 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.7697100563286,46.1703017187564,0 4.76986357531941,46.1702862675059,0 4.7699197939886,46.1696580461869,0 4.76999332450018,46.1696346533065,0 4.76999693258287,46.16955362311941,0 4.76994592154726,46.1695316296607,0 4.76994442111932,46.1695614665898,0 4.76978050870849,46.1695239378627,0 4.76924608998603,46.1693903076791,0 4.76907742884739,46.1693582561583,0 4.76863683432724,46.1692957597856,0 4.76853523601472,46.16928094810291,0 4.76842997974505,46.1692733088771,0 4.76855526325586,46.1694276325091,0 4.76906745048827,46.1694628940404,0 4.76930519051339,46.1695023367211,0 4.76956915804846,46.1695751471724,0 4.76975616581427,46.169649425839,0 4.76982908412447,46.16969143427021,0 4.7698611251159,46.1697241714985,0 4.76986653283004,46.1697752476985,0 4.76986170303384,46.16987467142389,0 4.76984304027178,46.1699753013769,0 4.76982008391346,46.1700754577688,0 4.76980912174627,46.1701174215207,0 4.76980394046965,46.1701858662318,0 4.7697100563286,46.1703017187564,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.942">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69077000ZA0143</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DRACE</SimpleData>
+					<SimpleData name="Adresse">RONCEVIS</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">AUPM</SimpleData>
+					<SimpleData name="Denomination">ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1752525542505 </north>
+			<south> 46.1697895513583 </south>
+			<east> 4.77228262525988 </east>
+			<west> 4.77028367628744 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.77039378765098,46.1751574335603,0 4.77047540205846,46.17426364705339,0 4.77048042672099,46.1742224963253,0 4.77047895042609,46.17417676317621,0 4.77050573947533,46.1731992538502,0 4.77050676903827,46.1731749185952,0 4.77052776788725,46.17275305837231,0 4.77053900711271,46.1725268946988,0 4.77054896798383,46.1723213772347,0 4.77061237155723,46.1715865794959,0 4.77062031935694,46.1714110870739,0 4.77065497097387,46.170870029988,0 4.77065784052899,46.17082639082231,0 4.77067641016925,46.1705903851808,0 4.77067702951258,46.1705814584828,0 4.77071585653084,46.1700733923955,0 4.77072769436529,46.169986289233,0 4.77093548971527,46.1699172990886,0 4.77098750417393,46.16992216294841,0 4.77107879497236,46.1699348813369,0 4.7715953787289,46.1700217639278,0 4.77216260585515,46.1701151501859,0 4.77227846866449,46.1700136343774,0 4.7722802396746,46.1699962230087,0 4.77228262525988,46.16997375806599,0 4.77222700204698,46.1699494956918,0 4.77223030474141,46.1699313398664,0 4.7713595832925,46.1698298951812,0 4.77086061393532,46.169794618063,0 4.77075803220034,46.1697895513583,0 4.77075732831973,46.16982396952281,0 4.77068149314416,46.16982416044269,0 4.77067716942632,46.1698870074359,0 4.77062716810361,46.1699806499483,0 4.77060381691849,46.1704460513357,0 4.77047440473935,46.1723008317763,0 4.77043775326982,46.1728563312533,0 4.77034860163127,46.1740989907821,0 4.7703419362153,46.1742620333359,0 4.77031308470607,46.1747821032568,0 4.77029375305185,46.1749825424888,0 4.77028367628744,46.1752005815639,0 4.77028925047456,46.1752166174692,0 4.77035873921433,46.1752525542505,0 4.77042599555047,46.1752072815902,0 4.77039378765098,46.1751574335603,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.3019">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69077000ZA0045</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DRACE</SimpleData>
+					<SimpleData name="Adresse">RONCEVIS</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">ETAT</SimpleData>
+					<SimpleData name="Denomination">ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1751574335603 </north>
+			<south> 46.17426364705339 </south>
+			<east> 4.77097792260722 </east>
+			<west> 4.77039378765098 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.77097792260722,46.1748252470533,0 4.77047540205846,46.17426364705339,0 4.77039378765098,46.1751574335603,0 4.77078131277108,46.1749481053718,0 4.77097792260722,46.1748252470533,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_1.3499">
+		<styleUrl>#ETAT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_1.schema">
+					<SimpleData name="Numero de Parcelle">69077000ZC0065</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DRACE</SimpleData>
+					<SimpleData name="Adresse">LES PERCHONNIERES</SimpleData>
+					<SimpleData name="Groupe de personne">Etat</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">AUPM</SimpleData>
+					<SimpleData name="Denomination">ETAT</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.16779137951141 </north>
+			<south> 46.1640097419572 </south>
+			<east> 4.77126242823135 </east>
+			<west> 4.77078572967365 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.77091570980064,46.1674816316141,0 4.77092087913441,46.16734058960219,0 4.77092927133152,46.16723111235591,0 4.77096511654504,46.1667713706368,0 4.77098298011503,46.166513578606,0 4.7709864463987,46.1664643456949,0 4.77100569847329,46.16620941429,0 4.77102764515857,46.1659536302344,0 4.77104348913547,46.165769818126,0 4.77107993913503,46.16531682221021,0 4.7710816173624,46.165296530025,0 4.77117930425764,46.164074271871,0 4.77121026355616,46.16406153957809,0 4.77126242823135,46.1640391092998,0 4.77111823929231,46.1640097419572,0 4.77111407339566,46.1641055526204,0 4.77108986076969,46.1644999016233,0 4.77105184962945,46.1650249788955,0 4.77099878920998,46.1656982777111,0 4.7709620066368,46.165920156001,0 4.77091944363393,46.1663484775262,0 4.77085954425487,46.1670108039965,0 4.77078572967365,46.1677200041192,0 4.77089304104205,46.16779137951141,0 4.77091570980064,46.1674816316141,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

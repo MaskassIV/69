@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>CHAZAY-D AZERGUES_DEPT</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_3">
+		<name>CHAZAY-D AZERGUES_DEPT</name>
+		<Schema name="CHAZAY-D AZERGUES_DEPT" id="CHAZAY-D AZERGUES_DEPT.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="DEPT">
+			<LineStyle>
+				<color>BF63f16c</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C63f16c</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1160">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69052000AN0134</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHAZAY-D AZERGUES</SimpleData>
+					<SimpleData name="Adresse">3, RUE PIERRE DE COUBERTIN</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.87341991797 </north>
+			<south> 45.8721408736091 </south>
+			<east> 4.71184995528172 </east>
+			<west> 4.71008938127057 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.71052992979503,45.8721408736091,0 4.71051282913292,45.87220895539231,0 4.71051909075456,45.8722653347377,0 4.71046685463282,45.87231890651039,0 4.71047933116434,45.8723428565458,0 4.71033859416641,45.8723824556316,0 4.71024901706483,45.8724751424708,0 4.7102194469933,45.8725527802039,0 4.7101529854533,45.8727339265421,0 4.71013076930703,45.8727659674526,0 4.71008938127057,45.8728159522253,0 4.71009345200479,45.8728183225327,0 4.7102230735045,45.87284851634429,0 4.71026594417064,45.8729211848988,0 4.71034857680615,45.87295380092971,0 4.71067571547366,45.87308296474669,0 4.71092061729314,45.87317977629571,0 4.71097948946293,45.8732029338822,0 4.71100561250292,45.8732137071499,0 4.71106655207392,45.87324115677261,0 4.71116168341899,45.873285922647,0 4.71143726923243,45.87341991797,0 4.71159098863955,45.8734163292382,0 4.71180191944589,45.8727135581255,0 4.71184995528172,45.87254962304619,0 4.71170909469148,45.872531220391,0 4.7117333006092,45.87244699826839,0 4.71125032969377,45.8724027915946,0 4.71103955444119,45.8723834651064,0 4.71108437610918,45.8721574304899,0 4.71094938025603,45.8721451529737,0 4.71053225244493,45.87214092852741,0 4.71052992979503,45.8721408736091,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1258">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69052000AN0014</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHAZAY-D AZERGUES</SimpleData>
+					<SimpleData name="Adresse">5458, RUE DU STADE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8724027915946 </north>
+			<south> 45.8721158465388 </south>
+			<east> 4.71132639841197 </east>
+			<west> 4.71103955444119 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.71108437610918,45.8721574304899,0 4.71103955444119,45.8723834651064,0 4.71125032969377,45.8724027915946,0 4.71132639841197,45.8721158465388,0 4.71108437610918,45.8721574304899,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1427">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69052000AN0015</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHAZAY-D AZERGUES</SimpleData>
+					<SimpleData name="Adresse">VERCHERES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.87254962304619 </north>
+			<south> 45.8721097222888 </south>
+			<east> 4.71197660029971 </east>
+			<west> 4.71125032969377 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.71197660029971,45.8721682382582,0 4.71136205409024,45.8721097222888,0 4.71132639841197,45.8721158465388,0 4.71125032969377,45.8724027915946,0 4.7117333006092,45.87244699826839,0 4.71170909469148,45.872531220391,0 4.71184995528172,45.87254962304619,0 4.7118603387003,45.8725144283979,0 4.71194749459609,45.8722524445866,0 4.71197660029971,45.8721682382582,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.4619">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69052000AK0046</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">CHAZAY-D AZERGUES</SimpleData>
+					<SimpleData name="Adresse">TERRES DU PRIX</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8796494424999 </north>
+			<south> 45.8794093679521 </south>
+			<east> 4.70914870732144 </east>
+			<west> 4.70894123365916 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.70894123365916,45.8796305650734,0 4.70898540683408,45.8796494424999,0 4.70914870732144,45.8794093679521,0 4.70897598148661,45.87957833937071,0 4.70894123365916,45.8796305650734,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

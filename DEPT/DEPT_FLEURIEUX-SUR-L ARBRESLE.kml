@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>FLEURIEUX-SUR-L ARBRESLE_DEPT</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_3">
+		<name>FLEURIEUX-SUR-L ARBRESLE_DEPT</name>
+		<Schema name="FLEURIEUX-SUR-L ARBRESLE_DEPT" id="FLEURIEUX-SUR-L ARBRESLE_DEPT.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="DEPT">
+			<LineStyle>
+				<color>BF63f16c</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C63f16c</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.79">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69086000AV0236</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">FLEURIEUX-SUR-L ARBRESLE</SimpleData>
+					<SimpleData name="Adresse">RTE DE PARIS</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8418779603776 </north>
+			<south> 45.8411341059265 </south>
+			<east> 4.65556022876942 </east>
+			<west> 4.65387663743863 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.6541413844816,45.84182805866909,0 4.65550745825405,45.8415725160908,0 4.65556022876942,45.84156174504161,0 4.65554468411674,45.84155476734811,0 4.65538545078356,45.84144037159669,0 4.65497574410563,45.8411341059265,0 4.65401869241366,45.84150101363629,0 4.65387663743863,45.8418779603776,0 4.6541413844816,45.84182805866909,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.351">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69086000ZI0010</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">FLEURIEUX-SUR-L ARBRESLE</SimpleData>
+					<SimpleData name="Adresse">BUVET</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8525951816308 </north>
+			<south> 45.8515721668401 </south>
+			<east> 4.67004002069691 </east>
+			<west> 4.66958583314387 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.67004002069691,45.8521262930858,0 4.66992078525801,45.85184920088409,0 4.66972447537364,45.8515721668401,0 4.66962716297406,45.8516403463206,0 4.66958583314387,45.8516631141333,0 4.66965830746452,45.8517324773182,0 4.66974601491888,45.8518452088792,0 4.66977565059478,45.85190025359,0 4.6698037162074,45.8519673007177,0 4.66981682454659,45.85204267514041,0 4.66983002671761,45.8522361290511,0 4.66987436009216,45.852478660976,0 4.6699007012542,45.8525951816308,0 4.67002647910108,45.852436872136,0 4.67003922740542,45.8522874388306,0 4.67004002069691,45.8521262930858,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.632">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69086000ZI0011</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">FLEURIEUX-SUR-L ARBRESLE</SimpleData>
+					<SimpleData name="Adresse">BUVET</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8538533099891 </north>
+			<south> 45.85371058526389 </south>
+			<east> 4.66967076192365 </east>
+			<west> 4.66940593354328 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.66940593354328,45.8537173711839,0 4.66944567907974,45.85383387402549,0 4.66945915696173,45.8538533099891,0 4.66954154080208,45.85384966079529,0 4.66959914732769,45.8538407933834,0 4.66962078577832,45.8538317369039,0 4.66964585657169,45.8538210985204,0 4.66967076192365,45.8538007350897,0 4.66960306946306,45.85371058526389,0 4.66940593354328,45.8537173711839,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6206">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69086000ZI0008</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">FLEURIEUX-SUR-L ARBRESLE</SimpleData>
+					<SimpleData name="Adresse">BUVET</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8545772053826 </north>
+			<south> 45.8539456015937 </south>
+			<east> 4.66990653385231 </east>
+			<west> 4.6696113150972 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.66979835800689,45.8540047479024,0 4.66977173242251,45.8539725363001,0 4.66974152855413,45.8539456015937,0 4.66971485327883,45.8539756286127,0 4.66968969525601,45.8540131990261,0 4.66966173307917,45.85406459147781,0 4.66964657703062,45.8541217392556,0 4.6696319051763,45.8541693325282,0 4.66962084938772,45.8542299324144,0 4.66961368097378,45.8543039852528,0 4.6696113150972,45.8543493250803,0 4.66962388774121,45.854432543481,0 4.66964132603141,45.8545019093743,0 4.66965293497427,45.8545192112728,0 4.66966489580389,45.8545311038109,0 4.66968171173613,45.85454157356119,0 4.66971006734848,45.8545585379072,0 4.66980601760526,45.8545772053826,0 4.66981258655645,45.8545727849741,0 4.66987485023545,45.8544324374608,0 4.66990475050263,45.8543045474548,0 4.66990653385231,45.85426552108,0 4.66990339583741,45.8542001771295,0 4.6698875793833,45.8541503323468,0 4.66985787502357,45.8540888036666,0 4.66979835800689,45.8540047479024,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6546">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69086000ZI0009</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">FLEURIEUX-SUR-L ARBRESLE</SimpleData>
+					<SimpleData name="Adresse">BUVET</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8521262930858 </north>
+			<south> 45.8514920188248 </south>
+			<east> 4.6700412078508 </east>
+			<west> 4.66972447537364 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.67004002069691,45.8521262930858,0 4.6700412078508,45.8516290028099,0 4.66999107218132,45.8515056283613,0 4.66983934124949,45.8514920188248,0 4.66972447537364,45.8515721668401,0 4.66992078525801,45.85184920088409,0 4.67004002069691,45.8521262930858,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

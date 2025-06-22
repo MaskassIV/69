@@ -1,0 +1,721 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>DOMMARTIN_DEPT</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_3">
+		<name>DOMMARTIN_DEPT</name>
+		<Schema name="DOMMARTIN_DEPT" id="DOMMARTIN_DEPT.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="DEPT">
+			<LineStyle>
+				<color>BF63f16c</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C63f16c</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.38">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69076000AI0017</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DOMMARTIN</SimpleData>
+					<SimpleData name="Adresse">LES BRUYERES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8448796201717 </north>
+			<south> 45.8447912180676 </south>
+			<east> 4.72524625772802 </east>
+			<west> 4.72481657533062 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.72492015463945,45.84487655470091,0 4.72493758712304,45.84487763957641,0 4.72501433162382,45.8448796201717,0 4.72509457041199,45.8448779445278,0 4.72516660929317,45.8448736919327,0 4.72521758628771,45.84486768932539,0 4.72524556566031,45.84485573297659,0 4.72524625772802,45.84484077067771,0 4.72522950458748,45.8448325598929,0 4.72481657533062,45.8447912180676,0 4.72492015463945,45.84487655470091,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.324">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69076000AI0001</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DOMMARTIN</SimpleData>
+					<SimpleData name="Adresse">LES BRUYERES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.846256070563 </north>
+			<south> 45.845894134395 </south>
+			<east> 4.7211698073641 </east>
+			<west> 4.72045418281242 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.7211698073641,45.8459262453074,0 4.7211314303324,45.845894134395,0 4.72112458642153,45.8458978414878,0 4.72103745828253,45.84594726657011,0 4.72094984524861,45.8459935465003,0 4.72086219871551,45.8460428892695,0 4.7206570579419,45.8461391469617,0 4.72045418281242,45.846246088161,0 4.72047885265392,45.846256070563,0 4.72070641346594,45.8461472221176,0 4.72115888897336,45.8459315456799,0 4.7211698073641,45.8459262453074,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.325">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69076000AL0001</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DOMMARTIN</SimpleData>
+					<SimpleData name="Adresse">A CLARICOT</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.84499457763361 </north>
+			<south> 45.8447909474706 </south>
+			<east> 4.73222339543768 </east>
+			<west> 4.73205733120947 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.73219343951097,45.84480777537101,0 4.73211496535593,45.8447999715667,0 4.73205733120947,45.8447909474706,0 4.73206420323986,45.8449770185094,0 4.73209397687049,45.84497710242339,0 4.73209388105669,45.84499457763361,0 4.732135258326,45.8449907006445,0 4.73218698778714,45.8449840528491,0 4.73221497092397,45.844980471282,0 4.73222339543768,45.8449450343338,0 4.73217926630506,45.8448448316695,0 4.73219343951097,45.84480777537101,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.326">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69076000AM0001</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DOMMARTIN</SimpleData>
+					<SimpleData name="Adresse">AU CHEVRONNET</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8442295736826 </north>
+			<south> 45.843838168011 </south>
+			<east> 4.72781512095421 </east>
+			<west> 4.72548689306412 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.72548689306412,45.8441984943641,0 4.7255573295583,45.8442295736826,0 4.72559777191806,45.8442287757695,0 4.7257382635963,45.8442210452138,0 4.7258727114658,45.8442096238519,0 4.72599677448631,45.8441916957706,0 4.72614926050258,45.8441718921086,0 4.72625616071065,45.8441573784679,0 4.72635322303603,45.844141483869,0 4.72643979213754,45.84412385807019,0 4.72662973090375,45.8440818643905,0 4.72671665246014,45.8440631521413,0 4.72691304201704,45.8440172764059,0 4.72707742766782,45.8439782846472,0 4.72718019792109,45.84395536661809,0 4.72728293145198,45.8439312781366,0 4.72737345935441,45.8439125102321,0 4.72752335288182,45.8438881507326,0 4.72764734417277,45.8438679701488,0 4.72781101299255,45.84384727262759,0 4.72781512095421,45.8438467594416,0 4.72744046727967,45.843838168011,0 4.72712636503541,45.8439153876614,0 4.72691441560899,45.8439664555333,0 4.7267652799397,45.8440026919647,0 4.72664172954646,45.8440328626788,0 4.72644999676221,45.8440792972632,0 4.72632293910256,45.8441044772671,0 4.7261899783685,45.8441304678958,0 4.7261211813632,45.8441394453688,0 4.72598318675962,45.8441569559556,0 4.72585586401196,45.8441736728353,0 4.72564416936911,45.8441876252839,0 4.72551363594668,45.8441964646029,0 4.72548689306412,45.8441984943641,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.418">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69076000AK0102</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DOMMARTIN</SimpleData>
+					<SimpleData name="Adresse">LA CHICOTIERE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8442510599279 </north>
+			<south> 45.8440148273916 </south>
+			<east> 4.73047101798194 </east>
+			<west> 4.72953778641706 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.72953778641706,45.8441092545799,0 4.72958402347345,45.8441124197026,0 4.72968677356405,45.8441135485851,0 4.72977707297694,45.8441245055995,0 4.72994371089234,45.84414095875351,0 4.73006322729107,45.84416714042191,0 4.73010194724187,45.8441771757671,0 4.73016035539798,45.8441944755029,0 4.73020320697919,45.8442088610024,0 4.73021624657337,45.8442137052467,0 4.73022236581092,45.84421568314951,0 4.73022601497831,45.8442169783187,0 4.73022952403859,45.8442179153507,0 4.73023496532499,45.84421882278729,0 4.73035904950628,45.8442344859734,0 4.73042954948618,45.8442510599279,0 4.73047101798194,45.8441679198505,0 4.73042189289949,45.84415074828631,0 4.73036920797127,45.8441310191776,0 4.73034619882173,45.8441247063872,0 4.73029592118006,45.8441118758215,0 4.73016793020525,45.84408258164871,0 4.73006556247431,45.8440648743255,0 4.72990529107985,45.84404183876341,0 4.72975192239187,45.8440293256302,0 4.72955170940846,45.8440148273916,0 4.72953778641706,45.8441092545799,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.558">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69076000AK0108</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DOMMARTIN</SimpleData>
+					<SimpleData name="Adresse">LA CHICOTIERE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8441125769472 </north>
+			<south> 45.84397185215909 </south>
+			<east> 4.72955170940846 </east>
+			<west> 4.72795079668591 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.7281143552502,45.8440849227853,0 4.72815323210249,45.8440711777191,0 4.72816418046979,45.8440668669745,0 4.72821909978951,45.8440633246662,0 4.72826500206858,45.8440599202851,0 4.72832082510961,45.8440399712273,0 4.72834245007471,45.8440309035083,0 4.72836771286363,45.844022770904,0 4.72838243631029,45.8440196633689,0 4.72839646300876,45.8440189984023,0 4.72839985731101,45.8440203875999,0 4.72840797072372,45.8440243166441,0 4.7284177088763,45.84403074280899,0 4.72843992413893,45.8440446340771,0 4.72849547888267,45.8440654910815,0 4.72856515351171,45.8440763142889,0 4.72864736083849,45.8440799201539,0 4.72873299351728,45.8440859054501,0 4.72879810987838,45.844074640868,0 4.72888630288061,45.844084189695,0 4.7289985739533,45.8440971528961,0 4.72907901556605,45.8441060996479,0 4.729168210897,45.8441023925132,0 4.72921990514387,45.844102862198,0 4.72930900561123,45.8441125769472,0 4.72939031121108,45.844103856383,0 4.72949206462529,45.84410608154981,0 4.72953778641706,45.8441092545799,0 4.72955170940846,45.8440148273916,0 4.72947097452792,45.84400885780241,0 4.72880788761292,45.843983609847,0 4.72843497512682,45.8439771567481,0 4.7282801974299,45.8439731298327,0 4.72824007688467,45.84397185215909,0 4.72806004945454,45.8439846041081,0 4.7279551679251,45.84399359427509,0 4.72795079668591,45.8439939313517,0 4.72796843719769,45.8440263571865,0 4.72804878567157,45.8440199940686,0 4.7281143552502,45.8440849227853,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.625">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69076000AI0011</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DOMMARTIN</SimpleData>
+					<SimpleData name="Adresse">LES BRUYERES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8451816842465 </north>
+			<south> 45.8450560792479 </south>
+			<east> 4.72264980399512 </east>
+			<west> 4.72240147522856 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.72262309189124,45.8450560792479,0 4.72251933023674,45.84511341515541,0 4.72240147522856,45.8451816842465,0 4.72264980399512,45.84509845544531,0 4.72262309189124,45.8450560792479,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.866">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69076000AI0012</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DOMMARTIN</SimpleData>
+					<SimpleData name="Adresse">LES BRUYERES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.84509845544531 </north>
+			<south> 45.8447802957339 </south>
+			<east> 4.72324574062109 </east>
+			<west> 4.72262309189124 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.72262309189124,45.8450560792479,0 4.72264980399512,45.84509845544531,0 4.72266944511953,45.84509185099051,0 4.72296018172593,45.8450295016671,0 4.72323757787355,45.8449320474087,0 4.72324574062109,45.8449293108425,0 4.72317149255615,45.8447802957339,0 4.72316589210189,45.8447825428571,0 4.72307461858844,45.8448187924174,0 4.7230066485461,45.8448460396921,0 4.72294386815487,45.8448785219388,0 4.72290334904574,45.844897514326,0 4.72285876729047,45.8449226033884,0 4.72281352503219,45.8449513053297,0 4.72271095637615,45.8450055608247,0 4.72264500626717,45.8450438557555,0 4.72262309189124,45.8450560792479,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1423">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69076000AI0015</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DOMMARTIN</SimpleData>
+					<SimpleData name="Adresse">LES BRUYERES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8449293108425 </north>
+			<south> 45.8446260260937 </south>
+			<east> 4.72377330632049 </east>
+			<west> 4.72317149255615 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.72324574062109,45.8449293108425,0 4.72377330632049,45.8447458042741,0 4.72374654682943,45.8447101843519,0 4.72368373183001,45.8446260260937,0 4.72330207256812,45.8447275039787,0 4.72317149255615,45.8447802957339,0 4.72324574062109,45.8449293108425,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2208">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69076000AH0002</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DOMMARTIN</SimpleData>
+					<SimpleData name="Adresse">LES BRUYERES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8461589783141 </north>
+			<south> 45.84552535446359 </south>
+			<east> 4.72136406558156 </east>
+			<west> 4.72015767330309 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.72131672605684,45.84552535446359,0 4.72102288149671,45.8457113236424,0 4.72098411017072,45.8456830917246,0 4.72015767330309,45.84610288776631,0 4.72023610625128,45.8461589783141,0 4.72094271292071,45.8457979318377,0 4.72130580890059,45.8456050531179,0 4.72136406558156,45.8455721003157,0 4.72131672605684,45.84552535446359,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2493">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69076000AI0022</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DOMMARTIN</SimpleData>
+					<SimpleData name="Adresse">LES MASETTES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.84417248182901 </north>
+			<south> 45.8439939313517 </south>
+			<east> 4.72796843719769 </east>
+			<west> 4.72705433128886 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.72796843719769,45.8440263571865,0 4.72795079668591,45.8439939313517,0 4.72779927380443,45.8440074177808,0 4.72770741178512,45.8440206220462,0 4.72759125250396,45.8440398722781,0 4.72746512816336,45.8440660300801,0 4.72736781512857,45.8440862528689,0 4.72726986076614,45.8441065754496,0 4.72705433128886,45.84415445577001,0 4.72706533451979,45.84417248182901,0 4.72796843719769,45.8440263571865,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.2724">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69076000AT0024</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DOMMARTIN</SimpleData>
+					<SimpleData name="Adresse">LE FARC</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8298490531389 </north>
+			<south> 45.8297508196429 </south>
+			<east> 4.71491037841132 </east>
+			<west> 4.71481406959681 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.71491037841132,45.8297598622122,0 4.71485933345366,45.8297508196429,0 4.71485336720305,45.8297619888912,0 4.7148353676269,45.82979639886841,0 4.71481777384306,45.8298355764099,0 4.71481406959681,45.8298490531389,0 4.71482388254329,45.8298372850622,0 4.71491037841132,45.8297598622122,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3396">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69076000AL0003</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DOMMARTIN</SimpleData>
+					<SimpleData name="Adresse">A CLARICOT</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8449748382938 </north>
+			<south> 45.8448199648418 </south>
+			<east> 4.73234923136655 </east>
+			<west> 4.73225925725808 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.73234923136655,45.8448234906223,0 4.73231483901129,45.8448199648418,0 4.73225925725808,45.8449748382938,0 4.73229429986861,45.8449703378168,0 4.73234923136655,45.8448234906223,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3937">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69076000AT0036</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DOMMARTIN</SimpleData>
+					<SimpleData name="Adresse">LES GDES TERRES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8297486428976 </north>
+			<south> 45.8296774612027 </south>
+			<east> 4.71498488736204 </east>
+			<west> 4.71487163830669 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.71498488736204,45.8297486428976,0 4.71496006933749,45.8297294745012,0 4.71490871442068,45.82968972266811,0 4.71490356626528,45.8296774612027,0 4.71489576341428,45.8296917207341,0 4.71488113222255,45.8297101371173,0 4.71487163830669,45.8297280251396,0 4.71494609066258,45.8297398647221,0 4.71498488736204,45.8297486428976,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.4304">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69076000BI0041</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DOMMARTIN</SimpleData>
+					<SimpleData name="Adresse">GRANGE BASSE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.83878585631619 </north>
+			<south> 45.8381732260449 </south>
+			<east> 4.72124966858749 </east>
+			<west> 4.72082927148896 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.72118393989365,45.8387855969189,0 4.72124966858749,45.83878585631619,0 4.7210027051834,45.83838313107221,0 4.72088714121421,45.8381732260449,0 4.72082927148896,45.8381894196946,0 4.72084318441723,45.838218210442,0 4.72091579948133,45.8383401404713,0 4.72118393989365,45.8387855969189,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6202">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69076000AI0008</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DOMMARTIN</SimpleData>
+					<SimpleData name="Adresse">LES BRUYERES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8459262453074 </north>
+			<south> 45.845703379524 </south>
+			<east> 4.72152885579049 </east>
+			<west> 4.7211314303324 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.72152885579049,45.8457523423586,0 4.72147332735407,45.845703379524,0 4.7213703923754,45.8457625031545,0 4.72126010081537,45.8458254316713,0 4.72118363890223,45.8458655972248,0 4.7211314303324,45.845894134395,0 4.7211698073641,45.8459262453074,0 4.72132612026357,45.8458512667621,0 4.72150691560586,45.84576375538481,0 4.72152885579049,45.8457523423586,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6282">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69076000AK0082</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DOMMARTIN</SimpleData>
+					<SimpleData name="Adresse">A CLARICOT</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.84496281127049 </north>
+			<south> 45.84454495031841 </south>
+			<east> 4.73189814808003 </east>
+			<west> 4.73185848339841 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.73187327729025,45.8449505826495,0 4.73189814808003,45.84496281127049,0 4.73188376354218,45.84454969678541,0 4.73185848339841,45.84454495031841,0 4.73186274988085,45.8446398195578,0 4.7318643982676,45.844675912687,0 4.73186567034275,45.8447082286109,0 4.73186923956758,45.8447932007497,0 4.73186954640674,45.8447988705075,0 4.73187155250603,45.84484225388961,0 4.73187240841726,45.8448982648208,0 4.73187327729025,45.8449505826495,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6317">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69076000AK0083</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DOMMARTIN</SimpleData>
+					<SimpleData name="Adresse">LA CHICOTIERE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8448982648208 </north>
+			<south> 45.8447163312842 </south>
+			<east> 4.73187240841726 </east>
+			<west> 4.73149391622256 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.73149391622256,45.8448292179723,0 4.73167285662095,45.84486799775371,0 4.73187240841726,45.8448982648208,0 4.73187155250603,45.84484225388961,0 4.73186954640674,45.8447988705075,0 4.73186923956758,45.8447932007497,0 4.73177030280344,45.844774001209,0 4.73163594383227,45.8447430949392,0 4.73154862666038,45.8447163312842,0 4.73149391622256,45.8448292179723,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6510">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69076000AK0089</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DOMMARTIN</SimpleData>
+					<SimpleData name="Adresse">LA CHICOTIERE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.84485989012741 </north>
+			<south> 45.84461684668679 </south>
+			<east> 4.73154862666038 </east>
+			<west> 4.7312278906583 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.7312278906583,45.8447505201159,0 4.73130392499074,45.8447873647269,0 4.73136496078261,45.8448144413034,0 4.73147902669138,45.84485989012741,0 4.73149391622256,45.8448292179723,0 4.73154862666038,45.8447163312842,0 4.73153756427644,45.8447128980164,0 4.73144832512167,45.8446823807714,0 4.7313633725883,45.84464882542191,0 4.7312989612161,45.84461684668679,0 4.7312278906583,45.8447505201159,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6537">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69076000AI0009</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DOMMARTIN</SimpleData>
+					<SimpleData name="Adresse">LES BRUYERES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8457523423586 </north>
+			<south> 45.8454475594211 </south>
+			<east> 4.72198304170796 </east>
+			<west> 4.72147332735407 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.72152885579049,45.8457523423586,0 4.72171717132175,45.84565390756519,0 4.72196878041773,45.84552289290579,0 4.72198304170796,45.8454843054523,0 4.72192377024724,45.8454475594211,0 4.72178031387323,45.8455297286589,0 4.72170075589053,45.8455739048675,0 4.72160488355382,45.84562805726861,0 4.72147332735407,45.845703379524,0 4.72152885579049,45.8457523423586,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6552">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69076000AK0090</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">DOMMARTIN</SimpleData>
+					<SimpleData name="Adresse">LA CHICOTIERE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8447505201159 </north>
+			<south> 45.8442803225775 </south>
+			<east> 4.7312989612161 </east>
+			<west> 4.73069553928806 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.73069553928806,45.84437803810209,0 4.7307466944158,45.84441472381201,0 4.73081548585014,45.8444713151419,0 4.73089920184373,45.8445435302137,0 4.73097383219657,45.8445890433482,0 4.73105023380741,45.8446499314004,0 4.73112697804056,45.8446929801337,0 4.73119974886267,45.84473672020499,0 4.7312278906583,45.8447505201159,0 4.7312989612161,45.84461684668679,0 4.73129084186085,45.844612737795,0 4.73123475275989,45.84457901020381,0 4.73109408964016,45.84449091488329,0 4.73101527508704,45.84444348438781,0 4.73093150245139,45.8443900049965,0 4.73084059147844,45.84433492357391,0 4.73075779821412,45.8442880042213,0 4.7307418342559,45.8442803225775,0 4.73069553928806,45.84437803810209,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

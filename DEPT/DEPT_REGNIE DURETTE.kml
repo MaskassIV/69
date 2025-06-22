@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>REGNIE DURETTE_DEPT</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_3">
+		<name>REGNIE DURETTE_DEPT</name>
+		<Schema name="REGNIE DURETTE_DEPT" id="REGNIE DURETTE_DEPT.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="DEPT">
+			<LineStyle>
+				<color>BF63f16c</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C63f16c</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.97">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69165079AR0030</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">REGNIE DURETTE</SimpleData>
+					<SimpleData name="Adresse">AUX MAISONS NEUVES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1251695176447 </north>
+			<south> 46.121275606358 </south>
+			<east> 4.64125546262638 </east>
+			<west> 4.63514809406181 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.64089598022691,46.1214705395885,0 4.64078584341143,46.1215385115957,0 4.64025768869332,46.1218739013534,0 4.64020113178205,46.1219101152244,0 4.6397306201547,46.12220684102611,0 4.63884199952464,46.12276854671201,0 4.63791485882155,46.1233508860562,0 4.63735746264357,46.1237015448572,0 4.63702814114652,46.1239081361858,0 4.63696176348344,46.12394962385629,0 4.6364471939957,46.12427300038689,0 4.63571287785728,46.1247336518167,0 4.63514809406181,46.1250894495799,0 4.63526084113024,46.1251695176447,0 4.63572770184005,46.1248703418145,0 4.63619393423111,46.1245719836542,0 4.63653354705318,46.1243540780734,0 4.6365574241515,46.1243381521336,0 4.63692302821098,46.1241058200813,0 4.63735518489468,46.1238292943696,0 4.63785241904955,46.1235112975318,0 4.6384374606895,46.1231366394248,0 4.63913838944194,46.1226914930983,0 4.63988946033761,46.12221688628961,0 4.64092509885545,46.12156072742399,0 4.64097022878298,46.12153224407031,0 4.64101640517739,46.12150410584589,0 4.64125546262638,46.1213509568956,0 4.64120308420537,46.121275606358,0 4.64117218861325,46.1212949672946,0 4.64089598022691,46.1214705395885,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.1403">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69165079AO0149</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">REGNIE DURETTE</SimpleData>
+					<SimpleData name="Adresse">L ERMITAGE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1345414730058 </north>
+			<south> 46.1330679712332 </south>
+			<east> 4.6229787555675 </east>
+			<west> 4.62071060207823 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.62071060207823,46.1344598463867,0 4.62079087470277,46.1345414730058,0 4.62104003386472,46.13438002801319,0 4.62197825389993,46.1337439033501,0 4.6222343704586,46.1335726289397,0 4.6229787555675,46.1330679712332,0 4.62290213351911,46.133070417276,0 4.62280908842291,46.1330694952442,0 4.62271956645708,46.1330825733665,0 4.62254616793325,46.1331112607026,0 4.62251841180027,46.1332328884944,0 4.62145545143347,46.1339524904044,0 4.62082597190178,46.13437434680201,0 4.62073895001493,46.1344326917083,0 4.62071060207823,46.1344598463867,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3044">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69165079AR0027</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">REGNIE DURETTE</SimpleData>
+					<SimpleData name="Adresse">AUX MAISONS NEUVES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1258983624066 </north>
+			<south> 46.12573659321059 </south>
+			<east> 4.63652271847225 </east>
+			<west> 4.63616921359593 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.63652271847225,46.1258983624066,0 4.63643335555185,46.1258511036142,0 4.6363796075866,46.1258209848471,0 4.63624820521873,46.12573659321059,0 4.63616921359593,46.1257982572701,0 4.63652271847225,46.1258983624066,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.3233">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69165000AB0286</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">REGNIE DURETTE</SimpleData>
+					<SimpleData name="Adresse">BOIS ROUSSET</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1818770243005 </north>
+			<south> 46.1811467826401 </south>
+			<east> 4.61455173208145 </east>
+			<west> 4.61391200385039 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.61455173208145,46.1818770243005,0 4.6145077786275,46.1816701335887,0 4.61433860226259,46.1815524768034,0 4.61421511308095,46.1814319192603,0 4.61417827451555,46.18133453928539,0 4.6139741167088,46.1812926750171,0 4.61397928860615,46.1811467826401,0 4.61391200385039,46.18139830523929,0 4.61455173208145,46.1818770243005,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.4706">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69165000AE0473</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">REGNIE DURETTE</SimpleData>
+					<SimpleData name="Adresse">LA HAUTE PLAIGNE</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.143463051242 </north>
+			<south> 46.1433672260202 </south>
+			<east> 4.63682357401932 </east>
+			<west> 4.63665843098208 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.63667435983511,46.1433672260202,0 4.63665843098208,46.1433892520143,0 4.63681236576417,46.143463051242,0 4.63682357401932,46.1434304652232,0 4.63667435983511,46.1433672260202,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_3.6360">
+		<styleUrl>#DEPT</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_3.schema">
+					<SimpleData name="Numero de Parcelle">69165079AR0084</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">REGNIE DURETTE</SimpleData>
+					<SimpleData name="Adresse">AUX MAISONS NEUVES</SimpleData>
+					<SimpleData name="Groupe de personne">Departement</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">DEPT</SimpleData>
+					<SimpleData name="Denomination">DEPARTEMENT DU RHONE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 46.1266916034796 </north>
+			<south> 46.12521522157719 </south>
+			<east> 4.63508614260514 </east>
+			<west> 4.63269609955467 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.63269609955467,46.126637697098,0 4.63286830251764,46.1266916034796,0 4.63291126644288,46.1266640552863,0 4.63302527650797,46.1265906314372,0 4.6333698453639,46.1263730246985,0 4.6334552488904,46.1263177553067,0 4.63370472641301,46.126160780208,0 4.63428074331592,46.1257943803616,0 4.63449218283676,46.1256608282346,0 4.63474532081029,46.12550082581889,0 4.63508614260514,46.1252839881551,0 4.63500792890824,46.12521522157719,0 4.63458753711743,46.1254786889045,0 4.63447850687004,46.12554519753111,0 4.63449655822849,46.1255597989181,0 4.63433271865258,46.1256649249659,0 4.63399793769813,46.1258759990671,0 4.63398097579627,46.1258631832854,0 4.6339509980232,46.1258395664967,0 4.63369304312024,46.1260032391111,0 4.633520651447,46.1261127201883,0 4.63353382446418,46.1261200963945,0 4.63343795130285,46.1261804702069,0 4.63310987716711,46.1263820780303,0 4.63269609955467,46.126637697098,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>

@@ -1,0 +1,793 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>L ARBRESLE_PUBLICorASSOCIE</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document id="parcelles-des-personnes-morales_69_groupe_personne_9">
+		<name>L ARBRESLE_PUBLICorASSOCIE</name>
+		<Schema name="L ARBRESLE_PUBLICorASSOCIE" id="L ARBRESLE_PUBLICorASSOCIE.schema">
+			<SimpleField type="string" name="Numero de Parcelle"></SimpleField>
+			<SimpleField type="string" name="Departement"></SimpleField>
+			<SimpleField type="string" name="Commune"></SimpleField>
+			<SimpleField type="string" name="Adresse"></SimpleField>
+			<SimpleField type="string" name="Groupe de personne"></SimpleField>
+			<SimpleField type="string" name="Forme Juridique Abregee"></SimpleField>
+			<SimpleField type="string" name="Denomination"></SimpleField>
+		</Schema>
+		<Style id="PUBLICorASSOCIE">
+			<LineStyle>
+				<color>BFdb2105</color>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4Cdb2105</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.74">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69010000AT0126</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">L ARBRESLE</SimpleData>
+					<SimpleData name="Adresse">LES HAUTS MARTINETS</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">CCOM</SimpleData>
+					<SimpleData name="Denomination">COMMUNAUTE COMMUNES PAYS DE L ARBRESLE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8226521131179 </north>
+			<south> 45.82263765695989 </south>
+			<east> 4.6061408723762 </east>
+			<west> 4.6061120355703 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.6061408723762,45.82263765695989,0 4.6061120355703,45.8226427506333,0 4.60612361651136,45.8226467290319,0 4.60613481900579,45.8226509830152,0 4.60613768597887,45.8226521131179,0 4.6061408723762,45.82263765695989,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.1717">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69010000AM0100</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">L ARBRESLE</SimpleData>
+					<SimpleData name="Adresse">COLLONGE</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">CCOM</SimpleData>
+					<SimpleData name="Denomination">COMMUNAUTE COMMUNES PAYS DE L ARBRESLE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.83422632242961 </north>
+			<south> 45.8334991751962 </south>
+			<east> 4.60801581191318 </east>
+			<west> 4.60764552138085 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.6078768707106,45.8334991751962,0 4.60783940469245,45.8335001588916,0 4.60771078875755,45.83350811435011,0 4.60770024775382,45.8335222249037,0 4.60768805516606,45.83355040954179,0 4.60767970570456,45.83357340561051,0 4.6076693211767,45.8336061579679,0 4.60766120248743,45.8336370767164,0 4.60765972222962,45.8336437628034,0 4.60765461330168,45.83367184660879,0 4.60765064516316,45.8336992837016,0 4.60764768611008,45.83373039921071,0 4.60764552138085,45.8337533973117,0 4.60764662081821,45.8337822934258,0 4.60764836714273,45.833806857078,0 4.60765285955028,45.8338416493721,0 4.60765732077995,45.83387094797411,0 4.60766236071242,45.8338935733217,0 4.60766584256695,45.8339069438634,0 4.60767104830484,45.8339264144776,0 4.60767602034566,45.8339422857062,0 4.60767828301381,45.83394918871989,0 4.60768694759118,45.83397239294791,0 4.60769749399208,45.83399827242321,0 4.60770865290806,45.8340230623654,0 4.60772306581823,45.8340489768694,0 4.60773630909043,45.8340745477498,0 4.60775645694913,45.8341071357008,0 4.60777714127527,45.8341360232322,0 4.60780202315214,45.83416746297401,0 4.60782601687468,45.8341949523706,0 4.60784342421244,45.8342130784031,0 4.60785579305267,45.83422632242961,0 4.60801581191318,45.83419495246081,0 4.60796744525926,45.834149075988,0 4.60791766011085,45.8340898896543,0 4.6078979612336,45.83406387028891,0 4.60787761631446,45.8340289434046,0 4.60785199687087,45.8339810317713,0 4.60784288785992,45.8339602657124,0 4.60783429141411,45.8339394022884,0 4.60782652310092,45.8339160051767,0 4.60781978253296,45.83389250336641,0 4.60781434828208,45.8338696134348,0 4.60781046482239,45.8338468815627,0 4.60780739085588,45.8338253991164,0 4.60780417470666,45.8338078816775,0 4.60780340566354,45.83379032940351,0 4.60780225313511,45.83376845933401,0 4.60780384201909,45.83374781118919,0 4.60780415109829,45.8337230381438,0 4.60780803260853,45.8336926300404,0 4.60781335156322,45.833667335339,0 4.60781624412339,45.8336472090426,0 4.60782123936026,45.83362849389861,0 4.60782831946002,45.83360173304099,0 4.60783840116844,45.8335762804704,0 4.60784854871239,45.8335486653343,0 4.6078605410619,45.8335268783422,0 4.60787097186237,45.8335089864942,0 4.6078768707106,45.8334991751962,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.1833">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69010000AM0102</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">L ARBRESLE</SimpleData>
+					<SimpleData name="Adresse">490, AV ANDRE LASSAGNE</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">CCOM</SimpleData>
+					<SimpleData name="Denomination">COMMUNAUTE COMMUNES PAYS DE L ARBRESLE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.83410586850071 </north>
+			<south> 45.8333492648541 </south>
+			<east> 4.60949261532016 </east>
+			<west> 4.60825792754413 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.60949261532016,45.8336359423955,0 4.6090304557635,45.8335128296299,0 4.60869868379282,45.8334159591012,0 4.60846664245568,45.8333500917917,0 4.60846146446074,45.8333492648541,0 4.60825792754413,45.83370000515449,0 4.60843377980086,45.83410586850071,0 4.60867735827552,45.8340546635684,0 4.60878324756449,45.8340317192109,0 4.60932914959523,45.83391577070091,0 4.60949261532016,45.8336359423955,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.2069">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69010000AR0106</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">L ARBRESLE</SimpleData>
+					<SimpleData name="Adresse">414, AV DU ONZE NOVEMBRE 1918</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">CCOM</SimpleData>
+					<SimpleData name="Denomination">COMMUNAUTE COMMUNES PAYS DE L ARBRESLE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8326118648718 </north>
+			<south> 45.8306460410315 </south>
+			<east> 4.6082360944447 </east>
+			<west> 4.60510891726073 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.6066556257281,45.83069662227741,0 4.60638179082203,45.83088533651339,0 4.60625525776739,45.8309735111447,0 4.60591764701782,45.83120663395319,0 4.60566138662483,45.8313840181463,0 4.60534005742207,45.83160564922061,0 4.60510891726073,45.8317652919785,0 4.6051222659605,45.8317723977547,0 4.60526124864262,45.8316780129552,0 4.60552499086323,45.83181531011071,0 4.60549860963665,45.8318429756563,0 4.60543524128741,45.8319013396559,0 4.60540815363662,45.8319224402757,0 4.60571050059308,45.8320845873758,0 4.60657941915823,45.83254022267599,0 4.60671601943826,45.8326118648718,0 4.60721774831884,45.8322580553321,0 4.60738764079559,45.83239335121731,0 4.60739749420936,45.8323998760009,0 4.6074053429457,45.83239508077281,0 4.6074159831438,45.8323888047312,0 4.60741255327369,45.832386061444,0 4.60779875299886,45.8321578266943,0 4.60780306867546,45.83216001695299,0 4.6082360944447,45.8318940061185,0 4.6081450676368,45.8318166730644,0 4.60808511209224,45.83176654836169,0 4.60773508959292,45.83147619920901,0 4.60761674130327,45.83137646752189,0 4.60759763415753,45.8313618783087,0 4.60757682945449,45.8313420893234,0 4.6071238480265,45.8309714222715,0 4.60708121125073,45.83093636213999,0 4.60672900990615,45.8306460410315,0 4.6066556257281,45.83069662227741,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.3118">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69010000AT0125</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">L ARBRESLE</SimpleData>
+					<SimpleData name="Adresse">LES HAUTS MARTINETS</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">CCOM</SimpleData>
+					<SimpleData name="Denomination">COMMUNAUTE COMMUNES PAYS DE L ARBRESLE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8227592212067 </north>
+			<south> 45.8226990393551 </south>
+			<east> 4.60578929851911 </east>
+			<west> 4.60571367565643 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.60573745905545,45.8227592212067,0 4.60574935603,45.8227563500027,0 4.60576030447679,45.82275187106659,0 4.60576979717506,45.8227460618142,0 4.60577757920513,45.8227390159388,0 4.60578314334732,45.82273101085649,0 4.6057863739282,45.82272249855119,0 4.60578929851911,45.8226990393551,0 4.60571367565643,45.82271218377601,0 4.60573745905545,45.8227592212067,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.3703">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69010000AS0137</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">L ARBRESLE</SimpleData>
+					<SimpleData name="Adresse">RUE CLAUDE TERRASSE</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">CCOM</SimpleData>
+					<SimpleData name="Denomination">COMMUNAUTE COMMUNES PAYS DE L ARBRESLE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.82822617061421 </north>
+			<south> 45.82742608248899 </south>
+			<east> 4.61224698929728 </east>
+			<west> 4.61144985513136 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.61224698929728,45.8281663748672,0 4.61221174141565,45.8281020291801,0 4.61209732549781,45.82792523800691,0 4.61198021094471,45.8277310120797,0 4.61192454539222,45.8276689392406,0 4.61187734013222,45.8276142212578,0 4.61182452905723,45.82755724150031,0 4.61175570191175,45.8274856290997,0 4.61170603697565,45.82742608248899,0 4.61168892525518,45.8274577603838,0 4.61168649448331,45.8274936420878,0 4.61166744074293,45.8275558807032,0 4.61144985513136,45.827702013436,0 4.61186274474308,45.82822617061421,0 4.61224698929728,45.8281663748672,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.3742">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69010000AS0138</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">L ARBRESLE</SimpleData>
+					<SimpleData name="Adresse">LE BOURG</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SOCIETE NATIONALE SNCF</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8331001323415 </north>
+			<south> 45.8324778092254 </south>
+			<east> 4.61687757409945 </east>
+			<west> 4.61349530181558 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.61366079486355,45.832942119647,0 4.61366999218408,45.8329526162585,0 4.61358347367766,45.8329857363945,0 4.61349530181558,45.8330196006256,0 4.613552175967,45.8330875099529,0 4.61356388353359,45.8331001323415,0 4.61377131138594,45.8330379040552,0 4.61381117850383,45.8330749828167,0 4.61392841158415,45.83306997514891,0 4.61407386431626,45.83302979785131,0 4.61414488624489,45.8330131110381,0 4.61414885512725,45.8330122437051,0 4.61418609424566,45.8330035153099,0 4.61427486031294,45.832981170738,0 4.61435283191044,45.8329686176564,0 4.61439297551432,45.8329622795119,0 4.6144255183628,45.8330132431497,0 4.61456132929458,45.83296942018271,0 4.61488098456526,45.8329161234121,0 4.61533378171465,45.8328599308492,0 4.61526979175677,45.83277348008831,0 4.61539709588539,45.83276481420201,0 4.61548654255732,45.832888999532,0 4.61586727714401,45.8328843636814,0 4.61625711287809,45.8329265217333,0 4.61630828372741,45.83290516388151,0 4.61631295757888,45.8329107712791,0 4.61644363256906,45.8328016301548,0 4.61672154313886,45.8328276450156,0 4.61687757409945,45.83285396297619,0 4.61678787206198,45.8327563524219,0 4.61669034865836,45.8327436077517,0 4.61667229452349,45.8326946890488,0 4.61663588232492,45.8325248916505,0 4.61626963296056,45.8325313043343,0 4.61568046341444,45.8325415354573,0 4.61562846808478,45.8325391268729,0 4.61557049641507,45.8324778092254,0 4.61538624962305,45.8325703324368,0 4.615274866327,45.8326166892406,0 4.6153407659329,45.8326891521475,0 4.61520921446369,45.8326979687822,0 4.61513057995769,45.8325821850861,0 4.61495690146965,45.8326043935057,0 4.61437033656179,45.832677267832,0 4.61431549763222,45.8326349091174,0 4.61376844761612,45.8328914945049,0 4.61366079486355,45.832942119647,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.4253">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69010000AT0148</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">L ARBRESLE</SimpleData>
+					<SimpleData name="Adresse">RUE CLAUDE TERRASSE</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">CCOM</SimpleData>
+					<SimpleData name="Denomination">COMMUNAUTE COMMUNES PAYS DE L ARBRESLE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.82560276598251 </north>
+			<south> 45.8254813532344 </south>
+			<east> 4.60866009228315 </east>
+			<west> 4.60839031343828 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.60866009228315,45.82560276598251,0 4.60865326737269,45.8255984498802,0 4.60864381184713,45.8255922798262,0 4.60863435632368,45.82558610977131,0 4.6086250322019,45.8255800279118,0 4.60861570021086,45.82557367596021,0 4.60860650224523,45.82556750223431,0 4.60859729903417,45.8255611484469,0 4.60858822460093,45.8255547928244,0 4.60857927894549,45.8255484353668,0 4.60857020189273,45.8255419897125,0 4.60856112484208,45.8255355440574,0 4.6085523027212,45.8255290047026,0 4.60854335445042,45.8255225572118,0 4.60853453233372,45.82551601785559,0 4.60852583637109,45.8255093866341,0 4.60851701425857,45.82550284727651,0 4.60850831567653,45.8254961260232,0 4.60849987727131,45.82548949113119,0 4.60848946263441,45.8254813532344,0 4.60839031343828,45.82553167222289,0 4.60845405844645,45.82556174763731,0 4.6085127403865,45.82556838743871,0 4.6085280255637,45.8255624053831,0 4.60853971267137,45.8255611581011,0 4.60855014088157,45.8255609194953,0 4.60855827474171,45.82556152417941,0 4.60857796934273,45.82556538676679,0 4.60859350093015,45.8255722808873,0 4.60862924989687,45.825587713663,0 4.60866009228315,45.82560276598251,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.4552">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69010000AT0154</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">L ARBRESLE</SimpleData>
+					<SimpleData name="Adresse">LES HAUTS MARTINETS</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">CCOM</SimpleData>
+					<SimpleData name="Denomination">COMMUNAUTE COMMUNES PAYS DE L ARBRESLE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8230119820848 </north>
+			<south> 45.8228249118725 </south>
+			<east> 4.60641391408951 </east>
+			<west> 4.60612161947943 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.60612161947943,45.8230119820848,0 4.6063825313836,45.82294270150571,0 4.60641391408951,45.82282588755301,0 4.60641285511366,45.8228249118725,0 4.60629101788746,45.8228303378017,0 4.60627325254716,45.8228351839597,0 4.60627962615462,45.82285499826791,0 4.60626921376604,45.8228601901715,0 4.60624157406134,45.82284887452101,0 4.60621753104867,45.82287704743969,0 4.60619013738191,45.8229051779439,0 4.60616538579265,45.8229222825983,0 4.60613666893283,45.82293593100449,0 4.60612161947943,45.8230119820848,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.4588">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69010000AT0155</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">L ARBRESLE</SimpleData>
+					<SimpleData name="Adresse">LES HAUTS MARTINETS</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">CCOM</SimpleData>
+					<SimpleData name="Denomination">COMMUNAUTE COMMUNES PAYS DE L ARBRESLE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8230716384278 </north>
+			<south> 45.8226427506333 </south>
+			<east> 4.60642809645638 </east>
+			<west> 4.60558996801105 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.60578929851911,45.8226990393551,0 4.6057863739282,45.82272249855119,0 4.60578314334732,45.82273101085649,0 4.60577757920513,45.8227390159388,0 4.60576979717506,45.8227460618142,0 4.60576030447679,45.82275187106659,0 4.60574935603,45.8227563500027,0 4.60573745905545,45.8227592212067,0 4.60572487109261,45.8227604810159,0 4.60558996801105,45.82276402042289,0 4.60560638744646,45.8230716384278,0 4.60609157860252,45.82301997504331,0 4.6061197010294,45.8230124597097,0 4.60612161947943,45.8230119820848,0 4.60613666893283,45.82293593100449,0 4.60616538579265,45.8229222825983,0 4.60619013738191,45.8229051779439,0 4.60621753104867,45.82287704743969,0 4.60624157406134,45.82284887452101,0 4.60626921376604,45.8228601901715,0 4.60627962615462,45.82285499826791,0 4.60627325254716,45.8228351839597,0 4.60629101788746,45.8228303378017,0 4.60641285511366,45.8228249118725,0 4.60641391408951,45.82282588755301,0 4.60642809645638,45.82277317630691,0 4.60638675754448,45.8227293609854,0 4.60628138464659,45.822733922219,0 4.60626874954538,45.8227335615404,0 4.60625619343759,45.8227314884498,0 4.6062447490977,45.8227277783247,0 4.6062383503354,45.82272480703899,0 4.60622560298995,45.8227161617207,0 4.60621881570544,45.8227086925737,0 4.60621733637144,45.8227065519901,0 4.60621016540155,45.8226991783678,0 4.60620235320772,45.82269190393351,0 4.6061942939565,45.8226849932838,0 4.60618507840523,45.822678189148,0 4.60617640150939,45.82267218795949,0 4.6061665683136,45.8226662932848,0 4.60615635929127,45.8226607642258,0 4.60614590321134,45.8226555989507,0 4.60613768597887,45.8226521131179,0 4.60613481900579,45.8226509830152,0 4.60612361651136,45.8226467290319,0 4.6061120355703,45.8226427506333,0 4.60578929851911,45.8226990393551,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.4620">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69010000AT0156</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">L ARBRESLE</SimpleData>
+					<SimpleData name="Adresse">LES HAUTS MARTINETS</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">CCOM</SimpleData>
+					<SimpleData name="Denomination">COMMUNAUTE COMMUNES PAYS DE L ARBRESLE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.82294270150571 </north>
+			<south> 45.82282588755301 </south>
+			<east> 4.60650755368495 </east>
+			<west> 4.6063825313836 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.60641391408951,45.82282588755301,0 4.6063825313836,45.82294270150571,0 4.60650755368495,45.8229094893048,0 4.60641391408951,45.82282588755301,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.4655">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69010000AT0157</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">L ARBRESLE</SimpleData>
+					<SimpleData name="Adresse">LES HAUTS MARTINETS</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">CCOM</SimpleData>
+					<SimpleData name="Denomination">COMMUNAUTE COMMUNES PAYS DE L ARBRESLE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8229094893048 </north>
+			<south> 45.82277317630691 </south>
+			<east> 4.60652767059177 </east>
+			<west> 4.60641391408951 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.60650755368495,45.8229094893048,0 4.60652767059177,45.8228792105522,0 4.60642809645638,45.82277317630691,0 4.60641391408951,45.82282588755301,0 4.60650755368495,45.8229094893048,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.4944">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69010000AS0164</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">L ARBRESLE</SimpleData>
+					<SimpleData name="Adresse">LES VERNAYS</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">CCOM</SimpleData>
+					<SimpleData name="Denomination">COMMUNAUTE COMMUNES PAYS DE L ARBRESLE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8307172462155 </north>
+			<south> 45.8300429012137 </south>
+			<east> 4.6151299890725 </east>
+			<west> 4.61418123594226 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.61445639310324,45.8300429012137,0 4.61418123594226,45.8301589688541,0 4.61435862150926,45.8303826840911,0 4.61445479158389,45.83034492193331,0 4.6151299890725,45.8307172462155,0 4.61507053260385,45.83031891527009,0 4.6149250376635,45.8301988636663,0 4.61481124458628,45.83010105573409,0 4.61475886966268,45.8300855923571,0 4.61445639310324,45.8300429012137,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.4946">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69010000AT0164</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">L ARBRESLE</SimpleData>
+					<SimpleData name="Adresse">1555, RUE CLAUDE TERRASSE</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">CCOM</SimpleData>
+					<SimpleData name="Denomination">COMMUNAUTE COMMUNES PAYS DE L ARBRESLE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.82539088712849 </north>
+			<south> 45.8251914580803 </south>
+			<east> 4.60875352670242 </east>
+			<west> 4.60837331442756 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.60837331442756,45.8251914580803,0 4.6083786516813,45.8251977768777,0 4.60838531341253,45.8252053377601,0 4.60839223531882,45.8252129850044,0 4.60839928600195,45.8252206304142,0 4.60840633406363,45.825228185793,0 4.60841325335227,45.82523574300559,0 4.60842042756934,45.82524320651899,0 4.60842760178835,45.825250670032,0 4.60843477338584,45.8252580435142,0 4.6084422051588,45.825265503358,0 4.60844950291175,45.8252727849746,0 4.60845706084026,45.82528015295279,0 4.60846448737219,45.8252874327343,0 4.60847204530471,45.8252948007116,0 4.6084797267673,45.8253019867933,0 4.60848728208029,45.8253092647391,0 4.60849508969848,45.8253163589551,0 4.60850303134099,45.8253236313973,0 4.60851071018804,45.8253307274465,0 4.60851864658747,45.8253378198267,0 4.60852695882016,45.8253445465818,0 4.6085355338526,45.8253514497288,0 4.6085609224867,45.8253738752466,0 4.60856535856746,45.82537579355019,0 4.60856679870882,45.82537658364689,0 4.60856823622654,45.8253772837131,0 4.60856980251959,45.825377981945,0 4.60857124003738,45.8253786820111,0 4.60857280633051,45.825379380243,0 4.60857436999999,45.8253799884444,0 4.6085759362932,45.8253806866762,0 4.60857749996275,45.8253812948776,0 4.60857919240764,45.8253819012446,0 4.60858075082985,45.8253823293851,0 4.60858244327481,45.82538293575211,0 4.60858400432078,45.8253834539229,0 4.60858569676581,45.8253840602898,0 4.60858738658716,45.82538457662629,0 4.60858894500951,45.82538500476669,0 4.60859063483091,45.8253855211031,0 4.60859232202863,45.8253859474091,0 4.60859400922638,45.8253863737151,0 4.60859582257574,45.82538670815631,0 4.60859750977353,45.8253871344622,0 4.60859919697135,45.8253875607681,0 4.60860088154546,45.8253878970435,0 4.60860269489491,45.8253882314846,0 4.60860437946906,45.82538856775999,0 4.60860619281856,45.825388902201,0 4.608607874769,45.82538914844589,0 4.60860968287103,45.8253893028261,0 4.60861149359683,45.8253895472366,0 4.60861330432264,45.8253897916471,0 4.60861498627315,45.8253900378919,0 4.60861679437523,45.82539019227189,0 4.60861860247732,45.8253903466519,0 4.60862041057942,45.8253905010318,0 4.60862221868153,45.8253906554118,0 4.6086240215361,45.8253906297308,0 4.60862582701445,45.8253906940803,0 4.6086276324928,45.82539075842971,0 4.60862943797115,45.8253908227791,0 4.60863124344952,45.82539088712849,0 4.60863304630409,45.82539086144741,0 4.60863484915866,45.8253908357662,0 4.60863665201323,45.8253908100851,0 4.6086384548678,45.82539078440391,0 4.60864025247477,45.8253905786619,0 4.60864205532933,45.82539055298071,0 4.60864385556008,45.82539043726901,0 4.60864552439169,45.82539023336119,0 4.60864732462242,45.82539011764939,0 4.60864912222933,45.8253899119073,0 4.60865091983623,45.8253897061651,0 4.60865271744311,45.8253895004228,0 4.60865451242616,45.8253892046501,0 4.60865617863386,45.8253889107118,0 4.6086579762407,45.8253887049694,0 4.60865977122369,45.82538840919669,0 4.60866156358283,45.82538802339341,0 4.60866322979046,45.825387729455,0 4.60866502214955,45.82538734365171,0 4.60866668835714,45.8253870497132,0 4.60866847546849,45.825386483849,0 4.60867013905219,45.8253860998801,0 4.60867180263587,45.8253857159111,0 4.60867359237098,45.82538524007721,0 4.60867525333074,45.82538476607781,0 4.60867691429048,45.8253842920783,0 4.60867857525019,45.8253838180788,0 4.60868023358601,45.82538325404891,0 4.60868189192179,45.82538269001891,0 4.60868341885836,45.8253820377929,0 4.60868507719407,45.82538147376291,0 4.60868660675445,45.82538091156719,0 4.60868813369092,45.8253802593412,0 4.60868966325123,45.82537969714551,0 4.60869119018762,45.8253790449194,0 4.60869271712398,45.8253783926933,0 4.60869424143642,45.8253776504367,0 4.60869576837271,45.8253769982106,0 4.60869729268506,45.82537625595391,0 4.60875352670242,45.8253475338537,0 4.60868513460277,45.8252773545705,0 4.60867643037576,45.8252792799194,0 4.60866746335032,45.8252810288756,0 4.60865849107666,45.8252825977702,0 4.60864938477979,45.8252839884377,0 4.60864027323487,45.8252851990435,0 4.60863102504312,45.8252861413918,0 4.60862190300237,45.82528699187449,0 4.60861264693876,45.82528766413,0 4.60860374833907,45.82528734054709,0 4.60859508629988,45.8252862930515,0 4.60858652942272,45.825284433447,0 4.60857846665688,45.8252818462614,0 4.6085708980026,45.8252785314946,0 4.60856487202626,45.8252751046855,0 4.60855846497285,45.8252718634397,0 4.60855193439245,45.82526880408859,0 4.60854515413362,45.825266018497,0 4.60853812157266,45.82526341663431,0 4.6085310942596,45.82526099483209,0 4.60852381726794,45.82525884678919,0 4.60851654552402,45.8252568788066,0 4.60850915287635,45.8252551827491,0 4.60850150792625,45.82525367042039,0 4.60849387084724,45.82525242818241,0 4.6084861128642,45.8252514578694,0 4.60847823397702,45.8252507594813,0 4.6084707492856,45.8252503256814,0 4.60846139615668,45.8252476667988,0 4.60845279993768,45.8252444567278,0 4.60844470307876,45.8252406991371,0 4.60843710558006,45.8252363940267,0 4.6084301388401,45.82523162959289,0 4.60837331442756,45.8251914580803,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.5105">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69010000AM0168</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">L ARBRESLE</SimpleData>
+					<SimpleData name="Adresse">LE GROSLIER</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SOCIETE NATIONALE SNCF</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8367861816643 </north>
+			<south> 45.8350489601386 </south>
+			<east> 4.60867052821585 </east>
+			<west> 4.60151115899867 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.60820034214188,45.8350489601386,0 4.60790166802018,45.83522154910969,0 4.60752164476522,45.83545906308031,0 4.60749266381948,45.8354771288295,0 4.60713757763025,45.835633045406,0 4.60677469522618,45.8356982834183,0 4.60656622734744,45.83560145370279,0 4.60641006086458,45.8356192565938,0 4.60637318318029,45.8356980499716,0 4.6061767762605,45.8357676733894,0 4.6060240437077,45.8358237957755,0 4.60587095365614,45.8358499304683,0 4.60505236811553,45.8359967574526,0 4.60409359013472,45.8360683814662,0 4.60312029311441,45.8361326376915,0 4.60270222753102,45.83620585112979,0 4.6023003172472,45.8363207153026,0 4.60209854947051,45.8363213256661,0 4.60203859244979,45.836346584421,0 4.60180501325002,45.83637880886469,0 4.60154559379669,45.8363864504726,0 4.60151115899867,45.8364475542592,0 4.60153164970635,45.8364876140379,0 4.60165644129421,45.83668948755239,0 4.60169565138127,45.8367396396442,0 4.60170810107992,45.83675126196729,0 4.60172367785463,45.8367685142087,0 4.60176078550155,45.8367861816643,0 4.60189263635587,45.8367251373627,0 4.60214170765408,45.8366273038794,0 4.60239570389686,45.8365304807787,0 4.60261664092406,45.8364578139646,0 4.60274468991071,45.8364256442491,0 4.60283283189254,45.8364080912537,0 4.60292012907343,45.8363969449839,0 4.60300208717852,45.8363883062463,0 4.60347170964454,45.8363421907355,0 4.60376420873525,45.8363200244493,0 4.6040945681114,45.83631037954861,0 4.60458144452681,45.83631706426111,0 4.60509437175281,45.836311217538,0 4.60530304018817,45.8363041990055,0 4.60560462467173,45.8362887439647,0 4.60592606916803,45.8362605763986,0 4.60624403429899,45.836219127362,0 4.60667603109944,45.836093463272,0 4.60729613485569,45.8359229691447,0 4.60758664546274,45.83586362320181,0 4.60787137438746,45.8358181391817,0 4.6078937543235,45.83581232645891,0 4.6080066163847,45.8357764939906,0 4.60867052821585,45.8355973524919,0 4.60820034214188,45.8350489601386,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.5696">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69010000AS0180</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">L ARBRESLE</SimpleData>
+					<SimpleData name="Adresse">LES VERNAYS</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">CCOM</SimpleData>
+					<SimpleData name="Denomination">COMMUNAUTE COMMUNES PAYS DE L ARBRESLE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.831108780734 </north>
+			<south> 45.8306798051023 </south>
+			<east> 4.61507434899247 </east>
+			<west> 4.61460081708338 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.61460081708338,45.8307297663265,0 4.61465332926312,45.8307454980267,0 4.61488083999966,45.8310353262984,0 4.61480181857516,45.831108780734,0 4.61507434899247,45.831004097754,0 4.61501463426361,45.8308258965678,0 4.61483393633789,45.830735710373,0 4.61471866257432,45.8306798051023,0 4.61460081708338,45.8307297663265,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.5737">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69010000AS0181</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">L ARBRESLE</SimpleData>
+					<SimpleData name="Adresse">LES VERNAYS</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">CCOM</SimpleData>
+					<SimpleData name="Denomination">COMMUNAUTE COMMUNES PAYS DE L ARBRESLE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.83132892571 </north>
+			<south> 45.83034492193331 </south>
+			<east> 4.61519445400119 </east>
+			<west> 4.61428984292269 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.61428984292269,45.8304098769707,0 4.61452113813941,45.83070586651201,0 4.61459886683321,45.8307291637319,0 4.61460081708338,45.8307297663265,0 4.61471866257432,45.8306798051023,0 4.61483393633789,45.830735710373,0 4.61501463426361,45.8308258965678,0 4.61507434899247,45.831004097754,0 4.61480181857516,45.831108780734,0 4.61460890300903,45.8311823322585,0 4.61464390752617,45.831229387704,0 4.61464314532916,45.8312297588725,0 4.6146422543434,45.8312301318822,0 4.61464149214637,45.8312305030507,0 4.61464072994933,45.8312308742192,0 4.61463996511842,45.8312311553573,0 4.61463920555523,45.8312316165561,0 4.6146383145694,45.83123198956579,0 4.61463755237233,45.8312323607343,0 4.61463679017524,45.83123273190269,0 4.61463602797814,45.83123310307119,0 4.61463526841488,45.83123356427,0 4.61463450621776,45.8312339354384,0 4.61463400159815,45.8312343029244,0 4.61463324203486,45.8312347641232,0 4.61463248247156,45.8312352253219,0 4.61463172290825,45.8312356865206,0 4.61463109213369,45.8312361458781,0 4.61463033257036,45.8312366070769,0 4.61462957300701,45.8312370682756,0 4.61462894223241,45.8312375276331,0 4.61462831145781,45.8312379869906,0 4.61462755189442,45.8312384481893,0 4.61462692111979,45.83123890754679,0 4.61462629034516,45.8312393669042,0 4.61462553078174,45.83123982810291,0 4.61462490000708,45.83124028746041,0 4.61462427186625,45.8312408368482,0 4.61462364109157,45.8312412962057,0 4.61462301031688,45.8312417555632,0 4.61462238217601,45.83124230495091,0 4.6146217514013,45.83124276430841,0 4.6146211232604,45.8312433136961,0 4.61462062390828,45.8312438612427,0 4.61461999313354,45.8312443206002,0 4.6146194937814,45.8312448681467,0 4.61461899442924,45.8312454156933,0 4.6146183662883,45.831245965081,0 4.6146178643023,45.8312464225973,0 4.61461723879516,45.83124706201541,0 4.61461673944296,45.8312476095619,0 4.61461624009076,45.8312481571085,0 4.61461574073855,45.831248704655,0 4.61461511523135,45.831249344073,0 4.61461461587912,45.83124989161949,0 4.61461411652687,45.83125043916609,0 4.61461374596342,45.8312509848715,0 4.61461324661115,45.831251532418,0 4.6146127498927,45.83125216999479,0 4.61461225054042,45.83125271754129,0 4.61461188261075,45.831253353277,0 4.61461138325845,45.8312539008235,0 4.61461088390613,45.83125444836999,0 4.61461051597644,45.8312550841057,0 4.61461027683554,45.8312557180002,0 4.6146097774832,45.8312562655467,0 4.61460940955348,45.83125690128231,0 4.61460903898993,45.8312574469877,0 4.6146086710602,45.8312580827233,0 4.61460830313045,45.8312587184589,0 4.6146079352007,45.8312593541946,0 4.61460756463712,45.8312598998999,0 4.61460719670735,45.8312605356355,0 4.61460695756639,45.83126116953,0 4.6146065896366,45.8312618052656,0 4.61460622170681,45.8312624410012,0 4.61460598256583,45.83126307489571,0 4.61460574342485,45.83126370879009,0 4.61460537549503,45.8312643445258,0 4.61460513635404,45.8312649784202,0 4.61460502600187,45.8312656104735,0 4.61460478686087,45.831266244368,0 4.61460454771986,45.8312668782624,0 4.61460430857884,45.83126751215679,0 4.61460406943782,45.8312681460513,0 4.6146038302968,45.8312687799457,0 4.61460359115576,45.8312694138402,0 4.61460348343738,45.8312701359237,0 4.61460324693014,45.8312708598485,0 4.61460313657794,45.83127149190179,0 4.61460289743689,45.8312721257962,0 4.61460278971849,45.8312728478798,0 4.61460267936628,45.8312734799331,0 4.61460244022522,45.8312741138275,0 4.614602329873,45.8312747458808,0 4.61460222215459,45.83127546796441,0 4.61460224059122,45.8312760981765,0 4.614602130239,45.8312767302297,0 4.61460215130944,45.83127745047219,0 4.61460204095722,45.83127808252541,0 4.61460227326731,45.8312948318436,0 4.6146052033152,45.83132892571,0 4.61477552783184,45.8312406558496,0 4.61501386729668,45.8311034969945,0 4.615037881633,45.83109198516599,0 4.61519445400119,45.8310137287171,0 4.61517636255041,45.8309678726493,0 4.61513091987617,45.830722636982,0 4.6151299890725,45.8307172462155,0 4.61445479158389,45.83034492193331,0 4.61435862150926,45.8303826840911,0 4.61428984292269,45.8304098769707,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.6052">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69010000AM0019</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">L ARBRESLE</SimpleData>
+					<SimpleData name="Adresse">LE GROSLIER</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SOCIETE NATIONALE SNCF</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8358499304683 </north>
+			<south> 45.8356192565938 </south>
+			<east> 4.60641006086458 </east>
+			<west> 4.60587095365614 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.60641006086458,45.8356192565938,0 4.60614754429484,45.8356797325903,0 4.60592755550024,45.8357581572735,0 4.60587095365614,45.8358499304683,0 4.6060240437077,45.8358237957755,0 4.6061767762605,45.8357676733894,0 4.60637318318029,45.8356980499716,0 4.60641006086458,45.8356192565938,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.6351">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69010000AR0197</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">L ARBRESLE</SimpleData>
+					<SimpleData name="Adresse">COLLONGE</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SOCIETE NATIONALE SNCF</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.83354830835089 </north>
+			<south> 45.8329322891172 </south>
+			<east> 4.6136016453045 </east>
+			<west> 4.61247753846296 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.6127316153,45.83354830835089,0 4.6131518031475,45.8333328097589,0 4.61315408985569,45.8333316962835,0 4.61325982755909,45.8332772260742,0 4.613369476231,45.8332243211191,0 4.61343459746573,45.83319970300219,0 4.6136016453045,45.83314012342731,0 4.61356388353359,45.8331001323415,0 4.613552175967,45.8330875099529,0 4.61349530181558,45.8330196006256,0 4.61342214131431,45.8329322891172,0 4.61315565784175,45.83306795500359,0 4.6128701838838,45.8331578667264,0 4.61247753846296,45.833314967328,0 4.6127316153,45.83354830835089,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.8498">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69010000AD0026</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">L ARBRESLE</SimpleData>
+					<SimpleData name="Adresse">AU GD MOULIN</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">CCOM</SimpleData>
+					<SimpleData name="Denomination">COMMUNAUTE COMMUNES PAYS DE L ARBRESLE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.839520984374 </north>
+			<south> 45.8385156022379 </south>
+			<east> 4.60575128786461 </east>
+			<west> 4.60372955569259 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.60435123198315,45.8388673598357,0 4.60438264629209,45.8389417599338,0 4.60372955569259,45.8391181999482,0 4.6040301485434,45.8394892440414,0 4.60405929184592,45.839520984374,0 4.6040971050987,45.83950963927099,0 4.604237616575,45.8394671133154,0 4.60434710957275,45.8394391683802,0 4.6043888048584,45.8394106551706,0 4.60442877106007,45.8393980184267,0 4.604602383046,45.8393549317822,0 4.60471407793928,45.8393318188651,0 4.60475543629423,45.8393271782558,0 4.60513099165831,45.8391916942991,0 4.60554124502842,45.8390486005301,0 4.60575128786461,45.8389644637696,0 4.60571966688395,45.8389140249899,0 4.60546994176178,45.8385156022379,0 4.60532071769193,45.8385508680402,0 4.60533460186985,45.83858075334909,0 4.60500237031879,45.838685990172,0 4.60483709338997,45.8387320213469,0 4.60435123198315,45.8388673598357,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.9329">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69010000AH0288</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">L ARBRESLE</SimpleData>
+					<SimpleData name="Adresse">47, RUE LOUIS FOUCRE</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">HOSP</SimpleData>
+					<SimpleData name="Denomination">CENTRE HOSPITALIER SPECIALISE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8418964357426 </north>
+			<south> 45.8413941667525 </south>
+			<east> 4.61460230471914 </east>
+			<west> 4.61395662724927 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.61423579356046,45.8413941667525,0 4.61395662724927,45.84170555771351,0 4.61395952170492,45.8417075879218,0 4.61396254760726,45.8417097063199,0 4.6139653132501,45.8417117383685,0 4.61396782653321,45.8417139541586,0 4.6139703424498,45.841716259979,0 4.61397272955335,45.8417185676398,0 4.61397524810363,45.8417209634904,0 4.61397738284764,45.84172345489269,0 4.61397951759185,45.841725946295,0 4.6139813947097,45.8417284413781,0 4.6139834032743,45.8417310246511,0 4.61398502539924,45.8417336134455,0 4.61398665015763,45.8417362922701,0 4.61398814610288,45.84173897293531,0 4.61398951586828,45.8417417454712,0 4.61399075682051,45.84174451984759,0 4.61399174014625,45.8417472979049,0 4.61399285228539,45.8417500741217,0 4.61399358061799,45.8417529458903,0 4.61399430895066,45.84175581765891,0 4.61399477965672,45.8417586931084,0 4.61435834885419,45.8418964357426,0 4.61459933438764,45.8415706382214,0 4.61460230471914,45.8415664526382,0 4.61423579356046,45.8413941667525,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.10560">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69010000AL0332</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">L ARBRESLE</SimpleData>
+					<SimpleData name="Adresse">5, PL DE LA GARE</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">SA</SimpleData>
+					<SimpleData name="Denomination">SOCIETE NATIONALE SNCF</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.8358163704218 </north>
+			<south> 45.8327563524219 </south>
+			<east> 4.62146353709071 </east>
+			<west> 4.61678787206198 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.61687757409945,45.83285396297619,0 4.61703335026164,45.83288037443939,0 4.61730859094139,45.8329295735723,0 4.61740307374259,45.8329660491484,0 4.61745522260303,45.8330440217971,0 4.61750333480942,45.8331029578125,0 4.61756254758304,45.83316695877539,0 4.61768617864166,45.8332791241513,0 4.617761960283,45.83333252987781,0 4.61784334776438,45.8333793703581,0 4.61792277391177,45.83342083479549,0 4.61800238386143,45.8334597746407,0 4.61808345653135,45.83348707469881,0 4.61813077888449,45.8335058514317,0 4.61828504796327,45.8335466936832,0 4.61835935854269,45.8335586887984,0 4.61845938784082,45.8334239547481,0 4.61864049357938,45.8334660331764,0 4.61877056226904,45.8335032585928,0 4.61880610433358,45.8334850057774,0 4.6188589313459,45.8335069457622,0 4.61886491010752,45.83349992482691,0 4.61895240632051,45.8335397417267,0 4.61898059197138,45.8335825703804,0 4.61901657772478,45.8335794425731,0 4.61903949111075,45.8335874904478,0 4.61904326575712,45.8335887873601,0 4.6191712615075,45.83366513157941,0 4.61926647522007,45.83372204060691,0 4.61930359235983,45.83374429568471,0 4.61944757519466,45.83383851407609,0 4.61952481171889,45.83390189535231,0 4.61958765837454,45.8339535038684,0 4.61979540430094,45.8341524573455,0 4.61984657269613,45.8342012609594,0 4.619936359688,45.8342883300158,0 4.62010584420286,45.8344654948295,0 4.62022827417799,45.8345935267563,0 4.62033710223213,45.8347059017072,0 4.62038698173828,45.8347590468504,0 4.62043745465778,45.8348236221082,0 4.6204953462207,45.83487755294021,0 4.62051461999362,45.8349020451399,0 4.62053362297101,45.8349260908814,0 4.62070524237772,45.83514510589409,0 4.62076229869232,45.8352144502299,0 4.62073356582712,45.83522765220201,0 4.62070152650572,45.8352423427008,0 4.62078685288689,45.835388019404,0 4.62087808507658,45.8354978542581,0 4.62109528090224,45.8358163704218,0 4.62112815671922,45.8358038294433,0 4.62130946219216,45.83573394619349,0 4.62141005774295,45.8356229793313,0 4.62146353709071,45.8355880757917,0 4.62132634668319,45.8353086723571,0 4.62107576615878,45.8349283086723,0 4.62114881006341,45.8348400743545,0 4.62117157592004,45.8348123668841,0 4.62097942169064,45.8346970454737,0 4.62094453166624,45.8346716966492,0 4.62090588542109,45.8346456811751,0 4.62089267326249,45.83460822231201,0 4.62076063984036,45.83452617355629,0 4.62069329112353,45.8344880504153,0 4.62057902189138,45.83442294956059,0 4.62043250271411,45.8343346233751,0 4.62030557103726,45.8342595262244,0 4.62016989411702,45.8341805913876,0 4.62007169260389,45.83412291533949,0 4.61999318584171,45.8340777463962,0 4.61987504650511,45.8340124301591,0 4.61979288291376,45.83396118889801,0 4.61968855878197,45.833892431893,0 4.61951949017338,45.8337864143166,0 4.61946965463653,45.8337522725497,0 4.6194206341962,45.83371956016389,0 4.61937111448687,45.8336873953245,0 4.61924616720419,45.8336095665334,0 4.61910031477737,45.83352185960119,0 4.619037008583,45.8334852987822,0 4.61898552368484,45.83345640440099,0 4.61894137541593,45.83343163803359,0 4.61887852975597,45.8333975924332,0 4.61884895760081,45.8333821643195,0 4.61880462052514,45.8333597423761,0 4.6187578622154,45.8333338424636,0 4.61871537321451,45.833312925156,0 4.61867470847813,45.83329270223269,0 4.61862493317822,45.8332693674106,0 4.61858193966559,45.8332488175568,0 4.61854406417474,45.8332314367935,0 4.61849496463445,45.8332091730484,0 4.61844202509956,45.8331877749204,0 4.61837537488224,45.8331601783977,0 4.61830221644012,45.8331303333196,0 4.61826496980503,45.8331168163807,0 4.61820578503025,45.8330933459933,0 4.61810680164817,45.83305720576,0 4.61806809879561,45.8330423585996,0 4.61799463137948,45.8330195430604,0 4.61790398390892,45.8329908489508,0 4.6178091154043,45.8329632059803,0 4.61770811457276,45.8329329487248,0 4.61761594086285,45.8329093200584,0 4.61754726866243,45.8328918396365,0 4.61746801705135,45.8328738802056,0 4.61737759171995,45.83285274821371,0 4.61729181665808,45.8328364132342,0 4.61721992004237,45.8328232119848,0 4.61711796425245,45.8328043164541,0 4.61696831008286,45.8327801592324,0 4.61678787206198,45.8327563524219,0 4.61687757409945,45.83285396297619,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+				<innerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.61793190702761,45.83330604735301,0 4.61780763716689,45.8332863912589,0 4.61780396444883,45.833279778832,0 4.61778383943919,45.8332657462811,0 4.61772980437223,45.8332245485475,0 4.61768714064723,45.8331888622056,0 4.61762748743953,45.8331362161853,0 4.61758343250139,45.8330926237452,0 4.61753506891432,45.83304269816569,0 4.61752360962035,45.8330253890829,0 4.6175067833933,45.8329876213508,0 4.61752571642944,45.8329917635364,0 4.61800617299916,45.8331715026351,0 4.61797168027611,45.8332167605768,0 4.61799447512361,45.83322517062939,0 4.61796978224209,45.8332574985199,0 4.61793190702761,45.83330604735301,0 
+						</coordinates>
+					</LinearRing>
+				</innerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="parcelles-des-personnes-morales_69_groupe_personne_9.13444">
+		<styleUrl>#PUBLICorASSOCIE</styleUrl>			<ExtendedData>
+				<SchemaData schemaUrl="#parcelles-des-personnes-morales_69_groupe_personne_9.schema">
+					<SimpleData name="Numero de Parcelle">69010000AS0005</SimpleData>
+					<SimpleData name="Departement">69</SimpleData>
+					<SimpleData name="Commune">L ARBRESLE</SimpleData>
+					<SimpleData name="Adresse">117, RUE PIERRE PASSEMARD</SimpleData>
+					<SimpleData name="Groupe de personne">Etablissements publics ou organismes associes</SimpleData>
+					<SimpleData name="Forme Juridique Abregee">CCOM</SimpleData>
+					<SimpleData name="Denomination">COMMUNAUTE COMMUNES PAYS DE L ARBRESLE</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+	<Region>
+		<LatLonAltBox>
+			<north> 45.82834210938119 </north>
+			<south> 45.8277003505876 </south>
+			<east> 4.61087922542477 </east>
+			<west> 4.61005071747431 </west>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>100</minLodPixels>
+			<maxLodPixels>-1</maxLodPixels>
+		</Lod>
+	</Region>
+			<Polygon><altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>							4.61085370552328,45.82812023702431,0 4.61087922542477,45.82810294025721,0 4.61057515082501,45.8277003505876,0 4.61005071747431,45.8279052571678,0 4.61035231042035,45.82834210938119,0 4.61071183455212,45.8282165615766,0 4.61085370552328,45.82812023702431,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Document></Document></kml>
